@@ -1,0 +1,138 @@
+---
+import Layout from '../layouts/Layout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const mapsDir = path.join(process.cwd(), 'public', 'maps');
+const files = fs.readdirSync(mapsDir).filter((f: string) => f.endsWith('.json'));
+
+interface DistroEntry {
+  slug: string;
+  name: string;
+  totalMappings: number;
+  generatedAt: string;
+  fileSize: string;
+}
+
+const distros: DistroEntry[] = files.map((file: string) => {
+  const filePath = path.join(mapsDir, file);
+  const raw = fs.readFileSync(filePath, 'utf-8');
+  const data = JSON.parse(raw);
+  const stats = fs.statSync(filePath);
+  const slug = file.replace('.json', '');
+
+  const sizeKb = (stats.size / 1024).toFixed(1);
+  const fileSize = stats.size >= 1048576
+    ? `${(stats.size / 1048576).toFixed(1)} MB`
+    : `${sizeKb} KB`;
+
+  return {
+    slug,
+    name: slug.replace(/_/g, ' '),
+    totalMappings: data.metadata?.total_mappings ?? Object.keys(data.mappings ?? {}).length,
+    generatedAt: data.metadata?.generated_at ?? 'unknown',
+    fileSize,
+  };
+}).sort((a: DistroEntry, b: DistroEntry) => b.totalMappings - a.totalMappings);
+
+const base = import.meta.env.BASE_URL;
+const totalDistros = distros.length;
+const totalMappings = distros.reduce((sum: number, d: DistroEntry) => sum + d.totalMappings, 0);
+---
+
+<Layout title="RepoSources - Package Name Mappings">
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold text-text mb-2">Package Name Mappings</h1>
+    <p class="text-text-muted mb-4">
+      Linux package name to Homebrew formula mappings, generated from
+      <a href="https://repology.org" class="text-primary hover:underline" target="_blank" rel="noopener">Repology</a> data.
+    </p>
+    <div class="flex gap-6 text-sm">
+      <span class="text-text-muted">
+        <span class="font-semibold text-text">{totalDistros}</span> distributions
+      </span>
+      <span class="text-text-muted">
+        <span class="font-semibold text-text">{totalMappings.toLocaleString()}</span> total mappings
+      </span>
+    </div>
+  </div>
+
+  <div class="mb-4">
+    <input
+      type="text"
+      id="distro-search"
+      placeholder="Filter distributions..."
+      class="w-full sm:w-80 px-4 py-2 rounded-lg bg-surface-alt border border-border text-text placeholder-text-muted focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+    />
+  </div>
+
+  <div class="overflow-x-auto rounded-lg border border-border">
+    <table class="w-full text-left">
+      <thead>
+        <tr class="bg-surface-alt border-b border-border text-text-muted text-sm uppercase tracking-wider">
+          <th class="px-4 py-3 font-medium">Distribution</th>
+          <th class="px-4 py-3 font-medium text-right">Mappings</th>
+          <th class="px-4 py-3 font-medium text-right hidden sm:table-cell">File Size</th>
+          <th class="px-4 py-3 font-medium text-right hidden md:table-cell">Generated</th>
+          <th class="px-4 py-3 font-medium text-right">Links</th>
+        </tr>
+      </thead>
+      <tbody id="distro-table-body">
+        {distros.map((d) => (
+          <tr class="distro-row border-b border-border hover:bg-surface-hover transition-colors" data-name={d.slug}>
+            <td class="px-4 py-3">
+              <a href={`${base}${d.slug}/`} class="text-primary hover:underline font-medium capitalize">
+                {d.name}
+              </a>
+            </td>
+            <td class="px-4 py-3 text-right tabular-nums">
+              {d.totalMappings > 0 ? d.totalMappings.toLocaleString() : (
+                <span class="text-text-muted">0</span>
+              )}
+            </td>
+            <td class="px-4 py-3 text-right text-text-muted text-sm hidden sm:table-cell">{d.fileSize}</td>
+            <td class="px-4 py-3 text-right text-text-muted text-sm hidden md:table-cell">
+              {d.generatedAt !== 'unknown' ? new Date(d.generatedAt).toLocaleDateString() : 'unknown'}
+            </td>
+            <td class="px-4 py-3 text-right">
+              <a
+                href={`${base}maps/${d.slug}.json`}
+                class="text-xs px-2 py-1 rounded bg-surface-alt border border-border text-text-muted hover:text-primary hover:border-primary transition-colors"
+                target="_blank"
+                rel="noopener"
+              >
+                JSON
+              </a>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <p id="no-results" class="hidden text-center text-text-muted py-8">
+    No distributions match your filter.
+  </p>
+
+  <script>
+    const input = document.getElementById('distro-search') as HTMLInputElement;
+    const rows = document.querySelectorAll('.distro-row');
+    const noResults = document.getElementById('no-results');
+
+    input?.addEventListener('input', () => {
+      const query = input.value.toLowerCase().trim();
+      let visible = 0;
+
+      rows.forEach((row) => {
+        const name = (row as HTMLElement).dataset.name ?? '';
+        const match = name.includes(query);
+        (row as HTMLElement).style.display = match ? '' : 'none';
+        if (match) visible++;
+      });
+
+      if (noResults) {
+        noResults.classList.toggle('hidden', visible > 0);
+      }
+    });
+  </script>
+</Layout>

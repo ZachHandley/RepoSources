@@ -1,0 +1,43 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Cross-platform package name mappings from Repology' } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<!doctype html>
+<html lang="en" class="bg-surface text-text">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <header class="border-b border-border bg-surface-alt">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
+        <a href={base} class="text-xl font-bold text-primary hover:text-primary-dim transition-colors">
+          RepoSources
+        </a>
+        <span class="text-sm text-text-muted">Package name mappings from Repology</span>
+      </div>
+    </header>
+
+    <main class="flex-1 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+      <slot />
+    </main>
+
+    <footer class="border-t border-border bg-surface-alt">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-center text-sm text-text-muted">
+        Data sourced from <a href="https://repology.org" class="text-primary hover:underline" target="_blank" rel="noopener">Repology</a>.
+        Updated weekly.
+      </div>
+    </footer>
+  </body>
+</html>

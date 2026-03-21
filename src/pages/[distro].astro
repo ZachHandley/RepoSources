@@ -1,0 +1,137 @@
+---
+import Layout from '../layouts/Layout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+export function getStaticPaths() {
+  const mapsDir = path.join(process.cwd(), 'public', 'maps');
+  const files = fs.readdirSync(mapsDir).filter((f: string) => f.endsWith('.json'));
+
+  return files.map((file: string) => {
+    const distro = file.replace('.json', '');
+    const data = JSON.parse(fs.readFileSync(path.join(mapsDir, file), 'utf-8'));
+    return {
+      params: { distro },
+      props: { data, distro },
+    };
+  });
+}
+
+interface MappingData {
+  metadata: {
+    generated_at: string;
+    source: string;
+    distro: string;
+    total_mappings: number;
+  };
+  mappings: Record<string, string>;
+}
+
+const { data, distro } = Astro.props as { data: MappingData; distro: string };
+const displayName = distro.replace(/_/g, ' ');
+const mappingEntries = Object.entries(data.mappings ?? {});
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title={`${displayName} - RepoSources`} description={`${mappingEntries.length} package name mappings for ${displayName}`}>
+  <div class="mb-6">
+    <a href={base} class="text-sm text-text-muted hover:text-primary transition-colors">
+      &larr; All distributions
+    </a>
+  </div>
+
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold text-text capitalize mb-2">{displayName}</h1>
+    <div class="flex flex-wrap gap-x-6 gap-y-1 text-sm text-text-muted">
+      <span>
+        <span class="font-semibold text-text">{mappingEntries.length.toLocaleString()}</span> mappings
+      </span>
+      {data.metadata?.generated_at && (
+        <span>
+          Generated <span class="font-semibold text-text">{new Date(data.metadata.generated_at).toLocaleDateString()}</span>
+        </span>
+      )}
+      <a
+        href={`${base}maps/${distro}.json`}
+        class="text-primary hover:underline"
+        target="_blank"
+        rel="noopener"
+      >
+        Raw JSON
+      </a>
+    </div>
+  </div>
+
+  {mappingEntries.length === 0 ? (
+    <div class="text-center py-16 text-text-muted">
+      <p class="text-lg mb-2">No mappings available for this distribution.</p>
+      <p class="text-sm">This may be a meta-distribution or have no matching Homebrew packages.</p>
+    </div>
+  ) : (
+    <>
+      <div class="mb-4">
+        <input
+          type="text"
+          id="mapping-search"
+          placeholder="Search packages..."
+          class="w-full sm:w-96 px-4 py-2 rounded-lg bg-surface-alt border border-border text-text placeholder-text-muted focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+        />
+        <p class="mt-2 text-xs text-text-muted">
+          Search by Linux package name or Homebrew formula name.
+          Showing <span id="visible-count">{mappingEntries.length.toLocaleString()}</span> of {mappingEntries.length.toLocaleString()} mappings.
+        </p>
+      </div>
+
+      <div class="overflow-x-auto rounded-lg border border-border">
+        <table class="w-full text-left">
+          <thead>
+            <tr class="bg-surface-alt border-b border-border text-text-muted text-sm uppercase tracking-wider">
+              <th class="px-4 py-3 font-medium">Linux Package</th>
+              <th class="px-4 py-3 font-medium">Homebrew Formula</th>
+            </tr>
+          </thead>
+          <tbody id="mapping-table-body">
+            {mappingEntries.map(([linux, brew]) => (
+              <tr class="mapping-row border-b border-border hover:bg-surface-hover transition-colors" data-linux={linux} data-brew={brew}>
+                <td class="px-4 py-2.5 font-mono text-sm">{linux}</td>
+                <td class="px-4 py-2.5 font-mono text-sm text-primary">{brew}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <p id="no-results" class="hidden text-center text-text-muted py-8">
+        No packages match your search.
+      </p>
+    </>
+  )}
+
+  <script>
+    const input = document.getElementById('mapping-search') as HTMLInputElement;
+    const rows = document.querySelectorAll('.mapping-row');
+    const noResults = document.getElementById('no-results');
+    const visibleCount = document.getElementById('visible-count');
+
+    input?.addEventListener('input', () => {
+      const query = input.value.toLowerCase().trim();
+      let count = 0;
+
+      rows.forEach((row) => {
+        const el = row as HTMLElement;
+        const linux = el.dataset.linux ?? '';
+        const brew = el.dataset.brew ?? '';
+        const match = linux.includes(query) || brew.includes(query);
+        el.style.display = match ? '' : 'none';
+        if (match) count++;
+      });
+
+      if (visibleCount) {
+        visibleCount.textContent = count.toLocaleString();
+      }
+      if (noResults) {
+        noResults.classList.toggle('hidden', count > 0);
+      }
+    });
+  </script>
+</Layout>
