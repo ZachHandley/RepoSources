@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:50Z",
+    "source": "repology-dump",
+    "distro": "postmarketos_23.12",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "g++-x86_64": "aarch64-elf-gcc",
+    "gcc-x86_64": "aarch64-elf-gcc",
+    "gtk+3.0": "gtk+",
+    "gtk+3.0-dbg": "gtk+",
+    "gtk+3.0-demo": "gtk+",
+    "gtk+3.0-dev": "gtk+",
+    "gtk+3.0-lang": "gtk+",
+    "gtk4.0": "gtk+",
+    "gtk4.0-dbg": "gtk+",
+    "gtk4.0-demo": "gtk+",
+    "gtk4.0-dev": "gtk+",
+    "gtk4.0-doc": "gtk+",
+    "gtk4.0-lang": "gtk+",
+    "libpulse": "pulseaudio",
+    "libpulse-mainloop-glib": "pulseaudio",
+    "libstdc++-dev-x86_64": "aarch64-elf-gcc",
+    "pulseaudio": "pulseaudio",
+    "pulseaudio-alsa": "pulseaudio",
+    "pulseaudio-bash-completion": "pulseaudio",
+    "pulseaudio-bluez": "pulseaudio",
+    "pulseaudio-dev": "pulseaudio",
+    "pulseaudio-doc": "pulseaudio",
+    "pulseaudio-equalizer": "pulseaudio",
+    "pulseaudio-jack": "pulseaudio",
+    "pulseaudio-lang": "pulseaudio",
+    "pulseaudio-openrc": "pulseaudio",
+    "pulseaudio-utils": "pulseaudio",
+    "pulseaudio-zeroconf": "pulseaudio",
+    "pulseaudio-zsh-completion": "pulseaudio",
+    "systemd-boot": "systemd",
+    "ukify": "systemd"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:44Z",
+    "source": "repology-dump",
+    "distro": "opensuse_server_irc_tumbleweed",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "bitlbee": "bitlbee",
+    "catgirl": "catgirl",
+    "epic5": "epic5",
+    "ii": "ii",
+    "inspircd": "inspircd",
+    "irssi": "irssi",
+    "libident": "libident",
+    "loudmouth": "loudmouth",
+    "ngircd": "ngircd",
+    "senpai": "senpai",
+    "tre": "tre",
+    "weechat": "weechat",
+    "znc": "znc"
+  }
+}

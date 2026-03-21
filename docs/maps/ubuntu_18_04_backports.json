@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:28:09Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_18_04_backports",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "elixir-lang": "elixir",
+    "erlang": "erlang",
+    "iproute2": "iproute2",
+    "rabbitmq-server": "rabbitmq",
+    "smartmontools": "smartmontools"
+  }
+}

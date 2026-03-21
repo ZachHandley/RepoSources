@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:51Z",
+    "source": "repology-dump",
+    "distro": "postmarketos_master",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "g++-x86_64": "aarch64-elf-gcc",
+    "gcc-x86_64": "aarch64-elf-gcc",
+    "gcc4": "aarch64-elf-gcc",
+    "gcc6": "aarch64-elf-gcc",
+    "libstdc++-dev-x86_64": "aarch64-elf-gcc",
+    "linux-next": "linux-headers@4.4",
+    "xkeyboard-config": "xkeyboard-config",
+    "xkeyboard-config-dev": "xkeyboard-config",
+    "xkeyboard-config-doc": "xkeyboard-config",
+    "xkeyboard-config-lang": "xkeyboard-config"
+  }
+}

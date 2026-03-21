@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:56Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_el_6",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "faac": "faac",
+    "faad2": "faad2",
+    "ffmpeg": "ffmpeg",
+    "ffmpeg-compat": "ffmpeg",
+    "gpac": "gpac",
+    "libaacs": "libaacs",
+    "libbdplus": "libbdplus",
+    "libdca": "libdca",
+    "libmms": "libmms",
+    "libmpeg2": "libmpeg2",
+    "libquicktime": "libquicktime",
+    "live555": "openrtsp",
+    "mjpegtools": "mjpegtools",
+    "mpg123": "mpg123",
+    "mplayer": "mplayer",
+    "opencore-amr": "opencore-amr",
+    "rtmpdump": "rtmpdump",
+    "tarsnap": "tarsnap",
+    "twolame": "two-lame",
+    "vcdimager": "vcdimager",
+    "vo-amrwbenc": "vo-amrwbenc",
+    "x264": "x264",
+    "xvidcore": "xvid",
+    "yle-dl": "yle-dl"
+  }
+}

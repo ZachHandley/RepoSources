@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:13Z",
+    "source": "repology-dump",
+    "distro": "gnu_elpa",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "gnugo": "gnu-go"
+  }
+}

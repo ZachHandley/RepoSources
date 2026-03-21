@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:56Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_el_8",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "HandBrake": "handbrake",
+    "cmus": "cmus",
+    "dynamips": "dynamips",
+    "faac": "faac",
+    "fdk-aac": "fdk-aac",
+    "ffmpeg": "ffmpeg",
+    "ffmpegthumbnailer": "ffmpegthumbnailer",
+    "ffms2": "ffms2",
+    "gpac": "gpac",
+    "libaacs": "libaacs",
+    "libbdplus": "libbdplus",
+    "libdca": "libdca",
+    "libde265": "libde265",
+    "libdvbcsa": "libdvbcsa",
+    "libheif": "libheif",
+    "live555": "openrtsp",
+    "minidlna": "minidlna",
+    "mjpegtools": "mjpegtools",
+    "mlt-freeworld": "mlt",
+    "moc": "moc",
+    "mpd": "mpd",
+    "mplayer": "mplayer",
+    "mpv": "mpv",
+    "opencore-amr": "opencore-amr",
+    "rtmpdump": "rtmpdump",
+    "vo-amrwbenc": "vo-amrwbenc",
+    "x264": "x264",
+    "x265": "x265"
+  }
+}

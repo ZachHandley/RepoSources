@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:26:43Z",
+    "source": "repology-dump",
+    "distro": "backbox_7",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "aircrack-ng": "aircrack-ng",
+    "apktool": "apktool",
+    "binwalk": "binwalk",
+    "dex2jar": "dex2jar",
+    "ettercap": "ettercap",
+    "hcxtools": "hcxtools",
+    "sqlmap": "sqlmap",
+    "wireshark": "wireshark"
+  }
+}

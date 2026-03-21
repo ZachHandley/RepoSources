@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:28:04Z",
+    "source": "repology-dump",
+    "distro": "stackage_nighly",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "Agda": "agda",
+    "Allure": "allureofthestars",
+    "BNFC": "bnfc",
+    "ShellCheck": "shellcheck",
+    "dhall": "dhall",
+    "hledger": "hledger",
+    "hpack": "hpack",
+    "pandoc": "pandoc",
+    "stack": "haskell-stack"
+  }
+}

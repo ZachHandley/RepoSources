@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:33Z",
+    "source": "repology-dump",
+    "distro": "mx_25",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "audacious": "audacious",
+    "carla": "carla",
+    "cherrytree": "cherrytree",
+    "directx-headers": "directx-headers",
+    "fastfetch": "fastfetch",
+    "homebank": "homebank",
+    "libcanberra": "libcanberra",
+    "libgwenhywfar": "gwenhywfar",
+    "linux": "linux-headers@4.4",
+    "mame": "mame",
+    "mesa": "mesa",
+    "mkvtoolnix": "mkvtoolnix",
+    "opencascade": "opencascade",
+    "pipewire": "pipewire",
+    "qmmp": "qmmp",
+    "stockfish": "stockfish",
+    "transmission": "transmission-cli",
+    "vim": "vim",
+    "vtk9": "vtk",
+    "yt-dlp": "yt-dlp"
+  }
+}

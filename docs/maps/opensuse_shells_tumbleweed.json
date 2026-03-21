@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:44Z",
+    "source": "repology-dump",
+    "distro": "opensuse_shells_tumbleweed",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "bash": "bash",
+    "bash-completion": "bash-completion",
+    "bash-completion-doc": "bash-completion",
+    "cowsay": "cowsay",
+    "dash": "dash-shell",
+    "fish": "fish",
+    "fish3": "fish",
+    "ksh": "ksh93",
+    "mksh": "mksh",
+    "nushell": "nushell",
+    "ponysay": "ponysay",
+    "posh": "posh",
+    "rc": "rc",
+    "readline": "readline",
+    "rush": "rush",
+    "shellinabox": "shellinabox",
+    "shush": "shush",
+    "starship": "starship",
+    "tcsh": "tcsh",
+    "xonsh": "xonsh",
+    "zsh": "zsh"
+  }
+}

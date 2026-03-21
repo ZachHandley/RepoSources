@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:28:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_20_04_backports",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "freeipmi": "freeipmi",
+    "gallery-dl": "gallery-dl",
+    "lvm2": "device-mapper",
+    "yt-dlp": "yt-dlp"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:55Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_el_10",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "ffmpeg": "ffmpeg",
+    "libaacs": "libaacs",
+    "libbdplus": "libbdplus",
+    "libde265": "libde265",
+    "libdvbcsa": "libdvbcsa",
+    "libdvdcss": "libdvdcss",
+    "mjpegtools": "mjpegtools",
+    "mplayer": "mplayer",
+    "rtmpdump": "rtmpdump",
+    "vvenc": "vvenc",
+    "x264": "x264",
+    "x265": "x265"
+  }
+}

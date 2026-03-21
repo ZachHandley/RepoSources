@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:26:44Z",
+    "source": "repology-dump",
+    "distro": "backbox_8",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "aircrack-ng": "aircrack-ng",
+    "apktool": "apktool",
+    "binwalk": "binwalk",
+    "dex2jar": "dex2jar",
+    "dnstwist": "dnstwist",
+    "ettercap": "ettercap",
+    "gddrescue": "ddrescue",
+    "hashcat": "hashcat",
+    "hcxtools": "hcxtools",
+    "hydra": "hydra",
+    "nmap": "nmap",
+    "radare2": "radare2",
+    "reaver": "reaver",
+    "sqlmap": "sqlmap",
+    "wireshark": "wireshark"
+  }
+}

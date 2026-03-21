@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:23Z",
+    "source": "repology-dump",
+    "distro": "luarocks",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "busted": "busted",
+    "lpeg": "lpeg",
+    "luarocks": "luarocks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:26:46Z",
+    "source": "repology-dump",
+    "distro": "calculate",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "dev-libs/thrift": "thrift",
+    "net-dns/bind": "bind"
+  }
+}

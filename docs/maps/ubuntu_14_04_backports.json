@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:28:08Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_14_04_backports",
+    "total_mappings": 33
+  },
+  "mappings": {
+    "ansible": "ansible",
+    "apache2": "httpd",
+    "astyle": "astyle",
+    "clinfo": "clinfo",
+    "cppcheck": "cppcheck",
+    "duck": "duck",
+    "fio": "fio",
+    "flex": "flex",
+    "gcalcli": "gcalcli",
+    "golang": "go",
+    "haproxy": "haproxy",
+    "iperf3": "iperf3",
+    "jq": "jq",
+    "libseccomp": "libseccomp",
+    "lmdb": "lmdb",
+    "lxd": "lxc",
+    "minidlna": "minidlna",
+    "osm-gps-map": "osm-gps-map",
+    "pdns": "pdns",
+    "povray": "povray",
+    "prodigal": "prodigal",
+    "screen": "screen",
+    "shellcheck": "shellcheck",
+    "stress-ng": "stress-ng",
+    "svtplay-dl": "svtplay-dl",
+    "swig": "swig",
+    "sysdig": "sysdig",
+    "tinyxml2": "tinyxml",
+    "torsocks": "torsocks",
+    "twine": "twine",
+    "xml2rfc": "xml2rfc",
+    "yelp-tools": "yelp-tools",
+    "zsh": "zsh"
+  }
+}

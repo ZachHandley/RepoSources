@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:41Z",
+    "source": "repology-dump",
+    "distro": "opensuse_emulators_tumbleweed",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "atari800": "atari800",
+    "bochs": "bochs",
+    "fast_float": "fast_float",
+    "fceux": "fceux",
+    "fs-uae": "fs-uae",
+    "hatari": "hatari",
+    "hercules": "hercules",
+    "joyce": "joyce",
+    "libdsk": "libdsk",
+    "liblcf": "liblcf",
+    "mame": "mame",
+    "mednafen": "mednafen",
+    "mgba": "mgba",
+    "mupen64plus": "mupen64plus",
+    "nestopia": "nestopia-ue",
+    "openmsx": "openmsx",
+    "pcre": "pcre",
+    "png++": "png++",
+    "ppsspp": "ppsspp",
+    "quasi88": "quasi88",
+    "rapidyaml": "rapidyaml",
+    "rgbds": "rgbds",
+    "seal": "seal",
+    "snow": "snow",
+    "stella": "stella",
+    "vice": "vice",
+    "winetricks": "winetricks",
+    "xa": "xa",
+    "xroar": "xroar"
+  }
+}

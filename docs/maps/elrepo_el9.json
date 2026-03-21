@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:02Z",
+    "source": "repology-dump",
+    "distro": "elrepo_el9",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "hfsutils": "hfsutils",
+    "usbip-utils": "linux-headers@4.4"
+  }
+}

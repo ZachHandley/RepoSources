@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:51Z",
+    "source": "repology-dump",
+    "distro": "postmarketos_24.12",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "g++-x86_64": "aarch64-elf-gcc",
+    "gcc-x86_64": "aarch64-elf-gcc",
+    "libstdc++-dev-x86_64": "aarch64-elf-gcc",
+    "linux-next": "linux-headers@4.4",
+    "systemd-boot": "systemd",
+    "ukify": "systemd"
+  }
+}

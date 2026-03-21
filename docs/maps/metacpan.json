@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:28Z",
+    "source": "repology-dump",
+    "distro": "metacpan",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "App-cpanminus": "cpanminus",
+    "Image-ExifTool": "exiftool",
+    "MHonArc": "mhonarc",
+    "Rex": "rex",
+    "ack": "ack"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:28:07Z",
+    "source": "repology-dump",
+    "distro": "trisquel_10_0_backports",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "carla": "carla",
+    "freeipmi": "freeipmi",
+    "gallery-dl": "gallery-dl",
+    "handbrake": "handbrake",
+    "libcotp": "libcotp",
+    "libtorrent-rasterbar": "libtorrent-rasterbar",
+    "llvm-toolchain-13": "clang-format",
+    "lvm2": "device-mapper",
+    "mlt": "mlt",
+    "openjpeg": "openjpeg",
+    "rdiff-backup": "rdiff-backup",
+    "rustc": "rust",
+    "yt-dlp": "yt-dlp",
+    "zimlib": "libzim"
+  }
+}

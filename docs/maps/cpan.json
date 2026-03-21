@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:26:52Z",
+    "source": "repology-dump",
+    "distro": "cpan",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "App-cpanminus": "cpanminus",
+    "Image-ExifTool": "exiftool"
+  }
+}

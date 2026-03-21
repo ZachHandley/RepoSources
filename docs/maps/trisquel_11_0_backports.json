@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:28:07Z",
+    "source": "repology-dump",
+    "distro": "trisquel_11_0_backports",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "borgmatic": "borgmatic",
+    "carla": "carla",
+    "cython": "cython",
+    "elfutils": "elfutils",
+    "extra-cmake-modules": "extra-cmake-modules",
+    "fastfetch": "fastfetch",
+    "gallery-dl": "gallery-dl",
+    "kf6-karchive": "karchive",
+    "libgit2": "libgit2",
+    "libstrophe": "libstrophe",
+    "llvm-toolchain-18": "clang-format",
+    "llvm-toolchain-19": "clang-format",
+    "mlt": "mlt",
+    "nodejs": "node",
+    "notmuch": "notmuch",
+    "openvpn": "openvpn",
+    "profanity": "profanity",
+    "pupnp": "libupnp",
+    "python-packaging": "python-packaging",
+    "rpki-client": "rpki-client",
+    "rustc": "rust",
+    "rustc-1.76": "rust",
+    "rustc-1.82": "rust",
+    "weechat": "weechat",
+    "yt-dlp": "yt-dlp",
+    "yyjson": "yyjson"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:54Z",
+    "source": "repology-dump",
+    "distro": "rebornos",
+    "total_mappings": 23
+  },
+  "mappings": {
+    "7-zip": "sevenzip",
+    "dcadec": "dcadec",
+    "empty": "empty",
+    "f3": "f3",
+    "fann": "fann",
+    "fastfetch": "fastfetch",
+    "ffmpeg-compat-57": "ffmpeg",
+    "glib2-static": "glib",
+    "inxi": "inxi",
+    "lcms": "little-cms2",
+    "lib32-glib": "glib",
+    "libcpuid-git": "libcpuid",
+    "libdmx": "libdmx",
+    "mimic": "mimic",
+    "ncurses5-compat-libs": "ncurses",
+    "nvm": "nvm",
+    "openjpeg": "openjpeg",
+    "pcre-static": "pcre",
+    "pod2man": "pod2man",
+    "python-dlib": "dlib",
+    "python2": "python@3.10",
+    "resvg": "resvg",
+    "snapd": "snap"
+  }
+}

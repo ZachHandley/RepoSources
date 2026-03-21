@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:28:11Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_24_04_backports",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "gallery-dl": "gallery-dl",
+    "sbuild": "sbuild",
+    "yt-dlp": "yt-dlp"
+  }
+}

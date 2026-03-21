@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:17Z",
+    "source": "repology-dump",
+    "distro": "kali_bleeding_edge",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "dnsgen": "dnsgen",
+    "reaver": "reaver",
+    "wgetpaste": "wgetpaste"
+  }
+}

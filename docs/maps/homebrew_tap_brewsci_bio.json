@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:16Z",
+    "source": "repology-dump",
+    "distro": "homebrew_tap_brewsci_bio",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "abricate": "abricate",
+    "any2fasta": "any2fasta",
+    "bbtools": "bbtools",
+    "bioperl": "bioperl",
+    "blast-legacy": "blast",
+    "blast@2.2": "blast",
+    "breseq": "breseq",
+    "fastp": "fastp",
+    "flye": "flye",
+    "freebayes": "freebayes",
+    "hmmer2": "hmmer",
+    "jellyfish": "jellyfish",
+    "kalign": "kalign",
+    "kraken2": "kraken2",
+    "lastz": "lastz",
+    "libdivsufsort": "libdivsufsort",
+    "matplotlib": "python-matplotlib",
+    "minigraph": "minigraph",
+    "minimap2": "minimap2",
+    "mrbayes": "mrbayes",
+    "mummer": "mummer",
+    "nextflow": "nextflow",
+    "pymol": "pymol",
+    "rasusa": "rasusa",
+    "sambamba": "sambamba",
+    "seqan@2": "seqan3",
+    "seqan@3": "seqan3",
+    "seqkit": "seqkit",
+    "star-aligner": "rna-star",
+    "stringtie": "stringtie",
+    "trimal": "trimal"
+  }
+}

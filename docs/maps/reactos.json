@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:54Z",
+    "source": "repology-dump",
+    "distro": "reactos",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "7-Zip": "sevenzip",
+    "Audacious": "audacious",
+    "Bochs": "bochs",
+    "CMake": "cmake",
+    "FCEUX": "fceux",
+    "FFmpeg-XP": "ffmpeg",
+    "FFmpeg-XP (shared library version)": "ffmpeg",
+    "FreePascal": "fpc",
+    "Ghostscript": "ghostscript",
+    "LGeneral": "lgeneral",
+    "Mesa3D Graphics Library": "mesa",
+    "MkvToolnix": "mkvtoolnix",
+    "MySQL Community Server": "mysql",
+    "Pidgin": "pidgin",
+    "PuTTY": "putty",
+    "Pulseaudio": "pulseaudio",
+    "Python 2": "python@3.10",
+    "Python 3": "python@3.10",
+    "QEMU": "qemu",
+    "Qmmp (Qt-based Multimedia Player)": "qmmp",
+    "ScummVM": "scummvm",
+    "Seven Kingdoms": "seven-kingdoms",
+    "Slash'EM": "slashem",
+    "SuperTux": "supertux",
+    "Sylpheed": "sylpheed",
+    "Tiny C Compiler": "tcc",
+    "VIM - Vi IMproved": "vim",
+    "cURL": "curl",
+    "nginx": "nginx"
+  }
+}

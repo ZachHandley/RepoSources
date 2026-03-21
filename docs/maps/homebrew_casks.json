@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:16Z",
+    "source": "repology-dump",
+    "distro": "homebrew_casks",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "Apache CouchDB": "couchdb",
+    "Bitcoin Core": "bitcoin",
+    "Catch": "catch2",
+    "DjView": "djview4",
+    "Emacs": "emacs",
+    "GPT fdisk": "gptfdisk",
+    "Joplin": "joplin-cli",
+    "MediaInfo": "media-info",
+    "Nestopia": "nestopia-ue",
+    "OpenClaw": "openclaw-cli",
+    "PowerShell": "powershell",
+    "Racket": "minimal-racket",
+    "Rio": "rio-terminal",
+    "SFM": "sing-box",
+    "Synfig Studio": "synfig",
+    "TigerVNC": "tiger-vnc",
+    "TodoTxtMac": "todo-txt",
+    "Transmission": "transmission-cli",
+    "Wireshark-ChmodBPF": "wireshark",
+    "Zenmap": "nmap",
+    "openMSX": "openmsx"
+  }
+}

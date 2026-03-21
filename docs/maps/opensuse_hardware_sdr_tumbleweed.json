@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:42Z",
+    "source": "repology-dump",
+    "distro": "opensuse_hardware_sdr_tumbleweed",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "airspy": "airspy",
+    "airspyhf": "airspyhf",
+    "codec2": "codec2",
+    "dump1090-fa": "dump1090-fa",
+    "fcl": "fcl",
+    "gnuradio": "gnuradio",
+    "gpredict": "gpredict",
+    "hackrf": "hackrf",
+    "hamlib": "hamlib",
+    "inspectrum": "inspectrum",
+    "itpp": "itpp",
+    "libbtbb": "libbtbb",
+    "libftdi0": "libftdi",
+    "limesuite": "limesuite",
+    "liquid-dsp": "liquid-dsp",
+    "minimodem": "minimodem",
+    "nlohmann_json": "nlohmann-json",
+    "qdmr": "qdmr",
+    "rtl_433": "rtl_433",
+    "soapy-hackrf": "soapyhackrf",
+    "ubertooth": "ubertooth",
+    "uhd": "uhd",
+    "urh": "urh",
+    "volk": "volk"
+  }
+}

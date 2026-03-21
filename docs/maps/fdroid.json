@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:07Z",
+    "source": "repology-dump",
+    "distro": "fdroid",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "EasyRPG Player": "easyrpg-player",
+    "Emacs": "emacs",
+    "I2P": "i2p",
+    "Joplin": "joplin-cli",
+    "eSpeak": "espeak",
+    "i2pd": "i2pd",
+    "sing-box": "sing-box"
+  }
+}

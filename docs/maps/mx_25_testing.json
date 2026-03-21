@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:33Z",
+    "source": "repology-dump",
+    "distro": "mx_25_testing",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "asio": "asio",
+    "babl": "babl",
+    "fastfetch": "fastfetch",
+    "gawk": "gawk",
+    "gegl": "gegl",
+    "handbrake": "handbrake",
+    "homebank": "homebank",
+    "libaqbanking": "aqbanking",
+    "libjpeg-turbo": "jpeg-turbo",
+    "libmng": "libmng",
+    "libqalculate": "libqalculate",
+    "libxml2": "libxml2",
+    "mame": "mame",
+    "meson": "meson",
+    "mkvtoolnix": "mkvtoolnix",
+    "mlt": "mlt",
+    "monkeys-audio": "mac",
+    "mpv": "mpv",
+    "onnxruntime": "onnxruntime",
+    "pan": "pan",
+    "pipewire": "pipewire",
+    "py7zr": "py7zr",
+    "qalculate-gtk": "qalculate-gtk",
+    "qalculate-qt": "qalculate-qt",
+    "qmmp": "qmmp",
+    "qt6-webengine": "qt",
+    "quickjs": "quickjs",
+    "squashfs-tools": "squashfs",
+    "svt-av1": "svt-av1",
+    "transmission": "transmission-cli",
+    "yt-dlp": "yt-dlp",
+    "yyjson": "yyjson"
+  }
+}

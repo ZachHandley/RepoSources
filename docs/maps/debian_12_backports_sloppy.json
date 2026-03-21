@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:26:56Z",
+    "source": "repology-dump",
+    "distro": "debian_12_backports_sloppy",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "gl2ps": "gl2ps",
+    "libaqbanking": "aqbanking",
+    "libgwenhywfar": "gwenhywfar",
+    "scrcpy": "scrcpy",
+    "sphinx": "sphinx-doc",
+    "tor": "tor"
+  }
+}

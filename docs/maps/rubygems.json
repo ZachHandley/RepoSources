@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:58Z",
+    "source": "repology-dump",
+    "distro": "rubygems",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "asciidoctor": "asciidoctor",
+    "avro": "avro-c",
+    "foreman": "foreman",
+    "gosu": "libgosu",
+    "haiti-hash": "haiti",
+    "itextomml": "itex2mml",
+    "kaitai-struct": "kaitai-struct-compiler",
+    "license_finder": "licensefinder",
+    "marisa": "marisa",
+    "passenger": "passenger",
+    "ronn": "ronn",
+    "ronn-ng": "ronn",
+    "sugarjar": "sugarjar",
+    "thrift": "thrift",
+    "tmuxinator": "tmuxinator",
+    "travis": "travis"
+  }
+}

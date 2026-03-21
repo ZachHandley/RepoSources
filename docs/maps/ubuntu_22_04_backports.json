@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:28:11Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_22_04_backports",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "borgmatic": "borgmatic",
+    "carla": "carla",
+    "elfutils": "elfutils",
+    "gallery-dl": "gallery-dl",
+    "openvpn": "openvpn",
+    "rpki-client": "rpki-client",
+    "yt-dlp": "yt-dlp"
+  }
+}

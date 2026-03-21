@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:15Z",
+    "source": "repology-dump",
+    "distro": "hackage",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "Agda": "agda",
+    "Allure": "allureofthestars",
+    "BNFC": "bnfc",
+    "ShellCheck": "shellcheck",
+    "cgrep": "cgrep",
+    "cryptol": "cryptol",
+    "darcs": "darcs",
+    "dhall": "dhall",
+    "futhark": "futhark",
+    "ghcup": "ghcup",
+    "hadolint": "hadolint",
+    "hledger": "hledger",
+    "hpack": "hpack",
+    "pandoc": "pandoc",
+    "stack": "haskell-stack",
+    "thrift": "thrift"
+  }
+}

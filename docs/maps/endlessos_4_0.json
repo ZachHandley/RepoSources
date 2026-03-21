@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T17:27:02Z",
+    "source": "repology-dump",
+    "distro": "endlessos_4_0",
+    "total_mappings": 27
+  },
+  "mappings": {
+    "b43-fwcutter": "b43-fwcutter",
+    "bluez": "bluez",
+    "cracklib2": "cracklib",
+    "enchant-2": "enchant",
+    "ffmpeg": "ffmpeg",
+    "fontconfig": "fontconfig",
+    "gnome-online-accounts": "gnome-online-accounts",
+    "gstreamer1.0": "gstreamer",
+    "gtk+3.0": "gtk+",
+    "imagemagick": "imagemagick",
+    "intltool": "intltool",
+    "kmod": "kmod",
+    "libpaper": "libpaper",
+    "libva": "libva",
+    "libxmlb": "libxmlb",
+    "linux": "linux-headers@4.4",
+    "ntfs-3g": "ntfs-3g",
+    "ntp": "ntp",
+    "openssh": "openssh",
+    "pam": "linux-pam",
+    "policykit-1": "polkit",
+    "pulseaudio": "pulseaudio",
+    "systemd": "systemd",
+    "u-boot": "u-boot-tools",
+    "usb.ids": "usb.ids",
+    "xorg-server": "xorg-server",
+    "yelp-tools": "yelp-tools"
+  }
+}
