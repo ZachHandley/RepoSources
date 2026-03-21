@@ -2,7 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [gh-pages]
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
   pages: write
@@ -19,6 +20,6 @@ jobs:
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: 'docs'
       - id: deployment
         uses: actions/deploy-pages@v4
