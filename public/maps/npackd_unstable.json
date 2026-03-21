@@ -1,11 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:27:36Z",
+    "generated_at": "2026-03-21T21:03:06Z",
     "source": "repology-dump",
     "distro": "npackd_unstable",
-    "total_mappings": 1
+    "total_mappings": 2
   },
   "mappings": {
-    "cURL": "curl"
+    "cURL": "curl",
+    "se.haxx.curl.CURL": "curl"
   }
 }

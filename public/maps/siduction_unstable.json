@@ -1,13 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:28:00Z",
+    "generated_at": "2026-03-21T21:04:41Z",
     "source": "repology-dump",
     "distro": "siduction_unstable",
-    "total_mappings": 3
+    "total_mappings": 8
   },
   "mappings": {
     "dosfstools": "dosfstools",
+    "dosfstools-udeb": "dosfstools",
     "glyr": "glyr",
+    "libglyr-dev": "glyr",
+    "libglyr1": "glyr",
+    "libvulkan-dev": "vulkan-loader",
+    "libvulkan1": "vulkan-loader",
     "vulkan-loader": "vulkan-loader"
   }
 }

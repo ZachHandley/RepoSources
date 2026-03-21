@@ -1,13 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:27:48Z",
+    "generated_at": "2026-03-21T21:03:52Z",
     "source": "repology-dump",
     "distro": "pardus_23",
-    "total_mappings": 4
+    "total_mappings": 15
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
     "bash": "bash",
+    "bash-builtins": "bash",
+    "bash-doc": "bash",
+    "bash-static": "bash",
+    "firmware-b43-installer": "b43-fwcutter",
+    "firmware-b43legacy-installer": "b43-fwcutter",
+    "gir1.2-soup-3.0": "libsoup",
+    "libsoup-3.0-0": "libsoup",
+    "libsoup-3.0-common": "libsoup",
+    "libsoup-3.0-dev": "libsoup",
+    "libsoup-3.0-doc": "libsoup",
+    "libsoup-3.0-tests": "libsoup",
     "libsoup3": "libsoup",
     "scrcpy": "scrcpy"
   }

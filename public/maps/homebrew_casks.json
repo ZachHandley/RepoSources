@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:27:16Z",
+    "generated_at": "2026-03-21T21:02:16Z",
     "source": "repology-dump",
     "distro": "homebrew_casks",
-    "total_mappings": 21
+    "total_mappings": 45
   },
   "mappings": {
     "Apache CouchDB": "couchdb",
@@ -26,6 +26,30 @@
     "Transmission": "transmission-cli",
     "Wireshark-ChmodBPF": "wireshark",
     "Zenmap": "nmap",
-    "openMSX": "openmsx"
+    "apache-couchdb": "couchdb",
+    "bitcoin-core": "bitcoin",
+    "catch": "catch2",
+    "djview": "djview4",
+    "emacs-app": "emacs",
+    "emacs-app@nightly": "emacs",
+    "gdisk": "gptfdisk",
+    "joplin": "joplin-cli",
+    "mediainfo": "media-info",
+    "nestopia": "nestopia-ue",
+    "openMSX": "openmsx",
+    "openclaw": "openclaw-cli",
+    "openmsx-emulator": "openmsx",
+    "powershell@preview": "powershell",
+    "racket": "minimal-racket",
+    "rio": "rio-terminal",
+    "sfm": "sing-box",
+    "synfigstudio": "synfig",
+    "tigervnc": "tiger-vnc",
+    "todotxt": "todo-txt",
+    "transmission": "transmission-cli",
+    "transmission@beta": "transmission-cli",
+    "transmission@nightly": "transmission-cli",
+    "wireshark-chmodbpf": "wireshark",
+    "zenmap": "nmap"
   }
 }

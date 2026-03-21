@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:27:18Z",
+    "generated_at": "2026-03-21T21:02:22Z",
     "source": "repology-dump",
     "distro": "kaos",
-    "total_mappings": 874
+    "total_mappings": 876
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -630,6 +630,7 @@
     "pugixml": "pugixml",
     "pulseaudio": "pulseaudio",
     "pybind11": "pybind11",
+    "pygobject": "pygobject3",
     "pyqt-builder": "pyqt-builder",
     "python3": "python@3.10",
     "python3-build": "python-build",
@@ -798,6 +799,7 @@
     "toxcore": "toxcore",
     "transifex-cli": "transifex-cli",
     "translate-toolkit": "translate-toolkit",
+    "transmission": "transmission-cli",
     "transmission-cli": "transmission-cli",
     "transmission-qt": "transmission-cli",
     "typst": "typst",

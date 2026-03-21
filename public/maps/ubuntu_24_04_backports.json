@@ -1,13 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:28:11Z",
+    "generated_at": "2026-03-21T21:05:22Z",
     "source": "repology-dump",
     "distro": "ubuntu_24_04_backports",
-    "total_mappings": 3
+    "total_mappings": 7
   },
   "mappings": {
+    "buildd": "sbuild",
     "gallery-dl": "gallery-dl",
+    "libsbuild-perl": "sbuild",
     "sbuild": "sbuild",
+    "sbuild-debian-developer-setup": "sbuild",
+    "sbuild-qemu": "sbuild",
     "yt-dlp": "yt-dlp"
   }
 }

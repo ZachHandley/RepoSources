@@ -1,18 +1,35 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:26:43Z",
+    "generated_at": "2026-03-21T21:01:02Z",
     "source": "repology-dump",
     "distro": "backbox_7",
-    "total_mappings": 8
+    "total_mappings": 25
   },
   "mappings": {
     "aircrack-ng": "aircrack-ng",
+    "airgraph-ng": "aircrack-ng",
     "apktool": "apktool",
     "binwalk": "binwalk",
     "dex2jar": "dex2jar",
     "ettercap": "ettercap",
+    "ettercap-common": "ettercap",
+    "ettercap-graphical": "ettercap",
+    "ettercap-text-only": "ettercap",
     "hcxtools": "hcxtools",
+    "libwireshark-data": "wireshark",
+    "libwireshark-dev": "wireshark",
+    "libwireshark16": "wireshark",
+    "libwiretap-dev": "wireshark",
+    "libwiretap13": "wireshark",
+    "libwsutil-dev": "wireshark",
+    "libwsutil14": "wireshark",
+    "python3-binwalk": "binwalk",
     "sqlmap": "sqlmap",
-    "wireshark": "wireshark"
+    "tshark": "wireshark",
+    "wireshark": "wireshark",
+    "wireshark-common": "wireshark",
+    "wireshark-dev": "wireshark",
+    "wireshark-doc": "wireshark",
+    "wireshark-qt": "wireshark"
   }
 }

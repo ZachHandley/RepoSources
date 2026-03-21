@@ -1,25 +1,50 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:26:44Z",
+    "generated_at": "2026-03-21T21:01:03Z",
     "source": "repology-dump",
     "distro": "backbox_8",
-    "total_mappings": 15
+    "total_mappings": 40
   },
   "mappings": {
     "aircrack-ng": "aircrack-ng",
+    "airgraph-ng": "aircrack-ng",
     "apktool": "apktool",
     "binwalk": "binwalk",
     "dex2jar": "dex2jar",
     "dnstwist": "dnstwist",
     "ettercap": "ettercap",
+    "ettercap-common": "ettercap",
+    "ettercap-graphical": "ettercap",
+    "ettercap-text-only": "ettercap",
     "gddrescue": "ddrescue",
     "hashcat": "hashcat",
+    "hashcat-data": "hashcat",
     "hcxtools": "hcxtools",
     "hydra": "hydra",
+    "hydra-gtk": "hydra",
+    "libradare2-5.0.0": "radare2",
+    "libradare2-common": "radare2",
+    "libradare2-dev": "radare2",
+    "libwireshark-data": "wireshark",
+    "libwireshark-dev": "wireshark",
+    "libwireshark16": "wireshark",
+    "libwiretap-dev": "wireshark",
+    "libwiretap13": "wireshark",
+    "libwsutil-dev": "wireshark",
+    "libwsutil14": "wireshark",
+    "ncat": "nmap",
+    "ndiff": "nmap",
     "nmap": "nmap",
+    "nmap-common": "nmap",
+    "python3-binwalk": "binwalk",
     "radare2": "radare2",
     "reaver": "reaver",
     "sqlmap": "sqlmap",
-    "wireshark": "wireshark"
+    "tshark": "wireshark",
+    "wireshark": "wireshark",
+    "wireshark-common": "wireshark",
+    "wireshark-dev": "wireshark",
+    "wireshark-doc": "wireshark",
+    "wireshark-qt": "wireshark"
   }
 }

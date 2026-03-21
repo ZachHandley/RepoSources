@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:27:54Z",
+    "generated_at": "2026-03-21T21:04:16Z",
     "source": "repology-dump",
     "distro": "reactos",
-    "total_mappings": 29
+    "total_mappings": 57
   },
   "mappings": {
     "7-Zip": "sevenzip",
+    "7kaa": "seven-kingdoms",
+    "7zip": "sevenzip",
     "Audacious": "audacious",
     "Bochs": "bochs",
     "CMake": "cmake",
@@ -33,7 +35,33 @@
     "Sylpheed": "sylpheed",
     "Tiny C Compiler": "tcc",
     "VIM - Vi IMproved": "vim",
+    "audacious": "audacious",
+    "bochs": "bochs",
     "cURL": "curl",
-    "nginx": "nginx"
+    "cmake": "cmake",
+    "curl": "curl",
+    "fceux": "fceux",
+    "ffmpeg": "ffmpeg",
+    "ffmpeg-shared": "ffmpeg",
+    "freepascal": "fpc",
+    "ghostscript": "ghostscript",
+    "lgeneral": "lgeneral",
+    "mesagallium": "mesa",
+    "mkvtoolnix": "mkvtoolnix",
+    "mysql": "mysql",
+    "nginx": "nginx",
+    "pidgin": "pidgin",
+    "pulseaudio": "pulseaudio",
+    "putty": "putty",
+    "python": "python@3.10",
+    "python2": "python@3.10",
+    "qemu": "qemu",
+    "qmmp": "qmmp",
+    "scummvm": "scummvm",
+    "slashem": "slashem",
+    "supertux": "supertux",
+    "sylpheed": "sylpheed",
+    "tcc": "tcc",
+    "vim": "vim"
   }
 }

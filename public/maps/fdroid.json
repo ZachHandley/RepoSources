@@ -1,17 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:27:07Z",
+    "generated_at": "2026-03-21T21:01:55Z",
     "source": "repology-dump",
     "distro": "fdroid",
-    "total_mappings": 7
+    "total_mappings": 14
   },
   "mappings": {
     "EasyRPG Player": "easyrpg-player",
     "Emacs": "emacs",
     "I2P": "i2p",
     "Joplin": "joplin-cli",
+    "com.reecedunn.espeak": "espeak",
     "eSpeak": "espeak",
     "i2pd": "i2pd",
+    "io.nekohasekai.sfa": "sing-box",
+    "net.cozic.joplin": "joplin-cli",
+    "net.i2p.android.router": "i2p",
+    "org.easyrpg.player": "easyrpg-player",
+    "org.gnu.emacs": "emacs",
+    "org.purplei2p.i2pd": "i2pd",
     "sing-box": "sing-box"
   }
 }

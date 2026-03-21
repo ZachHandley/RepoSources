@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:26:45Z",
+    "generated_at": "2026-03-21T21:01:06Z",
     "source": "repology-dump",
     "distro": "bioarch",
-    "total_mappings": 104
+    "total_mappings": 107
   },
   "mappings": {
     "abpoa": "abpoa",
@@ -43,6 +43,8 @@
     "htslib": "htslib",
     "igv": "igv",
     "jags": "jags",
+    "java22-openjdk": "openjdk",
+    "java23-openjdk": "openjdk",
     "jdk22-openjdk": "openjdk",
     "jdk23-openjdk": "openjdk",
     "jellyfish": "jellyfish",
@@ -62,6 +64,7 @@
     "mafft-extensions": "mafft",
     "mafft-mpi": "mafft",
     "minimap2": "minimap2",
+    "mmseqs2": "mmseqs2",
     "mmseqs2-avx2": "mmseqs2",
     "mmseqs2-sse4": "mmseqs2",
     "mpich": "mpich",

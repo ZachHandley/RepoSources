@@ -1,14 +1,39 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:28:10Z",
+    "generated_at": "2026-03-21T21:05:18Z",
     "source": "repology-dump",
     "distro": "ubuntu_20_04_backports",
-    "total_mappings": 4
+    "total_mappings": 29
   },
   "mappings": {
+    "dmeventd": "device-mapper",
+    "dmsetup": "device-mapper",
+    "dmsetup-udeb": "device-mapper",
     "freeipmi": "freeipmi",
+    "freeipmi-bmc-watchdog": "freeipmi",
+    "freeipmi-common": "freeipmi",
+    "freeipmi-ipmidetect": "freeipmi",
+    "freeipmi-ipmiseld": "freeipmi",
+    "freeipmi-tools": "freeipmi",
     "gallery-dl": "gallery-dl",
+    "libdevmapper-dev": "device-mapper",
+    "libdevmapper-event1.02.1": "device-mapper",
+    "libdevmapper1.02.1": "device-mapper",
+    "libdevmapper1.02.1-udeb": "device-mapper",
+    "libfreeipmi-dev": "freeipmi",
+    "libfreeipmi17": "freeipmi",
+    "libipmiconsole-dev": "freeipmi",
+    "libipmiconsole2": "freeipmi",
+    "libipmidetect-dev": "freeipmi",
+    "libipmidetect0": "freeipmi",
+    "libipmimonitoring-dev": "freeipmi",
+    "libipmimonitoring6": "freeipmi",
+    "liblvm2-dev": "device-mapper",
+    "liblvm2cmd2.03": "device-mapper",
     "lvm2": "device-mapper",
+    "lvm2-dbusd": "device-mapper",
+    "lvm2-lockd": "device-mapper",
+    "lvm2-udeb": "device-mapper",
     "yt-dlp": "yt-dlp"
   }
 }

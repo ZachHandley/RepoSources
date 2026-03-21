@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:26:46Z",
+    "generated_at": "2026-03-21T21:01:07Z",
     "source": "repology-dump",
     "distro": "blackarch",
-    "total_mappings": 294
+    "total_mappings": 298
   },
   "mappings": {
     "aespipe": "aespipe",
@@ -164,10 +164,12 @@
     "pwncat": "pwncat",
     "pwned": "pwned",
     "pyinstaller": "pyinstaller",
+    "python-cookiecutter": "cookiecutter",
     "python-dlib": "dlib",
     "python-lief": "lief",
     "python-name-that-hash": "name-that-hash",
     "python-pgcli": "pgcli",
+    "python-pillow6": "pillow",
     "python-pyside": "pyside",
     "python-pyside-common": "pyside",
     "python-qscintilla-qt4": "qscintilla2",
@@ -211,6 +213,7 @@
     "python2-virtualenv": "virtualenv",
     "python2-wxpython3": "wxpython",
     "python2-xdot": "xdot",
+    "qscintilla": "qscintilla2",
     "qscintilla-qt3": "qscintilla2",
     "qscintilla-qt4": "qscintilla2",
     "qt3": "qt",
@@ -294,6 +297,7 @@
     "wiredtiger": "wiredtiger",
     "wirouter-keyrec": "wirouter_keyrec",
     "wmbusmeters": "wmbusmeters",
+    "wxwidgets-3.0": "wxwidgets",
     "wxwidgets-common-3.0": "wxwidgets",
     "wxwidgets-gtk2-3.0": "wxwidgets",
     "wxwidgets-gtk3-3.0": "wxwidgets",

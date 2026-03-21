@@ -1,16 +1,39 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:26:56Z",
+    "generated_at": "2026-03-21T21:01:30Z",
     "source": "repology-dump",
     "distro": "debian_12_backports_sloppy",
-    "total_mappings": 6
+    "total_mappings": 29
   },
   "mappings": {
+    "aqbanking-tools": "aqbanking",
     "gl2ps": "gl2ps",
+    "gwenhywfar-tools": "gwenhywfar",
     "libaqbanking": "aqbanking",
+    "libaqbanking-data": "aqbanking",
+    "libaqbanking-dev": "aqbanking",
+    "libaqbanking44": "aqbanking",
+    "libgl2ps-dev": "gl2ps",
+    "libgl2ps-doc": "gl2ps",
+    "libgl2ps1.4": "gl2ps",
+    "libgwengui-fox16-79": "gwenhywfar",
+    "libgwengui-fox16-dev": "gwenhywfar",
+    "libgwengui-gtk3-79": "gwenhywfar",
+    "libgwengui-gtk3-dev": "gwenhywfar",
+    "libgwengui-qt5-79": "gwenhywfar",
+    "libgwengui-qt5-dev": "gwenhywfar",
     "libgwenhywfar": "gwenhywfar",
+    "libgwenhywfar-core-dev": "gwenhywfar",
+    "libgwenhywfar-data": "gwenhywfar",
+    "libgwenhywfar-doc": "gwenhywfar",
+    "libgwenhywfar79": "gwenhywfar",
+    "libjs-sphinxdoc": "sphinx-doc",
+    "python3-sphinx": "sphinx-doc",
     "scrcpy": "scrcpy",
     "sphinx": "sphinx-doc",
-    "tor": "tor"
+    "sphinx-common": "sphinx-doc",
+    "sphinx-doc": "sphinx-doc",
+    "tor": "tor",
+    "tor-geoipdb": "tor"
   }
 }

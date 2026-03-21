@@ -1,12 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:27:49Z",
+    "generated_at": "2026-03-21T21:03:55Z",
     "source": "repology-dump",
     "distro": "pisi_contrib",
-    "total_mappings": 14
+    "total_mappings": 22
   },
   "mappings": {
+    "0oldpackage/Bitcoin": "bitcoin",
+    "0oldpackage/bullet": "bullet",
+    "0oldpackage/cherrytree": "cherrytree",
+    "0oldpackage/discount": "discount",
     "SynfigStudio": "synfig",
+    "akiskart/fpc": "fpc",
+    "akiskart/fpc-src": "fpc",
     "atari800": "atari800",
     "bitcoin": "bitcoin",
     "bullet": "bullet",
@@ -14,8 +20,10 @@
     "discount": "discount",
     "fpc": "fpc",
     "fpc-src": "fpc",
+    "game/emulator/atari800": "atari800",
     "gradle": "gradle",
     "leptonica": "leptonica",
+    "multimedia/graphics/synfig": "synfig",
     "poco": "poco",
     "tesseract": "tesseract",
     "translate-shell": "translate-shell",

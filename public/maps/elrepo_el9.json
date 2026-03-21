@@ -1,12 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:27:02Z",
+    "generated_at": "2026-03-21T21:01:44Z",
     "source": "repology-dump",
     "distro": "elrepo_el9",
-    "total_mappings": 2
+    "total_mappings": 8
   },
   "mappings": {
     "hfsutils": "hfsutils",
-    "usbip-utils": "linux-headers@4.4"
+    "hfsutils-debuginfo": "hfsutils",
+    "hfsutils-debugsource": "hfsutils",
+    "hfsutils-devel": "hfsutils",
+    "hfsutils-x11": "hfsutils",
+    "usbip-utils": "linux-headers@4.4",
+    "usbip-utils-debuginfo": "linux-headers@4.4",
+    "usbip-utils-debugsource": "linux-headers@4.4"
   }
 }

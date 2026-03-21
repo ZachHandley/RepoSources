@@ -1,20 +1,40 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:26:44Z",
+    "generated_at": "2026-03-21T21:01:04Z",
     "source": "repology-dump",
     "distro": "backbox_9",
-    "total_mappings": 10
+    "total_mappings": 30
   },
   "mappings": {
     "binwalk": "binwalk",
     "dex2jar": "dex2jar",
     "dnstwist": "dnstwist",
     "hashcat": "hashcat",
+    "hashcat-data": "hashcat",
     "hcxtools": "hcxtools",
     "hydra": "hydra",
+    "libradare2-5.0.0t64": "radare2",
+    "libradare2-common": "radare2",
+    "libradare2-dev": "radare2",
+    "libwireshark-data": "wireshark",
+    "libwireshark-dev": "wireshark",
+    "libwireshark18": "wireshark",
+    "libwiretap-dev": "wireshark",
+    "libwiretap15": "wireshark",
+    "libwsutil-dev": "wireshark",
+    "libwsutil16": "wireshark",
+    "ncat": "nmap",
+    "ndiff": "nmap",
     "nmap": "nmap",
+    "nmap-common": "nmap",
+    "python3-binwalk": "binwalk",
     "radare2": "radare2",
     "sqlmap": "sqlmap",
-    "wireshark": "wireshark"
+    "tshark": "wireshark",
+    "wireshark": "wireshark",
+    "wireshark-common": "wireshark",
+    "wireshark-dev": "wireshark",
+    "wireshark-doc": "wireshark",
+    "zenmap": "nmap"
   }
 }

@@ -1,15 +1,35 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:28:11Z",
+    "generated_at": "2026-03-21T21:05:20Z",
     "source": "repology-dump",
     "distro": "ubuntu_22_04_backports",
-    "total_mappings": 7
+    "total_mappings": 27
   },
   "mappings": {
     "borgmatic": "borgmatic",
     "carla": "carla",
+    "carla-bridge-linux32": "carla",
+    "carla-bridge-linux64": "carla",
+    "carla-bridge-win32": "carla",
+    "carla-bridge-win64": "carla",
+    "carla-bridge-wine32": "carla",
+    "carla-bridge-wine64": "carla",
+    "carla-data": "carla",
+    "carla-dev": "carla",
+    "carla-lv2": "carla",
+    "carla-vst": "carla",
+    "debuginfod": "elfutils",
     "elfutils": "elfutils",
     "gallery-dl": "gallery-dl",
+    "libasm-dev": "elfutils",
+    "libasm1": "elfutils",
+    "libdebuginfod-common": "elfutils",
+    "libdebuginfod-dev": "elfutils",
+    "libdebuginfod1": "elfutils",
+    "libdw-dev": "elfutils",
+    "libdw1": "elfutils",
+    "libelf-dev": "elfutils",
+    "libelf1": "elfutils",
     "openvpn": "openvpn",
     "rpki-client": "rpki-client",
     "yt-dlp": "yt-dlp"

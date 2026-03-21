@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-21T17:26:40Z",
+    "generated_at": "2026-03-21T21:00:55Z",
     "source": "repology-dump",
     "distro": "arch_testing",
-    "total_mappings": 60
+    "total_mappings": 62
   },
   "mappings": {
     "ansible-creator": "ansible-creator",
@@ -36,6 +36,7 @@
     "kubeadm": "kubernetes-cli",
     "kubectl": "kubernetes-cli",
     "kubelet": "kubernetes-cli",
+    "kubernetes": "kubernetes-cli",
     "kubernetes-control-plane-common": "kubernetes-cli",
     "lib32-nss": "nss",
     "libmpc": "libmpc",
@@ -44,6 +45,7 @@
     "linux": "linux-headers@4.4",
     "linux-docs": "linux-headers@4.4",
     "linux-headers": "linux-headers@4.4",
+    "linux-tools": "linux-headers@4.4",
     "linux-tools-meta": "linux-headers@4.4",
     "lzip": "lzip",
     "m4": "m4",
