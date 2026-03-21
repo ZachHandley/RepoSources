@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T06:59:32Z",
+    "source": "repology-dump",
+    "distros": [
+      "debian_12",
+      "ubuntu_24_04",
+      "alpine_3_20"
+    ],
+    "total_mappings": 0
+  },
+  "distros": {
+    "debian": {
+      "distro": "debian_12",
+      "mappings": {},
+      "total_mappings": 0
+    },
+    "ubuntu": {
+      "distro": "ubuntu_24_04",
+      "mappings": {},
+      "total_mappings": 0
+    },
+    "alpine": {
+      "distro": "alpine_3_20",
+      "mappings": {},
+      "total_mappings": 0
+    }
+  }
+}
