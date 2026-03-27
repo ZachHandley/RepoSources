@@ -100,7 +100,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/lib/libunistring.rb",
   "ruby_source_checksum": {
     "sha256": "ada824139c46416d941760e364c6af1a6e9221fc6b78b6bdff9d9d91f7128fd7"
@@ -109,29 +109,29 @@
   "analytics": {
     "install": {
       "30d": {
-        "libunistring": 265372,
+        "libunistring": 265582,
         "libunistring --HEAD": 10
       },
       "90d": {
-        "libunistring": 556507,
+        "libunistring": 556913,
         "libunistring --HEAD": 15
       },
       "365d": {
-        "libunistring": 1791472,
+        "libunistring": 1791827,
         "libunistring --HEAD": 33
       }
     },
     "install_on_request": {
       "30d": {
-        "libunistring": 2971,
+        "libunistring": 2976,
         "libunistring --HEAD": 4
       },
       "90d": {
-        "libunistring": 4510,
+        "libunistring": 4516,
         "libunistring --HEAD": 6
       },
       "365d": {
-        "libunistring": 14196,
+        "libunistring": 14195,
         "libunistring --HEAD": 17
       }
     },

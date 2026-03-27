@@ -107,7 +107,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/s/simdjson.rb",
   "ruby_source_checksum": {
     "sha256": "196df1176c29bb567cb3eb8cd3319be209831f46fd4203c959edb5ea3a1effca"
@@ -116,25 +116,25 @@
   "analytics": {
     "install": {
       "30d": {
-        "simdjson": 209280,
+        "simdjson": 209034,
         "simdjson --HEAD": 7
       },
       "90d": {
-        "simdjson": 419611,
+        "simdjson": 419955,
         "simdjson --HEAD": 9
       },
       "365d": {
-        "simdjson": 862514,
+        "simdjson": 863014,
         "simdjson --HEAD": 22
       }
     },
     "install_on_request": {
       "30d": {
-        "simdjson": 1432,
+        "simdjson": 1430,
         "simdjson --HEAD": 4
       },
       "90d": {
-        "simdjson": 2133,
+        "simdjson": 2132,
         "simdjson --HEAD": 5
       },
       "365d": {

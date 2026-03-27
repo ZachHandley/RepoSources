@@ -116,7 +116,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/lib/libgit2.rb",
   "ruby_source_checksum": {
     "sha256": "5cff8f293f543c3205c3d7fe5e08bed3043ebe7e6e55cc58992f9d8bfa3a34fb"
@@ -140,29 +140,29 @@
   "analytics": {
     "install": {
       "30d": {
-        "libgit2": 31993,
+        "libgit2": 31974,
         "libgit2 --HEAD": 4
       },
       "90d": {
-        "libgit2": 109303,
-        "libgit2 --HEAD": 14
+        "libgit2": 109333,
+        "libgit2 --HEAD": 13
       },
       "365d": {
-        "libgit2": 355493,
+        "libgit2": 355531,
         "libgit2 --HEAD": 56
       }
     },
     "install_on_request": {
       "30d": {
-        "libgit2": 1411,
+        "libgit2": 1413,
         "libgit2 --HEAD": 4
       },
       "90d": {
-        "libgit2": 6285,
-        "libgit2 --HEAD": 14
+        "libgit2": 6287,
+        "libgit2 --HEAD": 13
       },
       "365d": {
-        "libgit2": 26050,
+        "libgit2": 26048,
         "libgit2 --HEAD": 53
       }
     },

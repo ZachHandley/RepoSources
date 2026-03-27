@@ -126,7 +126,7 @@
   "disable_args": null,
   "post_install_defined": true,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/l/llvm@21.rb",
   "ruby_source_checksum": {
     "sha256": "f2f1b66f3ea23a4f04eaeb98b36c158bec786342481ab84bb83b51d4bd60d5fc"
@@ -164,35 +164,35 @@
   "analytics": {
     "install": {
       "30d": {
-        "llvm@21": 34455,
+        "llvm@21": 34554,
         "llvm@21 --HEAD": 3
       },
       "90d": {
-        "llvm@21": 34457,
+        "llvm@21": 34558,
         "llvm@21 --HEAD": 3
       },
       "365d": {
-        "llvm@21": 34457,
+        "llvm@21": 34557,
         "llvm@21 --HEAD": 3
       }
     },
     "install_on_request": {
       "30d": {
-        "llvm@21": 3053,
+        "llvm@21": 3062,
         "llvm@21 --HEAD": 2
       },
       "90d": {
-        "llvm@21": 3056,
+        "llvm@21": 3067,
         "llvm@21 --HEAD": 2
       },
       "365d": {
-        "llvm@21": 3056,
+        "llvm@21": 3068,
         "llvm@21 --HEAD": 2
       }
     },
     "build_error": {
       "30d": {
-        "llvm@21": 938
+        "llvm@21": 940
       }
     }
   },

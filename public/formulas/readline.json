@@ -117,7 +117,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/r/readline.rb",
   "ruby_source_checksum": {
     "sha256": "6bafe386f0a06452975d6a2c83ad292af7d2921b62655483fd677a4435bfeab0"
@@ -126,15 +126,15 @@
   "analytics": {
     "install": {
       "30d": {
-        "readline": 317458,
+        "readline": 317325,
         "readline --HEAD": 7
       },
       "90d": {
-        "readline": 934140,
+        "readline": 934462,
         "readline --HEAD": 28
       },
       "365d": {
-        "readline": 2783855,
+        "readline": 2784432,
         "readline --HEAD": 173
       }
     },
@@ -144,11 +144,11 @@
         "readline --HEAD": 6
       },
       "90d": {
-        "readline": 14310,
+        "readline": 14297,
         "readline --HEAD": 20
       },
       "365d": {
-        "readline": 77796,
+        "readline": 77777,
         "readline --HEAD": 150
       }
     },

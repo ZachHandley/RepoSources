@@ -142,7 +142,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/s/swift.rb",
   "ruby_source_checksum": {
     "sha256": "40b89bec3e3fceeab2115a3d041f1b0ca4332b269ba358d02741430bc507a68b"
@@ -182,14 +182,14 @@
   "analytics": {
     "install": {
       "30d": {
-        "swift": 1750
+        "swift": 1755
       },
       "90d": {
-        "swift": 3521,
+        "swift": 3526,
         "swift --HEAD": 1
       },
       "365d": {
-        "swift": 12170,
+        "swift": 12174,
         "swift --HEAD": 7
       }
     },
@@ -202,7 +202,7 @@
         "swift --HEAD": 1
       },
       "365d": {
-        "swift": 8310,
+        "swift": 8309,
         "swift --HEAD": 7
       }
     },

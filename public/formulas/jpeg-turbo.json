@@ -128,7 +128,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/j/jpeg-turbo.rb",
   "ruby_source_checksum": {
     "sha256": "dc05b609cd9cd2d989219c2172f88a18f2fe60eb4aff2168973e24ba679b8aa3"
@@ -186,29 +186,29 @@
   "analytics": {
     "install": {
       "30d": {
-        "jpeg-turbo": 130479,
+        "jpeg-turbo": 130496,
         "jpeg-turbo --HEAD": 4
       },
       "90d": {
-        "jpeg-turbo": 390269,
+        "jpeg-turbo": 390401,
         "jpeg-turbo --HEAD": 10
       },
       "365d": {
-        "jpeg-turbo": 1504830,
+        "jpeg-turbo": 1504946,
         "jpeg-turbo --HEAD": 39
       }
     },
     "install_on_request": {
       "30d": {
-        "jpeg-turbo": 1332,
+        "jpeg-turbo": 1329,
         "jpeg-turbo --HEAD": 2
       },
       "90d": {
-        "jpeg-turbo": 4703,
+        "jpeg-turbo": 4702,
         "jpeg-turbo --HEAD": 6
       },
       "365d": {
-        "jpeg-turbo": 21366,
+        "jpeg-turbo": 21364,
         "jpeg-turbo --HEAD": 28
       }
     },

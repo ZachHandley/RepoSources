@@ -117,7 +117,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/lib/libssh2.rb",
   "ruby_source_checksum": {
     "sha256": "a258aa34a127e87a9ea82633f81b2ff9711ed93da47c412bdeb16da58eb86c2b"
@@ -186,29 +186,29 @@
   "analytics": {
     "install": {
       "30d": {
-        "libssh2": 81227,
+        "libssh2": 81195,
         "libssh2 --HEAD": 8
       },
       "90d": {
-        "libssh2": 215725,
+        "libssh2": 215857,
         "libssh2 --HEAD": 17
       },
       "365d": {
-        "libssh2": 580308,
+        "libssh2": 580408,
         "libssh2 --HEAD": 80
       }
     },
     "install_on_request": {
       "30d": {
-        "libssh2": 6250,
+        "libssh2": 6236,
         "libssh2 --HEAD": 5
       },
       "90d": {
-        "libssh2": 15706,
+        "libssh2": 15714,
         "libssh2 --HEAD": 12
       },
       "365d": {
-        "libssh2": 31067,
+        "libssh2": 31068,
         "libssh2 --HEAD": 70
       }
     },

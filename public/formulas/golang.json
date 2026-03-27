@@ -1,0 +1,9 @@
+{
+  "tag": "v2.11.4",
+  "release_name": "v2.11.4",
+  "asset_name": "golangci-lint-2.11.4-darwin-amd64.tar.gz",
+  "asset_size": 15647537,
+  "published_at": "2026-03-22T18:01:26Z",
+  "source": "github-release:golangci/golangci-lint",
+  "source_url": "https://github.com/golangci/golangci-lint/releases/download/v2.11.4/golangci-lint-2.11.4-darwin-amd64.tar.gz"
+}

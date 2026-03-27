@@ -129,7 +129,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/c/curl.rb",
   "ruby_source_checksum": {
     "sha256": "0b40a9558d2accd16c7c9c8ac995c3300ca6ab429934f2d3191d7e8b31cd7c10"
@@ -474,29 +474,29 @@
   "analytics": {
     "install": {
       "30d": {
-        "curl": 72869,
+        "curl": 72877,
         "curl --HEAD": 81
       },
       "90d": {
-        "curl": 227387,
+        "curl": 227447,
         "curl --HEAD": 241
       },
       "365d": {
-        "curl": 890117,
+        "curl": 890116,
         "curl --HEAD": 1355
       }
     },
     "install_on_request": {
       "30d": {
-        "curl": 32011,
+        "curl": 32009,
         "curl --HEAD": 81
       },
       "90d": {
-        "curl": 105619,
+        "curl": 105630,
         "curl --HEAD": 240
       },
       "365d": {
-        "curl": 435856,
+        "curl": 435809,
         "curl --HEAD": 1353
       }
     },

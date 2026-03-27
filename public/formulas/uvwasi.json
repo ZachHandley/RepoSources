@@ -109,7 +109,7 @@
   "disable_args": null,
   "post_install_defined": false,
   "service": null,
-  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "tap_git_head": "422ac87a329fea52fed9e1bd49470ad09a433eee",
   "ruby_source_path": "Formula/u/uvwasi.rb",
   "ruby_source_checksum": {
     "sha256": "f14d87f74d6b2126f0a1b479d364a44a8f24302f5fed9316831e78883b7a65f8"
@@ -118,29 +118,29 @@
   "analytics": {
     "install": {
       "30d": {
-        "uvwasi": 107537,
+        "uvwasi": 107498,
         "uvwasi --HEAD": 4
       },
       "90d": {
-        "uvwasi": 269142,
+        "uvwasi": 269350,
         "uvwasi --HEAD": 6
       },
       "365d": {
-        "uvwasi": 535743,
+        "uvwasi": 536051,
         "uvwasi --HEAD": 11
       }
     },
     "install_on_request": {
       "30d": {
-        "uvwasi": 242,
+        "uvwasi": 243,
         "uvwasi --HEAD": 1
       },
       "90d": {
-        "uvwasi": 354,
+        "uvwasi": 356,
         "uvwasi --HEAD": 1
       },
       "365d": {
-        "uvwasi": 966,
+        "uvwasi": 968,
         "uvwasi --HEAD": 5
       }
     },
