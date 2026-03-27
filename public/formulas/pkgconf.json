@@ -1,0 +1,186 @@
+{
+  "name": "pkgconf",
+  "full_name": "pkgconf",
+  "tap": "homebrew/core",
+  "oldnames": [],
+  "aliases": [
+    "pkg-config",
+    "pkgconfig"
+  ],
+  "versioned_formulae": [],
+  "desc": "Package compiler and linker metadata toolkit",
+  "license": "ISC",
+  "homepage": "https://github.com/pkgconf/pkgconf",
+  "versions": {
+    "stable": "2.5.1",
+    "head": "HEAD",
+    "bottle": true
+  },
+  "urls": {
+    "stable": {
+      "url": "https://distfiles.ariadne.space/pkgconf/pkgconf-2.5.1.tar.xz",
+      "tag": null,
+      "revision": null,
+      "using": null,
+      "checksum": "cd05c9589b9f86ecf044c10a2269822bc9eb001eced2582cfffd658b0a50c243"
+    },
+    "head": {
+      "url": "https://github.com/pkgconf/pkgconf.git",
+      "branch": "master",
+      "using": null
+    }
+  },
+  "revision": 0,
+  "version_scheme": 0,
+  "compatibility_version": 1,
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "bottle": {
+    "stable": {
+      "rebuild": 0,
+      "root_url": "https://ghcr.io/v2/homebrew/core",
+      "files": {
+        "arm64_tahoe": {
+          "cellar": "/opt/homebrew/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:84f26aae5e27d846e00a9fb741dfe3b02a14cb2f81ca4a4246617379cda99fc0",
+          "sha256": "84f26aae5e27d846e00a9fb741dfe3b02a14cb2f81ca4a4246617379cda99fc0"
+        },
+        "arm64_sequoia": {
+          "cellar": "/opt/homebrew/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:6fabdc3d0a656e2d505aec4e39b2f8e354601ee141469554fa71eabc3386e18f",
+          "sha256": "6fabdc3d0a656e2d505aec4e39b2f8e354601ee141469554fa71eabc3386e18f"
+        },
+        "arm64_sonoma": {
+          "cellar": "/opt/homebrew/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:bc7f9963756598248220da128a5f06ea0e6685aa7cd965a5ce357fcfaad2cdec",
+          "sha256": "bc7f9963756598248220da128a5f06ea0e6685aa7cd965a5ce357fcfaad2cdec"
+        },
+        "arm64_ventura": {
+          "cellar": "/opt/homebrew/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:8d53ac0deb003f8866315c4c27a1aa4767467c9fa13c912f52cb29e37fbe7916",
+          "sha256": "8d53ac0deb003f8866315c4c27a1aa4767467c9fa13c912f52cb29e37fbe7916"
+        },
+        "tahoe": {
+          "cellar": "/usr/local/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:ab1a7c8edaffa3a27400174deb4845140bdd56942d9ab2a7bccdf30f7ef74d91",
+          "sha256": "ab1a7c8edaffa3a27400174deb4845140bdd56942d9ab2a7bccdf30f7ef74d91"
+        },
+        "sequoia": {
+          "cellar": "/usr/local/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:a074f871aa476dec1101c13b4fcfbb9354a8b35bcb6e056f8411463913632071",
+          "sha256": "a074f871aa476dec1101c13b4fcfbb9354a8b35bcb6e056f8411463913632071"
+        },
+        "sonoma": {
+          "cellar": "/usr/local/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:439e8e638986c4423f430719f28cd7c62e8d9a1b87ac658c069fd5da939784f8",
+          "sha256": "439e8e638986c4423f430719f28cd7c62e8d9a1b87ac658c069fd5da939784f8"
+        },
+        "ventura": {
+          "cellar": "/usr/local/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:e38acbfd930c9588f4d1eabe061b956948aaff32cccb30c457430779c1e4f7f5",
+          "sha256": "e38acbfd930c9588f4d1eabe061b956948aaff32cccb30c457430779c1e4f7f5"
+        },
+        "arm64_linux": {
+          "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:abdf9fbefab1d7b7219a619fb5bd44b58c00a71146a43cb24b71700c2ead369e",
+          "sha256": "abdf9fbefab1d7b7219a619fb5bd44b58c00a71146a43cb24b71700c2ead369e"
+        },
+        "x86_64_linux": {
+          "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
+          "url": "https://ghcr.io/v2/homebrew/core/pkgconf/blobs/sha256:9df0ce4d9ebae822b763a9c18565d1596a40b2a2e5849c743e768a99f554f24b",
+          "sha256": "9df0ce4d9ebae822b763a9c18565d1596a40b2a2e5849c743e768a99f554f24b"
+        }
+      }
+    }
+  },
+  "pour_bottle_only_if": null,
+  "keg_only": false,
+  "keg_only_reason": null,
+  "options": [],
+  "build_dependencies": [],
+  "dependencies": [],
+  "test_dependencies": [],
+  "recommended_dependencies": [],
+  "optional_dependencies": [],
+  "uses_from_macos": [],
+  "uses_from_macos_bounds": [],
+  "requirements": [],
+  "conflicts_with": [],
+  "conflicts_with_reasons": [],
+  "link_overwrite": [],
+  "caveats": null,
+  "installed": [],
+  "linked_keg": null,
+  "pinned": false,
+  "outdated": false,
+  "deprecated": false,
+  "deprecation_date": null,
+  "deprecation_reason": null,
+  "deprecation_replacement_formula": null,
+  "deprecation_replacement_cask": null,
+  "deprecate_args": null,
+  "disabled": false,
+  "disable_date": null,
+  "disable_reason": null,
+  "disable_replacement_formula": null,
+  "disable_replacement_cask": null,
+  "disable_args": null,
+  "post_install_defined": false,
+  "service": null,
+  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "ruby_source_path": "Formula/p/pkgconf.rb",
+  "ruby_source_checksum": {
+    "sha256": "b74ba57acd8d4a294deb8620363b3e5b64325ae75ec60e8b438f261221bbeb7e"
+  },
+  "head_dependencies": {
+    "build_dependencies": [
+      "autoconf",
+      "automake",
+      "libtool"
+    ],
+    "dependencies": [],
+    "test_dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "uses_from_macos_bounds": []
+  },
+  "variations": {},
+  "analytics": {
+    "install": {
+      "30d": {
+        "pkgconf": 153620,
+        "pkgconf --HEAD": 132
+      },
+      "90d": {
+        "pkgconf": 445138,
+        "pkgconf --HEAD": 337
+      },
+      "365d": {
+        "pkgconf": 1923144,
+        "pkgconf --HEAD": 1692
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "pkgconf": 68357,
+        "pkgconf --HEAD": 85
+      },
+      "90d": {
+        "pkgconf": 200290,
+        "pkgconf --HEAD": 282
+      },
+      "365d": {
+        "pkgconf": 884684,
+        "pkgconf --HEAD": 1621
+      }
+    },
+    "build_error": {
+      "30d": {
+        "pkgconf": 221
+      }
+    }
+  },
+  "generated_date": "2026-03-27"
+}

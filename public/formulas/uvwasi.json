@@ -1,0 +1,154 @@
+{
+  "name": "uvwasi",
+  "full_name": "uvwasi",
+  "tap": "homebrew/core",
+  "oldnames": [],
+  "aliases": [],
+  "versioned_formulae": [],
+  "desc": "WASI syscall API built atop libuv",
+  "license": "MIT",
+  "homepage": "https://github.com/nodejs/uvwasi",
+  "versions": {
+    "stable": "0.0.23",
+    "head": "HEAD",
+    "bottle": true
+  },
+  "urls": {
+    "stable": {
+      "url": "https://github.com/nodejs/uvwasi/archive/refs/tags/v0.0.23.tar.gz",
+      "tag": null,
+      "revision": null,
+      "using": null,
+      "checksum": "cdb148aac298883b51da887657deca910c7c02f35435e24f125cef536fe8d5e1"
+    },
+    "head": {
+      "url": "https://github.com/nodejs/uvwasi.git",
+      "branch": "main",
+      "using": null
+    }
+  },
+  "revision": 0,
+  "version_scheme": 0,
+  "compatibility_version": 1,
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "bottle": {
+    "stable": {
+      "rebuild": 1,
+      "root_url": "https://ghcr.io/v2/homebrew/core",
+      "files": {
+        "arm64_tahoe": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:c2742f168c40ecdcf97566b4bbca3419dc010995edbd25fd2805c45cccbe11fd",
+          "sha256": "c2742f168c40ecdcf97566b4bbca3419dc010995edbd25fd2805c45cccbe11fd"
+        },
+        "arm64_sequoia": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:3bbe2380eb184f540f5b23a9cd2f92ef21a4779b04ff6068b6c3a0b4e7865c7e",
+          "sha256": "3bbe2380eb184f540f5b23a9cd2f92ef21a4779b04ff6068b6c3a0b4e7865c7e"
+        },
+        "arm64_sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:923e457efe87a95fd53031ca80440ce09ab3862a9ac7df374b3fe634c7001c23",
+          "sha256": "923e457efe87a95fd53031ca80440ce09ab3862a9ac7df374b3fe634c7001c23"
+        },
+        "sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:74534d557b0603f0fac5d6b4e98257bee2f372c55e0eabf97b0ac5ccbd10415d",
+          "sha256": "74534d557b0603f0fac5d6b4e98257bee2f372c55e0eabf97b0ac5ccbd10415d"
+        },
+        "arm64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:bc607f16b816da2d32a2d8a3eec770c64f8a497524dd1a33d5b6f252db0ac44d",
+          "sha256": "bc607f16b816da2d32a2d8a3eec770c64f8a497524dd1a33d5b6f252db0ac44d"
+        },
+        "x86_64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:2befd108f0cf4fffab4832dc834e0b7c4b8aec470ad95994435792c6b3ab9bcc",
+          "sha256": "2befd108f0cf4fffab4832dc834e0b7c4b8aec470ad95994435792c6b3ab9bcc"
+        }
+      }
+    }
+  },
+  "pour_bottle_only_if": null,
+  "keg_only": false,
+  "keg_only_reason": null,
+  "options": [],
+  "build_dependencies": [
+    "cmake"
+  ],
+  "dependencies": [
+    "libuv"
+  ],
+  "test_dependencies": [],
+  "recommended_dependencies": [],
+  "optional_dependencies": [],
+  "uses_from_macos": [],
+  "uses_from_macos_bounds": [],
+  "requirements": [],
+  "conflicts_with": [],
+  "conflicts_with_reasons": [],
+  "link_overwrite": [],
+  "caveats": null,
+  "installed": [],
+  "linked_keg": null,
+  "pinned": false,
+  "outdated": false,
+  "deprecated": false,
+  "deprecation_date": null,
+  "deprecation_reason": null,
+  "deprecation_replacement_formula": null,
+  "deprecation_replacement_cask": null,
+  "deprecate_args": null,
+  "disabled": false,
+  "disable_date": null,
+  "disable_reason": null,
+  "disable_replacement_formula": null,
+  "disable_replacement_cask": null,
+  "disable_args": null,
+  "post_install_defined": false,
+  "service": null,
+  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "ruby_source_path": "Formula/u/uvwasi.rb",
+  "ruby_source_checksum": {
+    "sha256": "f14d87f74d6b2126f0a1b479d364a44a8f24302f5fed9316831e78883b7a65f8"
+  },
+  "variations": {},
+  "analytics": {
+    "install": {
+      "30d": {
+        "uvwasi": 107537,
+        "uvwasi --HEAD": 4
+      },
+      "90d": {
+        "uvwasi": 269142,
+        "uvwasi --HEAD": 6
+      },
+      "365d": {
+        "uvwasi": 535743,
+        "uvwasi --HEAD": 11
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "uvwasi": 242,
+        "uvwasi --HEAD": 1
+      },
+      "90d": {
+        "uvwasi": 354,
+        "uvwasi --HEAD": 1
+      },
+      "365d": {
+        "uvwasi": 966,
+        "uvwasi --HEAD": 5
+      }
+    },
+    "build_error": {
+      "30d": {
+        "uvwasi": 3
+      }
+    }
+  },
+  "generated_date": "2026-03-27"
+}

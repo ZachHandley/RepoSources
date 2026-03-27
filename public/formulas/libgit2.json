@@ -1,0 +1,176 @@
+{
+  "name": "libgit2",
+  "full_name": "libgit2",
+  "tap": "homebrew/core",
+  "oldnames": [],
+  "aliases": [
+    "libgit2@1.9"
+  ],
+  "versioned_formulae": [
+    "libgit2@1.8",
+    "libgit2@1.7",
+    "libgit2@1.6"
+  ],
+  "desc": "C library of Git core methods that is re-entrant and linkable",
+  "license": "GPL-2.0-only WITH GCC-exception-2.0",
+  "homepage": "https://libgit2.org/",
+  "versions": {
+    "stable": "1.9.2",
+    "head": "HEAD",
+    "bottle": true
+  },
+  "urls": {
+    "stable": {
+      "url": "https://github.com/libgit2/libgit2/archive/refs/tags/v1.9.2.tar.gz",
+      "tag": null,
+      "revision": null,
+      "using": null,
+      "checksum": "6f097c82fc06ece4f40539fb17e9d41baf1a5a2fc26b1b8562d21b89bc355fe6"
+    },
+    "head": {
+      "url": "https://github.com/libgit2/libgit2.git",
+      "branch": "main",
+      "using": null
+    }
+  },
+  "revision": 1,
+  "version_scheme": 0,
+  "compatibility_version": 1,
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "bottle": {
+    "stable": {
+      "rebuild": 0,
+      "root_url": "https://ghcr.io/v2/homebrew/core",
+      "files": {
+        "arm64_tahoe": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/libgit2/blobs/sha256:97ff2e84ab73e8cb56e5884cf26c27ea4e4bb21987549c0706816b0bc45532a9",
+          "sha256": "97ff2e84ab73e8cb56e5884cf26c27ea4e4bb21987549c0706816b0bc45532a9"
+        },
+        "arm64_sequoia": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/libgit2/blobs/sha256:c2694695e86b097811b664c9e0382f217c4b4300cf32cc0c62f28fe172ed3536",
+          "sha256": "c2694695e86b097811b664c9e0382f217c4b4300cf32cc0c62f28fe172ed3536"
+        },
+        "arm64_sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/libgit2/blobs/sha256:8ae9df99ad28aff8e5aee4400c2ff2124d2ec01f6480a730a71767b46cac6a3b",
+          "sha256": "8ae9df99ad28aff8e5aee4400c2ff2124d2ec01f6480a730a71767b46cac6a3b"
+        },
+        "sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/libgit2/blobs/sha256:af08d60e1020689f58c37f7d9a2e465353fdca50c0b33ee353e1512a0f2827dc",
+          "sha256": "af08d60e1020689f58c37f7d9a2e465353fdca50c0b33ee353e1512a0f2827dc"
+        },
+        "arm64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/libgit2/blobs/sha256:42e7be69909a93ad884898883441819318fd6cbb0df1b58a683ee97c69b4b900",
+          "sha256": "42e7be69909a93ad884898883441819318fd6cbb0df1b58a683ee97c69b4b900"
+        },
+        "x86_64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/libgit2/blobs/sha256:3a8609a42095a81ca3061e76d9605bd160e395d66a588a5757f676e2bc8417a6",
+          "sha256": "3a8609a42095a81ca3061e76d9605bd160e395d66a588a5757f676e2bc8417a6"
+        }
+      }
+    }
+  },
+  "pour_bottle_only_if": null,
+  "keg_only": false,
+  "keg_only_reason": null,
+  "options": [],
+  "build_dependencies": [
+    "cmake",
+    "pkgconf"
+  ],
+  "dependencies": [
+    "libssh2"
+  ],
+  "test_dependencies": [],
+  "recommended_dependencies": [],
+  "optional_dependencies": [],
+  "uses_from_macos": [],
+  "uses_from_macos_bounds": [],
+  "requirements": [],
+  "conflicts_with": [],
+  "conflicts_with_reasons": [],
+  "link_overwrite": [],
+  "caveats": null,
+  "installed": [],
+  "linked_keg": null,
+  "pinned": false,
+  "outdated": false,
+  "deprecated": false,
+  "deprecation_date": null,
+  "deprecation_reason": null,
+  "deprecation_replacement_formula": null,
+  "deprecation_replacement_cask": null,
+  "deprecate_args": null,
+  "disabled": false,
+  "disable_date": null,
+  "disable_reason": null,
+  "disable_replacement_formula": null,
+  "disable_replacement_cask": null,
+  "disable_args": null,
+  "post_install_defined": false,
+  "service": null,
+  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "ruby_source_path": "Formula/lib/libgit2.rb",
+  "ruby_source_checksum": {
+    "sha256": "5cff8f293f543c3205c3d7fe5e08bed3043ebe7e6e55cc58992f9d8bfa3a34fb"
+  },
+  "variations": {
+    "x86_64_linux": {
+      "dependencies": [
+        "libssh2",
+        "openssl@3",
+        "zlib-ng-compat"
+      ]
+    },
+    "arm64_linux": {
+      "dependencies": [
+        "libssh2",
+        "openssl@3",
+        "zlib-ng-compat"
+      ]
+    }
+  },
+  "analytics": {
+    "install": {
+      "30d": {
+        "libgit2": 31993,
+        "libgit2 --HEAD": 4
+      },
+      "90d": {
+        "libgit2": 109303,
+        "libgit2 --HEAD": 14
+      },
+      "365d": {
+        "libgit2": 355493,
+        "libgit2 --HEAD": 56
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "libgit2": 1411,
+        "libgit2 --HEAD": 4
+      },
+      "90d": {
+        "libgit2": 6285,
+        "libgit2 --HEAD": 14
+      },
+      "365d": {
+        "libgit2": 26050,
+        "libgit2 --HEAD": 53
+      }
+    },
+    "build_error": {
+      "30d": {
+        "libgit2": 16
+      }
+    }
+  },
+  "generated_date": "2026-03-27"
+}

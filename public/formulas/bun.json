@@ -1,0 +1,7 @@
+{
+  "name": "bun",
+  "url": "https://github.com/oven-sh/bun/releases/latest",
+  "sha256": "6f5a3467ed9caec4795bf78cd476507d9f870c7d57b86c945fcb338126772ffc",
+  "source": "tap:oven-sh/homebrew-bun",
+  "source_url": "https://github.com/oven-sh/bun/releases/latest"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "rust",
+  "full_name": "rust",
+  "tap": "homebrew/core",
+  "oldnames": [
+    "rustfmt"
+  ],
+  "aliases": [],
+  "versioned_formulae": [],
+  "desc": "Safe, concurrent, practical language",
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://www.rust-lang.org/",
+  "versions": {
+    "stable": "1.94.0",
+    "head": "HEAD",
+    "bottle": true
+  },
+  "urls": {
+    "stable": {
+      "url": "https://static.rust-lang.org/dist/rustc-1.94.0-src.tar.gz",
+      "tag": null,
+      "revision": null,
+      "using": null,
+      "checksum": "b83f921cd3f321ff614f9c06a8b870d89299fc02888b48a5549683a36823474c"
+    },
+    "head": {
+      "url": "https://github.com/rust-lang/rust.git",
+      "branch": "main",
+      "using": null
+    }
+  },
+  "revision": 0,
+  "version_scheme": 0,
+  "compatibility_version": 1,
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "bottle": {
+    "stable": {
+      "rebuild": 0,
+      "root_url": "https://ghcr.io/v2/homebrew/core",
+      "files": {
+        "arm64_tahoe": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/rust/blobs/sha256:d5e00e29ea3544d11dbd1d8e120d168154608ffd5fe4eb62336f4639193d258d",
+          "sha256": "d5e00e29ea3544d11dbd1d8e120d168154608ffd5fe4eb62336f4639193d258d"
+        },
+        "arm64_sequoia": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/rust/blobs/sha256:7301c72f0da263d62c773093d3dd2da52baa98f24ac60044b6e06872465356d8",
+          "sha256": "7301c72f0da263d62c773093d3dd2da52baa98f24ac60044b6e06872465356d8"
+        },
+        "arm64_sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/rust/blobs/sha256:d670fe3a67bd2925a94b0e3e569f0ba4ad29b3078c35b4035addb4aa4b2242fb",
+          "sha256": "d670fe3a67bd2925a94b0e3e569f0ba4ad29b3078c35b4035addb4aa4b2242fb"
+        },
+        "sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/rust/blobs/sha256:15a40611dcae240d8f831e0af6381345ea89c83a6f3abe66675a29cc6fcd67eb",
+          "sha256": "15a40611dcae240d8f831e0af6381345ea89c83a6f3abe66675a29cc6fcd67eb"
+        },
+        "arm64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/rust/blobs/sha256:462b4a8b12744b7d06c8d6488de6ead2af403eed8aea2e868cf7dbe684f4f21c",
+          "sha256": "462b4a8b12744b7d06c8d6488de6ead2af403eed8aea2e868cf7dbe684f4f21c"
+        },
+        "x86_64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/rust/blobs/sha256:53e7f45c1a40611f896918ef8d2c09127e123dd364cf53213e08fb4f4d5d9b10",
+          "sha256": "53e7f45c1a40611f896918ef8d2c09127e123dd364cf53213e08fb4f4d5d9b10"
+        }
+      }
+    }
+  },
+  "pour_bottle_only_if": null,
+  "keg_only": false,
+  "keg_only_reason": null,
+  "options": [],
+  "build_dependencies": [],
+  "dependencies": [
+    "libgit2",
+    "libssh2",
+    "llvm@21",
+    "openssl@3",
+    "pkgconf",
+    "zstd"
+  ],
+  "test_dependencies": [],
+  "recommended_dependencies": [],
+  "optional_dependencies": [],
+  "uses_from_macos": [
+    {
+      "python": "build"
+    },
+    "curl"
+  ],
+  "uses_from_macos_bounds": [
+    {},
+    {}
+  ],
+  "requirements": [],
+  "conflicts_with": [],
+  "conflicts_with_reasons": [],
+  "link_overwrite": [
+    "etc/bash_completion.d/cargo",
+    "bin/cargo-fmt",
+    "bin/git-rustfmt",
+    "bin/rustfmt",
+    "bin/rustfmt-*"
+  ],
+  "caveats": "Link this toolchain with `rustup` under the name `system` with:\n  rustup toolchain link system \"$(brew --prefix rust)\"\n\nIf you use rustup, avoid PATH conflicts by following instructions in:\n  brew info rustup\n",
+  "installed": [],
+  "linked_keg": null,
+  "pinned": false,
+  "outdated": false,
+  "deprecated": false,
+  "deprecation_date": null,
+  "deprecation_reason": null,
+  "deprecation_replacement_formula": null,
+  "deprecation_replacement_cask": null,
+  "deprecate_args": null,
+  "disabled": false,
+  "disable_date": null,
+  "disable_reason": null,
+  "disable_replacement_formula": null,
+  "disable_replacement_cask": null,
+  "disable_args": null,
+  "post_install_defined": false,
+  "service": null,
+  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "ruby_source_path": "Formula/r/rust.rb",
+  "ruby_source_checksum": {
+    "sha256": "248b66783657686b4afb0bddf4a430ed55bcccf39aef987498f995cb4de41c16"
+  },
+  "variations": {},
+  "analytics": {
+    "install": {
+      "30d": {
+        "rust": 41822,
+        "rust --HEAD": 46
+      },
+      "90d": {
+        "rust": 109400,
+        "rust --HEAD": 113
+      },
+      "365d": {
+        "rust": 444189,
+        "rust --HEAD": 591
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "rust": 30982,
+        "rust --HEAD": 46
+      },
+      "90d": {
+        "rust": 77778,
+        "rust --HEAD": 113
+      },
+      "365d": {
+        "rust": 321301,
+        "rust --HEAD": 590
+      }
+    },
+    "build_error": {
+      "30d": {
+        "rust": 336,
+        "rust --HEAD": 2
+      }
+    }
+  },
+  "generated_date": "2026-03-27"
+}

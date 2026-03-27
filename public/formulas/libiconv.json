@@ -1,0 +1,156 @@
+{
+  "name": "libiconv",
+  "full_name": "libiconv",
+  "tap": "homebrew/core",
+  "oldnames": [],
+  "aliases": [],
+  "versioned_formulae": [],
+  "desc": "Conversion library",
+  "license": "GPL-3.0-or-later AND LGPL-2.0-or-later",
+  "homepage": "https://www.gnu.org/software/libiconv/",
+  "versions": {
+    "stable": "1.19",
+    "head": null,
+    "bottle": true
+  },
+  "urls": {
+    "stable": {
+      "url": "https://ftpmirror.gnu.org/gnu/libiconv/libiconv-1.19.tar.gz",
+      "tag": null,
+      "revision": null,
+      "using": null,
+      "checksum": "88dd96a8c0464eca144fc791ae60cd31cd8ee78321e67397e25fc095c4a19aa6"
+    }
+  },
+  "revision": 0,
+  "version_scheme": 0,
+  "compatibility_version": 1,
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "bottle": {
+    "stable": {
+      "rebuild": 0,
+      "root_url": "https://ghcr.io/v2/homebrew/core",
+      "files": {
+        "arm64_tahoe": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/libiconv/blobs/sha256:39e4ffdefdebf658be077d84e1dca6840d4df7d364b990ababbc736037312990",
+          "sha256": "39e4ffdefdebf658be077d84e1dca6840d4df7d364b990ababbc736037312990"
+        },
+        "arm64_sequoia": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/libiconv/blobs/sha256:a4049c55b940c08ad3988a56ada9886e2f131592320cf4b9e158e8a44d57f894",
+          "sha256": "a4049c55b940c08ad3988a56ada9886e2f131592320cf4b9e158e8a44d57f894"
+        },
+        "arm64_sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/libiconv/blobs/sha256:319e71654138da2d8ffee7a0b9041b3bdaa89297b4ae0a2adab72d445cf63dfe",
+          "sha256": "319e71654138da2d8ffee7a0b9041b3bdaa89297b4ae0a2adab72d445cf63dfe"
+        },
+        "sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/libiconv/blobs/sha256:dc9389c9b302277e146eb4a22bb575df3bdf70d9bf82051904781192e9ef86d9",
+          "sha256": "dc9389c9b302277e146eb4a22bb575df3bdf70d9bf82051904781192e9ef86d9"
+        }
+      }
+    }
+  },
+  "pour_bottle_only_if": null,
+  "keg_only": true,
+  "keg_only_reason": {
+    "reason": ":provided_by_macos",
+    "explanation": ""
+  },
+  "options": [],
+  "build_dependencies": [
+    "autoconf",
+    "automake"
+  ],
+  "dependencies": [],
+  "test_dependencies": [],
+  "recommended_dependencies": [],
+  "optional_dependencies": [],
+  "uses_from_macos": [
+    "gperf"
+  ],
+  "uses_from_macos_bounds": [
+    {}
+  ],
+  "requirements": [
+    {
+      "name": "macos",
+      "cask": null,
+      "download": null,
+      "version": null,
+      "contexts": [],
+      "specs": [
+        "stable"
+      ]
+    }
+  ],
+  "conflicts_with": [],
+  "conflicts_with_reasons": [],
+  "link_overwrite": [],
+  "caveats": null,
+  "installed": [],
+  "linked_keg": null,
+  "pinned": false,
+  "outdated": false,
+  "deprecated": false,
+  "deprecation_date": null,
+  "deprecation_reason": null,
+  "deprecation_replacement_formula": null,
+  "deprecation_replacement_cask": null,
+  "deprecate_args": null,
+  "disabled": false,
+  "disable_date": null,
+  "disable_reason": null,
+  "disable_replacement_formula": null,
+  "disable_replacement_cask": null,
+  "disable_args": null,
+  "post_install_defined": false,
+  "service": null,
+  "tap_git_head": "5b8f0580c8bf0e6c3887fc96dc3aa56c91d2a461",
+  "ruby_source_path": "Formula/lib/libiconv.rb",
+  "ruby_source_checksum": {
+    "sha256": "e61c78f5b44a082c1803d8cb78ec1a122593c6bdc82cf26305b056583079dfce"
+  },
+  "variations": {},
+  "analytics": {
+    "install": {
+      "30d": {
+        "libiconv": 61095,
+        "libiconv --HEAD": 3
+      },
+      "90d": {
+        "libiconv": 149569,
+        "libiconv --HEAD": 8
+      },
+      "365d": {
+        "libiconv": 185778,
+        "libiconv --HEAD": 54
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "libiconv": 2048,
+        "libiconv --HEAD": 1
+      },
+      "90d": {
+        "libiconv": 3145,
+        "libiconv --HEAD": 4
+      },
+      "365d": {
+        "libiconv": 10968,
+        "libiconv --HEAD": 50
+      }
+    },
+    "build_error": {
+      "30d": {
+        "libiconv": 91
+      }
+    }
+  },
+  "generated_date": "2026-03-22"
+}

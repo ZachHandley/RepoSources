@@ -1,0 +1,165 @@
+{
+  "name": "mpdecimal",
+  "full_name": "mpdecimal",
+  "tap": "homebrew/core",
+  "oldnames": [],
+  "aliases": [
+    "libmpdec"
+  ],
+  "versioned_formulae": [],
+  "desc": "Library for decimal floating point arithmetic",
+  "license": "BSD-2-Clause",
+  "homepage": "https://www.bytereef.org/mpdecimal/",
+  "versions": {
+    "stable": "4.0.1",
+    "head": null,
+    "bottle": true
+  },
+  "urls": {
+    "stable": {
+      "url": "https://www.bytereef.org/software/mpdecimal/releases/mpdecimal-4.0.1.tar.gz",
+      "tag": null,
+      "revision": null,
+      "using": null,
+      "checksum": "96d33abb4bb0070c7be0fed4246cd38416188325f820468214471938545b1ac8"
+    }
+  },
+  "revision": 0,
+  "version_scheme": 0,
+  "compatibility_version": 1,
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "bottle": {
+    "stable": {
+      "rebuild": 0,
+      "root_url": "https://ghcr.io/v2/homebrew/core",
+      "files": {
+        "arm64_tahoe": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:518dd69097ceef4b2f5b51603d930d7f5a334237c52b83f8d9822e58c83de172",
+          "sha256": "518dd69097ceef4b2f5b51603d930d7f5a334237c52b83f8d9822e58c83de172"
+        },
+        "arm64_sequoia": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:e21da583e42e86d5a2f0aedfaf7820e51b8af3065da599cff179d1a39903f3ab",
+          "sha256": "e21da583e42e86d5a2f0aedfaf7820e51b8af3065da599cff179d1a39903f3ab"
+        },
+        "arm64_sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:51a9fd907163c4f99be93607db99668cbb3e115ff577f9413e5dd6e5d4070e2c",
+          "sha256": "51a9fd907163c4f99be93607db99668cbb3e115ff577f9413e5dd6e5d4070e2c"
+        },
+        "arm64_ventura": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:e764118699fff81e4861a081d5e50546be2631a2fa2f58f4681dee6727648a87",
+          "sha256": "e764118699fff81e4861a081d5e50546be2631a2fa2f58f4681dee6727648a87"
+        },
+        "tahoe": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:1f2c31483c9abd01e1ec3af7be8ca14f02a0cdc920313a8b3ab7d3b0b20a6386",
+          "sha256": "1f2c31483c9abd01e1ec3af7be8ca14f02a0cdc920313a8b3ab7d3b0b20a6386"
+        },
+        "sequoia": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:2d5d6956ca6cafdcd541611c99eed16c0f7a3c7c217efb0141ecfed265716564",
+          "sha256": "2d5d6956ca6cafdcd541611c99eed16c0f7a3c7c217efb0141ecfed265716564"
+        },
+        "sonoma": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:bc8fdd21107bda1c93c82f90f4adad05b85d6b7d175df10d0d566a23a7fd5ab5",
+          "sha256": "bc8fdd21107bda1c93c82f90f4adad05b85d6b7d175df10d0d566a23a7fd5ab5"
+        },
+        "ventura": {
+          "cellar": ":any",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:40b0bb7a71de19ec68449a7f4f6c3816b625a6499e5119f476b3cec3df2d21ac",
+          "sha256": "40b0bb7a71de19ec68449a7f4f6c3816b625a6499e5119f476b3cec3df2d21ac"
+        },
+        "arm64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:d5f5f08846de66026cc3d4029e3202498ffb3996d4eca62623da85ade7b6f106",
+          "sha256": "d5f5f08846de66026cc3d4029e3202498ffb3996d4eca62623da85ade7b6f106"
+        },
+        "x86_64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:f540928b0baae439b6b7bbbb54aa0b0d8fda3631a2fb46c1d1ccd6bf9c2b5389",
+          "sha256": "f540928b0baae439b6b7bbbb54aa0b0d8fda3631a2fb46c1d1ccd6bf9c2b5389"
+        }
+      }
+    }
+  },
+  "pour_bottle_only_if": null,
+  "keg_only": false,
+  "keg_only_reason": null,
+  "options": [],
+  "build_dependencies": [],
+  "dependencies": [],
+  "test_dependencies": [],
+  "recommended_dependencies": [],
+  "optional_dependencies": [],
+  "uses_from_macos": [],
+  "uses_from_macos_bounds": [],
+  "requirements": [],
+  "conflicts_with": [],
+  "conflicts_with_reasons": [],
+  "link_overwrite": [],
+  "caveats": null,
+  "installed": [],
+  "linked_keg": null,
+  "pinned": false,
+  "outdated": false,
+  "deprecated": false,
+  "deprecation_date": null,
+  "deprecation_reason": null,
+  "deprecation_replacement_formula": null,
+  "deprecation_replacement_cask": null,
+  "deprecate_args": null,
+  "disabled": false,
+  "disable_date": null,
+  "disable_reason": null,
+  "disable_replacement_formula": null,
+  "disable_replacement_cask": null,
+  "disable_args": null,
+  "post_install_defined": false,
+  "service": null,
+  "tap_git_head": "95b990301b9f9c09d37f067fcd3aa0f812ca5b3e",
+  "ruby_source_path": "Formula/m/mpdecimal.rb",
+  "ruby_source_checksum": {
+    "sha256": "d5f000c5e5a3639b6a870be3a715298c777a74fdc008751eb5d3124875be037d"
+  },
+  "variations": {},
+  "analytics": {
+    "install": {
+      "30d": {
+        "mpdecimal": 206389,
+        "mpdecimal --HEAD": 3
+      },
+      "90d": {
+        "mpdecimal": 544651,
+        "mpdecimal --HEAD": 7
+      },
+      "365d": {
+        "mpdecimal": 1874414,
+        "mpdecimal --HEAD": 27
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "mpdecimal": 581
+      },
+      "90d": {
+        "mpdecimal": 1752
+      },
+      "365d": {
+        "mpdecimal": 8095,
+        "mpdecimal --HEAD": 11
+      }
+    },
+    "build_error": {
+      "30d": {
+        "mpdecimal": 39
+      }
+    }
+  },
+  "generated_date": "2026-03-27"
+}
