@@ -1,0 +1,163 @@
+{
+  "name": "uv",
+  "full_name": "uv",
+  "tap": "homebrew/core",
+  "oldnames": [],
+  "aliases": [],
+  "versioned_formulae": [],
+  "desc": "Extremely fast Python package installer and resolver, written in Rust",
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://docs.astral.sh/uv/",
+  "versions": {
+    "stable": "0.11.2",
+    "head": "HEAD",
+    "bottle": true
+  },
+  "urls": {
+    "stable": {
+      "url": "https://github.com/astral-sh/uv/archive/refs/tags/0.11.2.tar.gz",
+      "tag": null,
+      "revision": null,
+      "using": null,
+      "checksum": "12f5f6ce0c4e1e80424329098786dd33195df1c342c926f499f8599d1d2ec694"
+    },
+    "head": {
+      "url": "https://github.com/astral-sh/uv.git",
+      "branch": "main",
+      "using": null
+    }
+  },
+  "revision": 0,
+  "version_scheme": 0,
+  "compatibility_version": 1,
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "bottle": {
+    "stable": {
+      "rebuild": 0,
+      "root_url": "https://ghcr.io/v2/homebrew/core",
+      "files": {
+        "arm64_tahoe": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:69936c68e404c21f15fbea6ee04ee03db6e582ad1c46a112db9e31f42fa9e8c7",
+          "sha256": "69936c68e404c21f15fbea6ee04ee03db6e582ad1c46a112db9e31f42fa9e8c7"
+        },
+        "arm64_sequoia": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:98df2b89734c8017bbd24a5c1c578d4340521913b181461506dbe3f7fa9736ff",
+          "sha256": "98df2b89734c8017bbd24a5c1c578d4340521913b181461506dbe3f7fa9736ff"
+        },
+        "arm64_sonoma": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:94c428c40feb8c0f8282727e10b1d0cc9064e12142a3cd5a9357014036e88219",
+          "sha256": "94c428c40feb8c0f8282727e10b1d0cc9064e12142a3cd5a9357014036e88219"
+        },
+        "sonoma": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:1f3541749b15382c5dedba3546986441d145671392ada8ac6919ffa4d1c4aefd",
+          "sha256": "1f3541749b15382c5dedba3546986441d145671392ada8ac6919ffa4d1c4aefd"
+        },
+        "arm64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:ca23ebc3b3f097faa94d8be23b99c359584bdeb505e0c3fd000ba95de876a2c4",
+          "sha256": "ca23ebc3b3f097faa94d8be23b99c359584bdeb505e0c3fd000ba95de876a2c4"
+        },
+        "x86_64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:745f3e80c8f2ffd82735fa9b2285ea6d93a9e21854614481ab91fd91fc9abeee",
+          "sha256": "745f3e80c8f2ffd82735fa9b2285ea6d93a9e21854614481ab91fd91fc9abeee"
+        }
+      }
+    }
+  },
+  "pour_bottle_only_if": null,
+  "keg_only": false,
+  "keg_only_reason": null,
+  "options": [],
+  "build_dependencies": [
+    "pkgconf",
+    "rust"
+  ],
+  "dependencies": [],
+  "test_dependencies": [],
+  "recommended_dependencies": [],
+  "optional_dependencies": [],
+  "uses_from_macos": [
+    {
+      "python": "test"
+    },
+    "bzip2",
+    "xz"
+  ],
+  "uses_from_macos_bounds": [
+    {},
+    {},
+    {}
+  ],
+  "requirements": [],
+  "conflicts_with": [],
+  "conflicts_with_reasons": [],
+  "link_overwrite": [],
+  "caveats": null,
+  "installed": [],
+  "linked_keg": null,
+  "pinned": false,
+  "outdated": false,
+  "deprecated": false,
+  "deprecation_date": null,
+  "deprecation_reason": null,
+  "deprecation_replacement_formula": null,
+  "deprecation_replacement_cask": null,
+  "deprecate_args": null,
+  "disabled": false,
+  "disable_date": null,
+  "disable_reason": null,
+  "disable_replacement_formula": null,
+  "disable_replacement_cask": null,
+  "disable_args": null,
+  "post_install_defined": false,
+  "service": null,
+  "tap_git_head": "6f3bb0f5c60212e988849ffbba9f22f158be3a5b",
+  "ruby_source_path": "Formula/u/uv.rb",
+  "ruby_source_checksum": {
+    "sha256": "144a772acd5fbf13ca073a22367be4e7195c986881fce3a8ac7caf5dad95ab02"
+  },
+  "variations": {},
+  "analytics": {
+    "install": {
+      "30d": {
+        "uv": 207811,
+        "uv --HEAD": 306
+      },
+      "90d": {
+        "uv": 530773,
+        "uv --HEAD": 751
+      },
+      "365d": {
+        "uv": 1230041,
+        "uv --HEAD": 2262
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "uv": 206703,
+        "uv --HEAD": 306
+      },
+      "90d": {
+        "uv": 527438,
+        "uv --HEAD": 751
+      },
+      "365d": {
+        "uv": 1219499,
+        "uv --HEAD": 2262
+      }
+    },
+    "build_error": {
+      "30d": {
+        "uv": 36
+      }
+    }
+  },
+  "generated_date": "2026-03-28"
+}

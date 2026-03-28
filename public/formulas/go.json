@@ -1,0 +1,172 @@
+{
+  "name": "go",
+  "full_name": "go",
+  "tap": "homebrew/core",
+  "oldnames": [],
+  "aliases": [
+    "go@1.26",
+    "golang",
+    "google-go"
+  ],
+  "versioned_formulae": [
+    "go@1.25",
+    "go@1.24",
+    "go@1.23",
+    "go@1.22",
+    "go@1.21"
+  ],
+  "desc": "Open source programming language to build simple/reliable/efficient software",
+  "license": "BSD-3-Clause",
+  "homepage": "https://go.dev/",
+  "versions": {
+    "stable": "1.26.1",
+    "head": "HEAD",
+    "bottle": true
+  },
+  "urls": {
+    "stable": {
+      "url": "https://go.dev/dl/go1.26.1.src.tar.gz",
+      "tag": null,
+      "revision": null,
+      "using": null,
+      "checksum": "3172293d04b209dc1144698e7ba13f0477f6ba8c5ffd0be66c20fdbc9785dfbb"
+    },
+    "head": {
+      "url": "https://go.googlesource.com/go.git",
+      "branch": "master",
+      "using": null
+    }
+  },
+  "revision": 0,
+  "version_scheme": 0,
+  "compatibility_version": 3,
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "bottle": {
+    "stable": {
+      "rebuild": 0,
+      "root_url": "https://ghcr.io/v2/homebrew/core",
+      "files": {
+        "arm64_tahoe": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:51bc2bd9276ba9dd9bc9a233ff1516d8a0314a4cfcdc01debde37872fc74068f",
+          "sha256": "51bc2bd9276ba9dd9bc9a233ff1516d8a0314a4cfcdc01debde37872fc74068f"
+        },
+        "arm64_sequoia": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:51bc2bd9276ba9dd9bc9a233ff1516d8a0314a4cfcdc01debde37872fc74068f",
+          "sha256": "51bc2bd9276ba9dd9bc9a233ff1516d8a0314a4cfcdc01debde37872fc74068f"
+        },
+        "arm64_sonoma": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:51bc2bd9276ba9dd9bc9a233ff1516d8a0314a4cfcdc01debde37872fc74068f",
+          "sha256": "51bc2bd9276ba9dd9bc9a233ff1516d8a0314a4cfcdc01debde37872fc74068f"
+        },
+        "sonoma": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:ced00f225dc0073a0e44bfdefb16a7d75e320fff048ba64eb2278961955211ea",
+          "sha256": "ced00f225dc0073a0e44bfdefb16a7d75e320fff048ba64eb2278961955211ea"
+        },
+        "arm64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:cd171acd22130bbf5331e2900cc70aea437fdef0f56ca68628dfb7a3c6a6c9f1",
+          "sha256": "cd171acd22130bbf5331e2900cc70aea437fdef0f56ca68628dfb7a3c6a6c9f1"
+        },
+        "x86_64_linux": {
+          "cellar": ":any_skip_relocation",
+          "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:a27b69f3a45bea076938eecd6eb749b30056f9cba23c4ac3910e9ffc5ac9c6e6",
+          "sha256": "a27b69f3a45bea076938eecd6eb749b30056f9cba23c4ac3910e9ffc5ac9c6e6"
+        }
+      }
+    }
+  },
+  "pour_bottle_only_if": null,
+  "keg_only": false,
+  "keg_only_reason": null,
+  "options": [],
+  "build_dependencies": [],
+  "dependencies": [],
+  "test_dependencies": [],
+  "recommended_dependencies": [],
+  "optional_dependencies": [],
+  "uses_from_macos": [],
+  "uses_from_macos_bounds": [],
+  "requirements": [
+    {
+      "name": "macos",
+      "cask": null,
+      "download": null,
+      "version": "12",
+      "contexts": [],
+      "specs": [
+        "stable",
+        "head"
+      ]
+    }
+  ],
+  "conflicts_with": [],
+  "conflicts_with_reasons": [],
+  "link_overwrite": [],
+  "caveats": null,
+  "installed": [],
+  "linked_keg": null,
+  "pinned": false,
+  "outdated": false,
+  "deprecated": false,
+  "deprecation_date": null,
+  "deprecation_reason": null,
+  "deprecation_replacement_formula": null,
+  "deprecation_replacement_cask": null,
+  "deprecate_args": null,
+  "disabled": false,
+  "disable_date": null,
+  "disable_reason": null,
+  "disable_replacement_formula": null,
+  "disable_replacement_cask": null,
+  "disable_args": null,
+  "post_install_defined": false,
+  "service": null,
+  "tap_git_head": "6f3bb0f5c60212e988849ffbba9f22f158be3a5b",
+  "ruby_source_path": "Formula/g/go.rb",
+  "ruby_source_checksum": {
+    "sha256": "038987f12283d56f8dcad15bf5da06a1dc3fb1d502a9df791fe25db4aa2cf10c"
+  },
+  "variations": {},
+  "analytics": {
+    "install": {
+      "30d": {
+        "go": 162467,
+        "go --HEAD": 155
+      },
+      "90d": {
+        "go": 487364,
+        "go --HEAD": 481
+      },
+      "365d": {
+        "go": 1459387,
+        "go --HEAD": 1830
+      }
+    },
+    "install_on_request": {
+      "30d": {
+        "go": 128934,
+        "go --HEAD": 155
+      },
+      "90d": {
+        "go": 389970,
+        "go --HEAD": 481
+      },
+      "365d": {
+        "go": 1143583,
+        "go --HEAD": 1830
+      }
+    },
+    "build_error": {
+      "30d": {
+        "go": 936
+      }
+    }
+  },
+  "generated_date": "2026-03-28"
+}
