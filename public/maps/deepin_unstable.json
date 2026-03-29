@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:40Z",
+    "generated_at": "2026-03-29T05:11:00Z",
     "source": "repology-dump",
     "distro": "deepin_unstable",
-    "total_mappings": 14406
+    "total_mappings": 14404
   },
   "mappings": {
     "0install": "zero-install",
@@ -1058,6 +1058,7 @@
     "crc-modules-5.15.0-0.bpo.2-sh7785lcr-di": "linux-headers@4.4",
     "crc-modules-5.15.0-0.bpo.2-sparc64-di": "linux-headers@4.4",
     "creduce": "creduce",
+    "crip": "crip",
     "crispy-doom": "crispy-doom",
     "crm114": "crm114",
     "cruft": "cruft",
@@ -6484,7 +6485,6 @@
     "libmrss0-dbg": "libmrss",
     "libmrss0-dev": "libmrss",
     "libmruby-dev": "mruby",
-    "libmsgpuck-dev": "msgpuck",
     "libmsgsl-dev": "cpp-gsl",
     "libmsi-dev": "msitools",
     "libmsi0": "msitools",
@@ -10128,7 +10128,6 @@
     "mmc-modules-5.15.0-0.bpo.2-marvell-di": "linux-headers@4.4",
     "mmc-modules-5.15.0-0.bpo.2-riscv64-di": "linux-headers@4.4",
     "mmdb-bin": "libmaxminddb",
-    "mmv": "mmv",
     "moarvm": "moarvm",
     "moarvm-dev": "moarvm",
     "moc": "moc",
@@ -10251,7 +10250,6 @@
     "mruby": "mruby",
     "ms-gsl": "cpp-gsl",
     "mscgen": "mscgen",
-    "msgpuck": "msgpuck",
     "msitools": "msitools",
     "msktutil": "msktutil",
     "msmtp": "msmtp",

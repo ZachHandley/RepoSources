@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:50Z",
+    "generated_at": "2026-03-29T05:11:15Z",
     "source": "repology-dump",
     "distro": "epel_7",
-    "total_mappings": 1162
+    "total_mappings": 1160
   },
   "mappings": {
     "0install": "zero-install",
@@ -278,7 +278,6 @@
     "fakeroot": "fakeroot",
     "fann": "fann",
     "fastd": "fastd",
-    "fasttext": "fasttext",
     "fcgi": "fcgi",
     "fcgiwrap": "fcgiwrap",
     "fdupes": "fdupes",
@@ -655,6 +654,7 @@
     "mg": "mg",
     "mhash": "mhash",
     "mhonarc": "mhonarc",
+    "miniaudio": "miniaudio",
     "minipro": "minipro",
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
@@ -664,7 +664,6 @@
     "mlpack": "mlpack",
     "mlt": "mlt",
     "mlton": "mlton",
-    "mmv": "mmv",
     "moarvm": "moarvm",
     "mongo-c-driver": "mongo-c-driver",
     "mongo-cxx-driver": "mongo-cxx-driver",
@@ -685,7 +684,6 @@
     "mpssh": "mpssh",
     "mscgen": "mscgen",
     "msgpack": "msgpack",
-    "msgpuck": "msgpuck",
     "msktutil": "msktutil",
     "msmtp": "msmtp",
     "muParser": "muparser",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:08Z",
+    "generated_at": "2026-03-29T05:11:39Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "total_mappings": 318
@@ -131,7 +131,6 @@
     "dev-lang/swift": "swift",
     "dev-lang/swift-bin": "swift",
     "dev-lang/wabt": "wabt",
-    "dev-libs/fastText": "fasttext",
     "dev-libs/fortran-stdlib": "fortran-stdlib",
     "dev-libs/frozen": "frozen",
     "dev-libs/lexbor": "lexbor",
@@ -174,6 +173,7 @@
     "dev-util/kubetail": "kubetail",
     "dev-util/kubetail-bin": "kubetail",
     "dev-util/lua-language-server": "lua-language-server",
+    "dev-util/minify": "minify",
     "dev-util/minify-bin": "minify",
     "dev-util/mise": "mise",
     "dev-util/neocmakelsp": "neocmakelsp",

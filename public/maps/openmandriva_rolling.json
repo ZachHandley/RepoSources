@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:14:22Z",
+    "generated_at": "2026-03-29T05:14:09Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
-    "total_mappings": 12839
+    "total_mappings": 12847
   },
   "mappings": {
     "7kaa": "seven-kingdoms",
@@ -7692,6 +7692,10 @@
     "lib64win32-gir1.0": "gobject-introspection",
     "lib64wiredtiger": "wiredtiger",
     "lib64wiredtiger-devel": "wiredtiger",
+    "lib64wireplumber": "wireplumber",
+    "lib64wireplumber-devel": "wireplumber",
+    "lib64wireplumber-devel-gobject": "wireplumber",
+    "lib64wireplumber-gobject": "wireplumber",
     "lib64wireshark": "wireshark",
     "lib64wireshark-devel": "wireshark",
     "lib64wiretap": "wireshark",
@@ -10028,6 +10032,8 @@
     "mikmod": "mikmod",
     "mikmod-debuginfo": "mikmod",
     "mikmod-debugsource": "mikmod",
+    "miniaudio": "miniaudio",
+    "miniaudio-devel": "miniaudio",
     "minicom": "minicom",
     "minicom-debuginfo": "minicom",
     "minicom-debugsource": "minicom",
@@ -12618,6 +12624,7 @@
     "wiredtiger-debuginfo": "wiredtiger",
     "wiredtiger-debugsource": "wiredtiger",
     "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-tools": "wireshark",
     "wmctrl": "wmctrl",
@@ -12684,6 +12691,7 @@
     "xclip": "xclip",
     "xclip-debuginfo": "xclip",
     "xclip-debugsource": "xclip",
+    "xcursorgen": "xcursorgen",
     "xdotool": "xdotool",
     "xdpyinfo": "xdpyinfo",
     "xdpyinfo-debuginfo": "xdpyinfo",

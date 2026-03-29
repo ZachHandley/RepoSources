@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:16Z",
+    "generated_at": "2026-03-29T05:11:55Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
-    "total_mappings": 1307
+    "total_mappings": 1310
   },
   "mappings": {
     "app-accessibility/espeak": "espeak",
@@ -731,6 +731,7 @@
     "media-gfx/apng2gif": "apng2gif",
     "media-gfx/asymptote": "asymptote",
     "media-gfx/autotrace": "autotrace",
+    "media-gfx/basisu": "basis_universal",
     "media-gfx/chafa": "chafa",
     "media-gfx/dcraw": "dcraw",
     "media-gfx/dmtx-utils": "dmtx-utils",
@@ -1056,6 +1057,7 @@
     "net-libs/nghttp2": "libnghttp2",
     "net-libs/nghttp3": "libnghttp3",
     "net-libs/nodejs": "node",
+    "net-libs/qxmpp": "qxmpp",
     "net-libs/rpcsvc-proto": "rpcsvc-proto",
     "net-libs/serf": "apache-serf",
     "net-libs/tdlib": "tdlib",
@@ -1253,6 +1255,7 @@
     "sys-process/glances": "glances",
     "sys-process/parallel": "parallel",
     "sys-process/time": "gnu-time",
+    "www-apps/hugo": "hugo",
     "www-client/ddgr": "ddgr",
     "www-client/dillo": "dillo",
     "www-client/httrack": "httrack",

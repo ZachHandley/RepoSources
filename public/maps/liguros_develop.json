@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:31Z",
+    "generated_at": "2026-03-29T05:12:26Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
-    "total_mappings": 3457
+    "total_mappings": 3458
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -1092,7 +1092,6 @@
     "dev-libs/efl": "efl",
     "dev-libs/elfutils": "elfutils",
     "dev-libs/expat": "expat",
-    "dev-libs/fastText": "fasttext",
     "dev-libs/fcgi": "fcgi",
     "dev-libs/ffcall": "libffcall",
     "dev-libs/flatbuffers": "flatbuffers",
@@ -1280,6 +1279,7 @@
     "dev-libs/marisa": "marisa",
     "dev-libs/md4c": "md4c",
     "dev-libs/mimalloc": "mimalloc",
+    "dev-libs/miniaudio": "miniaudio",
     "dev-libs/modsecurity": "modsecurity",
     "dev-libs/mongo-c-driver": "mongo-c-driver",
     "dev-libs/mpc": "libmpc",
@@ -1478,7 +1478,6 @@
     "dev-qt/qtgraphicaleffects": "qt",
     "dev-qt/qtgraphs": "qtgraphs",
     "dev-qt/qtgui": "qt",
-    "dev-qt/qthelp": "qt",
     "dev-qt/qthttpserver": "qthttpserver",
     "dev-qt/qtimageformats": "qt",
     "dev-qt/qtlanguageserver": "qtlanguageserver",
@@ -1514,7 +1513,6 @@
     "dev-qt/qtwidgets": "qt",
     "dev-qt/qtx11extras": "qt",
     "dev-qt/qtxml": "qt",
-    "dev-qt/qtxmlpatterns": "qt",
     "dev-ruby/asciidoctor": "asciidoctor",
     "dev-ruby/itextomml": "itex2mml",
     "dev-ruby/rrdtool-bindings": "rrdtool",
@@ -1667,6 +1665,7 @@
     "dev-util/mdds": "mdds",
     "dev-util/mesa_clc": "mesa",
     "dev-util/mingw64-runtime": "mingw-w64",
+    "dev-util/minify": "minify",
     "dev-util/minify-bin": "minify",
     "dev-util/mise": "mise",
     "dev-util/mk-configure": "mk-configure",
@@ -2374,6 +2373,7 @@
     "media-video/subliminal": "subliminal",
     "media-video/tivodecode": "tivodecode",
     "media-video/vcdimager": "vcdimager",
+    "media-video/wireplumber": "wireplumber",
     "media-video/x264-encoder": "x264",
     "media-video/yle-dl": "yle-dl",
     "net-analyzer/2ping": "twoping",
@@ -3351,6 +3351,7 @@
     "x11-apps/mesa-progs": "mesa",
     "x11-apps/mkfontscale": "mkfontscale",
     "x11-apps/xauth": "xauth",
+    "x11-apps/xcursorgen": "xcursorgen",
     "x11-apps/xdpyinfo": "xdpyinfo",
     "x11-apps/xeyes": "xeyes",
     "x11-apps/xinit": "xinit",

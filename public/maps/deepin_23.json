@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:39Z",
+    "generated_at": "2026-03-29T05:10:58Z",
     "source": "repology-dump",
     "distro": "deepin_23",
-    "total_mappings": 9963
+    "total_mappings": 9968
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -1325,6 +1325,7 @@
     "gir1.2-vte-3.91": "vte3",
     "gir1.2-webkit-6.0": "webkitgtk",
     "gir1.2-webkit2-4.1": "webkitgtk",
+    "gir1.2-wp-0.5": "wireplumber",
     "gir1.2-xmlb-2.0": "libxmlb",
     "gir1.2-zbar-1.0": "zbar",
     "gist": "gist",
@@ -6364,6 +6365,8 @@
     "libwinpr-tools2-2": "freerdp",
     "libwinpr2-2": "freerdp",
     "libwinpr2-dev": "freerdp",
+    "libwireplumber-0.5-0": "wireplumber",
+    "libwireplumber-0.5-dev": "wireplumber",
     "libwireshark-data": "wireshark",
     "libwireshark-dev": "wireshark",
     "libwireshark17": "wireshark",
@@ -9787,6 +9790,8 @@
     "wildmidi": "wildmidi",
     "winbind": "samba",
     "winpr-utils": "freerdp",
+    "wireplumber": "wireplumber",
+    "wireplumber-doc": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-common": "wireshark",
     "wireshark-dev": "wireshark",

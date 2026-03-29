@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:52Z",
+    "generated_at": "2026-03-29T05:13:08Z",
     "source": "repology-dump",
     "distro": "mx_25",
-    "total_mappings": 887
+    "total_mappings": 892
   },
   "mappings": {
     "affs-modules-6.18.15+1-m68k-di,affs-modules-6.18.15+1-powerpc-di": "linux-headers@4.4",
@@ -179,6 +179,7 @@
     "firewire-core-modules-6.18.15+1-powerpc-di,firewire-core-modules-6.18.15+1-powerpc64-di": "linux-headers@4.4",
     "firewire-core-modules-6.18.15+1-powerpc64le-di": "linux-headers@4.4",
     "firewire-core-modules-6.18.15+1-sh7751r-di": "linux-headers@4.4",
+    "gir1.2-wp-0.5": "wireplumber",
     "gnome-session-canberra": "libcanberra",
     "gstreamer1.0-pipewire": "pipewire",
     "gwenhywfar-tools": "gwenhywfar",
@@ -313,6 +314,8 @@
     "libvtk9-qt-dev": "vtk",
     "libvtk9.5": "vtk",
     "libvtk9.5-qt": "vtk",
+    "libwireplumber-0.5-0": "wireplumber",
+    "libwireplumber-0.5-dev": "wireplumber",
     "linux": "linux-headers@4.4",
     "linux-base-6.18.15+1-alpha-generic": "linux-headers@4.4",
     "linux-base-6.18.15+1-alpha-smp": "linux-headers@4.4",
@@ -879,6 +882,8 @@
     "vtk9": "vtk",
     "vtk9-doc": "vtk",
     "vtk9-examples": "vtk",
+    "wireplumber": "wireplumber",
+    "wireplumber-doc": "wireplumber",
     "xfs-modules-6.18.15+1-alpha-generic-di": "linux-headers@4.4",
     "xfs-modules-6.18.15+1-amd64-di": "linux-headers@4.4",
     "xfs-modules-6.18.15+1-arm64-di": "linux-headers@4.4",

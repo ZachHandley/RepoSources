@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:06Z",
+    "generated_at": "2026-03-29T05:15:09Z",
     "source": "repology-dump",
     "distro": "pypi",
-    "total_mappings": 255
+    "total_mappings": 254
   },
   "mappings": {
     "Av1an": "av1an",
@@ -47,7 +47,6 @@
     "beads-mcp": "beads",
     "beancount": "beancount",
     "black": "black",
-    "boost": "boost",
     "borgbackup": "borgbackup",
     "bpython": "bpython",
     "bpytop": "bpytop",

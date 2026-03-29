@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:44Z",
+    "generated_at": "2026-03-29T05:12:53Z",
     "source": "repology-dump",
     "distro": "msys2_clang64",
-    "total_mappings": 2946
+    "total_mappings": 2952
   },
   "mappings": {
     "mingw-w64-64tass": "tass64",
@@ -602,6 +602,7 @@
     "mingw-w64-clang-x86_64-hyperfine": "hyperfine",
     "mingw-w64-clang-x86_64-hypre": "hypre",
     "mingw-w64-clang-x86_64-i2pd": "i2pd",
+    "mingw-w64-clang-x86_64-icestorm": "icestorm",
     "mingw-w64-clang-x86_64-iconv": "libiconv",
     "mingw-w64-clang-x86_64-icoutils": "icoutils",
     "mingw-w64-clang-x86_64-icu": "icu4c@74",
@@ -984,6 +985,7 @@
     "mingw-w64-clang-x86_64-manim": "manim",
     "mingw-w64-clang-x86_64-mapserver": "mapserver",
     "mingw-w64-clang-x86_64-marisa": "marisa",
+    "mingw-w64-clang-x86_64-markdown-oxide": "markdown-oxide",
     "mingw-w64-clang-x86_64-matio": "libmatio",
     "mingw-w64-clang-x86_64-maturin": "maturin",
     "mingw-w64-clang-x86_64-mbedtls": "mbedtls",
@@ -1004,6 +1006,7 @@
     "mingw-w64-clang-x86_64-micro": "micro",
     "mingw-w64-clang-x86_64-microsoft-gsl": "cpp-gsl",
     "mingw-w64-clang-x86_64-mimalloc": "mimalloc",
+    "mingw-w64-clang-x86_64-miniaudio": "miniaudio",
     "mingw-w64-clang-x86_64-minio": "minio",
     "mingw-w64-clang-x86_64-miniserve": "miniserve",
     "mingw-w64-clang-x86_64-minisign": "minisign",
@@ -2020,6 +2023,7 @@
     "mingw-w64-hyperfine": "hyperfine",
     "mingw-w64-hypre": "hypre",
     "mingw-w64-i2pd": "i2pd",
+    "mingw-w64-icestorm": "icestorm",
     "mingw-w64-icoutils": "icoutils",
     "mingw-w64-icu": "icu4c@74",
     "mingw-w64-id3lib": "id3lib",
@@ -2353,6 +2357,7 @@
     "mingw-w64-manim": "manim",
     "mingw-w64-mapserver": "mapserver",
     "mingw-w64-marisa": "marisa",
+    "mingw-w64-markdown-oxide": "markdown-oxide",
     "mingw-w64-matio": "libmatio",
     "mingw-w64-maturin": "maturin",
     "mingw-w64-mbedtls": "mbedtls",
@@ -2372,6 +2377,7 @@
     "mingw-w64-micro": "micro",
     "mingw-w64-microsoft-gsl": "cpp-gsl",
     "mingw-w64-mimalloc": "mimalloc",
+    "mingw-w64-miniaudio": "miniaudio",
     "mingw-w64-minio": "minio",
     "mingw-w64-miniserve": "miniserve",
     "mingw-w64-minisign": "minisign",

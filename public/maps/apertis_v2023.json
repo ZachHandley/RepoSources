@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:11:53Z",
+    "generated_at": "2026-03-29T05:10:00Z",
     "source": "repology-dump",
     "distro": "apertis_v2023",
-    "total_mappings": 5445
+    "total_mappings": 5450
   },
   "mappings": {
     "aalib": "aalib",
@@ -639,6 +639,7 @@
     "gir1.2-soup-2.4": "libsoup",
     "gir1.2-vte-2.91": "vte3",
     "gir1.2-webkit2-4.0": "webkitgtk",
+    "gir1.2-wp-0.4": "wireplumber",
     "gist": "gist",
     "git": "git",
     "git-all": "git",
@@ -3678,6 +3679,8 @@
     "libwebsockets-test-server-common": "libwebsockets",
     "libwebsockets16": "libwebsockets",
     "libwind0-heimdal": "heimdal",
+    "libwireplumber-0.4-0": "wireplumber",
+    "libwireplumber-0.4-dev": "wireplumber",
     "libwmf": "libwmf",
     "libwmf-bin": "libwmf",
     "libwmf-dev": "libwmf",
@@ -5338,6 +5341,8 @@
     "wget-udeb": "wget",
     "whiptail": "newt",
     "winbind": "samba",
+    "wireplumber": "wireplumber",
+    "wireplumber-doc": "wireplumber",
     "woff2": "woff2",
     "wpebackend-fdo": "wpebackend-fdo",
     "wx-common": "wxwidgets",

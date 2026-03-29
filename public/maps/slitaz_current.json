@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:42Z",
+    "generated_at": "2026-03-29T05:15:50Z",
     "source": "repology-dump",
     "distro": "slitaz_current",
-    "total_mappings": 1333
+    "total_mappings": 1334
   },
   "mappings": {
     "Qt4": "qt",
@@ -1301,6 +1301,7 @@
     "xorg-xauth": "xauth",
     "xorg-xbitmaps": "xbitmaps",
     "xorg-xcmiscproto": "xorgproto",
+    "xorg-xcursorgen": "xcursorgen",
     "xorg-xdpyinfo": "xdpyinfo",
     "xorg-xextproto": "xorgproto",
     "xorg-xf86bigfontproto": "xorgproto",

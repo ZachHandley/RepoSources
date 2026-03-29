@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:16:02Z",
+    "generated_at": "2026-03-29T05:16:14Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "total_mappings": 10719
@@ -706,6 +706,7 @@
     "cracklib-runtime": "cracklib",
     "cracklib2": "cracklib",
     "creduce": "creduce",
+    "crip": "crip",
     "crm114": "crm114",
     "cruft": "cruft",
     "crypto-modules-3.13.0-24-generic-di": "linux-headers@4.4",
@@ -8183,7 +8184,6 @@
     "mlton-runtime-x86-64-linux-gnu": "mlton",
     "mlton-tools": "mlton",
     "mm-common": "mm-common",
-    "mmv": "mmv",
     "moc": "moc",
     "moc-ffmpeg-plugin": "moc",
     "module-init-tools": "kmod",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:16:00Z",
+    "generated_at": "2026-03-29T05:16:12Z",
     "source": "repology-dump",
     "distro": "tur",
-    "total_mappings": 128
+    "total_mappings": 129
   },
   "mappings": {
     "64tass": "tass64",
@@ -27,6 +27,7 @@
     "ddns-go": "ddns-go",
     "dillo": "dillo",
     "dlib": "dlib",
+    "eigen5": "eigen",
     "embree": "embree",
     "emojify": "emojify",
     "ettercap": "ettercap",

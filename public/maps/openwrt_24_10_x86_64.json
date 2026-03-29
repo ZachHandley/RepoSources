@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:14:39Z",
+    "generated_at": "2026-03-29T05:14:38Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
-    "total_mappings": 3245
+    "total_mappings": 3241
   },
   "mappings": {
     "ack": "ack",
@@ -853,7 +853,6 @@
     "feeds/packages/net/git": "git",
     "feeds/packages/net/git-lfs": "git-lfs",
     "feeds/packages/net/gnunet": "gnunet",
-    "feeds/packages/net/gping": "gping",
     "feeds/packages/net/haproxy": "haproxy",
     "feeds/packages/net/hcxtools": "hcxtools",
     "feeds/packages/net/htpdate": "htpdate",
@@ -1036,7 +1035,6 @@
     "feeds/packages/utils/lm-sensors": "lm-sensors",
     "feeds/packages/utils/logrotate": "logrotate",
     "feeds/packages/utils/lrzsz": "lrzsz",
-    "feeds/packages/utils/lsd": "lsd",
     "feeds/packages/utils/lsof": "lsof",
     "feeds/packages/utils/lvm2": "device-mapper",
     "feeds/packages/utils/macchanger": "macchanger",
@@ -1303,7 +1301,6 @@
     "gpgv": "gnupg",
     "gpgv2": "gnupg",
     "gphoto2": "gphoto2",
-    "gping": "gping",
     "gpsd": "gpsd",
     "gpsd-clients": "gpsd",
     "gpsd-utils": "gpsd",
@@ -1997,7 +1994,6 @@
     "lsattr": "e2fsprogs",
     "lsblk": "gnu-getopt",
     "lscpu": "gnu-getopt",
-    "lsd": "lsd",
     "lslocks": "gnu-getopt",
     "lsns": "gnu-getopt",
     "lsof": "lsof",

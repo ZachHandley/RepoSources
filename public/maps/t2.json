@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:49Z",
+    "generated_at": "2026-03-29T05:15:59Z",
     "source": "repology-dump",
     "distro": "t2",
-    "total_mappings": 1991
+    "total_mappings": 1994
   },
   "mappings": {
     "0install": "zero-install",
@@ -635,6 +635,7 @@
     "iat": "iat",
     "icecast": "icecast",
     "icecream": "icecream",
+    "icestorm": "icestorm",
     "icon-naming-utils": "icon-naming-utils",
     "icoutils": "icoutils",
     "icu4c": "icu4c@74",
@@ -794,6 +795,7 @@
     "libdeflate": "libdeflate",
     "libdex": "libdex",
     "libdiscid": "libdiscid",
+    "libdmtx": "libdmtx",
     "libdmx": "libdmx",
     "libdnet": "libdnet",
     "libdrm": "libdrm",
@@ -1249,7 +1251,6 @@
     "mrtg": "mrtg",
     "msedit": "msedit",
     "msgpack-cxx": "msgpack-cxx",
-    "msgpuck": "msgpuck",
     "msitools": "msitools",
     "msmtp": "msmtp",
     "mtools": "mtools",
@@ -1883,6 +1884,7 @@
     "wimlib": "wimlib",
     "winetricks": "winetricks",
     "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
     "wireshark": "wireshark",
     "witr": "witr",
     "wmctrl": "wmctrl",
@@ -1919,6 +1921,7 @@
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
     "xclip": "xclip",
+    "xcursorgen": "xcursorgen",
     "xdelta": "xdelta",
     "xdelta3": "xdelta",
     "xdotool": "xdotool",

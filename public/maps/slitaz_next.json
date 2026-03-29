@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:43Z",
+    "generated_at": "2026-03-29T05:15:52Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
     "total_mappings": 2199
@@ -1385,7 +1385,6 @@
     "mlt-dev": "mlt",
     "mlt-python-bindings": "mlt",
     "mm-common": "mm-common",
-    "mmv": "mmv",
     "moc": "moc",
     "mono": "mono",
     "mono-dev": "mono",
@@ -2150,6 +2149,7 @@
     "xorg-xcb-util-renderutil-dev": "xcb-util-renderutil",
     "xorg-xcb-util-wm": "xcb-util-wm",
     "xorg-xcb-util-wm-dev": "xcb-util-wm",
+    "xorg-xcursorgen": "xcursorgen",
     "xorg-xdpyinfo": "xdpyinfo",
     "xorg-xeyes": "xeyes",
     "xorg-xinit": "xinit",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:01Z",
+    "generated_at": "2026-03-29T05:15:03Z",
     "source": "repology-dump",
     "distro": "ptxdist",
-    "total_mappings": 480
+    "total_mappings": 481
   },
   "mappings": {
     "abseil-cpp": "abseil",
@@ -427,6 +427,7 @@
     "websocat": "websocat",
     "wget": "wget",
     "which": "gnu-which",
+    "wireplumber": "wireplumber",
     "wireshark": "wireshark",
     "wpebackend-fdo": "wpebackend-fdo",
     "x264": "x264",

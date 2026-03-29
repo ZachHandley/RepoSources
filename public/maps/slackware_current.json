@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:39Z",
+    "generated_at": "2026-03-29T05:15:47Z",
     "source": "repology-dump",
     "distro": "slackware_current",
-    "total_mappings": 711
+    "total_mappings": 717
   },
   "mappings": {
     "Cython": "cython",
@@ -401,6 +401,7 @@
     "libsigc++": "libsigc++",
     "libsigc++3": "libsigc++",
     "libsigsegv": "libsigsegv",
+    "libslirp": "libslirp",
     "libsndfile": "libsndfile",
     "libsodium": "libsodium",
     "libsoup": "libsoup",
@@ -622,6 +623,7 @@
     "sox": "sox",
     "speex": "speex",
     "speexdsp": "speexdsp",
+    "spice-protocol": "spice-protocol",
     "spirv-llvm-translator": "spirv-llvm-translator",
     "sqlite": "sqlite",
     "squashfs-tools": "squashfs",
@@ -651,6 +653,7 @@
     "tin": "tin",
     "tmux": "tmux",
     "universal-ctags": "universal-ctags",
+    "usbredir": "usbredir",
     "usbutils": "usbutils",
     "userspace-rcu": "userspace-rcu",
     "utf8proc": "utf8proc",
@@ -674,6 +677,7 @@
     "which": "gnu-which",
     "whois": "whois",
     "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
     "woff2": "woff2",
     "x3270": "x3270",
     "xapian-core": "xapian",
@@ -686,6 +690,7 @@
     "xcb-util-keysyms": "xcb-util-keysyms",
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
+    "xcursorgen": "xcursorgen",
     "xdpyinfo": "xdpyinfo",
     "xeyes": "xeyes",
     "xfig": "xfig",
@@ -706,6 +711,7 @@
     "xprop": "xprop",
     "xrdb": "xrdb",
     "xsane": "xsane",
+    "xsimd": "xsimd",
     "xterm": "xterm",
     "xtrans": "xtrans",
     "xwininfo": "xwininfo",

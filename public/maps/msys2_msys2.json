@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:47Z",
+    "generated_at": "2026-03-29T05:12:59Z",
     "source": "repology-dump",
     "distro": "msys2_msys2",
-    "total_mappings": 463
+    "total_mappings": 464
   },
   "mappings": {
     "ack": "ack",
@@ -21,6 +21,7 @@
     "autoconf2.69": "autoconf",
     "autoconf2.71": "autoconf",
     "autoconf2.72": "autoconf",
+    "autoconf2.73": "autoconf",
     "autogen": "autogen",
     "automake1.11": "automake",
     "automake1.12": "automake",

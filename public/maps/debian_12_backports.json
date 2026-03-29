@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:31Z",
+    "generated_at": "2026-03-29T05:10:47Z",
     "source": "repology-dump",
     "distro": "debian_12_backports",
-    "total_mappings": 8915
+    "total_mappings": 8920
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -2237,6 +2237,7 @@
     "gir1.2-webkit-6.0": "webkitgtk",
     "gir1.2-webkit2-4.0": "webkitgtk",
     "gir1.2-webkit2-4.1": "webkitgtk",
+    "gir1.2-wp-0.5": "wireplumber",
     "git-annex": "git-annex",
     "git-credential-oauth": "git-credential-oauth",
     "glab": "glab",
@@ -3624,6 +3625,8 @@
     "libwinpr-tools3-3": "freerdp",
     "libwinpr3-3": "freerdp",
     "libwinpr3-dev": "freerdp",
+    "libwireplumber-0.5-0": "wireplumber",
+    "libwireplumber-0.5-dev": "wireplumber",
     "libx32asan8": "aarch64-elf-gcc",
     "libx32atomic1": "aarch64-elf-gcc",
     "libx32gcc-12-dev": "aarch64-elf-gcc",
@@ -8750,6 +8753,8 @@
     "winbind": "samba",
     "winpr3-utils": "freerdp",
     "wireguard-go": "wireguard-go",
+    "wireplumber": "wireplumber",
+    "wireplumber-doc": "wireplumber",
     "xfs-modules-6.12.43+deb12-4kc-malta-di": "linux-headers@4.4",
     "xfs-modules-6.12.43+deb12-5kc-malta-di": "linux-headers@4.4",
     "xfs-modules-6.12.43+deb12-alpha-generic-di": "linux-headers@4.4",

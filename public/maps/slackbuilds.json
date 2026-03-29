@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:36Z",
+    "generated_at": "2026-03-29T05:15:43Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
-    "total_mappings": 2122
+    "total_mappings": 2123
   },
   "mappings": {
     "academic/Gabedit": "gabedit",
@@ -111,6 +111,7 @@
     "audio/cd-discid": "cd-discid",
     "audio/chuck": "chuck",
     "audio/cmus": "cmus",
+    "audio/crip": "crip",
     "audio/cubeb": "cubeb",
     "audio/darkice": "darkice",
     "audio/ecasound": "ecasound",
@@ -168,6 +169,7 @@
     "audio/vorbisgain": "vorbisgain",
     "audio/waon": "waon",
     "audio/wildmidi": "wildmidi",
+    "audio/wireplumber": "wireplumber",
     "audio/xmp": "xmp",
     "business/beancount": "beancount",
     "business/ledger": "ledger",
@@ -1447,6 +1449,7 @@
     "network/edbrowse": "edbrowse",
     "network/ejabberd": "ejabberd",
     "network/enet": "enet",
+    "network/et": "et",
     "network/ettercap": "ettercap",
     "network/exim": "exim",
     "network/fail2ban": "fail2ban",
@@ -1992,7 +1995,6 @@
     "system/password-store": "pass",
     "system/pax": "pax",
     "system/pbzip2": "pbzip2",
-    "system/pbzx": "pbzx",
     "system/pce": "pce",
     "system/pcsc-lite": "pcsc-lite",
     "system/pdfgrep": "pdfgrep",
@@ -2081,7 +2083,6 @@
     "system/thefuck": "thefuck",
     "system/tinycdb": "tinycdb",
     "system/tio": "tio",
-    "system/tm": "tm",
     "system/tmpwatch": "tmpwatch",
     "system/tmuxp": "tmuxp",
     "system/tokyocabinet": "tokyo-cabinet",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:38Z",
+    "generated_at": "2026-03-29T05:12:43Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
-    "total_mappings": 4032
+    "total_mappings": 4037
   },
   "mappings": {
     "6tunnel": "sixtunnel",
@@ -2106,6 +2106,7 @@
     "libwebp": "webp",
     "libwebp-utils": "webp",
     "libwebsockets": "libwebsockets",
+    "libwireplumber": "wireplumber",
     "libwmf": "libwmf",
     "libwpd": "libwpd",
     "libwpe": "libwpe",
@@ -2361,6 +2362,7 @@
     "mighttpd2": "mighttpd2",
     "miller": "miller",
     "mimalloc": "mimalloc",
+    "miniaudio": "miniaudio",
     "minicom": "minicom",
     "minidlna": "minidlna",
     "miniflux": "miniflux",
@@ -3862,6 +3864,8 @@
     "wimlib": "wimlib",
     "winetricks": "winetricks",
     "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
+    "wireplumber-docs": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-cli": "wireshark",
     "wireshark-qt": "wireshark",
@@ -3929,6 +3933,7 @@
     "xorg-server-xvfb": "xorg-server",
     "xorg-util-macros": "util-macros",
     "xorg-xauth": "xauth",
+    "xorg-xcursorgen": "xcursorgen",
     "xorg-xdpyinfo": "xdpyinfo",
     "xorg-xeyes": "xeyes",
     "xorg-xinit": "xinit",

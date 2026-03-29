@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:14:30Z",
+    "generated_at": "2026-03-29T05:14:27Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
-    "total_mappings": 3069
+    "total_mappings": 3071
   },
   "mappings": {
     "2ping": "twoping",
@@ -23,6 +23,7 @@
     "Coin4": "coin3d",
     "CorsixTH": "corsixth",
     "DirectX-Headers": "directx-headers",
+    "EternalTerminal": "et",
     "FAudio": "faudio",
     "FastCGI": "fcgi",
     "GraphicsMagick": "graphicsmagick",
@@ -2049,7 +2050,6 @@
     "openssl-1_0_0": "openssl@3",
     "openssl-1_1": "openssl@3",
     "openssl-3": "openssl@3",
-    "opentracing-cpp": "opentracing-cpp",
     "opentyrian": "open-tyrian",
     "openvdb": "openvdb",
     "openvpn": "openvpn",
@@ -2959,6 +2959,7 @@
     "wimlib": "wimlib",
     "winetricks": "winetricks",
     "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
     "wireshark": "wireshark",
     "wmctrl": "wmctrl",
     "woff2": "woff2",
@@ -2992,6 +2993,7 @@
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
     "xclip": "xclip",
+    "xcursorgen": "xcursorgen",
     "xdelta3": "xdelta",
     "xdotool": "xdotool",
     "xdpyinfo": "xdpyinfo",

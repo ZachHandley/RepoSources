@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:14:26Z",
+    "generated_at": "2026-03-29T05:14:19Z",
     "source": "repology-dump",
     "distro": "opensuse_games_tumbleweed",
-    "total_mappings": 551
+    "total_mappings": 550
   },
   "mappings": {
     "7kaa": "seven-kingdoms",
@@ -177,7 +177,6 @@
     "freeciv-lang": "freeciv",
     "freeciv-qt": "freeciv",
     "freeciv-sdl2": "freeciv",
-    "freeciv-sdl3": "freeciv",
     "freedink": "freedink",
     "freedink-debuginfo": "freedink",
     "freedink-debugsource": "freedink",

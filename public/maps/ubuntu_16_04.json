@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:16:04Z",
+    "generated_at": "2026-03-29T05:16:16Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
-    "total_mappings": 11779
+    "total_mappings": 11777
   },
   "mappings": {
     "0install": "zero-install",
@@ -800,6 +800,7 @@
     "cracklib2": "cracklib",
     "cram": "cram",
     "creduce": "creduce",
+    "crip": "crip",
     "crm114": "crm114",
     "cruft": "cruft",
     "cruft-common": "cruft",
@@ -5644,7 +5645,6 @@
     "libmsgpack-dev": "msgpack",
     "libmsgpack3": "msgpack",
     "libmsgpackc2": "msgpack",
-    "libmsgpuck-dev": "msgpuck",
     "libmsi-dev": "msitools",
     "libmsi0": "msitools",
     "libmsi0-dbg": "msitools",
@@ -8942,7 +8942,6 @@
     "mm-common": "mm-common",
     "mmark": "mmark",
     "mmdb-bin": "libmaxminddb",
-    "mmv": "mmv",
     "moarvm": "moarvm",
     "moarvm-dbg": "moarvm",
     "moarvm-dev": "moarvm",
@@ -9046,7 +9045,6 @@
     "mruby": "mruby",
     "mscgen": "mscgen",
     "msgpack": "msgpack",
-    "msgpuck": "msgpuck",
     "msitools": "msitools",
     "msktutil": "msktutil",
     "msmtp": "msmtp",

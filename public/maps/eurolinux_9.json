@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:54Z",
+    "generated_at": "2026-03-29T05:11:20Z",
     "source": "repology-dump",
     "distro": "eurolinux_9",
-    "total_mappings": 5100
+    "total_mappings": 5105
   },
   "mappings": {
     "Box2D": "box2d",
@@ -4941,6 +4941,11 @@
     "wireguard-tools": "wireguard-tools",
     "wireguard-tools-debuginfo": "wireguard-tools",
     "wireguard-tools-debugsource": "wireguard-tools",
+    "wireplumber": "wireplumber",
+    "wireplumber-debuginfo": "wireplumber",
+    "wireplumber-debugsource": "wireplumber",
+    "wireplumber-devel": "wireplumber",
+    "wireplumber-libs": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-cli": "wireshark",
     "wireshark-debuginfo": "wireshark",

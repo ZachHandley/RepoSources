@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:45Z",
+    "generated_at": "2026-03-29T05:15:54Z",
     "source": "repology-dump",
     "distro": "spack",
     "total_mappings": 1405
@@ -281,7 +281,6 @@
     "fastme": "fastme",
     "fastp": "fastp",
     "fastqc": "fastqc",
-    "fasttext": "fasttext",
     "faust": "faust",
     "fcgi": "fcgi",
     "fd": "fd",
@@ -345,6 +344,7 @@
     "gflags": "gflags",
     "ggml": "ggml",
     "gh": "gh",
+    "ghex": "ghex",
     "ghostscript": "ghostscript",
     "giflib": "giflib",
     "ginac": "ginac",
@@ -806,7 +806,6 @@
     "mkfontscale": "mkfontscale",
     "mlpack": "mlpack",
     "mmseqs2": "mmseqs2",
-    "mmv": "mmv",
     "mold": "mold",
     "mongo-c-driver": "mongo-c-driver",
     "mongo-cxx-driver": "mongo-cxx-driver",
@@ -1357,6 +1356,7 @@
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
     "xclip": "xclip",
+    "xcursorgen": "xcursorgen",
     "xdelta": "xdelta",
     "xdotool": "xdotool",
     "xdpyinfo": "xdpyinfo",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:11:39Z",
+    "generated_at": "2026-03-29T05:09:42Z",
     "source": "repology-dump",
     "distro": "alpine_3_19",
-    "total_mappings": 8877
+    "total_mappings": 8880
   },
   "mappings": {
     "6tunnel": "sixtunnel",
@@ -1947,9 +1947,6 @@
     "fann-float": "fann",
     "fastjar": "fastjar",
     "fastjar-doc": "fastjar",
-    "fasttext": "fasttext",
-    "fasttext-dev": "fasttext",
-    "fasttext-libs": "fasttext",
     "faudio": "faudio",
     "faudio-dev": "faudio",
     "fcft": "fcft",
@@ -6568,8 +6565,6 @@
     "py3-cracklib-pyc": "cracklib",
     "py3-dns-lexicon": "lexicon",
     "py3-dns-lexicon-pyc": "lexicon",
-    "py3-fasttext": "fasttext",
-    "py3-fasttext-pyc": "fasttext",
     "py3-flake8": "flake8",
     "py3-flake8-pyc": "flake8",
     "py3-flatbuffers": "flatbuffers",
@@ -8573,6 +8568,12 @@
     "wireguard-tools-doc": "wireguard-tools",
     "wireguard-tools-wg": "wireguard-tools",
     "wireguard-tools-wg-quick": "wireguard-tools",
+    "wireplumber": "wireplumber",
+    "wireplumber-dbg": "wireplumber",
+    "wireplumber-dev": "wireplumber",
+    "wireplumber-lang": "wireplumber",
+    "wireplumber-libs": "wireplumber",
+    "wireplumber-logind": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-common": "wireshark",
     "wireshark-dev": "wireshark",
@@ -8633,6 +8634,8 @@
     "xcb-util-wm-dev": "xcb-util-wm",
     "xclip": "xclip",
     "xclip-doc": "xclip",
+    "xcursorgen": "xcursorgen",
+    "xcursorgen-doc": "xcursorgen",
     "xdelta3": "xdelta",
     "xdelta3-doc": "xdelta",
     "xdotool": "xdotool",

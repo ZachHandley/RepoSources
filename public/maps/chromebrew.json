@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:21Z",
+    "generated_at": "2026-03-29T05:10:34Z",
     "source": "repology-dump",
     "distro": "chromebrew",
-    "total_mappings": 1349
+    "total_mappings": 1352
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -53,6 +53,7 @@
     "atool": "atool",
     "atop": "atop",
     "attr": "attr",
+    "atuin": "atuin",
     "audacious": "audacious",
     "augeas": "augeas",
     "autoconf": "autoconf",
@@ -137,6 +138,7 @@
     "cmocka": "cmocka",
     "cmus": "cmus",
     "cni_plugins": "cni-plugins",
+    "coin": "coin3d",
     "colordiff": "colordiff",
     "composer": "composer",
     "conmon": "conmon",
@@ -898,6 +900,7 @@
     "opam": "opam",
     "openal": "openal-soft",
     "openblas": "openblas",
+    "opencascade": "opencascade",
     "opencl_headers": "opencl-headers",
     "opencl_icd_loader": "opencl-icd-loader",
     "opencode": "opencode",
@@ -926,7 +929,6 @@
     "opusfile": "opusfile",
     "p11kit": "p11-kit",
     "p7zip_gui": "p7zip",
-    "packer_completion": "packer-completion",
     "pacparser": "pacparser",
     "pandoc": "pandoc",
     "pango": "pango",
@@ -1263,6 +1265,7 @@
     "volta": "volta",
     "vtable_dumper": "vtable-dumper",
     "vte": "vte3",
+    "vtk": "vtk",
     "vulkan_headers": "vulkan-headers",
     "vulkan_icd_loader": "vulkan-loader",
     "vulkan_tools": "vulkan-tools",

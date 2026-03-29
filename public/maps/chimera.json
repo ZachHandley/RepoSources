@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:19Z",
+    "generated_at": "2026-03-29T05:10:32Z",
     "source": "repology-dump",
     "distro": "chimera",
-    "total_mappings": 5601
+    "total_mappings": 5608
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -883,10 +883,6 @@
     "fastfetch-fishcomp": "fastfetch",
     "fastfetch-man": "fastfetch",
     "fastfetch-zshcomp": "fastfetch",
-    "fasttext": "fasttext",
-    "fasttext-devel": "fasttext",
-    "fasttext-devel-static": "fasttext",
-    "fasttext-doc": "fasttext",
     "fatsort": "fatsort",
     "fatsort-man": "fatsort",
     "faust": "faust",
@@ -5349,6 +5345,14 @@
     "wireguard-tools-wg-quick-dinit": "wireguard-tools",
     "wireguard-tools-wg-quick-man": "wireguard-tools",
     "wireguard-tools-wg-quick-nftables": "wireguard-tools",
+    "wireplumber": "wireplumber",
+    "wireplumber-bashcomp": "wireplumber",
+    "wireplumber-devel": "wireplumber",
+    "wireplumber-devel-static": "wireplumber",
+    "wireplumber-dinit": "wireplumber",
+    "wireplumber-dinit-links": "wireplumber",
+    "wireplumber-doc": "wireplumber",
+    "wireplumber-zshcomp": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-doc": "wireshark",
     "wireshark-man": "wireshark",
@@ -5415,6 +5419,9 @@
     "xcbproto-pycache": "xcb-proto",
     "xclip": "xclip",
     "xclip-man": "xclip",
+    "xcursorgen": "xcursorgen",
+    "xcursorgen-doc": "xcursorgen",
+    "xcursorgen-man": "xcursorgen",
     "xdotool": "xdotool",
     "xdotool-devel": "xdotool",
     "xdotool-doc": "xdotool",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:14Z",
+    "generated_at": "2026-03-29T05:11:50Z",
     "source": "repology-dump",
     "distro": "gobolinux",
-    "total_mappings": 1209
+    "total_mappings": 1210
   },
   "mappings": {
     "7Zip": "sevenzip",
@@ -1165,6 +1165,7 @@
     "XCB-Util-Renderutil": "xcb-util-renderutil",
     "XCB-Util-WM": "xcb-util-wm",
     "XClip": "xclip",
+    "XCursorGen": "xcursorgen",
     "XDelta": "xdelta",
     "XDoTool": "xdotool",
     "XDpyInfo": "xdpyinfo",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:51Z",
+    "generated_at": "2026-03-29T05:11:16Z",
     "source": "repology-dump",
     "distro": "epel_8",
-    "total_mappings": 1073
+    "total_mappings": 1075
   },
   "mappings": {
     "6tunnel": "sixtunnel",
@@ -227,6 +227,7 @@
     "discount": "discount",
     "disktype": "disktype",
     "dislocker": "dislocker",
+    "dispenso": "dispenso",
     "distcc": "distcc",
     "distrobox": "distrobox",
     "djvulibre": "djvulibre",
@@ -259,6 +260,7 @@
     "eot-utils": "eot-utils",
     "epstool": "epstool",
     "erlang": "erlang",
+    "et": "et",
     "ettercap": "ettercap",
     "exim": "exim",
     "expected": "tl-expected",
@@ -271,7 +273,6 @@
     "fast_float": "fast_float",
     "fastd": "fastd",
     "fastfetch": "fastfetch",
-    "fasttext": "fasttext",
     "fcgi": "fcgi",
     "fcgiwrap": "fcgiwrap",
     "fcl": "fcl",
@@ -606,6 +607,7 @@
     "miller": "miller",
     "mimalloc": "mimalloc",
     "mingw-libidn2": "libidn2",
+    "miniaudio": "miniaudio",
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minizip": "minizip-ng",

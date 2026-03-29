@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:47Z",
+    "generated_at": "2026-03-29T05:15:57Z",
     "source": "repology-dump",
     "distro": "stalix",
-    "total_mappings": 1009
+    "total_mappings": 1010
   },
   "mappings": {
     "aux/adwaita/cursors": "adwaita-icon-theme",
@@ -132,6 +132,7 @@
     "bin/empty": "empty",
     "bin/erofs/utils": "erofs-utils",
     "bin/esbuild": "esbuild",
+    "bin/et/ix": "et",
     "bin/etcd/ctl": "etcd",
     "bin/etcd/server": "etcd",
     "bin/etcd/utl": "etcd",

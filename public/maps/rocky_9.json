@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:14Z",
+    "generated_at": "2026-03-29T05:15:19Z",
     "source": "repology-dump",
     "distro": "rocky_9",
-    "total_mappings": 4512
+    "total_mappings": 4519
   },
   "mappings": {
     "Box2D": "box2d",
@@ -311,6 +311,8 @@
     "cairomm-devel": "cairomm",
     "cairomm-doc": "cairomm",
     "capstone": "capstone",
+    "capstone-debuginfo": "capstone",
+    "capstone-debugsource": "capstone",
     "capstone-devel": "capstone",
     "capstone-java": "capstone",
     "cargo": "rust",
@@ -1697,6 +1699,8 @@
     "libappstream-glib-builder": "appstream-glib",
     "libappstream-glib-devel": "appstream-glib",
     "libarchive": "libarchive",
+    "libarchive-debuginfo": "libarchive",
+    "libarchive-debugsource": "libarchive",
     "libarchive-devel": "libarchive",
     "libassuan": "libassuan",
     "libassuan-debuginfo": "libassuan",
@@ -4396,6 +4400,9 @@
     "whois": "whois",
     "whois-nls": "whois",
     "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
+    "wireplumber-devel": "wireplumber",
+    "wireplumber-libs": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-cli": "wireshark",
     "wireshark-debuginfo": "wireshark",

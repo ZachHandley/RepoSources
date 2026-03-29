@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:11Z",
+    "generated_at": "2026-03-29T05:15:14Z",
     "source": "repology-dump",
     "distro": "ravenports",
-    "total_mappings": 1005
+    "total_mappings": 1009
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -353,6 +353,7 @@
     "libde265": "libde265",
     "libdeflate": "libdeflate",
     "libdiscid": "libdiscid",
+    "libdmtx": "libdmtx",
     "libdom": "libdom",
     "libdrm": "libdrm",
     "libdsk": "libdsk",
@@ -776,6 +777,7 @@
     "qt6-qttools": "qt",
     "qt6-qttranslations": "qt",
     "qt6-qtwayland": "qt",
+    "qtkeychain": "qtkeychain",
     "quazip": "quazip",
     "quex": "quex",
     "ragel": "ragel",
@@ -958,6 +960,7 @@
     "xorg-xcb-util-wm": "xcb-util-wm",
     "xorg-xcomposite": "libxcomposite",
     "xorg-xcursor": "libxcursor",
+    "xorg-xcursorgen": "xcursorgen",
     "xorg-xcvt": "libxcvt",
     "xorg-xdamage": "libxdamage",
     "xorg-xdmcp": "libxdmcp",
@@ -1010,6 +1013,7 @@
     "znc": "znc",
     "zsh": "zsh",
     "zstd": "zstd",
+    "zxing-cpp": "zxing-cpp",
     "zziplib": "libzzip"
   }
 }

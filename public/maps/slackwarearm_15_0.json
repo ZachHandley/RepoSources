@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:40Z",
+    "generated_at": "2026-03-29T05:15:48Z",
     "source": "repology-dump",
     "distro": "slackwarearm_15_0",
-    "total_mappings": 631
+    "total_mappings": 632
   },
   "mappings": {
     "Cython": "cython",
@@ -609,6 +609,7 @@
     "xcb-util-keysyms": "xcb-util-keysyms",
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
+    "xcursorgen": "xcursorgen",
     "xdpyinfo": "xdpyinfo",
     "xeyes": "xeyes",
     "xfig": "xfig",

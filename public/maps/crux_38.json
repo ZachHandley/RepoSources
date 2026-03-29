@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:26Z",
+    "generated_at": "2026-03-29T05:10:40Z",
     "source": "repology-dump",
     "distro": "crux_38",
-    "total_mappings": 1136
+    "total_mappings": 1138
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -1012,6 +1012,7 @@
     "whois": "whois",
     "winetricks": "winetricks",
     "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
     "wireshark": "wireshark",
     "woff2": "woff2",
     "wpebackend-fdo": "wpebackend-fdo",
@@ -1106,6 +1107,7 @@
     "xorg-xcb-util-keysyms-32": "xcb-util-keysyms",
     "xorg-xcb-util-renderutil": "xcb-util-renderutil",
     "xorg-xcb-util-wm": "xcb-util-wm",
+    "xorg-xcursorgen": "xcursorgen",
     "xorg-xdpyinfo": "xdpyinfo",
     "xorg-xinit": "xinit",
     "xorg-xinput": "xinput",

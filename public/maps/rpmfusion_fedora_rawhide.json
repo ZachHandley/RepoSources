@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:24Z",
+    "generated_at": "2026-03-29T05:15:30Z",
     "source": "repology-dump",
     "distro": "rpmfusion_fedora_rawhide",
-    "total_mappings": 92
+    "total_mappings": 90
   },
   "mappings": {
     "HandBrake": "handbrake",
@@ -38,8 +38,6 @@
     "libde265-examples": "libde265",
     "libdvbcsa": "libdvbcsa",
     "libdvbcsa-devel": "libdvbcsa",
-    "libdvdcss": "libdvdcss",
-    "libdvdcss-devel": "libdvdcss",
     "librtmp": "rtmpdump",
     "librtmp-devel": "rtmpdump",
     "mencoder": "mplayer",

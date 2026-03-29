@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:41Z",
+    "generated_at": "2026-03-29T05:15:49Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
-    "total_mappings": 2444
+    "total_mappings": 2445
   },
   "mappings": {
     "0install": "zero-install",
@@ -2397,6 +2397,7 @@
     "xorg-util-macros": "util-macros",
     "xorg-xauth": "xauth",
     "xorg-xbitmaps": "xbitmaps",
+    "xorg-xcursorgen": "xcursorgen",
     "xorg-xdpyinfo": "xdpyinfo",
     "xorg-xeyes": "xeyes",
     "xorg-xinit": "xinit",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:22Z",
+    "generated_at": "2026-03-29T05:12:09Z",
     "source": "repology-dump",
     "distro": "kaos",
-    "total_mappings": 876
+    "total_mappings": 877
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -736,7 +736,7 @@
     "sdl2": "sdl2",
     "sdl3": "sdl3",
     "sdl_sound": "sdl2_sound",
-    "sdl_ttf": "sdl2_ttf",
+    "sdl_ttf": "sdl3_ttf",
     "sed": "gnu-sed",
     "serd": "serd",
     "serf": "apache-serf",
@@ -833,6 +833,7 @@
     "wget": "wget",
     "which": "gnu-which",
     "whois": "whois",
+    "wireplumber": "wireplumber",
     "wireshark": "wireshark",
     "wxwidgets": "wxwidgets",
     "x264": "x264",

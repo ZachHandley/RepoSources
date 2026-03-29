@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:11:48Z",
+    "generated_at": "2026-03-29T05:09:54Z",
     "source": "repology-dump",
     "distro": "alt_p9",
-    "total_mappings": 12136
+    "total_mappings": 12141
   },
   "mappings": {
     "7kaa": "seven-kingdoms",
@@ -2746,6 +2746,9 @@
     "icecast-debuginfo": "icecast",
     "icecream": "icecream",
     "icecream-debuginfo": "icecream",
+    "icestorm": "icestorm",
+    "icestorm-chipdb": "icestorm",
+    "icestorm-debuginfo": "icestorm",
     "icon-naming-utils": "icon-naming-utils",
     "icon-theme-adwaita": "adwaita-icon-theme",
     "icon-theme-hicolor": "hicolor-icon-theme",
@@ -11913,6 +11916,8 @@
     "xboard-theme-default": "xboard",
     "xclip": "xclip",
     "xclip-debuginfo": "xclip",
+    "xcursorgen": "xcursorgen",
+    "xcursorgen-debuginfo": "xcursorgen",
     "xdelta1": "xdelta",
     "xdelta1-debuginfo": "xdelta",
     "xdelta3": "xdelta",

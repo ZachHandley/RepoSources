@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:55Z",
+    "generated_at": "2026-03-29T05:11:22Z",
     "source": "repology-dump",
     "distro": "exherbo",
-    "total_mappings": 1736
+    "total_mappings": 1739
   },
   "mappings": {
     "app-admin/ansible": "ansible",
@@ -1113,12 +1113,12 @@
     "media/mpv": "mpv",
     "media/pipewire": "pipewire",
     "media/streamlink": "streamlink",
+    "media/wireplumber": "wireplumber",
     "monitor/bwm-ng": "bwm-ng",
     "monitor/filebeat": "filebeat",
     "monitor/loki": "logcli",
     "monitor/monit": "monit",
     "monitor/prometheus": "prometheus",
-    "monitor/promtail": "logcli",
     "monitoring/node_exporter": "node_exporter",
     "net-analyzer/ettercap": "ettercap",
     "net-analyzer/fail2ban": "fail2ban",
@@ -1373,6 +1373,7 @@
     "sci-libs/libgeotiff": "libgeotiff",
     "sci-libs/libnova": "libnova",
     "sci-libs/libqalculate": "libqalculate",
+    "sci-libs/libspnav": "libspnav",
     "sci-libs/nlopt": "nlopt",
     "sci-libs/opencascade": "opencascade",
     "sci-libs/proj": "proj",
@@ -1600,6 +1601,7 @@
     "x11-apps/redshift": "redshift",
     "x11-apps/rxvt-unicode": "rxvt-unicode",
     "x11-apps/xauth": "xauth",
+    "x11-apps/xcursorgen": "xcursorgen",
     "x11-apps/xdotool": "xdotool",
     "x11-apps/xdpyinfo": "xdpyinfo",
     "x11-apps/xeyes": "xeyes",
@@ -1707,6 +1709,7 @@
     "x11-libs/qtshadertools": "qt",
     "x11-libs/qtspeech": "qt",
     "x11-libs/qtsvg": "qt",
+    "x11-libs/qttasktree": "qttasktree",
     "x11-libs/qttools": "qt",
     "x11-libs/qttranslations": "qt",
     "x11-libs/qtvirtualkeyboard": "qt",

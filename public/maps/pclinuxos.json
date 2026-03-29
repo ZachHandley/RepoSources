@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:14:50Z",
+    "generated_at": "2026-03-29T05:14:51Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
-    "total_mappings": 1761
+    "total_mappings": 1762
   },
   "mappings": {
     "CImg": "cimg",
@@ -1025,6 +1025,7 @@
     "md4c": "md4c",
     "md5deep": "md5deep",
     "mda-lv2": "mda-lv2",
+    "mdbook": "mdbook",
     "mdbtools": "mdbtools",
     "mdf2iso": "mdf2iso",
     "mediainfo": "media-info",
@@ -1049,7 +1050,6 @@
     "mkvtoolnix": "mkvtoolnix",
     "mlt": "mlt",
     "mm-common": "mm-common",
-    "mmv": "mmv",
     "moc": "moc",
     "mosquitto": "mosquitto",
     "most": "most",
@@ -1707,6 +1707,7 @@
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
     "xclip": "xclip",
+    "xcursorgen": "xcursorgen",
     "xdelta3": "xdelta",
     "xdotool": "xdotool",
     "xdpyinfo": "xdpyinfo",

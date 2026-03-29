@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:14:16Z",
+    "generated_at": "2026-03-29T05:13:56Z",
     "source": "repology-dump",
     "distro": "openindiana",
-    "total_mappings": 2130
+    "total_mappings": 2132
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -641,6 +641,7 @@
     "image/scanner/xsane": "xsane",
     "image/scanner/xsane/sane-backends": "sane-backends",
     "image/viewer/geeqie": "geeqie",
+    "image/xcursorgen": "xcursorgen",
     "image/zbar": "zbar",
     "imake": "imake",
     "imlib2": "imlib2",
@@ -2092,6 +2093,7 @@
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
     "xclip": "xclip",
+    "xcursorgen": "xcursorgen",
     "xdpyinfo": "xdpyinfo",
     "xeyes": "xeyes",
     "xinit": "xinit",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:14:27Z",
+    "generated_at": "2026-03-29T05:14:22Z",
     "source": "repology-dump",
     "distro": "opensuse_graphics_tumbleweed",
-    "total_mappings": 630
+    "total_mappings": 629
   },
   "mappings": {
     "CImg": "cimg",
@@ -28,6 +28,7 @@
     "GraphicsMagick-devel": "graphicsmagick",
     "ImageMagick": "imagemagick",
     "ImageMagick-config-7-SUSE": "imagemagick",
+    "ImageMagick-config-7-upstream-limited": "imagemagick",
     "ImageMagick-debuginfo": "imagemagick",
     "ImageMagick-debugsource": "imagemagick",
     "ImageMagick-devel": "imagemagick",
@@ -581,9 +582,7 @@
     "python3-manifold": "manifold",
     "python3-partio": "partio",
     "python311-img2pdf": "img2pdf",
-    "python311-pylerc": "liblerc",
     "python313-img2pdf": "img2pdf",
-    "python313-pylerc": "liblerc",
     "resvg": "resvg",
     "resvg-debuginfo": "resvg",
     "resvg-debugsource": "resvg",

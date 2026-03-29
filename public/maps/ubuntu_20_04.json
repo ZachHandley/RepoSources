@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:16:08Z",
+    "generated_at": "2026-03-29T05:16:22Z",
     "source": "repology-dump",
     "distro": "ubuntu_20_04",
-    "total_mappings": 12382
+    "total_mappings": 12380
   },
   "mappings": {
     "0install": "zero-install",
@@ -877,6 +877,7 @@
     "cracklib2": "cracklib",
     "cram": "cram",
     "creduce": "creduce",
+    "crip": "crip",
     "crispy-doom": "crispy-doom",
     "crm114": "crm114",
     "croaring": "croaring",
@@ -6026,7 +6027,6 @@
     "libmrss0": "libmrss",
     "libmrss0-dev": "libmrss",
     "libmruby-dev": "mruby",
-    "libmsgpuck-dev": "msgpuck",
     "libmsgsl-dev": "cpp-gsl",
     "libmsi-dev": "msitools",
     "libmsi0": "msitools",
@@ -9157,7 +9157,6 @@
     "mmdb-bin": "libmaxminddb",
     "mmseqs2": "mmseqs2",
     "mmseqs2-examples": "mmseqs2",
-    "mmv": "mmv",
     "moarvm": "moarvm",
     "moarvm-dev": "moarvm",
     "moc": "moc",
@@ -9254,7 +9253,6 @@
     "mruby": "mruby",
     "ms-gsl": "cpp-gsl",
     "mscgen": "mscgen",
-    "msgpuck": "msgpuck",
     "msitools": "msitools",
     "msktutil": "msktutil",
     "msmtp": "msmtp",

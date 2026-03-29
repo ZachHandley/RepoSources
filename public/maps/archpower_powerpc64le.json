@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:01Z",
+    "generated_at": "2026-03-29T05:10:10Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
-    "total_mappings": 2061
+    "total_mappings": 2065
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -998,6 +998,7 @@
     "libwebp": "webp",
     "libwebp-utils": "webp",
     "libwebsockets": "libwebsockets",
+    "libwireplumber": "wireplumber",
     "libwmf": "libwmf",
     "libwpd": "libwpd",
     "libwpe": "libwpe",
@@ -1968,6 +1969,8 @@
     "which": "gnu-which",
     "whois": "whois",
     "wildmidi": "wildmidi",
+    "wireplumber": "wireplumber",
+    "wireplumber-docs": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-cli": "wireshark",
     "wireshark-qt": "wireshark",
@@ -2015,6 +2018,7 @@
     "xorg-server-xwayland": "xorg-server",
     "xorg-util-macros": "util-macros",
     "xorg-xauth": "xauth",
+    "xorg-xcursorgen": "xcursorgen",
     "xorg-xdpyinfo": "xdpyinfo",
     "xorg-xeyes": "xeyes",
     "xorg-xinit": "xinit",

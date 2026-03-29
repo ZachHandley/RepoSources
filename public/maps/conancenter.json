@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:22Z",
+    "generated_at": "2026-03-29T05:10:35Z",
     "source": "repology-dump",
     "distro": "conancenter",
-    "total_mappings": 793
+    "total_mappings": 794
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -144,6 +144,7 @@
     "devil": "devil",
     "directx-headers": "directx-headers",
     "discount": "discount",
+    "dispenso": "dispenso",
     "djvulibre": "djvulibre",
     "dlib": "dlib",
     "dlpack": "dlpack",
@@ -490,6 +491,7 @@
     "metis": "metis",
     "mimalloc": "mimalloc",
     "mingw-w64": "mingw-w64",
+    "miniaudio": "miniaudio",
     "minisat": "minisat",
     "miniupnpc": "miniupnpc",
     "minizip": "minizip",
@@ -571,7 +573,6 @@
     "openssl": "openssl@3",
     "opensubdiv": "opensubdiv",
     "opentelemetry-cpp": "opentelemetry-cpp",
-    "opentracing-cpp": "opentracing-cpp",
     "openvdb": "openvdb",
     "openvino": "openvino",
     "opus": "opus",

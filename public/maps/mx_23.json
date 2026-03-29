@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:13:50Z",
+    "generated_at": "2026-03-29T05:13:05Z",
     "source": "repology-dump",
     "distro": "mx_23",
-    "total_mappings": 1331
+    "total_mappings": 1336
   },
   "mappings": {
     "affs-modules-6.12.38+1-4kc-malta-di": "linux-headers@4.4",
@@ -290,6 +290,7 @@
     "gegl": "gegl",
     "gir1.2-babl-0.1": "babl",
     "gir1.2-gegl-0.4": "gegl",
+    "gir1.2-wp-0.4": "wireplumber",
     "grsync": "grsync",
     "gstreamer1.0-pipewire": "pipewire",
     "gtk-gnutella": "gtk-gnutella",
@@ -506,6 +507,8 @@
     "libvirt0": "libvirt",
     "libvulkan-dev": "vulkan-loader",
     "libvulkan1": "vulkan-loader",
+    "libwireplumber-0.4-0": "wireplumber",
+    "libwireplumber-0.4-dev": "wireplumber",
     "libxatracker-dev": "mesa",
     "libxatracker2": "mesa",
     "libyyjson-dev": "yyjson",
@@ -1313,6 +1316,8 @@
     "va-driver-all": "libva",
     "vulkan-loader": "vulkan-loader",
     "wayland-protocols": "wayland-protocols",
+    "wireplumber": "wireplumber",
+    "wireplumber-doc": "wireplumber",
     "xfs-modules-6.12.38+1-4kc-malta-di": "linux-headers@4.4",
     "xfs-modules-6.12.38+1-5kc-malta-di": "linux-headers@4.4",
     "xfs-modules-6.12.38+1-alpha-generic-di": "linux-headers@4.4",

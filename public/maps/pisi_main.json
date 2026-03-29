@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:14:52Z",
+    "generated_at": "2026-03-29T05:14:53Z",
     "source": "repology-dump",
     "distro": "pisi_main",
-    "total_mappings": 2422
+    "total_mappings": 2424
   },
   "mappings": {
     "DirectX-headers": "directx-headers",
@@ -1219,6 +1219,7 @@
     "multimedia/video/vmaf": "libvmaf",
     "multimedia/video/vo-aacenc": "libvo-aacenc",
     "multimedia/video/vo-amrwbenc": "vo-amrwbenc",
+    "multimedia/video/wireplumber": "wireplumber",
     "multimedia/video/x264": "x264",
     "multimedia/video/x265": "x265",
     "multimedia/video/xvid": "xvid",
@@ -2289,6 +2290,7 @@
     "wget": "wget",
     "which": "gnu-which",
     "wimlib": "wimlib",
+    "wireplumber": "wireplumber",
     "wireshark": "wireshark",
     "wmctrl": "wmctrl",
     "wpebackend-fdo": "wpebackend-fdo",

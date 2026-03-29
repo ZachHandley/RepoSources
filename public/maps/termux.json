@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:50Z",
+    "generated_at": "2026-03-29T05:16:00Z",
     "source": "repology-dump",
     "distro": "termux",
-    "total_mappings": 1704
+    "total_mappings": 1710
   },
   "mappings": {
     "2048-c": "c2048",
@@ -135,7 +135,9 @@
     "capnproto": "capnp",
     "capstone": "capstone",
     "carapace": "carapace",
+    "cargo-binstall": "cargo-binstall",
     "cargo-c": "cargo-c",
+    "cargo-cache": "cargo-cache",
     "catgirl": "catgirl",
     "catimg": "catimg",
     "cava": "cava",
@@ -288,6 +290,7 @@
     "erofs-utils": "erofs-utils",
     "esbuild": "esbuild",
     "espeak": "espeak",
+    "et": "et",
     "etsh": "etsh",
     "evince": "evince",
     "exercism": "exercism",
@@ -993,6 +996,7 @@
     "lua55": "lua",
     "luajit": "luajit",
     "luarocks": "luarocks",
+    "lunasvg": "lunasvg",
     "luv": "luv",
     "luvit": "luvit",
     "lux": "lux",
@@ -1227,6 +1231,7 @@
     "pixiewps": "pixiewps",
     "plantuml": "plantuml",
     "plotutils": "plotutils",
+    "plutovg": "plutovg",
     "plzip": "plzip",
     "pngcrush": "pngcrush",
     "pngquant": "pngquant",
@@ -1655,6 +1660,7 @@
     "xclip": "xclip",
     "xdelta3": "xdelta",
     "xdotool": "xdotool",
+    "xerces-c": "xerces-c",
     "xeyes": "xeyes",
     "xh": "xh",
     "xkeyboard-config": "xkeyboard-config",

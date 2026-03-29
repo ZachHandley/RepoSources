@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:27Z",
+    "generated_at": "2026-03-29T05:10:41Z",
     "source": "repology-dump",
     "distro": "cygwin",
-    "total_mappings": 5796
+    "total_mappings": 5800
   },
   "mappings": {
     "AtomicParsley": "atomicparsley",
@@ -3304,8 +3304,11 @@
     "libtheora-debuginfo": "theora",
     "libtheora-devel": "theora",
     "libtheora0": "theora",
+    "libtheora1": "theora",
     "libtheoradec1": "theora",
+    "libtheoradec2": "theora",
     "libtheoraenc1": "theora",
+    "libtheoraenc2": "theora",
     "libtidy-devel": "tidy-html5",
     "libtidy5": "tidy-html5",
     "libtidy58": "tidy-html5",
@@ -4497,7 +4500,6 @@
     "mle": "mle",
     "mle-debuginfo": "mle",
     "mm-common": "mm-common",
-    "mmv": "mmv",
     "moc": "moc",
     "moc-debuginfo": "moc",
     "moc-ffmpeg-plugin": "moc",
@@ -5692,6 +5694,8 @@
     "xcb-util-wm-debuginfo": "xcb-util-wm",
     "xclip": "xclip",
     "xclip-debuginfo": "xclip",
+    "xcursorgen": "xcursorgen",
+    "xcursorgen-debuginfo": "xcursorgen",
     "xdelta": "xdelta",
     "xdelta-debuginfo": "xdelta",
     "xdelta-devel": "xdelta",

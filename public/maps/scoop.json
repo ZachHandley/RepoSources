@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:15:32Z",
+    "generated_at": "2026-03-29T05:15:39Z",
     "source": "repology-dump",
     "distro": "scoop",
-    "total_mappings": 1294
+    "total_mappings": 1296
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -177,6 +177,7 @@
     "cowsay": "cowsay",
     "cppcheck": "cppcheck",
     "cpufetch": "cpufetch",
+    "crip": "crip",
     "crispy-doom": "crispy-doom",
     "croc": "croc",
     "cruft": "cruft",
@@ -1285,6 +1286,7 @@
     "yubikey-personalization": "ykpers",
     "z.lua": "z.lua",
     "z3": "z3",
+    "zellij": "zellij",
     "zeroclaw": "zeroclaw",
     "zig": "zig",
     "zig-dev": "zig",

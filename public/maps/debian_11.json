@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:12:29Z",
+    "generated_at": "2026-03-29T05:10:44Z",
     "source": "repology-dump",
     "distro": "debian_11",
-    "total_mappings": 18786
+    "total_mappings": 18780
   },
   "mappings": {
     "0install": "zero-install",
@@ -1468,6 +1468,7 @@
     "crc-modules-5.10.0-8-sh7785lcr-di": "linux-headers@4.4",
     "crc-modules-5.10.0-8-sparc64-di": "linux-headers@4.4",
     "creduce": "creduce",
+    "crip": "crip",
     "crispy-doom": "crispy-doom",
     "criterion": "criterion",
     "crm114": "crm114",
@@ -2705,7 +2706,6 @@
     "fastjar": "fastjar",
     "fastp": "fastp",
     "fastqc": "fastqc",
-    "fasttext": "fasttext",
     "fat-modules-5.10.0-3-4kc-malta-di": "linux-headers@4.4",
     "fat-modules-5.10.0-3-5kc-malta-di": "linux-headers@4.4",
     "fat-modules-5.10.0-3-686-di": "linux-headers@4.4",
@@ -6589,8 +6589,6 @@
     "libfastjson": "libfastjson",
     "libfastjson-dev": "libfastjson",
     "libfastjson4": "libfastjson",
-    "libfasttext-dev": "fasttext",
-    "libfasttext0": "fasttext",
     "libfaudio-dev": "faudio",
     "libfaudio0": "faudio",
     "libfaust2": "faust",
@@ -8320,7 +8318,6 @@
     "libmrss0": "libmrss",
     "libmrss0-dev": "libmrss",
     "libmruby-dev": "mruby",
-    "libmsgpuck-dev": "msgpuck",
     "libmsgsl-dev": "cpp-gsl",
     "libmsi-dev": "msitools",
     "libmsi0": "msitools",
@@ -12888,7 +12885,6 @@
     "mmdb-bin": "libmaxminddb",
     "mmseqs2": "mmseqs2",
     "mmseqs2-examples": "mmseqs2",
-    "mmv": "mmv",
     "moarvm": "moarvm",
     "moarvm-dev": "moarvm",
     "moc": "moc",
@@ -13056,7 +13052,6 @@
     "mruby": "mruby",
     "ms-gsl": "cpp-gsl",
     "mscgen": "mscgen",
-    "msgpuck": "msgpuck",
     "msitools": "msitools",
     "msktutil": "msktutil",
     "msmtp": "msmtp",
@@ -15282,7 +15277,6 @@
     "python3-eyed3": "eye-d3",
     "python3-fabric": "fabric",
     "python3-fastapi": "fastapi",
-    "python3-fasttext": "fasttext",
     "python3-fava": "fava",
     "python3-fiona": "fiona",
     "python3-fitz": "pymupdf",

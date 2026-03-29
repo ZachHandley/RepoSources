@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:14:33Z",
+    "generated_at": "2026-03-29T05:14:32Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
-    "total_mappings": 1050
+    "total_mappings": 1040
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -908,12 +908,6 @@
     "rna-star": "rna-star",
     "rna-star-debuginfo": "rna-star",
     "rna-star-debugsource": "rna-star",
-    "rocq": "rocq",
-    "rocq-debuginfo": "rocq",
-    "rocq-debugsource": "rocq",
-    "rocq-devel": "rocq",
-    "rocq-doc": "rocq",
-    "rocq-ide": "rocq",
     "root6": "root",
     "root6-config": "root",
     "root6-debuginfo": "root",
@@ -987,9 +981,6 @@
     "superlu-devel": "superlu",
     "superlu-doc": "superlu",
     "superlu-examples": "superlu",
-    "surfer": "surfer",
-    "surfer-debuginfo": "surfer",
-    "surfer-debugsource": "surfer",
     "svm-tools": "libsvm",
     "symengine": "symengine",
     "sz2-devel": "libaec",
@@ -1016,7 +1007,6 @@
     "votca-debuginfo": "votca",
     "votca-debugsource": "votca",
     "votca-devel": "votca",
-    "votca-tutorials": "votca",
     "vtk": "vtk",
     "vtk-debuginfo": "vtk",
     "vtk-debugsource": "vtk",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:11:37Z",
+    "generated_at": "2026-03-29T05:09:39Z",
     "source": "repology-dump",
     "distro": "alpine_3_17",
-    "total_mappings": 7168
+    "total_mappings": 7175
   },
   "mappings": {
     "6tunnel": "sixtunnel",
@@ -6893,6 +6893,11 @@
     "wireguard-tools-doc": "wireguard-tools",
     "wireguard-tools-wg": "wireguard-tools",
     "wireguard-tools-wg-quick": "wireguard-tools",
+    "wireplumber": "wireplumber",
+    "wireplumber-dbg": "wireplumber",
+    "wireplumber-dev": "wireplumber",
+    "wireplumber-lang": "wireplumber",
+    "wireplumber-logind": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-common": "wireshark",
     "wireshark-dev": "wireshark",
@@ -6949,6 +6954,8 @@
     "xcb-util-wm-dev": "xcb-util-wm",
     "xclip": "xclip",
     "xclip-doc": "xclip",
+    "xcursorgen": "xcursorgen",
+    "xcursorgen-doc": "xcursorgen",
     "xdelta3": "xdelta",
     "xdelta3-doc": "xdelta",
     "xdotool": "xdotool",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T04:16:19Z",
+    "generated_at": "2026-03-29T05:16:36Z",
     "source": "repology-dump",
     "distro": "vcpkg",
-    "total_mappings": 1192
+    "total_mappings": 1194
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -762,6 +762,7 @@
     "mesa": "mesa",
     "metis": "metis",
     "mimalloc": "mimalloc",
+    "miniaudio": "miniaudio",
     "miniupnpc": "miniupnpc",
     "minizip": "minizip",
     "minizip-ng": "minizip-ng",
@@ -1181,6 +1182,7 @@
     "yaml-cpp": "yaml-cpp",
     "yara": "yara",
     "yasm": "yasm",
+    "yubico-piv-tool": "yubico-piv-tool",
     "yyjson": "yyjson",
     "z3": "z3",
     "zeroc-ice": "ice",
