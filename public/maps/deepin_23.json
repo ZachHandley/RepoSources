@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:10:58Z",
+    "generated_at": "2026-04-12T20:49:31Z",
     "source": "repology-dump",
     "distro": "deepin_23",
-    "total_mappings": 9968
+    "total_mappings": 9970
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -9509,6 +9509,7 @@
     "timidity-daemon": "timidity",
     "timidity-el": "timidity",
     "timidity-interfaces-extra": "timidity",
+    "tini": "tini",
     "tinycdb": "tinycdb",
     "tinyxml": "tinyxml",
     "tinyxml2": "tinyxml",
@@ -9934,6 +9935,7 @@
     "yarnpkg": "yarn",
     "yasm": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yq": "python-yq",
     "yui-compressor": "yuicompressor",
     "yyjson": "yyjson",

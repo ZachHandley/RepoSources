@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:52Z",
+    "generated_at": "2026-04-12T20:53:14Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
-    "total_mappings": 2199
+    "total_mappings": 2200
   },
   "mappings": {
     "0install": "zero-install",
@@ -1581,7 +1581,6 @@
     "pcre2-dev": "pcre2",
     "pcsc-lite": "pcsc-lite",
     "pcsc-lite-dev": "pcsc-lite",
-    "pdnsd": "pdnsd",
     "perl": "perl",
     "perl-core": "perl",
     "perl-dev": "perl",
@@ -2181,6 +2180,8 @@
     "yasm-dev": "yasm",
     "yelp-tools": "yelp-tools",
     "yelp-tools-dev": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yelp-xsl-dev": "yelp-xsl",
     "z3": "z3",
     "z3-dev": "z3",
     "zbar": "zbar",

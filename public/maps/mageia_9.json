@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:12:35Z",
+    "generated_at": "2026-04-12T20:50:37Z",
     "source": "repology-dump",
     "distro": "mageia_9",
-    "total_mappings": 12866
+    "total_mappings": 12870
   },
   "mappings": {
     "7kaa": "seven-kingdoms",
@@ -6895,6 +6895,9 @@
     "libpng12-debuginfo": "libpng",
     "libpng12-debugsource": "libpng",
     "libpng16_16": "libpng",
+    "libpolkit-gir1.0": "polkit",
+    "libpolkit1-devel": "polkit",
+    "libpolkit1_0": "polkit",
     "libpoppler-cpp-devel": "poppler",
     "libpoppler-cpp0": "poppler",
     "libpoppler-devel": "poppler",
@@ -12793,6 +12796,7 @@
     "yaz-debuginfo": "yaz",
     "yaz-debugsource": "yaz",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "ykpers": "ykpers",
     "ykpers-debuginfo": "ykpers",
     "ykpers-debugsource": "ykpers",

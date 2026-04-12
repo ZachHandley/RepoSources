@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:11:30Z",
+    "generated_at": "2026-04-12T20:49:55Z",
     "source": "repology-dump",
     "distro": "fedora_41",
-    "total_mappings": 18145
+    "total_mappings": 18151
   },
   "mappings": {
     "0install": "zero-install",
@@ -4718,6 +4718,8 @@
     "libkate-devel": "libkate",
     "libkate-docs": "libkate",
     "libkate-utils": "libkate",
+    "libkiwix": "libkiwix",
+    "libkiwix-devel": "libkiwix",
     "libkml": "libkml",
     "libkml-devel": "libkml",
     "libksba": "libksba",
@@ -17288,6 +17290,8 @@
     "timidity++-Xaw3D-interface": "timidity",
     "tin": "tin",
     "tinc": "tinc",
+    "tini": "tini",
+    "tini-static": "tini",
     "tintin": "tintin",
     "tintin-doc": "tintin",
     "tinycdb": "tinycdb",
@@ -18026,6 +18030,8 @@
     "yaz-doc": "yaz",
     "ydiff": "ydiff",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yelp-xsl-devel": "yelp-xsl",
     "ykpers": "ykpers",
     "ykpers-devel": "ykpers",
     "yle-dl": "yle-dl",

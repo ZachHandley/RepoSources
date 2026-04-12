@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:04Z",
+    "generated_at": "2026-04-12T20:51:30Z",
     "source": "repology-dump",
     "distro": "openmandriva_6_0",
     "total_mappings": 12024
@@ -9955,9 +9955,6 @@
     "pdns-recursor": "pdnsrec",
     "pdns-recursor-debuginfo": "pdnsrec",
     "pdns-recursor-debugsource": "pdnsrec",
-    "pdnsd": "pdnsd",
-    "pdnsd-debuginfo": "pdnsd",
-    "pdnsd-debugsource": "pdnsd",
     "peg": "peg",
     "pegtl": "pegtl",
     "pegtl-devel": "pegtl",
@@ -11091,6 +11088,7 @@
     "sane-backends-doc": "sane-backends",
     "sane-backends-iscan": "sane-backends",
     "saned": "sane-backends",
+    "sass": "dart-sass",
     "sassc": "sassc",
     "sassc-debuginfo": "sassc",
     "sassc-debugsource": "sassc",
@@ -11958,6 +11956,8 @@
     "yasm": "yasm",
     "yasm-devel": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yelp-xsl-devel": "yelp-xsl",
     "ykpers": "ykpers",
     "ykpers-debuginfo": "ykpers",
     "ykpers-debugsource": "ykpers",

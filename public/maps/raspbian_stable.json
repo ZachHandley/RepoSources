@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:12Z",
+    "generated_at": "2026-04-12T20:52:31Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
-    "total_mappings": 16209
+    "total_mappings": 16213
   },
   "mappings": {
     "0install": "zero-install",
@@ -7263,6 +7263,9 @@
     "libkim-api-dev": "kim-api",
     "libkim-api-doc": "kim-api",
     "libkim-api2": "kim-api",
+    "libkiwix": "libkiwix",
+    "libkiwix-dev": "libkiwix",
+    "libkiwix14": "libkiwix",
     "libklu2": "suite-sparse",
     "libkml": "libkml",
     "libkml-dev": "libkml",
@@ -12864,7 +12867,6 @@
     "pdns-recursor": "pdnsrec",
     "pdns-server": "pdns",
     "pdns-tools": "pdns",
-    "pdnsd": "pdnsd",
     "pdsh": "pdsh",
     "peco": "peco",
     "peg": "peg",
@@ -15350,6 +15352,7 @@
     "timidity-interfaces-extra": "timidity",
     "tin": "tin",
     "tinc": "tinc",
+    "tini": "tini",
     "tintin++": "tintin",
     "tinycdb": "tinycdb",
     "tinydns": "djbdns",
@@ -16103,6 +16106,7 @@
     "yder": "yder",
     "ydiff": "ydiff",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "ykcs11": "yubico-piv-tool",
     "yosys": "yosys",
     "yosys-abc": "yosys",

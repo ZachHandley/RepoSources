@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:11:39Z",
+    "generated_at": "2026-04-12T20:50:02Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
-    "total_mappings": 318
+    "total_mappings": 322
   },
   "mappings": {
     "app-accessibility/mimic1": "mimic",
@@ -37,6 +37,7 @@
     "app-editors/fresh": "fresh-editor",
     "app-editors/neovide": "neovide",
     "app-editors/neovim-qt": "neovim-qt",
+    "app-editors/teamtype": "teamtype",
     "app-misc/agg": "agg",
     "app-misc/arttime": "arttime",
     "app-misc/astroterm": "astroterm",
@@ -148,6 +149,7 @@
     "dev-python/avro": "avro-c",
     "dev-python/fastapi": "fastapi",
     "dev-python/internetarchive": "internetarchive",
+    "dev-python/pipenv": "pipenv",
     "dev-python/pympress": "pympress",
     "dev-python/scrapy": "scrapy",
     "dev-scheme/sagittarius": "sagittarius-scheme",
@@ -158,6 +160,7 @@
     "dev-util/dmg2img": "dmg2img",
     "dev-util/dockerfile-language-server": "dockerfile-language-server",
     "dev-util/exercism": "exercism",
+    "dev-util/forgejo-cli": "forgejo-cli",
     "dev-util/fortls": "fortls",
     "dev-util/gammaray": "gammaray",
     "dev-util/gemini-cli": "gemini-cli",
@@ -320,6 +323,7 @@
     "www-apps/zola": "zola",
     "www-client/chawan": "chawan",
     "www-misc/dufs": "dufs",
+    "www-misc/libkiwix": "libkiwix",
     "www-plugins/firefoxpwa": "firefoxpwa",
     "www-servers/copyparty": "copyparty",
     "x11-terms/dmd5620": "dmd",

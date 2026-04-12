@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:10:11Z",
+    "generated_at": "2026-04-12T20:48:53Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
-    "total_mappings": 1951
+    "total_mappings": 1954
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -64,6 +64,7 @@
     "automake": "automake",
     "automake-1.14": "automake",
     "automake-1.15": "automake",
+    "automake-1.16": "automake",
     "autopep8": "autopep8",
     "avahi": "avahi",
     "aws-c-auth": "aws-c-auth",
@@ -186,6 +187,7 @@
     "conmon": "conmon",
     "containerd": "containerd",
     "convertlit": "convertlit",
+    "convmv": "convmv",
     "coordgen": "coordgen",
     "coreutils": "coreutils",
     "corrosion": "corrosion",
@@ -1933,6 +1935,7 @@
     "yasm": "yasm",
     "yaz": "yaz",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yq": "python-yq",
     "yt-dlp": "yt-dlp",
     "zbar": "zbar",

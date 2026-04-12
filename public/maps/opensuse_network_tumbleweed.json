@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:30Z",
+    "generated_at": "2026-04-12T20:51:46Z",
     "source": "repology-dump",
     "distro": "opensuse_network_tumbleweed",
-    "total_mappings": 315
+    "total_mappings": 312
   },
   "mappings": {
     "EternalTerminal": "et",
@@ -152,7 +152,7 @@
     "lftp": "lftp",
     "lftp-debuginfo": "lftp",
     "lftp-debugsource": "lftp",
-    "libQXmppQt6-8": "qxmpp",
+    "libQXmppQt6-9": "qxmpp",
     "libQXmppQt6-devel": "qxmpp",
     "libdavix0": "davix",
     "libdom": "libdom",
@@ -236,10 +236,6 @@
     "pcapplusplus-debuginfo": "pcapplusplus",
     "pcapplusplus-debugsource": "pcapplusplus",
     "pcapplusplus-devel": "pcapplusplus",
-    "pdnsd": "pdnsd",
-    "pdnsd-debuginfo": "pdnsd",
-    "pdnsd-debugsource": "pdnsd",
-    "pdnsd-doc": "pdnsd",
     "plowshare": "plowshare",
     "proftpd": "proftpd",
     "proftpd-debuginfo": "proftpd",
@@ -260,6 +256,7 @@
     "pure-ftpd-debugsource": "pure-ftpd",
     "python311-olm": "libolm",
     "python313-olm": "libolm",
+    "python314-olm": "libolm",
     "radvd": "radvd",
     "radvd-debuginfo": "radvd",
     "radvd-debugsource": "radvd",

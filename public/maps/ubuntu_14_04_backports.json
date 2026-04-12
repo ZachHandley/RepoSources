@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:16:15Z",
+    "generated_at": "2026-04-12T20:53:40Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04_backports",
-    "total_mappings": 123
+    "total_mappings": 124
   },
   "mappings": {
     "ansible": "ansible",
@@ -121,6 +121,7 @@
     "vim-syntax-go": "go",
     "xml2rfc": "xml2rfc",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "zsh": "zsh",
     "zsh-beta": "zsh",
     "zsh-beta-doc": "zsh",

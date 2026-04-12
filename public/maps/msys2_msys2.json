@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:12:59Z",
+    "generated_at": "2026-04-12T20:50:50Z",
     "source": "repology-dump",
     "distro": "msys2_msys2",
-    "total_mappings": 464
+    "total_mappings": 465
   },
   "mappings": {
     "ack": "ack",
@@ -463,6 +463,7 @@
     "yasm": "yasm",
     "yasm-devel": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "zip": "zip",
     "zlib": "minizip",
     "zlib-devel": "minizip",

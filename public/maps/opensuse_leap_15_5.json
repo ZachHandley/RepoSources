@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:25Z",
+    "generated_at": "2026-04-12T20:51:41Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "total_mappings": 2879
@@ -330,7 +330,6 @@
     "complexity": "gnu-complexity",
     "conman": "conman",
     "conmon": "conmon",
-    "container-diff": "container-diff",
     "containerd": "containerd",
     "convmv": "convmv",
     "cookiecutter": "cookiecutter",
@@ -1980,7 +1979,6 @@
     "pdns": "pdns",
     "pdns-common": "pdns",
     "pdns-recursor": "pdnsrec",
-    "pdnsd": "pdnsd",
     "pdsh": "pdsh",
     "peg": "peg",
     "pegtl": "pegtl",
@@ -2620,6 +2618,7 @@
     "timezone-java": "tzdb",
     "timidity": "timidity",
     "tinc": "tinc",
+    "tini": "tini",
     "tiny": "tiny",
     "tinyproxy": "tinyproxy",
     "tinyxml": "tinyxml",
@@ -2856,6 +2855,7 @@
     "yaz": "yaz",
     "yder": "yder",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "ykpers": "ykpers",
     "you-get": "you-get",
     "yq": "yq",

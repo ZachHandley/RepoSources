@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:40Z",
+    "generated_at": "2026-04-12T20:53:00Z",
     "source": "repology-dump",
     "distro": "side",
-    "total_mappings": 1128
+    "total_mappings": 1130
   },
   "mappings": {
     "7z": "sevenzip",
@@ -157,6 +157,7 @@
     "development/toolchain/spdlog": "spdlog",
     "development/toolchain/subversion": "subversion",
     "development/toolchain/swig": "swig",
+    "development/toolchain/tini": "tini",
     "development/toolchain/vala": "vala",
     "development/toolchain/valgrind": "valgrind",
     "development/toolchain/vulkan-headers": "vulkan-headers",
@@ -1082,6 +1083,7 @@
     "texinfo": "texinfo",
     "tiff": "libtiff",
     "time": "gnu-time",
+    "tini": "tini",
     "tinyxml2": "tinyxml",
     "tmux": "tmux",
     "tree": "tree",

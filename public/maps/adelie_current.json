@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:09:31Z",
+    "generated_at": "2026-04-12T20:48:21Z",
     "source": "repology-dump",
     "distro": "adelie_current",
-    "total_mappings": 3315
+    "total_mappings": 3316
   },
   "mappings": {
     "a52dec": "a52dec",
@@ -3288,6 +3288,7 @@
     "yasm-doc": "yasm",
     "yelp-tools": "yelp-tools",
     "yelp-tools-dev": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yubikey-personalization": "ykpers",
     "yubikey-personalization-dbg": "ykpers",
     "yubikey-personalization-dev": "ykpers",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:14Z",
+    "generated_at": "2026-04-12T20:51:35Z",
     "source": "repology-dump",
     "distro": "opensuse_education_tumbleweed",
-    "total_mappings": 283
+    "total_mappings": 286
   },
   "mappings": {
     "Box2D": "box2d",
@@ -238,6 +238,9 @@
     "python313-numpy-devel": "numpy",
     "python313-tbb": "tbb",
     "python313-txt2tags": "txt2tags",
+    "python314-numpy": "numpy",
+    "python314-numpy-devel": "numpy",
+    "python314-txt2tags": "txt2tags",
     "sdcv": "sdcv",
     "sdcv-debuginfo": "sdcv",
     "sdcv-debugsource": "sdcv",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:10:04Z",
+    "generated_at": "2026-04-12T20:48:47Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
-    "total_mappings": 7288
+    "total_mappings": 7290
   },
   "mappings": {
     "0install-solver": "zero-install",
@@ -6985,6 +6985,7 @@
     "tidy-html5": "tidy-html5",
     "tiff": "libtiff",
     "time": "gnu-time",
+    "tini": "tini",
     "tinysparql": "tinysparql",
     "tinyxml": "tinyxml",
     "tinyxml2": "tinyxml",
@@ -7267,6 +7268,7 @@
     "yarnpkg": "yarn",
     "yasm": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "z3": "z3",
     "zenity": "zenity",
     "zenity-common": "zenity",

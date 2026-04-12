@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:14Z",
+    "generated_at": "2026-04-12T20:52:34Z",
     "source": "repology-dump",
     "distro": "ravenports",
-    "total_mappings": 1009
+    "total_mappings": 1011
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -403,6 +403,7 @@
     "libjwt": "libjwt",
     "libjxl": "jpeg-xl",
     "libkate": "libkate",
+    "libkiwix": "libkiwix",
     "libksba": "libksba",
     "liblqr": "liblqr",
     "libltdl": "libtool",
@@ -1004,6 +1005,7 @@
     "yaml-cpp": "yaml-cpp",
     "yasm": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "zenity": "zenity",
     "zeromq": "zeromq",
     "zig": "zig",

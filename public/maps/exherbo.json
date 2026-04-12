@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:11:22Z",
+    "generated_at": "2026-04-12T20:49:48Z",
     "source": "repology-dump",
     "distro": "exherbo",
-    "total_mappings": 1739
+    "total_mappings": 1744
   },
   "mappings": {
     "app-admin/ansible": "ansible",
@@ -116,6 +116,7 @@
     "app-misc/dtach": "dtach",
     "app-misc/fastfetch": "fastfetch",
     "app-misc/fdupes": "fdupes",
+    "app-misc/glab": "glab",
     "app-misc/gtypist": "gnu-typist",
     "app-misc/hilite": "hilite",
     "app-misc/lxsplit": "lxsplit",
@@ -173,6 +174,8 @@
     "app-shells/starship": "starship",
     "app-shells/tcsh": "tcsh",
     "app-shells/zsh": "zsh",
+    "app-shells/zsh-autosuggestions": "zsh-autosuggestions",
+    "app-shells/zsh-syntax-highlighting": "zsh-syntax-highlighting",
     "app-speech/espeak": "espeak",
     "app-spell/aspell": "aspell",
     "app-spell/enchant": "enchant",
@@ -832,6 +835,7 @@
     "gnome-desktop/libsoup": "libsoup",
     "gnome-desktop/sysprof": "sysprof",
     "gnome-desktop/yelp-tools": "yelp-tools",
+    "gnome-desktop/yelp-xsl": "yelp-xsl",
     "gnome-desktop/zenity": "zenity",
     "gnome-extra/gucharmap": "gucharmap",
     "gnustep/libobjc2": "libobjc2",
@@ -1456,6 +1460,7 @@
     "sys-apps/sysstat": "sysstat",
     "sys-apps/systemd": "systemd",
     "sys-apps/texinfo": "texinfo",
+    "sys-apps/tini": "tini",
     "sys-apps/topgrade": "topgrade",
     "sys-apps/turbostat": "linux-headers@4.4",
     "sys-apps/usbutils": "usbutils",

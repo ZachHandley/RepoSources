@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:43Z",
+    "generated_at": "2026-04-12T20:52:01Z",
     "source": "repology-dump",
     "distro": "pacstall",
-    "total_mappings": 151
+    "total_mappings": 152
   },
   "mappings": {
     "amfora-bin": "amfora",
@@ -117,6 +117,7 @@
     "ppsspp-git": "ppsspp",
     "prettier": "prettier",
     "restic-bin": "restic",
+    "resticprofile-bin": "resticprofile",
     "rofi": "rofi",
     "rojo-bin": "rojo",
     "rust-bin": "rust",

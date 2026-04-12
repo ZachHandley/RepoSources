@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:10:21Z",
+    "generated_at": "2026-04-12T20:49:02Z",
     "source": "repology-dump",
     "distro": "blackarch",
-    "total_mappings": 299
+    "total_mappings": 302
   },
   "mappings": {
     "aespipe": "aespipe",
@@ -225,6 +225,7 @@
     "qt5-examples": "qt",
     "qt5-remoteobjects": "qt",
     "qt5-scxml": "qt",
+    "qt5-sensors": "qt",
     "qt5-serialbus": "qt",
     "qt5-webchannel": "qt",
     "qt5-webengine": "qt",
@@ -295,6 +296,8 @@
     "urlview": "urlview",
     "urx": "urx",
     "vuls": "vuls",
+    "webkit2gtk": "webkitgtk",
+    "webkit2gtk-docs": "webkitgtk",
     "wiredtiger": "wiredtiger",
     "wirouter-keyrec": "wirouter_keyrec",
     "wmbusmeters": "wmbusmeters",

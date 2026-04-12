@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:16:00Z",
+    "generated_at": "2026-04-12T20:53:23Z",
     "source": "repology-dump",
     "distro": "termux",
-    "total_mappings": 1710
+    "total_mappings": 1718
   },
   "mappings": {
     "2048-c": "c2048",
@@ -94,6 +94,7 @@
     "binaryen": "binaryen",
     "bindfs": "bindfs",
     "binutils": "aarch64-elf-binutils",
+    "binwalk": "binwalk",
     "bison": "bison",
     "bitcoin": "bitcoin",
     "bitlbee": "bitlbee",
@@ -304,6 +305,8 @@
     "fastmod": "fastmod",
     "fatsort": "fatsort",
     "faust": "faust",
+    "fcgi": "fcgi",
+    "fcgiwrap": "fcgiwrap",
     "fclones": "fclones",
     "fcp": "fcp",
     "fd": "fd",
@@ -332,6 +335,7 @@
     "flang": "clang-format",
     "flatbuffers": "flatbuffers",
     "flex": "flex",
+    "flint": "flint",
     "fltk": "fltk",
     "fluidsynth": "fluid-synth",
     "flyctl": "flyctl",
@@ -724,6 +728,7 @@
     "libid3tag": "libid3tag",
     "libidn": "libidn",
     "libidn2": "libidn2",
+    "libigloo": "libigloo",
     "libimagequant": "libimagequant",
     "libimobiledevice": "libimobiledevice",
     "libimobiledevice-glue": "libimobiledevice-glue",
@@ -736,6 +741,7 @@
     "libjpeg-turbo": "jpeg-turbo",
     "libjxl": "jpeg-xl",
     "libkeyfinder": "libkeyfinder",
+    "libkiwix": "libkiwix",
     "libkokkos": "kokkos",
     "libksba": "libksba",
     "liblightning": "lightning",
@@ -1406,6 +1412,8 @@
     "sdl2-net": "sdl2_net",
     "sdl2-ttf": "sdl2_ttf",
     "sdl3": "sdl3",
+    "sdl3-image": "sdl3_image",
+    "sdl3-ttf": "sdl3_ttf",
     "sed": "gnu-sed",
     "sendme": "sendme",
     "senpai": "senpai",

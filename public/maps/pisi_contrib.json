@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:52Z",
+    "generated_at": "2026-04-12T20:52:10Z",
     "source": "repology-dump",
     "distro": "pisi_contrib",
-    "total_mappings": 22
+    "total_mappings": 24
   },
   "mappings": {
     "0oldpackage/Bitcoin": "bitcoin",
@@ -11,12 +11,14 @@
     "0oldpackage/cherrytree": "cherrytree",
     "0oldpackage/discount": "discount",
     "SynfigStudio": "synfig",
-    "akiskart/fpc": "fpc",
-    "akiskart/fpc-src": "fpc",
     "atari800": "atari800",
     "bitcoin": "bitcoin",
     "bullet": "bullet",
     "cherrytree": "cherrytree",
+    "development/lazarus/fpc": "fpc",
+    "development/lazarus/fpc-src": "fpc",
+    "development/lazarusDEB/fpc": "fpc",
+    "development/lazarusDEB/fpc-src": "fpc",
     "discount": "discount",
     "fpc": "fpc",
     "fpc-src": "fpc",

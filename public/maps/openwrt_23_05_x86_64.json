@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:37Z",
+    "generated_at": "2026-04-12T20:51:54Z",
     "source": "repology-dump",
     "distro": "openwrt_23_05_x86_64",
-    "total_mappings": 3183
+    "total_mappings": 3185
   },
   "mappings": {
     "acl": "acl",
@@ -1040,6 +1040,7 @@
     "feeds/packages/utils/taskwarrior": "task",
     "feeds/packages/utils/tcsh": "tcsh",
     "feeds/packages/utils/telegraf": "telegraf",
+    "feeds/packages/utils/tini": "tini",
     "feeds/packages/utils/tio": "tio",
     "feeds/packages/utils/tmux": "tmux",
     "feeds/packages/utils/ttyd": "ttyd",
@@ -2997,6 +2998,7 @@
     "terminfo": "ncurses",
     "tiff-utils": "libtiff",
     "tinc": "tinc",
+    "tini": "tini",
     "tinycdb1": "tinycdb",
     "tinyproxy": "tinyproxy",
     "tio": "tio",

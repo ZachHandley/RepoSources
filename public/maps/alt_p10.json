@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:09:51Z",
+    "generated_at": "2026-04-12T20:48:36Z",
     "source": "repology-dump",
     "distro": "alt_p10",
-    "total_mappings": 13412
+    "total_mappings": 13418
   },
   "mappings": {
     "7-zip": "sevenzip",
@@ -3240,6 +3240,7 @@
     "kf5-ki18n-devel": "ki18n",
     "kf5-threadweaver": "threadweaver",
     "kf5-threadweaver-devel": "threadweaver",
+    "kiwix-lib": "libkiwix",
     "klavaro": "klavaro",
     "klavaro-debuginfo": "klavaro",
     "kmod": "kmod",
@@ -5895,6 +5896,9 @@
     "libkf5i18nlocaledata-debuginfo": "ki18n",
     "libkf5threadweaver": "threadweaver",
     "libkf5threadweaver-debuginfo": "threadweaver",
+    "libkiwix": "libkiwix",
+    "libkiwix-debuginfo": "libkiwix",
+    "libkiwix-devel": "libkiwix",
     "libkmod": "kmod",
     "libkmod-debuginfo": "kmod",
     "libkmod-devel": "kmod",
@@ -10018,6 +10022,8 @@
     "openFPGALoader-doc": "openfpgaloader",
     "openbabel": "open-babel",
     "openbabel-debuginfo": "open-babel",
+    "openbao": "openbao",
+    "openbao-debuginfo": "openbao",
     "openblas": "openblas",
     "opencascade": "opencascade",
     "opencascade-data": "opencascade",
@@ -10300,8 +10306,6 @@
     "pdns-recursor-debuginfo": "pdnsrec",
     "pdns-tools": "pdns",
     "pdns-tools-debuginfo": "pdns",
-    "pdnsd": "pdnsd",
-    "pdnsd-debuginfo": "pdnsd",
     "pdsh": "pdsh",
     "pdsh-debuginfo": "pdsh",
     "pdsh-mod-dshgroup": "pdsh",
@@ -12676,6 +12680,7 @@
     "tin-debuginfo": "tin",
     "tinc": "tinc",
     "tinc-debuginfo": "tinc",
+    "tini": "tini",
     "tintin++": "tintin",
     "tintin++-debuginfo": "tintin",
     "tinycdb": "tinycdb",
@@ -13298,6 +13303,7 @@
     "yazi-zsh-completion": "yazi",
     "ydiff": "ydiff",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "ykman": "ykman",
     "ykpers": "ykpers",
     "ykpers-debuginfo": "ykpers",

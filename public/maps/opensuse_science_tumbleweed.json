@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:32Z",
+    "generated_at": "2026-04-12T20:51:47Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
-    "total_mappings": 1040
+    "total_mappings": 1041
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -455,7 +455,7 @@
     "libgl2ps1": "gl2ps",
     "libglpk40": "glpk",
     "libgmsh4_11": "gmsh",
-    "libgmsh4_14": "gmsh",
+    "libgmsh4_15": "gmsh",
     "libgmxapi0": "gromacs",
     "libgnuastro22": "gnuastro",
     "libgraphblas10": "suite-sparse",
@@ -521,8 +521,6 @@
     "libnco_c++-5_3_4": "nco",
     "libnetcdf-fortran-7": "netcdf-fortran",
     "libnetcdf22": "netcdf",
-    "libnetcdf_c++-devel": "netcdf-cxx",
-    "libnetcdf_c++4": "netcdf-cxx",
     "libnetcdf_c++4-1": "netcdf-cxx",
     "libnetcdf_c++4-devel": "netcdf-cxx",
     "libns3_35": "ns-3",
@@ -704,9 +702,6 @@
     "nest-devel": "nest",
     "nest-doc": "nest",
     "netcdf": "netcdf",
-    "netcdf-cxx": "netcdf-cxx",
-    "netcdf-cxx-debuginfo": "netcdf-cxx",
-    "netcdf-cxx-debugsource": "netcdf-cxx",
     "netcdf-cxx4": "netcdf-cxx",
     "netcdf-cxx4-debuginfo": "netcdf-cxx",
     "netcdf-cxx4-debugsource": "netcdf-cxx",
@@ -887,6 +882,12 @@
     "python313-pyarrow-devel": "apache-arrow",
     "python313-scipy": "scipy",
     "python313-svm": "libsvm",
+    "python314-nlopt": "nlopt",
+    "python314-opencv": "opencv",
+    "python314-pivy": "pivy",
+    "python314-plplot": "plplot",
+    "python314-plplot-pyqt5": "plplot",
+    "python314-scipy": "scipy",
     "qalculate-gtk": "qalculate-gtk",
     "qalculate-gtk-debuginfo": "qalculate-gtk",
     "qalculate-gtk-debugsource": "qalculate-gtk",

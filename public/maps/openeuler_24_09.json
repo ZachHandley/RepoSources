@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:13:52Z",
+    "generated_at": "2026-04-12T20:51:23Z",
     "source": "repology-dump",
     "distro": "openeuler_24_09",
-    "total_mappings": 5887
+    "total_mappings": 5889
   },
   "mappings": {
     "AFLplusplus": "afl++",
@@ -5835,6 +5835,8 @@
     "yasm-devel": "yasm",
     "yasm-help": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yelp-xsl-devel": "yelp-xsl",
     "ykpers": "ykpers",
     "ykpers-debuginfo": "ykpers",
     "ykpers-debugsource": "ykpers",

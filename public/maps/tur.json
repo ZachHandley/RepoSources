@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:16:12Z",
+    "generated_at": "2026-04-12T20:53:36Z",
     "source": "repology-dump",
     "distro": "tur",
-    "total_mappings": 129
+    "total_mappings": 127
   },
   "mappings": {
     "64tass": "tass64",
@@ -99,7 +99,6 @@
     "php7": "php",
     "php7.2": "php",
     "pixz": "pixz",
-    "python-cairo": "py3cairo",
     "python-scikit-image": "scikit-image",
     "python-scipy": "scipy",
     "python3.10": "python@3.10",
@@ -119,7 +118,6 @@
     "s-nail": "s-nail",
     "schilytools": "star",
     "sdl-gfx": "sdl_gfx",
-    "sdl3-ttf": "sdl3_ttf",
     "slowhttptest": "slowhttptest",
     "smartdns": "smartdns",
     "stern": "stern",

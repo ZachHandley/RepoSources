@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:34Z",
+    "generated_at": "2026-04-12T20:52:53Z",
     "source": "repology-dump",
     "distro": "sagemath_develop",
-    "total_mappings": 76
+    "total_mappings": 72
   },
   "mappings": {
     "cbc": "cbc",
@@ -32,7 +32,6 @@
     "libatomic_ops": "libatomic_ops",
     "libffi": "libffi",
     "libgd": "gd",
-    "liblzma": "xz",
     "libogg": "libogg",
     "libpng": "libpng",
     "matplotlib": "python-matplotlib",
@@ -65,7 +64,6 @@
     "primesieve": "primesieve",
     "pybind11": "pybind11",
     "pytest": "pytest",
-    "python3": "python@3.10",
     "qhull": "qhull",
     "readline": "readline",
     "rpds_py": "rpds-py",
@@ -76,11 +74,9 @@
     "snowballstemmer": "snowball",
     "soplex": "soplex",
     "sphinx": "sphinx-doc",
-    "sqlite": "sqlite",
     "suitesparse": "suite-sparse",
     "symengine": "symengine",
     "virtualenv": "virtualenv",
-    "xz": "xz",
     "zeromq": "zeromq"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:19Z",
+    "generated_at": "2026-04-12T20:51:38Z",
     "source": "repology-dump",
     "distro": "opensuse_games_tumbleweed",
     "total_mappings": 550
@@ -352,7 +352,7 @@
     "libguichan-0_8_1-1": "guichan",
     "libjpgalleg44-devel": "allegro",
     "libjpgalleg4_4": "allegro",
-    "libjsoncpp26": "jsoncpp",
+    "libjsoncpp27": "jsoncpp",
     "libloadpng44-devel": "allegro",
     "libloadpng4_4": "allegro",
     "liblogg44-devel": "allegro",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:59Z",
+    "generated_at": "2026-04-12T20:53:22Z",
     "source": "repology-dump",
     "distro": "t2",
-    "total_mappings": 1994
+    "total_mappings": 1998
   },
   "mappings": {
     "0install": "zero-install",
@@ -556,6 +556,7 @@
     "gpsd": "gpsd",
     "gptfdisk": "gptfdisk",
     "gputils": "gputils",
+    "graalvm": "graalvm",
     "grace": "grace",
     "gradle": "gradle",
     "grafana": "grafana",
@@ -1418,7 +1419,6 @@
     "pcsc-lite": "pcsc-lite",
     "pdftilecut": "pdftilecut",
     "pdftk": "pdftk-java",
-    "pdnsd": "pdnsd",
     "perceptualdiff": "perceptualdiff",
     "perf": "linux-headers@4.4",
     "perl": "perl",
@@ -1487,7 +1487,7 @@
     "putty": "putty",
     "pv": "pv",
     "pwgen": "pwgen",
-    "pybind": "pybind11",
+    "pybind11": "pybind11",
     "pycairo": "py3cairo",
     "pycparser": "pycparser",
     "pydantic": "pydantic",
@@ -1588,6 +1588,7 @@
     "rust-src": "rust",
     "rustc": "rust",
     "rustscan": "rustscan",
+    "rvvm": "rvvm",
     "rxvt-unicode": "rxvt-unicode",
     "ry": "ry",
     "rzip": "rzip",
@@ -1732,6 +1733,7 @@
     "systemc": "systemc",
     "systemd": "systemd",
     "t1lib": "t1lib",
+    "t2sz": "t2sz",
     "tabulate": "tabulate",
     "taglib": "taglib",
     "tailscale": "tailscale",
@@ -1768,6 +1770,7 @@
     "time": "gnu-time",
     "timew": "timewarrior",
     "timidity++": "timidity",
+    "tini": "tini",
     "tinyproxy": "tinyproxy",
     "tinysparql": "tinysparql",
     "tinyxml2": "tinyxml",
@@ -1967,6 +1970,7 @@
     "yasm": "yasm",
     "yazi": "yazi",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yle-dl": "yle-dl",
     "yosys": "yosys",
     "you-get": "you-get",

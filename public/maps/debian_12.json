@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:10:46Z",
+    "generated_at": "2026-04-12T20:49:22Z",
     "source": "repology-dump",
     "distro": "debian_12",
-    "total_mappings": 19765
+    "total_mappings": 19770
   },
   "mappings": {
     "0install": "zero-install",
@@ -8034,6 +8034,9 @@
     "libkim-api-dev": "kim-api",
     "libkim-api-doc": "kim-api",
     "libkim-api2": "kim-api",
+    "libkiwix": "libkiwix",
+    "libkiwix-dev": "libkiwix",
+    "libkiwix11": "libkiwix",
     "libklu1": "suite-sparse",
     "libkml": "libkml",
     "libkml-dev": "libkml",
@@ -18348,6 +18351,7 @@
     "timidity-interfaces-extra": "timidity",
     "tin": "tin",
     "tinc": "tinc",
+    "tini": "tini",
     "tintin++": "tintin",
     "tinycdb": "tinycdb",
     "tinydns": "djbdns",
@@ -19671,6 +19675,7 @@
     "yaz-illclient": "yaz",
     "yder": "yder",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "ykcs11": "yubico-piv-tool",
     "yosys": "yosys",
     "yosys-dev": "yosys",

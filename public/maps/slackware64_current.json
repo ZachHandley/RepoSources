@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:45Z",
+    "generated_at": "2026-04-12T20:53:06Z",
     "source": "repology-dump",
     "distro": "slackware64_current",
-    "total_mappings": 719
+    "total_mappings": 720
   },
   "mappings": {
     "Cython": "cython",
@@ -325,6 +325,7 @@
     "libcue": "libcue",
     "libdaemon": "libdaemon",
     "libdbusmenu": "libdbusmenu",
+    "libdecor": "libdecor",
     "libdeflate": "libdeflate",
     "libdiscid": "libdiscid",
     "libdmtx": "libdmtx",

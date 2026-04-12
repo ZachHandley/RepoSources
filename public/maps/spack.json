@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:54Z",
+    "generated_at": "2026-04-12T20:53:16Z",
     "source": "repology-dump",
     "distro": "spack",
-    "total_mappings": 1405
+    "total_mappings": 1409
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -294,6 +294,7 @@
     "fio": "fio",
     "fish": "fish",
     "flac": "flac",
+    "flamegraph": "flamegraph",
     "flann": "flann",
     "flatbuffers": "flatbuffers",
     "flatcc": "flatcc",
@@ -421,6 +422,7 @@
     "hbase": "hbase",
     "hdf5": "hdf5",
     "helib": "helib",
+    "helm": "helm",
     "help2man": "help2man",
     "hevea": "hevea",
     "hicolor-icon-theme": "hicolor-icon-theme",
@@ -1087,6 +1089,7 @@
     "py-yt-dlp": "yt-dlp",
     "pypy": "pypy",
     "pypy-bootstrap": "pypy",
+    "pyrefly": "pyrefly",
     "pystring": "pystring",
     "python": "python@3.10",
     "qca": "qca",
@@ -1270,6 +1273,7 @@
     "tig": "tig",
     "time": "gnu-time",
     "timew": "timewarrior",
+    "tini": "tini",
     "tinyxml": "tinyxml",
     "tinyxml2": "tinyxml",
     "tippecanoe": "tippecanoe",

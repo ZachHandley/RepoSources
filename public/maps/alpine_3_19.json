@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:09:42Z",
+    "generated_at": "2026-04-12T20:48:29Z",
     "source": "repology-dump",
     "distro": "alpine_3_19",
-    "total_mappings": 8880
+    "total_mappings": 8886
   },
   "mappings": {
     "6tunnel": "sixtunnel",
@@ -3263,6 +3263,9 @@
     "ki18n5-doc": "ki18n",
     "ki18n5-lang": "ki18n",
     "kibi": "kibi",
+    "kiwix-lib": "libkiwix",
+    "kiwix-lib-dev": "libkiwix",
+    "kiwix-lib-doc": "libkiwix",
     "kmod": "kmod",
     "kmod-bash-completion": "kmod",
     "kmod-dev": "kmod",
@@ -8078,6 +8081,8 @@
     "tinc": "tinc",
     "tinc-doc": "tinc",
     "tinc-openrc": "tinc",
+    "tini": "tini",
+    "tini-static": "tini",
     "tinydns": "djbdns",
     "tinydns-openrc": "djbdns",
     "tinyproxy": "tinyproxy",
@@ -8763,6 +8768,7 @@
     "yasm-dev": "yasm",
     "yasm-doc": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "ykpers": "ykpers",
     "ykpers-dev": "ykpers",
     "ykpers-doc": "ykpers",

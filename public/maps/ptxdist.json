@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:03Z",
+    "generated_at": "2026-04-12T20:52:22Z",
     "source": "repology-dump",
     "distro": "ptxdist",
-    "total_mappings": 481
+    "total_mappings": 482
   },
   "mappings": {
     "abseil-cpp": "abseil",
@@ -355,6 +355,7 @@
     "qwt5": "qwt",
     "radvd": "radvd",
     "rapidjson": "rapidjson",
+    "re2": "re2",
     "readline": "readline",
     "redis": "redis",
     "rrdtool": "rrdtool",

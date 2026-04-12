@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:09:35Z",
+    "generated_at": "2026-04-12T20:48:24Z",
     "source": "repology-dump",
     "distro": "almalinux_8",
-    "total_mappings": 850
+    "total_mappings": 851
   },
   "mappings": {
     "CUnit": "cunit",
@@ -850,6 +850,7 @@
     "yara": "yara",
     "yasm": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "zenity": "zenity",
     "zip": "zip",
     "zlib": "minizip",

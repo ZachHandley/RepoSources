@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:11:55Z",
+    "generated_at": "2026-04-12T20:50:12Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
-    "total_mappings": 1310
+    "total_mappings": 1317
   },
   "mappings": {
     "app-accessibility/espeak": "espeak",
@@ -95,6 +95,7 @@
     "app-emulation/libvirt": "libvirt",
     "app-emulation/libvirt_glib": "libvirt-glib",
     "app-emulation/qemu": "qemu",
+    "app-emulation/rvvm": "rvvm",
     "app-emulation/spice": "spice-server",
     "app-emulation/spice-protocol": "spice-protocol",
     "app-emulation/uade": "uade",
@@ -139,6 +140,7 @@
     "app-misc/vifm": "vifm",
     "app-mobilephone/dfu-util": "dfu-util",
     "app-office/calcurse": "calcurse",
+    "app-office/gnumeric": "gnumeric",
     "app-office/sc-im": "sc-im",
     "app-pda/libimobiledevice_glue": "libimobiledevice-glue",
     "app-pda/libplist": "libplist",
@@ -593,6 +595,7 @@
     "dev-rust/cargo_c": "cargo-c",
     "dev-rust/cbindgen": "cbindgen",
     "dev-rust/corrosion": "corrosion",
+    "dev-scheme/chez": "chezscheme",
     "dev-scheme/chicken": "chicken",
     "dev-scheme/guile": "guile",
     "dev-tcltk/expect": "expect",
@@ -715,6 +718,7 @@
     "gnome-base/librsvg": "librsvg",
     "gnome-extra/gucharmap": "gucharmap",
     "gnome-extra/libgsf": "libgsf",
+    "gnome-extra/yelp-xsl": "yelp-xsl",
     "gui-libs/libhandy": "libhandy",
     "haiku-apps/bic": "bic",
     "haiku-apps/zookeeper": "zookeeper",
@@ -1019,6 +1023,7 @@
     "net-irc/irssi": "irssi",
     "net-irc/weechat": "weechat",
     "net-libs/aqbanking": "aqbanking",
+    "net-libs/cpr": "cpr",
     "net-libs/enet": "enet",
     "net-libs/glib_networking": "glib-networking",
     "net-libs/gloox": "gloox",
@@ -1262,6 +1267,7 @@
     "www-client/links": "links",
     "www-client/lynx": "lynx",
     "www-client/w3m": "w3m",
+    "www-misc/libkiwix": "libkiwix",
     "www-servers/apache": "httpd",
     "www-servers/lighttpd": "lighttpd",
     "www-servers/nginx": "nginx",
@@ -1270,6 +1276,7 @@
     "x11-libs/cairo": "cairo",
     "x11-libs/fltk": "fltk",
     "x11-libs/gdk-pixbuf": "gdk-pixbuf",
+    "x11-libs/goffice": "goffice",
     "x11-libs/gtk3": "gtk+",
     "x11-libs/gtk4": "gtk+",
     "x11-libs/gtksourceview": "gtksourceview3",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:16:16Z",
+    "generated_at": "2026-04-12T20:53:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
     "total_mappings": 11777
@@ -9542,7 +9542,6 @@
     "pdns-recursor": "pdnsrec",
     "pdns-server": "pdns",
     "pdns-tools": "pdns",
-    "pdnsd": "pdnsd",
     "pdsh": "pdsh",
     "peg": "peg",
     "pelican": "pelican",
@@ -11714,6 +11713,7 @@
     "yaz-illclient": "yaz",
     "yazpp": "yazpp",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yosys": "yosys",
     "yubico-piv-tool": "yubico-piv-tool",
     "yubikey-personalization": "ykpers",

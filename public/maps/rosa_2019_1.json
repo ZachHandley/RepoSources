@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:21Z",
+    "generated_at": "2026-04-12T20:52:42Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
-    "total_mappings": 11690
+    "total_mappings": 11696
   },
   "mappings": {
     "7kaa": "seven-kingdoms",
@@ -3978,6 +3978,8 @@
     "lib64keyutils-devel": "keyutils",
     "lib64keyutils-static-devel": "keyutils",
     "lib64keyutils1": "keyutils",
+    "lib64kiwix-devel": "libkiwix",
+    "lib64kiwix10": "libkiwix",
     "lib64klu1": "suite-sparse",
     "lib64kmod-devel": "kmod",
     "lib64kmod2": "kmod",
@@ -6582,6 +6584,9 @@
     "libkf5localedata5": "ki18n",
     "libkf5threadweaver-devel": "threadweaver",
     "libkf5threadweaver5": "threadweaver",
+    "libkiwix": "libkiwix",
+    "libkiwix-debuginfo": "libkiwix",
+    "libkiwix-debugsource": "libkiwix",
     "libks": "libks",
     "libks-debuginfo": "libks",
     "libks-debugsource": "libks",
@@ -11583,6 +11588,7 @@
     "yaz": "yaz",
     "ydiff": "ydiff",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "ykpers": "ykpers",
     "yt-dlp": "yt-dlp",
     "zabbix": "zabbix",

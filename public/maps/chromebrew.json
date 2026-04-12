@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:10:34Z",
+    "generated_at": "2026-04-12T20:49:13Z",
     "source": "repology-dump",
     "distro": "chromebrew",
-    "total_mappings": 1352
+    "total_mappings": 1354
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -972,6 +972,7 @@
     "pinentry": "pinentry",
     "pipes_sh": "pipes-sh",
     "pipewire": "pipewire",
+    "pivy": "pivy",
     "pixman": "pixman",
     "pixz": "pixz",
     "pkgconf": "pkgconf",
@@ -1332,6 +1333,7 @@
     "yarn": "yarn",
     "yasm": "yasm",
     "yelp_tools": "yelp-tools",
+    "yelp_xsl": "yelp-xsl",
     "yt_dlp": "yt-dlp",
     "yyjson": "yyjson",
     "z": "z",

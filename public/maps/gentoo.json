@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:11:38Z",
+    "generated_at": "2026-04-12T20:50:01Z",
     "source": "repology-dump",
     "distro": "gentoo",
-    "total_mappings": 3164
+    "total_mappings": 3163
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -1280,7 +1280,6 @@
     "dev-python/git-review": "git-review",
     "dev-python/gpgmepy": "gpgmepy",
     "dev-python/graph-tool": "graph-tool",
-    "dev-python/hatch": "hatch",
     "dev-python/ipython": "ipython",
     "dev-python/kaitaistruct": "kaitai-struct-compiler",
     "dev-python/libvirt-python": "libvirt-python",
@@ -1690,6 +1689,7 @@
     "gnome-extra/gucharmap": "gucharmap",
     "gnome-extra/libgda": "libgda",
     "gnome-extra/libgsf": "libgsf",
+    "gnome-extra/yelp-xsl": "yelp-xsl",
     "gnome-extra/zenity": "zenity",
     "gnustep-base/gnustep-base": "gnustep-base",
     "gnustep-base/gnustep-make": "gnustep-make",
@@ -2274,7 +2274,6 @@
     "net-dns/nsd": "nsd",
     "net-dns/pdns": "pdns",
     "net-dns/pdns-recursor": "pdnsrec",
-    "net-dns/pdnsd": "pdnsd",
     "net-dns/smartdns": "smartdns",
     "net-dns/unbound": "unbound",
     "net-firewall/fwknop": "fwknop",
@@ -3021,6 +3020,7 @@
     "sys-process/procs": "procs",
     "sys-process/runit": "runit",
     "sys-process/time": "gnu-time",
+    "sys-process/tini": "tini",
     "www-apache/passenger": "passenger",
     "www-apps/bareos-webui": "bareos-client",
     "www-apps/blazeblogger": "blazeblogger",
@@ -3052,7 +3052,6 @@
     "www-servers/spawn-fcgi": "spawn-fcgi",
     "www-servers/tomcat": "tomcat",
     "www-servers/uwsgi": "uwsgi",
-    "www-servers/varnish": "varnish",
     "www-servers/webfs": "webfs",
     "x11-apps/bdftopcf": "bdftopcf",
     "x11-apps/luit": "luit",

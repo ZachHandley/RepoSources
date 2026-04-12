@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:09:54Z",
+    "generated_at": "2026-04-12T20:48:38Z",
     "source": "repology-dump",
     "distro": "alt_p9",
-    "total_mappings": 12141
+    "total_mappings": 12145
   },
   "mappings": {
     "7kaa": "seven-kingdoms",
@@ -3106,6 +3106,7 @@
     "kf5-ki18n-devel": "ki18n",
     "kf5-threadweaver": "threadweaver",
     "kf5-threadweaver-devel": "threadweaver",
+    "kiwix-lib": "libkiwix",
     "klavaro": "klavaro",
     "klavaro-debuginfo": "klavaro",
     "kmod": "kmod",
@@ -5451,6 +5452,9 @@
     "libkf5i18n-debuginfo": "ki18n",
     "libkf5threadweaver": "threadweaver",
     "libkf5threadweaver-debuginfo": "threadweaver",
+    "libkiwix": "libkiwix",
+    "libkiwix-debuginfo": "libkiwix",
+    "libkiwix-devel": "libkiwix",
     "libkmod": "kmod",
     "libkmod-debuginfo": "kmod",
     "libkmod-devel": "kmod",
@@ -9281,8 +9285,6 @@
     "pdns-ixfrdist-debuginfo": "pdns",
     "pdns-tools": "pdns",
     "pdns-tools-debuginfo": "pdns",
-    "pdnsd": "pdnsd",
-    "pdnsd-debuginfo": "pdnsd",
     "pdsh": "pdsh",
     "pdsh-debuginfo": "pdsh",
     "pdsh-mod-dshgroup": "pdsh",
@@ -11505,6 +11507,7 @@
     "tin-debuginfo": "tin",
     "tinc": "tinc",
     "tinc-debuginfo": "tinc",
+    "tini": "tini",
     "tintin++": "tintin",
     "tintin++-debuginfo": "tintin",
     "tinycdb": "tinycdb",
@@ -12049,6 +12052,7 @@
     "yaz-debuginfo": "yaz",
     "yaz-doc": "yaz",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yosys": "yosys",
     "yosys-debuginfo": "yosys",
     "yosys-devel": "yosys",

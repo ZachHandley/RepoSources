@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:10:01Z",
+    "generated_at": "2026-04-12T20:48:45Z",
     "source": "repology-dump",
     "distro": "apertis_v2024",
-    "total_mappings": 8043
+    "total_mappings": 8045
   },
   "mappings": {
     "aalib": "aalib",
@@ -7557,6 +7557,7 @@
     "tidy-html5": "tidy-html5",
     "tiff": "libtiff",
     "time": "gnu-time",
+    "tini": "tini",
     "tinyxml": "tinyxml",
     "tinyxml2": "tinyxml",
     "tkmib": "net-snmp",
@@ -8025,6 +8026,7 @@
     "yapf3": "yapf",
     "yasm": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yui-compressor": "yuicompressor",
     "z3": "z3",
     "zenity": "zenity",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:11:00Z",
+    "generated_at": "2026-04-12T20:49:32Z",
     "source": "repology-dump",
     "distro": "deepin_unstable",
-    "total_mappings": 14404
+    "total_mappings": 14409
   },
   "mappings": {
     "0install": "zero-install",
@@ -5894,6 +5894,9 @@
     "libkim-api-v2-fortran": "kim-api",
     "libkim-api-v2-headers": "kim-api",
     "libkim-api-v2-models": "kim-api",
+    "libkiwix": "libkiwix",
+    "libkiwix-dev": "libkiwix",
+    "libkiwix3": "libkiwix",
     "libklu1": "suite-sparse",
     "libkml": "libkml",
     "libkml-dev": "libkml",
@@ -13515,6 +13518,7 @@
     "timidity-interfaces-extra": "timidity",
     "tin": "tin",
     "tinc": "tinc",
+    "tini": "tini",
     "tintin++": "tintin",
     "tinycdb": "tinycdb",
     "tinyproxy": "tinyproxy",
@@ -14328,6 +14332,7 @@
     "yaz-illclient": "yaz",
     "yder": "yder",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yosys": "yosys",
     "yosys-dev": "yosys",
     "yosys-doc": "yosys",

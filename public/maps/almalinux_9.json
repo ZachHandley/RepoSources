@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:09:36Z",
+    "generated_at": "2026-04-12T20:48:25Z",
     "source": "repology-dump",
     "distro": "almalinux_9",
-    "total_mappings": 5189
+    "total_mappings": 5191
   },
   "mappings": {
     "Box2D": "box2d",
@@ -5172,6 +5172,8 @@
     "yara-devel": "yara",
     "yara-doc": "yara",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yelp-xsl-devel": "yelp-xsl",
     "zenity": "zenity",
     "zenity-debuginfo": "zenity",
     "zenity-debugsource": "zenity",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:09:47Z",
+    "generated_at": "2026-04-12T20:48:34Z",
     "source": "repology-dump",
     "distro": "alpine_3_23",
-    "total_mappings": 10078
+    "total_mappings": 10085
   },
   "mappings": {
     "6tunnel": "sixtunnel",
@@ -1773,6 +1773,7 @@
     "darkice-openrc": "darkice",
     "darkstat": "darkstat",
     "darkstat-doc": "darkstat",
+    "dart-sass-js": "dart-sass",
     "dasel": "dasel",
     "dasel-bash-completion": "dasel",
     "dasel-fish-completion": "dasel",
@@ -4435,6 +4436,9 @@
     "libjxl-tools": "jpeg-xl",
     "libkeyfinder": "libkeyfinder",
     "libkeyfinder-dev": "libkeyfinder",
+    "libkiwix": "libkiwix",
+    "libkiwix-dev": "libkiwix",
+    "libkiwix-doc": "libkiwix",
     "libkml": "libkml",
     "libkml-dev": "libkml",
     "libks": "libks",
@@ -9130,6 +9134,8 @@
     "tinc": "tinc",
     "tinc-doc": "tinc",
     "tinc-openrc": "tinc",
+    "tini": "tini",
+    "tini-static": "tini",
     "tiny": "tiny",
     "tiny-doc": "tiny",
     "tinydns": "djbdns",
@@ -9940,6 +9946,7 @@
     "yazi-fish-completion": "yazi",
     "yazi-zsh-completion": "yazi",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "ykpers": "ykpers",
     "ykpers-dev": "ykpers",
     "ykpers-doc": "ykpers",

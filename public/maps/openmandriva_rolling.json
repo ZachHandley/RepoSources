@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:09Z",
+    "generated_at": "2026-04-12T20:51:33Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
-    "total_mappings": 12847
+    "total_mappings": 12850
   },
   "mappings": {
     "7kaa": "seven-kingdoms",
@@ -10710,9 +10710,6 @@
     "pdns-backend-sqlite": "pdns",
     "pdns-ixfrdist": "pdns",
     "pdns-recursor": "pdnsrec",
-    "pdnsd": "pdnsd",
-    "pdnsd-debuginfo": "pdnsd",
-    "pdnsd-debugsource": "pdnsd",
     "pdsh": "pdsh",
     "pdsh-debuginfo": "pdsh",
     "pdsh-debugsource": "pdsh",
@@ -11896,6 +11893,7 @@
     "sane-backends-doc": "sane-backends",
     "sane-backends-iscan": "sane-backends",
     "saned": "sane-backends",
+    "sass": "dart-sass",
     "sassc": "sassc",
     "sassc-debuginfo": "sassc",
     "sassc-debugsource": "sassc",
@@ -12404,6 +12402,9 @@
     "timezone-debugsource": "tzdb",
     "timezone-java": "tzdb",
     "tinc": "tinc",
+    "tini": "tini",
+    "tini-debuginfo": "tini",
+    "tini-static": "tini",
     "tinycdb": "tinycdb",
     "tinysparql": "tinysparql",
     "tinysparql-vala": "tinysparql",
@@ -12780,6 +12781,8 @@
     "yazpp-debuginfo": "yazpp",
     "yazpp-debugsource": "yazpp",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yelp-xsl-devel": "yelp-xsl",
     "ykpers": "ykpers",
     "ykpers-debuginfo": "ykpers",
     "ykpers-debugsource": "ykpers",

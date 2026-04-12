@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:13:56Z",
+    "generated_at": "2026-04-12T20:51:26Z",
     "source": "repology-dump",
     "distro": "openindiana",
-    "total_mappings": 2132
+    "total_mappings": 2137
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -963,6 +963,7 @@
     "library/gnome/libgom": "gom",
     "library/gnome/libshumate": "libshumate",
     "library/gnome/yelp-tools": "yelp-tools",
+    "library/gnome/yelp-xsl": "yelp-xsl",
     "library/gnutls-3": "gnutls",
     "library/graphics/libmng": "libmng",
     "library/graphics/libvdpau": "libvdpau",
@@ -1197,6 +1198,7 @@
     "library/python/maturin-314": "maturin",
     "library/python/maturin-39": "maturin",
     "library/python/meson": "meson",
+    "library/python/meson-314": "meson",
     "library/python/meson-39": "meson",
     "library/python/mypy": "mypy",
     "library/python/mypy-39": "mypy",
@@ -1375,6 +1377,7 @@
     "libwpg": "libwpg",
     "libwps": "libwps",
     "libxcb": "libxcb",
+    "libxcvt": "libxcvt",
     "libxdg-basedir": "libxdg-basedir",
     "libxkbcommon": "libxkbcommon",
     "libxkbfile": "libxkbfile",
@@ -2022,6 +2025,7 @@
     "x11/library/libxcb": "libxcb",
     "x11/library/libxcomposite": "libxcomposite",
     "x11/library/libxcursor": "libxcursor",
+    "x11/library/libxcvt": "libxcvt",
     "x11/library/libxdamage": "libxdamage",
     "x11/library/libxdmcp": "libxdmcp",
     "x11/library/libxext": "libxext",
@@ -2125,6 +2129,7 @@
     "yasm": "yasm",
     "yaz": "yaz",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yt_dlp": "yt-dlp",
     "zabbix-server": "zabbix",
     "zbar": "zbar",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:18Z",
+    "generated_at": "2026-04-12T20:52:37Z",
     "source": "repology-dump",
     "distro": "rocky_8",
-    "total_mappings": 857
+    "total_mappings": 858
   },
   "mappings": {
     "CUnit": "cunit",
@@ -857,6 +857,7 @@
     "yara": "yara",
     "yasm": "yasm",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "zenity": "zenity",
     "zip": "zip",
     "zlib": "minizip",

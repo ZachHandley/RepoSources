@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:10:38Z",
+    "generated_at": "2026-04-12T20:49:16Z",
     "source": "repology-dump",
     "distro": "crates_io",
-    "total_mappings": 176
+    "total_mappings": 177
   },
   "mappings": {
     "ab-av1": "ab-av1",
@@ -94,6 +94,7 @@
     "jnv": "jnv",
     "joshuto": "joshuto",
     "jrsonnet-cli": "jrsonnet",
+    "jsongrep": "jsongrep",
     "just": "just",
     "kibi": "kibi",
     "kondo": "kondo",

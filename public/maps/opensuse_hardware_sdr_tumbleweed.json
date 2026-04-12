@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:14:23Z",
+    "generated_at": "2026-04-12T20:51:40Z",
     "source": "repology-dump",
     "distro": "opensuse_hardware_sdr_tumbleweed",
-    "total_mappings": 132
+    "total_mappings": 122
   },
   "mappings": {
     "airspy": "airspy",
@@ -46,10 +46,6 @@
     "hackrf-devel": "hackrf",
     "hackrf-firmware": "hackrf",
     "hackrf-udev": "hackrf",
-    "hamlib": "hamlib",
-    "hamlib-debuginfo": "hamlib",
-    "hamlib-debugsource": "hamlib",
-    "hamlib-devel": "hamlib",
     "inspectrum": "inspectrum",
     "inspectrum-debuginfo": "inspectrum",
     "inspectrum-debugsource": "inspectrum",
@@ -75,8 +71,6 @@
     "libftdi1": "libftdi",
     "libgnuradio-3_10_12": "gnuradio",
     "libhackrf0": "hackrf",
-    "libhamlib++4": "hamlib",
-    "libhamlib4": "hamlib",
     "libitpp8": "itpp",
     "libliquid1": "liquid-dsp",
     "libubertooth1": "ubertooth",
@@ -91,7 +85,6 @@
     "liquid-dsp-debuginfo": "liquid-dsp",
     "liquid-dsp-debugsource": "liquid-dsp",
     "liquid-dsp-devel": "liquid-dsp",
-    "lua-Hamliblua": "hamlib",
     "minimodem": "minimodem",
     "minimodem-debuginfo": "minimodem",
     "minimodem-debugsource": "minimodem",
@@ -99,8 +92,6 @@
     "nlohmann_json-debuginfo": "nlohmann-json",
     "nlohmann_json-debugsource": "nlohmann-json",
     "nlohmann_json-devel": "nlohmann-json",
-    "perl-Hamlib": "hamlib",
-    "python3-Hamlib": "hamlib",
     "python3-pcapdump": "libbtbb",
     "python3-uhd": "uhd",
     "qdmr": "qdmr",
@@ -116,7 +107,6 @@
     "soapy-hackrf-debugsource": "soapyhackrf",
     "soapysdr0.8-3-module-hackrf": "soapyhackrf",
     "soapysdr0.8-3-module-lms7": "limesuite",
-    "tcl-Hamlib": "hamlib",
     "ubertooth": "ubertooth",
     "ubertooth-debuginfo": "ubertooth",
     "ubertooth-debugsource": "ubertooth",

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:12:41Z",
+    "generated_at": "2026-04-12T20:50:40Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
-    "total_mappings": 4037
+    "total_mappings": 4039
   },
   "mappings": {
     "6tunnel": "sixtunnel",
@@ -456,7 +456,6 @@
     "confuse": "confuse",
     "conmon": "conmon",
     "consul-template": "consul-template",
-    "container-diff": "container-diff",
     "containerd": "containerd",
     "convertlit": "convertlit",
     "convmv": "convmv",
@@ -527,6 +526,7 @@
     "darkhttpd": "darkhttpd",
     "darkstat": "darkstat",
     "dart": "dart-sdk",
+    "dart-sass": "dart-sass",
     "dash": "dash-shell",
     "datamash": "datamash",
     "dateutils": "dateutils",
@@ -851,6 +851,7 @@
     "fuse2": "libfuse",
     "fuse2fs": "e2fsprogs",
     "fuse3": "libfuse",
+    "fvm": "fvm",
     "fwknop": "fwknop",
     "fwupd": "fwupd",
     "fwupd-docs": "fwupd",
@@ -1857,6 +1858,7 @@
     "libkate-docs": "libkate",
     "libkeccak": "libkeccak",
     "libkeyfinder": "libkeyfinder",
+    "libkiwix": "libkiwix",
     "libksba": "libksba",
     "liblc3": "liblc3",
     "libldap": "openldap",
@@ -2735,7 +2737,6 @@
     "pdfgrep": "pdfgrep",
     "pdfpc": "pdfpc",
     "pdftk": "pdftk-java",
-    "pdnsd": "pdnsd",
     "peco": "peco",
     "peg": "peg",
     "pegtl": "pegtl",
@@ -3975,6 +3976,7 @@
     "yazi": "yazi",
     "yder": "yder",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yosys": "yosys",
     "yq": "python-yq",
     "yt-dlp": "yt-dlp",

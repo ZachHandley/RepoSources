@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:16:08Z",
+    "generated_at": "2026-04-12T20:53:32Z",
     "source": "repology-dump",
     "distro": "trisquel_10_0_backports",
-    "total_mappings": 124
+    "total_mappings": 127
   },
   "mappings": {
     "carla": "carla",
@@ -64,6 +64,9 @@
     "libipmidetect0": "freeipmi",
     "libipmimonitoring-dev": "freeipmi",
     "libipmimonitoring6": "freeipmi",
+    "libkiwix": "libkiwix",
+    "libkiwix-dev": "libkiwix",
+    "libkiwix9": "libkiwix",
     "liblld-13": "clang-format",
     "liblld-13-dev": "clang-format",
     "liblldb-13": "clang-format",

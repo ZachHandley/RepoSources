@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:10:32Z",
+    "generated_at": "2026-04-12T20:49:11Z",
     "source": "repology-dump",
     "distro": "chimera",
-    "total_mappings": 5608
+    "total_mappings": 5609
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -5534,6 +5534,7 @@
     "yazi": "yazi",
     "yazi-doc": "yazi",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yj": "yj",
     "yq": "yq",
     "yq-bashcomp": "yq",

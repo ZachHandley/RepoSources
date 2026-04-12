@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:15Z",
+    "generated_at": "2026-04-12T20:52:35Z",
     "source": "repology-dump",
     "distro": "reactos",
-    "total_mappings": 57
+    "total_mappings": 59
   },
   "mappings": {
     "7-Zip": "sevenzip",
@@ -34,6 +34,7 @@
     "SuperTux": "supertux",
     "Sylpheed": "sylpheed",
     "Tiny C Compiler": "tcc",
+    "Transmission": "transmission-cli",
     "VIM - Vi IMproved": "vim",
     "audacious": "audacious",
     "bochs": "bochs",
@@ -62,6 +63,7 @@
     "supertux": "supertux",
     "sylpheed": "sylpheed",
     "tcc": "tcc",
+    "transmission": "transmission-cli",
     "vim": "vim"
   }
 }

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:16:03Z",
+    "generated_at": "2026-04-12T20:53:27Z",
     "source": "repology-dump",
     "distro": "terra_41",
-    "total_mappings": 329
+    "total_mappings": 335
   },
   "mappings": {
     "ShivaVG": "shivavg",
@@ -89,6 +89,11 @@
     "golang-github-zrepl-devel": "zrepl",
     "gping": "gping",
     "gping-debuginfo": "gping",
+    "graalvm": "graalvm",
+    "graalvm-jdk11": "graalvm",
+    "graalvm-jdk11-devel": "graalvm",
+    "graalvm-jdk17": "graalvm",
+    "graalvm-jdk17-devel": "graalvm",
     "gradle": "gradle",
     "gradle-doc": "gradle",
     "gradle-src": "gradle",
@@ -266,6 +271,7 @@
     "rustypaste": "rustypaste",
     "rustypaste-debuginfo": "rustypaste",
     "rustypaste-debugsource": "rustypaste",
+    "sass": "dart-sass",
     "sccache": "sccache",
     "sccache-debuginfo": "sccache",
     "scrcpy": "scrcpy",

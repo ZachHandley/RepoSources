@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:11:20Z",
+    "generated_at": "2026-04-12T20:49:47Z",
     "source": "repology-dump",
     "distro": "eurolinux_9",
-    "total_mappings": 5105
+    "total_mappings": 5107
   },
   "mappings": {
     "Box2D": "box2d",
@@ -5083,6 +5083,8 @@
     "yara-devel": "yara",
     "yara-doc": "yara",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yelp-xsl-devel": "yelp-xsl",
     "zchunk": "zchunk",
     "zchunk-debuginfo": "zchunk",
     "zchunk-debugsource": "zchunk",

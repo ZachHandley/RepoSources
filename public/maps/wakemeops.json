@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:16:38Z",
+    "generated_at": "2026-04-12T20:54:02Z",
     "source": "repology-dump",
     "distro": "wakemeops",
     "total_mappings": 130
@@ -23,7 +23,6 @@
     "choose": "choose-rust",
     "cloud-provider-kind": "cloud-provider-kind",
     "clusterctl": "clusterctl",
-    "container-diff": "container-diff",
     "container-structure-test": "container-structure-test",
     "cosign": "cosign",
     "coursier": "coursier",
@@ -104,6 +103,7 @@
     "pyoxidizer": "pyoxidizer",
     "rclone": "rclone",
     "restic": "restic",
+    "resticprofile": "resticprofile",
     "ripgrep": "ripgrep",
     "rustic": "rustic",
     "rye": "rye",

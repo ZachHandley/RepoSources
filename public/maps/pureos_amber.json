@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:04Z",
+    "generated_at": "2026-04-12T20:52:24Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
-    "total_mappings": 13019
+    "total_mappings": 13024
   },
   "mappings": {
     "0install": "zero-install",
@@ -5551,6 +5551,9 @@
     "libkim-api-v2-fortran": "kim-api",
     "libkim-api-v2-headers": "kim-api",
     "libkim-api-v2-models": "kim-api",
+    "libkiwix": "libkiwix",
+    "libkiwix-dev": "libkiwix",
+    "libkiwix3": "libkiwix",
     "libklu1": "suite-sparse",
     "libkml": "libkml",
     "libkml-dev": "libkml",
@@ -12226,6 +12229,7 @@
     "timidity-interfaces-extra": "timidity",
     "tin": "tin",
     "tinc": "tinc",
+    "tini": "tini",
     "tintin++": "tintin",
     "tinycdb": "tinycdb",
     "tinyproxy": "tinyproxy",
@@ -12924,6 +12928,7 @@
     "yaz-illclient": "yaz",
     "yder": "yder",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "yosys": "yosys",
     "yosys-dev": "yosys",
     "yosys-doc": "yosys",

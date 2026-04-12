@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:12:29Z",
+    "generated_at": "2026-04-12T20:50:33Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
-    "total_mappings": 3446
+    "total_mappings": 3448
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -1869,6 +1869,7 @@
     "gnome-extra/gucharmap": "gucharmap",
     "gnome-extra/libgda": "libgda",
     "gnome-extra/libgsf": "libgsf",
+    "gnome-extra/yelp-xsl": "yelp-xsl",
     "gnome-extra/zenity": "zenity",
     "gnustep-base/gnustep-base": "gnustep-base",
     "gnustep-base/gnustep-make": "gnustep-make",
@@ -2475,7 +2476,6 @@
     "net-dns/nsd": "nsd",
     "net-dns/pdns": "pdns",
     "net-dns/pdns-recursor": "pdnsrec",
-    "net-dns/pdnsd": "pdnsd",
     "net-dns/smartdns": "smartdns",
     "net-dns/unbound": "unbound",
     "net-firewall/fwknop": "fwknop",
@@ -3292,6 +3292,7 @@
     "sys-process/runit": "runit",
     "sys-process/snooze": "snooze",
     "sys-process/time": "gnu-time",
+    "sys-process/tini": "tini",
     "sys-process/xe": "xe",
     "www-apache/passenger": "passenger",
     "www-apps/anubis": "anubis",
@@ -3317,6 +3318,7 @@
     "www-misc/buku": "buku",
     "www-misc/dufs": "dufs",
     "www-misc/fcgiwrap": "fcgiwrap",
+    "www-misc/libkiwix": "libkiwix",
     "www-misc/logswan": "logswan",
     "www-misc/mergelog": "mergelog",
     "www-misc/urlwatch": "urlwatch",

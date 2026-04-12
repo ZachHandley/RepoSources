@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T05:15:49Z",
+    "generated_at": "2026-04-12T20:53:11Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "total_mappings": 2445
@@ -1794,7 +1794,6 @@
     "pcre2-dev": "pcre2",
     "pcsc-lite": "pcsc-lite",
     "pcsc-lite-dev": "pcsc-lite",
-    "pdnsd": "pdnsd",
     "perl": "perl",
     "perl-core": "perl",
     "perl-dev": "perl",
@@ -2428,6 +2427,7 @@
     "yaws": "yaws",
     "yaze-ag": "yaze-ag",
     "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
     "zbar": "zbar",
     "zbar-dev": "zbar",
     "zenity": "zenity",
