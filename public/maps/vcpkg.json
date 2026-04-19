@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:54:00Z",
+    "generated_at": "2026-04-19T04:12:14Z",
     "source": "repology-dump",
     "distro": "vcpkg",
-    "total_mappings": 1196
+    "total_mappings": 1198
   },
   "mappings": {
     "7zip": "sevenzip",
@@ -493,8 +493,10 @@
     "json-spirit": "json_spirit",
     "jsoncpp": "jsoncpp",
     "jsonnet": "jsonnet",
+    "karchive": "karchive",
     "keystone": "keystone",
     "kfr": "kfr",
+    "ki18n": "ki18n",
     "krb5": "krb5",
     "lager": "lager",
     "lapack": "lapack",

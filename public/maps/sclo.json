@@ -1,22 +1,22 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:52:57Z",
+    "generated_at": "2026-04-19T04:11:18Z",
     "source": "repology-dump",
     "distro": "sclo",
     "total_mappings": 16
   },
   "mappings": {
     "sclo-cassandra3-Cython": "cython",
-    "sclo-cassandra3-antlr3": "antlr",
-    "sclo-cassandra3-antlr4": "antlr",
+    "sclo-cassandra3-antlr3": "antlr4-cpp-runtime",
+    "sclo-cassandra3-antlr4": "antlr4-cpp-runtime",
     "sclo-cassandra3-byteman": "byteman",
     "sclo-cassandra3-cassandra": "cassandra",
     "sclo-cassandra3-jflex": "jflex",
     "sclo-cassandra3-libsodium": "libsodium",
     "sclo-cassandra3-python-packaging": "python-packaging",
     "sclo-cassandra3-zeromq": "zeromq",
-    "sclo-git212-git": "git",
-    "sclo-git25-git": "git",
+    "sclo-git212-git": "git-svn",
+    "sclo-git25-git": "git-gui",
     "sclo-python27-Cython": "cython",
     "sclo-python35-Cython": "cython",
     "sclo-subversion19-libserf": "apache-serf",

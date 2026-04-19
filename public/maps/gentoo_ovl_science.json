@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:50:05Z",
+    "generated_at": "2026-04-19T04:08:45Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_science",
     "total_mappings": 49
@@ -9,7 +9,7 @@
     "app-office/visidata": "visidata",
     "app-text/noweb": "noweb",
     "dev-cpp/blitz": "blitz",
-    "dev-libs/boost-compute": "boost",
+    "dev-libs/boost-compute": "boost-bcp",
     "dev-python/xgboost": "xgboost",
     "dev-util/makefile2graph": "makefile2graph",
     "dev-util/ndiff": "ndiff",
@@ -36,7 +36,7 @@
     "sci-biology/stringtie": "stringtie",
     "sci-biology/tabixpp": "tabixpp",
     "sci-electronics/minipro": "minipro",
-    "sci-electronics/mpremote": "micropython",
+    "sci-electronics/mpremote": "mpremote",
     "sci-libs/arrayfire": "arrayfire",
     "sci-libs/cuba": "cuba",
     "sci-libs/ensmallen": "ensmallen",

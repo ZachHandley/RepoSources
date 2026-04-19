@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:50:03Z",
+    "generated_at": "2026-04-19T04:08:44Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_pentoo",
     "total_mappings": 65
@@ -29,7 +29,7 @@
     "dev-libs/nanopb": "nanopb",
     "dev-python/Scrapy": "scrapy",
     "dev-python/fastapi": "fastapi",
-    "dev-python/jsbeautifier": "js-beautify",
+    "dev-python/jsbeautifier": "jsbeautifier",
     "dev-python/nanobind": "nanobind",
     "dev-python/semgrep": "semgrep",
     "dev-python/tk": "python-tk@3.10",
@@ -70,6 +70,6 @@
     "net-wireless/hcxtools": "hcxtools",
     "net-wireless/libfreefare": "libfreefare",
     "net-wireless/pixiewps": "pixiewps",
-    "sys-devel/gcc-arm-none-eabi": "aarch64-elf-gcc"
+    "sys-devel/gcc-arm-none-eabi": "gcc"
   }
 }

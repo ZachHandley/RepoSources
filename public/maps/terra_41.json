@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:53:27Z",
+    "generated_at": "2026-04-19T04:11:44Z",
     "source": "repology-dump",
     "distro": "terra_41",
     "total_mappings": 335
@@ -94,11 +94,11 @@
     "graalvm-jdk11-devel": "graalvm",
     "graalvm-jdk17": "graalvm",
     "graalvm-jdk17-devel": "graalvm",
-    "gradle": "gradle",
-    "gradle-doc": "gradle",
-    "gradle-src": "gradle",
-    "groovy": "groovy",
-    "groovy-docs": "groovy",
+    "gradle": "gradle@8",
+    "gradle-doc": "gradle@8",
+    "gradle-src": "gradle@7",
+    "groovy": "groovysdk",
+    "groovy-docs": "groovysdk",
     "joshuto": "joshuto",
     "joshuto-debuginfo": "joshuto",
     "kondo": "kondo",
@@ -292,7 +292,7 @@
     "tdlib-nightly-debugsource": "tdlib",
     "tdlib-nightly-devel": "tdlib",
     "tdlib-nightly-static": "tdlib",
-    "tmon": "linux-headers@4.4",
+    "tmon": "linux-headers@6.8",
     "topgrade": "topgrade",
     "topgrade-debuginfo": "topgrade",
     "topgrade-debugsource": "topgrade",

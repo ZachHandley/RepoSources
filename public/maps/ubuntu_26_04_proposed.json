@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:53:59Z",
+    "generated_at": "2026-04-19T04:12:12Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04_proposed",
-    "total_mappings": 445
+    "total_mappings": 458
   },
   "mappings": {
     "abpoa": "abpoa",
@@ -27,6 +27,7 @@
     "bximage": "bochs",
     "ca-certificates": "ca-certificates",
     "ca-certificates-udeb": "ca-certificates",
+    "cargo-c": "cargo-c",
     "ccls": "ccls",
     "ckermit": "c-kermit",
     "clang-22": "clang-format",
@@ -261,6 +262,7 @@
     "libqt6widgets6": "qt",
     "libqt6wlshellintegration6": "qt",
     "libqt6xml6": "qt",
+    "librust-cargo-c-dev": "cargo-c",
     "libsdl1.2-compat-tests": "sdl12-compat",
     "libsdl1.2-dev": "sdl12-compat",
     "libsdl1.2debian": "sdl12-compat",
@@ -402,6 +404,7 @@
     "recon-ng": "recon-ng",
     "ruby-grpc": "grpc",
     "ruby-grpc-tools": "grpc",
+    "rust-cargo-c": "cargo-c",
     "sb16ctrl-bochs": "bochs",
     "sdl12-compat": "sdl12-compat",
     "seqan-apps": "seqan3",
@@ -445,6 +448,16 @@
     "wxmaxima": "wxmaxima",
     "wxmaxima-doc": "wxmaxima",
     "xmaxima": "maxima",
+    "xnest": "xorg-server",
+    "xorg-server": "xorg-server",
+    "xorg-server-source": "xorg-server",
+    "xserver-common": "xorg-server",
+    "xserver-xephyr": "xorg-server",
+    "xserver-xorg-core": "xorg-server",
+    "xserver-xorg-core-udeb": "xorg-server",
+    "xserver-xorg-dev": "xorg-server",
+    "xserver-xorg-legacy": "xorg-server",
+    "xvfb": "xorg-server",
     "xz-utils": "xz",
     "xzdec": "xz",
     "yarnpkg": "yarn",

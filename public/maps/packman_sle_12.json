@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:51:59Z",
+    "generated_at": "2026-04-19T04:10:26Z",
     "source": "repology-dump",
     "distro": "packman_sle_12",
     "total_mappings": 106
@@ -19,9 +19,9 @@
     "faac": "faac",
     "faad2": "faad2",
     "fdk-aac": "fdk-aac",
-    "ffmpeg-2": "ffmpeg",
-    "ffmpeg-3": "ffmpeg",
-    "ffmpeg-4": "ffmpeg",
+    "ffmpeg-2": "ffmpeg@5",
+    "ffmpeg-3": "ffmpeg@7",
+    "ffmpeg-4": "ffmpeg-full",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "ffms2": "ffms2",
     "flac": "flac",
@@ -63,7 +63,7 @@
     "libtar": "libtar",
     "libupnp": "libupnp",
     "libx264": "x264",
-    "libxml++26": "libxml++",
+    "libxml++26": "libxml++@4",
     "libzimg": "zimg",
     "live555": "openrtsp",
     "meson": "meson",

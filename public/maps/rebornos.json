@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:52:36Z",
+    "generated_at": "2026-04-19T04:11:00Z",
     "source": "repology-dump",
     "distro": "rebornos",
     "total_mappings": 23
@@ -12,7 +12,7 @@
     "f3": "f3",
     "fann": "fann",
     "fastfetch": "fastfetch",
-    "ffmpeg-compat-57": "ffmpeg",
+    "ffmpeg-compat-57": "ffmpeg@7",
     "glib2-static": "glib",
     "inxi": "inxi",
     "lcms": "little-cms2",
@@ -23,10 +23,10 @@
     "ncurses5-compat-libs": "ncurses",
     "nvm": "nvm",
     "openjpeg": "openjpeg",
-    "pcre-static": "pcre",
+    "pcre-static": "pcre2",
     "pod2man": "pod2man",
     "python-dlib": "dlib",
-    "python2": "python@3.10",
+    "python2": "python@3.14",
     "resvg": "resvg",
     "snapd": "snap"
   }

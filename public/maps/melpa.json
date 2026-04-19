@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:50:43Z",
+    "generated_at": "2026-04-19T04:09:19Z",
     "source": "repology-dump",
     "distro": "melpa",
     "total_mappings": 4
@@ -8,7 +8,7 @@
   "mappings": {
     "doxymacs": "doxymacs",
     "dracula-theme": "emacs-dracula",
-    "erlang": "erlang",
+    "erlang": "erlang@24",
     "password-store": "pass"
   }
 }

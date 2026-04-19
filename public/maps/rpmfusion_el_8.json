@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:52:44Z",
+    "generated_at": "2026-04-19T04:11:06Z",
     "source": "repology-dump",
     "distro": "rpmfusion_el_8",
     "total_mappings": 28
@@ -11,7 +11,7 @@
     "dynamips": "dynamips",
     "faac": "faac",
     "fdk-aac": "fdk-aac",
-    "ffmpeg": "ffmpeg",
+    "ffmpeg": "ffmpeg@7",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "ffms2": "ffms2",
     "gpac": "gpac",

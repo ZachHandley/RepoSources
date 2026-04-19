@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:54:03Z",
+    "generated_at": "2026-04-19T04:12:17Z",
     "source": "repology-dump",
     "distro": "wikidata",
-    "total_mappings": 2978
+    "total_mappings": 2979
   },
   "mappings": {
     "2ping": "twoping",
@@ -492,6 +492,7 @@
     "Komac": "komac",
     "Kraken": "kraken2",
     "Kubernetes": "kubernetes-cli",
+    "Kubo": "kubo",
     "LADSPA": "ladspa-sdk",
     "LAME": "lame",
     "LAMMPS": "lammps",

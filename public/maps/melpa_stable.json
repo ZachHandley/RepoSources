@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:50:44Z",
+    "generated_at": "2026-04-19T04:09:20Z",
     "source": "repology-dump",
     "distro": "melpa_stable",
     "total_mappings": 3
   },
   "mappings": {
     "dracula-theme": "emacs-dracula",
-    "erlang": "erlang",
+    "erlang": "erlang@25",
     "password-store": "pass"
   }
 }

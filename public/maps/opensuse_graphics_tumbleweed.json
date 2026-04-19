@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:51:39Z",
+    "generated_at": "2026-04-19T04:10:08Z",
     "source": "repology-dump",
     "distro": "opensuse_graphics_tumbleweed",
-    "total_mappings": 629
+    "total_mappings": 630
   },
   "mappings": {
     "CImg": "cimg",
@@ -26,13 +26,13 @@
     "GraphicsMagick-debuginfo": "graphicsmagick",
     "GraphicsMagick-debugsource": "graphicsmagick",
     "GraphicsMagick-devel": "graphicsmagick",
-    "ImageMagick": "imagemagick",
+    "ImageMagick": "imagemagick@6",
     "ImageMagick-config-7-SUSE": "imagemagick",
     "ImageMagick-config-7-upstream-limited": "imagemagick",
     "ImageMagick-debuginfo": "imagemagick",
-    "ImageMagick-debugsource": "imagemagick",
-    "ImageMagick-devel": "imagemagick",
-    "ImageMagick-doc": "imagemagick",
+    "ImageMagick-debugsource": "imagemagick@6",
+    "ImageMagick-devel": "imagemagick-full",
+    "ImageMagick-doc": "imagemagick@6",
     "ImageMagick-extra": "imagemagick",
     "Imath": "imath",
     "Imath-debuginfo": "imath",
@@ -258,8 +258,8 @@
     "libImath-3_2-30": "imath",
     "libImlib2-1": "imlib2",
     "libLerc4": "liblerc",
-    "libMagick++-7_Q16HDRI5": "imagemagick",
-    "libMagick++-devel": "imagemagick",
+    "libMagick++-7_Q16HDRI5": "imagemagick-full",
+    "libMagick++-devel": "imagemagick@6",
     "libMagickCore-7_Q16HDRI10": "imagemagick",
     "libMagickWand-7_Q16HDRI10": "imagemagick",
     "libOpenColorIO2_1": "opencolorio",
@@ -384,6 +384,7 @@
     "libopenjp2-7": "openjpeg",
     "libopenjpeg1": "openjpeg",
     "libopenjph0_26": "openjph",
+    "libopenjph0_27": "openjph",
     "libopenslide-devel": "openslide",
     "libopenslide0": "openslide",
     "libopenvdb13_0": "openvdb",

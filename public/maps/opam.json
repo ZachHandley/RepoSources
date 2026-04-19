@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:51:12Z",
+    "generated_at": "2026-04-19T04:09:45Z",
     "source": "repology-dump",
     "distro": "opam",
     "total_mappings": 7
@@ -10,7 +10,7 @@
     "0install-solver": "zero-install",
     "camlp5": "camlp5",
     "dune": "dune",
-    "llvm": "clang-format",
+    "llvm": "llvm",
     "num": "ocaml-num",
     "zarith": "ocaml-zarith"
   }

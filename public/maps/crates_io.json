@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:49:16Z",
+    "generated_at": "2026-04-19T04:07:57Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "total_mappings": 177
@@ -20,7 +20,7 @@
     "bat": "bat",
     "bingrep": "bingrep",
     "bkt": "bkt",
-    "blake3": "b3sum",
+    "blake3": "blake3",
     "boa_cli": "boa",
     "bob-nvim": "bob",
     "bore-cli": "bore-cli",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:52:00Z",
+    "generated_at": "2026-04-19T04:10:27Z",
     "source": "repology-dump",
     "distro": "packman_sle_15",
     "total_mappings": 39
@@ -16,11 +16,11 @@
     "faac": "faac",
     "faad2": "faad2",
     "fdk-aac": "fdk-aac",
-    "ffmpeg-3": "ffmpeg",
-    "ffmpeg-4": "ffmpeg",
-    "ffmpeg-6": "ffmpeg",
-    "ffmpeg-7": "ffmpeg",
-    "ffmpeg-8": "ffmpeg",
+    "ffmpeg-3": "ffmpeg-full",
+    "ffmpeg-4": "ffmpeg@2.8",
+    "ffmpeg-6": "ffmpeg-full",
+    "ffmpeg-7": "ffmpeg@7",
+    "ffmpeg-8": "ffmpeg-full",
     "handbrake": "handbrake",
     "libass": "libass",
     "libde265": "libde265",
@@ -38,7 +38,7 @@
     "normalize": "normalize",
     "pipewire": "pipewire",
     "rtmpdump": "rtmpdump",
-    "sox": "sox",
+    "sox": "sox_ng",
     "synfig": "synfig",
     "vimpc": "vimpc",
     "vo-aacenc": "libvo-aacenc",

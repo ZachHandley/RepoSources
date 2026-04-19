@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:50:02Z",
+    "generated_at": "2026-04-19T04:08:43Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
-    "total_mappings": 322
+    "total_mappings": 323
   },
   "mappings": {
     "app-accessibility/mimic1": "mimic",
@@ -146,7 +146,7 @@
     "dev-libs/xqilla": "xqilla",
     "dev-libs/zycore-c": "zycore-c",
     "dev-libs/zydis": "zydis",
-    "dev-python/avro": "avro-c",
+    "dev-python/avro": "avro-tools",
     "dev-python/fastapi": "fastapi",
     "dev-python/internetarchive": "internetarchive",
     "dev-python/pipenv": "pipenv",
@@ -181,6 +181,7 @@
     "dev-util/mise": "mise",
     "dev-util/neocmakelsp": "neocmakelsp",
     "dev-util/nvchecker": "nvchecker",
+    "dev-util/ols": "ols",
     "dev-util/opencode-bin": "opencode",
     "dev-util/riffdiff": "riff",
     "dev-util/rust-script": "rust-script",

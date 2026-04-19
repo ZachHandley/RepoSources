@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:52:54Z",
+    "generated_at": "2026-04-19T04:11:15Z",
     "source": "repology-dump",
     "distro": "sagemath_stable",
     "total_mappings": 75
@@ -9,7 +9,7 @@
     "cbc": "cbc",
     "ccache": "ccache",
     "cddlib": "cddlib",
-    "cmake": "cmake",
+    "cmake": "cmake-docs",
     "curl": "curl",
     "cython": "cython",
     "ecl": "ecl",
@@ -19,7 +19,7 @@
     "freetype": "freetype",
     "fricas": "fricas",
     "gc": "bdw-gc",
-    "gcc": "aarch64-elf-gcc",
+    "gcc": "m68k-elf-gcc",
     "gengetopt": "gengetopt",
     "gfortran": "aarch64-elf-gcc",
     "glpk": "glpk",
@@ -50,7 +50,7 @@
     "numpy": "numpy",
     "onetbb": "tbb",
     "openblas": "openblas",
-    "openssl": "openssl@3",
+    "openssl": "openssl@3.0",
     "packaging": "python-packaging",
     "papilo": "papilo",
     "pari": "pari",
@@ -65,7 +65,7 @@
     "primesieve": "primesieve",
     "pybind11": "pybind11",
     "pytest": "pytest",
-    "python3": "python@3.10",
+    "python3": "python@3.12",
     "qhull": "qhull",
     "readline": "readline",
     "scip": "scip",

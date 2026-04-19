@@ -1,22 +1,22 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:52:43Z",
+    "generated_at": "2026-04-19T04:11:05Z",
     "source": "repology-dump",
     "distro": "rpmfusion_el_10",
     "total_mappings": 64
   },
   "mappings": {
-    "ffmpeg": "ffmpeg",
-    "ffmpeg-debuginfo": "ffmpeg",
-    "ffmpeg-debugsource": "ffmpeg",
-    "ffmpeg-devel": "ffmpeg",
+    "ffmpeg": "ffmpeg@4",
+    "ffmpeg-debuginfo": "ffmpeg@7",
+    "ffmpeg-debugsource": "ffmpeg@6",
+    "ffmpeg-devel": "ffmpeg@5",
     "ffmpeg-libs": "ffmpeg",
     "libaacs": "libaacs",
     "libaacs-debuginfo": "libaacs",
     "libaacs-debugsource": "libaacs",
     "libaacs-devel": "libaacs",
     "libaacs-utils": "libaacs",
-    "libavcodec-freeworld": "ffmpeg",
+    "libavcodec-freeworld": "ffmpeg@2.8",
     "libavdevice": "ffmpeg",
     "libbdplus": "libbdplus",
     "libbdplus-debuginfo": "libbdplus",

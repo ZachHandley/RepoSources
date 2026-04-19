@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T20:54:01Z",
+    "generated_at": "2026-04-19T04:12:15Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
-    "total_mappings": 5820
+    "total_mappings": 5828
   },
   "mappings": {
     "3mux": "threemux",
@@ -1203,6 +1203,7 @@
     "geeqie": "geeqie",
     "gegl": "gegl",
     "gegl-devel": "gegl",
+    "genact": "genact",
     "genext2fs": "genext2fs",
     "gengetopt": "gengetopt",
     "geocode-glib": "geocode-glib",
@@ -3250,6 +3251,8 @@
     "linux6.19-headers": "linux-headers@4.4",
     "linux6.6": "linux-headers@4.4",
     "linux6.6-headers": "linux-headers@4.4",
+    "linux7.0": "linux-headers@4.4",
+    "linux7.0-headers": "linux-headers@4.4",
     "liquid-dsp": "liquid-dsp",
     "liquid-dsp-devel": "liquid-dsp",
     "litecli": "litecli",
@@ -3818,6 +3821,7 @@
     "opendht-devel": "opendht",
     "openexr": "openexr",
     "openfortivpn": "openfortivpn",
+    "openfpgaloader": "openfpgaloader",
     "openfst": "openfst",
     "openfst-devel": "openfst",
     "openh264": "openh264",
@@ -5036,6 +5040,7 @@
     "suil-devel": "suil",
     "superlu": "superlu",
     "superlu-devel": "superlu",
+    "superseedr": "superseedr",
     "supertux2": "supertux",
     "surfraw": "surfraw",
     "suricata": "suricata",
@@ -5366,7 +5371,10 @@
     "tre-devel": "tre",
     "tree": "tree",
     "tree-sitter": "tree-sitter",
+    "tree-sitter-cli": "tree-sitter",
     "tree-sitter-devel": "tree-sitter",
+    "tree-sitter-go": "tree-sitter-go",
+    "tree-sitter-python": "tree-sitter-python",
     "treefmt": "treefmt",
     "trippy": "trippy",
     "trivy": "trivy",
