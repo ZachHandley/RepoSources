@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable",
+    "shard": "n",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "NSIS": "makensis",
+    "NZBGet": "nzbget",
+    "NiFi": "nifi",
+    "Node.js": "node",
+    "Nuget": "nuget",
+    "net.aspell.Aspell": "aspell",
+    "net.sourceforge.ExuberantCtags": "ctags",
+    "net.sourceforge.TransmissionQt": "transmission-cli",
+    "net.sourceforge.aria2.Aria2": "aria2",
+    "net.sourceforge.djvu.DjView": "djview4",
+    "net.sourceforge.gnuwin32.CoreUtils": "coreutils",
+    "net.sourceforge.gnuwin32.GetText": "gettext",
+    "net.sourceforge.gnuwin32.Grep": "grep",
+    "net.sourceforge.gnuwin32.Make": "make",
+    "net.sourceforge.gnuwin32.Sed": "gnu-sed",
+    "net.sourceforge.gnuwin32.Wget": "wget",
+    "net.sourceforge.launch4j.Launch4j": "launch4j",
+    "net.sourceforge.nsis": "makensis",
+    "net.sourceforge.pidgin.Pidgin": "pidgin",
+    "net.sourceforge.pwgenwin.PWGen": "pwgen",
+    "net.sourceforge.upx.UPX": "upx",
+    "net.sourceforge.xmlstar.XMLStarlet": "xmlstarlet",
+    "nginx": "nginx",
+    "nifi": "nifi",
+    "nmap": "nmap",
+    "nodejs": "node",
+    "nuget": "nuget",
+    "nzbget": "nzbget"
+  }
+}

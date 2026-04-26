@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gnuguix",
+    "shard": "k",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "kakoune": "kakoune",
+    "kallisto": "kallisto",
+    "kanata": "kanata",
+    "karchive": "karchive",
+    "kawa": "kawa",
+    "kcgi": "kcgi",
+    "kcov": "kcov",
+    "kdoctools": "kdoctools",
+    "keepkey-agent": "keepkey-agent",
+    "keychain": "keychain",
+    "keyutils": "keyutils",
+    "khal": "khal",
+    "khard": "khard",
+    "ki18n": "ki18n",
+    "kibi": "kibi",
+    "kissat": "kissat",
+    "kiwix-lib": "libkiwix",
+    "klavaro": "klavaro",
+    "klee": "klee",
+    "kmod": "kmod",
+    "knot": "knot",
+    "knot-resolver": "knot-resolver",
+    "kokkos": "kokkos",
+    "kraken2": "kraken2",
+    "ktexttemplate": "ktexttemplate",
+    "kubo": "kubo",
+    "kyotocabinet": "kyoto-cabinet",
+    "kyua": "kyua"
+  }
+}

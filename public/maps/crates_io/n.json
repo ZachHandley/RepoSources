@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crates_io",
+    "shard": "n",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "navi": "navi",
+    "ncspot": "ncspot",
+    "nickel-lang-cli": "nickel",
+    "nodejs": "node",
+    "nu": "nushell",
+    "numbat-cli": "numbat"
+  }
+}

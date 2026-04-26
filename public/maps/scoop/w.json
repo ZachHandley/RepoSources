@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scoop",
+    "shard": "w",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "wabt": "wabt",
+    "wait4x": "wait4x",
+    "wakatime-cli": "wakatime-cli",
+    "walk": "walk",
+    "wasmedge": "wasmedge",
+    "wasmer": "wasmer",
+    "wasmtime": "wasmtime",
+    "watchexec": "watchexec",
+    "watchman": "watchman",
+    "wavpack": "wavpack",
+    "weasyprint": "weasyprint",
+    "webhook": "webhook",
+    "wgcf": "wgcf",
+    "wget": "wget",
+    "wget120": "wget",
+    "wget2": "wget2",
+    "which": "gnu-which",
+    "whisper-cpp": "whisper-cpp",
+    "widelands": "widelands",
+    "wimlib": "wimlib",
+    "wireshark": "wireshark",
+    "wireshark3": "wireshark",
+    "wireshark3.6": "wireshark",
+    "witr": "witr",
+    "woof": "woof-doom",
+    "worktrunk": "worktrunk",
+    "wormhole-william": "wormhole-william",
+    "wp-cli": "wp-cli",
+    "wstunnel": "wstunnel"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "deb_multimedia_unstable",
+    "shard": "v",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "vamp-examples": "vamp-plugin-sdk",
+    "vamp-plugin-sdk": "vamp-plugin-sdk",
+    "vamp-plugin-sdk-dmo": "vamp-plugin-sdk",
+    "vamp-plugin-sdk-doc": "vamp-plugin-sdk",
+    "vapoursynth": "vapoursynth",
+    "vapoursynth-bm3d": "vapoursynth-bm3d",
+    "vapoursynth-bm3d-dmo": "vapoursynth-bm3d",
+    "vapoursynth-descale": "vapoursynth-descale",
+    "vapoursynth-descale-dmo": "vapoursynth-descale",
+    "vapoursynth-dev": "vapoursynth",
+    "vapoursynth-dmo": "vapoursynth",
+    "vapoursynth-doc": "vapoursynth",
+    "vapoursynth-imwri": "vapoursynth-imwri",
+    "vapoursynth-imwri-dmo": "vapoursynth-imwri",
+    "vapoursynth-ocr": "vapoursynth-ocr",
+    "vapoursynth-ocr-dmo": "vapoursynth-ocr",
+    "vapousynth-imwri": "vapoursynth-imwri",
+    "vcdimager": "vcdimager",
+    "vcdimager-dmo": "vcdimager",
+    "vid.stab-dmo": "libvidstab",
+    "vipsdisp": "vipsdisp",
+    "vipsdisp-dmo": "vipsdisp",
+    "vmaf": "libvmaf",
+    "vmaf-dmo": "libvmaf",
+    "vmaf-models": "libvmaf",
+    "vvdec": "vvdec",
+    "vvdec-dmo": "vvdec",
+    "vvenc": "vvenc",
+    "vvenc-dmo": "vvenc"
+  }
+}

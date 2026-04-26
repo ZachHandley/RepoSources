@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kde_neon_user",
+    "shard": "p",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "pipewire": "pipewire",
+    "pipewire-audio-client-libraries": "pipewire",
+    "pipewire-bin": "pipewire",
+    "pipewire-doc": "pipewire",
+    "pipewire-media-session": "pipewire",
+    "pipewire-pulse": "pipewire",
+    "pipewire-tests": "pipewire",
+    "poppler": "poppler",
+    "poppler-utils": "poppler",
+    "pyqt-builder": "pyqt-builder",
+    "pyqt-builder-doc": "pyqt-builder",
+    "pyqt5.qsci-dev": "qscintilla2",
+    "python-sip-doc": "sip",
+    "python3": "python@3",
+    "python3-cec": "libcec",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python3-gpg": "gpgme",
+    "python3-mlt": "mlt",
+    "python3-mlt7": "mlt",
+    "python3-pyassimp": "assimp",
+    "python3-pyqt5.qsci": "qscintilla2",
+    "python3-pyqt5.qsci-dbg": "qscintilla2",
+    "python3-pyqtbuild": "pyqt-builder",
+    "python3-seccomp": "libseccomp",
+    "python3-sip": "sip",
+    "python3-sip-dbg": "sip",
+    "python3-sip-dev": "sip",
+    "python3-sipbuild": "sip",
+    "python3-sipbuild-dbg": "sip"
+  }
+}

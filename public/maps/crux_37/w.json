@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_37",
+    "shard": "w",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "wasi-libc": "wasi-libc",
+    "wasm-bindgen": "wasm-bindgen",
+    "wasm-pack": "wasm-pack",
+    "wavpack": "wavpack",
+    "wayland": "wayland",
+    "wayland-32": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "webkitgtk": "webkitgtk",
+    "weechat": "weechat",
+    "wget": "wget",
+    "wget2": "wget2",
+    "which": "gnu-which",
+    "whois": "whois",
+    "winetricks": "winetricks",
+    "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
+    "wireshark": "wireshark",
+    "woff2": "woff2",
+    "wpebackend-fdo": "wpebackend-fdo",
+    "wxgtk3": "wxwidgets"
+  }
+}

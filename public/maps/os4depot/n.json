@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "os4depot",
+    "shard": "n",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "neon.lha": "neon",
+    "nethack.lha": "nethack",
+    "netpbm.lha": "netpbm",
+    "network/chat/pidgin.lha": "pidgin",
+    "network/email/claws-mail.lha": "claws-mail",
+    "network/email/sylpheed.lha": "sylpheed",
+    "network/misc/analog.lha": "analog",
+    "network/misc/curl.lha": "curl",
+    "network/misc/mysql-client.lha": "mysql",
+    "network/misc/openssh.lha": "openssh",
+    "network/misc/privoxy.lha": "privoxy",
+    "network/misc/rtmpdump.lha": "rtmpdump",
+    "network/misc/speedtest-cli.lha": "speedtest-cli",
+    "network/p2p/transmission.lha": "transmission-cli",
+    "network/p2p/transmission_cli.lha": "transmission-cli",
+    "network/server/http/apache.lha": "httpd",
+    "nodejs": "node",
+    "normalize.lha": "normalize",
+    "notify.lha": "notify",
+    "npush.lha": "npush",
+    "nrg2iso.lha": "nrg2iso",
+    "nuvie.lha": "nuvie"
+  }
+}

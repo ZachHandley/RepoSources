@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "apertis_v2023",
+    "shard": "z",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "z3": "z3",
+    "zenity": "zenity",
+    "zenity-common": "zenity",
+    "zeromq3": "zeromq",
+    "zip": "zip",
+    "zipcmp": "libzip",
+    "zipmerge": "libzip",
+    "ziptool": "libzip",
+    "zlib": "zlib",
+    "zlib1g": "zlib",
+    "zlib1g-dev": "zlib",
+    "zlib1g-udeb": "zlib",
+    "zopfli": "zopfli",
+    "zsh": "zsh",
+    "zsh-common": "zsh",
+    "zsh-dev": "zsh",
+    "zsh-doc": "zsh",
+    "zsh-static": "zsh",
+    "zstd": "zstd",
+    "zziplib": "libzzip",
+    "zziplib-bin": "libzzip",
+    "zzuf": "zzuf"
+  }
+}

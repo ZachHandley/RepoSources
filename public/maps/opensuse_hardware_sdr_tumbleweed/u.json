@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_hardware_sdr_tumbleweed",
+    "shard": "u",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "ubertooth": "ubertooth",
+    "ubertooth-debuginfo": "ubertooth",
+    "ubertooth-debugsource": "ubertooth",
+    "ubertooth-devel": "ubertooth",
+    "ubertooth-udev": "ubertooth",
+    "uhd": "uhd",
+    "uhd-debuginfo": "uhd",
+    "uhd-debugsource": "uhd",
+    "uhd-devel": "uhd",
+    "uhd-doc": "uhd",
+    "uhd-firmware": "uhd",
+    "uhd-udev": "uhd",
+    "uhd-utils": "uhd",
+    "urh": "urh",
+    "urh-debuginfo": "urh",
+    "urh-debugsource": "urh"
+  }
+}

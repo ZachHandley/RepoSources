@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_13_backports",
+    "shard": "w",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "wasi-libc": "wasi-libc",
+    "wayland-protocols": "wayland-protocols",
+    "winbind": "samba",
+    "winpr-utils": "freerdp",
+    "winpr3-utils": "freerdp",
+    "wireplumber": "wireplumber",
+    "wireplumber-doc": "wireplumber",
+    "wireplumber-system-services": "wireplumber",
+    "wmbusmeters": "wmbusmeters"
+  }
+}

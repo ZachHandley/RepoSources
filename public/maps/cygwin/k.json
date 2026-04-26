@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "cygwin",
+    "shard": "k",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "keychain": "keychain",
+    "kf5-gpgmepp": "gpgmepp",
+    "kf5-gpgmepp-debuginfo": "gpgmepp",
+    "kf5-karchive": "karchive",
+    "kf5-karchive-debuginfo": "karchive",
+    "kf5-kdoctools": "kdoctools",
+    "kf5-kdoctools-debuginfo": "kdoctools",
+    "kf5-ki18n": "ki18n",
+    "kf5-ki18n-debuginfo": "ki18n",
+    "kf5-threadweaver": "threadweaver",
+    "kf5-threadweaver-debuginfo": "threadweaver",
+    "khrplatform-devel": "mesa",
+    "klavaro": "klavaro",
+    "klavaro-debuginfo": "klavaro",
+    "krb5": "krb5",
+    "krb5-debuginfo": "krb5",
+    "krb5-doc": "krb5",
+    "krb5-k5tls": "krb5",
+    "krb5-pkinit": "krb5",
+    "krb5-samples": "krb5",
+    "krb5-server": "krb5",
+    "krb5-server-ldap": "krb5",
+    "krb5-workstation": "krb5",
+    "ktoblzcheck": "ktoblzcheck",
+    "ktoblzcheck-debuginfo": "ktoblzcheck"
+  }
+}

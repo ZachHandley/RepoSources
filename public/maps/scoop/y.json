@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scoop",
+    "shard": "y",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "yamlfmt": "yamlfmt",
+    "yara": "yara",
+    "yara-x": "yara-x",
+    "yarn": "yarn",
+    "yasm": "yasm",
+    "yazi": "yazi",
+    "yek": "yek",
+    "yoke": "yoke",
+    "yosys": "yosys",
+    "yq": "yq",
+    "yt-dlp": "yt-dlp",
+    "yt-dlp-nightly": "yt-dlp",
+    "ytt": "ytt",
+    "yubico-piv-tool": "yubico-piv-tool",
+    "yubikey-personalization": "ykpers"
+  }
+}

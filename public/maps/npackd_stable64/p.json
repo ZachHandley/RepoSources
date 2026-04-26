@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable64",
+    "shard": "p",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "Pandoc 64 bit": "pandoc",
+    "Progressive Web Apps for Firefox": "firefoxpwa",
+    "Python 64 bit": "python@3.9",
+    "pandoc64": "pandoc",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openmamba",
+    "shard": "z",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "z3": "z3",
+    "zchunk": "zchunk",
+    "zenity": "zenity",
+    "zenmap": "nmap",
+    "zeroc-ice": "ice",
+    "zeroc-ice-debug": "ice",
+    "zeroc-ice-devel": "ice",
+    "zeroc-ice-servers": "ice",
+    "zeromq": "zeromq",
+    "zig": "zig",
+    "zimg": "zimg",
+    "zint": "zint",
+    "zip": "zip",
+    "zip-debug": "zip",
+    "zita-convolver": "zita-convolver",
+    "zix": "zix",
+    "zlib": "zlib",
+    "zsh": "zsh",
+    "zsh-debug": "zsh",
+    "zstd": "zstd",
+    "zug": "zug",
+    "zug-devel": "zug",
+    "zvbi": "zvbi",
+    "zxing-cpp": "zxing-cpp",
+    "zzip": "libzzip"
+  }
+}

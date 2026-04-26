@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kde_neon_testing",
+    "shard": "s",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "sip-tools": "sip",
+    "sip5": "sip",
+    "sip5-doc": "sip",
+    "sip5-tools": "sip",
+    "sip6": "sip",
+    "sip6-doc": "sip",
+    "svt-av1": "svt-av1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_6",
+    "shard": "h",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "haproxy": "haproxy",
+    "help2man": "help2man",
+    "hesiod": "hesiod",
+    "hicolor-icon-theme": "hicolor-icon-theme",
+    "hivex": "hivex",
+    "hspell": "hspell",
+    "httpd": "httpd",
+    "hunspell": "hunspell",
+    "hwloc": "hwloc"
+  }
+}

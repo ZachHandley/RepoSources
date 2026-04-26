@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pclinuxos",
+    "shard": "j",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "jansson": "jansson",
+    "jasper": "jasper",
+    "jbig2dec": "jbig2dec",
+    "jbigkit": "jbigkit",
+    "jed": "jed",
+    "jemalloc": "jemalloc",
+    "jhead": "jhead",
+    "jigdo": "jigdo",
+    "joe": "joe",
+    "john": "john",
+    "jpegoptim": "jpegoptim",
+    "jq": "jq",
+    "js": "spidermonkey",
+    "js185": "spidermonkey",
+    "json-c": "json-c",
+    "json-glib": "json-glib",
+    "jsoncpp": "jsoncpp",
+    "jsonrpc-glib": "jsonrpc-glib",
+    "jthread": "jthread",
+    "jxrlib": "jxrlib"
+  }
+}

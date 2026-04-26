@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_25",
+    "shard": "o",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "occt-draw": "opencascade",
+    "occt-misc": "opencascade",
+    "opencascade": "opencascade",
+    "openssl-dev": "openssl@3"
+  }
+}

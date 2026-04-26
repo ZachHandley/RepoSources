@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "bioarch",
+    "shard": "l",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "lastz": "lastz",
+    "lastz_backtobackgaps": "lastz",
+    "lib32-libxpm": "libxpm",
+    "libblake3": "b3sum",
+    "libdivide": "libdivide",
+    "libdivsufsort": "libdivsufsort",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3"
+  }
+}

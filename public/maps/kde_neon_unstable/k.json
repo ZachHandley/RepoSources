@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kde_neon_unstable",
+    "shard": "k",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "karchive": "karchive",
+    "kdoctools": "kdoctools",
+    "kdoctools-dev": "kdoctools",
+    "kdoctools5": "kdoctools",
+    "kdoctools6": "kdoctools",
+    "kdoctools6-dev": "kdoctools",
+    "kf6-extra-cmake-modules": "extra-cmake-modules",
+    "kf6-extra-cmake-modules-doc": "extra-cmake-modules",
+    "kf6-karchive": "karchive",
+    "kf6-karchive-dev": "karchive",
+    "kf6-kdoctools": "kdoctools",
+    "kf6-kdoctools-dev": "kdoctools",
+    "kf6-ki18n": "ki18n",
+    "kf6-ki18n-dev": "ki18n",
+    "kf6-ktexttemplate": "grantlee",
+    "kf6-ktexttemplate-dev": "grantlee",
+    "kf6-threadweaver": "threadweaver",
+    "kf6-threadweaver-dev": "threadweaver",
+    "ki18n": "ki18n"
+  }
+}

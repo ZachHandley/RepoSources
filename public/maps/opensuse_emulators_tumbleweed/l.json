@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_emulators_tumbleweed",
+    "shard": "l",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "libc4core0_2_5": "rapidyaml",
+    "libdsk": "libdsk",
+    "libdsk-debuginfo": "libdsk",
+    "libdsk-debugsource": "libdsk",
+    "libdsk-devel": "libdsk",
+    "libdsk5": "libdsk",
+    "liblcf": "liblcf",
+    "liblcf-debuginfo": "liblcf",
+    "liblcf-debugsource": "liblcf",
+    "liblcf0": "liblcf",
+    "liblcf0-devel": "liblcf",
+    "libmgba0_11": "mgba",
+    "libmupen64plus-devel": "mupen64plus",
+    "libmupen64plus2": "mupen64plus",
+    "libpcre1": "pcre",
+    "libpcre16-0": "pcre",
+    "libpcrecpp0": "pcre",
+    "libpcreposix0": "pcre",
+    "libryml0_8_0": "rapidyaml",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3"
+  }
+}

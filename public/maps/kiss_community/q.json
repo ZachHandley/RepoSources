@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_community",
+    "shard": "q",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "qbe": "qbe",
+    "qemu": "qemu",
+    "qpdf": "qpdf",
+    "qrencode": "qrencode",
+    "qt5": "qt@5",
+    "qt5-declarative": "qt",
+    "qt5-svg": "qt",
+    "qt5-wayland": "qt",
+    "qt5-webchannel": "qt",
+    "qt5-webengine": "qt"
+  }
+}

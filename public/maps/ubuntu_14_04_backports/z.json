@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_14_04_backports",
+    "shard": "z",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "zsh": "zsh",
+    "zsh-beta": "zsh",
+    "zsh-beta-doc": "zsh",
+    "zsh-common": "zsh",
+    "zsh-dbg": "zsh",
+    "zsh-dev": "zsh",
+    "zsh-doc": "zsh",
+    "zsh-static": "zsh"
+  }
+}

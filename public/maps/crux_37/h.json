@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_37",
+    "shard": "h",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "handbrake": "handbrake",
+    "harfbuzz": "harfbuzz",
+    "harfbuzz-32": "harfbuzz",
+    "hck": "hck",
+    "help2man": "help2man",
+    "hicolor-icon-theme": "hicolor-icon-theme",
+    "highlight": "highlight",
+    "hiredis": "hiredis",
+    "htop": "htop",
+    "hunspell": "hunspell",
+    "hwloc": "hwloc",
+    "hyperfine": "hyperfine"
+  }
+}

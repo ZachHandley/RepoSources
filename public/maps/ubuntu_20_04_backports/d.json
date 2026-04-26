@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_20_04_backports",
+    "shard": "d",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dmeventd": "device-mapper",
+    "dmsetup": "device-mapper",
+    "dmsetup-udeb": "device-mapper"
+  }
+}

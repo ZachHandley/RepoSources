@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crates_io",
+    "shard": "k",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "kibi": "kibi",
+    "kondo": "kondo",
+    "kubetui": "kubetui"
+  }
+}

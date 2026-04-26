@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "v",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "vala": "vala",
+    "valgrind": "valgrind",
+    "valgrind-dev": "valgrind",
+    "vde2": "vde",
+    "vde2-dev": "vde",
+    "vorbis-tools": "vorbis-tools",
+    "vte": "vte3",
+    "vte-dev": "vte3",
+    "vte-gtk2": "vte3",
+    "vte-gtk2-dev": "vte3",
+    "vte-gtk3": "vte3",
+    "vte-gtk3-dev": "vte3",
+    "vte-terminal": "vte3",
+    "vte-terminal-gtk2": "vte3",
+    "vte-terminal-gtk3": "vte3"
+  }
+}

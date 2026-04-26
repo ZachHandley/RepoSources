@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "amazon_1",
+    "shard": "q",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "qemu-kvm": "qemu",
+    "qrencode": "qrencode",
+    "quilt": "quilt"
+  }
+}

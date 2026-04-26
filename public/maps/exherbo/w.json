@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "exherbo",
+    "shard": "w",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "wayland-apps/foot": "foot",
+    "web-apps/cgit": "cgit",
+    "web-apps/grafana": "grafana",
+    "web-apps/logstash-bin": "logstash",
+    "web-apps/opensearch": "opensearch",
+    "web-apps/opensearch-dashboards": "opensearch-dashboards",
+    "www-apps/hugo": "hugo",
+    "www-servers/apache": "httpd",
+    "www-servers/caddy": "caddy",
+    "www-servers/lighttpd": "lighttpd",
+    "www-servers/nginx": "nginx",
+    "www-servers/static-web-server": "static-web-server",
+    "www-servers/tomcat-bin": "tomcat",
+    "www-servers/tomcat-native": "tomcat-native",
+    "www-servers/uwsgi": "uwsgi"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "t",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "tailscale": "tailscale",
+    "talm-bin": "talm",
+    "talosctl-bin": "talosctl",
+    "taskwarrior": "task",
+    "tgpt-bin": "tgpt",
+    "tmpmail-bin": "tmpmail",
+    "tmux": "tmux",
+    "topgrade-bin": "topgrade",
+    "topgrade-musl-bin": "topgrade",
+    "tor": "tor",
+    "tre-git": "tre",
+    "tuckr": "tuckr",
+    "typescript": "typescript"
+  }
+}

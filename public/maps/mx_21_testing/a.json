@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_21_testing",
+    "shard": "a",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "alpine": "alpine",
+    "alpine-doc": "alpine",
+    "alpine-pico": "alpine",
+    "aom": "aom",
+    "aom-tools": "aom",
+    "aria2": "aria2",
+    "assimp": "assimp",
+    "assimp-testmodels": "assimp",
+    "assimp-utils": "assimp",
+    "assistant-qt6": "qt",
+    "audacious": "audacious",
+    "audacious-dev": "audacious",
+    "autoconf": "autoconf",
+    "autoconf-doc": "autoconf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_multimedia_libs_tumbleweed",
+    "shard": "u",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "unittest-cpp": "unittest-cpp",
+    "unittest-cpp-debuginfo": "unittest-cpp",
+    "unittest-cpp-debugsource": "unittest-cpp",
+    "unittest-cpp-devel": "unittest-cpp"
+  }
+}

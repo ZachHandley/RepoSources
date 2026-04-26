@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubi_8",
+    "shard": "f",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "fftw": "fftw",
+    "file": "file-formula",
+    "findutils": "findutils",
+    "flac": "flac",
+    "fontconfig": "fontconfig",
+    "freetype": "freetype",
+    "fribidi": "fribidi",
+    "fstrm": "fstrm",
+    "fuse-overlayfs": "fuse-overlayfs"
+  }
+}

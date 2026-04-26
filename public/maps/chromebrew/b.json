@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chromebrew",
+    "shard": "b",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "babl": "babl",
+    "bacula": "bacula-fd",
+    "baobab": "baobab",
+    "bash": "bash",
+    "bash_completion": "bash-completion",
+    "bash_snippets": "bash-snippets",
+    "bashdb": "bashdb",
+    "bat": "bat",
+    "bats": "bats-core",
+    "bazel": "bazel",
+    "bazelisk": "bazelisk",
+    "bc": "bc",
+    "bdftopcf": "bdftopcf",
+    "bdwgc": "bdw-gc",
+    "benchmark": "google-benchmark",
+    "bibutils": "bibutils",
+    "bind": "bind",
+    "binutils": "binutils",
+    "bison": "bison",
+    "bitcoin_core": "bitcoin",
+    "blueprint_compiler": "blueprint-compiler",
+    "bmon": "bmon",
+    "boost": "boost",
+    "broot": "broot",
+    "brotli": "brotli",
+    "btop": "btop",
+    "btrfs_progs": "btrfs-progs",
+    "bubblewrap": "bubblewrap",
+    "bullet": "bullet",
+    "byobu": "byobu",
+    "bzip2": "bzip2",
+    "bzip3": "bzip3"
+  }
+}

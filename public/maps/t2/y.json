@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "t2",
+    "shard": "y",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "yajl": "yajl",
+    "yaml-cpp": "yaml-cpp",
+    "yamllint": "yamllint",
+    "yara": "yara",
+    "yash": "yash",
+    "yasm": "yasm",
+    "yazi": "yazi",
+    "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yle-dl": "yle-dl",
+    "yosys": "yosys",
+    "you-get": "you-get",
+    "youtubedr": "youtubedr",
+    "yq": "yq",
+    "yt-dlp": "yt-dlp",
+    "yubico-piv-tool": "yubico-piv-tool",
+    "yubikey-manager": "ykman",
+    "yyjson": "yyjson"
+  }
+}

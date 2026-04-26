@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pardus_23",
+    "shard": "l",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "libsoup-3.0-0": "libsoup",
+    "libsoup-3.0-common": "libsoup",
+    "libsoup-3.0-dev": "libsoup",
+    "libsoup-3.0-doc": "libsoup",
+    "libsoup-3.0-tests": "libsoup",
+    "libsoup3": "libsoup",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3"
+  }
+}

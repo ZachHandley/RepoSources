@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_main",
+    "shard": "x",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "x264": "x264",
+    "x265": "x265",
+    "xkeyboard-config": "xkeyboard-config",
+    "xvidcore": "xvid",
+    "xxhash": "xxhash",
+    "xz": "xz"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "v",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "vcdimager": "vcdimager",
+    "vile": "vile",
+    "vim": "vim",
+    "vorbis-tools": "vorbis-tools",
+    "vsftpd": "vsftpd"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rocky_9",
+    "shard": "w",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "wavpack": "wavpack",
+    "wavpack-devel": "wavpack",
+    "wayland": "wayland",
+    "wayland-devel": "wayland",
+    "wayland-doc": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "wayland-protocols-devel": "wayland-protocols",
+    "webkit2gtk3": "webkitgtk",
+    "webkit2gtk3-debuginfo": "webkitgtk",
+    "webkit2gtk3-debugsource": "webkitgtk",
+    "webkit2gtk3-devel": "webkitgtk",
+    "webkit2gtk3-jsc": "webkitgtk",
+    "webkit2gtk3-jsc-devel": "webkitgtk",
+    "wget": "wget",
+    "which": "gnu-which",
+    "whois": "whois",
+    "whois-nls": "whois",
+    "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
+    "wireplumber-devel": "wireplumber",
+    "wireplumber-libs": "wireplumber",
+    "wireshark": "wireshark",
+    "wireshark-cli": "wireshark",
+    "wireshark-debuginfo": "wireshark",
+    "wireshark-debugsource": "wireshark",
+    "wireshark-devel": "wireshark",
+    "woff2": "woff2",
+    "woff2-devel": "woff2",
+    "woff2-tools": "woff2",
+    "wpebackend-fdo": "wpebackend-fdo",
+    "wpebackend-fdo-devel": "wpebackend-fdo"
+  }
+}

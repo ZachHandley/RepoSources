@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_emulators_tumbleweed",
+    "shard": "b",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "bochs": "bochs",
+    "bochs-debuginfo": "bochs",
+    "bochs-debugsource": "bochs"
+  }
+}

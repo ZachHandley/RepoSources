@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_education_tumbleweed",
+    "shard": "p",
+    "total_mappings": 27
+  },
+  "mappings": {
+    "physfs": "physfs",
+    "physfs-debuginfo": "physfs",
+    "physfs-debugsource": "physfs",
+    "portmidi": "portmidi",
+    "portmidi-debuginfo": "portmidi",
+    "portmidi-debugsource": "portmidi",
+    "portmidi-devel": "portmidi",
+    "portmidi-java": "portmidi",
+    "python-numpy": "numpy",
+    "python-numpy-debuginfo": "numpy",
+    "python-numpy-debugsource": "numpy",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python3-openbabel": "open-babel",
+    "python311-numpy": "numpy",
+    "python311-numpy-devel": "numpy",
+    "python311-tbb": "tbb",
+    "python311-txt2tags": "txt2tags",
+    "python312-tbb": "tbb",
+    "python313-numpy": "numpy",
+    "python313-numpy-devel": "numpy",
+    "python313-tbb": "tbb",
+    "python313-txt2tags": "txt2tags",
+    "python314-numpy": "numpy",
+    "python314-numpy-devel": "numpy",
+    "python314-txt2tags": "txt2tags"
+  }
+}

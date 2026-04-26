@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_graphics_tumbleweed",
+    "shard": "i",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "ImageMagick": "imagemagick",
+    "ImageMagick-config-7-SUSE": "imagemagick",
+    "ImageMagick-config-7-upstream-limited": "imagemagick",
+    "ImageMagick-debuginfo": "imagemagick",
+    "ImageMagick-debugsource": "imagemagick",
+    "ImageMagick-devel": "imagemagick",
+    "ImageMagick-doc": "imagemagick",
+    "ImageMagick-extra": "imagemagick",
+    "Imath": "imath",
+    "Imath-debuginfo": "imath",
+    "Imath-debugsource": "imath",
+    "Imath-devel": "imath",
+    "icns-utils": "libicns",
+    "icoutils": "icoutils",
+    "icoutils-debuginfo": "icoutils",
+    "icoutils-debugsource": "icoutils",
+    "img2pdf": "img2pdf",
+    "imgp": "imgp",
+    "imgp-bash-completion": "imgp",
+    "imgp-fish-completion": "imgp",
+    "imgp-zsh-completion": "imgp",
+    "imlib2": "imlib2",
+    "imlib2-debuginfo": "imlib2",
+    "imlib2-debugsource": "imlib2",
+    "imlib2-demo": "imlib2",
+    "imlib2-devel": "imlib2",
+    "imlib2-filters": "imlib2",
+    "imlib2-loaders": "imlib2"
+  }
+}

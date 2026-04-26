@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kde_neon_unstable",
+    "shard": "z",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "zug": "zug",
+    "zxing-cpp": "zxing-cpp",
+    "zxing-cpp-tools": "zxing-cpp"
+  }
+}

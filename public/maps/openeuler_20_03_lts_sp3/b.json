@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openeuler_20_03_lts_sp3",
+    "shard": "b",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "babl": "babl",
+    "bacula": "bacula-fd",
+    "bash": "bash",
+    "bash-completion": "bash-completion",
+    "batik": "batik",
+    "bc": "bc",
+    "bcrypt": "bcrypt",
+    "bind": "bind",
+    "binutils": "binutils",
+    "bison": "bison",
+    "bluez": "bluez",
+    "boost": "boost",
+    "brotli": "brotli",
+    "btrfs-progs": "btrfs-progs",
+    "bubblewrap": "bubblewrap",
+    "bullet": "bullet",
+    "bwa": "bwa",
+    "byacc": "byacc",
+    "byteman": "byteman",
+    "bzip2": "bzip2"
+  }
+}

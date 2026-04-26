@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aixtoolbox",
+    "shard": "i",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "ImageMagick": "imagemagick",
+    "icu": "icu4c@74",
+    "iftop": "iftop",
+    "indent": "gnu-indent",
+    "intltool": "intltool",
+    "iperf2": "iperf",
+    "iperf3": "iperf3",
+    "ipmitool": "ipmitool",
+    "ivykis": "ivykis"
+  }
+}

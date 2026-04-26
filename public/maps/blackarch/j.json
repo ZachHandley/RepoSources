@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "blackarch",
+    "shard": "j",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "java22-openjdk": "openjdk",
+    "java23-openjdk": "openjdk",
+    "java24-openjdk": "openjdk",
+    "jwt-hack": "jwt-hack"
+  }
+}

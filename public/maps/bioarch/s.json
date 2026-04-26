@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "bioarch",
+    "shard": "s",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "sambamba": "sambamba",
+    "samtools": "samtools",
+    "seqan": "seqan3",
+    "seqan3": "seqan3",
+    "seqkit": "seqkit",
+    "seqtk": "seqtk",
+    "snakemake": "snakemake",
+    "soci": "soci",
+    "spades": "spades",
+    "star": "rna-star",
+    "stringtie": "stringtie"
+  }
+}

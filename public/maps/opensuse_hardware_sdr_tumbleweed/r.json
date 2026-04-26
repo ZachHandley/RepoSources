@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_hardware_sdr_tumbleweed",
+    "shard": "r",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "rtl_433": "rtl_433",
+    "rtl_433-debuginfo": "rtl_433",
+    "rtl_433-debugsource": "rtl_433",
+    "rtl_433-devel": "rtl_433"
+  }
+}

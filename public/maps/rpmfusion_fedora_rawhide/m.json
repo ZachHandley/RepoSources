@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_rawhide",
+    "shard": "m",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "mencoder": "mplayer",
+    "mesa-freeworld": "mesa",
+    "mesa-freeworld-debuginfo": "mesa",
+    "mesa-freeworld-debugsource": "mesa",
+    "mesa-va-drivers-freeworld": "mesa",
+    "mesa-vulkan-drivers-freeworld": "mesa",
+    "mingw-libmad": "mad",
+    "mingw32-libmad": "mad",
+    "mingw32-libmad-debuginfo": "mad",
+    "mingw64-libmad": "mad",
+    "mingw64-libmad-debuginfo": "mad",
+    "mmsrip": "mmsrip",
+    "moc": "moc",
+    "mpd": "mpd",
+    "mpgtx": "mpgtx",
+    "mplayer": "mplayer",
+    "mplayer-common": "mplayer",
+    "mplayer-doc": "mplayer",
+    "mplayer-tools": "mplayer"
+  }
+}

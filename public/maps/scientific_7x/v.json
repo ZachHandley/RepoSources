@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scientific_7x",
+    "shard": "v",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "vala": "vala",
+    "valgrind": "valgrind",
+    "vim": "vim",
+    "virt-manager": "virt-manager",
+    "virtuoso-opensource": "virtuoso",
+    "vorbis-tools": "vorbis-tools",
+    "vsftpd": "vsftpd",
+    "vte291": "vte3",
+    "vte3": "vte3"
+  }
+}

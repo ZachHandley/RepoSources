@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_games_tumbleweed",
+    "shard": "a",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "allegro": "allegro",
+    "allegro-debuginfo": "allegro",
+    "allegro-debugsource": "allegro",
+    "allegro44": "allegro",
+    "allegro44-debuginfo": "allegro",
+    "allegro44-debugsource": "allegro",
+    "allegro44-dga2-plugin": "allegro",
+    "allegro44-jack-plugin": "allegro",
+    "allegro44-tools": "allegro",
+    "angband": "angband",
+    "angband-debuginfo": "angband",
+    "angband-debugsource": "angband",
+    "asc": "asc",
+    "asc-debuginfo": "asc",
+    "asc-debugsource": "asc",
+    "asc-music": "asc",
+    "assimp": "assimp",
+    "assimp-debuginfo": "assimp",
+    "assimp-debugsource": "assimp",
+    "assimp-devel": "assimp"
+  }
+}

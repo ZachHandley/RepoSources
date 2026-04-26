@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "salix_14_2",
+    "shard": "s",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "SDL2": "sdl2",
+    "SDL2_image": "sdl2_image",
+    "SDL2_mixer": "sdl2_mixer",
+    "SDL2_ttf": "sdl2_ttf",
+    "SDL_gfx": "sdl_gfx",
+    "schroedinger": "schroedinger",
+    "simple-scan": "simple-scan",
+    "smpeg2": "smpeg2",
+    "soundtouch": "sound-touch",
+    "sourcery": "sourcery",
+    "speex": "speex",
+    "sshfs": "sshfs",
+    "supertux": "supertux",
+    "supertux2": "supertux",
+    "sylpheed": "sylpheed"
+  }
+}

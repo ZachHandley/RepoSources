@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_38",
+    "shard": "i",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "icon-naming-utils": "icon-naming-utils",
+    "icu": "icu4c@74",
+    "icu-32": "icu4c@74",
+    "id3lib": "id3lib",
+    "iftop": "iftop",
+    "imagemagick": "imagemagick",
+    "imapfilter": "imapfilter",
+    "imath": "imath",
+    "imlib2": "imlib2",
+    "imlib2-32": "imlib2",
+    "inetutils": "inetutils",
+    "influxdb": "influxdb",
+    "inih": "inih",
+    "iniparser": "iniparser",
+    "inotify-tools": "inotify-tools",
+    "intltool": "intltool",
+    "ipmitool": "ipmitool",
+    "iproute2": "iproute2",
+    "iptables": "iptables",
+    "iputils": "iputils",
+    "irssi": "irssi",
+    "iso-codes": "iso-codes",
+    "isync": "isync",
+    "itstool": "itstool"
+  }
+}

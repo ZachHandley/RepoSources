@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_network_tumbleweed",
+    "shard": "s",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "sniffnet": "sniffnet",
+    "sniffnet-debuginfo": "sniffnet",
+    "sniffnet-debugsource": "sniffnet",
+    "snowflake": "snowflake",
+    "snowflake-debuginfo": "snowflake",
+    "snowflake-debugsource": "snowflake",
+    "sshpass": "sshpass",
+    "sshpass-debuginfo": "sshpass",
+    "sshpass-debugsource": "sshpass",
+    "sstp-client": "sstp-client",
+    "sstp-client-debuginfo": "sstp-client",
+    "sstp-client-debugsource": "sstp-client",
+    "sstp-client-devel": "sstp-client",
+    "syncthing": "syncthing",
+    "syncthing-debuginfo": "syncthing",
+    "syncthing-debugsource": "syncthing",
+    "syncthing-relaysrv": "syncthing"
+  }
+}

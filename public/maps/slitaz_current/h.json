@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "h",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "harfbuzz": "harfbuzz",
+    "harfbuzz-dev": "harfbuzz",
+    "harfbuzz-icu": "harfbuzz",
+    "harfbuzz-icu-dev": "harfbuzz",
+    "hicolor-icon-theme": "hicolor-icon-theme"
+  }
+}

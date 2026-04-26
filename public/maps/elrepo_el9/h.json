@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "elrepo_el9",
+    "shard": "h",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "hfsutils": "hfsutils",
+    "hfsutils-debuginfo": "hfsutils",
+    "hfsutils-debugsource": "hfsutils",
+    "hfsutils-devel": "hfsutils",
+    "hfsutils-x11": "hfsutils"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pisi_contrib",
+    "shard": "_misc",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "0oldpackage/Bitcoin": "bitcoin",
+    "0oldpackage/bullet": "bullet",
+    "0oldpackage/cherrytree": "cherrytree",
+    "0oldpackage/discount": "discount"
+  }
+}

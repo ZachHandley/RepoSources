@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slackwarearm_15_0",
+    "shard": "m",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "MPlayer": "mplayer",
+    "Mako": "mako",
+    "m4": "m4",
+    "madplay": "madplay",
+    "make": "make",
+    "makedepend": "makedepend",
+    "man-db": "man-db",
+    "mariadb": "mariadb",
+    "marisa": "marisa",
+    "mc": "midnight-commander",
+    "mcabber": "mcabber",
+    "mercurial": "mercurial",
+    "mesa": "mesa",
+    "meson": "meson",
+    "mhash": "mhash",
+    "minicom": "minicom",
+    "mkfontscale": "mkfontscale",
+    "mlt": "mlt",
+    "moc": "moc",
+    "most": "most",
+    "motif": "openmotif",
+    "mozilla-nss": "nss",
+    "mozjs78": "spidermonkey",
+    "mpfr": "mpfr",
+    "mpg123": "mpg123",
+    "mtr": "mtr",
+    "mutt": "mutt",
+    "mypaint-brushes": "mypaint-brushes"
+  }
+}

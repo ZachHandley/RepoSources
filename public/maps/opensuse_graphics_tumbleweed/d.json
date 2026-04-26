@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_graphics_tumbleweed",
+    "shard": "d",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "dcraw": "dcraw",
+    "dcraw-debuginfo": "dcraw",
+    "dcraw-debugsource": "dcraw",
+    "dcraw-lang": "dcraw",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "djvulibre": "djvulibre",
+    "djvulibre-debuginfo": "djvulibre",
+    "djvulibre-debugsource": "djvulibre",
+    "djvulibre-djview4": "djview4",
+    "djvulibre-djview4-debuginfo": "djview4",
+    "djvulibre-djview4-debugsource": "djview4",
+    "djvulibre-doc": "djvulibre",
+    "dnglab": "dnglab",
+    "dnglab-bash-completion": "dnglab",
+    "dnglab-debuginfo": "dnglab",
+    "dnglab-debugsource": "dnglab",
+    "dnglab-fish-completion": "dnglab",
+    "draco": "draco",
+    "draco-debuginfo": "draco",
+    "draco-debugsource": "draco",
+    "draco-devel": "draco",
+    "dssim": "dssim",
+    "dssim-debuginfo": "dssim",
+    "dssim-debugsource": "dssim",
+    "dxflib": "dxflib",
+    "dxflib-debuginfo": "dxflib",
+    "dxflib-debugsource": "dxflib",
+    "dxflib-devel": "dxflib"
+  }
+}

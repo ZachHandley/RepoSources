@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "homebrew_casks",
+    "shard": "s",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "SFM": "sing-box",
+    "Synfig Studio": "synfig",
+    "sfm": "sing-box",
+    "synfigstudio": "synfig"
+  }
+}

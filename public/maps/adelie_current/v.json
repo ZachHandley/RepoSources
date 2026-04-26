@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "adelie_current",
+    "shard": "v",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "vala": "vala",
+    "vala-dbg": "vala",
+    "vala-dev": "vala",
+    "vala-doc": "vala",
+    "valgrind": "valgrind",
+    "valgrind-dbg": "valgrind",
+    "valgrind-dev": "valgrind",
+    "valgrind-doc": "valgrind",
+    "vde2": "vde",
+    "vde2-dbg": "vde",
+    "vde2-dev": "vde",
+    "vde2-doc": "vde",
+    "vde2-libs": "vde",
+    "vim": "vim",
+    "vim-dbg": "vim",
+    "vim-doc": "vim",
+    "vimdiff": "vim",
+    "vorbis-tools": "vorbis-tools",
+    "vorbis-tools-dbg": "vorbis-tools",
+    "vorbis-tools-doc": "vorbis-tools",
+    "vorbis-tools-lang": "vorbis-tools",
+    "vte": "vte3",
+    "vte-dbg": "vte3",
+    "vte-dev": "vte3",
+    "vte-lang": "vte3",
+    "vulkan-headers": "vulkan-headers",
+    "vulkan-loader": "vulkan-loader",
+    "vulkan-loader-dbg": "vulkan-loader",
+    "vulkan-loader-dev": "vulkan-loader"
+  }
+}

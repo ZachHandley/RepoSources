@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kde_neon_unstable",
+    "shard": "p",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "poppler": "poppler",
+    "poppler-utils": "poppler",
+    "pyqt-builder": "pyqt-builder",
+    "pyqt-builder-doc": "pyqt-builder",
+    "python-pythran-doc": "pythran",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python3-gpg": "gpgme",
+    "python3-mlt": "mlt",
+    "python3-pyqtbuild": "pyqt-builder",
+    "python3-pythran": "pythran",
+    "python3-sipbuild": "sip",
+    "python3-sipbuild-dbg": "sip",
+    "python3-zxing-cpp": "zxing-cpp",
+    "pythran": "pythran"
+  }
+}

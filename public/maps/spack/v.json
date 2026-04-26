@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "spack",
+    "shard": "v",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "vala": "vala",
+    "valgrind": "valgrind",
+    "valijson": "valijson",
+    "varnish-cache": "varnish",
+    "vc": "vc",
+    "vcftools": "vcftools",
+    "vcsh": "vcsh",
+    "vde": "vde",
+    "veccore": "veccore",
+    "veclibfort": "veclibfort",
+    "verilator": "verilator",
+    "vfkit": "vfkit",
+    "vim": "vim",
+    "volk": "volk",
+    "votca": "votca",
+    "vsearch": "vsearch",
+    "vsftpd": "vsftpd",
+    "vtable-dumper": "vtable-dumper",
+    "vtk": "vtk"
+  }
+}

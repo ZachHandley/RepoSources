@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "baulk",
+    "shard": "z",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "zig": "zig",
+    "zola": "zola"
+  }
+}

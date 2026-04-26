@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_41",
+    "shard": "y",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "yadm": "yadm",
+    "yadm-bash-completion": "yadm",
+    "yadm-fish-completion": "yadm",
+    "yadm-zsh-completion": "yadm",
+    "yt-dlp-git": "yt-dlp",
+    "yt-dlp-git-bash-completion": "yt-dlp",
+    "yt-dlp-git-fish-completion": "yt-dlp",
+    "yt-dlp-git-zsh-completion": "yt-dlp",
+    "yt-dlp-nightly": "yt-dlp",
+    "yt-dlp-nightly-bash-completion": "yt-dlp",
+    "yt-dlp-nightly-fish-completion": "yt-dlp",
+    "yt-dlp-nightly-zsh-completion": "yt-dlp"
+  }
+}

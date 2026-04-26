@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "amazon_1",
+    "shard": "e",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "e2fsprogs": "e2fsprogs",
+    "ed": "ed",
+    "elfutils": "elfutils",
+    "emacs": "emacs",
+    "enchant": "enchant",
+    "enscript": "enscript",
+    "environment-modules": "modules",
+    "erlang": "erlang",
+    "exim": "exim",
+    "expat": "expat",
+    "expect": "expect"
+  }
+}

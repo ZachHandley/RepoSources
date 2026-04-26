@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ibmi",
+    "shard": "n",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "nano": "nano",
+    "ncdu": "ncdu",
+    "ncurses": "ncurses",
+    "ncurses-devel": "ncurses",
+    "ncurses-terminfo": "ncurses",
+    "ncurses-tools": "ncurses",
+    "nginx": "nginx",
+    "ninja-build": "ninja",
+    "nodejs": "node",
+    "nodejs14": "node",
+    "nodejs16": "node",
+    "nodejs18": "node",
+    "nodejs20": "node",
+    "nodejs22": "node",
+    "nodejs24": "node",
+    "npth": "npth",
+    "nspr": "nspr",
+    "nss": "nss"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "endlessos_4_0",
+    "shard": "n",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "nodejs": "node",
+    "ntfs-3g": "ntfs-3g",
+    "ntfs-3g-dev": "ntfs-3g",
+    "ntfs-3g-udeb": "ntfs-3g",
+    "ntp": "ntp",
+    "ntp-doc": "ntp",
+    "ntpdate": "ntp"
+  }
+}

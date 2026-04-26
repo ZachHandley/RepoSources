@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_22_04_backports",
+    "shard": "l",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "libasm-dev": "elfutils",
+    "libasm1": "elfutils",
+    "libdebuginfod-common": "elfutils",
+    "libdebuginfod-dev": "elfutils",
+    "libdebuginfod1": "elfutils",
+    "libdw-dev": "elfutils",
+    "libdw1": "elfutils",
+    "libelf-dev": "elfutils",
+    "libelf1": "elfutils",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3"
+  }
+}

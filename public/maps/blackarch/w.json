@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "blackarch",
+    "shard": "w",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "webkit2gtk": "webkitgtk",
+    "webkit2gtk-docs": "webkitgtk",
+    "wiredtiger": "wiredtiger",
+    "wirouter-keyrec": "wirouter_keyrec",
+    "wmbusmeters": "wmbusmeters",
+    "wxwidgets-3.0": "wxwidgets",
+    "wxwidgets-common-3.0": "wxwidgets",
+    "wxwidgets-gtk2-3.0": "wxwidgets",
+    "wxwidgets-gtk3-3.0": "wxwidgets"
+  }
+}

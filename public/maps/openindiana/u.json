@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openindiana",
+    "shard": "u",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "uchardet": "uchardet",
+    "udunits": "udunits",
+    "unbound": "unbound",
+    "uncrustify": "uncrustify",
+    "unifdef": "unifdef",
+    "unittest-cpp": "unittest-cpp",
+    "unixODBC": "unixodbc",
+    "unzip": "unzip",
+    "uthash": "uthash",
+    "util-macros": "util-macros",
+    "utilities/bat": "bat",
+    "utilities/lsd": "lsd",
+    "utilities/password-store": "pass",
+    "utilities/watch": "watch",
+    "utility/bash-completion": "bash-completion",
+    "utility/gammu": "gammu",
+    "utility/moreutils": "sponge",
+    "utility/rlwrap": "rlwrap",
+    "utility/ts": "task-spooler",
+    "utility/zsh-completions": "zsh-completions",
+    "utility/zsh-syntax-highlighting": "zsh-syntax-highlighting",
+    "uvicorn": "uvicorn"
+  }
+}

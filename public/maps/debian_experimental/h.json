@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_experimental",
+    "shard": "h",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "haproxy": "haproxy",
+    "haproxy-doc": "haproxy",
+    "hdf5": "hdf5",
+    "hdf5-helpers": "hdf5",
+    "hdf5-tools": "hdf5",
+    "hfs-modules-7.0-m68k-di": "linux-headers@4.4",
+    "hfs-modules-7.0-powerpc-di": "linux-headers@4.4",
+    "hfs-modules-7.0-powerpc64-di": "linux-headers@4.4",
+    "highway": "highway",
+    "highway-doc": "highway",
+    "hyperv-daemons": "linux-headers@4.4",
+    "hypervisor-modules-7.0-powerpc64-di": "linux-headers@4.4",
+    "hypervisor-modules-7.0-powerpc64le-di": "linux-headers@4.4",
+    "hypopg": "hypopg"
+  }
+}

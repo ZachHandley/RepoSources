@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "c",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "carla-git": "carla",
+    "cbindgen": "cbindgen",
+    "cheat": "cheat",
+    "chezmoi-deb": "chezmoi",
+    "clib": "clib",
+    "clipboard-bin": "clipboard",
+    "cmake-deb": "cmake",
+    "cmatrix": "cmatrix",
+    "coreutils-single": "coreutils",
+    "ctop-bin": "ctop"
+  }
+}

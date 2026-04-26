@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable64",
+    "shard": "s",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "SQLite 64 bit": "sqlite",
+    "SWI-Prolog 64 bit": "swi-prolog",
+    "Silver Searcher 64 bit": "the_silver_searcher",
+    "Subversion 64 bit": "subversion",
+    "Synergy 64 bit": "synergy-core",
+    "Synfig Studio 64 bit": "synfig",
+    "se.haxx.curl.CURL64": "curl",
+    "sqlite64": "sqlite",
+    "swi-prolog64": "swi-prolog",
+    "synfig-studio64": "synfig"
+  }
+}

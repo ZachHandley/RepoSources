@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "spack",
+    "shard": "j",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "jags": "jags",
+    "jansson": "jansson",
+    "jasper": "jasper",
+    "jbigkit": "jbigkit",
+    "jellyfish": "jellyfish",
+    "jemalloc": "jemalloc",
+    "jimtcl": "jimtcl",
+    "jose": "jose",
+    "jpegoptim": "jpegoptim",
+    "jq": "jq",
+    "json-c": "json-c",
+    "json-fortran": "json-fortran",
+    "json-glib": "json-glib",
+    "jsoncpp": "jsoncpp",
+    "jsonnet": "jsonnet",
+    "judy": "judy",
+    "jujutsu": "jj",
+    "julia": "julia",
+    "jump": "jump",
+    "just": "just"
+  }
+}

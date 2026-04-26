@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "e",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "e2fsprogs": "e2fsprogs",
+    "e2fsprogs-dev": "e2fsprogs",
+    "ed": "ed",
+    "elfutils": "elfutils",
+    "elfutils-dev": "elfutils",
+    "enca": "enca",
+    "enca-dev": "enca",
+    "enchant": "enchant",
+    "enchant-dev": "enchant",
+    "exif": "exif",
+    "expat": "expat",
+    "expat-dev": "expat"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pypi",
+    "shard": "f",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "fabric": "fabric",
+    "fastapi": "fastapi",
+    "fdroidserver": "fdroidserver",
+    "flake8": "flake8",
+    "flexget": "flexget",
+    "fonttools": "fonttools",
+    "fortls": "fortls",
+    "fortran-language-server": "fortran-language-server"
+  }
+}

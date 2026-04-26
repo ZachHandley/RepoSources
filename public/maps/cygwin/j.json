@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "cygwin",
+    "shard": "j",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "jansson": "jansson",
+    "jansson-debuginfo": "jansson",
+    "jasper": "jasper",
+    "jasper-debuginfo": "jasper",
+    "jbig2dec": "jbig2dec",
+    "jbig2dec-debuginfo": "jbig2dec",
+    "jbigkit": "jbigkit",
+    "jbigkit-debuginfo": "jbigkit",
+    "jdupes": "jdupes",
+    "jdupes-debuginfo": "jdupes",
+    "joe": "joe",
+    "jpeg": "jpeg-turbo",
+    "jpegoptim": "jpegoptim",
+    "jpegoptim-debuginfo": "jpegoptim",
+    "jq": "jq",
+    "jq-debuginfo": "jq",
+    "js185": "spidermonkey",
+    "js185-debuginfo": "spidermonkey",
+    "jsc1": "webkitgtk",
+    "jsc3": "webkitgtk",
+    "json-c": "json-c",
+    "json-c-debuginfo": "json-c",
+    "json-glib1.0": "json-glib",
+    "json-glib1.0-debuginfo": "json-glib",
+    "jsoncpp": "jsoncpp",
+    "jsoncpp-debuginfo": "jsoncpp",
+    "judy": "judy",
+    "judy-debuginfo": "judy"
+  }
+}

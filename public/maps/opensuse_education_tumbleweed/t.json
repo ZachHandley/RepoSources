@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_education_tumbleweed",
+    "shard": "t",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "t1lib": "t1lib",
+    "t1lib-debuginfo": "t1lib",
+    "t1lib-debugsource": "t1lib",
+    "t1lib-devel": "t1lib",
+    "t1lib-static-devel": "t1lib",
+    "tbb": "tbb",
+    "tbb-debuginfo": "tbb",
+    "tbb-debugsource": "tbb",
+    "tbb-devel": "tbb",
+    "timidity": "timidity",
+    "timidity-debuginfo": "timidity",
+    "timidity-debugsource": "timidity",
+    "tmglib-devel": "lapack",
+    "txt2tags": "txt2tags"
+  }
+}

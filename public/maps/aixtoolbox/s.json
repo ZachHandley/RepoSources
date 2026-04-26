@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aixtoolbox",
+    "shard": "s",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "samba": "samba",
+    "scipy": "scipy",
+    "scons": "scons",
+    "screen": "screen",
+    "sed": "gnu-sed",
+    "serf": "apache-serf",
+    "shared-mime-info": "shared-mime-info",
+    "slang": "s-lang",
+    "sleef": "sleef",
+    "smake": "smake",
+    "snappy": "snappy",
+    "socat": "socat",
+    "splint": "splint",
+    "sqlite": "sqlite",
+    "squid": "squid",
+    "sshpass": "sshpass",
+    "stunnel": "stunnel",
+    "subversion": "subversion",
+    "swig": "swig",
+    "syslog-ng": "syslog-ng"
+  }
+}

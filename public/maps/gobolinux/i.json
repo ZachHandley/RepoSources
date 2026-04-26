@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gobolinux",
+    "shard": "i",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "ID3Lib": "id3lib",
+    "ID3Tool": "id3tool",
+    "IDUtils": "idutils",
+    "ILMBase": "openexr",
+    "IPRoute2": "iproute2",
+    "IPUtils": "iputils",
+    "ISO-Codes": "iso-codes",
+    "ITSTool": "itstool",
+    "Ice": "ice",
+    "Icecast": "icecast",
+    "Icon": "icon",
+    "Icon-Naming-Utils": "icon-naming-utils",
+    "Iftop": "iftop",
+    "ImageMagick": "imagemagick",
+    "Imake": "imake",
+    "Imlib2": "imlib2",
+    "Indent": "gnu-indent",
+    "InetUtils": "inetutils",
+    "IniParser": "iniparser",
+    "Inotify-Tools": "inotify-tools",
+    "Intltool": "intltool",
+    "Iptables": "iptables",
+    "Ipython": "ipython",
+    "Irrlicht": "irrlicht",
+    "Irssi": "irssi"
+  }
+}

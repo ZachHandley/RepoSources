@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "j",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "joplin-desktop-app": "joplin-cli",
+    "jq-bin": "jq",
+    "jsonnet-bundler-bin": "jsonnet-bundler"
+  }
+}

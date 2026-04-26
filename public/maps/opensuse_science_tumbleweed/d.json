@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_science_tumbleweed",
+    "shard": "d",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "datamash": "datamash",
+    "datamash-debuginfo": "datamash",
+    "datamash-debugsource": "datamash",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dynare": "dynare",
+    "dynare-debuginfo": "dynare",
+    "dynare-debugsource": "dynare",
+    "dynare-doc-html": "dynare",
+    "dynare-doc-pdf": "dynare"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "h",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "harfbuzz": "harfbuzz",
+    "hdf5": "hdf5",
+    "httpd": "httpd",
+    "httpd_64": "httpd",
+    "httperf": "httperf",
+    "httping": "httping",
+    "httpry": "httpry",
+    "httrack": "httrack",
+    "hwloc": "hwloc"
+  }
+}

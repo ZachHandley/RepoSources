@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chromebrew",
+    "shard": "h",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "halibut": "halibut",
+    "handbrake": "handbrake",
+    "haproxy": "haproxy",
+    "harfbuzz": "harfbuzz",
+    "has": "has",
+    "hdf5": "hdf5",
+    "helix_editor": "helix",
+    "hello": "hello",
+    "help2man": "help2man",
+    "heroku": "heroku",
+    "hexedit": "hexedit",
+    "hicolor_icon_theme": "hicolor-icon-theme",
+    "highway": "highway",
+    "homebank": "homebank",
+    "htop": "htop",
+    "httpd": "httpd",
+    "httrack": "httrack",
+    "hub": "hub",
+    "hugo": "hugo",
+    "hurl": "hurl",
+    "hwloc": "hwloc",
+    "hyperfine": "hyperfine"
+  }
+}

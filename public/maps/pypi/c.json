@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pypi",
+    "shard": "c",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "Cython": "cython",
+    "cargo-zigbuild": "cargo-zigbuild",
+    "cdiff": "ydiff",
+    "certbot": "certbot",
+    "certbot-apache": "certbot",
+    "certbot-dns-cloudflare": "certbot",
+    "certbot-dns-cloudxns": "certbot",
+    "certbot-dns-digitalocean": "certbot",
+    "certbot-dns-dnsimple": "certbot",
+    "certbot-dns-dnsmadeeasy": "certbot",
+    "certbot-dns-gehirn": "certbot",
+    "certbot-dns-google": "certbot",
+    "certbot-dns-linode": "certbot",
+    "certbot-dns-luadns": "certbot",
+    "certbot-dns-nsone": "certbot",
+    "certbot-dns-ovh": "certbot",
+    "certbot-dns-rfc2136": "certbot",
+    "certbot-dns-route53": "certbot",
+    "certbot-dns-sakuracloud": "certbot",
+    "certbot-nginx": "certbot",
+    "certbot-postfix": "certbot",
+    "check-jsonschema": "check-jsonschema",
+    "codespell": "codespell",
+    "codestyle": "pycodestyle",
+    "cog": "cog",
+    "cookiecutter": "cookiecutter",
+    "cram": "cram",
+    "cssbeautifier": "js-beautify",
+    "csvkit": "csvkit",
+    "cycode": "cycode"
+  }
+}

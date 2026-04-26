@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_rawhide",
+    "shard": "j",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "joshuto": "joshuto",
+    "joshuto-debuginfo": "joshuto",
+    "jujutsu": "jj",
+    "jujutsu-bash-completion": "jj",
+    "jujutsu-debuginfo": "jj",
+    "jujutsu-debugsource": "jj",
+    "jujutsu-doc": "jj",
+    "jujutsu-elvish-completion": "jj",
+    "jujutsu-fish-completion": "jj",
+    "jujutsu-nushell-completion": "jj",
+    "jujutsu-zsh-completion": "jj"
+  }
+}

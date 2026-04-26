@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "side",
+    "shard": "n",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "nano": "nano",
+    "nasm": "nasm",
+    "ncompress": "ncompress",
+    "ncurses": "ncurses",
+    "neon": "neon",
+    "net-tools": "net-tools",
+    "netcat": "netcat",
+    "nettle": "nettle",
+    "newt": "newt",
+    "nftables": "nftables",
+    "ninja": "ninja",
+    "nnn": "nnn",
+    "nodejs": "node",
+    "npth": "npth",
+    "nspr": "nspr",
+    "nss": "nss",
+    "ntp": "ntp",
+    "nuspell": "nuspell"
+  }
+}

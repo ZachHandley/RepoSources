@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "backbox_9",
+    "shard": "l",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "libradare2-5.0.0t64": "radare2",
+    "libradare2-common": "radare2",
+    "libradare2-dev": "radare2",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3",
+    "libwireshark-data": "wireshark",
+    "libwireshark-dev": "wireshark",
+    "libwireshark18": "wireshark",
+    "libwiretap-dev": "wireshark",
+    "libwiretap15": "wireshark",
+    "libwsutil-dev": "wireshark",
+    "libwsutil16": "wireshark"
+  }
+}

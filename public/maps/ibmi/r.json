@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ibmi",
+    "shard": "r",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "R": "r",
+    "readline": "readline",
+    "redis": "redis",
+    "rpm": "rpm",
+    "rpm-build": "rpm",
+    "rpm-build-libs": "rpm",
+    "rpm-devel": "rpm",
+    "rpm-libs": "rpm",
+    "rpm-plugin-prioreset": "rpm",
+    "rpm-plugin-syslog": "rpm",
+    "rpm-sign": "rpm",
+    "rpm-sign-libs": "rpm",
+    "rsync": "rsync",
+    "rsync-compat": "rsync"
+  }
+}

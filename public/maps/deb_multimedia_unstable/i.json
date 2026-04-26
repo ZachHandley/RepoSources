@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "deb_multimedia_unstable",
+    "shard": "i",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "icecast2": "icecast",
+    "icecast2-dmo": "icecast",
+    "imagemagick": "imagemagick",
+    "imagemagick-7-common": "imagemagick",
+    "imagemagick-7-doc": "imagemagick",
+    "imagemagick-7.q16": "imagemagick",
+    "imagemagick-7.q16hdri": "imagemagick",
+    "imagemagick-dmo": "imagemagick"
+  }
+}

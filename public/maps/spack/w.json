@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "spack",
+    "shard": "w",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "w3m": "w3m",
+    "watch": "watch",
+    "wayland": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "wcslib": "wcslib",
+    "weechat": "weechat",
+    "weighttp": "weighttp",
+    "wget": "wget",
+    "which": "gnu-which",
+    "wiredtiger": "wiredtiger",
+    "wireshark": "wireshark",
+    "wordnet": "wordnet",
+    "wrk": "wrk",
+    "wxwidgets": "wxwidgets"
+  }
+}

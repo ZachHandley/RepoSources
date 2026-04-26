@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "msys2_ucrt64",
+    "shards": [
+      "d",
+      "l",
+      "m",
+      "n",
+      "o",
+      "p"
+    ],
+    "total_mappings": 3002
+  }
+}

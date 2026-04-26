@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_security_tumbleweed",
+    "shard": "d",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "duo_unix": "duo_unix",
+    "duo_unix-debuginfo": "duo_unix",
+    "duo_unix-debugsource": "duo_unix",
+    "duo_unix-devel": "duo_unix"
+  }
+}

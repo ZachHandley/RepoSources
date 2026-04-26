@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "side",
+    "shard": "v",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "vala": "vala",
+    "valgrind": "valgrind",
+    "vcdimager": "vcdimager",
+    "vim": "vim",
+    "vnstat": "vnstat",
+    "vorbis-tools": "vorbis-tools",
+    "vulkan-headers": "vulkan-headers",
+    "vulkan-loader": "vulkan-loader"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openbsd",
+    "shard": "u",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "uchardet": "uchardet",
+    "ucl": "ucl",
+    "ucon64": "ucon64",
+    "ucspi-tcp": "ucspi-tcp",
+    "udis86": "udis86",
+    "udptunnel": "udptunnel",
+    "udunits": "udunits",
+    "ugrep": "ugrep",
+    "ulfius": "ulfius",
+    "uncrustify": "uncrustify",
+    "uni": "uni",
+    "unibilium": "unibilium",
+    "unison": "unison",
+    "unison-gui": "unison",
+    "uniutils": "uniutils",
+    "universal-ctags": "universal-ctags",
+    "unoconv": "unoconv",
+    "unpaper": "unpaper",
+    "unrtf": "unrtf",
+    "unshield": "unshield",
+    "unzip": "unzip",
+    "upterm": "upterm",
+    "uptimed": "uptimed",
+    "uriparser": "uriparser",
+    "urlscan": "urlscan",
+    "urlview": "urlview",
+    "urlwatch": "urlwatch",
+    "usbutils": "usbutils",
+    "utfcpp": "utf8cpp",
+    "uthash": "uthash",
+    "uudeview": "uudeview",
+    "uv": "uv"
+  }
+}

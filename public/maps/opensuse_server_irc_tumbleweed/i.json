@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_server_irc_tumbleweed",
+    "shard": "i",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "ii": "ii",
+    "ii-debuginfo": "ii",
+    "ii-debugsource": "ii",
+    "inspircd": "inspircd",
+    "inspircd-debuginfo": "inspircd",
+    "inspircd-debugsource": "inspircd",
+    "inspircd-modules-gnutls": "inspircd",
+    "inspircd-modules-ipinfo_io": "inspircd",
+    "inspircd-modules-irc3_extjwt": "inspircd",
+    "inspircd-modules-maxmind": "inspircd",
+    "inspircd-modules-mbedtls": "inspircd",
+    "inspircd-modules-mysql": "inspircd",
+    "inspircd-modules-pgsql": "inspircd",
+    "inspircd-modules-qrcode": "inspircd",
+    "inspircd-modules-regexp-tre": "inspircd",
+    "inspircd-modules-sqlite3": "inspircd",
+    "irssi": "irssi",
+    "irssi-debuginfo": "irssi",
+    "irssi-debugsource": "irssi",
+    "irssi-devel": "irssi"
+  }
+}

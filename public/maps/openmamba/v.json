@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openmamba",
+    "shard": "v",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "vala": "vala",
+    "vala-devel": "vala",
+    "vala-tools": "vala",
+    "valgrind": "valgrind",
+    "valgrind-devel": "valgrind",
+    "vamp-plugin-sdk": "vamp-plugin-sdk",
+    "vapoursynth": "vapoursynth",
+    "vcdimager": "vcdimager",
+    "vde2": "vde",
+    "vde2-debug": "vde",
+    "vice": "vice",
+    "vidstab": "libvidstab",
+    "vim": "vim",
+    "vim-desktop": "vim",
+    "vim-doc": "vim",
+    "vim-tutor": "vim",
+    "virt-manager": "virt-manager",
+    "virtuoso-opensource": "virtuoso",
+    "virtuoso-opensource-apps": "virtuoso",
+    "virtuoso-opensource-java": "virtuoso",
+    "virtuoso-opensource-mono": "virtuoso",
+    "virtuoso-opensource-utils": "virtuoso",
+    "vmaf": "libvmaf",
+    "volk": "volk",
+    "vorbis-tools": "vorbis-tools",
+    "vsftpd": "vsftpd",
+    "vtk": "vtk",
+    "vttest": "vttest",
+    "vulkan-headers": "vulkan-headers",
+    "vulkan-loader": "vulkan-loader",
+    "vulkan-tools": "vulkan-tools",
+    "vulkan-volk": "vulkan-volk"
+  }
+}

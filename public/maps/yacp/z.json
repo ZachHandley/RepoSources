@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "yacp",
+    "shard": "z",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "z3": "z3",
+    "z80asm": "z80asm",
+    "z80dasm": "z80dasm",
+    "zboy": "zboy",
+    "zchunk": "zchunk",
+    "zelda-roth-se": "zelda-roth-se",
+    "zile": "zile",
+    "zimg": "zimg",
+    "zix": "zix",
+    "zlib-ng": "zlib-ng",
+    "zlog": "zlog",
+    "zopfli": "zopfli",
+    "zsdx": "zsdx",
+    "zssh": "zssh",
+    "zvbi": "zvbi",
+    "zxcc": "zxcc",
+    "zxing-cpp": "zxing-cpp",
+    "zycore-c": "zycore-c",
+    "zydis": "zydis",
+    "zyre": "zyre"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable",
+    "shard": "i",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "IPFS": "kubo",
+    "ImageMagick": "imagemagick",
+    "imagemagick": "imagemagick",
+    "info.gnuplot.Gnuplot": "gnuplot",
+    "io.mpv.mpv": "mpv",
+    "ipfs": "kubo"
+  }
+}

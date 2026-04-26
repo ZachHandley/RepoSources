@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "conancenter",
+    "shard": "r",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "rabbitmq-c": "rabbitmq-c",
+    "ragel": "ragel",
+    "range-v3": "range-v3",
+    "rapidjson": "rapidjson",
+    "rapidyaml": "rapidyaml",
+    "raylib": "raylib",
+    "re2": "re2",
+    "re2c": "re2c",
+    "readerwriterqueue": "readerwriterqueue",
+    "readline": "readline",
+    "readosm": "readosm",
+    "replxx": "replxx",
+    "reproc": "reproc",
+    "rocksdb": "rocksdb",
+    "rsync": "rsync",
+    "rtmidi": "rtmidi",
+    "rttr": "rttr",
+    "ruby": "ruby"
+  }
+}

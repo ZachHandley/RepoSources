@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "conancenter",
+    "shard": "u",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "uchardet": "uchardet",
+    "ulfius": "ulfius",
+    "uncrustify": "uncrustify",
+    "uni-algo": "uni-algo",
+    "unicorn": "unicorn",
+    "upx": "upx",
+    "urdfdom": "urdfdom",
+    "urdfdom_headers": "urdfdom_headers",
+    "uriparser": "uriparser",
+    "userspace-rcu": "userspace-rcu",
+    "utf8proc": "utf8proc",
+    "utfcpp": "utf8cpp",
+    "uthash": "uthash",
+    "uvw": "uvw"
+  }
+}

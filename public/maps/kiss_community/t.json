@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_community",
+    "shard": "t",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "tcc": "tcc",
+    "tcpdump": "tcpdump",
+    "tdb": "tdb",
+    "tea": "tea",
+    "tiff": "libtiff",
+    "tig": "tig",
+    "tiv": "terminalimageviewer",
+    "tmate": "tmate",
+    "tmux": "tmux",
+    "tokei": "tokei",
+    "tomlplusplus": "tomlplusplus",
+    "transmission": "transmission-cli",
+    "tre": "tre",
+    "tree": "tree",
+    "ttyd": "ttyd",
+    "typescript-language-server": "typescript-language-server"
+  }
+}

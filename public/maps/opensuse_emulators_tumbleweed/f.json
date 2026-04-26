@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_emulators_tumbleweed",
+    "shard": "f",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "fast_float": "fast_float",
+    "fast_float-debuginfo": "fast_float",
+    "fast_float-debugsource": "fast_float",
+    "fast_float-devel": "fast_float",
+    "fceux": "fceux",
+    "fceux-debuginfo": "fceux",
+    "fceux-debugsource": "fceux",
+    "fs-uae": "fs-uae",
+    "fs-uae-debuginfo": "fs-uae",
+    "fs-uae-debugsource": "fs-uae"
+  }
+}

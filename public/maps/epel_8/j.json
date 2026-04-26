@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_8",
+    "shard": "j",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "jack-audio-connection-kit": "jack",
+    "jdupes": "jdupes",
+    "jemalloc": "jemalloc",
+    "jhead": "jhead",
+    "jigdo": "jigdo",
+    "jo": "jo",
+    "joe": "joe",
+    "jpeginfo": "jpeginfo",
+    "jpegoptim": "jpegoptim",
+    "jpegxl": "jpeg-xl",
+    "json": "nlohmann-json",
+    "json-table": "json-table",
+    "jsoncpp": "jsoncpp",
+    "jsonnet": "jsonnet",
+    "jupp": "jupp",
+    "jxrlib": "jxrlib"
+  }
+}

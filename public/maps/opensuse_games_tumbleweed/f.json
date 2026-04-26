@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_games_tumbleweed",
+    "shard": "f",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "fairymax": "fairymax",
+    "fairymax-debuginfo": "fairymax",
+    "fairymax-debugsource": "fairymax",
+    "fheroes2": "fheroes2",
+    "fheroes2-debuginfo": "fheroes2",
+    "fheroes2-debugsource": "fheroes2",
+    "fifechan": "fifechan",
+    "fifechan-debuginfo": "fifechan",
+    "fifechan-debugsource": "fifechan",
+    "fifechan-devel": "fifechan",
+    "fmt7": "fmt",
+    "fmt7-debuginfo": "fmt",
+    "fmt7-debugsource": "fmt",
+    "fmt7-devel": "fmt",
+    "freeciv": "freeciv",
+    "freeciv-debuginfo": "freeciv",
+    "freeciv-debugsource": "freeciv",
+    "freeciv-gtk3": "freeciv",
+    "freeciv-gtk4": "freeciv",
+    "freeciv-lang": "freeciv",
+    "freeciv-qt": "freeciv",
+    "freeciv-sdl2": "freeciv",
+    "freedink": "freedink",
+    "freedink-debuginfo": "freedink",
+    "freedink-debugsource": "freedink",
+    "frotz": "frotz",
+    "frotz-debuginfo": "frotz",
+    "frotz-debugsource": "frotz",
+    "frotz-dumb": "frotz",
+    "frotz-sdl": "frotz",
+    "frotz-x11": "frotz"
+  }
+}

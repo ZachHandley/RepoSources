@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scoop",
+    "shard": "v",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "v": "vlang",
+    "v-weekly": "vlang",
+    "v2ray": "v2ray",
+    "vacuum": "vacuum",
+    "vale": "vale",
+    "vals": "vals",
+    "vapoursynth": "vapoursynth",
+    "vbindiff": "vbindiff",
+    "vcluster": "vcluster",
+    "vcpkg": "vcpkg",
+    "vegeta": "vegeta",
+    "velero": "velero",
+    "vfox": "vfox",
+    "vgmstream": "vgmstream",
+    "vhs": "vhs",
+    "viddy": "viddy",
+    "video-compare": "video-compare",
+    "vifm": "vifm",
+    "vim": "vim",
+    "vim-nightly": "vim",
+    "vim-tux": "vim",
+    "vipsdisp": "vipsdisp",
+    "vivid": "vivid",
+    "vmaf": "libvmaf",
+    "volta": "volta",
+    "vultr": "vultr"
+  }
+}

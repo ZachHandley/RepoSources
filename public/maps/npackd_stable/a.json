@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable",
+    "shard": "a",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "ANTLR": "antlr",
+    "APKTool": "apktool",
+    "Ant": "ant",
+    "Aria2": "aria2",
+    "Aspell": "aspell",
+    "Audacious": "audacious",
+    "ag": "the_silver_searcher",
+    "antlr": "antlr",
+    "apktool": "apktool",
+    "audacious": "audacious"
+  }
+}

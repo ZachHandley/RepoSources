@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_23_testing",
+    "shard": "d",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "ddcutil": "ddcutil",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dillo": "dillo",
+    "directx-headers": "directx-headers",
+    "directx-headers-dev": "directx-headers",
+    "doxygen": "doxygen",
+    "doxygen-doc": "doxygen",
+    "doxygen-doxyparse": "doxygen",
+    "doxygen-gui": "doxygen",
+    "doxygen-latex": "doxygen",
+    "dpkg": "dpkg",
+    "dpkg-dev": "dpkg",
+    "dsda-doom": "dsda-doom",
+    "dselect": "dpkg",
+    "durdraw": "durdraw"
+  }
+}

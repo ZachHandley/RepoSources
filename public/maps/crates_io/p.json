@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crates_io",
+    "shard": "p",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "pastel": "pastel",
+    "procs": "procs",
+    "prqlc": "prqlc",
+    "punktf": "punktf",
+    "pyoxidizer": "pyoxidizer",
+    "python-launcher": "python-launcher",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

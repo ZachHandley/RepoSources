@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slackware_current",
+    "shard": "n",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "nano": "nano",
+    "nasm": "nasm",
+    "ncftp": "ncftp",
+    "ncompress": "ncompress",
+    "ncurses": "ncurses",
+    "neofetch": "neofetch",
+    "neon": "neon",
+    "net-snmp": "net-snmp",
+    "net-tools": "net-tools",
+    "netatalk": "netatalk",
+    "nethack": "nethack",
+    "netpbm": "netpbm",
+    "nettle": "nettle",
+    "nftables": "nftables",
+    "nghttp2": "nghttp2",
+    "nghttp3": "libnghttp3",
+    "ngtcp2": "libngtcp2",
+    "ninja": "ninja",
+    "nlohmann-json": "nlohmann-json",
+    "nmap": "nmap",
+    "nodejs": "node",
+    "normalize": "normalize",
+    "npth": "npth",
+    "ntfs-3g": "ntfs-3g",
+    "ntp": "ntp",
+    "nvi": "nvi"
+  }
+}

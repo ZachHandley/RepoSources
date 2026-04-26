@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_6",
+    "shard": "r",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "radvd": "radvd",
+    "rarian": "rarian",
+    "rasqal": "rasqal",
+    "rcs": "rcs",
+    "rdate": "rdate",
+    "readline": "readline",
+    "recode": "recode",
+    "redland": "redland",
+    "rest": "librest",
+    "rhino": "rhino",
+    "rpm": "rpm",
+    "rrdtool": "rrdtool",
+    "rsync": "rsync",
+    "rsyslog": "rsyslog",
+    "rsyslog7": "rsyslog",
+    "ruby": "ruby"
+  }
+}

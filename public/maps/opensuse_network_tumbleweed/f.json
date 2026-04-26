@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_network_tumbleweed",
+    "shard": "f",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "freeradius-server": "freeradius-server",
+    "freeradius-server-debuginfo": "freeradius-server",
+    "freeradius-server-debugsource": "freeradius-server",
+    "freeradius-server-devel": "freeradius-server",
+    "freeradius-server-doc": "freeradius-server",
+    "freeradius-server-krb5": "freeradius-server",
+    "freeradius-server-ldap": "freeradius-server",
+    "freeradius-server-ldap-schemas": "freeradius-server",
+    "freeradius-server-libs": "freeradius-server",
+    "freeradius-server-mysql": "freeradius-server",
+    "freeradius-server-perl": "freeradius-server",
+    "freeradius-server-postgresql": "freeradius-server",
+    "freeradius-server-python3": "freeradius-server",
+    "freeradius-server-sqlite": "freeradius-server",
+    "freeradius-server-utils": "freeradius-server",
+    "fwknop": "fwknop",
+    "fwknop-debuginfo": "fwknop",
+    "fwknop-debugsource": "fwknop",
+    "fwknopd": "fwknop"
+  }
+}

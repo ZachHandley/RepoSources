@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_21",
+    "shard": "h",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "handbrake": "handbrake",
+    "handbrake-cli": "handbrake",
+    "hfs-modules-5.15.0-exp2mx-m68k-di": "linux-headers@4.4",
+    "hfs-modules-5.15.0-exp2mx-powerpc-di": "linux-headers@4.4",
+    "hfs-modules-5.15.0-exp2mx-powerpc64-di": "linux-headers@4.4",
+    "hfs-modules-6.5.0-5mx-ahs-m68k-di": "linux-headers@4.4",
+    "hfs-modules-6.5.0-5mx-ahs-powerpc-di": "linux-headers@4.4",
+    "hfs-modules-6.5.0-5mx-ahs-powerpc64-di": "linux-headers@4.4",
+    "hidapi": "hidapi",
+    "highway": "highway",
+    "hyfetch": "hyfetch",
+    "hyperv-daemons": "linux-headers@4.4",
+    "hypervisor-modules-5.15.0-exp2mx-powerpc64-di": "linux-headers@4.4",
+    "hypervisor-modules-5.15.0-exp2mx-powerpc64le-di": "linux-headers@4.4",
+    "hypervisor-modules-6.5.0-5mx-ahs-powerpc64le-di": "linux-headers@4.4"
+  }
+}

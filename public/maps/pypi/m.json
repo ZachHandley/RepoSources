@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pypi",
+    "shard": "m",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "MapProxy": "mapproxy",
+    "Markdown": "python-markdown",
+    "magic-wormhole": "magic-wormhole",
+    "mail-deduplicate": "mail-deduplicate",
+    "manim": "manim",
+    "mat2": "mat2",
+    "matplotlib": "python-matplotlib",
+    "maturin": "maturin",
+    "mdformat": "mdformat",
+    "mercurial": "mercurial",
+    "meson": "meson",
+    "meta-package-manager": "meta-package-manager",
+    "miniupnpc": "miniupnpc",
+    "moodle-dl": "moodle-dl",
+    "mpremote": "mpremote",
+    "mypy": "mypy"
+  }
+}

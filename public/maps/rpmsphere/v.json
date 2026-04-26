@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmsphere",
+    "shard": "v",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "Vc": "vc",
+    "Vc-debuginfo": "vc",
+    "Vc-devel": "vc",
+    "Vc-doc": "vc",
+    "Vc-static": "vc",
+    "vala-compat": "vala",
+    "vala-compat-debuginfo": "vala",
+    "vala-compat-debugsource": "vala",
+    "vala-compat-devel": "vala",
+    "vala-compat-doc": "vala",
+    "vala-compat-tools": "vala",
+    "vde2": "vde",
+    "vde2-debuginfo": "vde",
+    "vde2-debugsource": "vde",
+    "vde2-devel": "vde",
+    "vitetris": "vitetris",
+    "vitetris-debuginfo": "vitetris",
+    "viu": "viu",
+    "viu-debuginfo": "viu",
+    "vlang": "vlang",
+    "vlang-debuginfo": "vlang",
+    "vncsnapshot": "vncsnapshot",
+    "vncsnapshot-debuginfo": "vncsnapshot",
+    "vpcs": "vpcs",
+    "vpcs-debuginfo": "vpcs"
+  }
+}

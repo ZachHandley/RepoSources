@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubi_8",
+    "shard": "d",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "dbus": "dbus",
+    "dbus-glib": "dbus-glib",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "delve": "delve",
+    "desktop-file-utils": "desktop-file-utils",
+    "diffutils": "diffutils",
+    "dnsmasq": "dnsmasq",
+    "dos2unix": "dos2unix",
+    "dotnet": "dotnet",
+    "dotnet10.0": "dotnet",
+    "dotnet3.0": "dotnet",
+    "dotnet3.1": "dotnet",
+    "dotnet5.0": "dotnet",
+    "dotnet6.0": "dotnet",
+    "dotnet7.0": "dotnet",
+    "dotnet8.0": "dotnet",
+    "dotnet9.0": "dotnet"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_21",
+    "shard": "w",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "wayland-protocols": "wayland-protocols",
+    "webp-pixbuf-loader": "webp-pixbuf-loader",
+    "wx-common": "wxwidgets",
+    "wx3.2-doc": "wxwidgets",
+    "wx3.2-examples": "wxwidgets",
+    "wx3.2-headers": "wxwidgets",
+    "wx3.2-i18n": "wxwidgets",
+    "wxwidgets3.2": "wxwidgets"
+  }
+}

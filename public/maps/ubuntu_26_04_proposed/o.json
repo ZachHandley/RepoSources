@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_04_proposed",
+    "shard": "o",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "openfpgaloader": "openfpgaloader",
+    "openjdk-26": "openjdk",
+    "openjdk-26-dbg": "openjdk",
+    "openjdk-26-demo": "openjdk",
+    "openjdk-26-doc": "openjdk",
+    "openjdk-26-jdk": "openjdk",
+    "openjdk-26-jdk-headless": "openjdk",
+    "openjdk-26-jre": "openjdk",
+    "openjdk-26-jre-headless": "openjdk",
+    "openjdk-26-jre-zero": "openjdk",
+    "openjdk-26-jvmci-jdk": "openjdk",
+    "openjdk-26-source": "openjdk",
+    "openjdk-26-testsupport": "openjdk",
+    "openjdk-27": "openjdk",
+    "openjdk-27-dbg": "openjdk",
+    "openjdk-27-demo": "openjdk",
+    "openjdk-27-doc": "openjdk",
+    "openjdk-27-jdk": "openjdk",
+    "openjdk-27-jdk-headless": "openjdk",
+    "openjdk-27-jre": "openjdk",
+    "openjdk-27-jre-headless": "openjdk",
+    "openjdk-27-jre-zero": "openjdk",
+    "openjdk-27-jvmci-jdk": "openjdk",
+    "openjdk-27-source": "openjdk",
+    "openjdk-27-testsupport": "openjdk",
+    "openssl-dev": "openssl@3"
+  }
+}

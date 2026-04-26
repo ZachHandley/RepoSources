@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmsphere",
+    "shard": "r",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "retry": "retry",
+    "retry-debuginfo": "retry",
+    "retry-debugsource": "retry",
+    "runit": "runit",
+    "runit-debuginfo": "runit"
+  }
+}

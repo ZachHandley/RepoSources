@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kaos",
+    "shard": "e",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "e2fsprogs": "e2fsprogs",
+    "ebook-tools": "ebook-tools",
+    "ed": "ed",
+    "editorconfig-core-c": "editorconfig",
+    "eigen3": "eigen",
+    "elfutils": "elfutils",
+    "emacs-nox": "emacs",
+    "enca": "enca",
+    "encfs": "encfs",
+    "enchant": "enchant",
+    "enet": "enet",
+    "enscript": "enscript",
+    "espeak": "espeak",
+    "exiv2": "exiv2",
+    "expat": "expat",
+    "expect": "expect",
+    "extra-cmake-modules": "extra-cmake-modules"
+  }
+}

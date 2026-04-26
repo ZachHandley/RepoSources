@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gentoo_ovl_pentoo",
+    "shard": "d",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dev-db/litecli": "litecli",
+    "dev-embedded/platformio": "platformio",
+    "dev-java/gradle-bin": "gradle",
+    "dev-libs/libdwarf": "dwarfutils",
+    "dev-libs/nanopb": "nanopb",
+    "dev-python/Scrapy": "scrapy",
+    "dev-python/fastapi": "fastapi",
+    "dev-python/jsbeautifier": "js-beautify",
+    "dev-python/nanobind": "nanobind",
+    "dev-python/semgrep": "semgrep",
+    "dev-python/tk": "python-tk@3.9",
+    "dev-util/apktool": "apktool",
+    "dev-util/dex2jar": "dex2jar",
+    "dev-util/ghidra": "ghidra",
+    "dev-util/jadx-bin": "jadx",
+    "dev-util/lief": "lief",
+    "dev-util/semgrep-core-bin": "semgrep",
+    "dev-util/valabind": "valabind",
+    "dev-util/wabt": "wabt",
+    "dev-vcs/gitleaks": "gitleaks"
+  }
+}

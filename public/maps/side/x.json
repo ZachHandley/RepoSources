@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "side",
+    "shard": "x",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "x264": "x264",
+    "x265": "x265",
+    "xbitmaps": "xbitmaps",
+    "xcb-proto": "xcb-proto",
+    "xcb-util": "xcb-util",
+    "xcb-util-cursor": "xcb-util-cursor",
+    "xcb-util-image": "xcb-util-image",
+    "xcb-util-keysyms": "xcb-util-keysyms",
+    "xcb-util-renderutil": "xcb-util-renderutil",
+    "xcb-util-wm": "xcb-util-wm",
+    "xinit": "xinit",
+    "xkeyboard-config": "xkeyboard-config",
+    "xmlto": "xmlto",
+    "xorg-proto": "xorgproto",
+    "xorg-server": "xorg-server",
+    "xterm": "xterm",
+    "xtrans": "xtrans",
+    "xxhash": "xxhash",
+    "xz": "xz"
+  }
+}

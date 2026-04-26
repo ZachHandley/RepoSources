@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_community",
+    "shard": "j",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "jbig2dec": "jbig2dec",
+    "jo": "jo",
+    "jq": "jq",
+    "json-glib": "json-glib"
+  }
+}

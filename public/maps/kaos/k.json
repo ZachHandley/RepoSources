@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kaos",
+    "shard": "k",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "karchive6": "karchive",
+    "kdoctools6": "kdoctools",
+    "keyutils": "keyutils",
+    "ki18n6": "ki18n",
+    "kmod": "kmod",
+    "krb5": "krb5",
+    "ktexttemplate": "ktexttemplate",
+    "ktoblzcheck": "ktoblzcheck"
+  }
+}

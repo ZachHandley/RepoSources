@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "distri",
+    "shard": "w",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "webkitgtk": "webkitgtk",
+    "wget": "wget",
+    "which": "gnu-which",
+    "whois": "whois",
+    "wxpython": "wxpython",
+    "wxwidgets": "wxwidgets"
+  }
+}

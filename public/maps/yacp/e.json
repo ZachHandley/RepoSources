@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "yacp",
+    "shard": "e",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "ETL": "synfig",
+    "eatmemory": "eatmemory",
+    "ebook2cw": "ebook2cw",
+    "ecasound": "ecasound",
+    "editorconfig-core-c": "editorconfig",
+    "ejdb": "ejdb",
+    "ekhtml": "ekhtml",
+    "elektra": "elektra",
+    "empty": "empty",
+    "enchive": "enchive",
+    "enet": "enet",
+    "enkiTS": "enkits",
+    "ensmallen": "ensmallen",
+    "envchain": "envchain",
+    "envv": "envv",
+    "eot-utilities": "eot-utils",
+    "epeg": "epeg",
+    "ephemeralpg": "ephemeralpg",
+    "erfa": "erfa",
+    "esniper": "esniper",
+    "exiftags": "exiftags",
+    "ezstream": "ezstream"
+  }
+}

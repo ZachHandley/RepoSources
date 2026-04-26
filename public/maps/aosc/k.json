@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aosc",
+    "shard": "k",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "karchive": "karchive",
+    "kdoctools": "kdoctools",
+    "kernel-tools": "linux-headers@4.4",
+    "keyutils": "keyutils",
+    "ki18n": "ki18n",
+    "kind": "kind",
+    "kmod": "kmod",
+    "krb5": "krb5",
+    "krb5+32": "krb5",
+    "ksh93": "ksh93",
+    "kubeadm": "kubernetes-cli",
+    "kubectl": "kubernetes-cli",
+    "kubelet": "kubernetes-cli",
+    "kubo": "kubo",
+    "kyotocabinet": "kyoto-cabinet"
+  }
+}

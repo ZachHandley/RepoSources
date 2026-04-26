@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_multimedia_apps_tumbleweed",
+    "shard": "s",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "sacad": "sacad",
+    "shairport-sync": "shairport-sync",
+    "shairport-sync-debuginfo": "shairport-sync",
+    "shairport-sync-debugsource": "shairport-sync",
+    "shntool": "shntool",
+    "shntool-debuginfo": "shntool",
+    "shntool-debugsource": "shntool",
+    "sox": "sox",
+    "sox-debuginfo": "sox",
+    "sox-debugsource": "sox",
+    "sox-devel": "sox",
+    "spek": "spek",
+    "spek-debuginfo": "spek",
+    "spek-debugsource": "spek",
+    "spicetify-cli": "spicetify-cli",
+    "spicetify-cli-debuginfo": "spicetify-cli",
+    "spicetify-cli-debugsource": "spicetify-cli",
+    "spotifyd": "spotifyd",
+    "spotifyd-debuginfo": "spotifyd",
+    "spotifyd-debugsource": "spotifyd",
+    "streamlink": "streamlink",
+    "suil": "suil",
+    "suil-debuginfo": "suil",
+    "suil-debugsource": "suil",
+    "suil-devel": "suil",
+    "suil-plugin-x11": "suil",
+    "suil-plugin-x11-in-gtk2": "suil",
+    "suil-plugin-x11-in-gtk3": "suil",
+    "suil-plugin-x11-in-qt5": "suil",
+    "suil-plugin-x11-in-qt6": "suil"
+  }
+}

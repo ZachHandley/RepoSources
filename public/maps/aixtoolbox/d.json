@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aixtoolbox",
+    "shard": "d",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "db": "berkeley-db",
+    "dbus": "dbus",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dejagnu": "deja-gnu",
+    "diffutils": "diffutils",
+    "dos2unix": "dos2unix",
+    "duo_unix": "duo_unix"
+  }
+}

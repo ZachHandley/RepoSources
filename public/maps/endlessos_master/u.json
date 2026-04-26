@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "endlessos_master",
+    "shard": "u",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "u-boot": "u-boot-tools",
+    "u-boot-amlogic": "u-boot-tools",
+    "u-boot-exynos": "u-boot-tools",
+    "u-boot-imx": "u-boot-tools",
+    "u-boot-mvebu": "u-boot-tools",
+    "u-boot-omap": "u-boot-tools",
+    "u-boot-qcom": "u-boot-tools",
+    "u-boot-rockchip": "u-boot-tools",
+    "u-boot-rpi": "u-boot-tools",
+    "u-boot-sifive": "u-boot-tools",
+    "u-boot-stm32": "u-boot-tools",
+    "u-boot-sunxi": "u-boot-tools",
+    "u-boot-tegra": "u-boot-tools",
+    "u-boot-tools": "u-boot-tools",
+    "udev": "systemd",
+    "udev-udeb": "systemd",
+    "usb.ids": "usb.ids"
+  }
+}

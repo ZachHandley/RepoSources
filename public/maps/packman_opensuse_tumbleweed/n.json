@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "packman_opensuse_tumbleweed",
+    "shard": "n",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "ncdc": "ncdc",
+    "ncdc-debuginfo": "ncdc",
+    "ncdc-debugsource": "ncdc",
+    "ncmpc": "ncmpc",
+    "ncmpc-debuginfo": "ncmpc",
+    "ncmpc-debugsource": "ncmpc",
+    "ncmpc-lang": "ncmpc",
+    "ncrack": "ncrack",
+    "ncrack-debuginfo": "ncrack",
+    "ncrack-debugsource": "ncrack",
+    "nicotine-plus": "nicotine-plus",
+    "nicotine-plus-lang": "nicotine-plus",
+    "nodejs": "node",
+    "normalize": "normalize",
+    "normalize-debuginfo": "normalize",
+    "normalize-debugsource": "normalize"
+  }
+}

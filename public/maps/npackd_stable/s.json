@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable",
+    "shard": "s",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "SQLite": "sqlite",
+    "SQLite Source": "sqlite",
+    "SWI-Prolog": "swi-prolog",
+    "Scala": "scala",
+    "Scons": "scons",
+    "Sed": "gnu-sed",
+    "Silver Searcher": "the_silver_searcher",
+    "Streamripper": "streamripper",
+    "Subversion": "subversion",
+    "Sylpheed": "sylpheed",
+    "Synergy": "synergy-core",
+    "Synfig Studio": "synfig",
+    "scala": "scala",
+    "scons": "scons",
+    "se.haxx.curl.CURL": "curl",
+    "sqlite": "sqlite",
+    "sqlite-source": "sqlite",
+    "swi-prolog": "swi-prolog",
+    "sylpheed": "sylpheed",
+    "synfig-studio": "synfig"
+  }
+}

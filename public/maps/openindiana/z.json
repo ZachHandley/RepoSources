@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openindiana",
+    "shard": "z",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "Zarith": "ocaml-zarith",
+    "ZenLib": "libzen",
+    "zabbix-server": "zabbix",
+    "zbar": "zbar",
+    "zenity": "zenity",
+    "zip": "zip",
+    "zlib": "zlib",
+    "znapzend": "znapzend",
+    "zrepl": "zrepl",
+    "zsh": "zsh",
+    "zsh-completions": "zsh-completions",
+    "zsh-syntax-highlighting": "zsh-syntax-highlighting",
+    "zstd": "zstd",
+    "zziplib": "libzzip"
+  }
+}

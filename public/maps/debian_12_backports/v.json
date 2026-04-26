@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_12_backports",
+    "shard": "v",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "valkey": "valkey",
+    "valkey-sentinel": "valkey",
+    "valkey-server": "valkey",
+    "valkey-tools": "valkey"
+  }
+}

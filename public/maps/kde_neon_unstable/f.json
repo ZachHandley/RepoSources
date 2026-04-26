@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kde_neon_unstable",
+    "shard": "f",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "fastfloat": "fast_float",
+    "fastfloat-dev": "fast_float",
+    "fastfloat3": "fast_float",
+    "freerdp2": "freerdp",
+    "freerdp2-dev": "freerdp",
+    "freerdp2-shadow-x11": "freerdp",
+    "freerdp2-wayland": "freerdp",
+    "freerdp2-x11": "freerdp",
+    "fwupd": "fwupd",
+    "fwupd-doc": "fwupd",
+    "fwupd-tests": "fwupd"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ptxdist",
+    "shard": "h",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "haproxy": "haproxy",
+    "harfbuzz": "harfbuzz",
+    "hexedit": "hexedit",
+    "hiredis": "hiredis",
+    "htmldoc": "htmldoc",
+    "htop": "htop"
+  }
+}

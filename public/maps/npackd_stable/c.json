@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable",
+    "shard": "c",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "CMake": "cmake",
+    "Chainsaw": "chainsaw",
+    "Claws Mail": "claws-mail",
+    "Conan": "conan",
+    "Core Utilities": "coreutils",
+    "Cppcheck": "cppcheck",
+    "Cppcheck 64 bit": "cppcheck",
+    "cURL": "curl",
+    "chainsaw": "chainsaw",
+    "clang": "lld",
+    "claws-mail": "claws-mail",
+    "com.ghostscript.Ghostscript": "ghostscript",
+    "com.github.jgm.pandoc": "pandoc",
+    "com.github.nicolargo.Glances": "glances",
+    "com.h2database.H2": "h2",
+    "com.httrack.HTTrack": "httrack",
+    "com.monoproject.Mono": "mono",
+    "com.selenic.mercurial.Mercurial": "mercurial",
+    "conan": "conan",
+    "cppcheck": "cppcheck",
+    "cppcheck64": "cppcheck"
+  }
+}

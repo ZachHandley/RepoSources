@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "t2",
+    "shard": "q",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "qalculate-gtk": "qalculate-gtk",
+    "qbe": "qbe",
+    "qca2": "qca",
+    "qca2-cyrus-sasl": "qca",
+    "qca2-ossl": "qca",
+    "qemu": "qemu",
+    "qhull": "qhull",
+    "qjackctl": "qjackctl",
+    "qjson": "qjson",
+    "qpdf": "qpdf",
+    "qt-qca": "qca",
+    "qt-qca-sasl": "qca",
+    "qt3": "qt",
+    "qt4": "qt",
+    "qt65compat": "qt",
+    "qtkeychain": "qtkeychain",
+    "quazip": "quazip",
+    "quickjs": "quickjs",
+    "quilt": "quilt",
+    "quotatool": "quotatool"
+  }
+}

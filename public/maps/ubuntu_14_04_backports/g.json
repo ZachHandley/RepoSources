@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_14_04_backports",
+    "shard": "g",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "gcalcli": "gcalcli",
+    "gfio": "fio",
+    "gir1.2-osmgpsmap-1.0": "osm-gps-map",
+    "golang": "go",
+    "golang-doc": "go",
+    "golang-github-lxc-lxd-dev": "lxc",
+    "golang-go": "go",
+    "golang-go-darwin-386": "go",
+    "golang-go-darwin-amd64": "go",
+    "golang-go-freebsd-386": "go",
+    "golang-go-freebsd-amd64": "go",
+    "golang-go-freebsd-arm": "go",
+    "golang-go-linux-386": "go",
+    "golang-go-linux-amd64": "go",
+    "golang-go-linux-arm": "go",
+    "golang-go-netbsd-386": "go",
+    "golang-go-netbsd-amd64": "go",
+    "golang-go-windows-386": "go",
+    "golang-go-windows-amd64": "go",
+    "golang-mode": "go",
+    "golang-src": "go"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "distri",
+    "shard": "b",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "bash": "bash",
+    "bash-completion": "bash-completion",
+    "bc": "bc",
+    "bind": "bind",
+    "binutils": "binutils",
+    "binutils-i686": "binutils",
+    "bison": "bison",
+    "bluez": "bluez",
+    "boost": "boost",
+    "bzip2": "bzip2"
+  }
+}

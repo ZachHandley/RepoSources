@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wakemeops",
+    "shard": "p",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "pdm": "pdm",
+    "pipx": "pipx",
+    "pluto": "pluto",
+    "poetry": "poetry",
+    "pre-commit": "pre-commit",
+    "procs": "procs",
+    "pyenv": "pyenv",
+    "pyoxidizer": "pyoxidizer",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

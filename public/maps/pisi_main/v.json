@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pisi_main",
+    "shard": "v",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "vala": "vala",
+    "valgrind": "valgrind",
+    "valijson": "valijson",
+    "vamp-plugin-sdk": "vamp-plugin-sdk",
+    "vapoursynth": "vapoursynth",
+    "vcdimager": "vcdimager",
+    "vid.stab": "libvidstab",
+    "vim": "vim",
+    "virt-manager": "virt-manager",
+    "vmaf": "libvmaf",
+    "vnstat": "vnstat",
+    "vo-aacenc": "libvo-aacenc",
+    "vo-amrwbenc": "vo-amrwbenc",
+    "vorbis-tools": "vorbis-tools",
+    "vsftpd": "vsftpd",
+    "vte": "vte3",
+    "vulkan-headers": "vulkan-headers",
+    "vulkan-tools": "vulkan-tools",
+    "vulkan-utility-libraries": "vulkan-utility-libraries",
+    "vulkan-volk": "vulkan-volk"
+  }
+}

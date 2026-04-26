@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "packman_opensuse_tumbleweed",
+    "shard": "b",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "bento4": "bento4",
+    "bento4-debuginfo": "bento4",
+    "bento4-debugsource": "bento4",
+    "bento4-devel": "bento4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable64",
+    "shard": "o",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "OpenVPN 64 bit": "openvpn",
+    "openssl-dev": "openssl@3",
+    "openvpn64": "openvpn",
+    "org.7-zip.SevenZIP64": "sevenzip",
+    "org.apache.subversion.Subversion64": "subversion",
+    "org.apache.tomcat.Tomcat64": "tomcat",
+    "org.cgsecurity.testdisk.TestDisk64": "testdisk",
+    "org.erlang.Erlang64": "erlang",
+    "org.gnu.GDB64": "gdb",
+    "org.golang.Go64": "go",
+    "org.nodejs.NodeJS64": "node",
+    "org.python.Python64": "python@3.9",
+    "org.synergyfoss.Synergy64": "synergy-core",
+    "org.vim.Vim64": "vim",
+    "org.wireshark.Wireshark64": "wireshark"
+  }
+}

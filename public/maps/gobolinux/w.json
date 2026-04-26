@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gobolinux",
+    "shard": "w",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "W3M": "w3m",
+    "WPut": "wput",
+    "WV": "wv",
+    "WV2": "wv2",
+    "WavPack": "wavpack",
+    "Wayland": "wayland",
+    "Wayland-Protocols": "wayland-protocols",
+    "Wcalc": "w-calc",
+    "WebKit": "webkitgtk",
+    "WebKitGTK+": "webkitgtk",
+    "Weechat": "weechat",
+    "Wget": "wget",
+    "Which": "gnu-which",
+    "Whois": "whois",
+    "WiredTiger": "wiredtiger",
+    "Wireguard-Tools": "wireguard-tools",
+    "Wireshark": "wireshark",
+    "Wmctrl": "wmctrl",
+    "Wrk": "wrk",
+    "WxBase": "wxwidgets",
+    "WxGTK": "wxwidgets",
+    "WxLua": "wxlua",
+    "WxPython": "wxpython",
+    "WxWidgets": "wxwidgets"
+  }
+}

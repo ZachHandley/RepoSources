@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_04_proposed",
+    "shard": "s",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "sb16ctrl-bochs": "bochs",
+    "sdl12-compat": "sdl12-compat",
+    "seqan-apps": "seqan3",
+    "seqan2": "seqan3",
+    "sfcgal": "sfcgal",
+    "streamripper": "streamripper",
+    "sysbench": "sysbench"
+  }
+}

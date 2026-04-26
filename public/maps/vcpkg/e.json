@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "vcpkg",
+    "shard": "e",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "ebml": "libebml",
+    "ecm": "extra-cmake-modules",
+    "eigen3": "eigen",
+    "elfio": "elfio",
+    "elfutils": "elfutils",
+    "embree": "embree",
+    "enet": "enet",
+    "enkits": "enkits",
+    "ensmallen": "ensmallen",
+    "entityx": "entityx",
+    "entt": "entt",
+    "epoll-shim": "epoll-shim",
+    "eventpp": "eventpp",
+    "exiv2": "exiv2",
+    "expat": "expat"
+  }
+}

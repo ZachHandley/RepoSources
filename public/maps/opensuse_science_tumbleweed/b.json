@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_science_tumbleweed",
+    "shard": "b",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "bandicoot": "bandicoot",
+    "bandicoot-debuginfo": "bandicoot",
+    "bandicoot-debugsource": "bandicoot",
+    "bandicoot-devel": "bandicoot",
+    "bcftools": "bcftools",
+    "bcftools-debuginfo": "bcftools",
+    "bcftools-debugsource": "bcftools",
+    "bedtools": "bedtools",
+    "bedtools-data": "bedtools",
+    "bedtools-debuginfo": "bedtools",
+    "bedtools-debugsource": "bedtools",
+    "bedtools-doc": "bedtools",
+    "bitwuzla": "bitwuzla",
+    "bitwuzla-debuginfo": "bitwuzla",
+    "bitwuzla-debugsource": "bitwuzla",
+    "bitwuzla-devel": "bitwuzla",
+    "blas-devel": "lapack",
+    "blaze": "blaze",
+    "blaze-debuginfo": "blaze",
+    "blaze-debugsource": "blaze",
+    "blaze-devel": "blaze",
+    "blaze-devel-doc": "blaze",
+    "blis": "blis",
+    "blis-debuginfo": "blis",
+    "blis-debugsource": "blis",
+    "blis-devel": "blis",
+    "bowtie2": "bowtie2",
+    "bowtie2-debuginfo": "bowtie2",
+    "bowtie2-debugsource": "bowtie2",
+    "bwa": "bwa",
+    "bwa-debuginfo": "bwa",
+    "bwa-debugsource": "bwa"
+  }
+}

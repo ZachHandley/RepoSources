@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kali_rolling",
+    "shard": "_misc",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "0install": "zero-install",
+    "0install-core": "zero-install",
+    "0install-solver": "zero-install",
+    "2048": "c2048",
+    "2ping": "twoping",
+    "64tass": "tass64",
+    "6tunnel": "sixtunnel",
+    "7kaa": "seven-kingdoms",
+    "7kaa-data": "seven-kingdoms",
+    "7zip": "sevenzip",
+    "7zip-rar": "sevenzip",
+    "7zip-standalone": "sevenzip"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crates_io",
+    "shard": "r",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "rage": "rage",
+    "railwayapp": "railway",
+    "rav1e": "rav1e",
+    "rbw": "rbw",
+    "resvg": "resvg",
+    "resvg-qt": "resvg",
+    "resvg-skia": "resvg",
+    "riffdiff": "riff",
+    "rioterm": "rio-terminal",
+    "ripgrep": "ripgrep",
+    "river": "river",
+    "rm-improved": "rm-improved",
+    "rqbit": "rqbit",
+    "ruff": "ruff",
+    "rure": "rure",
+    "rust-script": "rust-script",
+    "rustic-rs": "rustic",
+    "rustls-ffi": "rustls-ffi"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "vcpkg",
+    "shard": "h",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "h3": "h3",
+    "halide": "halide",
+    "harfbuzz": "harfbuzz",
+    "hdf5": "hdf5",
+    "healpix": "healpix",
+    "hidapi": "hidapi",
+    "highs": "highs",
+    "highway": "highway",
+    "hiredis": "hiredis",
+    "htslib": "htslib",
+    "hunspell": "hunspell",
+    "hwloc": "hwloc",
+    "hyperscan": "hyperscan",
+    "hypre": "hypre"
+  }
+}

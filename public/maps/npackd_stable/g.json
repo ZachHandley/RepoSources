@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable",
+    "shard": "g",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "GDB": "gdb",
+    "GNU nano": "nano",
+    "GetText": "gettext",
+    "Ghostscript": "ghostscript",
+    "Glade": "glade",
+    "Glances": "glances",
+    "Go": "go",
+    "Gradle": "gradle",
+    "GraphicsMagick Q16": "graphicsmagick",
+    "GraphicsMagick Q16 64 bit": "graphicsmagick",
+    "Graphviz": "graphviz",
+    "Graphviz 64 bit": "graphviz",
+    "Grep": "grep",
+    "gedit": "gedit",
+    "gettext runtime": "gettext",
+    "gnunano": "nano",
+    "gnuplot": "gnuplot",
+    "gradle": "gradle",
+    "graphviz64": "graphviz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_security_tumbleweed",
+    "shard": "a",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "aide": "aide",
+    "aide-debuginfo": "aide",
+    "aide-debugsource": "aide",
+    "aide-test": "aide",
+    "aircrack-ng": "aircrack-ng",
+    "aircrack-ng-debuginfo": "aircrack-ng",
+    "aircrack-ng-debugsource": "aircrack-ng",
+    "aircrack-ng-devel": "aircrack-ng",
+    "amass": "amass",
+    "amass-debuginfo": "amass",
+    "amass-debugsource": "amass",
+    "argon2": "argon2",
+    "argon2-debuginfo": "argon2",
+    "argon2-debugsource": "argon2",
+    "argon2-devel": "argon2",
+    "argon2-doc": "argon2",
+    "arp-scan": "arp-scan",
+    "arp-scan-debuginfo": "arp-scan",
+    "arp-scan-debugsource": "arp-scan",
+    "autossh": "autossh",
+    "autossh-debuginfo": "autossh",
+    "autossh-debugsource": "autossh"
+  }
+}

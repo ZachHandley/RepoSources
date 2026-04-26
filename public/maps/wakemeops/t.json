@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wakemeops",
+    "shard": "t",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "terraform-docs": "terraform-docs",
+    "terragrunt": "terragrunt",
+    "terrascan": "terrascan",
+    "tflint": "tflint",
+    "tokei": "tokei",
+    "trivy": "trivy",
+    "ttyd": "ttyd",
+    "typos-cli": "typos-cli"
+  }
+}

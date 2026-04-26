@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_rawhide",
+    "shard": "p",
+    "total_mappings": 27
+  },
+  "mappings": {
+    "pet": "pet",
+    "pet-debuginfo": "pet",
+    "pet-debugsource": "pet",
+    "picotool": "picotool",
+    "picotool-debuginfo": "picotool",
+    "picotool-debugsource": "picotool",
+    "pixi": "pixi",
+    "pixi-bash-completion": "pixi",
+    "pixi-debuginfo": "pixi",
+    "pixi-debugsource": "pixi",
+    "pixi-elvish-completion": "pixi",
+    "pixi-fish-completion": "pixi",
+    "pixi-zsh-completion": "pixi",
+    "pop": "pop",
+    "powershell": "powershell",
+    "powershell-doc": "powershell",
+    "python-antlr4-python3-runtime": "antlr",
+    "python-magic-wormhole": "magic-wormhole",
+    "python-magic-wormhole-bash-completion": "magic-wormhole",
+    "python-magic-wormhole-fish-completion": "magic-wormhole",
+    "python-magic-wormhole-zsh-completion": "magic-wormhole",
+    "python3": "python@3",
+    "python3-antlr4-python3-runtime": "antlr",
+    "python3-copyparty": "copyparty",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python3-magic-wormhole": "magic-wormhole"
+  }
+}

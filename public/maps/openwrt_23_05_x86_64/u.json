@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openwrt_23_05_x86_64",
+    "shard": "u",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "uhubctl": "uhubctl",
+    "unbound-anchor": "unbound",
+    "unbound-checkconf": "unbound",
+    "unbound-control": "unbound",
+    "unbound-control-setup": "unbound",
+    "unbound-daemon": "unbound",
+    "unbound-host": "unbound",
+    "unix2dos": "dos2unix",
+    "unixodbc": "unixodbc",
+    "unixodbc-tools": "unixodbc",
+    "unshare": "gnu-getopt",
+    "unzip": "unzip",
+    "usbip": "linux-headers@4.4",
+    "usbip-client": "linux-headers@4.4",
+    "usbip-server": "linux-headers@4.4",
+    "usbutils": "usbutils",
+    "uuidd": "gnu-getopt",
+    "uuidgen": "gnu-getopt",
+    "uwsgi": "uwsgi",
+    "uwsgi-cgi-plugin": "uwsgi",
+    "uwsgi-logfile-plugin": "uwsgi",
+    "uwsgi-luci-support": "uwsgi",
+    "uwsgi-python3-plugin": "uwsgi",
+    "uwsgi-syslog-plugin": "uwsgi"
+  }
+}

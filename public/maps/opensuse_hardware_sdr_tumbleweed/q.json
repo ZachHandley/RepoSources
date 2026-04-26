@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_hardware_sdr_tumbleweed",
+    "shard": "q",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "qdmr": "qdmr",
+    "qdmr-debuginfo": "qdmr",
+    "qdmr-debugsource": "qdmr",
+    "qdmr-devel": "qdmr"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "glaucus",
+    "shard": "n",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "nasm": "nasm",
+    "neatvi": "neatvi",
+    "nim": "nim",
+    "nodejs": "node"
+  }
+}

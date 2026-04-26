@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "e",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "emacs": "emacs",
+    "emacs-git": "emacs",
+    "endlessh-git": "endlessh",
+    "erlang-language-platform": "erlang-language-platform",
+    "erlfmt": "erlfmt",
+    "exercism-cli-bin": "exercism",
+    "exiftool": "exiftool",
+    "exploitdb-git": "exploitdb",
+    "eza-git": "eza"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "distri",
+    "shard": "m",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "m4": "m4",
+    "make": "make",
+    "man-db": "man-db",
+    "mandoc": "mandoc",
+    "mesa": "mesa",
+    "meson": "meson",
+    "mosh": "mosh",
+    "mozjs": "spidermonkey",
+    "mpc": "libmpc",
+    "mpfr": "mpfr",
+    "mplayer": "mplayer",
+    "mtr": "mtr"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chromebrew",
+    "shard": "v",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "v2ray": "v2ray",
+    "vala": "vala",
+    "vala_bootstrap": "vala",
+    "valgrind": "valgrind",
+    "vapoursynth": "vapoursynth",
+    "vcpkg": "vcpkg",
+    "vice": "vice",
+    "vidstab": "libvidstab",
+    "vifm": "vifm",
+    "vim": "vim",
+    "vim_runtime": "vim",
+    "vitetris": "vitetris",
+    "vmaf": "libvmaf",
+    "volta": "volta",
+    "vtable_dumper": "vtable-dumper",
+    "vte": "vte3",
+    "vtk": "vtk",
+    "vulkan_headers": "vulkan-headers",
+    "vulkan_icd_loader": "vulkan-loader",
+    "vulkan_tools": "vulkan-tools",
+    "vuls": "vuls"
+  }
+}

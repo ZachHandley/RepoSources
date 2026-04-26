@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_40",
+    "shard": "l",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3",
+    "libvala-nightly": "vala",
+    "libvala-nightly-devel": "vala",
+    "limine": "limine",
+    "limine-debuginfo": "limine",
+    "limine-debugsource": "limine"
+  }
+}

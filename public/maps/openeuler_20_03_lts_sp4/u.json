@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openeuler_20_03_lts_sp4",
+    "shard": "u",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "uboot-tools": "u-boot-tools",
+    "uchardet": "uchardet",
+    "umoci": "umoci",
+    "umockdev": "umockdev",
+    "unbound": "unbound",
+    "units": "gnu-units",
+    "unixODBC": "unixodbc",
+    "unzip": "unzip",
+    "uriparser": "uriparser",
+    "urlview": "urlview",
+    "usbredir": "usbredir",
+    "usbutils": "usbutils",
+    "userspace-rcu": "userspace-rcu",
+    "utf8proc": "utf8proc",
+    "uthash": "uthash",
+    "util-linux": "util-linux"
+  }
+}

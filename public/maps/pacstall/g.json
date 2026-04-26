@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "g",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "ghcup-bin": "ghcup",
+    "git": "git",
+    "git-delta-deb": "git-delta",
+    "git-extras-git": "git-extras",
+    "github-cli-bin": "gh",
+    "github-cli-deb": "gh",
+    "gitui-git": "gitui",
+    "glow-deb": "glow",
+    "go-bin": "go",
+    "go-task-deb": "go-task"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "side",
+    "shard": "w",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "wavpack": "wavpack",
+    "wayland": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "webp-pixbuf-loader": "webp-pixbuf-loader",
+    "wget": "wget",
+    "wget2": "wget2",
+    "which": "gnu-which"
+  }
+}

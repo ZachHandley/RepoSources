@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "u",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "ucl": "ucl",
+    "ucommon": "ucommon",
+    "udunits2": "udunits",
+    "uncrustify": "uncrustify",
+    "uni2ascii": "uni2ascii",
+    "unixODBC": "unixodbc",
+    "unrtf": "unrtf",
+    "unzip": "unzip",
+    "unzip-64bit": "unzip",
+    "uriparser": "uriparser",
+    "utf8proc": "utf8proc",
+    "util-linux": "util-linux",
+    "uudeview": "uudeview"
+  }
+}

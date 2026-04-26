@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "haikuports_master",
+    "shard": "w",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "www-apps/hugo": "hugo",
+    "www-client/ddgr": "ddgr",
+    "www-client/dillo": "dillo",
+    "www-client/httrack": "httrack",
+    "www-client/links": "links",
+    "www-client/lynx": "lynx",
+    "www-client/w3m": "w3m",
+    "www-misc/libkiwix": "libkiwix",
+    "www-servers/apache": "httpd",
+    "www-servers/lighttpd": "lighttpd",
+    "www-servers/nginx": "nginx"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "bioarch",
+    "shard": "t",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "tabixpp": "tabixpp",
+    "teem": "teem",
+    "tempest": "beast",
+    "tiledb": "tiledb",
+    "tracy": "tracy",
+    "trimal": "trimal"
+  }
+}

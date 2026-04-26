@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_community",
+    "shard": "f",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "fdk-aac": "fdk-aac",
+    "fff": "fff",
+    "fftw": "fftw",
+    "file": "file-formula",
+    "flac": "flac",
+    "fmt": "fmt",
+    "fossil": "fossil",
+    "freeglut": "freeglut",
+    "fuse": "libfuse",
+    "fuse2": "libfuse",
+    "fzy": "fzy"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wakemeops",
+    "shard": "k",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "k3d": "k3d",
+    "k6": "k6",
+    "k9s": "k9s",
+    "kind": "kind",
+    "kompose": "kompose",
+    "krew": "krew",
+    "kube-linter": "kube-linter",
+    "kube-score": "kube-score",
+    "kubeaudit": "kubeaudit",
+    "kubebuilder": "kubebuilder",
+    "kubeconform": "kubeconform",
+    "kubectl": "kubernetes-cli",
+    "kubectl-oidc-login": "kubelogin",
+    "kubectx": "kubectx",
+    "kubescape": "kubescape",
+    "kubeseal": "kubeseal",
+    "kustomize": "kustomize",
+    "kyverno": "kyverno"
+  }
+}

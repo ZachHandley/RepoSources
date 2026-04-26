@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kaos",
+    "shard": "r",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "r": "r",
+    "ragel": "ragel",
+    "rapidjson": "rapidjson",
+    "rasqal": "rasqal",
+    "rdfind": "rdfind",
+    "readline": "readline",
+    "recode": "recode",
+    "redland": "redland",
+    "redshift": "redshift",
+    "rhino": "rhino",
+    "rpcsvc-proto": "rpcsvc-proto",
+    "rrdtool": "rrdtool",
+    "rsync": "rsync",
+    "rtmpdump": "rtmpdump",
+    "rubberband": "rubberband",
+    "ruby": "ruby",
+    "ruby-docs": "ruby",
+    "runc": "runc",
+    "rust": "rust"
+  }
+}

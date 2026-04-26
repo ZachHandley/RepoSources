@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "spack",
+    "shard": "y",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "yajl": "yajl",
+    "yaml-cpp": "yaml-cpp",
+    "yamlfmt": "yamlfmt",
+    "yara": "yara",
+    "yarn": "yarn",
+    "yasm": "yasm",
+    "yosys": "yosys",
+    "yq": "yq",
+    "yyjson": "yyjson"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "adelie_current",
+    "shard": "h",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "harfbuzz": "harfbuzz",
+    "harfbuzz-dbg": "harfbuzz",
+    "harfbuzz-dev": "harfbuzz",
+    "harfbuzz-icu": "harfbuzz",
+    "help2man": "help2man",
+    "help2man-doc": "help2man",
+    "hfsutils": "hfsutils",
+    "hfsutils-dbg": "hfsutils",
+    "hfsutils-doc": "hfsutils",
+    "hicolor-icon-theme": "hicolor-icon-theme",
+    "highlight": "highlight",
+    "highlight-dbg": "highlight",
+    "highlight-doc": "highlight",
+    "hiredis": "hiredis",
+    "hiredis-dbg": "hiredis",
+    "hiredis-dev": "hiredis",
+    "htop": "htop",
+    "htop-dbg": "htop",
+    "htop-doc": "htop",
+    "hunspell": "hunspell",
+    "hunspell-dbg": "hunspell",
+    "hunspell-dev": "hunspell",
+    "hunspell-doc": "hunspell",
+    "hunspell-lang": "hunspell",
+    "hyfetch": "hyfetch",
+    "hyfetch-doc": "hyfetch"
+  }
+}

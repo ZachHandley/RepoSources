@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_12_backports",
+    "shard": "t",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "talloc": "talloc",
+    "tbox": "tbox",
+    "tclspice": "ngspice",
+    "tdb-tools": "samba",
+    "terminator": "terminator",
+    "testssl.sh": "testssl",
+    "tinyproxy": "tinyproxy",
+    "tinyproxy-bin": "tinyproxy",
+    "tio": "tio",
+    "tippecanoe": "tippecanoe",
+    "tmux": "tmux",
+    "tomcat10": "tomcat",
+    "tomcat10-admin": "tomcat",
+    "tomcat10-common": "tomcat",
+    "tomcat10-docs": "tomcat",
+    "tomcat10-examples": "tomcat",
+    "tomcat10-user": "tomcat",
+    "tor": "tor",
+    "tor-geoipdb": "tor",
+    "trurl": "trurl"
+  }
+}

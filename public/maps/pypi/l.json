@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pypi",
+    "shard": "l",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "lerc": "liblerc",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3",
+    "libvirt-python": "libvirt-python",
+    "libxml2-python": "libxml2",
+    "lizard": "lizard-analyzer",
+    "llm": "llm",
+    "lttngust": "lttng-ust"
+  }
+}

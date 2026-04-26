@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_23_testing",
+    "shard": "r",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "r-base": "r",
+    "r-base-core": "r",
+    "r-base-dev": "r",
+    "r-base-html": "r",
+    "r-doc-html": "r",
+    "r-doc-info": "r",
+    "r-doc-pdf": "r",
+    "r-mathlib": "r",
+    "r-recommended": "r"
+  }
+}

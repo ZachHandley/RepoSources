@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_science_tumbleweed",
+    "shard": "h",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "hdf5": "hdf5",
+    "hdf5-debuginfo": "hdf5",
+    "hdf5-debugsource": "hdf5",
+    "hdf5-devel": "hdf5",
+    "hdf5-devel-data": "hdf5",
+    "hdf5-examples": "hdf5",
+    "hdf5-mvapich2": "hdf5",
+    "hdf5-mvapich2-debuginfo": "hdf5",
+    "hdf5-mvapich2-debugsource": "hdf5",
+    "hdf5-mvapich2-devel": "hdf5",
+    "hmmer": "hmmer",
+    "hmmer-debuginfo": "hmmer",
+    "hmmer-debugsource": "hmmer",
+    "hypre": "hypre",
+    "hypre-debuginfo": "hypre",
+    "hypre-debugsource": "hypre",
+    "hypre-devel": "hypre",
+    "hypre-doc": "hypre",
+    "hypre-examples": "hypre"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_multimedia_apps_tumbleweed",
+    "shard": "n",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "ncmpcpp": "ncmpcpp",
+    "ncmpcpp-debuginfo": "ncmpcpp",
+    "ncmpcpp-debugsource": "ncmpcpp",
+    "ncspot": "ncspot",
+    "ncspot-debuginfo": "ncspot",
+    "ncspot-debugsource": "ncspot",
+    "nodejs": "node",
+    "nrg2iso": "nrg2iso",
+    "nrg2iso-debuginfo": "nrg2iso",
+    "nrg2iso-debugsource": "nrg2iso"
+  }
+}

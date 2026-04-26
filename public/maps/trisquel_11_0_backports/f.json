@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "trisquel_11_0_backports",
+    "shard": "f",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "fastfetch": "fastfetch",
+    "flang-18": "lld",
+    "flang-19": "lld"
+  }
+}

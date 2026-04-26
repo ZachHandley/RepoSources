@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chocolatey",
+    "shard": "z",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "Z3 Theorem Prover": "z3",
+    "ZBar": "zbar",
+    "Zabbix Agent": "zabbix",
+    "Zabbix Agent (Install)": "zabbix",
+    "Zabbix Agent 2": "zabbix",
+    "Zero Install": "zero-install",
+    "Zim Desktop Wiki": "zim",
+    "Zint Barcode Generator": "zint",
+    "Zola": "zola",
+    "Zstandard": "zstd",
+    "z3": "z3",
+    "zabbix-agent": "zabbix",
+    "zabbix-agent.install": "zabbix",
+    "zabbix-agent2": "zabbix",
+    "zbar": "zbar",
+    "zig": "zig",
+    "zig (Install)": "zig",
+    "zim": "zim",
+    "zint": "zint",
+    "zip": "zip",
+    "zola": "zola",
+    "zoxide": "zoxide",
+    "zpaq": "zpaq",
+    "zstandard": "zstd"
+  }
+}

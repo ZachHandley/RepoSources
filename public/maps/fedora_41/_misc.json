@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "fedora_41",
+    "shard": "_misc",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "0install": "zero-install",
+    "2ping": "twoping",
+    "3mux": "threemux",
+    "64tass": "tass64",
+    "6tunnel": "sixtunnel"
+  }
+}

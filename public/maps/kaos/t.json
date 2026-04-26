@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kaos",
+    "shard": "t",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "t1utils": "t1utils",
+    "taglib": "taglib",
+    "talloc": "talloc",
+    "tar": "gnu-tar",
+    "tclap": "tclap",
+    "tdb": "tdb",
+    "tesseract": "tesseract",
+    "testdisk": "testdisk",
+    "tevent": "tevent",
+    "texinfo": "texinfo",
+    "texlive-bin": "texlive",
+    "texlive-core": "texlive",
+    "threadweaver6": "threadweaver",
+    "tidyhtml": "tidy-html5",
+    "timidity++": "timidity",
+    "tinyxml": "tinyxml",
+    "tinyxml2": "tinyxml2",
+    "tor": "tor",
+    "toxcore": "toxcore",
+    "transifex-cli": "transifex-cli",
+    "translate-toolkit": "translate-toolkit",
+    "transmission": "transmission-cli",
+    "transmission-cli": "transmission-cli",
+    "transmission-qt": "transmission-cli",
+    "typst": "typst",
+    "tzdata": "tzdb"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_shells_tumbleweed",
+    "shard": "l",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "libreadline8": "readline",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3"
+  }
+}

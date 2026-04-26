@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "distri",
+    "shard": "p",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "pam": "linux-pam",
+    "pango": "pango",
+    "pangomm": "pangomm",
+    "patch": "gpatch",
+    "patchelf": "patchelf",
+    "pciutils": "pciutils",
+    "pcre": "pcre",
+    "perl": "perl",
+    "pigz": "pigz",
+    "pillow": "pillow",
+    "pixman": "pixman",
+    "polkit": "polkit",
+    "popt": "popt",
+    "procps-ng": "procps",
+    "protobuf": "protobuf",
+    "pulseaudio": "pulseaudio",
+    "pycairo": "py3cairo",
+    "pygobject": "pygobject3",
+    "python2.7": "python@3.9",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "i",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "ImageMagick": "imagemagick",
+    "ImageMagick-Q16": "imagemagick",
+    "ImageMagick-Q8": "imagemagick",
+    "icu": "icu4c@74",
+    "id3lib": "id3lib",
+    "idutils": "idutils",
+    "iftop": "iftop",
+    "ilmbase": "openexr",
+    "imlib2": "imlib2",
+    "indent": "gnu-indent",
+    "iniparser": "iniparser",
+    "intltool": "intltool",
+    "iperf3": "iperf3",
+    "iperf3_64": "iperf3",
+    "ipmitool": "ipmitool",
+    "isl": "isl",
+    "iso-codes": "iso-codes",
+    "ivykis": "ivykis"
+  }
+}

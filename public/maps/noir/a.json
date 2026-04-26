@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "noir",
+    "shard": "a",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "adwaita-icon-theme": "adwaita-icon-theme",
+    "alsa-lib": "alsa-lib",
+    "appstream": "appstream",
+    "autoconf": "autoconf",
+    "automake": "automake"
+  }
+}

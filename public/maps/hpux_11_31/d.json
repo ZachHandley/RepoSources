@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "hpux_11_31",
+    "shard": "d",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "daq": "daq",
+    "db": "berkeley-db",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dhex": "dhex",
+    "di": "di",
+    "dialog": "dialog",
+    "diction": "diction",
+    "diffstat": "diffstat",
+    "diffutils": "diffutils",
+    "dig": "bind",
+    "dillo": "dillo",
+    "dmalloc": "dmalloc",
+    "dnstop": "dnstop",
+    "doxygen": "doxygen"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_25_testing",
+    "shard": "h",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "handbrake": "handbrake",
+    "handbrake-cli": "handbrake",
+    "homebank": "homebank",
+    "homebank-data": "homebank"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pkgsrc_current",
+    "shard": "y",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "yacas": "yacas",
+    "yadm": "yadm",
+    "yafc": "yafc",
+    "yajl": "yajl",
+    "yamcha": "yamcha",
+    "yaml-cpp": "yaml-cpp",
+    "yank": "yank",
+    "yara": "yara",
+    "yarn": "yarn",
+    "yash": "yash",
+    "yasm": "yasm",
+    "yaws": "yaws",
+    "yaz": "yaz",
+    "yazi": "yazi",
+    "ydiff": "ydiff",
+    "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yices2": "yices2",
+    "ykman": "ykman",
+    "ykpers": "ykpers",
+    "yosys": "yosys",
+    "yq": "python-yq",
+    "yt-dlp": "yt-dlp",
+    "yyjson": "yyjson"
+  }
+}

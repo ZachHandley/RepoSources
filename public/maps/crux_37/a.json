@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_37",
+    "shard": "a",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "a2ps": "a2ps",
+    "abseil-cpp": "abseil",
+    "acl": "acl",
+    "act-runner": "act_runner",
+    "adwaita-icon-theme": "adwaita-icon-theme",
+    "alsa-lib": "alsa-lib",
+    "alsa-lib-32": "alsa-lib",
+    "aom": "aom",
+    "apache": "httpd",
+    "appstream": "appstream",
+    "appstream-glib": "appstream-glib",
+    "apr": "apr",
+    "apr-util": "apr-util",
+    "argon2": "argon2",
+    "asciidoc": "asciidoc",
+    "asciidoctor": "asciidoctor",
+    "aspell": "aspell",
+    "assimp": "assimp",
+    "at-spi2-core": "at-spi2-core",
+    "at-spi2-core-32": "at-spi2-core",
+    "atkmm": "atkmm",
+    "attr": "attr",
+    "attr-32": "attr",
+    "atuin": "atuin",
+    "autoconf": "autoconf",
+    "autoconf-2.13": "autoconf",
+    "autoconf-archive": "autoconf-archive",
+    "automake": "automake",
+    "automake-114": "automake",
+    "avahi": "avahi",
+    "avahi-32": "avahi",
+    "ayatana-ido": "ayatana-ido"
+  }
+}

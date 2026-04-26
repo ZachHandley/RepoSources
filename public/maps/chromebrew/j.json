@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chromebrew",
+    "shard": "j",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "jack": "jack",
+    "jack1": "jack",
+    "janet": "janet",
+    "jansson": "jansson",
+    "jasper": "jasper",
+    "jbigkit": "jbigkit",
+    "jemalloc": "jemalloc",
+    "jfrog": "jfrog-cli",
+    "joplin": "joplin-cli",
+    "jp2a": "jp2a",
+    "jpegoptim": "jpegoptim",
+    "jq": "jq",
+    "js102": "spidermonkey",
+    "js115": "spidermonkey",
+    "js140": "spidermonkey",
+    "js78": "spidermonkey",
+    "js91": "spidermonkey",
+    "json_c": "json-c",
+    "json_glib": "json-glib",
+    "jsoncpp": "jsoncpp",
+    "jsonrpc_glib": "jsonrpc-glib",
+    "julia": "julia"
+  }
+}

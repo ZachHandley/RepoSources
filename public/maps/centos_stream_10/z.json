@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_stream_10",
+    "shard": "z",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "zenity": "zenity",
+    "zenity-debuginfo": "zenity",
+    "zenity-debugsource": "zenity",
+    "zip": "zip",
+    "zip-debuginfo": "zip",
+    "zip-debugsource": "zip",
+    "zlib-ng": "zlib-ng",
+    "zlib-ng-compat": "zlib-ng-compat",
+    "zlib-ng-compat-devel": "zlib-ng",
+    "zlib-ng-compat-static": "zlib-ng",
+    "zlib-ng-debuginfo": "zlib-ng",
+    "zlib-ng-debugsource": "zlib-ng",
+    "zlib-ng-devel": "zlib-ng",
+    "zsh": "zsh",
+    "zsh-debuginfo": "zsh",
+    "zsh-debugsource": "zsh",
+    "zsh-html": "zsh",
+    "zstd": "zstd",
+    "zstd-debuginfo": "zstd",
+    "zstd-debugsource": "zstd",
+    "zziplib": "libzzip",
+    "zziplib-debuginfo": "libzzip",
+    "zziplib-debugsource": "libzzip",
+    "zziplib-devel": "libzzip",
+    "zziplib-utils": "libzzip"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "t",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "t1lib": "t1lib",
+    "t1utils": "t1utils",
+    "tar": "gnu-tar",
+    "tcpdump": "tcpdump",
+    "tcpflow": "tcpflow",
+    "tcpstat": "tcpstat",
+    "tcsh": "tcsh",
+    "texinfo": "texinfo",
+    "tgif": "tgif",
+    "time": "gnu-time",
+    "tinycdb": "tinycdb",
+    "tinyproxy": "tinyproxy",
+    "tinyxml": "tinyxml",
+    "tkdiff": "tkdiff",
+    "tmpreaper": "tmpreaper",
+    "tmpwatch": "tmpwatch",
+    "tmux": "tmux",
+    "tnef": "tnef",
+    "tofrodos": "tofrodos",
+    "tokyocabinet": "tokyo-cabinet",
+    "tre": "tre",
+    "ttf2pt1": "ttf2pt1",
+    "ttfautohint": "ttfautohint",
+    "twolame": "two-lame",
+    "txt2man": "txt2man"
+  }
+}

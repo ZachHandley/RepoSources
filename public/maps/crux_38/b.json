@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_38",
+    "shard": "b",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "babl": "babl",
+    "bandwhich": "bandwhich",
+    "bash": "bash",
+    "bash-completion": "bash-completion",
+    "bash-language-server": "bash-language-server",
+    "bat": "bat",
+    "bc": "bc",
+    "biber": "biber",
+    "bind": "bind",
+    "bindutils": "bind",
+    "binutils": "binutils",
+    "bison": "bison",
+    "black": "black",
+    "bluez": "bluez",
+    "boehm-gc": "bdw-gc",
+    "boost": "boost",
+    "botan": "botan",
+    "bottom": "bottom",
+    "box2d": "box2d",
+    "boxes": "boxes",
+    "brotli": "brotli",
+    "brotli-32": "brotli",
+    "btrfs-progs": "btrfs-progs",
+    "bubblewrap": "bubblewrap",
+    "bzip2": "bzip2",
+    "bzip2-32": "bzip2"
+  }
+}

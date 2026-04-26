@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_25",
+    "shard": "r",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "rfkill-modules-6.18.15+1-amd64-di": "linux-headers@4.4",
+    "rfkill-modules-6.18.15+1-loong64-di": "linux-headers@4.4",
+    "rtla": "linux-headers@4.4"
+  }
+}

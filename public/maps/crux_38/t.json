@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_38",
+    "shard": "t",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "taglib": "taglib",
+    "talloc": "talloc",
+    "tar": "gnu-tar",
+    "task": "task",
+    "tcpdump": "tcpdump",
+    "tcsh": "tcsh",
+    "tdb": "tdb",
+    "tea": "tea",
+    "telegraf": "telegraf",
+    "tevent": "tevent",
+    "texinfo": "texinfo",
+    "texlab": "texlab",
+    "texlive": "texlive",
+    "threadweaver": "threadweaver",
+    "tidy": "tidy-html5",
+    "tig": "tig",
+    "time": "gnu-time",
+    "tinyxml": "tinyxml",
+    "tinyxml2": "tinyxml2",
+    "tllist": "tllist",
+    "tmpwatch": "tmpwatch",
+    "tmux": "tmux",
+    "toml2json": "toml2json",
+    "transmission": "transmission-cli",
+    "tre-command": "tre-command",
+    "tree": "tree",
+    "tree-sitter": "tree-sitter",
+    "tree-sitter-cli": "tree-sitter-cli",
+    "typescript": "typescript",
+    "tzdata": "tzdb"
+  }
+}

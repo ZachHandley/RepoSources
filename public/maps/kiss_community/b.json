@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_community",
+    "shard": "b",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "bandwhich": "bandwhich",
+    "bash": "bash",
+    "bat": "bat",
+    "bc": "bc",
+    "boost": "boost",
+    "bottom": "bottom",
+    "brotli": "brotli",
+    "btop": "btop",
+    "btrfs-progs": "btrfs-progs",
+    "bubblewrap": "bubblewrap"
+  }
+}

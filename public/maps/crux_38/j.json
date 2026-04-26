@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_38",
+    "shard": "j",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "jansson": "jansson",
+    "jansson-32": "jansson",
+    "jasper": "jasper",
+    "jbig2dec": "jbig2dec",
+    "jq": "jq",
+    "jq-32": "jq",
+    "json-c": "json-c",
+    "json-glib": "json-glib",
+    "jsoncpp": "jsoncpp"
+  }
+}

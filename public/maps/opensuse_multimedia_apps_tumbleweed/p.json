@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_multimedia_apps_tumbleweed",
+    "shard": "p",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "pianobar": "pianobar",
+    "pianobar-debuginfo": "pianobar",
+    "pianobar-debugsource": "pianobar",
+    "projectM": "projectm",
+    "projectM-data": "projectm",
+    "projectM-debuginfo": "projectm",
+    "projectM-debugsource": "projectm",
+    "projectM-devel": "projectm",
+    "python3": "python@3",
+    "python3-csound": "csound",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python311-eyed3": "eye-d3",
+    "python313-eyed3": "eye-d3",
+    "python314-eyed3": "eye-d3"
+  }
+}

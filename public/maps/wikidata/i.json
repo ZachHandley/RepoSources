@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wikidata",
+    "shard": "i",
+    "total_mappings": 27
+  },
+  "mappings": {
+    "I2P": "i2p",
+    "INSTEAD": "instead",
+    "IPython": "ipython",
+    "Icecast": "icecast",
+    "Incus": "incus",
+    "InfluxDB": "influxdb",
+    "Insight Segmentation and Registration Toolkit": "itk",
+    "InspIRCd": "inspircd",
+    "International Chemical Identifier software": "inchi",
+    "International Components for Unicode": "icu4c@74",
+    "Irrlicht Engine": "irrlicht",
+    "Irssi": "irssi",
+    "i2pd": "i2pd",
+    "icdiff": "icdiff",
+    "id3v2": "id3v2",
+    "iftop": "iftop",
+    "igraph": "igraph",
+    "imlib2": "imlib2",
+    "inspectrum": "inspectrum",
+    "iproute2": "iproute2",
+    "iptables": "iptables",
+    "iputils": "iputils",
+    "ipv6toolkit": "ipv6toolkit",
+    "ircII": "ircii",
+    "ispc": "ispc",
+    "ispell": "ispell",
+    "isync": "isync"
+  }
+}

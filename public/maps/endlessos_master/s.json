@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "endlessos_master",
+    "shard": "s",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "sntp": "ntp",
+    "ssh": "openssh",
+    "ssh-askpass-gnome": "openssh",
+    "systemd": "systemd",
+    "systemd-boot": "systemd",
+    "systemd-boot-efi": "systemd",
+    "systemd-container": "systemd",
+    "systemd-coredump": "systemd",
+    "systemd-dev": "systemd",
+    "systemd-homed": "systemd",
+    "systemd-journal-remote": "systemd",
+    "systemd-oomd": "systemd",
+    "systemd-resolved": "systemd",
+    "systemd-standalone-sysusers": "systemd",
+    "systemd-standalone-tmpfiles": "systemd",
+    "systemd-sysv": "systemd",
+    "systemd-tests": "systemd",
+    "systemd-timesyncd": "systemd",
+    "systemd-userdbd": "systemd"
+  }
+}

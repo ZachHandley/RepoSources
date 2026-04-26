@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_38",
+    "shard": "r",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "r": "r",
+    "rapidfuzz-cpp": "rapidfuzz-cpp",
+    "rapidjson": "rapidjson",
+    "rasqal": "rasqal",
+    "rav1e": "rav1e",
+    "rdate": "rdate",
+    "rdfind": "rdfind",
+    "re2": "re2",
+    "re2c": "re2c",
+    "readline": "readline",
+    "readline-32": "readline",
+    "redland": "redland",
+    "remind": "remind",
+    "rhash": "rhash",
+    "rhit": "rhit",
+    "ripgrep": "ripgrep",
+    "rpcsvc-proto": "rpcsvc-proto",
+    "rsync": "rsync",
+    "rsyslog": "rsyslog",
+    "rtmpdump": "rtmpdump",
+    "rtmpdump-32": "rtmpdump",
+    "rtorrent": "rtorrent",
+    "rubberband": "rubberband",
+    "ruby": "ruby",
+    "ruby-doc": "ruby",
+    "ruff": "ruff",
+    "runc": "runc",
+    "rust": "rust",
+    "rust-bin": "rust",
+    "rust-wasm": "rust",
+    "rustscan": "rustscan",
+    "rustypaste": "rustypaste"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_6",
+    "shard": "w",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "waffle": "waffle",
+    "wcslib": "wcslib",
+    "wcstools": "wcstools",
+    "wdiff": "wdiff",
+    "weasyprint": "weasyprint",
+    "weechat": "weechat",
+    "wemux": "wemux",
+    "wiggle": "wiggle",
+    "wmctrl": "wmctrl",
+    "wordnet": "wordnet",
+    "wp-cli": "wp-cli",
+    "wv": "wv",
+    "wxGTK": "wxwidgets",
+    "wxGTK3": "wxwidgets",
+    "wxMaxima": "wxmaxima",
+    "wxPython": "wxpython"
+  }
+}

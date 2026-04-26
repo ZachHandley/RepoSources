@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "packman_opensuse_tumbleweed",
+    "shard": "h",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "handbrake": "handbrake",
+    "handbrake-cli": "handbrake",
+    "handbrake-debuginfo": "handbrake",
+    "handbrake-debugsource": "handbrake",
+    "handbrake-gtk": "handbrake",
+    "handbrake-gtk-lang": "handbrake",
+    "hdhomerun-config": "libhdhomerun",
+    "heif-examples": "libheif",
+    "heif-thumbnailer": "libheif"
+  }
+}

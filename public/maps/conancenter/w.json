@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "conancenter",
+    "shard": "w",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "wasm-micro-runtime": "wasm-micro-runtime",
+    "wasmedge": "wasmedge",
+    "wasmer": "wasmer",
+    "wasmtime": "wasmtime",
+    "watcher": "watcher",
+    "wayland": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "websocketpp": "websocketpp",
+    "whisper-cpp": "whisper-cpp",
+    "wildmidi": "wildmidi",
+    "wolfssl": "wolfssl",
+    "wslay": "wslay",
+    "wxwidgets": "wxwidgets"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "blackarch",
+    "shard": "d",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "dalfox": "dalfox",
+    "dc3dd": "dc3dd",
+    "dcfldd": "dcfldd",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dependency-check": "dependency-check",
+    "der-ascii": "der-ascii",
+    "detect-secrets": "detect-secrets",
+    "dex2jar": "dex2jar",
+    "dislocker": "dislocker",
+    "dmg2img": "dmg2img",
+    "dns2tcp": "dns2tcp",
+    "dnsgen": "dnsgen",
+    "dnsmap": "dnsmap",
+    "dnstracer": "dnstracer",
+    "dnstwist": "dnstwist",
+    "dnsx": "dnsx",
+    "dump1090": "dump1090-fa",
+    "dwarf": "dwarf"
+  }
+}

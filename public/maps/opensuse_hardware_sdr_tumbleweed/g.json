@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_hardware_sdr_tumbleweed",
+    "shard": "g",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "gnuradio": "gnuradio",
+    "gnuradio-bash-completion": "gnuradio",
+    "gnuradio-debuginfo": "gnuradio",
+    "gnuradio-debugsource": "gnuradio",
+    "gnuradio-devel": "gnuradio",
+    "gnuradio-doc": "gnuradio",
+    "gnuradio-examples": "gnuradio",
+    "gnuradio-fish-completion": "gnuradio",
+    "gnuradio-zsh-completion": "gnuradio",
+    "gpredict": "gpredict",
+    "gpredict-debuginfo": "gpredict",
+    "gpredict-debugsource": "gpredict",
+    "gpredict-lang": "gpredict"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "j",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "jansson": "jansson",
+    "jasper": "jasper",
+    "jbig2dec": "jbig2dec",
+    "jbigkit": "jbigkit",
+    "joe": "joe",
+    "john": "john",
+    "jove": "jove",
+    "jpeginfo": "jpeginfo",
+    "jpegoptim": "jpegoptim",
+    "json-c": "json-c"
+  }
+}

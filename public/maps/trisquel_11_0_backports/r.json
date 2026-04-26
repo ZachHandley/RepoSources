@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "trisquel_11_0_backports",
+    "shard": "r",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "rpki-client": "rpki-client",
+    "ruby-notmuch": "notmuch",
+    "rust-1.76-all": "rust",
+    "rust-1.76-clippy": "rust",
+    "rust-1.76-doc": "rust",
+    "rust-1.76-gdb": "rust",
+    "rust-1.76-lldb": "rust",
+    "rust-1.76-src": "rust",
+    "rust-1.82-all": "rust",
+    "rust-1.82-clippy": "rust",
+    "rust-1.82-doc": "rust",
+    "rust-1.82-gdb": "rust",
+    "rust-1.82-lldb": "rust",
+    "rust-1.82-src": "rust",
+    "rust-all": "rust",
+    "rust-clippy": "rust",
+    "rust-doc": "rust",
+    "rust-gdb": "rust",
+    "rust-lldb": "rust",
+    "rust-src": "rust",
+    "rustc": "rust",
+    "rustc-1.76": "rust",
+    "rustc-1.82": "rust",
+    "rustfmt": "rust",
+    "rustfmt-1.76": "rust",
+    "rustfmt-1.82": "rust"
+  }
+}

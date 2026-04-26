@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_security_tumbleweed",
+    "shard": "c",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "ccrypt": "ccrypt",
+    "ccrypt-debuginfo": "ccrypt",
+    "ccrypt-debugsource": "ccrypt",
+    "ccrypt-emacs": "ccrypt",
+    "ccrypt-lang": "ccrypt",
+    "cdk": "cdk",
+    "cdk-debuginfo": "cdk",
+    "cdk-debugsource": "cdk",
+    "cdk-devel": "cdk",
+    "chkrootkit": "chkrootkit",
+    "chkrootkit-debuginfo": "chkrootkit",
+    "chkrootkit-debugsource": "chkrootkit",
+    "clair": "clair",
+    "clair-debuginfo": "clair",
+    "clair-debugsource": "clair",
+    "clairctl": "clair",
+    "clamav": "clamav",
+    "clamav-debuginfo": "clamav",
+    "clamav-debugsource": "clamav",
+    "clamav-devel": "clamav",
+    "clamav-docs-html": "clamav",
+    "clamav-milter": "clamav",
+    "corkscrew": "corkscrew",
+    "corkscrew-debuginfo": "corkscrew",
+    "corkscrew-debugsource": "corkscrew",
+    "cosign": "cosign",
+    "cosign-bash-completion": "cosign",
+    "cosign-debuginfo": "cosign",
+    "cosign-debugsource": "cosign",
+    "cosign-fish-completion": "cosign",
+    "cosign-zsh-completion": "cosign"
+  }
+}

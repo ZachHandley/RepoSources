@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "r",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "rdfind": "rdfind",
+    "re2c": "re2c",
+    "readline": "readline",
+    "readline-dev": "readline",
+    "rrdtool": "rrdtool",
+    "rrdtool-dev": "rrdtool",
+    "rrdtool-doc": "rrdtool",
+    "rrdtool-lite": "rrdtool",
+    "rrdtool-man": "rrdtool",
+    "rrdtool-perl": "rrdtool",
+    "rrdtool-python": "rrdtool",
+    "rsync": "rsync",
+    "rtmpdump": "rtmpdump",
+    "rtmpdump-dev": "rtmpdump",
+    "ruby": "ruby",
+    "ruby-dev": "ruby",
+    "rust": "rust",
+    "rust-cargo": "rust"
+  }
+}

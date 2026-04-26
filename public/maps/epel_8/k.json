@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_8",
+    "shard": "k",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "kakoune": "kakoune",
+    "kcat": "kcat",
+    "kea": "kea",
+    "keychain": "keychain",
+    "keydb": "keydb",
+    "kf5-gpgmepp": "gpgmepp",
+    "kf5-karchive": "karchive",
+    "kf5-kdoctools": "kdoctools",
+    "kf5-ki18n": "ki18n",
+    "kf5-threadweaver": "threadweaver",
+    "kim-api": "kim-api",
+    "klavaro": "klavaro",
+    "knot": "knot",
+    "knot-resolver": "knot-resolver",
+    "koji": "koji",
+    "kokkos": "kokkos",
+    "kpcli": "kpcli",
+    "kstart": "kstart",
+    "kyua": "kyua"
+  }
+}

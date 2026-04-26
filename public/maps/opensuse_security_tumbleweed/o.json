@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_security_tumbleweed",
+    "shard": "o",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "oath-toolkit": "oath-toolkit",
+    "oath-toolkit-debuginfo": "oath-toolkit",
+    "oath-toolkit-debugsource": "oath-toolkit",
+    "oath-toolkit-xml": "oath-toolkit",
+    "opa": "opa",
+    "opa-bash-completion": "opa",
+    "opa-debuginfo": "opa",
+    "opa-debugsource": "opa",
+    "opa-fish-completion": "opa",
+    "opa-zsh-completion": "opa",
+    "openbao": "openbao",
+    "openbao-agent": "openbao",
+    "openbao-cassandra-database-plugin": "openbao",
+    "openbao-debuginfo": "openbao",
+    "openbao-debugsource": "openbao",
+    "openbao-influxdb-database-plugin": "openbao",
+    "openbao-mysql-database-plugin": "openbao",
+    "openbao-mysql-legacy-database-plugin": "openbao",
+    "openbao-postgresql-database-plugin": "openbao",
+    "openbao-server": "openbao",
+    "openssl-dev": "openssl@3",
+    "osv-scanner": "osv-scanner",
+    "osv-scanner-debuginfo": "osv-scanner",
+    "osv-scanner-debugsource": "osv-scanner"
+  }
+}

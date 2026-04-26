@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_13_backports",
+    "shard": "q",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "qml6-module-qtquick-pdf": "qt",
+    "qml6-module-qtwebengine": "qt",
+    "qml6-module-qtwebengine-controlsdelegates": "qt",
+    "qt6-image-formats-plugin-pdf": "qt",
+    "qt6-pdf-dev": "qt",
+    "qt6-pdf-private-dev": "qt",
+    "qt6-webengine": "qt",
+    "qt6-webengine-dev": "qt",
+    "qt6-webengine-dev-tools": "qt",
+    "qt6-webengine-doc": "qt",
+    "qt6-webengine-doc-dev": "qt",
+    "qt6-webengine-doc-html": "qt",
+    "qt6-webengine-examples": "qt",
+    "qt6-webengine-private-dev": "qt"
+  }
+}

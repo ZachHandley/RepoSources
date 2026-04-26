@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_12_backports",
+    "shard": "y",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "yara": "yara",
+    "yara-doc": "yara",
+    "yt-dlp": "yt-dlp"
+  }
+}

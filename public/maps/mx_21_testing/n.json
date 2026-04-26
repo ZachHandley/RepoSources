@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_21_testing",
+    "shard": "n",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "nasm": "nasm",
+    "neomutt": "neomutt",
+    "nghttp3": "libnghttp3",
+    "nicotine": "nicotine-plus",
+    "nicotine-plus": "nicotine-plus",
+    "nodejs": "node",
+    "nut": "nut",
+    "nut-cgi": "nut",
+    "nut-client": "nut",
+    "nut-doc": "nut",
+    "nut-i2c": "nut",
+    "nut-ipmi": "nut",
+    "nut-modbus": "nut",
+    "nut-monitor": "nut",
+    "nut-powerman-pdu": "nut",
+    "nut-server": "nut",
+    "nut-snmp": "nut",
+    "nut-xml": "nut"
+  }
+}

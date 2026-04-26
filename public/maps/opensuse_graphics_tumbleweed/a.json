@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_graphics_tumbleweed",
+    "shard": "a",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "alembic": "alembic",
+    "alembic-debuginfo": "alembic",
+    "alembic-debugsource": "alembic",
+    "alembic-devel": "alembic",
+    "ansilove": "ansilove",
+    "ansilove-debuginfo": "ansilove",
+    "ansilove-debugsource": "ansilove",
+    "autotrace": "autotrace",
+    "autotrace-debuginfo": "autotrace",
+    "autotrace-debugsource": "autotrace",
+    "autotrace-devel": "autotrace",
+    "autotrace-lang": "autotrace"
+  }
+}

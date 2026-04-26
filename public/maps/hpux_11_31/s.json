@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "hpux_11_31",
+    "shard": "s",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "samba": "samba",
+    "screen": "screen",
+    "scrub": "scrub",
+    "sed": "gnu-sed",
+    "shtool": "shtool",
+    "siege": "siege",
+    "smpeg": "smpeg",
+    "snort": "snort",
+    "sntop": "sntop",
+    "splint": "splint",
+    "sqlite": "sqlite",
+    "squid": "squid",
+    "subversion": "subversion",
+    "surfraw": "surfraw",
+    "swig": "swig",
+    "sylpheed": "sylpheed",
+    "syslog_ng": "syslog-ng"
+  }
+}

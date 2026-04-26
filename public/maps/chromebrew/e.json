@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chromebrew",
+    "shard": "e",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "e2fsprogs": "e2fsprogs",
+    "ecasound": "ecasound",
+    "ed": "ed",
+    "edit": "msedit",
+    "editorconfig_core_c": "editorconfig",
+    "eigen": "eigen",
+    "electric": "electric",
+    "elfutils": "elfutils",
+    "elixir": "elixir",
+    "elvish": "elvish",
+    "emacs": "emacs",
+    "embree": "embree",
+    "enchant": "enchant",
+    "enet": "enet",
+    "enscript": "enscript",
+    "entr": "entr",
+    "erlang": "erlang",
+    "etcd": "etcd",
+    "ettercap": "ettercap",
+    "ettercap_gtk": "ettercap",
+    "evince": "evince",
+    "exempi": "exempi",
+    "exif": "exif",
+    "expat": "expat",
+    "expect": "expect",
+    "extra_cmake_modules": "extra-cmake-modules"
+  }
+}

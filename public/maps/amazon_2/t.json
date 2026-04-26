@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "amazon_2",
+    "shard": "t",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "t1lib": "t1lib",
+    "t1utils": "t1utils",
+    "taglib": "taglib",
+    "tar": "gnu-tar",
+    "tbb": "tbb",
+    "tcpdump": "tcpdump",
+    "tcsh": "tcsh",
+    "texi2html": "texi2html",
+    "texinfo": "texinfo",
+    "texlive": "texlive",
+    "tigervnc": "tiger-vnc",
+    "time": "gnu-time",
+    "tmpwatch": "tmpwatch",
+    "tmux": "tmux",
+    "tokyocabinet": "tokyo-cabinet",
+    "tomcat": "tomcat",
+    "tomcat-native": "tomcat-native",
+    "tree": "tree",
+    "tzdata": "tzdb"
+  }
+}

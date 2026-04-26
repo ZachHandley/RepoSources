@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_13_backports",
+    "shard": "g",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "gallery-dl": "gallery-dl",
+    "gdb": "gdb",
+    "gdb-minimal": "gdb",
+    "gdb-multiarch": "gdb",
+    "gdb-source": "gdb",
+    "gdbserver": "gdb",
+    "gir1.2-atk-1.0": "at-spi2-core",
+    "gir1.2-atspi-2.0": "at-spi2-core",
+    "gir1.2-fwupd-2.0": "fwupd",
+    "gir1.2-wp-0.5": "wireplumber",
+    "gl2ps": "gl2ps",
+    "glaze": "glaze",
+    "gocryptfs": "gocryptfs",
+    "golang-1.24": "go",
+    "golang-1.24-doc": "go",
+    "golang-1.24-go": "go",
+    "golang-1.24-src": "go",
+    "golang-etcd-server-dev": "etcd",
+    "golang-sigsum-sigsum-go-dev": "sigsum-go",
+    "gstreamer1.0-pipewire": "pipewire",
+    "gwenhywfar-tools": "gwenhywfar"
+  }
+}

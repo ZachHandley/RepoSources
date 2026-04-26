@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "k",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "kmod": "kmod",
+    "kmod-dev": "kmod",
+    "knock": "knock",
+    "krb5": "krb5",
+    "krb5-clients": "krb5",
+    "krb5-dev": "krb5",
+    "krb5-plugins": "krb5",
+    "krb5-user": "krb5"
+  }
+}

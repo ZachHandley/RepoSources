@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kaos",
+    "shard": "b",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "b43-fwcutter": "b43-fwcutter",
+    "babl": "babl",
+    "bash": "bash",
+    "bash-completion": "bash-completion",
+    "bash-language-server": "bash-language-server",
+    "bc": "bc",
+    "benchmark": "google-benchmark",
+    "binutils": "binutils",
+    "bison": "bison",
+    "bitcoin": "bitcoin",
+    "bluez": "bluez",
+    "boost": "boost",
+    "boost-libs": "boost",
+    "botan": "botan",
+    "brotli": "brotli",
+    "btop": "btop",
+    "btrfs-progs": "btrfs-progs",
+    "bubblewrap": "bubblewrap",
+    "bzip2": "bzip2"
+  }
+}

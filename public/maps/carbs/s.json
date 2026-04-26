@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "carbs",
+    "shard": "s",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "samurai": "samurai",
+    "sassc": "sassc",
+    "scdoc": "scdoc",
+    "shared-mime-info": "shared-mime-info",
+    "shellcheck-bin": "shellcheck",
+    "shellspec": "shellspec",
+    "smu": "smu",
+    "spirv-headers": "spirv-headers",
+    "spirv-llvm-translator": "spirv-llvm-translator",
+    "spirv-tools": "spirv-tools",
+    "sqlite": "sqlite",
+    "syncthing": "syncthing"
+  }
+}

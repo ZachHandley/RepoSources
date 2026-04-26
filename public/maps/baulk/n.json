@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "baulk",
+    "shard": "n",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "nasm": "nasm",
+    "neovim": "neovim",
+    "ninja": "ninja",
+    "nmap": "nmap",
+    "nodejs": "node",
+    "nodejs-lts": "node",
+    "nsis": "makensis",
+    "nu": "nushell",
+    "nuget": "nuget"
+  }
+}

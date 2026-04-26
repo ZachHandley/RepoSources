@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "packman_opensuse_tumbleweed",
+    "shard": "d",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "darkice": "darkice",
+    "darkice-debuginfo": "darkice",
+    "darkice-debugsource": "darkice",
+    "dcadec": "dcadec",
+    "dcadec-debuginfo": "dcadec",
+    "dcadec-debugsource": "dcadec",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "di": "di",
+    "di-debuginfo": "di",
+    "di-debugsource": "di",
+    "di-devel": "di",
+    "dvdbackup": "dvdbackup",
+    "dvdbackup-debuginfo": "dvdbackup",
+    "dvdbackup-debugsource": "dvdbackup",
+    "dvdbackup-lang": "dvdbackup"
+  }
+}

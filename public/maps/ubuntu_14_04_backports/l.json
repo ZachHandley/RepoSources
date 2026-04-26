@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_14_04_backports",
+    "shard": "l",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "libapache2-mod-macro": "httpd",
+    "libapache2-mod-proxy-html": "httpd",
+    "libastyle-dev": "astyle",
+    "libastyle0debian0": "astyle",
+    "libastylej-jni": "astyle",
+    "libfl-dev": "flex",
+    "libiperf-dev": "iperf3",
+    "libiperf0": "iperf3",
+    "liblmdb-dev": "lmdb",
+    "liblmdb0": "lmdb",
+    "libosmgpsmap-1.0-0": "osm-gps-map",
+    "libosmgpsmap-1.0-0-dbg": "osm-gps-map",
+    "libosmgpsmap-1.0-dev": "osm-gps-map",
+    "libseccomp": "libseccomp",
+    "libseccomp-dev": "libseccomp",
+    "libseccomp2": "libseccomp",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3",
+    "libtinyxml2-2": "tinyxml",
+    "libtinyxml2-dev": "tinyxml",
+    "lmdb": "lmdb",
+    "lmdb-dbg": "lmdb",
+    "lmdb-doc": "lmdb",
+    "lmdb-utils": "lmdb",
+    "lxc2": "lxc",
+    "lxd": "lxc",
+    "lxd-client": "lxc",
+    "lxd-tools": "lxc"
+  }
+}

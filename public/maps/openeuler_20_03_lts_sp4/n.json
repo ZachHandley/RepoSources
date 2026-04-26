@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openeuler_20_03_lts_sp4",
+    "shard": "n",
+    "total_mappings": 27
+  },
+  "mappings": {
+    "nagios": "nagios",
+    "nagios-plugins": "nagios-plugins",
+    "nano": "nano",
+    "nasm": "nasm",
+    "ncompress": "ncompress",
+    "ncurses": "ncurses",
+    "neon": "neon",
+    "net-snmp": "net-snmp",
+    "net-tools": "net-tools",
+    "netcdf": "netcdf",
+    "netpbm": "netpbm",
+    "nettle": "nettle",
+    "newt": "newt",
+    "nftables": "nftables",
+    "nghttp2": "nghttp2",
+    "nginx": "nginx",
+    "ninja-build": "ninja",
+    "nmap": "nmap",
+    "nodejs": "node",
+    "nodejs-semver": "semver",
+    "npth": "npth",
+    "nspr": "nspr",
+    "nss": "nss",
+    "ntfs-3g": "ntfs-3g",
+    "ntp": "ntp",
+    "numactl": "numactl",
+    "numpy": "numpy"
+  }
+}

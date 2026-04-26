@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "archpower_riscv64",
+    "shard": "k",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "karchive": "karchive",
+    "karchive5": "karchive",
+    "kdoctools": "kdoctools",
+    "kdoctools5": "kdoctools",
+    "keyutils": "keyutils",
+    "ki18n": "ki18n",
+    "ki18n5": "ki18n",
+    "kmod": "kmod",
+    "kotlin": "kotlin",
+    "krb5": "krb5",
+    "ktexttemplate": "ktexttemplate"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pclinuxos",
+    "shard": "u",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "uchardet": "uchardet",
+    "ucl": "ucl",
+    "udunits2": "udunits",
+    "ugrep": "ugrep",
+    "uhd": "uhd",
+    "umockdev": "umockdev",
+    "unar": "unar",
+    "unbound": "unbound",
+    "unifdef": "unifdef",
+    "unison": "unison",
+    "unittest-cpp": "unittest-cpp",
+    "unixODBC": "unixodbc",
+    "unoconv": "unoconv",
+    "unp": "unp",
+    "unpaper": "unpaper",
+    "unrtf": "unrtf",
+    "unshield": "unshield",
+    "unzip": "unzip",
+    "uptimed": "uptimed",
+    "upx": "upx",
+    "uriparser": "uriparser",
+    "urlview": "urlview",
+    "usbredir": "usbredir",
+    "usbutils": "usbutils",
+    "userspace-rcu": "userspace-rcu",
+    "utf8cpp": "utf8cpp",
+    "utf8proc": "utf8proc",
+    "uthash": "uthash",
+    "util-linux-ng": "gnu-getopt",
+    "uudeview": "uudeview"
+  }
+}

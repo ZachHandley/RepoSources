@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_6",
+    "shard": "h",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "halibut": "halibut",
+    "hamlib": "hamlib",
+    "harfbuzz": "harfbuzz",
+    "hdf5": "hdf5",
+    "healpix": "healpix",
+    "heimdal": "heimdal",
+    "hercules": "hercules",
+    "highlight": "highlight",
+    "html2text": "html2text",
+    "htmldoc": "htmldoc",
+    "htop": "htop",
+    "httping": "httping",
+    "httpry": "httpry",
+    "httrack": "httrack",
+    "hydra": "hydra",
+    "hypre": "hypre"
+  }
+}

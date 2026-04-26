@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_emulators_tumbleweed",
+    "shard": "p",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "pcre": "pcre",
+    "pcre-debuginfo": "pcre",
+    "pcre-debugsource": "pcre",
+    "pcre-devel": "pcre",
+    "pcre-devel-static": "pcre",
+    "pcre-doc": "pcre",
+    "pcre-testsuite": "pcre",
+    "pcre-tools": "pcre",
+    "png++": "png++",
+    "png++-devel": "png++",
+    "ppsspp": "ppsspp",
+    "ppsspp-common": "ppsspp",
+    "ppsspp-debuginfo": "ppsspp",
+    "ppsspp-debugsource": "ppsspp",
+    "ppsspp-headless": "ppsspp",
+    "ppsspp-qt": "ppsspp",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

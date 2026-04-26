@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pypi",
+    "shard": "g",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "Glances": "glances",
+    "gcovr": "gcovr",
+    "gdtoolkit": "gdtoolkit",
+    "getdns": "getdns",
+    "getgauge-cli": "gauge",
+    "getmail": "getmail6",
+    "getmail6": "getmail6",
+    "gi-docgen": "gi-docgen",
+    "git-big-picture": "git-big-picture",
+    "git-delete-merged-branches": "git-delete-merged-branches",
+    "git-review": "git-review",
+    "git-revise": "git-revise",
+    "git-up": "pygitup",
+    "gobject": "pygobject3",
+    "gprof2dot": "gprof2dot",
+    "graph-tool": "graph-tool",
+    "grip": "grip",
+    "grokmirror": "grokmirror"
+  }
+}

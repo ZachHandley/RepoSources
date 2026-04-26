@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "salix_14_2",
+    "shard": "l",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "lame": "lame",
+    "lapack": "lapack",
+    "libass": "libass",
+    "libbluray": "libbluray",
+    "libcuefile": "libcuefile",
+    "libdaemon": "libdaemon",
+    "libdca": "libdca",
+    "libdv": "libdv",
+    "libdvdcss": "libdvdcss",
+    "libetpan": "libetpan",
+    "libgdata": "libgdata",
+    "libgee": "libgee",
+    "libgexiv2": "gexiv2",
+    "libgtop": "libgtop",
+    "libgusb": "libgusb",
+    "libisofs": "libisofs",
+    "libkate": "libkate",
+    "libmms": "libmms",
+    "libmodplug": "libmodplug",
+    "libmpeg2": "libmpeg2",
+    "libmusicbrainz": "libmusicbrainz",
+    "liboauth": "liboauth",
+    "libpaper": "libpaper",
+    "libquicktime": "libquicktime",
+    "libreplaygain": "libreplaygain",
+    "libshout": "libshout",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3",
+    "libtorrent-rasterbar": "libtorrent-rasterbar",
+    "libwebp": "webp",
+    "libxkbcommon": "libxkbcommon",
+    "libxml++": "libxml++"
+  }
+}

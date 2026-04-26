@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openwrt_24_10_x86_64",
+    "shard": "k",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "kcptun-client": "kcptun",
+    "kcptun-config": "kcptun",
+    "kcptun-server": "kcptun",
+    "kea-admin": "kea",
+    "kea-ctrl": "kea",
+    "kea-dhcp-ddns": "kea",
+    "kea-dhcp4": "kea",
+    "kea-dhcp6": "kea",
+    "kea-hook-ha": "kea",
+    "kea-hook-lease-cmds": "kea",
+    "kea-lfc": "kea",
+    "kea-libs": "kea",
+    "kea-perfdhcp": "kea",
+    "kea-shell": "kea",
+    "kea-uci": "kea",
+    "keyctl": "keyutils",
+    "keyutils": "keyutils",
+    "kmod": "kmod",
+    "knot": "knot",
+    "knot-dig": "knot",
+    "knot-host": "knot",
+    "knot-keymgr": "knot",
+    "knot-libs": "knot",
+    "knot-libzscanner": "knot",
+    "knot-nsupdate": "knot",
+    "knot-resolver": "knot-resolver",
+    "knot-tests": "knot",
+    "knot-zonecheck": "knot",
+    "krb5-client": "krb5",
+    "krb5-libs": "krb5",
+    "krb5-server": "krb5",
+    "krb5-server-extras": "krb5"
+  }
+}

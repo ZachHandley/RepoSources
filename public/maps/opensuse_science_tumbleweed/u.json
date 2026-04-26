@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_science_tumbleweed",
+    "shard": "u",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "udunits-compat": "udunits",
+    "udunits-compat-devel": "udunits",
+    "udunits2": "udunits",
+    "udunits2-debuginfo": "udunits",
+    "udunits2-debugsource": "udunits",
+    "udunits2-devel": "udunits",
+    "uthash": "uthash",
+    "uthash-devel": "uthash"
+  }
+}

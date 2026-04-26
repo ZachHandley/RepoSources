@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_shells_tumbleweed",
+    "shard": "m",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "mksh": "mksh",
+    "mksh-debuginfo": "mksh",
+    "mksh-debugsource": "mksh"
+  }
+}

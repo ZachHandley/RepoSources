@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "spack",
+    "shard": "k",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "kafka": "kafka",
+    "kahip": "kahip",
+    "kakoune": "kakoune",
+    "kalign": "kalign",
+    "kallisto": "kallisto",
+    "kcov": "kcov",
+    "kea": "kea",
+    "keyutils": "keyutils",
+    "kim-api": "kim-api",
+    "kmod": "kmod",
+    "kokkos": "kokkos",
+    "kraken2": "kraken2",
+    "krb5": "krb5",
+    "kubectl": "kubernetes-cli",
+    "kubernetes": "kubernetes-cli",
+    "kyotocabinet": "kyoto-cabinet"
+  }
+}

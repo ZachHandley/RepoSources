@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_04_proposed",
+    "shard": "p",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "peg": "peg",
+    "picotool": "picotool",
+    "pistache": "pistache",
+    "pyinstaller": "pyinstaller",
+    "python3": "python@3",
+    "python3-datalad": "datalad",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python3-pyinstaller": "pyinstaller"
+  }
+}

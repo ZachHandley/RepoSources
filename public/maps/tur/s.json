@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "tur",
+    "shard": "s",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "s-nail": "s-nail",
+    "schilytools": "star",
+    "sdl-gfx": "sdl_gfx",
+    "slowhttptest": "slowhttptest",
+    "smartdns": "smartdns",
+    "stern": "stern",
+    "sttr": "sttr",
+    "suitesparse": "suite-sparse",
+    "sundials": "sundials",
+    "svgbob": "svgbob"
+  }
+}

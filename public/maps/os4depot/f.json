@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "os4depot",
+    "shard": "f",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "faac.lha": "faac",
+    "faad2.lha": "faad2",
+    "ffmpeg.lha": "ffmpeg",
+    "fftw-single.lha": "fftw",
+    "fftw.lha": "fftw",
+    "fheroes2.lha": "fheroes2",
+    "figlet.lha": "figlet",
+    "flac.lha": "flac",
+    "flawfinder.lha": "flawfinder",
+    "flex.lha": "flex",
+    "fltk.lha": "fltk",
+    "fontforge.lha": "fontforge",
+    "fpc.lha": "fpc",
+    "fred.lha": "fred",
+    "freealut.lha": "freealut",
+    "freeciv-sdl.lha": "freeciv",
+    "freedink.lha": "freedink",
+    "freeimage.lha": "freeimage",
+    "frotz.lha": "frotz"
+  }
+}

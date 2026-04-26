@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "packman_sle_15",
+    "shard": "l",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "libass": "libass",
+    "libde265": "libde265",
+    "libhdhomerun": "libhdhomerun",
+    "libheif": "libheif",
+    "libmp3splt": "libmp3splt",
+    "libnfs": "libnfs",
+    "libquicktime": "libquicktime",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3",
+    "libx264": "x264"
+  }
+}

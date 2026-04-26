@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "distri",
+    "shard": "s",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "screen": "screen",
+    "sdl2": "sdl2",
+    "sed": "gnu-sed",
+    "shared-mime-info": "shared-mime-info",
+    "silversearcher": "the_silver_searcher",
+    "sqlite3": "sqlite",
+    "squashfs": "squashfs",
+    "sshfs": "sshfs",
+    "startup-notification": "startup-notification",
+    "strace": "strace",
+    "swig": "swig",
+    "systemd": "systemd"
+  }
+}

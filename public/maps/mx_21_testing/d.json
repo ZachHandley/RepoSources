@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_21_testing",
+    "shard": "d",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "dav1d": "dav1d",
+    "ddcutil": "ddcutil",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "designer-qt6": "qt",
+    "dillo": "dillo",
+    "dpkg": "dpkg",
+    "dpkg-dev": "dpkg",
+    "dsda-doom": "dsda-doom",
+    "dselect": "dpkg",
+    "durdraw": "durdraw",
+    "dwm": "dwm"
+  }
+}

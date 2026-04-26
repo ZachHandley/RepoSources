@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_22_04_backports",
+    "shards": [
+      "b",
+      "c",
+      "d",
+      "e",
+      "g",
+      "l",
+      "n",
+      "o",
+      "p",
+      "r",
+      "y"
+    ],
+    "total_mappings": 36
+  }
+}

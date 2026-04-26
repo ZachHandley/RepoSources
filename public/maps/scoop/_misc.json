@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scoop",
+    "shard": "_misc",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "7zip": "sevenzip",
+    "7zip-beta": "sevenzip",
+    "7zip19.00-helper": "sevenzip"
+  }
+}

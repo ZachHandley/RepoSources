@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_games_tumbleweed",
+    "shard": "i",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "instead": "instead",
+    "instead-debuginfo": "instead",
+    "instead-debugsource": "instead",
+    "instead-docs": "instead",
+    "irrlicht": "irrlicht",
+    "irrlicht-data": "irrlicht",
+    "irrlicht-debuginfo": "irrlicht",
+    "irrlicht-debugsource": "irrlicht",
+    "irrlicht-devel": "irrlicht"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "hpux_11_31",
+    "shard": "q",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "qdbm": "qdbm",
+    "qpdf": "qpdf",
+    "qstat": "qstat"
+  }
+}

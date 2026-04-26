@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rocky_8",
+    "shard": "a",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "a52dec": "a52dec",
+    "acl": "acl",
+    "acpica-tools": "acpica",
+    "adwaita-icon-theme": "adwaita-icon-theme",
+    "alsa-lib": "alsa-lib",
+    "ant": "ant",
+    "ant-contrib": "ant-contrib",
+    "antlr": "antlr",
+    "apache-ivy": "ivy",
+    "apr": "apr",
+    "apr-util": "apr-util",
+    "asciidoc": "asciidoc",
+    "asio": "asio",
+    "aspell": "aspell",
+    "at-spi2-core": "at-spi2-core",
+    "atkmm": "atkmm",
+    "attr": "attr",
+    "augeas": "augeas",
+    "autoconf": "autoconf",
+    "autoconf-archive": "autoconf-archive",
+    "autoconf213": "autoconf",
+    "autogen": "autogen",
+    "automake": "automake",
+    "autotrace": "autotrace",
+    "avahi": "avahi",
+    "awscli": "awscli"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubi_8",
+    "shard": "m",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "m4": "m4",
+    "make": "make",
+    "man-db": "man-db",
+    "mariadb-connector-c": "mariadb-connector-c",
+    "maven": "maven",
+    "mcpp": "mcpp",
+    "memcached": "memcached",
+    "mesa": "mesa",
+    "mesa-libGLU": "mesa-glu",
+    "meson": "meson",
+    "mozjs52": "spidermonkey",
+    "mozjs60": "spidermonkey",
+    "mpdecimal": "mpdecimal",
+    "mpfr": "mpfr",
+    "mtr": "mtr"
+  }
+}

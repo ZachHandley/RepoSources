@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_main",
+    "shard": "m",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "m4": "m4",
+    "make": "make",
+    "mandoc": "mandoc",
+    "mesa": "mesa",
+    "meson": "meson",
+    "mold": "mold",
+    "mpfr": "mpfr",
+    "mpv": "mpv",
+    "mutt": "mutt"
+  }
+}

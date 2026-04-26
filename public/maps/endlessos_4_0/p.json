@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "endlessos_4_0",
+    "shard": "p",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "pam": "linux-pam",
+    "perlmagick": "imagemagick",
+    "policykit-1": "polkit",
+    "policykit-1-doc": "polkit",
+    "pulseaudio": "pulseaudio",
+    "pulseaudio-equalizer": "pulseaudio",
+    "pulseaudio-module-bluetooth": "pulseaudio",
+    "pulseaudio-module-gsettings": "pulseaudio",
+    "pulseaudio-module-jack": "pulseaudio",
+    "pulseaudio-module-lirc": "pulseaudio",
+    "pulseaudio-module-raop": "pulseaudio",
+    "pulseaudio-module-zeroconf": "pulseaudio",
+    "pulseaudio-utils": "pulseaudio",
+    "python3": "python@3",
+    "python3-cracklib": "cracklib",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "apertis_v2023",
+    "shard": "k",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "keyutils": "keyutils",
+    "khronos-opencl-clhpp": "opencl-clhpp-headers",
+    "khronos-opencl-headers": "opencl-headers",
+    "kmod": "kmod",
+    "kmod-udeb": "kmod",
+    "krb5": "krb5",
+    "krb5-admin-server": "krb5",
+    "krb5-doc": "krb5",
+    "krb5-gss-samples": "krb5",
+    "krb5-k5tls": "krb5",
+    "krb5-kdc": "krb5",
+    "krb5-kdc-ldap": "krb5",
+    "krb5-kpropd": "krb5",
+    "krb5-locales": "krb5",
+    "krb5-multidev": "krb5",
+    "krb5-otp": "krb5",
+    "krb5-pkinit": "krb5",
+    "krb5-user": "krb5",
+    "kyua": "kyua"
+  }
+}

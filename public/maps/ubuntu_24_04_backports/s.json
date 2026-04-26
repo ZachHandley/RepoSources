@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_24_04_backports",
+    "shard": "s",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "sbuild": "sbuild",
+    "sbuild-debian-developer-setup": "sbuild",
+    "sbuild-qemu": "sbuild"
+  }
+}

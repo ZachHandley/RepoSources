@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "r",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "rarian": "rarian",
+    "rasqal": "rasqal",
+    "rcs": "rcs",
+    "re2c": "re2c",
+    "readline": "readline",
+    "recutils": "recutils",
+    "redis": "redis",
+    "redland": "redland",
+    "rlwrap": "rlwrap",
+    "rpm-python": "rpm",
+    "rrdtool": "rrdtool",
+    "rsync": "rsync",
+    "rsync-64bit": "rsync",
+    "rsync_64": "rsync",
+    "rsyslog": "rsyslog",
+    "ruby": "ruby",
+    "rzip": "rzip"
+  }
+}

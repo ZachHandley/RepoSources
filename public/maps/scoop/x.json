@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scoop",
+    "shard": "x",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "x264": "x264",
+    "x265": "x265",
+    "xan": "xan",
+    "xc": "xc",
+    "xdelta": "xdelta",
+    "xh": "xh",
+    "xidel": "xidel",
+    "xmake": "xmake",
+    "xmllint": "libxml2",
+    "xmlstarlet": "xmlstarlet",
+    "xmrig": "xmrig",
+    "xq": "xq",
+    "xray": "xray",
+    "xsv": "xsv",
+    "xxhash": "xxhash",
+    "xz": "xz"
+  }
+}

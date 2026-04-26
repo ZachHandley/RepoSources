@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crates_io",
+    "shard": "c",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "cargo-audit": "cargo-audit",
+    "cargo-auditable": "cargo-auditable",
+    "cargo-bloat": "cargo-bloat",
+    "cargo-c": "cargo-c",
+    "cargo-deny": "cargo-deny",
+    "cargo-edit": "cargo-edit",
+    "cargo-msrv": "cargo-msrv",
+    "cargo-zigbuild": "cargo-zigbuild",
+    "carl": "carl",
+    "cbindgen": "cbindgen",
+    "cfonts": "cfonts",
+    "checkpwn": "checkpwn",
+    "choose": "choose-rust",
+    "code2prompt": "code2prompt",
+    "comrak": "comrak",
+    "cookcli": "cookcli",
+    "coreutils": "uutils-coreutils",
+    "cot-cli": "cot",
+    "cotp": "cotp",
+    "czkawka_cli": "czkawka",
+    "czkawka_core": "czkawka",
+    "czkawka_gui": "czkawka"
+  }
+}

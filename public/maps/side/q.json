@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "side",
+    "shard": "q",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "qemu": "qemu",
+    "qman": "qman",
+    "qrencode": "qrencode",
+    "qt5-base": "qt",
+    "qt5-declarative": "qt",
+    "qt5-svg": "qt",
+    "qt5-tools": "qt",
+    "qt6-5compat": "qt",
+    "qt6-base": "qt",
+    "qt6-declarative": "qt",
+    "qt6-multimedia": "qt",
+    "qt6-shadertools": "qt",
+    "qt6-svg": "qt",
+    "qt6-tools": "qt"
+  }
+}

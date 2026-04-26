@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_multimedia_libs_tumbleweed",
+    "shard": "a",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "a52dec": "a52dec",
+    "a52dec-debuginfo": "a52dec",
+    "a52dec-debugsource": "a52dec",
+    "abseil-cpp": "abseil",
+    "abseil-cpp-debuginfo": "abseil",
+    "abseil-cpp-debugsource": "abseil",
+    "abseil-cpp-devel": "abseil",
+    "alsa": "alsa-lib",
+    "alsa-debuginfo": "alsa-lib",
+    "alsa-debugsource": "alsa-lib",
+    "alsa-devel": "alsa-lib",
+    "alsa-docs": "alsa-lib",
+    "alsa-topology-devel": "alsa-lib",
+    "aom-tools": "aom",
+    "aravis": "aravis",
+    "aravis-debuginfo": "aravis",
+    "aravis-debugsource": "aravis",
+    "aravis-viewer": "aravis",
+    "aubio": "aubio",
+    "aubio-debuginfo": "aubio",
+    "aubio-debugsource": "aubio",
+    "aubio-docs": "aubio",
+    "aubio-tools": "aubio",
+    "avif-tools": "libavif"
+  }
+}

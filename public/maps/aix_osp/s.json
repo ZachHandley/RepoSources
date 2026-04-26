@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "s",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "SDL_gfx": "sdl_gfx",
+    "s3cmd": "s3cmd",
+    "samba": "samba",
+    "schroedinger": "schroedinger",
+    "scons": "scons",
+    "screen": "screen",
+    "sed": "gnu-sed",
+    "shapelib": "shapelib",
+    "siege": "siege",
+    "sloccount": "sloccount",
+    "smake": "smake",
+    "smpeg": "smpeg",
+    "snort": "snort",
+    "socat": "socat",
+    "sox": "sox",
+    "spawn-fcgi": "spawn-fcgi",
+    "speex": "speex",
+    "splint": "splint",
+    "sqlite": "sqlite",
+    "sshpass": "sshpass",
+    "startup-notification": "startup-notification",
+    "stow": "stow",
+    "stress": "stress",
+    "stunnel": "stunnel",
+    "subversion": "subversion",
+    "swig": "swig",
+    "sysbench": "sysbench",
+    "syslog-ng": "syslog-ng"
+  }
+}

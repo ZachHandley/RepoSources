@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmsphere",
+    "shard": "q",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "qprint": "qprint",
+    "qprint-debuginfo": "qprint",
+    "qprint-debugsource": "qprint",
+    "qtads": "qtads",
+    "qtads-debuginfo": "qtads",
+    "qtads-debugsource": "qtads",
+    "quasi88": "quasi88",
+    "quasi88-debuginfo": "quasi88",
+    "quasi88-debugsource": "quasi88",
+    "quickjs": "quickjs",
+    "quickjs-debuginfo": "quickjs",
+    "quickjs-devel": "quickjs"
+  }
+}

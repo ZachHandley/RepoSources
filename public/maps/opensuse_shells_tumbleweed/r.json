@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_shells_tumbleweed",
+    "shard": "r",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "rc": "rc",
+    "readline": "readline",
+    "readline-devel": "readline",
+    "readline-devel-static": "readline",
+    "readline-doc": "readline",
+    "rush": "rush",
+    "rush-lang": "rush"
+  }
+}

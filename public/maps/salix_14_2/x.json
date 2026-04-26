@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "salix_14_2",
+    "shard": "x",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "x264": "x264",
+    "x265": "x265",
+    "xmlrpc-c": "xmlrpc-c",
+    "xvidcore": "xvid"
+  }
+}

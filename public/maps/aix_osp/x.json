@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "x",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "Xaw3d": "libxaw3d",
+    "x11vnc": "x11vnc",
+    "x264": "x264",
+    "xboard": "xboard",
+    "xcb-proto": "xcb-proto",
+    "xcb-util": "xcb-util",
+    "xdelta": "xdelta",
+    "xfig": "xfig",
+    "xmlsec1": "libxmlsec1",
+    "xmlto": "xmlto",
+    "xorg-x11-xtrans-devel": "xtrans",
+    "xorriso": "xorriso",
+    "xpdf": "xpdf",
+    "xterm": "xterm",
+    "xvidcore": "xvid",
+    "xz": "xz"
+  }
+}

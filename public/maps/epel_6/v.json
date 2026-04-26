@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_6",
+    "shard": "v",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "v8": "v8",
+    "vala": "vala",
+    "vamp-plugin-sdk": "vamp-plugin-sdk",
+    "varnish": "varnish",
+    "vcftools": "vcftools",
+    "vile": "vile",
+    "virtuoso-opensource": "virtuoso",
+    "vmtouch": "vmtouch",
+    "vnstat": "vnstat",
+    "voro++": "voro++",
+    "vtable-dumper": "vtable-dumper",
+    "vtk": "vtk",
+    "vtkdata": "vtk",
+    "vttest": "vttest"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scoop",
+    "shard": "q",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "q-dns": "q",
+    "qalculate": "libqalculate",
+    "qemu": "qemu",
+    "qpdf": "qpdf",
+    "qrcp": "qrcp",
+    "qrencode": "qrencode",
+    "qsv": "qsv",
+    "questdb": "questdb",
+    "quick-lint-js": "quick-lint-js",
+    "quickjs": "quickjs"
+  }
+}

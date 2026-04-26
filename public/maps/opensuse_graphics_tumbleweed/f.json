@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_graphics_tumbleweed",
+    "shard": "f",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "FLIF": "flif",
+    "FLIF-debuginfo": "flif",
+    "FLIF-debugsource": "flif",
+    "FLIF-devel": "flif",
+    "f3d": "f3d",
+    "f3d-bash-completion": "f3d",
+    "f3d-debuginfo": "f3d",
+    "f3d-debugsource": "f3d",
+    "f3d-devel": "f3d",
+    "f3d-fish-completion": "f3d",
+    "f3d-zsh-completion": "f3d",
+    "flickcurl": "flickcurl",
+    "flickcurl-debuginfo": "flickcurl",
+    "flickcurl-debugsource": "flickcurl",
+    "flickcurl-doc": "flickcurl",
+    "freeimage": "freeimage",
+    "freeimage-devel": "freeimage"
+  }
+}

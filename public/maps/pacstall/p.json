@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "p",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "pfetch-bin": "pfetch",
+    "pipewire": "pipewire",
+    "ppsspp-app": "ppsspp",
+    "ppsspp-git": "ppsspp",
+    "prettier": "prettier",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

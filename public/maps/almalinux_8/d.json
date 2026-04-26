@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "almalinux_8",
+    "shard": "d",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "dbus": "dbus",
+    "dbus-glib": "dbus-glib",
+    "dcraw": "dcraw",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dejagnu": "deja-gnu",
+    "delve": "delve",
+    "desktop-file-utils": "desktop-file-utils",
+    "dialog": "dialog",
+    "diffstat": "diffstat",
+    "diffutils": "diffutils",
+    "dnsmasq": "dnsmasq",
+    "docbook-style-xsl": "docbook-xsl",
+    "docbook2X": "docbook2x",
+    "dos2unix": "dos2unix",
+    "dosfstools": "dosfstools",
+    "dotnet": "dotnet",
+    "dotnet10.0": "dotnet",
+    "dotnet3.0": "dotnet",
+    "dotnet3.1": "dotnet",
+    "dotnet5.0": "dotnet",
+    "dotnet6.0": "dotnet",
+    "dotnet7.0": "dotnet",
+    "dotnet8.0": "dotnet",
+    "dotnet9.0": "dotnet",
+    "dovecot": "dovecot",
+    "doxygen": "doxygen",
+    "dtc": "dtc",
+    "dvd+rw-tools": "dvd+rw-tools"
+  }
+}

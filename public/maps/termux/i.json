@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "termux",
+    "shard": "i",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "i2c-tools": "i2c-tools",
+    "i2pd": "i2pd",
+    "iat": "iat",
+    "icecast": "icecast",
+    "icon-naming-utils": "icon-naming-utils",
+    "icoutils": "icoutils",
+    "id3lib": "id3lib",
+    "id3v2": "id3v2",
+    "imagemagick": "imagemagick",
+    "imath": "imath",
+    "imlib2": "imlib2",
+    "indent": "gnu-indent",
+    "inetutils": "inetutils",
+    "influxdb": "influxdb",
+    "innoextract": "innoextract",
+    "inotify-tools": "inotify-tools",
+    "intltool": "intltool",
+    "inxi": "inxi",
+    "iodine": "iodine",
+    "ipcalc": "ipcalc",
+    "iperf3": "iperf3",
+    "ipmitool": "ipmitool",
+    "iproute2": "iproute2",
+    "iptables": "iptables",
+    "ipv6calc": "ipv6calc",
+    "ipv6toolkit": "ipv6toolkit",
+    "ircd-irc2": "ircd-irc2",
+    "ired": "ired",
+    "irssi": "irssi",
+    "iso-codes": "iso-codes",
+    "isync": "isync",
+    "iwyu": "include-what-you-use"
+  }
+}

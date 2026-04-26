@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable",
+    "shard": "q",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "QEMU": "qemu",
+    "Qt Linguist": "qt",
+    "qemu": "qemu",
+    "qt-linguist": "qt"
+  }
+}

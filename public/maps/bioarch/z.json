@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "bioarch",
+    "shard": "z",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "zsh-theme-powerlevel10k": "powerlevel10k"
+  }
+}

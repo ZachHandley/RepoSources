@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_41",
+    "shard": "s",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "ShivaVG": "shivavg",
+    "ShivaVG-debugsource": "shivavg",
+    "ShivaVG-devel": "shivavg",
+    "ShivaVG-devel-debuginfo": "shivavg",
+    "ShivaVG-static": "shivavg",
+    "sass": "dart-sass",
+    "sccache": "sccache",
+    "sccache-debuginfo": "sccache",
+    "scrcpy": "scrcpy",
+    "scrcpy-bash-completion": "scrcpy",
+    "scrcpy-debuginfo": "scrcpy",
+    "scrcpy-debugsource": "scrcpy",
+    "scrcpy-server": "scrcpy",
+    "scrcpy-zsh-completion": "scrcpy",
+    "senpai": "senpai",
+    "senpai-debuginfo": "senpai",
+    "senpai-debugsource": "senpai",
+    "signal-cli": "signal-cli",
+    "sops": "sops",
+    "starship": "starship",
+    "starship-debuginfo": "starship"
+  }
+}

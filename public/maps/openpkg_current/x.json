@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openpkg_current",
+    "shard": "x",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "x264": "x264",
+    "x265": "x265",
+    "xapian": "xapian",
+    "xdelta": "xdelta",
+    "xerces-c": "xerces-c",
+    "xml-coreutils": "xml-coreutils",
+    "xml2rfc": "xml2rfc",
+    "xmlcatmgr": "xmlcatmgr",
+    "xmlsec": "libxmlsec1",
+    "xmlstarlet": "xmlstarlet",
+    "xmlto": "xmlto",
+    "xonsh": "xonsh",
+    "xpdf": "xpdf",
+    "xsv": "xsv",
+    "xtermcontrol": "xtermcontrol",
+    "xvid": "xvid",
+    "xxd": "vim",
+    "xxhash": "xxhash",
+    "xz": "xz"
+  }
+}

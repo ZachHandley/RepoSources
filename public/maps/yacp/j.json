@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "yacp",
+    "shard": "j",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "JAGS": "jags",
+    "janet": "janet",
+    "jcal": "jcal",
+    "jerm": "jerm",
+    "jhead": "jhead",
+    "jo": "jo",
+    "jose": "jose",
+    "joyce": "joyce",
+    "jp2a": "jp2a",
+    "jpeginfo": "jpeginfo",
+    "jshon": "jshon",
+    "jsmn": "jsmn",
+    "json-fortran": "json-fortran",
+    "json-table": "json-table",
+    "json2tsv": "json2tsv",
+    "jsonnet": "jsonnet",
+    "jsonrpc-glib": "jsonrpc-glib",
+    "juise": "juise",
+    "juman": "juman"
+  }
+}

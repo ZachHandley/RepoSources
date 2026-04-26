@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_server_irc_tumbleweed",
+    "shard": "b",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "bitlbee": "bitlbee",
+    "bitlbee-debuginfo": "bitlbee",
+    "bitlbee-debugsource": "bitlbee",
+    "bitlbee-devel": "bitlbee",
+    "bitlbee-doc": "bitlbee"
+  }
+}

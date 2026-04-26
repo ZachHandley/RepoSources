@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable64",
+    "shard": "i",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "IPFS 64 bit": "kubo",
+    "ImageMagick 64 bit": "imagemagick",
+    "imagemagick64": "imagemagick",
+    "io.mpv.mpv-64": "mpv",
+    "ipfs64": "kubo"
+  }
+}

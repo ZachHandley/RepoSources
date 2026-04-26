@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "msys2_msys2",
+    "shard": "b",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "bash": "bash",
+    "bash-completion": "bash-completion",
+    "bash-devel": "bash",
+    "bash-preexec": "bash-preexec",
+    "bc": "bc",
+    "binutils": "binutils",
+    "bison": "bison",
+    "breezy": "breezy",
+    "brotli": "brotli",
+    "brotli-devel": "brotli",
+    "brotli-testdata": "brotli",
+    "bsdcpio": "libarchive",
+    "bsdtar": "libarchive",
+    "bzip2": "bzip2"
+  }
+}

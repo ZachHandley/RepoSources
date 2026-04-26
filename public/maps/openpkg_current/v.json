@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openpkg_current",
+    "shard": "v",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "v8": "v8",
+    "vala": "vala",
+    "valgrind": "valgrind",
+    "valkey": "valkey",
+    "varnish": "varnish",
+    "vbindiff": "vbindiff",
+    "vcpkg": "vcpkg",
+    "vcprompt": "vcprompt",
+    "vegeta": "vegeta",
+    "verapdf": "verapdf",
+    "viddy": "viddy",
+    "vifm": "vifm",
+    "vile": "vile",
+    "vilistextum": "vilistextum",
+    "vim": "vim",
+    "vorbis-tools": "vorbis-tools",
+    "vsh": "vsh",
+    "vstr": "vstr",
+    "vttest": "vttest"
+  }
+}

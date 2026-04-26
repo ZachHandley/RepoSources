@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_23_testing",
+    "shard": "s",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "shaderc": "shaderc",
+    "spirv-headers": "spirv-headers",
+    "spirv-tools": "spirv-tools",
+    "squashfs-tools": "squashfs",
+    "stockfish": "stockfish"
+  }
+}

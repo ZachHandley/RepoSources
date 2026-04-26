@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openeuler_20_03_lts_sp4",
+    "shard": "w",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "wavpack": "wavpack",
+    "wayland": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "webkit2gtk3": "webkitgtk",
+    "wget": "wget",
+    "which": "gnu-which",
+    "wireshark": "wireshark",
+    "woff2": "woff2",
+    "wpebackend-fdo": "wpebackend-fdo",
+    "wxGTK3": "wxwidgets"
+  }
+}

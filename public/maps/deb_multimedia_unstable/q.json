@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "deb_multimedia_unstable",
+    "shard": "q",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "qmmp": "qmmp",
+    "qmmp-dmo": "qmmp",
+    "qmmp-plugin-projectm": "qmmp"
+  }
+}

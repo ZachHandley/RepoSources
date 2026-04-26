@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pclinuxos",
+    "shard": "y",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "yajl": "yajl",
+    "yamdi": "yamdi",
+    "yaml": "libyaml",
+    "yaml-cpp": "yaml-cpp",
+    "yasm": "yasm",
+    "yaz": "yaz",
+    "yazpp": "yazpp",
+    "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "ykpers": "ykpers",
+    "yt-dlp": "yt-dlp",
+    "yubikey": "libyubikey",
+    "yubikey-manager": "ykman"
+  }
+}

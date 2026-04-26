@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slackbuilds",
+    "shard": "r",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "ruby/passenger": "passenger",
+    "ruby/rbenv": "rbenv",
+    "ruby/ruby-build": "ruby-build",
+    "ruby/rubygem-gosu": "libgosu",
+    "ruby/rubygem-ronn": "ronn",
+    "ruby/sqlite3": "sqlite"
+  }
+}

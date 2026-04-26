@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ibmi",
+    "shard": "c",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "c-ares": "c-ares",
+    "c-ares-devel": "c-ares",
+    "c-ares-utils": "c-ares",
+    "ca-certificates": "ca-certificates",
+    "cairo": "cairo",
+    "ccache": "ccache",
+    "check": "check",
+    "cmake": "cmake",
+    "coreutils-gnu": "coreutils",
+    "cpio-gnu": "cpio",
+    "cups": "cups",
+    "cups-devel": "cups",
+    "curl": "curl",
+    "curl-devel": "curl"
+  }
+}

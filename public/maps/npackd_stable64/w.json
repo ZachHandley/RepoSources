@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable64",
+    "shard": "w",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "Wireshark 64 bit": "wireshark"
+  }
+}

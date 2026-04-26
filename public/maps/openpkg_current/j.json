@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openpkg_current",
+    "shard": "j",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "jansson": "jansson",
+    "jaq": "jaq",
+    "jasmin": "jasmin",
+    "jasper": "jasper",
+    "javacc": "javacc",
+    "jemalloc": "jemalloc",
+    "jenkins": "jenkins",
+    "jflex": "jflex",
+    "jid": "jid",
+    "jjui": "jjui",
+    "joe": "joe",
+    "john": "john",
+    "jpeg": "jpeg",
+    "jpegoptim": "jpegoptim",
+    "jq": "jq",
+    "js": "spidermonkey",
+    "json2hcl": "json2hcl",
+    "jsonlint": "jsonlint",
+    "jsonnet": "jsonnet",
+    "judy": "judy",
+    "just": "just"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "j",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "jack-audio-connection-kit": "jack",
+    "jack-audio-connection-kit-dev": "jack",
+    "jansson": "jansson",
+    "jansson-dev": "jansson",
+    "jasper": "jasper",
+    "jasper-dev": "jasper",
+    "jbig2dec": "jbig2dec",
+    "jbig2dec-dev": "jbig2dec",
+    "jbigkit": "jbigkit",
+    "jpeg": "jpeg",
+    "jpeg-dev": "jpeg",
+    "jpeg-turbo": "jpeg-turbo",
+    "jq": "jq",
+    "json-glib": "json-glib",
+    "json-glib-dev": "json-glib"
+  }
+}

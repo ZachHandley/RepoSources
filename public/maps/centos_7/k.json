@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_7",
+    "shard": "k",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "kernel": "linux-headers@4.4",
+    "keyutils": "keyutils",
+    "kmod": "kmod",
+    "krb5": "krb5",
+    "ksh": "ksh93"
+  }
+}

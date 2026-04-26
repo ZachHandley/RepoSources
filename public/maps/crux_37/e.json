@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_37",
+    "shard": "e",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "e2fsprogs": "e2fsprogs",
+    "ebook-tools": "ebook-tools",
+    "ed": "ed",
+    "eigen": "eigen",
+    "elfutils": "elfutils",
+    "elfutils-32": "elfutils",
+    "enchant": "enchant",
+    "enscript": "enscript",
+    "exif": "exif",
+    "exim": "exim",
+    "exiv2": "exiv2",
+    "expat": "expat",
+    "expat-32": "expat",
+    "extra-cmake-modules": "extra-cmake-modules",
+    "eza": "eza"
+  }
+}

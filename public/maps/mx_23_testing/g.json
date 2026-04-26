@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_23_testing",
+    "shard": "g",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "gawk": "gawk",
+    "geeqie": "geeqie",
+    "geeqie-common": "geeqie",
+    "gegl": "gegl",
+    "gir1.2-gegl-0.4": "gegl",
+    "gir1.2-wp-0.5": "wireplumber",
+    "glslang": "glslang",
+    "glslang-dev": "glslang",
+    "glslang-tools": "glslang",
+    "glslc": "shaderc",
+    "grsync": "grsync",
+    "gstreamer1.0-pipewire": "pipewire"
+  }
+}

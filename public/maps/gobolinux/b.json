@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gobolinux",
+    "shard": "b",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "B43-FwCutter": "b43-fwcutter",
+    "BC": "bc",
+    "BDFtoPCF": "bdftopcf",
+    "BTRFS-Progs": "btrfs-progs",
+    "Babl": "babl",
+    "Baobab": "baobab",
+    "Barcode": "gnu-barcode",
+    "Base64": "base64",
+    "Bash": "bash",
+    "Beast": "beast",
+    "BeeCrypt": "beecrypt",
+    "BinUtils": "binutils",
+    "Bind": "bind",
+    "Bison": "bison",
+    "BitchX": "bitchx",
+    "BitlBee": "bitlbee",
+    "Blosc": "c-blosc",
+    "Bluez": "bluez",
+    "Bochs": "bochs",
+    "Boehm-GC": "bdw-gc",
+    "BoehmGC": "bdw-gc",
+    "Bogofilter": "bogofilter",
+    "Bonnie++": "bonnie++",
+    "Boost": "boost",
+    "Botan": "botan",
+    "Bullet": "bullet",
+    "Byobu": "byobu",
+    "Bzip2": "bzip2"
+  }
+}

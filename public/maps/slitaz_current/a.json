@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "a",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "a2ps": "a2ps",
+    "acl": "acl",
+    "acl-dev": "acl",
+    "advancecomp": "advancecomp",
+    "adwaita-icon-theme": "adwaita-icon-theme",
+    "alsa-lib": "alsa-lib",
+    "alsa-lib-dev": "alsa-lib",
+    "apache": "httpd",
+    "apache-dev": "httpd",
+    "apache-doc": "httpd",
+    "apachetop": "apachetop",
+    "apr": "apr",
+    "apr-dev": "apr",
+    "apr-util": "apr-util",
+    "apr-util-dev": "apr-util",
+    "aspell": "aspell",
+    "aspell-dev": "aspell",
+    "at-spi2": "at-spi2-core",
+    "atkmm": "atkmm",
+    "atkmm-dev": "atkmm",
+    "attr": "attr",
+    "attr-dev": "attr",
+    "autoconf": "autoconf",
+    "automake": "automake",
+    "automake115": "automake"
+  }
+}

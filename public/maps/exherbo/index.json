@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "exherbo",
+    "shards": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "f",
+      "g",
+      "h",
+      "k",
+      "l",
+      "m",
+      "n",
+      "o",
+      "p",
+      "s",
+      "t",
+      "v",
+      "w",
+      "x"
+    ],
+    "total_mappings": 1753
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable",
+    "shard": "f",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "FontForge": "fontforge",
+    "fontforge": "fontforge",
+    "fr.handbrake.HandBrake": "handbrake"
+  }
+}

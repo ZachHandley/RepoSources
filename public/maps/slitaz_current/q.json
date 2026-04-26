@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "q",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "Qt4": "qt",
+    "Qt4-dev": "qt",
+    "Qt5": "qt",
+    "Qt5-dev": "qt",
+    "Qt5Designer": "qt",
+    "QtDesigner": "qt",
+    "qemu": "qemu",
+    "qemu-arm": "qemu",
+    "qemu-x86_64": "qemu",
+    "qmake": "qt",
+    "qpdf": "qpdf",
+    "qpdf-dev": "qpdf",
+    "qt4": "qt",
+    "qt5": "qt@5",
+    "qt5-qmake": "qt",
+    "qtconfig": "qt"
+  }
+}

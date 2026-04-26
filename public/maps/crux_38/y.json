@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crux_38",
+    "shard": "y",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "yajl": "yajl",
+    "yamlfix": "yamlfix",
+    "yamllint": "yamllint",
+    "yarn": "yarn",
+    "yasm": "yasm",
+    "yubikey-personalization": "ykpers"
+  }
+}

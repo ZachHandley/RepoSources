@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_7",
+    "shard": "q",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "QuantLib": "quantlib",
+    "qca": "qca",
+    "qd": "qd",
+    "qemu": "qemu",
+    "qhull": "qhull",
+    "qjackctl": "qjackctl",
+    "qmmp": "qmmp",
+    "qodem": "qodem",
+    "qpid-proton": "qpid-proton",
+    "qrupdate": "qrupdate",
+    "qscintilla": "qscintilla2",
+    "qstat": "qstat",
+    "qt5-qtquick1": "qt",
+    "qtkeychain": "qtkeychain",
+    "quazip": "quazip",
+    "quazip-qt5": "quazip",
+    "quilt": "quilt",
+    "quotatool": "quotatool",
+    "qwt": "qwt"
+  }
+}

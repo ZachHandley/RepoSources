@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ibmi",
+    "shard": "t",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "tar-gnu": "gnu-tar",
+    "tesseract": "tesseract",
+    "texinfo": "texinfo",
+    "tmux": "tmux",
+    "tree": "tree"
+  }
+}

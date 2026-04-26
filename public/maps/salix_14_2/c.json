@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "salix_14_2",
+    "shard": "c",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "cherrytree": "cherrytree",
+    "chromaprint": "chromaprint",
+    "claws-mail": "claws-mail",
+    "clearlooks-phenix": "clearlooks-phenix"
+  }
+}

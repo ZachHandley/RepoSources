@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "salix_14_2",
+    "shard": "r",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "R": "r",
+    "rarian": "rarian",
+    "rest": "librest",
+    "ripgrep": "ripgrep",
+    "rlog": "rlog",
+    "rtmpdump": "rtmpdump",
+    "rtorrent": "rtorrent"
+  }
+}

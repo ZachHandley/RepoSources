@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openwrt_23_05_x86_64",
+    "shard": "i",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "i2c-tools": "i2c-tools",
+    "i2pd": "i2pd",
+    "icecast": "icecast",
+    "iconv": "libiconv",
+    "icu-data-tools": "icu4c@74",
+    "icu-full-data73": "icu4c@74",
+    "icu73": "icu4c@74",
+    "idn": "libidn",
+    "idn2": "libidn2",
+    "ifstat": "ifstat",
+    "iftop": "iftop",
+    "imagemagick": "imagemagick",
+    "inadyn": "inadyn",
+    "inotifywait": "inotify-tools",
+    "inotifywatch": "inotify-tools",
+    "io": "io",
+    "iodine": "iodine",
+    "iodined": "iodine",
+    "ip-bridge": "iproute2",
+    "ip-full": "iproute2",
+    "ip-tiny": "iproute2",
+    "ipcs": "gnu-getopt",
+    "iperf3": "iperf3",
+    "iperf3-ssl": "iperf3",
+    "ipmitool": "ipmitool",
+    "iputils-arping": "iputils",
+    "iputils-clockdiff": "iputils",
+    "iputils-ping": "iputils",
+    "iputils-tracepath": "iputils",
+    "irecovery": "libirecovery",
+    "irssi": "irssi"
+  }
+}

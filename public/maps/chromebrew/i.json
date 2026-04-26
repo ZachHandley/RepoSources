@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chromebrew",
+    "shard": "i",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "icecream": "icecream",
+    "icon_naming_utils": "icon-naming-utils",
+    "icoutils": "icoutils",
+    "icu4c": "icu4c@78",
+    "iftop": "iftop",
+    "imagemagick7": "imagemagick",
+    "imake": "imake",
+    "imlib2": "imlib2",
+    "immer": "immer",
+    "indent": "gnu-indent",
+    "inetutils": "inetutils",
+    "iniparser": "iniparser",
+    "intltool": "intltool",
+    "inxi": "inxi",
+    "iperf3": "iperf3",
+    "ipfs": "kubo",
+    "iproute2": "iproute2",
+    "iptables": "iptables",
+    "iputils": "iputils",
+    "irrlicht": "irrlicht",
+    "irrlicht_examples": "irrlicht",
+    "irrlicht_tools": "irrlicht",
+    "irssi": "irssi",
+    "isl": "isl",
+    "iso_codes": "iso-codes"
+  }
+}

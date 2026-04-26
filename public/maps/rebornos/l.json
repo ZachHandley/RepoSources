@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rebornos",
+    "shard": "l",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "lcms": "little-cms2",
+    "lib32-glib": "glib",
+    "libcpuid-git": "libcpuid",
+    "libdmx": "libdmx",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3"
+  }
+}

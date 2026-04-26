@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "side",
+    "shard": "f",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "faac": "faac",
+    "faad2": "faad2",
+    "fdk-aac": "fdk-aac",
+    "ffmpeg": "ffmpeg",
+    "fftw": "fftw",
+    "file": "file-formula",
+    "findutils": "findutils",
+    "flac": "flac",
+    "flex": "flex",
+    "fltk": "fltk",
+    "fmtlib": "fmt",
+    "font-util": "font-util",
+    "fontconfig": "fontconfig",
+    "fontforge": "fontforge",
+    "fox": "fox",
+    "freealut": "freealut",
+    "freeglut": "freeglut",
+    "freetype": "freetype",
+    "frei0r-plugins": "frei0r",
+    "fribidi": "fribidi",
+    "fuse": "libfuse",
+    "fuse2": "libfuse"
+  }
+}

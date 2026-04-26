@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ibmi",
+    "shard": "m",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "m4-gnu": "m4",
+    "make-gnu": "make",
+    "man-db": "man-db",
+    "mariadb": "mariadb",
+    "mariadb-10.6": "mariadb",
+    "maven": "maven",
+    "mc": "midnight-commander",
+    "minisign": "minisign",
+    "mongoc": "mongo-c-driver",
+    "mongoc-devel": "mongo-c-driver",
+    "mpc": "libmpc",
+    "mpfr": "mpfr",
+    "mpfr-aix": "mpfr"
+  }
+}

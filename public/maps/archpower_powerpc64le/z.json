@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "archpower_powerpc64le",
+    "shard": "z",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "zbar": "zbar",
+    "zenity": "zenity",
+    "zenmap": "nmap",
+    "zeromq": "zeromq",
+    "zimg": "zimg",
+    "zint": "zint",
+    "zint-qt": "zint",
+    "zip": "zip",
+    "zix": "zix",
+    "zix-docs": "zix",
+    "zlib": "zlib",
+    "zlib-debug": "zlib",
+    "zlib-ng": "zlib-ng",
+    "zlib-ng-compat": "zlib-ng-compat",
+    "zsh": "zsh",
+    "zsh-autosuggestions": "zsh-autosuggestions",
+    "zsh-completions": "zsh-completions",
+    "zsh-doc": "zsh",
+    "zsh-history-substring-search": "zsh-history-substring-search",
+    "zsh-syntax-highlighting": "zsh-syntax-highlighting",
+    "zstd": "zstd",
+    "zsync": "zsync",
+    "zvbi": "zvbi",
+    "zxing-cpp": "zxing-cpp",
+    "zziplib": "libzzip"
+  }
+}

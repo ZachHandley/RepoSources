@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "hpux_11_31",
+    "shard": "u",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "unbound": "unbound",
+    "uncrustify": "uncrustify",
+    "unrtf": "unrtf",
+    "unzip": "unzip",
+    "uudeview": "uudeview"
+  }
+}

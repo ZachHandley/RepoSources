@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "apertis_v2025",
+    "shard": "v",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "va-driver-all": "libva",
+    "vala": "vala",
+    "vala-0.56-doc": "vala",
+    "valac": "vala",
+    "valac-0.56-vapi": "vala",
+    "valac-bin": "vala",
+    "valadoc": "vala",
+    "valgrind": "valgrind",
+    "valgrind-dbg": "valgrind",
+    "vdpau-driver-all": "libvdpau",
+    "vim": "vim",
+    "vim-athena": "vim",
+    "vim-common": "vim",
+    "vim-doc": "vim",
+    "vim-gtk3": "vim",
+    "vim-gui-common": "vim",
+    "vim-motif": "vim",
+    "vim-nox": "vim",
+    "vim-runtime": "vim",
+    "vim-tiny": "vim",
+    "vips": "vips",
+    "virtualenv": "virtualenv",
+    "vorbis-tools": "vorbis-tools",
+    "vpx-tools": "libvpx",
+    "vsftpd": "vsftpd",
+    "vsftpd-dbg": "vsftpd",
+    "vte2.91": "vte3",
+    "vulkan-loader": "vulkan-loader"
+  }
+}

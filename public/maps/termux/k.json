@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "termux",
+    "shard": "k",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "k9s": "k9s",
+    "kakoune": "kakoune",
+    "keychain": "keychain",
+    "keyutils": "keyutils",
+    "kf6-karchive": "karchive",
+    "kf6-kdoctools": "kdoctools",
+    "kf6-ki18n": "ki18n",
+    "kf6-threadweaver": "threadweaver",
+    "kibi": "kibi",
+    "knockd": "knock",
+    "kona": "kona",
+    "kotlin": "kotlin",
+    "krb5": "krb5",
+    "kubecolor": "kubecolor",
+    "kubectl": "kubernetes-cli",
+    "kubelogin": "kubelogin",
+    "kubo": "kubo"
+  }
+}

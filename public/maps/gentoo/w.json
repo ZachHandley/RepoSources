@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gentoo",
+    "shard": "w",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "www-apache/passenger": "passenger",
+    "www-apps/bareos-webui": "bareos-client",
+    "www-apps/blazeblogger": "blazeblogger",
+    "www-apps/cgit": "cgit",
+    "www-apps/gitea": "gitea",
+    "www-apps/grafana-bin": "grafana",
+    "www-apps/hugo": "hugo",
+    "www-apps/jackett-bin": "jackett",
+    "www-apps/miniflux": "miniflux",
+    "www-apps/ttyd": "ttyd",
+    "www-client/dillo": "dillo",
+    "www-client/httrack": "httrack",
+    "www-client/links": "links",
+    "www-client/lynx": "lynx",
+    "www-client/surfraw": "surfraw",
+    "www-client/w3m": "w3m",
+    "www-misc/buku": "buku",
+    "www-misc/fcgiwrap": "fcgiwrap",
+    "www-misc/logswan": "logswan",
+    "www-misc/mergelog": "mergelog",
+    "www-misc/urlwatch": "urlwatch",
+    "www-servers/apache": "httpd",
+    "www-servers/caddy": "caddy",
+    "www-servers/h2o": "h2o",
+    "www-servers/kore": "kore",
+    "www-servers/lighttpd": "lighttpd",
+    "www-servers/mongrel2": "mongrel2",
+    "www-servers/nginx": "nginx",
+    "www-servers/spawn-fcgi": "spawn-fcgi",
+    "www-servers/tomcat": "tomcat",
+    "www-servers/uwsgi": "uwsgi",
+    "www-servers/webfs": "webfs"
+  }
+}

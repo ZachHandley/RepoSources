@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "carbs",
+    "shard": "d",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "dash": "dash-shell",
+    "dbus": "dbus",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dialog": "dialog",
+    "distcc": "distcc",
+    "dmenu": "dmenu",
+    "dosfstools": "dosfstools",
+    "dropbear": "dropbear"
+  }
+}

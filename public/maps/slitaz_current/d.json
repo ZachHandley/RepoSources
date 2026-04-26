@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "d",
+    "total_mappings": 23
+  },
+  "mappings": {
+    "db": "berkeley-db",
+    "db-dev": "berkeley-db",
+    "dbus": "dbus",
+    "dbus-dev": "dbus",
+    "dbus-glib": "dbus-glib",
+    "dbus-glib-dev": "dbus-glib",
+    "dbus-helper": "dbus",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "desktop-file-utils": "desktop-file-utils",
+    "desktop-file-utils-extra": "desktop-file-utils",
+    "dialog": "dialog",
+    "dialog-dev": "dialog",
+    "dialog-lang": "dialog",
+    "diffutils": "diffutils",
+    "directx-headers": "directx-headers",
+    "docbook-xsl": "docbook-xsl",
+    "docbook-xsl-ns": "docbook-xsl",
+    "dosfstools": "dosfstools",
+    "dovecot": "dovecot",
+    "doxygen": "doxygen",
+    "dropbear": "dropbear",
+    "dropbear-pam": "dropbear"
+  }
+}

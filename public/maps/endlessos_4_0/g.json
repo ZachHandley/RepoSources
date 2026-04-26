@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "endlessos_4_0",
+    "shard": "g",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "gir1.2-goa-1.0": "gnome-online-accounts",
+    "gir1.2-gstreamer-1.0": "gstreamer",
+    "gir1.2-gtk-3.0": "gtk+",
+    "gir1.2-polkit-1.0": "polkit",
+    "gir1.2-xmlb-2.0": "libxmlb",
+    "gnome-online-accounts": "gnome-online-accounts",
+    "gstreamer1.0": "gstreamer",
+    "gstreamer1.0-tools": "gstreamer",
+    "gtk+3.0": "gtk+",
+    "gtk-3-examples": "gtk+",
+    "gtk-update-icon-cache": "gtk+"
+  }
+}

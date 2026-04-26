@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pureos_amber",
+    "shard": "_misc",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "0install": "zero-install",
+    "0install-core": "zero-install",
+    "2ping": "twoping",
+    "4store": "fourstore",
+    "6tunnel": "sixtunnel",
+    "7kaa": "seven-kingdoms",
+    "7kaa-data": "seven-kingdoms"
+  }
+}

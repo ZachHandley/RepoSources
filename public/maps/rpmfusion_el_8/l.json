@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_el_8",
+    "shard": "l",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "libaacs": "libaacs",
+    "libbdplus": "libbdplus",
+    "libdca": "libdca",
+    "libde265": "libde265",
+    "libdvbcsa": "libdvbcsa",
+    "libheif": "libheif",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3",
+    "live555": "openrtsp"
+  }
+}

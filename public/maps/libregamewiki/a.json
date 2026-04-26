@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "libregamewiki",
+    "shard": "a",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "Advanced Strategic Command": "asc",
+    "Advanced_Strategic_Command": "asc",
+    "Allure of the Stars": "allureofthestars",
+    "Allure_of_the_Stars": "allureofthestars",
+    "Avanor": "avanor"
+  }
+}

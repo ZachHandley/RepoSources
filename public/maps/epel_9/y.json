@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_9",
+    "shard": "y",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "yaml-cpp": "yaml-cpp",
+    "yaml-cpp-debuginfo": "yaml-cpp",
+    "yaml-cpp-debugsource": "yaml-cpp",
+    "yaml-cpp-devel": "yaml-cpp",
+    "yaml-cpp-static": "yaml-cpp",
+    "yamllint": "yamllint",
+    "yank": "yank",
+    "yank-debuginfo": "yank",
+    "yank-debugsource": "yank",
+    "yarnpkg": "yarn",
+    "yasm": "yasm",
+    "yasm-debuginfo": "yasm",
+    "yasm-debugsource": "yasm",
+    "yasm-devel": "yasm",
+    "ykpers": "ykpers",
+    "ykpers-debuginfo": "ykpers",
+    "ykpers-debugsource": "ykpers",
+    "ykpers-devel": "ykpers",
+    "yq": "yq",
+    "yq-debuginfo": "yq",
+    "yq-debugsource": "yq",
+    "yubico-piv-tool": "yubico-piv-tool",
+    "yubico-piv-tool-debuginfo": "yubico-piv-tool",
+    "yubico-piv-tool-debugsource": "yubico-piv-tool",
+    "yubico-piv-tool-devel": "yubico-piv-tool",
+    "yubikey-manager": "ykman",
+    "yuicompressor": "yuicompressor",
+    "yyjson": "yyjson",
+    "yyjson-debuginfo": "yyjson",
+    "yyjson-debugsource": "yyjson",
+    "yyjson-devel": "yyjson"
+  }
+}

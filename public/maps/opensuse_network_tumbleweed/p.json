@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_network_tumbleweed",
+    "shard": "p",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "pan": "pan",
+    "pan-debuginfo": "pan",
+    "pan-debugsource": "pan",
+    "pan-lang": "pan",
+    "pcapplusplus": "pcapplusplus",
+    "pcapplusplus-debuginfo": "pcapplusplus",
+    "pcapplusplus-debugsource": "pcapplusplus",
+    "pcapplusplus-devel": "pcapplusplus",
+    "plowshare": "plowshare",
+    "proftpd": "proftpd",
+    "proftpd-debuginfo": "proftpd",
+    "proftpd-debugsource": "proftpd",
+    "proftpd-devel": "proftpd",
+    "proftpd-doc": "proftpd",
+    "proftpd-lang": "proftpd",
+    "proftpd-ldap": "proftpd",
+    "proftpd-mysql": "proftpd",
+    "proftpd-pgsql": "proftpd",
+    "proftpd-radius": "proftpd",
+    "proftpd-sqlite": "proftpd",
+    "proxychains-ng": "proxychains-ng",
+    "proxychains-ng-debuginfo": "proxychains-ng",
+    "proxychains-ng-debugsource": "proxychains-ng",
+    "pure-ftpd": "pure-ftpd",
+    "pure-ftpd-debuginfo": "pure-ftpd",
+    "pure-ftpd-debugsource": "pure-ftpd",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python311-olm": "libolm",
+    "python313-olm": "libolm",
+    "python314-olm": "libolm"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slackwarearm_15_0",
+    "shard": "f",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "fetchmail": "fetchmail",
+    "ffmpeg": "ffmpeg",
+    "ffmpegthumbnailer": "ffmpegthumbnailer",
+    "fftw": "fftw",
+    "fig2dev": "fig2dev",
+    "file": "file-formula",
+    "findutils": "findutils",
+    "flac": "flac",
+    "flex": "flex",
+    "fltk": "fltk",
+    "fluidsynth": "fluid-synth",
+    "font-util": "font-util",
+    "fontconfig": "fontconfig",
+    "freeglut": "freeglut",
+    "freerdp": "freerdp",
+    "freetype": "freetype",
+    "frei0r-plugins": "frei0r",
+    "fribidi": "fribidi"
+  }
+}

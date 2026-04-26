@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ravenports",
+    "shard": "n",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "nano": "nano",
+    "nasm": "nasm",
+    "nawk": "awk",
+    "ncftp": "ncftp",
+    "ncurses": "ncurses",
+    "neofetch": "neofetch",
+    "neon": "neon",
+    "neovim": "neovim",
+    "net-snmp": "net-snmp",
+    "netcdf": "netcdf",
+    "netpbm": "netpbm",
+    "netsurf-buildsystem": "netsurf-buildsystem",
+    "nettle": "nettle",
+    "nettle3": "nettle",
+    "nfdump": "nfdump",
+    "nghttp3": "libnghttp3",
+    "nginx": "nginx",
+    "ngtcp2": "libngtcp2",
+    "nlohmann-json": "nlohmann-json",
+    "nlopt": "nlopt",
+    "nmap": "nmap",
+    "nnn": "nnn",
+    "nodejs": "node",
+    "norm": "norm",
+    "npth": "npth",
+    "nsd": "nsd",
+    "nspr": "nspr",
+    "nss": "nss",
+    "ntl": "ntl",
+    "nut": "nut",
+    "nvi": "nvi"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "vcpkg",
+    "shard": "w",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "wabt": "wabt",
+    "wangle": "wangle",
+    "wasmedge": "wasmedge",
+    "wavpack": "wavpack",
+    "wayland": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "wcslib": "wcslib",
+    "whisper-cpp": "whisper-cpp",
+    "wiiuse": "wiiuse",
+    "wildmidi": "wildmidi",
+    "woff2": "woff2",
+    "wolfmqtt": "wolfmqtt",
+    "wolfssl": "wolfssl",
+    "wordnet": "wordnet",
+    "wren": "wren",
+    "wxwidgets": "wxwidgets"
+  }
+}

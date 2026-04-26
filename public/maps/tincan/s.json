@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "tincan",
+    "shard": "s",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "samurai": "samurai",
+    "spirv-headers": "spirv-headers",
+    "spirv-llvm-translator": "spirv-llvm-translator",
+    "spirv-tools": "spirv-tools",
+    "sqlite": "sqlite"
+  }
+}

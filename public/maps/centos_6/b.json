@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_6",
+    "shard": "b",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "b43-fwcutter": "b43-fwcutter",
+    "babl": "babl",
+    "bacula": "bacula-fd",
+    "bash": "bash",
+    "batik": "batik",
+    "bc": "bc",
+    "bind": "bind",
+    "binutils": "binutils",
+    "bison": "bison",
+    "bluez": "bluez",
+    "boost": "boost",
+    "btrfs-progs": "btrfs-progs",
+    "bwidget": "bwidget",
+    "byacc": "byacc",
+    "bzip2": "bzip2"
+  }
+}

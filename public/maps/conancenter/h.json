@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "conancenter",
+    "shard": "h",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "h3": "h3",
+    "harfbuzz": "harfbuzz",
+    "hdf5": "hdf5",
+    "hdrhistogram-c": "hdrhistogram_c",
+    "heatshrink": "heatshrink",
+    "hidapi": "hidapi",
+    "highs": "highs",
+    "highway": "highway",
+    "hiredis": "hiredis",
+    "hunspell": "hunspell",
+    "hwloc": "hwloc",
+    "hyperscan": "hyperscan"
+  }
+}

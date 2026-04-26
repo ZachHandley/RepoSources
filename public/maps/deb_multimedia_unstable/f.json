@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "deb_multimedia_unstable",
+    "shard": "f",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "faac": "faac",
+    "faac-dmo": "faac",
+    "fdk-aac-dmo": "fdk-aac",
+    "fdkaac": "fdk-aac-encoder",
+    "fdkaac-dmo": "fdk-aac-encoder",
+    "ffmpeg": "ffmpeg",
+    "ffmpeg-6-dmo": "ffmpeg",
+    "ffmpeg-7-dmo": "ffmpeg",
+    "ffmpeg-dmo": "ffmpeg",
+    "ffmpeg-doc": "ffmpeg",
+    "ffmpegthumbnailer": "ffmpegthumbnailer",
+    "ffmpegthumbnailer-dmo": "ffmpegthumbnailer",
+    "ffms2-dmo": "ffms2",
+    "ffmsindex": "ffms2",
+    "fluidsynth": "fluid-synth",
+    "fluidsynth-dmo": "fluid-synth",
+    "frei0r-dmo": "frei0r",
+    "frei0r-plugins": "frei0r",
+    "frei0r-plugins-dev": "frei0r"
+  }
+}

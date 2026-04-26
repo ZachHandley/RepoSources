@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "amazon_1",
+    "shard": "m",
+    "total_mappings": 27
+  },
+  "mappings": {
+    "m4": "m4",
+    "make": "make",
+    "man-db": "man-db",
+    "mc": "midnight-commander",
+    "mcpp": "mcpp",
+    "memcached": "memcached",
+    "mercurial": "mercurial",
+    "mesa": "mesa",
+    "mesa-libGLU": "mesa-glu",
+    "meson": "meson",
+    "mod_dav_svn": "subversion",
+    "monit": "monit",
+    "mosh": "mosh",
+    "most": "most",
+    "mpage": "mpage",
+    "mpfr": "mpfr",
+    "mpich": "mpich",
+    "mrtg": "mrtg",
+    "mtools": "mtools",
+    "mtr": "mtr",
+    "multitail": "multitail",
+    "mutt": "mutt",
+    "mysql": "mysql",
+    "mysql51": "mysql",
+    "mysql55": "mysql",
+    "mysql56": "mysql",
+    "mysql57": "mysql"
+  }
+}

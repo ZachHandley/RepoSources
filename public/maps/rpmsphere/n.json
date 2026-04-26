@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmsphere",
+    "shard": "n",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "netcat-gnu": "netcat",
+    "netcat-gnu-debuginfo": "netcat",
+    "netcat-gnu-debugsource": "netcat",
+    "netris": "netris",
+    "netris-debuginfo": "netris",
+    "netris-debugsource": "netris",
+    "never": "never",
+    "never-debuginfo": "never",
+    "ngslang": "ngs",
+    "ngslang-debuginfo": "ngs",
+    "ninvaders": "ninvaders",
+    "ninvaders-debuginfo": "ninvaders",
+    "ninvaders-debugsource": "ninvaders",
+    "nodejs": "node",
+    "nuitka": "nuitka"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "vcpkg",
+    "shard": "n",
+    "total_mappings": 27
+  },
+  "mappings": {
+    "nanoarrow": "nanoarrow",
+    "nanobind": "nanobind",
+    "nanoflann": "nanoflann",
+    "nanomsg": "nanomsg",
+    "nanopb": "nanopb",
+    "nativefiledialog-extended": "nativefiledialog-extended",
+    "ncnn": "ncnn",
+    "ncurses": "ncurses",
+    "netcdf-c": "netcdf",
+    "netcdf-cxx4": "netcdf-cxx",
+    "nettle": "nettle",
+    "nghttp2": "nghttp2",
+    "nghttp3": "libnghttp3",
+    "ngspice": "ngspice",
+    "ngtcp2": "libngtcp2",
+    "nlohmann-json": "nlohmann-json",
+    "nlopt": "nlopt",
+    "nng": "nng",
+    "nodejs": "node",
+    "nspr": "nspr",
+    "nss": "nss",
+    "nsync": "nsync",
+    "nu-book-zxing-cpp": "zxing-cpp",
+    "numactl": "numactl",
+    "numcpp": "numcpp",
+    "nuraft": "nuraft",
+    "nuspell": "nuspell"
+  }
+}

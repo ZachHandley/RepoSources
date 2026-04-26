@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "tur",
+    "shard": "p",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "payload-dumper-go": "payload-dumper-go",
+    "php7": "php",
+    "php7.2": "php",
+    "pixz": "pixz",
+    "python-scikit-image": "scikit-image",
+    "python-scipy": "scipy",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python3.10": "python@3.9",
+    "python3.11": "python@3.9",
+    "python3.7": "python@3.9",
+    "python3.8": "python@3.9",
+    "python3.9": "python@3.9"
+  }
+}

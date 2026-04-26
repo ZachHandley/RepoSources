@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_20_04_backports",
+    "shard": "f",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "freeipmi": "freeipmi",
+    "freeipmi-bmc-watchdog": "freeipmi",
+    "freeipmi-common": "freeipmi",
+    "freeipmi-ipmidetect": "freeipmi",
+    "freeipmi-ipmiseld": "freeipmi",
+    "freeipmi-tools": "freeipmi"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gentoo_ovl_guru",
+    "shard": "w",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "www-apps/anubis": "anubis",
+    "www-apps/code-server-bin": "code-server",
+    "www-apps/forgejo": "forgejo",
+    "www-apps/mycorrhiza": "mycorrhiza",
+    "www-apps/zola": "zola",
+    "www-client/chawan": "chawan",
+    "www-misc/dufs": "dufs",
+    "www-misc/libkiwix": "libkiwix",
+    "www-plugins/firefoxpwa": "firefoxpwa",
+    "www-servers/copyparty": "copyparty"
+  }
+}

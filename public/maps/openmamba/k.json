@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openmamba",
+    "shard": "k",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "karchive": "karchive",
+    "karchive-debug": "karchive",
+    "kdoctools": "kdoctools",
+    "kdoctools-debug": "kdoctools",
+    "kernel": "linux-headers@4.4",
+    "kernel-mamba-aarch64": "linux-headers@4.4",
+    "kernel-mamba-aarch64-headers": "linux-headers@4.4",
+    "kernel-mamba-aarch64-headers-sanitised": "linux-headers@4.4",
+    "keyutils": "keyutils",
+    "kf6-karchive": "karchive",
+    "kf6-karchive-debug": "karchive",
+    "kf6-kdoctools": "kdoctools",
+    "kf6-kdoctools-debug": "kdoctools",
+    "kf6-ki18n": "ki18n",
+    "kf6-ktexttemplate": "grantlee",
+    "kf6-threadweaver": "threadweaver",
+    "ki18n": "ki18n",
+    "ki18n-debug": "ki18n",
+    "kmod": "kmod",
+    "kotlin": "kotlin",
+    "krb5": "krb5",
+    "krb5-server": "krb5",
+    "ksh": "ksh93",
+    "ktoblzcheck": "ktoblzcheck"
+  }
+}

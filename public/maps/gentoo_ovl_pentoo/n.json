@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gentoo_ovl_pentoo",
+    "shard": "n",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "net-analyzer/amass": "amass",
+    "net-analyzer/bettercap": "bettercap",
+    "net-analyzer/fierce": "fierce",
+    "net-analyzer/gobuster": "gobuster",
+    "net-analyzer/legba-bin": "legba",
+    "net-analyzer/masscan": "masscan",
+    "net-analyzer/massdns": "massdns",
+    "net-analyzer/ncrack": "ncrack",
+    "net-analyzer/nuclei-bin": "nuclei",
+    "net-analyzer/pwncat": "pwncat",
+    "net-analyzer/s3scanner": "s3scanner",
+    "net-analyzer/scamper": "scamper",
+    "net-analyzer/subfinder": "subfinder",
+    "net-analyzer/testssl": "testssl",
+    "net-analyzer/theHarvester": "theharvester",
+    "net-dialup/minimodem": "minimodem",
+    "net-libs/libtins": "libtins",
+    "net-mail/davmail-bin": "davmail",
+    "net-mail/libpst": "libpst",
+    "net-proxy/shadowsocks-rust": "shadowsocks-rust",
+    "net-vpn/kcptun": "kcptun",
+    "net-vpn/tuntox": "tuntox",
+    "net-wireless/aircrack-ng": "aircrack-ng",
+    "net-wireless/airspyhf": "airspyhf",
+    "net-wireless/hcxtools": "hcxtools",
+    "net-wireless/libfreefare": "libfreefare",
+    "net-wireless/pixiewps": "pixiewps",
+    "nodejs": "node"
+  }
+}

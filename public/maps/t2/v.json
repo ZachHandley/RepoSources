@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "t2",
+    "shard": "v",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "vala": "vala",
+    "valgrind": "valgrind",
+    "valkey": "valkey",
+    "vbindiff": "vbindiff",
+    "vcdimager": "vcdimager",
+    "verilator": "verilator",
+    "verovio": "verovio",
+    "vice": "vice",
+    "vidstab": "libvidstab",
+    "vifm": "vifm",
+    "vim": "vim",
+    "vips": "vips",
+    "virt-manager": "virt-manager",
+    "virtualenvwrapper": "virtualenvwrapper",
+    "vit": "vit",
+    "vlang": "vlang",
+    "vnstat": "vnstat",
+    "vo-aacenc": "libvo-aacenc",
+    "vo-amrwbenc": "vo-amrwbenc",
+    "volk": "vulkan-volk",
+    "vorbis-tools": "vorbis-tools",
+    "vorbisgain": "vorbisgain",
+    "vpn-slice": "vpn-slice",
+    "vsftpd": "vsftpd",
+    "vte": "vte3",
+    "vtk": "vtk",
+    "vulkan-headers": "vulkan-headers",
+    "vulkan-loader": "vulkan-loader",
+    "vulkan-tools": "vulkan-tools",
+    "vulkan-utility-libraries": "vulkan-utility-libraries",
+    "vulkan-validation-layers": "vulkan-validationlayers"
+  }
+}

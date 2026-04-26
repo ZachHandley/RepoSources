@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_rawhide",
+    "shard": "m",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "magic-wormhole-bash-completion": "magic-wormhole",
+    "magic-wormhole-fish-completion": "magic-wormhole",
+    "magic-wormhole-zsh-completion": "magic-wormhole",
+    "mdBook": "mdbook",
+    "mdBook-debuginfo": "mdbook",
+    "mdBook-debugsource": "mdbook",
+    "mpv-nightly": "mpv",
+    "mpv-nightly-bash-completion": "mpv",
+    "mpv-nightly-debuginfo": "mpv",
+    "mpv-nightly-debugsource": "mpv",
+    "mpv-nightly-devel": "mpv",
+    "mpv-nightly-fish-completion": "mpv",
+    "mpv-nightly-libs": "mpv",
+    "mpv-nightly-libs-debuginfo": "mpv",
+    "mpv-nightly-zsh-completion": "mpv",
+    "muon": "muon",
+    "muon-debuginfo": "muon",
+    "muon-debugsource": "muon"
+  }
+}

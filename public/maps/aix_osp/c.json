@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "c",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "Cython": "cython",
+    "c-ares": "c-ares",
+    "cabextract": "cabextract",
+    "cadaver": "cadaver",
+    "ccrypt": "ccrypt",
+    "cdlabelgen": "cdlabelgen",
+    "cdpr": "cdpr",
+    "cdrtools": "cdrtools",
+    "cfengine": "cfengine",
+    "cfitsio": "cfitsio",
+    "cgrep": "cgrep",
+    "check": "check",
+    "cloc": "cloc",
+    "clzip": "clzip",
+    "cmake": "cmake",
+    "cntlm": "cntlm",
+    "colordiff": "colordiff",
+    "coreutils": "coreutils",
+    "coreutils-64bit": "coreutils",
+    "cpio": "cpio",
+    "cppcheck": "cppcheck",
+    "cppi": "cppi",
+    "cpptest": "cpptest",
+    "cppunit": "cppunit",
+    "cproto": "cproto",
+    "cscope": "cscope",
+    "cups": "cups",
+    "curl": "curl",
+    "cvs": "cvs",
+    "cvsutils": "cvsutils"
+  }
+}

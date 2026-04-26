@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "side",
+    "shard": "c",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "c-toxcore": "toxcore",
+    "cairo": "cairo",
+    "cairomm": "cairomm",
+    "cargo-c": "cargo-c",
+    "catch2": "catch2",
+    "cbindgen": "cbindgen",
+    "cdrdao": "cdrdao",
+    "cdrtools": "cdrtools",
+    "check": "check",
+    "claws-mail": "claws-mail",
+    "cmake": "cmake",
+    "cmus": "cmus",
+    "containerd": "containerd",
+    "coreutils": "coreutils",
+    "cpio": "cpio",
+    "cracklib": "cracklib",
+    "ctags": "universal-ctags",
+    "cups": "cups",
+    "curl": "curl",
+    "cyrus-sasl": "cyrus-sasl",
+    "cython": "cython",
+    "cython3": "cython"
+  }
+}

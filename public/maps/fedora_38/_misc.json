@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "fedora_38",
+    "shard": "_misc",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "2ping": "twoping",
+    "3mux": "threemux",
+    "64tass": "tass64",
+    "64tass-debuginfo": "tass64",
+    "64tass-debugsource": "tass64",
+    "6tunnel": "sixtunnel",
+    "6tunnel-debuginfo": "sixtunnel",
+    "6tunnel-debugsource": "sixtunnel",
+    "7kaa": "seven-kingdoms",
+    "7kaa-data": "seven-kingdoms",
+    "7kaa-debuginfo": "seven-kingdoms",
+    "7kaa-debugsource": "seven-kingdoms"
+  }
+}

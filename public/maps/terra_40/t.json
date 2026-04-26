@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_40",
+    "shard": "t",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "tdlib-nightly": "tdlib",
+    "tdlib-nightly-debuginfo": "tdlib",
+    "tdlib-nightly-debugsource": "tdlib",
+    "tdlib-nightly-devel": "tdlib",
+    "tdlib-nightly-static": "tdlib",
+    "tectonic": "tectonic",
+    "tectonic-debuginfo": "tectonic",
+    "tmon": "linux-headers@4.4",
+    "topgrade": "topgrade",
+    "topgrade-debuginfo": "topgrade",
+    "topgrade-debugsource": "topgrade",
+    "tracy": "tracy",
+    "tracy-debuginfo": "tracy",
+    "tracy-debugsource": "tracy",
+    "tracy-devel": "tracy",
+    "typst": "typst",
+    "typst-debuginfo": "typst"
+  }
+}

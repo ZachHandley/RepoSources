@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_graphics_tumbleweed",
+    "shard": "s",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "sane-backends": "sane-backends",
+    "sane-backends-autoconfig": "sane-backends",
+    "sane-backends-debuginfo": "sane-backends",
+    "sane-backends-debugsource": "sane-backends",
+    "sane-backends-devel": "sane-backends",
+    "sane-saned": "sane-backends",
+    "siril": "siril",
+    "siril-debuginfo": "siril",
+    "siril-debugsource": "siril"
+  }
+}

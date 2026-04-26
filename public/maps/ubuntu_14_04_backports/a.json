@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_14_04_backports",
+    "shard": "a",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "ansible": "ansible",
+    "ansible-doc": "ansible",
+    "ansible-fireball": "ansible",
+    "ansible-node-fireball": "ansible",
+    "apache2": "httpd",
+    "apache2-bin": "httpd",
+    "apache2-data": "httpd",
+    "apache2-dbg": "httpd",
+    "apache2-dev": "httpd",
+    "apache2-doc": "httpd",
+    "apache2-mpm-event": "httpd",
+    "apache2-mpm-itk": "httpd",
+    "apache2-mpm-prefork": "httpd",
+    "apache2-mpm-worker": "httpd",
+    "apache2-suexec": "httpd",
+    "apache2-suexec-custom": "httpd",
+    "apache2-suexec-pristine": "httpd",
+    "apache2-utils": "httpd",
+    "apache2.2-bin": "httpd",
+    "apache2.2-common": "httpd",
+    "astyle": "astyle"
+  }
+}

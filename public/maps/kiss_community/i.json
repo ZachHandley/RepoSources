@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_community",
+    "shard": "i",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "icu": "icu4c@74",
+    "imagemagick": "imagemagick",
+    "imath": "imath",
+    "inih": "inih",
+    "iniparser": "iniparser",
+    "iperf": "iperf3",
+    "iproute2": "iproute2",
+    "iptables": "iptables",
+    "isync": "isync"
+  }
+}

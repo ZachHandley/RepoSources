@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "distri",
+    "shard": "h",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "harfbuzz": "harfbuzz",
+    "help2man": "help2man",
+    "hicolor-icon-theme": "hicolor-icon-theme"
+  }
+}

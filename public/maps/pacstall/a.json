@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "a",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "amfora-bin": "amfora",
+    "apptainer-deb": "apptainer",
+    "arduino-cli-bin": "arduino-cli",
+    "asdf-vm": "asdf",
+    "aws-cli-v2-bin": "awscli"
+  }
+}

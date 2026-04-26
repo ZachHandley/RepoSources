@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "apertis_v2026",
+    "shard": "w",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "w3m": "w3m",
+    "w3m-img": "w3m",
+    "wabt": "wabt",
+    "waffle": "waffle",
+    "waffle-utils": "waffle",
+    "wasi-libc": "wasi-libc",
+    "wavpack": "wavpack",
+    "wayland": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "wdiff": "wdiff",
+    "wdiff-doc": "wdiff",
+    "webkit2gtk": "webkitgtk",
+    "webkit2gtk-driver": "webkitgtk",
+    "webkitgtk-webdriver": "webkitgtk",
+    "webp": "webp",
+    "webpack": "webpack",
+    "wget": "wget",
+    "wget-udeb": "wget",
+    "whiptail": "newt",
+    "winbind": "samba",
+    "wireplumber": "wireplumber",
+    "wireplumber-doc": "wireplumber",
+    "woff2": "woff2",
+    "wpebackend-fdo": "wpebackend-fdo",
+    "wx-common": "wxwidgets",
+    "wx3.2-doc": "wxwidgets",
+    "wx3.2-examples": "wxwidgets",
+    "wx3.2-headers": "wxwidgets",
+    "wx3.2-i18n": "wxwidgets",
+    "wxpython-tools": "wxpython",
+    "wxpython4.0": "wxpython",
+    "wxwidgets3.2": "wxwidgets"
+  }
+}

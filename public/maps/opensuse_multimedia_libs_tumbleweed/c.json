@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_multimedia_libs_tumbleweed",
+    "shard": "c",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "caca-utils": "libcaca",
+    "cd-paranoia": "libcdio-paranoia",
+    "cdio-utils": "libcdio",
+    "cdio-utils-debuginfo": "libcdio",
+    "cdio-utils-debugsource": "libcdio",
+    "chromaprint": "chromaprint",
+    "chromaprint-debuginfo": "chromaprint",
+    "chromaprint-debugsource": "chromaprint",
+    "chromaprint-devel": "chromaprint",
+    "chromaprint-fpcalc": "chromaprint",
+    "cppzmq-devel": "cppzmq",
+    "cppzmq-devel-debuginfo": "cppzmq",
+    "cppzmq-devel-debugsource": "cppzmq"
+  }
+}

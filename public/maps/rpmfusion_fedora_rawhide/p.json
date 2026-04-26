@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_rawhide",
+    "shard": "p",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "pipewire-codec-aptx": "pipewire",
+    "ppsspp": "ppsspp",
+    "ppsspp-data": "ppsspp",
+    "ppsspp-libs": "ppsspp",
+    "ppsspp-sdl": "ppsspp",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

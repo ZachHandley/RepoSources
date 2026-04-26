@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "conancenter",
+    "shard": "d",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "date": "howard-hinnant-date",
+    "dav1d": "dav1d",
+    "dbg-macro": "dbg-macro",
+    "dbus": "dbus",
+    "dcmtk": "dcmtk",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "devil": "devil",
+    "directx-headers": "directx-headers",
+    "discount": "discount",
+    "dispenso": "dispenso",
+    "djvulibre": "djvulibre",
+    "dlib": "dlib",
+    "dlpack": "dlpack",
+    "doctest": "doctest",
+    "double-conversion": "double-conversion",
+    "doxygen": "doxygen",
+    "draco": "draco",
+    "dragonbox": "dragonbox",
+    "drogon": "drogon",
+    "duckdb": "duckdb",
+    "duktape": "duktape"
+  }
+}

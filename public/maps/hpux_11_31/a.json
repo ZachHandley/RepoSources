@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "hpux_11_31",
+    "shard": "a",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "a2ps": "a2ps",
+    "aalib": "aalib",
+    "abook": "abook",
+    "analog": "analog",
+    "apache": "httpd",
+    "apr": "apr",
+    "apr_util": "apr-util",
+    "ascii": "ascii",
+    "aspell": "aspell",
+    "autoconf": "autoconf",
+    "autogen": "autogen",
+    "automake": "automake"
+  }
+}

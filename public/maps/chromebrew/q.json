@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chromebrew",
+    "shard": "q",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "qemu": "qemu",
+    "qhull": "qhull",
+    "qpdf": "qpdf",
+    "qrencode": "qrencode",
+    "qrupdate": "qrupdate",
+    "qt5_base": "qt",
+    "qt5_charts": "qt",
+    "qt5_declarative": "qt",
+    "qt5_imageformats": "qt",
+    "qt5_location": "qt",
+    "qt5_multimedia": "qt",
+    "qt5_networkauth": "qt",
+    "qt5_quickcontrols": "qt",
+    "qt5_quickcontrols2": "qt",
+    "qt5_script": "qt",
+    "qt5_serialport": "qt",
+    "qt5_svg": "qt",
+    "qt5_tools": "qt",
+    "qt5_wayland": "qt",
+    "qt5_webchannel": "qt",
+    "qt5_webengine": "qt",
+    "qt5_webglplugin": "qt",
+    "qt5_websockets": "qt",
+    "qt5_x11extras": "qt",
+    "qt5_xmlpatterns": "qt",
+    "quazip": "quazip"
+  }
+}

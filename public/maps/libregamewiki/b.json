@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "libregamewiki",
+    "shard": "b",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "Ballerburg": "ballerburg",
+    "Ballerburg SDL": "ballerburg",
+    "Ballerburg_SDL": "ballerburg",
+    "Bastet": "bastet",
+    "Brogue": "brogue"
+  }
+}

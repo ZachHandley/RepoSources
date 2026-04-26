@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "os4depot",
+    "shard": "r",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "re2c.lha": "re2c",
+    "rhash.lha": "rhash",
+    "rtmpdump.lha": "rtmpdump",
+    "ruby.lha": "ruby"
+  }
+}

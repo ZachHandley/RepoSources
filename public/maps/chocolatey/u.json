@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chocolatey",
+    "shard": "u",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "UMLet": "umlet",
+    "Ultimate Packer for eXecutables": "upx",
+    "Umple": "umple",
+    "Unbound (Install)": "unbound",
+    "Unciv": "unciv",
+    "Uncrustify Code Beautifier": "uncrustify",
+    "Unison": "unison",
+    "Unpaper": "unpaper",
+    "uCON64": "ucon64",
+    "ucon64": "ucon64",
+    "ugrep": "ugrep",
+    "umlet": "umlet",
+    "umple": "umple",
+    "unar": "unar",
+    "unbound": "unbound",
+    "unciv": "unciv",
+    "uncrustify": "uncrustify",
+    "ungit": "ungit",
+    "uni": "uni",
+    "uni: Unicode database command-line query tool": "uni",
+    "unison": "unison",
+    "universal-ctags": "universal-ctags",
+    "unpaper": "unpaper",
+    "unzip": "unzip",
+    "upx": "upx",
+    "usbip": "linux-headers@4.4",
+    "usbip (Install)": "linux-headers@4.4",
+    "uv": "uv"
+  }
+}

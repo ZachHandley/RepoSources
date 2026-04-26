@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_cooking",
+    "shard": "y",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "yajl": "yajl",
+    "yaml": "libyaml",
+    "yaml-dev": "libyaml",
+    "yasm": "yasm",
+    "yasm-dev": "yasm",
+    "yaws": "yaws",
+    "yaze-ag": "yaze-ag",
+    "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl"
+  }
+}

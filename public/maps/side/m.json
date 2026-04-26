@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "side",
+    "shard": "m",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "m4": "m4",
+    "mac": "mac",
+    "make": "make",
+    "man-db": "man-db",
+    "mandoc": "mandoc",
+    "mc": "midnight-commander",
+    "md4c": "md4c",
+    "mercurial": "mercurial",
+    "mesa": "mesa",
+    "mesa-glu": "mesa-glu",
+    "meson": "meson",
+    "minizip-ng": "minizip-ng",
+    "mit-kerberos": "krb5",
+    "mjpegtools": "mjpegtools",
+    "motif": "openmotif",
+    "mp4v2": "mp4v2",
+    "mpc": "libmpc",
+    "mpdecimal": "mpdecimal",
+    "mpfr": "mpfr",
+    "mpg123": "mpg123",
+    "mpv": "mpv",
+    "mtools": "mtools",
+    "musepack": "musepack",
+    "mypaint-brushes": "mypaint-brushes"
+  }
+}

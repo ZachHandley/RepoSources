@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_21",
+    "shard": "g",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "gegl": "gegl",
+    "gimp-gmic": "gmic",
+    "gir1.2-ayatanaappindicator-0.1": "libayatana-appindicator",
+    "gir1.2-ayatanaappindicator3-0.1": "libayatana-appindicator",
+    "gir1.2-babl-0.1": "babl",
+    "gir1.2-gegl-0.4": "gegl",
+    "glances": "glances",
+    "glances-doc": "glances",
+    "glfw3": "glfw",
+    "gmic": "gmic",
+    "gmic-zart": "gmic",
+    "goocanvas": "goocanvas",
+    "gtk-gnutella": "gtk-gnutella"
+  }
+}

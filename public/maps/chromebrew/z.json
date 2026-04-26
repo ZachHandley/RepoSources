@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chromebrew",
+    "shard": "z",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "z": "z",
+    "zellij": "zellij",
+    "zenity": "zenity",
+    "zeromq": "zeromq",
+    "zig": "zig",
+    "zig13": "zig",
+    "zile": "zile",
+    "zimg": "zimg",
+    "zip": "zip",
+    "zix": "zix",
+    "zlib": "zlib",
+    "zlib_ng": "zlib-ng",
+    "zola": "zola",
+    "zoneinfo": "tzdb",
+    "zopfli": "zopfli",
+    "zoxide": "zoxide",
+    "zsh": "zsh",
+    "zstd": "zstd",
+    "zstd_static": "zstd",
+    "zsync": "zsync",
+    "zug": "zug",
+    "zvbi": "zvbi",
+    "zziplib": "libzzip",
+    "zzuf": "zzuf"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chocolatey",
+    "shard": "q",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "QEMU Guest Agent (Install)": "qemu",
+    "QPDF": "qpdf",
+    "Qbs": "qbs",
+    "Qemu": "qemu",
+    "Qmmp": "qmmp",
+    "qbs": "qbs",
+    "qemu-guest-agent": "qemu",
+    "qmmp": "qmmp",
+    "qpdf": "qpdf",
+    "qrcp": "qrcp",
+    "quick-lint-js": "quick-lint-js",
+    "quick-lint-js (Install)": "quick-lint-js"
+  }
+}

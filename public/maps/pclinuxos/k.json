@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pclinuxos",
+    "shard": "k",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "karchive": "karchive",
+    "kdoctools": "kdoctools",
+    "kernel-userspace-headers": "linux-headers@4.4",
+    "keychain": "keychain",
+    "keyutils": "keyutils",
+    "ki18n": "ki18n",
+    "klavaro": "klavaro",
+    "kmod": "kmod",
+    "krb5": "krb5",
+    "ksh": "ksh93",
+    "ktexttemplate": "ktexttemplate",
+    "ktoblzcheck": "ktoblzcheck",
+    "kvazaar": "kvazaar",
+    "kyotocabinet": "kyoto-cabinet"
+  }
+}

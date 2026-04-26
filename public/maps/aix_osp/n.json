@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aix_osp",
+    "shard": "n",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "nagios": "nagios",
+    "nagios-nrpe": "nrpe",
+    "nagios-plugins": "nagios-plugins",
+    "nano": "nano",
+    "ncdu": "ncdu",
+    "ncftp": "ncftp",
+    "ncompress": "ncompress",
+    "ncrack": "ncrack",
+    "ncurses": "ncurses",
+    "nedit": "nedit",
+    "neon": "neon",
+    "net-snmp": "net-snmp",
+    "netcdf": "netcdf",
+    "netcdf-cxx": "netcdf-cxx",
+    "netcdf-cxx4": "netcdf-cxx",
+    "netcdf-fortran": "netcdf-fortran",
+    "netpbm": "netpbm",
+    "nettle": "nettle",
+    "nginx": "nginx",
+    "ngrep": "ngrep",
+    "nmap": "nmap",
+    "nmh": "nmh",
+    "nodejs": "node",
+    "npth": "npth",
+    "nspr": "nspr",
+    "nss": "nss",
+    "nss-softokn": "nss",
+    "nss-util": "nss",
+    "nuttcp": "nuttcp"
+  }
+}

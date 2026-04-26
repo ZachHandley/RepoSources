@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "t2",
+    "shard": "z",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "zabbix": "zabbix",
+    "zarith": "ocaml-zarith",
+    "zeek": "zeek",
+    "zellij": "zellij",
+    "zenity": "zenity",
+    "zig": "zig",
+    "zile": "zile",
+    "zimg": "zimg",
+    "zip": "zip",
+    "zita-convolver": "zita-convolver",
+    "zix": "zix",
+    "zlib": "zlib",
+    "zlib-ng": "zlib-ng",
+    "zls": "zls",
+    "znc": "znc",
+    "zopfli": "zopfli",
+    "zoxide": "zoxide",
+    "zpaqfranz": "zpaqfranz",
+    "zsh": "zsh",
+    "zstd": "zstd",
+    "zsync": "zsync",
+    "zug": "zug",
+    "zxing-cpp": "zxing-cpp",
+    "zycore": "zycore-c",
+    "zydis": "zydis",
+    "zziplib": "libzzip"
+  }
+}

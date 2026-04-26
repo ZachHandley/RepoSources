@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openpkg_current",
+    "shard": "e",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "ecl": "ecl",
+    "ed": "ed",
+    "eigen": "eigen",
+    "elixir": "elixir",
+    "elvish": "elvish",
+    "emacs": "emacs",
+    "emqx": "emqx",
+    "emscripten": "emscripten",
+    "enca": "enca",
+    "enscript": "enscript",
+    "entr": "entr",
+    "epstool": "epstool",
+    "erlang": "erlang",
+    "erlang19": "erlang",
+    "erlang25": "erlang",
+    "eslint": "eslint",
+    "espeak": "espeak",
+    "etcd": "etcd",
+    "ethereum": "ethereum",
+    "ettercap": "ettercap",
+    "ex-vi": "ex-vi",
+    "exif": "exif",
+    "exim": "exim",
+    "expat": "expat",
+    "expect": "expect",
+    "eza": "eza"
+  }
+}

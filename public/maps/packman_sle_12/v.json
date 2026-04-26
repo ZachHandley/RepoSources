@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "packman_sle_12",
+    "shard": "v",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "vamp-plugin-sdk": "vamp-plugin-sdk",
+    "vapoursynth": "vapoursynth",
+    "vid_stab": "libvidstab",
+    "vimpc": "vimpc",
+    "vo-aacenc": "libvo-aacenc",
+    "vo-amrwbenc": "vo-amrwbenc"
+  }
+}

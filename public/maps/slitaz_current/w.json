@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "w",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "wavpack": "wavpack",
+    "wavpack-dev": "wavpack",
+    "wayland": "wayland",
+    "wayland-dev": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "webkit2gtk": "webkitgtk",
+    "webkit2gtk-dev": "webkitgtk",
+    "webkitgtk": "webkitgtk",
+    "webkitgtk-dev": "webkitgtk",
+    "wget": "wget",
+    "wget-lang": "wget",
+    "which": "gnu-which",
+    "winetricks": "winetricks",
+    "wireshark": "wireshark",
+    "woff2": "woff2",
+    "woff2-dev": "woff2",
+    "wv": "wv",
+    "wv-dev": "wv",
+    "wxWidgets": "wxwidgets",
+    "wxWidgets-dev": "wxwidgets"
+  }
+}

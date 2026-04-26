@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_education_tumbleweed",
+    "shard": "w",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "wordnet": "wordnet",
+    "wordnet-debuginfo": "wordnet",
+    "wordnet-debugsource": "wordnet",
+    "wordnet-devel": "wordnet",
+    "wxMaxima": "wxmaxima",
+    "wxMaxima-debuginfo": "wxmaxima",
+    "wxMaxima-debugsource": "wxmaxima",
+    "wxMaxima-lang": "wxmaxima"
+  }
+}

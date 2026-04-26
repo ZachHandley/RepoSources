@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "siduction_experimental",
+    "shard": "p",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "pipewire": "pipewire",
+    "pipewire-alsa": "pipewire",
+    "pipewire-audio": "pipewire",
+    "pipewire-audio-client-libraries": "pipewire",
+    "pipewire-bin": "pipewire",
+    "pipewire-doc": "pipewire",
+    "pipewire-jack": "pipewire",
+    "pipewire-libcamera": "pipewire",
+    "pipewire-pulse": "pipewire",
+    "pipewire-tests": "pipewire",
+    "pipewire-v4l2": "pipewire",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

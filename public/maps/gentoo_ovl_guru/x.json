@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gentoo_ovl_guru",
+    "shard": "x",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "x11-terms/dmd5620": "dmd",
+    "x11-terms/rio": "rio-terminal"
+  }
+}

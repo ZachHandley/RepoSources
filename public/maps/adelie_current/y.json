@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "adelie_current",
+    "shard": "y",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "yajl": "yajl",
+    "yajl-dbg": "yajl",
+    "yajl-dev": "yajl",
+    "yajl-tools": "yajl",
+    "yaml": "libyaml",
+    "yaml-cpp": "yaml-cpp",
+    "yaml-cpp-dbg": "yaml-cpp",
+    "yaml-cpp-dev": "yaml-cpp",
+    "yaml-dbg": "libyaml",
+    "yaml-dev": "libyaml",
+    "yasm": "yasm",
+    "yasm-dbg": "yasm",
+    "yasm-dev": "yasm",
+    "yasm-doc": "yasm",
+    "yelp-tools": "yelp-tools",
+    "yelp-tools-dev": "yelp-tools",
+    "yelp-xsl": "yelp-xsl",
+    "yubikey-personalization": "ykpers",
+    "yubikey-personalization-dbg": "ykpers",
+    "yubikey-personalization-dev": "ykpers",
+    "yubikey-personalization-doc": "ykpers"
+  }
+}

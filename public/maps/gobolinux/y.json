@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gobolinux",
+    "shard": "y",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "YAFC": "yafc",
+    "YAJL": "yajl",
+    "YAML": "libyaml",
+    "YELP-Tools": "yelp-tools",
+    "YELP-XSL": "yelp-xsl",
+    "Yasm": "yasm"
+  }
+}

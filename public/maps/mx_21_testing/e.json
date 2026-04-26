@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_21_testing",
+    "shard": "e",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "efl": "efl",
+    "efl-doc": "efl",
+    "exiv2": "exiv2",
+    "extra-cmake-modules": "extra-cmake-modules",
+    "extra-cmake-modules-doc": "extra-cmake-modules",
+    "exult": "exult",
+    "exult-studio": "exult"
+  }
+}

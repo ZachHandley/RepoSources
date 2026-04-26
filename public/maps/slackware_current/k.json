@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slackware_current",
+    "shard": "k",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "karchive": "karchive",
+    "kdoctools": "kdoctools",
+    "kernel-headers": "linux-headers@4.4",
+    "kernel-source": "linux-headers@4.4",
+    "keyutils": "keyutils",
+    "ki18n": "ki18n",
+    "kmod": "kmod",
+    "krb5": "krb5",
+    "ksh93": "ksh93"
+  }
+}

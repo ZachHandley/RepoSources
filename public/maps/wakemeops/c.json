@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wakemeops",
+    "shard": "c",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "carvel-kapp": "kapp",
+    "carvel-ytt": "ytt",
+    "cheat": "cheat",
+    "chezmoi": "chezmoi",
+    "choose": "choose-rust",
+    "cloud-provider-kind": "cloud-provider-kind",
+    "clusterctl": "clusterctl",
+    "container-structure-test": "container-structure-test",
+    "cosign": "cosign",
+    "coursier": "coursier",
+    "curlie": "curlie"
+  }
+}

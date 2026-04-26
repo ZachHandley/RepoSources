@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable64",
+    "shard": "l",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "LDC 64 bit": "ldc",
+    "ldc64": "ldc",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3"
+  }
+}

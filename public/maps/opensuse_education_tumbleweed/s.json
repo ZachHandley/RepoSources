@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_education_tumbleweed",
+    "shard": "s",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "sdcv": "sdcv",
+    "sdcv-debuginfo": "sdcv",
+    "sdcv-debugsource": "sdcv",
+    "sword": "sword",
+    "sword-debuginfo": "sword",
+    "sword-debugsource": "sword",
+    "sword-devel": "sword"
+  }
+}

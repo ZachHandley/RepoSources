@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmsphere",
+    "shard": "t",
+    "total_mappings": 27
+  },
+  "mappings": {
+    "ta-lib": "ta-lib",
+    "ta-lib-debuginfo": "ta-lib",
+    "ta-lib-debugsource": "ta-lib",
+    "ta-lib-devel": "ta-lib",
+    "taskspooler": "task-spooler",
+    "taskspooler-debuginfo": "task-spooler",
+    "taskspooler-debugsource": "task-spooler",
+    "tcc": "tcc",
+    "tcc-debuginfo": "tcc",
+    "tcc-debugsource": "tcc",
+    "termshark": "termshark",
+    "termshark-debuginfo": "termshark",
+    "tiv": "terminalimageviewer",
+    "tiv-debuginfo": "terminalimageviewer",
+    "tkdiff": "tkdiff",
+    "truffle": "truffle",
+    "truffle-debuginfo": "truffle",
+    "truffle-debugsource": "truffle",
+    "ttf2eot": "ttf2eot",
+    "ttf2eot-debuginfo": "ttf2eot",
+    "ttf2eot-debugsource": "ttf2eot",
+    "ttyrec": "ttyrec",
+    "ttyrec-debuginfo": "ttyrec",
+    "ttyrec-debugsource": "ttyrec",
+    "txr": "txr",
+    "txr-debuginfo": "txr",
+    "txr-debugsource": "txr"
+  }
+}

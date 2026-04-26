@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "vcpkg",
+    "shard": "u",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "uchardet": "uchardet",
+    "uni-algo": "uni-algo",
+    "unicorn": "unicorn",
+    "unittest-cpp": "unittest-cpp",
+    "unixodbc": "unixodbc",
+    "urdfdom": "urdfdom",
+    "urdfdom-headers": "urdfdom_headers",
+    "uriparser": "uriparser",
+    "utf8proc": "utf8proc",
+    "utfcpp": "utf8cpp",
+    "uthash": "uthash",
+    "uvw": "uvw"
+  }
+}

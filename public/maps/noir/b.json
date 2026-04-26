@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "noir",
+    "shard": "b",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "b3sum": "b3sum",
+    "bash": "bash",
+    "binutils": "binutils",
+    "bison": "bison",
+    "btrfs-progs": "btrfs-progs",
+    "bubblewrap": "bubblewrap",
+    "bzip2": "bzip2"
+  }
+}

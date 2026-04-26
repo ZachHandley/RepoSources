@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable64",
+    "shard": "a",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "Apache HTTP Server 64 bit": "httpd",
+    "Aria2 64 bit": "aria2",
+    "ag64": "the_silver_searcher",
+    "apache-httpd64": "httpd"
+  }
+}

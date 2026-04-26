@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scoop",
+    "shard": "i",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "i2p": "i2p",
+    "i2pd": "i2pd",
+    "ibazel": "ibazel",
+    "icecast": "icecast",
+    "identme": "identme",
+    "igrep": "igrep",
+    "imagemagick": "imagemagick",
+    "imagemagick-ffmpeg": "imagemagick",
+    "imagemagick-lean": "imagemagick",
+    "influxdb": "influxdb",
+    "influxdb1": "influxdb",
+    "influxdb2": "influxdb",
+    "innoextract": "innoextract",
+    "intermodal": "intermodal",
+    "ios-webkit-debug-proxy": "ios-webkit-debug-proxy",
+    "ipatool": "ipatool",
+    "ipcalc": "ipcalc",
+    "iperf3": "iperf3",
+    "iperf3.5": "iperf3",
+    "ipinfo-cli": "ipinfo-cli",
+    "ipopt": "ipopt",
+    "ironclaw": "ironclaw",
+    "ispc": "ispc",
+    "istioctl": "istioctl"
+  }
+}

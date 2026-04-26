@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_rawhide",
+    "shard": "n",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "Nestopia": "nestopia-ue",
+    "nodejs": "node"
+  }
+}

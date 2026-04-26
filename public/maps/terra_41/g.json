@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_41",
+    "shard": "g",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "gh-act": "act",
+    "gh-act-debuginfo": "act",
+    "gh-act-debugsource": "act",
+    "golang-github-asdf-vm-devel": "asdf",
+    "golang-github-knqyf263-pet-devel": "pet",
+    "golang-github-zrepl-devel": "zrepl",
+    "gping": "gping",
+    "gping-debuginfo": "gping",
+    "graalvm": "graalvm",
+    "graalvm-jdk11": "graalvm",
+    "graalvm-jdk11-devel": "graalvm",
+    "graalvm-jdk17": "graalvm",
+    "graalvm-jdk17-devel": "graalvm",
+    "gradle": "gradle",
+    "gradle-doc": "gradle",
+    "gradle-src": "gradle",
+    "groovy": "groovy",
+    "groovy-docs": "groovy"
+  }
+}

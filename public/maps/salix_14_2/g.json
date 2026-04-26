@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "salix_14_2",
+    "shard": "g",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "glfw": "glfw",
+    "glpk": "glpk",
+    "gnumeric": "gnumeric",
+    "gnustep-base": "gnustep-base",
+    "gnustep-make": "gnustep-make",
+    "goffice": "goffice",
+    "gperf": "gperf",
+    "grsync": "grsync",
+    "gtksourceview": "gtksourceview3",
+    "gtksourceview3": "gtksourceview3"
+  }
+}

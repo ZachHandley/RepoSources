@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slackware64_current",
+    "shard": "i",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "Imath": "imath",
+    "icon-naming-utils": "icon-naming-utils",
+    "icu4c": "icu4c@78",
+    "id3lib": "id3lib",
+    "iftop": "iftop",
+    "imagemagick": "imagemagick",
+    "imake": "imake",
+    "immer": "immer",
+    "indent": "gnu-indent",
+    "inih": "inih",
+    "iniparser": "iniparser",
+    "inotify-tools": "inotify-tools",
+    "intltool": "intltool",
+    "inxi": "inxi",
+    "iproute2": "iproute2",
+    "iptables": "iptables",
+    "iputils": "iputils",
+    "irssi": "irssi",
+    "isl": "isl",
+    "iso-codes": "iso-codes",
+    "ispell": "ispell",
+    "itstool": "itstool"
+  }
+}

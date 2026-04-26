@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_experimental",
+    "shard": "d",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "dante": "dante",
+    "dante-client": "dante",
+    "dante-server": "dante",
+    "daq": "daq",
+    "dasd-extra-modules-7.0-s390x-di": "linux-headers@4.4",
+    "dasd-modules-7.0-s390x-di": "linux-headers@4.4",
+    "dash": "dash-shell",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dnsutils": "bind",
+    "dragonbox": "dragonbox",
+    "drm-core-modules-7.0-alpha-generic-di": "linux-headers@4.4",
+    "drm-core-modules-7.0-amd64-di": "linux-headers@4.4",
+    "drm-core-modules-7.0-armmp-di": "linux-headers@4.4",
+    "drm-core-modules-7.0-loong64-di": "linux-headers@4.4",
+    "drm-core-modules-7.0-powerpc-di": "linux-headers@4.4",
+    "drm-core-modules-7.0-powerpc64-di": "linux-headers@4.4",
+    "drm-core-modules-7.0-powerpc64le-di": "linux-headers@4.4",
+    "drm-core-modules-7.0-riscv64-di": "linux-headers@4.4",
+    "drm-core-modules-7.0-sparc64-di": "linux-headers@4.4",
+    "dtc": "dtc",
+    "dtc-autodeploy": "dtc",
+    "dtc-common": "dtc",
+    "dtc-core": "dtc",
+    "dtc-cyrus": "dtc",
+    "dtc-dos-firewall": "dtc",
+    "dtc-postfix-courier": "dtc",
+    "dtc-postfix-dovecot": "dtc",
+    "dtc-stats-daemon": "dtc",
+    "dtc-toaster": "dtc"
+  }
+}

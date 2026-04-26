@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "npackd_stable64",
+    "shard": "t",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "TestDisk & PhotoRec 64 bit": "testdisk",
+    "TigerVNC 64 bit": "tiger-vnc",
+    "Tomcat 64 bit": "tomcat",
+    "Transmission-Qt 64 bit": "transmission-cli",
+    "tigervnc64": "tiger-vnc",
+    "transmission-qt64": "transmission-cli"
+  }
+}

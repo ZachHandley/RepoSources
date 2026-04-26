@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "sagemath_stable",
+    "shard": "l",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "libatomic_ops": "libatomic_ops",
+    "libffi": "libffi",
+    "libgd": "gd",
+    "liblzma": "xz",
+    "libogg": "libogg",
+    "libpng": "libpng",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3"
+  }
+}

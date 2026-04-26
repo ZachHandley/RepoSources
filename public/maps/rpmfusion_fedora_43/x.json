@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_43",
+    "shard": "x",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "x264": "x264",
+    "x264-devel": "x264",
+    "x264-libs": "x264",
+    "x265": "x265",
+    "x265-devel": "x265",
+    "x265-libs": "x265",
+    "xroar": "xroar"
+  }
+}

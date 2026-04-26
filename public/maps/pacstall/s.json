@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "s",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "sbt-deb": "sbt",
+    "scrcpy": "scrcpy",
+    "sed": "gnu-sed",
+    "setconf": "setconf",
+    "shellcheck-bin": "shellcheck",
+    "shellharden": "shellharden",
+    "shfmt-bin": "shfmt",
+    "sleek-deb": "sleek",
+    "sniffnet-deb": "sniffnet",
+    "starship-bin": "starship",
+    "stockfish-git": "stockfish"
+  }
+}

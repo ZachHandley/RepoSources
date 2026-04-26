@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "void_x86_64",
+    "shard": "_misc",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "3mux": "threemux",
+    "64tass": "tass64",
+    "6tunnel": "sixtunnel",
+    "7kaa": "seven-kingdoms",
+    "7zip": "sevenzip",
+    "7zip-unrar": "sevenzip"
+  }
+}

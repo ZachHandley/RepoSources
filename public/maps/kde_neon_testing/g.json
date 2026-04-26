@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kde_neon_testing",
+    "shard": "g",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "gammaray": "gammaray",
+    "gammaray-dev": "gammaray",
+    "gammaray-plugin-bluetooth": "gammaray",
+    "gammaray-plugin-kjobtracker": "gammaray",
+    "gammaray-plugin-objectvisualizer": "gammaray",
+    "gammaray-plugin-positioning": "gammaray",
+    "gammaray-plugin-quickinspector": "gammaray",
+    "gammaray-plugin-waylandinspector": "gammaray",
+    "gir1.2-appstream-1.0": "appstream",
+    "gir1.2-appstreamcompose-1.0": "appstream",
+    "gir1.2-fwupd-2.0": "fwupd",
+    "gir1.2-poppler-0.18": "poppler",
+    "gir1.2-xmlb-2.0": "libxmlb",
+    "gpgme1.0": "gpgme",
+    "grantlee5": "grantlee",
+    "gwenhywfar-tools": "gwenhywfar"
+  }
+}

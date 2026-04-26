@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_community",
+    "shard": "s",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "s6": "s6",
+    "s6-rc": "s6-rc",
+    "sane": "sane-backends",
+    "sbcl": "sbcl",
+    "sc-im": "sc-im",
+    "sccache": "sccache",
+    "scrcpy": "scrcpy",
+    "scryer-prolog": "scryer-prolog",
+    "sdl2": "sdl2",
+    "sed": "gnu-sed",
+    "senpai": "senpai",
+    "sgt-puzzles": "puzzles",
+    "shellcheck-bin": "shellcheck",
+    "shepherd": "shepherd",
+    "shfmt-bin": "shfmt",
+    "slang": "s-lang",
+    "slides": "slides",
+    "slirp4netns": "slirp4netns",
+    "spotify-player": "spotify_player",
+    "spotifyd": "spotifyd",
+    "squashfs-tools": "squashfs",
+    "syncthing": "syncthing"
+  }
+}

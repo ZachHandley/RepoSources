@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aixtoolbox",
+    "shard": "f",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "faiss": "faiss",
+    "fdupes": "fdupes",
+    "fetchmail": "fetchmail",
+    "file": "file-formula",
+    "filebeat": "filebeat",
+    "findutils": "findutils",
+    "fio": "fio",
+    "flex": "flex",
+    "fontconfig": "fontconfig",
+    "freetype2": "freetype",
+    "fribidi": "fribidi",
+    "fswatch": "fswatch"
+  }
+}

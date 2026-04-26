@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kaos",
+    "shard": "m",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "m4": "m4",
+    "make": "make",
+    "man-db": "man-db",
+    "mariadb": "mariadb",
+    "maxima": "maxima",
+    "mbedtls": "mbedtls",
+    "mc": "midnight-commander",
+    "mcpp": "mcpp",
+    "md4c": "md4c",
+    "mdds": "mdds",
+    "mediainfo": "media-info",
+    "mediainfolib": "libmediainfo",
+    "mercurial": "mercurial",
+    "mesa": "mesa",
+    "meson": "meson",
+    "micro": "micro",
+    "miniupnpc": "miniupnpc",
+    "mjpegtools": "mjpegtools",
+    "mkvtoolnix": "mkvtoolnix",
+    "mlt": "mlt",
+    "mm-common": "mm-common",
+    "mpd": "mpd",
+    "mpfr": "mpfr",
+    "mpg123": "mpg123",
+    "mplayer": "mplayer",
+    "mpv": "mpv",
+    "ms-gsl": "cpp-gsl",
+    "mtools": "mtools",
+    "muparser": "muparser",
+    "mypaint-brushes": "mypaint-brushes"
+  }
+}

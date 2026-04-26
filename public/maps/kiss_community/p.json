@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_community",
+    "shard": "p",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "pandoc-bin": "pandoc",
+    "patch": "gpatch",
+    "patchelf": "patchelf",
+    "pciutils": "pciutils",
+    "perl": "perl",
+    "pfetch": "pfetch",
+    "pick": "pick",
+    "pinentry": "pinentry",
+    "pipewire": "pipewire",
+    "pkcs11-helper": "pkcs11-helper",
+    "poppler": "poppler",
+    "popt": "popt",
+    "pqiv": "pqiv",
+    "procps-ng": "procps",
+    "protobuf": "protobuf",
+    "protobuf-c": "protobuf-c",
+    "pv": "pv",
+    "pybind11": "pybind11",
+    "pystring": "pystring",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "exherbo",
+    "shard": "v",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "virtualization-guest/qemu-guest-agent": "qemu",
+    "virtualization-lib/libvirt": "libvirt",
+    "virtualization-lib/libvirt-glib": "libvirt-glib",
+    "virtualization-lib/libvirt-python": "libvirt-python",
+    "virtualization-lib/spice": "spice-server",
+    "virtualization-lib/spice-protocol": "spice-protocol",
+    "virtualization-ui/spice-gtk": "spice-gtk",
+    "virtualization-ui/virt-manager": "virt-manager"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_multimedia_apps_tumbleweed",
+    "shard": "a",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "ab-av1": "ab-av1",
+    "ab-av1-debuginfo": "ab-av1",
+    "ab-av1-debugsource": "ab-av1",
+    "abcde": "abcde",
+    "abcm2ps": "abcm2ps",
+    "abcm2ps-debuginfo": "abcm2ps",
+    "abcm2ps-debugsource": "abcm2ps",
+    "abxtest": "madplay",
+    "adplay": "adplay",
+    "adplay-debuginfo": "adplay",
+    "adplay-debugsource": "adplay",
+    "adplugdb": "adplug",
+    "audacious": "audacious",
+    "audacious-debuginfo": "audacious",
+    "audacious-debugsource": "audacious",
+    "audacious-devel": "audacious",
+    "audacious-lang": "audacious"
+  }
+}

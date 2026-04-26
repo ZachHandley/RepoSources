@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pld",
+    "shard": "w",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "WordNet": "wordnet",
+    "w3m": "w3m",
+    "wavpack": "wavpack",
+    "wayland": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "wcslib": "wcslib",
+    "wdiff": "wdiff",
+    "webrtc-libilbc": "libilbc",
+    "websocketpp": "websocketpp",
+    "weechat": "weechat",
+    "wget": "wget",
+    "wget2": "wget2",
+    "wgetpaste": "wgetpaste",
+    "which": "gnu-which",
+    "whois": "whois",
+    "widelands": "widelands",
+    "wiggle": "wiggle",
+    "wiiuse": "wiiuse",
+    "wildmidi": "wildmidi",
+    "wimlib": "wimlib",
+    "wireguard-tools": "wireguard-tools",
+    "wireshark": "wireshark",
+    "wmctrl": "wmctrl",
+    "woff2": "woff2",
+    "wolfssl": "wolfssl",
+    "wpebackend-fdo": "wpebackend-fdo",
+    "writerperfect": "writerperfect",
+    "wv": "wv",
+    "wv2": "wv2",
+    "wwwoffle": "wwwoffle",
+    "wxMaxima": "wxmaxima",
+    "wxWidgets": "wxwidgets"
+  }
+}

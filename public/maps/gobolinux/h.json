@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gobolinux",
+    "shard": "h",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "HDF5": "hdf5",
+    "HIDAPI": "hidapi",
+    "HIVEX": "hivex",
+    "HSpell": "hspell",
+    "HT": "ht",
+    "HTMLTidy": "tidy-html5",
+    "HTTPD": "httpd",
+    "HaXe_bin": "haxe",
+    "HandBrake": "handbrake",
+    "HarfBuzz": "harfbuzz",
+    "Heimdal": "heimdal",
+    "Help2Man": "help2man",
+    "Heroku": "heroku",
+    "HexEdit": "hexedit",
+    "HiColor-Icons": "hicolor-icon-theme",
+    "Hicolor-Icon-Theme": "hicolor-icon-theme",
+    "Highlight": "highlight",
+    "HomeBank": "homebank",
+    "Htop": "htop",
+    "Hugo": "hugo",
+    "HunSpell": "hunspell",
+    "Hwloc": "hwloc"
+  }
+}

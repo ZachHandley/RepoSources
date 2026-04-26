@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_security_tumbleweed",
+    "shard": "p",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "pam_oath": "oath-toolkit",
+    "pam_u2f": "pam-u2f",
+    "pam_u2f-debuginfo": "pam-u2f",
+    "pam_u2f-debugsource": "pam-u2f",
+    "pdfcrack": "pdfcrack",
+    "pdfcrack-debuginfo": "pdfcrack",
+    "pdfcrack-debugsource": "pdfcrack",
+    "pinact": "pinact",
+    "pinact-bash-completion": "pinact",
+    "pinact-debuginfo": "pinact",
+    "pinact-debugsource": "pinact",
+    "pinact-fish-completion": "pinact",
+    "pinact-zsh-completion": "pinact",
+    "python-pwntools": "pwntools",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python311-pwntools": "pwntools",
+    "python313-pwntools": "pwntools",
+    "python314-pwntools": "pwntools"
+  }
+}

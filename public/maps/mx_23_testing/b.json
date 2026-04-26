@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_23_testing",
+    "shard": "b",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "borgbackup": "borgbackup",
+    "borgbackup-doc": "borgbackup",
+    "btrfs-progs": "btrfs-progs",
+    "btrfs-progs-udeb": "btrfs-progs"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chocolatey",
+    "shard": "x",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "XML2RFC - IETF RFC Document Generator": "xml2rfc",
+    "XMLStarlet": "xmlstarlet",
+    "XMLStarlet (Portable)": "xmlstarlet",
+    "XQilla - an XQuery and XPath 2.0 command line utility": "xqilla",
+    "Xidel": "xidel",
+    "Xvid": "xvid",
+    "xc": "xc",
+    "xdelta3": "xdelta",
+    "xh": "xh",
+    "xidel": "xidel",
+    "xmake": "xmake",
+    "xml2rfc": "xml2rfc",
+    "xmlstarlet": "xmlstarlet",
+    "xmlstarlet.portable": "xmlstarlet",
+    "xqilla": "xqilla",
+    "xsltproc": "libxslt",
+    "xsltproc (Install)": "libxslt",
+    "xsv": "xsv",
+    "xvid": "xvid",
+    "xxd": "vim"
+  }
+}

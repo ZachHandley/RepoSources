@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_rawhide",
+    "shard": "z",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "zig-master": "zig",
+    "zig-master-bootstrap": "zig",
+    "zig-master-bootstrap-debuginfo": "zig",
+    "zig-master-bootstrap-debugsource": "zig",
+    "zig-master-bootstrap-libs": "zig",
+    "zig-master-debuginfo": "zig",
+    "zig-master-debugsource": "zig",
+    "zig-master-doc": "zig",
+    "zig-master-libs": "zig",
+    "zola": "zola",
+    "zola-bash-completion": "zola",
+    "zola-debuginfo": "zola",
+    "zola-debugsource": "zola",
+    "zola-elvish-completion": "zola",
+    "zola-fish-completion": "zola",
+    "zola-zsh-completion": "zola",
+    "zrepl": "zrepl",
+    "zsh-autocomplete": "zsh-autocomplete"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ptxdist",
+    "shard": "r",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "radvd": "radvd",
+    "rapidjson": "rapidjson",
+    "re2": "re2",
+    "readline": "readline",
+    "redis": "redis",
+    "rrdtool": "rrdtool",
+    "rsync": "rsync",
+    "rsyslog": "rsyslog",
+    "rtmpdump": "rtmpdump"
+  }
+}

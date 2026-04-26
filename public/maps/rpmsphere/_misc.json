@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmsphere",
+    "shard": "_misc",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "4store": "fourstore",
+    "4store-debuginfo": "fourstore",
+    "4store-debugsource": "fourstore",
+    "4store-devel": "fourstore"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gobolinux",
+    "shard": "k",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "KSH": "ksh93",
+    "Kakoune": "kakoune",
+    "Kerberos": "krb5",
+    "KeyChain": "keychain",
+    "KeyUtils": "keyutils",
+    "Kmod": "kmod",
+    "Kompose": "kompose",
+    "KtoBlzCheck": "ktoblzcheck"
+  }
+}

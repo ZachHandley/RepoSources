@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "yacp",
+    "shard": "i",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "Imath": "imath",
+    "iat": "iat",
+    "icecast": "icecast",
+    "icecream": "icecream",
+    "ideviceinstaller": "ideviceinstaller",
+    "idutils": "idutils",
+    "idzebra": "zebra",
+    "ifstat": "ifstat",
+    "igraph": "igraph",
+    "iir1": "iir1",
+    "ike-scan": "ike-scan",
+    "imageworsener": "imageworsener",
+    "inadyn": "inadyn",
+    "iniparser": "iniparser",
+    "innoextract": "innoextract",
+    "ios-webkit-debug-proxy": "ios-webkit-debug-proxy",
+    "iowow": "iowow",
+    "irrtoolset": "irrtoolset",
+    "isync": "isync",
+    "itpp": "itpp",
+    "ivykis": "ivykis"
+  }
+}

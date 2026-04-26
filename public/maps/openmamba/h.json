@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openmamba",
+    "shard": "h",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "handbrake": "handbrake",
+    "harfbuzz": "harfbuzz",
+    "harfbuzz-apidocs": "harfbuzz",
+    "hashdeep": "md5deep",
+    "hashdeep-debug": "md5deep",
+    "help2man": "help2man",
+    "help2man-debug": "help2man",
+    "hfsutils": "hfsutils",
+    "hicolor-icon-theme": "hicolor-icon-theme",
+    "hidapi": "hidapi",
+    "highlight": "highlight",
+    "highlight-gui": "highlight",
+    "highway": "highway",
+    "hiredis": "hiredis",
+    "hivex": "hivex",
+    "homebank": "homebank",
+    "hspell": "hspell",
+    "html2text": "html2text",
+    "htmldoc": "htmldoc",
+    "htop": "htop",
+    "hunspell": "hunspell",
+    "hunspell-debug": "hunspell",
+    "hunspell-he": "hspell",
+    "hwloc": "hwloc",
+    "hwloc-debug": "hwloc"
+  }
+}

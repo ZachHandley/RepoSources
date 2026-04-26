@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openpkg_current",
+    "shard": "q",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "q": "q",
+    "qdbm": "qdbm",
+    "qpdf": "qpdf",
+    "qrencode": "qrencode",
+    "quilt": "quilt"
+  }
+}

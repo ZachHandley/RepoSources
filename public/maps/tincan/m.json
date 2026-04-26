@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "tincan",
+    "shard": "m",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "m4": "m4",
+    "make": "make",
+    "mesa": "mesa",
+    "meson": "meson",
+    "mpc": "libmpc",
+    "mpfr": "mpfr"
+  }
+}

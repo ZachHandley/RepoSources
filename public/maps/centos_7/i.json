@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_7",
+    "shard": "i",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "ImageMagick": "imagemagick",
+    "i2c-tools": "i2c-tools",
+    "icon-naming-utils": "icon-naming-utils",
+    "icoutils": "icoutils",
+    "icu": "icu4c@74",
+    "ilmbase": "openexr",
+    "imake": "imake",
+    "indent": "gnu-indent",
+    "iniparser": "iniparser",
+    "intltool": "intltool",
+    "iperf3": "iperf3",
+    "ipmitool": "ipmitool",
+    "iproute": "iproute2",
+    "iptables": "iptables",
+    "iputils": "iputils",
+    "irssi": "irssi",
+    "iso-codes": "iso-codes",
+    "itstool": "itstool"
+  }
+}

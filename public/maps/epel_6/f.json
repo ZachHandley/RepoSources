@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_6",
+    "shard": "f",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "f3": "f3",
+    "fabric": "fabric",
+    "fail2ban": "fail2ban",
+    "fann": "fann",
+    "fcgi": "fcgi",
+    "fdupes": "fdupes",
+    "fetch-crl": "fetch-crl",
+    "fex": "fex",
+    "fftw2": "fftw",
+    "figlet": "figlet",
+    "fio": "fio",
+    "flann": "flann",
+    "flashrom": "flashrom",
+    "flow-tools": "flow-tools",
+    "fltk": "fltk",
+    "fmt": "fmt",
+    "fonttools": "fonttools",
+    "fpart": "fpart",
+    "fpdns": "fpdns",
+    "fping": "fping",
+    "freeDiameter": "freediameter",
+    "freealut": "freealut",
+    "freeimage": "freeimage",
+    "freerdp": "freerdp",
+    "freetds": "freetds",
+    "freexl": "freexl",
+    "fribidi": "fribidi",
+    "ftgl": "ftgl",
+    "ftnchek": "ftnchek",
+    "fuse-encfs": "encfs",
+    "fuse-sshfs": "sshfs",
+    "fwknop": "fwknop"
+  }
+}

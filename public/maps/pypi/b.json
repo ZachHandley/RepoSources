@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pypi",
+    "shard": "b",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "Brotli": "brotli",
+    "b2": "b2-tools",
+    "b4": "b4",
+    "beancount": "beancount",
+    "black": "black",
+    "borgbackup": "borgbackup",
+    "bpython": "bpython",
+    "bpytop": "bpytop",
+    "brotli": "brotli",
+    "build": "python-build",
+    "buku": "buku",
+    "bumpversion": "bumpversion"
+  }
+}

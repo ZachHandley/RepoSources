@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_science_tumbleweed",
+    "shard": "r",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "rna-star": "rna-star",
+    "rna-star-debuginfo": "rna-star",
+    "rna-star-debugsource": "rna-star",
+    "root6": "root",
+    "root6-config": "root",
+    "root6-debuginfo": "root",
+    "root6-debugsource": "root",
+    "root6-devel": "root",
+    "root6-libs": "root",
+    "root6-test": "root",
+    "root6-tutorials": "root",
+    "root6-utils": "root"
+  }
+}

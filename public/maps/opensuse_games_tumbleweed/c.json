@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_games_tumbleweed",
+    "shard": "c",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "CorsixTH": "corsixth",
+    "CorsixTH-debuginfo": "corsixth",
+    "CorsixTH-debugsource": "corsixth",
+    "cataclysm-dda": "cataclysm",
+    "cataclysm-dda-data": "cataclysm",
+    "cataclysm-dda-debuginfo": "cataclysm",
+    "cataclysm-dda-debugsource": "cataclysm",
+    "cataclysm-dda-lang": "cataclysm",
+    "cbonsai": "cbonsai",
+    "cbonsai-bash-completion": "cbonsai",
+    "cbonsai-debuginfo": "cbonsai",
+    "cbonsai-debugsource": "cbonsai",
+    "cdogs-sdl": "cdogs-sdl",
+    "cdogs-sdl-debuginfo": "cdogs-sdl",
+    "cdogs-sdl-debugsource": "cdogs-sdl",
+    "chocolate-doom": "chocolate-doom",
+    "chocolate-doom-debuginfo": "chocolate-doom",
+    "chocolate-doom-debugsource": "chocolate-doom",
+    "colorcode": "color-code",
+    "colorcode-debuginfo": "color-code",
+    "colorcode-debugsource": "color-code",
+    "crispy-doom": "crispy-doom",
+    "crispy-doom-bash-completion": "crispy-doom",
+    "crispy-doom-debuginfo": "crispy-doom",
+    "crispy-doom-debugsource": "crispy-doom",
+    "curseofwar": "curseofwar",
+    "curseofwar-debuginfo": "curseofwar",
+    "curseofwar-debugsource": "curseofwar",
+    "curseofwar-sdl": "curseofwar",
+    "cxxtest": "cxxtest",
+    "cxxtest-devel": "cxxtest",
+    "cxxtest-doc": "cxxtest"
+  }
+}

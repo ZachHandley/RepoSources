@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "apertis_v2023",
+    "shard": "v",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "va-driver-all": "libva",
+    "vala": "vala",
+    "vala-0.48-doc": "vala",
+    "valac": "vala",
+    "valac-0.48-vapi": "vala",
+    "valac-bin": "vala",
+    "valadoc": "vala",
+    "valgrind": "valgrind",
+    "valgrind-dbg": "valgrind",
+    "vde-switch": "vde",
+    "vde-wirefilter": "vde",
+    "vde2": "vde",
+    "vde2-cryptcab": "vde",
+    "vdeplug": "vde",
+    "vdpau-driver-all": "libvdpau",
+    "vim": "vim",
+    "vim-asciidoc": "asciidoc",
+    "vim-athena": "vim",
+    "vim-common": "vim",
+    "vim-doc": "vim",
+    "vim-gtk": "vim",
+    "vim-gtk3": "vim",
+    "vim-gui-common": "vim",
+    "vim-nox": "vim",
+    "vim-runtime": "vim",
+    "vim-tiny": "vim",
+    "virtualenv": "virtualenv",
+    "vorbis-tools": "vorbis-tools",
+    "vpx-tools": "libvpx",
+    "vte": "vte3",
+    "vte2.91": "vte3",
+    "vulkan-loader": "vulkan-loader"
+  }
+}

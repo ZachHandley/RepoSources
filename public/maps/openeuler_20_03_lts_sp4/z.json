@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openeuler_20_03_lts_sp4",
+    "shard": "z",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "zenity": "zenity",
+    "zimg": "zimg",
+    "zip": "zip",
+    "zlib": "zlib",
+    "zookeeper": "zookeeper",
+    "zopfli": "zopfli",
+    "zsh": "zsh",
+    "zstd": "zstd",
+    "zvbi": "zvbi",
+    "zziplib": "libzzip"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "amazon_1",
+    "shard": "h",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "haproxy": "haproxy",
+    "harfbuzz": "harfbuzz",
+    "help2man": "help2man",
+    "hesiod": "hesiod",
+    "htop": "htop",
+    "httpd": "httpd",
+    "httpd24": "httpd",
+    "hunspell": "hunspell",
+    "hwloc": "hwloc"
+  }
+}

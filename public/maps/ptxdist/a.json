@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ptxdist",
+    "shard": "a",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "abseil-cpp": "abseil",
+    "acl": "acl",
+    "alsa-lib": "alsa-lib",
+    "archivemount": "archivemount",
+    "armadillo": "armadillo",
+    "assimp": "assimp",
+    "at-spi2-core": "at-spi2-core",
+    "atop": "atop",
+    "attr": "attr",
+    "autossh": "autossh",
+    "avahi": "avahi"
+  }
+}

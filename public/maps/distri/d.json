@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "distri",
+    "shard": "d",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "dbus": "dbus",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "diffutils": "diffutils",
+    "dnsmasq": "dnsmasq",
+    "docbook-xsl": "docbook-xsl",
+    "docbook2x": "docbook2x",
+    "docker-engine": "docker-engine",
+    "dosfstools": "dosfstools"
+  }
+}

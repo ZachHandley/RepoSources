@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_6",
+    "shard": "i",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "icecast": "icecast",
+    "icecream": "icecream",
+    "icoutils": "icoutils",
+    "id3lib": "id3lib",
+    "iftop": "iftop",
+    "igraph": "igraph",
+    "ike-scan": "ike-scan",
+    "ilbc": "libilbc",
+    "imapfilter": "imapfilter",
+    "imapsync": "imapsync",
+    "imlib2": "imlib2",
+    "inchi": "inchi",
+    "innotop": "innotop",
+    "inotify-tools": "inotify-tools",
+    "inxi": "inxi",
+    "iodine": "iodine",
+    "ioping": "ioping",
+    "iperf3": "iperf3",
+    "ipmiutil": "ipmiutil",
+    "ipv6calc": "ipv6calc",
+    "ipython": "ipython",
+    "irrlicht": "irrlicht",
+    "isync": "isync",
+    "itstool": "itstool",
+    "ivykis": "ivykis",
+    "iwyu": "include-what-you-use"
+  }
+}

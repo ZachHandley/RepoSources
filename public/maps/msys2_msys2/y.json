@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "msys2_msys2",
+    "shard": "y",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "yasm": "yasm",
+    "yasm-devel": "yasm",
+    "yelp-tools": "yelp-tools",
+    "yelp-xsl": "yelp-xsl"
+  }
+}

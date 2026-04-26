@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gobolinux",
+    "shard": "e",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "E2FSProgs": "e2fsprogs",
+    "EBook-Tools": "ebook-tools",
+    "ECL": "ecl",
+    "EFL": "efl",
+    "ELFUtils": "elfutils",
+    "ENet": "enet",
+    "EPIC5": "epic5",
+    "ESpeak": "espeak",
+    "EXOSIP2": "libexosip",
+    "EasyTAG": "easy-tag",
+    "Ecasound": "ecasound",
+    "Ed": "ed",
+    "Eigen": "eigen",
+    "Elixir": "elixir",
+    "Emacs": "emacs",
+    "EncFS": "encfs",
+    "Enchant": "enchant",
+    "Enscript": "enscript",
+    "Epeg": "epeg",
+    "Erlang": "erlang",
+    "Evince": "evince",
+    "Exempi": "exempi",
+    "Exif": "exif",
+    "Exiv2": "exiv2",
+    "Expat": "expat",
+    "Expect": "expect",
+    "Exult": "exult",
+    "EyeD3": "eye-d3"
+  }
+}

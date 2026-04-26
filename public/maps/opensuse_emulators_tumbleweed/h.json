@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_emulators_tumbleweed",
+    "shard": "h",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "hatari": "hatari",
+    "hatari-debuginfo": "hatari",
+    "hatari-debugsource": "hatari",
+    "hercules": "hercules",
+    "hercules-debuginfo": "hercules",
+    "hercules-debugsource": "hercules",
+    "hercules-doc": "hercules"
+  }
+}

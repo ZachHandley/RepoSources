@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "homebrew_tap_brewsci_bio",
+    "shard": "r",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "rasusa": "rasusa"
+  }
+}

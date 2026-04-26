@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "n",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "nano": "nano",
+    "nano-doc": "nano",
+    "nano-lang": "nano",
+    "nasm": "nasm",
+    "ncurses": "ncurses",
+    "ncurses-common": "ncurses",
+    "ncurses-dev": "ncurses",
+    "ncurses-extra": "ncurses",
+    "ncursesw": "ncurses",
+    "ncursesw-dev": "ncurses",
+    "ncursesw-extra": "ncurses",
+    "neofetch": "neofetch",
+    "neon": "neon",
+    "neon-dev": "neon",
+    "net-snmp": "net-snmp",
+    "net-snmp-dev": "net-snmp",
+    "nettle": "nettle",
+    "nettle-dev": "nettle",
+    "ninja": "ninja",
+    "nodejs": "node",
+    "npth": "npth",
+    "npth-dev": "npth",
+    "nspr": "nspr",
+    "nspr-dev": "nspr",
+    "nss": "nss",
+    "nss-dev": "nss",
+    "ntfs-3g": "ntfs-3g",
+    "ntfs-3g-dev": "ntfs-3g",
+    "ntfsprogs": "ntfs-3g",
+    "ntfsprogs-dev": "ntfs-3g"
+  }
+}

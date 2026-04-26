@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openpkg_current",
+    "shard": "w",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "w3m": "w3m",
+    "wasm3": "wasm3",
+    "wasmer": "wasmer",
+    "wasmtime": "wasmtime",
+    "watch": "watch",
+    "watchexec": "watchexec",
+    "watchman": "watchman",
+    "wdiff": "wdiff",
+    "webdav": "webdav",
+    "webdis": "webdis",
+    "webhook": "webhook",
+    "webp": "webp",
+    "webpack": "webpack",
+    "websocketd": "websocketd",
+    "wget": "wget",
+    "which": "gnu-which",
+    "whois": "whois",
+    "wiredtiger": "wiredtiger",
+    "wireshark": "wireshark",
+    "wolfmqtt": "wolfmqtt",
+    "wolfssl": "wolfssl",
+    "wput": "wput",
+    "wslay": "wslay",
+    "wv": "wv"
+  }
+}

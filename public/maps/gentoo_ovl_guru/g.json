@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gentoo_ovl_guru",
+    "shard": "g",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "games-board/fairy-stockfish": "fairy-stockfish",
+    "games-emulation/dosbox-x": "dosbox-x",
+    "games-engines/instead": "instead",
+    "games-misc/asciiquarium": "asciiquarium",
+    "games-misc/cbonsai": "cbonsai",
+    "games-roguelike/cataclysm-dda": "cataclysm",
+    "games-rpg/open-adventure": "open-adventure",
+    "games-strategy/unciv-bin": "unciv",
+    "games-util/roll": "roll"
+  }
+}

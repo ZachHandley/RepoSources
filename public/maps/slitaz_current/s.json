@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slitaz_current",
+    "shard": "s",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "samba": "samba",
+    "samba-common": "samba",
+    "samba-dev": "samba",
+    "sane-backends": "sane-backends",
+    "sane-backends-dev": "sane-backends",
+    "schroedinger": "schroedinger",
+    "schroedinger-dev": "schroedinger",
+    "scons": "scons",
+    "screen": "screen",
+    "sed": "gnu-sed",
+    "sftp-server": "openssh",
+    "shared-mime-info": "shared-mime-info",
+    "shared-mime-info-dev": "shared-mime-info",
+    "shellinabox": "shellinabox",
+    "sip": "sip",
+    "sip-dev": "sip",
+    "smartmontools": "smartmontools",
+    "smbclient": "samba",
+    "speex": "speex",
+    "speex-dev": "speex",
+    "speexdsp": "speexdsp",
+    "speexdsp-dev": "speexdsp",
+    "spirv-headers": "spirv-headers",
+    "spirv-llvm-translator": "spirv-llvm-translator",
+    "sqlite": "sqlite",
+    "sqlite-dev": "sqlite",
+    "startup-notification": "startup-notification",
+    "startup-notification-dev": "startup-notification",
+    "swig": "swig",
+    "symlinks": "symlinks"
+  }
+}

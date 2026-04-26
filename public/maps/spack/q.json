@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "spack",
+    "shard": "q",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "qca": "qca",
+    "qcachegrind": "qcachegrind",
+    "qd": "qd",
+    "qemu": "qemu",
+    "qhull": "qhull",
+    "qjson": "qjson",
+    "qpdf": "qpdf",
+    "qrupdate": "qrupdate",
+    "qscintilla": "qscintilla2",
+    "qt": "qt",
+    "qt-base": "qt",
+    "qt-declarative": "qt",
+    "qt-quick3d": "qt",
+    "qt-quicktimeline": "qt",
+    "qt-shadertools": "qt",
+    "qt-svg": "qt",
+    "qt-tools": "qt",
+    "qthreads": "qthreads",
+    "qtkeychain": "qtkeychain",
+    "quickjs": "quickjs",
+    "qwt": "qwt"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "vcpkg",
+    "shard": "r",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "ragel": "ragel",
+    "range-v3": "range-v3",
+    "rapidfuzz-cpp": "rapidfuzz-cpp",
+    "rapidjson": "rapidjson",
+    "raylib": "raylib",
+    "re2": "re2",
+    "readerwriterqueue": "readerwriterqueue",
+    "readline": "readline",
+    "readline-unix": "readline",
+    "readosm": "readosm",
+    "realsense2": "librealsense",
+    "replxx": "replxx",
+    "reproc": "reproc",
+    "rhash": "rhash",
+    "robin-map": "robin-map",
+    "rocksdb": "rocksdb",
+    "rtabmap": "rtabmap",
+    "rtaudio": "rtaudio",
+    "rtmidi": "rtmidi",
+    "rttr": "rttr",
+    "rubberband": "rubberband"
+  }
+}

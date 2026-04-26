@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pisi_contrib",
+    "shard": "d",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "development/lazarus/fpc": "fpc",
+    "development/lazarus/fpc-src": "fpc",
+    "development/lazarusDEB/fpc": "fpc",
+    "development/lazarusDEB/fpc-src": "fpc",
+    "discount": "discount"
+  }
+}

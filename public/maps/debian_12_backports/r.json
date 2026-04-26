@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_12_backports",
+    "shard": "r",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "racket": "minimal-racket",
+    "racket-common": "minimal-racket",
+    "racket-doc": "minimal-racket",
+    "radvd": "radvd",
+    "radvdump": "radvd",
+    "rapidfuzz-cpp": "rapidfuzz-cpp",
+    "rdiff": "librsync",
+    "redict": "redict",
+    "redict-sentinel": "redict",
+    "redict-server": "redict",
+    "redict-tools": "redict",
+    "registry-tools": "samba",
+    "repo": "repo",
+    "rfkill-modules-6.12.43+deb12-amd64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.43+deb12-loong64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.57+deb12-amd64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.57+deb12-loong64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.63+deb12-amd64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.63+deb12-loong64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.69+deb12-amd64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.69+deb12-loong64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.73+deb12-amd64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.73+deb12-loong64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.74+deb12-amd64-di": "linux-headers@4.4",
+    "rfkill-modules-6.12.74+deb12-loong64-di": "linux-headers@4.4",
+    "rfkill-modules-6.5.0-0.deb12.4-686-di": "linux-headers@4.4",
+    "rfkill-modules-6.5.0-0.deb12.4-686-pae-di": "linux-headers@4.4",
+    "rfkill-modules-6.5.0-0.deb12.4-amd64-di,linux-image-amd64-signed-template": "linux-headers@4.4",
+    "rpki-client": "rpki-client",
+    "rtla": "linux-headers@4.4",
+    "ruby-notmuch": "notmuch",
+    "runc": "runc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_stream_8",
+    "shard": "j",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "Judy": "judy",
+    "jansson": "jansson",
+    "jasper": "jasper",
+    "java-1.8.0-openjdk": "openjdk",
+    "java-11-openjdk": "openjdk",
+    "java-17-openjdk": "openjdk",
+    "java-21-openjdk": "openjdk",
+    "javacc": "javacc",
+    "jbig2dec": "jbig2dec",
+    "jbigkit": "jbigkit",
+    "jetty": "jetty",
+    "jflex": "jflex",
+    "jimtcl": "jimtcl",
+    "jose": "jose",
+    "jq": "jq",
+    "json-c": "json-c",
+    "json-glib": "json-glib"
+  }
+}

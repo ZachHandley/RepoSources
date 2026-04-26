@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_6",
+    "shard": "f",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "fakeroot": "fakeroot",
+    "fetchmail": "fetchmail",
+    "fftw": "fftw",
+    "file": "file-formula",
+    "file-roller": "file-roller",
+    "findutils": "findutils",
+    "flac": "flac",
+    "flex": "flex",
+    "fontconfig": "fontconfig",
+    "fontforge": "fontforge",
+    "fop": "fop",
+    "freeglut": "freeglut",
+    "freeipmi": "freeipmi",
+    "freeradius": "freeradius-server",
+    "freerdp": "freerdp",
+    "freetype": "freetype"
+  }
+}

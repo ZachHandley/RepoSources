@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "siduction_unstable",
+    "shard": "l",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "libglyr-dev": "glyr",
+    "libglyr1": "glyr",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3",
+    "libvulkan-dev": "vulkan-loader",
+    "libvulkan1": "vulkan-loader"
+  }
+}

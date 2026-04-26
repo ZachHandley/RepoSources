@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "amazon_2",
+    "shard": "n",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "nano": "nano",
+    "nasm": "nasm",
+    "ncompress": "ncompress",
+    "ncurses": "ncurses",
+    "neon": "neon",
+    "nerdctl": "nerdctl",
+    "net-snmp": "net-snmp",
+    "net-tools": "net-tools",
+    "netpbm": "netpbm",
+    "nettle": "nettle",
+    "nftables": "nftables",
+    "nghttp2": "nghttp2",
+    "ninja-build": "ninja",
+    "nmap": "nmap",
+    "nodejs": "node",
+    "nspr": "nspr",
+    "nss": "nss",
+    "nss-softokn": "nss",
+    "nss-util": "nss",
+    "ntp": "ntp",
+    "numactl": "numactl",
+    "numpy": "numpy"
+  }
+}

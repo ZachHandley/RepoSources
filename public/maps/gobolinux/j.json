@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gobolinux",
+    "shard": "j",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "JACK": "jack",
+    "JACK2": "jack",
+    "JBIG-KIT": "jbigkit",
+    "JED": "jed",
+    "JPEG": "jpeg",
+    "JQ": "jq",
+    "JSON-GLib": "json-glib",
+    "Jansson": "jansson",
+    "Jasper": "jasper",
+    "Java-Readline": "libreadline-java",
+    "Jemalloc": "jemalloc",
+    "Jhead": "jhead",
+    "Jnettop": "jnettop",
+    "Joe": "joe",
+    "Json-C": "json-c",
+    "JsonCpp": "jsoncpp"
+  }
+}

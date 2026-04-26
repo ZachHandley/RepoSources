@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scientific_7x",
+    "shard": "d",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "dbus": "dbus",
+    "dbus-glib": "dbus-glib",
+    "dcraw": "dcraw",
+    "default-jdk": "openjdk",
+    "default-jre": "openjdk",
+    "dejagnu": "deja-gnu",
+    "desktop-file-utils": "desktop-file-utils",
+    "devtoolset-10-gdb": "gdb",
+    "devtoolset-12-gdb": "gdb",
+    "devtoolset-6-gdb": "gdb",
+    "devtoolset-7-gdb": "gdb",
+    "devtoolset-8-gdb": "gdb",
+    "dialog": "dialog",
+    "diffstat": "diffstat",
+    "diffutils": "diffutils",
+    "dnsmasq": "dnsmasq",
+    "docbook-style-xsl": "docbook-xsl",
+    "dos2unix": "dos2unix",
+    "dosfstools": "dosfstools",
+    "dovecot": "dovecot",
+    "doxygen": "doxygen",
+    "dvd+rw-tools": "dvd+rw-tools"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aixtoolbox",
+    "shard": "c",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "CUnit": "cunit",
+    "ca-certificates": "ca-certificates",
+    "cairo": "cairo",
+    "calicoctl": "calicoctl",
+    "cdrtools": "cdrtools",
+    "check": "check",
+    "clamav": "clamav",
+    "cmake": "cmake",
+    "cmocka": "cmocka",
+    "coreutils": "coreutils",
+    "cpio": "cpio",
+    "cppcheck": "cppcheck",
+    "cppunit": "cppunit",
+    "cppzmq": "cppzmq",
+    "cscope": "cscope",
+    "cups": "cups",
+    "curl": "curl",
+    "cvs": "cvs",
+    "cyrus-sasl": "cyrus-sasl"
+  }
+}

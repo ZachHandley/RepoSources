@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "aixtoolbox",
+    "shard": "z",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "z3": "z3",
+    "zchunk": "zchunk",
+    "zeromq": "zeromq",
+    "zip": "zip",
+    "zlib": "zlib",
+    "zsh": "zsh",
+    "zstd": "zstd"
+  }
+}

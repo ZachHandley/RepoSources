@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_25_testing",
+    "shard": "m",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "mame": "mame",
+    "mame-data": "mame",
+    "mame-doc": "mame",
+    "mame-tools": "mame",
+    "melt": "mlt",
+    "meson": "meson",
+    "mkvtoolnix": "mkvtoolnix",
+    "mkvtoolnix-gui": "mkvtoolnix",
+    "mlt": "mlt",
+    "monkeys-audio": "mac",
+    "mpv": "mpv"
+  }
+}

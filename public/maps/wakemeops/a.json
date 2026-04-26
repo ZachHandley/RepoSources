@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wakemeops",
+    "shard": "a",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "act": "act",
+    "age": "age",
+    "aptly": "aptly",
+    "argo": "argo",
+    "argocd": "argocd",
+    "atlas": "atlas",
+    "aws-iam-authenticator": "aws-iam-authenticator"
+  }
+}

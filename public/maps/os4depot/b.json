@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "os4depot",
+    "shard": "b",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "base64.lha": "base64",
+    "base64.lzx": "base64",
+    "bchunk.lha": "bchunk",
+    "bcrypt.lha": "bcrypt",
+    "binutils.patch.bz2": "binutils",
+    "bochs.lha": "bochs",
+    "boost.lha": "boost",
+    "bzip2.lha": "bzip2"
+  }
+}

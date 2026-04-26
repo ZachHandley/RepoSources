@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "hpux_11_31",
+    "shard": "m",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "Mesa": "mesa",
+    "m4": "m4",
+    "make": "make",
+    "mawk": "mawk",
+    "mc": "midnight-commander",
+    "memcached": "memcached",
+    "memtester": "memtester",
+    "mg": "mg",
+    "mhash": "mhash",
+    "moe": "moe",
+    "most": "most",
+    "mpack": "mpack",
+    "mpage": "mpage",
+    "mpfr": "mpfr",
+    "mpg123": "mpg123",
+    "mrtg": "mrtg",
+    "mtools": "mtools",
+    "mtr": "mtr",
+    "multitail": "multitail",
+    "mutt": "mutt",
+    "mysql": "mysql"
+  }
+}

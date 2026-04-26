@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "scoop",
+    "shard": "z",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "z.lua": "z.lua",
+    "z3": "z3",
+    "zellij": "zellij",
+    "zeroclaw": "zeroclaw",
+    "zig": "zig",
+    "zig-dev": "zig",
+    "zigup": "zigup",
+    "zim": "zim",
+    "zip": "zip",
+    "zip-beta": "zip",
+    "zk": "zk",
+    "zlib": "zlib",
+    "zls": "zls",
+    "zls-dev": "zls",
+    "zola": "zola",
+    "zookeeper": "zookeeper",
+    "zoxide": "zoxide",
+    "zrok": "zrok",
+    "zstd": "zstd"
+  }
+}

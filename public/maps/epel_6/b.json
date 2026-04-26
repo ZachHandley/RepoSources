@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_6",
+    "shard": "b",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "BEDTools": "bedtools",
+    "BitchX": "bitchx",
+    "backupninja": "backupninja",
+    "bam": "bam",
+    "barcode": "gnu-barcode",
+    "bash-completion": "bash-completion",
+    "bats": "bats-core",
+    "beakerlib": "beakerlib",
+    "beanstalkd": "beanstalkd",
+    "bgpq3": "bgpq3",
+    "bgpq4": "bgpq4",
+    "bibutils": "bibutils",
+    "bigloo": "bigloo",
+    "bindfs": "bindfs",
+    "bitlbee": "bitlbee",
+    "blitz": "blitz",
+    "bogofilter": "bogofilter",
+    "bonnie++": "bonnie++",
+    "boost148": "boost",
+    "botan": "botan",
+    "boxes": "boxes",
+    "bpython": "bpython",
+    "bsdiff": "bsdiff",
+    "bullet": "bullet",
+    "burp": "burp",
+    "bvi": "bvi",
+    "bwa": "bwa",
+    "bwm-ng": "bwm-ng",
+    "byobu": "byobu"
+  }
+}

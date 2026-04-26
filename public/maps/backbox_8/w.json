@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "backbox_8",
+    "shard": "w",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "wireshark": "wireshark",
+    "wireshark-common": "wireshark",
+    "wireshark-dev": "wireshark",
+    "wireshark-doc": "wireshark",
+    "wireshark-qt": "wireshark"
+  }
+}

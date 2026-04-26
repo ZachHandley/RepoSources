@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openbsd",
+    "shard": "k",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "kakoune": "kakoune",
+    "karchive": "karchive",
+    "kawa": "kawa",
+    "kcgi": "kcgi",
+    "kdoctools": "kdoctools",
+    "kea": "kea",
+    "kermit": "c-kermit",
+    "keychain": "keychain",
+    "keystone": "keystone",
+    "kf6-extra-cmake-modules": "extra-cmake-modules",
+    "kf6-karchive": "karchive",
+    "kf6-kdoctools": "kdoctools",
+    "kf6-ki18n": "ki18n",
+    "kf6-ktexttemplate": "grantlee",
+    "kf6-threadweaver": "threadweaver",
+    "khal": "khal",
+    "khard": "khard",
+    "ki18n": "ki18n",
+    "klavaro": "klavaro",
+    "knot": "knot",
+    "kona": "kona",
+    "kopia": "kopia",
+    "kore": "kore",
+    "kpcli": "kpcli",
+    "ksh93": "ksh93",
+    "kubectl": "kubernetes-cli",
+    "kubo": "kubo",
+    "kyotocabinet": "kyoto-cabinet"
+  }
+}

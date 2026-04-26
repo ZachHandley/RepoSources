@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_experimental",
+    "shard": "o",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "ocaml": "ocaml",
+    "ocaml-base": "ocaml",
+    "ocaml-interp": "ocaml",
+    "ocaml-man": "ocaml",
+    "ocaml-source": "ocaml",
+    "openblas": "openblas",
+    "opencolorio": "opencolorio",
+    "opencolorio-tools": "opencolorio",
+    "openssl": "openssl@3",
+    "openssl-dev": "openssl@3",
+    "openssl-provider-fips": "openssl@3",
+    "openssl-provider-legacy": "openssl@3",
+    "ott": "ott",
+    "ott-tools": "ott"
+  }
+}

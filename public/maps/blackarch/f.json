@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "blackarch",
+    "shard": "f",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "fastnetmon": "fastnetmon",
+    "fernflower": "fernflower",
+    "feroxbuster": "feroxbuster",
+    "ffuf": "ffuf",
+    "fierce": "fierce",
+    "fpdns": "fpdns"
+  }
+}

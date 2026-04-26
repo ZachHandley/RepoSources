@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ravenports",
+    "shard": "k",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "kakoune": "kakoune",
+    "kf6-extra-cmake-modules": "extra-cmake-modules",
+    "kf6-karchive": "karchive",
+    "kf6-kdoctools": "kdoctools",
+    "kf6-ki18n": "ki18n",
+    "kf6-threadweaver": "threadweaver",
+    "klavaro": "klavaro",
+    "kmod": "kmod",
+    "krb5": "krb5",
+    "ktoblzcheck": "ktoblzcheck",
+    "kyua": "kyua"
+  }
+}

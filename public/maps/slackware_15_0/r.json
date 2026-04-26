@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slackware_15_0",
+    "shard": "r",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "rcs": "rcs",
+    "rdfind": "rdfind",
+    "re2c": "re2c",
+    "readline": "readline",
+    "rpcsvc-proto": "rpcsvc-proto",
+    "rpm": "rpm",
+    "rsync": "rsync",
+    "rttr": "rttr",
+    "ruby": "ruby",
+    "rust": "rust",
+    "rxvt-unicode": "rxvt-unicode",
+    "rzip": "rzip"
+  }
+}

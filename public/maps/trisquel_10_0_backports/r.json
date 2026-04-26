@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "trisquel_10_0_backports",
+    "shard": "r",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "rdiff-backup": "rdiff-backup",
+    "rdiff-backup1.2": "rdiff-backup",
+    "rust-all": "rust",
+    "rust-clippy": "rust",
+    "rust-doc": "rust",
+    "rust-gdb": "rust",
+    "rust-lldb": "rust",
+    "rust-src": "rust",
+    "rustc": "rust",
+    "rustfmt": "rust"
+  }
+}

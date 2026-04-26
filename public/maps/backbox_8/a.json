@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "backbox_8",
+    "shard": "a",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "aircrack-ng": "aircrack-ng",
+    "airgraph-ng": "aircrack-ng",
+    "apktool": "apktool"
+  }
+}

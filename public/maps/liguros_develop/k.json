@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "liguros_develop",
+    "shard": "k",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "kde-frameworks/extra-cmake-modules": "extra-cmake-modules",
+    "kde-frameworks/karchive": "karchive",
+    "kde-frameworks/kdoctools": "kdoctools",
+    "kde-frameworks/ki18n": "ki18n",
+    "kde-frameworks/ktexttemplate": "grantlee",
+    "kde-frameworks/threadweaver": "threadweaver"
+  }
+}

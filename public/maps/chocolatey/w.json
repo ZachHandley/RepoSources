@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "chocolatey",
+    "shard": "w",
+    "total_mappings": 23
+  },
+  "mappings": {
+    "Watchman - A file watching service": "watchman",
+    "WavPack": "wavpack",
+    "Wayback": "wayback",
+    "Wget": "wget",
+    "Widelands": "widelands",
+    "Win32 peco": "peco",
+    "Winbareos": "bareos-client",
+    "Windows Management Framework and PowerShell": "powershell",
+    "Wireshark": "wireshark",
+    "watchexec": "watchexec",
+    "watchman": "watchman",
+    "wavpack": "wavpack",
+    "wayback": "wayback",
+    "webp": "webp",
+    "webp (Install)": "webp",
+    "widelands": "widelands",
+    "wimlib": "wimlib",
+    "wireshark": "wireshark",
+    "witr": "witr",
+    "wput": "wput",
+    "wxWidgets": "wxwidgets",
+    "wxpython": "wxpython",
+    "wxwidgets": "wxwidgets"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "w",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "watchexec-bin": "watchexec",
+    "wayland": "wayland",
+    "wayland-git": "wayland",
+    "wayland-protocols-git": "wayland-protocols",
+    "weechat-git": "weechat",
+    "wgcf-bin": "wgcf",
+    "winetricks-git": "winetricks"
+  }
+}

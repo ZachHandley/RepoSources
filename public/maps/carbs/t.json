@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "carbs",
+    "shard": "t",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "texinfo": "texinfo",
+    "tiff": "libtiff",
+    "tllist": "tllist",
+    "tzdata": "tzdb"
+  }
+}

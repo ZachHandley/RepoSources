@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ravenports",
+    "shard": "t",
+    "total_mappings": 30
+  },
+  "mappings": {
+    "t1lib": "t1lib",
+    "taglib": "taglib",
+    "tar": "gnu-tar",
+    "taskwarrior": "task",
+    "tcpdump": "tcpdump",
+    "tcsh": "tcsh",
+    "tdb": "tdb",
+    "tesseract": "tesseract",
+    "testdisk": "testdisk",
+    "texi2html": "texi2html",
+    "texinfo": "texinfo",
+    "texlive-bin": "texlive",
+    "the_silver_searcher": "the_silver_searcher",
+    "tidy": "tidy-html5",
+    "tiff": "libtiff",
+    "tig": "tig",
+    "timidity": "timidity",
+    "tinc": "tinc",
+    "tinycdb": "tinycdb",
+    "tinysparql": "tinysparql",
+    "tinyxml": "tinyxml",
+    "tinyxml2": "tinyxml2",
+    "tmux": "tmux",
+    "tor": "tor",
+    "toxcore": "toxcore",
+    "tradcpp": "tradcpp",
+    "transmission": "transmission-cli",
+    "tree": "tree",
+    "tree-sitter": "tree-sitter",
+    "twolame": "two-lame"
+  }
+}

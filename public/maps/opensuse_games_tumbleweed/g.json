@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_games_tumbleweed",
+    "shard": "g",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "glfw": "glfw",
+    "glfw-debuginfo": "glfw",
+    "glfw-debugsource": "glfw",
+    "glfw-doc": "glfw",
+    "glfw2": "glfw",
+    "glfw2-debuginfo": "glfw",
+    "glfw2-debugsource": "glfw",
+    "glfw2-devel": "glfw",
+    "gloox": "gloox",
+    "gloox-debuginfo": "gloox",
+    "gloox-debugsource": "gloox",
+    "gloox-devel": "gloox",
+    "gnuchess": "gnu-chess",
+    "gnuchess-debuginfo": "gnu-chess",
+    "gnuchess-debugsource": "gnu-chess",
+    "gnugo": "gnu-go",
+    "gnugo-debuginfo": "gnu-go",
+    "gnugo-debugsource": "gnu-go",
+    "gnushogi": "gnu-shogi",
+    "gnushogi-debuginfo": "gnu-shogi",
+    "gnushogi-debugsource": "gnu-shogi",
+    "gpsnmea-devel": "vrpn",
+    "guichan": "guichan",
+    "guichan-debuginfo": "guichan",
+    "guichan-debugsource": "guichan",
+    "guichan-devel": "guichan"
+  }
+}

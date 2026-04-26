@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "packman_opensuse_tumbleweed",
+    "shard": "s",
+    "total_mappings": 14
+  },
+  "mappings": {
+    "scummvm": "scummvm",
+    "scummvm-debuginfo": "scummvm",
+    "scummvm-debugsource": "scummvm",
+    "scummvm-extra": "scummvm",
+    "streamripper": "streamripper",
+    "streamripper-debuginfo": "streamripper",
+    "streamripper-debugsource": "streamripper",
+    "synfig": "synfig",
+    "synfig-debuginfo": "synfig",
+    "synfig-debugsource": "synfig",
+    "synfig-devel": "synfig",
+    "synfig-lang": "synfig",
+    "synfigstudio": "synfig",
+    "synfigstudio-devel": "synfig"
+  }
+}

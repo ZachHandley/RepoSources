@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ravenports",
+    "shard": "z",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "zenity": "zenity",
+    "zeromq": "zeromq",
+    "zig": "zig",
+    "zim": "zim",
+    "zip": "zip",
+    "zlib": "zlib",
+    "znc": "znc",
+    "zsh": "zsh",
+    "zstd": "zstd",
+    "zxing-cpp": "zxing-cpp",
+    "zziplib": "libzzip"
+  }
+}

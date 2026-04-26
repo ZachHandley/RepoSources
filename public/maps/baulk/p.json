@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "baulk",
+    "shard": "p",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "procs": "procs",
+    "protobuf": "protobuf",
+    "putty": "putty",
+    "python": "python@3.14",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

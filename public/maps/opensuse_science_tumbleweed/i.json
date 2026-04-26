@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_science_tumbleweed",
+    "shard": "i",
+    "total_mappings": 20
+  },
+  "mappings": {
+    "Ipopt": "ipopt",
+    "Ipopt-debuginfo": "ipopt",
+    "Ipopt-debugsource": "ipopt",
+    "Ipopt-devel": "ipopt",
+    "Ipopt-java": "ipopt",
+    "inchi": "inchi",
+    "inchi-debuginfo": "inchi",
+    "inchi-debugsource": "inchi",
+    "inchi-devel": "inchi",
+    "inchi-doc": "inchi",
+    "irrlicht": "irrlicht",
+    "irrlicht-data": "irrlicht",
+    "irrlicht-debuginfo": "irrlicht",
+    "irrlicht-debugsource": "irrlicht",
+    "irrlicht-devel": "irrlicht",
+    "itpp": "itpp",
+    "itpp-debuginfo": "itpp",
+    "itpp-debugsource": "itpp",
+    "itpp-devel": "itpp",
+    "itpp-doc": "itpp"
+  }
+}

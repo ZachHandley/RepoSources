@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_community",
+    "shard": "g",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "gawk": "gawk",
+    "gc": "bdw-gc",
+    "gdb": "gdb",
+    "ghostscript": "ghostscript",
+    "girara": "girara",
+    "github-cli": "gh",
+    "gnu-netcat": "netcat",
+    "gnupg1": "gnupg",
+    "gnupg2": "gnupg",
+    "gnutls": "gnutls",
+    "go": "go",
+    "go-bootstrap": "go",
+    "go-ipfs": "kubo",
+    "goimports": "goimports",
+    "gopls": "gopls",
+    "gperf": "gperf",
+    "gpgme": "gpgme",
+    "gphoto2": "gphoto2",
+    "groff": "groff",
+    "gron-git": "gron",
+    "gsl": "gsl",
+    "gtar": "gnu-tar",
+    "gtest": "googletest",
+    "guile3": "guile",
+    "gumbo-parser": "gumbo-parser"
+  }
+}

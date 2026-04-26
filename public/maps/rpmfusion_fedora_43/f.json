@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_43",
+    "shard": "f",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "faac": "faac",
+    "faac-devel": "faac",
+    "fceux": "fceux",
+    "fdk-aac": "fdk-aac",
+    "fdk-aac-devel": "fdk-aac",
+    "fdkaac": "fdk-aac-encoder",
+    "ffmpeg": "ffmpeg",
+    "ffmpeg-devel": "ffmpeg",
+    "ffmpeg-libs": "ffmpeg",
+    "fs-uae": "fs-uae",
+    "fuse-uadefs": "uade"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "yacp",
+    "shard": "h",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "HdrHistogram_c": "hdrhistogram_c",
+    "h264bitstream": "h264bitstream",
+    "h3": "h3",
+    "hackrf": "hackrf",
+    "halibut": "halibut",
+    "hamlib": "hamlib",
+    "hashdeep": "md5deep",
+    "hcxtools": "hcxtools",
+    "healpix": "healpix",
+    "hebcal": "hebcal",
+    "hesiod": "hesiod",
+    "hfstospell": "hfstospell",
+    "hidapi": "hidapi",
+    "highway": "highway",
+    "hiredis": "hiredis",
+    "hivex": "hivex",
+    "hmmer": "hmmer",
+    "hr": "hr",
+    "hss": "hss",
+    "hstr": "hstr",
+    "htmlcxx": "htmlcxx",
+    "htslib": "htslib",
+    "http_load": "http_load",
+    "httrack": "httrack",
+    "hypre": "hypre"
+  }
+}

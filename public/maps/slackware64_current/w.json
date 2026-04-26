@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "slackware64_current",
+    "shard": "w",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "wavpack": "wavpack",
+    "wayland": "wayland",
+    "wayland-protocols": "wayland-protocols",
+    "wcslib": "wcslib",
+    "wget": "wget",
+    "wget2": "wget2",
+    "which": "gnu-which",
+    "whois": "whois",
+    "wireguard-tools": "wireguard-tools",
+    "wireplumber": "wireplumber",
+    "woff2": "woff2"
+  }
+}

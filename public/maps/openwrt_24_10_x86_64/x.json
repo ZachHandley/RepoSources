@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openwrt_24_10_x86_64",
+    "shard": "x",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "xmlrpc-c-abyss": "xmlrpc-c",
+    "xmlrpc-c-client": "xmlrpc-c",
+    "xmlrpc-c-common": "xmlrpc-c",
+    "xmlrpc-c-internal": "xmlrpc-c",
+    "xmlrpc-c-libxml2": "xmlrpc-c",
+    "xmlrpc-c-server": "xmlrpc-c",
+    "xmlrpc-c-server-abyss": "xmlrpc-c",
+    "xray-core": "xray",
+    "xray-example": "xray",
+    "xsltproc": "libxslt",
+    "xxd": "vim",
+    "xxhash": "xxhash",
+    "xz": "xz",
+    "xz-utils": "xz",
+    "xzdec": "xz",
+    "xzdiff": "xz",
+    "xzgrep": "xz",
+    "xzless": "xz",
+    "xzmore": "xz"
+  }
+}

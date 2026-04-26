@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_18_04_backports",
+    "shard": "s",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "smartmontools": "smartmontools"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "endlessos_4_0",
+    "shard": "i",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "imagemagick": "imagemagick",
+    "imagemagick-6-common": "imagemagick",
+    "imagemagick-6-doc": "imagemagick",
+    "imagemagick-6.q16": "imagemagick",
+    "imagemagick-6.q16hdri": "imagemagick",
+    "imagemagick-common": "imagemagick",
+    "imagemagick-doc": "imagemagick",
+    "intltool": "intltool"
+  }
+}

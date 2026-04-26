@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pclinuxos",
+    "shard": "h",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "halibut": "halibut",
+    "hamlib": "hamlib",
+    "handbrake": "handbrake",
+    "harfbuzz": "harfbuzz",
+    "hashcat": "hashcat",
+    "hatari": "hatari",
+    "hdf5": "hdf5",
+    "help2man": "help2man",
+    "hevea": "hevea",
+    "hfsutils": "hfsutils",
+    "hicolor-icon-theme": "hicolor-icon-theme",
+    "hidapi": "hidapi",
+    "highlight": "highlight",
+    "hiredis": "hiredis",
+    "homebank": "homebank",
+    "hspell": "hspell",
+    "html2text": "html2text",
+    "htmlcxx": "htmlcxx",
+    "htmldoc": "htmldoc",
+    "htop": "htop",
+    "httrack": "httrack",
+    "hunspell": "hunspell",
+    "hwloc": "hwloc",
+    "hyperestraier": "hyperestraier"
+  }
+}

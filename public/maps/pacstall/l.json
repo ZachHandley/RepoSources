@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pacstall",
+    "shard": "l",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "lazydocker-bin": "lazydocker",
+    "lazygit": "lazygit",
+    "lf-bin": "lf",
+    "libdrm": "libdrm",
+    "libicu-deb": "icu4c@74",
+    "liblcf": "liblcf",
+    "libressl": "libressl",
+    "libssl-dev": "openssl@3",
+    "libssl1.1-deb": "openssl@3",
+    "libssl3": "openssl@3",
+    "libxkbcommon": "libxkbcommon",
+    "linux-headers-deb": "linux-headers@4.4",
+    "linux-kernel": "linux-headers@4.4",
+    "linux-kernel-lts-6.6": "linux-headers@4.4",
+    "lsd-deb": "lsd"
+  }
+}

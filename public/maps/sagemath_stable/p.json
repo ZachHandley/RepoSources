@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "sagemath_stable",
+    "shard": "p",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "packaging": "python-packaging",
+    "papilo": "papilo",
+    "pari": "pari",
+    "pari_elldata": "pari-elldata",
+    "pari_galdata": "pari-galdata",
+    "pari_galpol": "pari-galpol",
+    "pari_seadata": "pari-seadata",
+    "patchelf": "patchelf",
+    "pillow": "pillow",
+    "ppl": "ppl",
+    "primecount": "primecount",
+    "primesieve": "primesieve",
+    "pybind11": "pybind11",
+    "pytest": "pytest",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3"
+  }
+}

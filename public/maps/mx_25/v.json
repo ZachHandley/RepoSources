@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_25",
+    "shard": "v",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "vim": "vim",
+    "vim-athena": "vim",
+    "vim-common": "vim",
+    "vim-doc": "vim",
+    "vim-gtk3": "vim",
+    "vim-gui-common": "vim",
+    "vim-motif": "vim",
+    "vim-nox": "vim",
+    "vim-runtime": "vim",
+    "vim-tiny": "vim",
+    "vtk9": "vtk",
+    "vtk9-doc": "vtk",
+    "vtk9-examples": "vtk"
+  }
+}

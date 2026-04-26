@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gobolinux",
+    "shard": "u",
+    "total_mappings": 22
+  },
+  "mappings": {
+    "UCL": "ucl",
+    "UPX": "upx",
+    "URLView": "urlview",
+    "USBRedir": "usbredir",
+    "USBUtils": "usbutils",
+    "UTF8CPP": "utf8cpp",
+    "UTF8Proc": "utf8proc",
+    "UThash": "uthash",
+    "Ucspi-Tcp": "ucspi-tcp",
+    "Udis86": "udis86",
+    "Unbound": "unbound",
+    "Uncrustify": "uncrustify",
+    "Unibilium": "unibilium",
+    "Unifdef": "unifdef",
+    "Unison": "unison",
+    "Units": "gnu-units",
+    "UnixODBC": "unixodbc",
+    "Unshield": "unshield",
+    "Unzip": "unzip",
+    "Util-Linux": "gnu-getopt",
+    "Util-Linux-NG": "gnu-getopt",
+    "Util-macros": "util-macros"
+  }
+}

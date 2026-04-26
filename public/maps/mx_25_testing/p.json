@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_25_testing",
+    "shard": "p",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "pan": "pan",
+    "pipewire": "pipewire",
+    "pipewire-alsa": "pipewire",
+    "pipewire-audio": "pipewire",
+    "pipewire-audio-client-libraries": "pipewire",
+    "pipewire-bin": "pipewire",
+    "pipewire-doc": "pipewire",
+    "pipewire-jack": "pipewire",
+    "pipewire-libcamera": "pipewire",
+    "pipewire-pulse": "pipewire",
+    "pipewire-system-services": "pipewire",
+    "pipewire-tests": "pipewire",
+    "pipewire-v4l2": "pipewire",
+    "py7zr": "py7zr",
+    "python3": "python@3",
+    "python3-dev": "python@3",
+    "python3-devel": "python@3",
+    "python3-libxml2": "libxml2",
+    "python3-mlt": "mlt",
+    "python3-onnxruntime": "onnxruntime",
+    "python3-py7zr": "py7zr"
+  }
+}

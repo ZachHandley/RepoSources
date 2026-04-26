@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_education_tumbleweed",
+    "shard": "i",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "idzebra": "zebra",
+    "idzebra-debuginfo": "zebra",
+    "idzebra-debugsource": "zebra",
+    "idzebra-devel": "zebra",
+    "idzebra-doc": "zebra",
+    "iniparser": "iniparser",
+    "iniparser-debuginfo": "iniparser",
+    "iniparser-debugsource": "iniparser",
+    "inotify-tools": "inotify-tools",
+    "inotify-tools-debuginfo": "inotify-tools",
+    "inotify-tools-debugsource": "inotify-tools",
+    "inotify-tools-devel": "inotify-tools",
+    "inotify-tools-doc": "inotify-tools"
+  }
+}

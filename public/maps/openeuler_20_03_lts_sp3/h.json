@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openeuler_20_03_lts_sp3",
+    "shard": "h",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "h2": "h2",
+    "hadoop": "hadoop",
+    "haproxy": "haproxy",
+    "harfbuzz": "harfbuzz",
+    "hbase": "hbase",
+    "hdf5": "hdf5",
+    "help2man": "help2man",
+    "hexedit": "hexedit",
+    "hicolor-icon-theme": "hicolor-icon-theme",
+    "hiredis": "hiredis",
+    "hive": "hive",
+    "hivex": "hivex",
+    "httpd": "httpd",
+    "hunspell": "hunspell",
+    "hwloc": "hwloc",
+    "hyperscan": "hyperscan"
+  }
+}

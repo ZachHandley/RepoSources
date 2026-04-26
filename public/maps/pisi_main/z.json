@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "pisi_main",
+    "shard": "z",
+    "total_mappings": 15
+  },
+  "mappings": {
+    "z3": "z3",
+    "zenity": "zenity",
+    "zeromq": "zeromq",
+    "zim": "zim",
+    "zip": "zip",
+    "zita-convolver": "zita-convolver",
+    "zlib": "zlib",
+    "zopfli": "zopfli",
+    "zsh": "zsh",
+    "zstd": "zstd",
+    "zsync": "zsync",
+    "zug": "zug",
+    "zvbi": "zvbi",
+    "zxing-cpp": "zxing-cpp",
+    "zziplib": "libzzip"
+  }
+}

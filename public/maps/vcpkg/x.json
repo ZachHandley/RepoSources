@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "vcpkg",
+    "shard": "x",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "x264": "x264",
+    "x265": "x265",
+    "xapian": "xapian",
+    "xbitmaps": "xbitmaps",
+    "xbyak": "xbyak",
+    "xcb-image": "xcb-util-image",
+    "xcb-keysyms": "xcb-util-keysyms",
+    "xcb-proto": "xcb-proto",
+    "xcb-render-util": "xcb-util-renderutil",
+    "xcb-util": "xcb-util",
+    "xcb-util-wm": "xcb-util-wm",
+    "xerces-c": "xerces-c",
+    "xlsxio": "xlsxio",
+    "xmlsec": "libxmlsec1",
+    "xorg-macros": "util-macros",
+    "xqilla": "xqilla",
+    "xsimd": "xsimd",
+    "xtensor": "xtensor",
+    "xtl": "xtl",
+    "xtrans": "xtrans",
+    "xxhash": "xxhash"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "termux",
+    "shard": "h",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "handbrake": "handbrake",
+    "haproxy": "haproxy",
+    "harfbuzz": "harfbuzz",
+    "hashdeep": "md5deep",
+    "hcloud": "hcloud",
+    "helix": "helix",
+    "hello": "hello",
+    "helm": "helm",
+    "helm-ls": "helm-ls",
+    "help2man": "help2man",
+    "hexcurse": "hexcurse",
+    "hexedit": "hexedit",
+    "hexer": "hexer",
+    "hexyl": "hexyl",
+    "hfsutils": "hfsutils",
+    "hicolor-icon-theme": "hicolor-icon-theme",
+    "hidapi": "hidapi",
+    "hledger": "hledger",
+    "hstr": "hstr",
+    "html-xml-utils": "html-xml-utils",
+    "html2text": "html2text",
+    "htop": "htop",
+    "htslib": "htslib",
+    "httping": "httping",
+    "httrack": "httrack",
+    "hub": "hub",
+    "hugo": "hugo",
+    "hunspell": "hunspell",
+    "hut": "hut",
+    "hyperfine": "hyperfine",
+    "hz": "hz"
+  }
+}

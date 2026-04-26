@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openeuler_20_03_lts_sp4",
+    "shard": "o",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "OpenEXR": "openexr",
+    "ocaml": "ocaml",
+    "ocaml-dune": "dune",
+    "ocaml-findlib": "ocaml-findlib",
+    "ocl-icd": "ocl-icd",
+    "oniguruma": "oniguruma",
+    "openal-soft": "openal-soft",
+    "openblas": "openblas",
+    "opencc": "opencc",
+    "opencl-headers": "opencl-headers",
+    "opencore-amr": "opencore-amr",
+    "openjpeg": "openjpeg",
+    "openjpeg2": "openjpeg",
+    "openldap": "openldap",
+    "openmpi": "open-mpi",
+    "openpgm": "libpgm",
+    "opensc": "opensc",
+    "openslp": "openslp",
+    "openssh": "openssh",
+    "openssl": "openssl@3",
+    "openssl-dev": "openssl@3",
+    "openvpn": "openvpn",
+    "optipng": "optipng",
+    "opus": "opus",
+    "opusfile": "opusfile",
+    "orc": "orc",
+    "osc": "osc",
+    "osinfo-db": "osinfo-db",
+    "osinfo-db-tools": "osinfo-db-tools"
+  }
+}

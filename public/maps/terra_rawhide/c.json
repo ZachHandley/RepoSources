@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "terra_rawhide",
+    "shard": "c",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "carapace": "carapace",
+    "chawan": "chawan",
+    "chdig": "chdig",
+    "chdig-debuginfo": "chdig",
+    "chdig-debugsource": "chdig",
+    "chezmoi": "chezmoi",
+    "chezmoi-bash-completion": "chezmoi",
+    "chezmoi-debuginfo": "chezmoi",
+    "chezmoi-debugsource": "chezmoi",
+    "chezmoi-fish-completion": "chezmoi",
+    "chezmoi-zsh-completion": "chezmoi",
+    "cloudflare-speed-cli": "cloudflare-speed-cli",
+    "cmark-gfm": "cmark-gfm",
+    "cmark-gfm-debuginfo": "cmark-gfm",
+    "cmark-gfm-debugsource": "cmark-gfm",
+    "cmark-gfm-devel": "cmark-gfm",
+    "cmark-gfm-libs": "cmark-gfm",
+    "cmark-gfm-libs-debuginfo": "cmark-gfm",
+    "cmark-gfm-static": "cmark-gfm",
+    "copyparty": "copyparty",
+    "cpz": "fuc",
+    "crystal": "crystal",
+    "crystal-debuginfo": "crystal",
+    "crystal-debugsource": "crystal",
+    "crystal-devel": "crystal"
+  }
+}

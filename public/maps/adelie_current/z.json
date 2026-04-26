@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "adelie_current",
+    "shard": "z",
+    "total_mappings": 29
+  },
+  "mappings": {
+    "z3": "z3",
+    "z3-dbg": "z3",
+    "z3-dev": "z3",
+    "zenity": "zenity",
+    "zenity-dbg": "zenity",
+    "zenity-doc": "zenity",
+    "zenity-lang": "zenity",
+    "zfs-zsh-completion": "zsh",
+    "zip": "zip",
+    "zip-dbg": "zip",
+    "zip-doc": "zip",
+    "zlib": "zlib",
+    "zlib-dbg": "zlib",
+    "zlib-dev": "zlib",
+    "zlib-doc": "zlib",
+    "zola": "zola",
+    "zola-dbg": "zola",
+    "zola-doc": "zola",
+    "zsh": "zsh",
+    "zsh-calendar": "zsh",
+    "zsh-dbg": "zsh",
+    "zsh-doc": "zsh",
+    "zsh-tcp": "zsh",
+    "zsh-vcs": "zsh",
+    "zsh-zftp": "zsh",
+    "zstd": "zstd",
+    "zstd-dbg": "zstd",
+    "zstd-dev": "zstd",
+    "zstd-doc": "zstd"
+  }
+}

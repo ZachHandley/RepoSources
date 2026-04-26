@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wakemeops",
+    "shard": "s",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "scala-cli": "scala-cli",
+    "scw": "scw",
+    "shell2http": "shell2http",
+    "skaffold": "skaffold",
+    "skim": "sk",
+    "sops": "sops",
+    "stern": "stern"
+  }
+}

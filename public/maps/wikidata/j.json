@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wikidata",
+    "shard": "j",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "JACK Audio Connection Kit": "jack",
+    "JED": "jed",
+    "JOVE": "jove",
+    "JRuby": "jruby",
+    "JSON-GLib": "json-glib",
+    "Jansson": "jansson",
+    "JasPer": "jasper",
+    "JavaCC": "javacc",
+    "Jenkins": "jenkins",
+    "JerryScript": "jerryscript",
+    "Jetty": "jetty",
+    "Jigdo": "jigdo",
+    "Jim Tcl": "jimtcl",
+    "Joe's Own Editor": "joe",
+    "John the Ripper": "john",
+    "Joplin": "joplin-cli",
+    "Jujutsu": "jj",
+    "Julia": "julia",
+    "Julius": "julius",
+    "Just another Gibbs sampler": "jags",
+    "Jython": "jython",
+    "jbig2dec": "jbig2dec",
+    "jemalloc": "jemalloc",
+    "jnettop": "jnettop",
+    "jpeginfo": "jpeginfo",
+    "jq": "jq",
+    "json-c": "json-c",
+    "just": "just"
+  }
+}

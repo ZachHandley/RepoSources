@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_7",
+    "shard": "m",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "m4": "m4",
+    "make": "make",
+    "man-db": "man-db",
+    "mariadb": "mariadb",
+    "marisa": "marisa",
+    "maven": "maven",
+    "maven2": "maven",
+    "mc": "midnight-commander",
+    "mdds": "mdds",
+    "memcached": "memcached",
+    "mercurial": "mercurial",
+    "mesa": "mesa",
+    "mesa-libGLU": "mesa-glu",
+    "mesa-private-llvm": "lld",
+    "minicom": "minicom",
+    "mksh": "mksh",
+    "motif": "openmotif",
+    "mozjs17": "spidermonkey",
+    "mozjs24": "spidermonkey",
+    "mozjs52": "spidermonkey",
+    "mpage": "mpage",
+    "mpfr": "mpfr",
+    "mpg123": "mpg123",
+    "mpich": "mpich",
+    "mrtg": "mrtg",
+    "mtools": "mtools",
+    "mtr": "mtr",
+    "mutt": "mutt"
+  }
+}

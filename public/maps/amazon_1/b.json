@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "amazon_1",
+    "shard": "b",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "bash": "bash",
+    "batik": "batik",
+    "bc": "bc",
+    "beecrypt": "beecrypt",
+    "bind": "bind",
+    "binutils": "binutils",
+    "bison": "bison",
+    "bonnie++": "bonnie++",
+    "boost": "boost",
+    "boost141": "boost",
+    "btrfs-progs": "btrfs-progs",
+    "byacc": "byacc",
+    "bzip2": "bzip2"
+  }
+}

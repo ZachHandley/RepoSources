@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kaos",
+    "shard": "x",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "x264": "x264",
+    "x265": "x265",
+    "xapian-core": "xapian",
+    "xbitmaps": "xbitmaps",
+    "xcb-proto": "xcb-proto",
+    "xcb-util": "xcb-util",
+    "xcb-util-cursor": "xcb-util-cursor",
+    "xcb-util-image": "xcb-util-image",
+    "xcb-util-keysyms": "xcb-util-keysyms",
+    "xcb-util-renderutil": "xcb-util-renderutil",
+    "xcb-util-wm": "xcb-util-wm",
+    "xclip": "xclip",
+    "xdelta3": "xdelta",
+    "xerces-c": "xerces-c",
+    "xkeyboard-config": "xkeyboard-config",
+    "xmlto": "xmlto",
+    "xorg-bdftopcf": "bdftopcf",
+    "xorg-font-util": "font-util",
+    "xorg-mkfontscale": "mkfontscale",
+    "xorg-server": "xorg-server",
+    "xorg-util-macros": "util-macros",
+    "xorg-xauth": "xauth",
+    "xorg-xinit": "xinit",
+    "xorgproto": "xorgproto",
+    "xplanet": "xplanet",
+    "xsimd": "xsimd",
+    "xterm": "xterm",
+    "xtrans": "xtrans",
+    "xvidcore": "xvid",
+    "xxhash": "xxhash",
+    "xz": "xz"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "centos_stream_8",
+    "shard": "b",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "babl": "babl",
+    "bacula": "bacula-fd",
+    "baobab": "baobab",
+    "bash": "bash",
+    "bash-completion": "bash-completion",
+    "batik": "batik",
+    "bc": "bc",
+    "bind": "bind",
+    "bind9.16": "bind",
+    "binutils": "binutils",
+    "bison": "bison",
+    "bluez": "bluez",
+    "bogofilter": "bogofilter",
+    "boost": "boost",
+    "brotli": "brotli",
+    "bubblewrap": "bubblewrap",
+    "byacc": "byacc",
+    "byteman": "byteman",
+    "bzip2": "bzip2"
+  }
+}

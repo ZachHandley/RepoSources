@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "conancenter",
+    "shard": "b",
+    "total_mappings": 17
+  },
+  "mappings": {
+    "bandit": "bandit",
+    "base64": "base64",
+    "bazel": "bazel",
+    "bdwgc": "bdw-gc",
+    "bear": "bear",
+    "behaviortree.cpp": "behaviortree.cpp",
+    "benchmark": "google-benchmark",
+    "binutils": "binutils",
+    "bison": "bison",
+    "blaze": "blaze",
+    "boost": "boost",
+    "botan": "botan",
+    "box2d": "box2d",
+    "brotli": "brotli",
+    "bullet3": "bullet",
+    "bzip2": "bzip2",
+    "bzip3": "bzip3"
+  }
+}

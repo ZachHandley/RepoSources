@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "packman_opensuse_tumbleweed",
+    "shard": "v",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "vo-aacenc": "libvo-aacenc",
+    "vo-aacenc-debuginfo": "libvo-aacenc",
+    "vo-aacenc-debugsource": "libvo-aacenc"
+  }
+}

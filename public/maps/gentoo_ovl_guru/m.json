@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "gentoo_ovl_guru",
+    "shard": "m",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "media-gfx/czkawka": "czkawka",
+    "media-gfx/dnglab": "dnglab",
+    "media-gfx/glslViewer": "glslviewer",
+    "media-gfx/silicon": "silicon",
+    "media-gfx/timg": "timg",
+    "media-libs/libunicode": "libunicode",
+    "media-libs/raylib": "raylib",
+    "media-libs/svt-vp9": "svt-vp9",
+    "media-libs/vvdec": "vvdec",
+    "media-libs/vvenc": "vvenc",
+    "media-sound/dzr": "dzr",
+    "media-sound/kew": "kew",
+    "media-sound/musikcube": "musikcube",
+    "media-sound/rmpc": "rmpc",
+    "media-sound/rsgain": "rsgain",
+    "media-sound/spotify-player": "spotify_player",
+    "media-sound/spotifyd": "spotifyd",
+    "media-sound/streamrip": "streamrip",
+    "media-sound/yewtube": "yewtube"
+  }
+}

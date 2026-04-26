@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "archpower_powerpc64le",
+    "shard": "u",
+    "total_mappings": 31
+  },
+  "mappings": {
+    "uchardet": "uchardet",
+    "umockdev": "umockdev",
+    "unbound": "unbound",
+    "unifdef": "unifdef",
+    "unittestpp": "unittest-cpp",
+    "unixodbc": "unixodbc",
+    "unoconv": "unoconv",
+    "unzip": "unzip",
+    "uriparser": "uriparser",
+    "usbip": "linux-headers@4.4",
+    "usbredir": "usbredir",
+    "usbutils": "usbutils",
+    "utf8cpp": "utf8cpp",
+    "uthash": "uthash",
+    "util-linux": "util-linux",
+    "util-linux-libs": "gnu-getopt",
+    "uv": "uv",
+    "uvicorn": "uvicorn",
+    "uwsgi": "uwsgi",
+    "uwsgi-plugin-cgi": "uwsgi",
+    "uwsgi-plugin-lua51": "uwsgi",
+    "uwsgi-plugin-mono": "uwsgi",
+    "uwsgi-plugin-notfound": "uwsgi",
+    "uwsgi-plugin-php": "uwsgi",
+    "uwsgi-plugin-php-legacy": "uwsgi",
+    "uwsgi-plugin-psgi": "uwsgi",
+    "uwsgi-plugin-pypy": "uwsgi",
+    "uwsgi-plugin-python": "uwsgi",
+    "uwsgi-plugin-rack": "uwsgi",
+    "uwsgi-plugin-webdav": "uwsgi",
+    "uwsgi-plugin-zabbix": "uwsgi"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "libregamewiki",
+    "shard": "c",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "C-Dogs SDL": "cdogs-sdl",
+    "C-Dogs_SDL": "cdogs-sdl",
+    "Cataclysm: Dark Days Ahead": "cataclysm",
+    "Cataclysm:_Dark_Days_Ahead": "cataclysm",
+    "Chocolate Doom": "chocolate-doom",
+    "Chocolate_Doom": "chocolate-doom",
+    "Curse of War": "curseofwar",
+    "Curse_of_War": "curseofwar"
+  }
+}

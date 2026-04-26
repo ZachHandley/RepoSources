@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wikidata",
+    "shard": "k",
+    "total_mappings": 11
+  },
+  "mappings": {
+    "Kakoune": "kakoune",
+    "Kea": "kea",
+    "Kibi": "kibi",
+    "Klavaro": "klavaro",
+    "Komac": "komac",
+    "Kraken": "kraken2",
+    "Kubernetes": "kubernetes-cli",
+    "Kubo": "kubo",
+    "kcov": "kcov",
+    "kmod": "kmod",
+    "kvazaar": "kvazaar"
+  }
+}

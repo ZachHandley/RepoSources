@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_multimedia_libs_tumbleweed",
+    "shard": "m",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "melt": "mlt",
+    "miniaudio": "miniaudio",
+    "miniaudio-debuginfo": "miniaudio",
+    "miniaudio-debugsource": "miniaudio",
+    "miniaudio-devel": "miniaudio",
+    "mjpegtools": "mjpegtools",
+    "mjpegtools-debuginfo": "mjpegtools",
+    "mjpegtools-debugsource": "mjpegtools",
+    "mpeg2dec": "libmpeg2",
+    "mpg123": "mpg123",
+    "mpg123-debuginfo": "mpg123",
+    "mpg123-debugsource": "mpg123",
+    "mpg123-devel": "mpg123",
+    "mpg123-jack": "mpg123",
+    "mpg123-openal": "mpg123",
+    "mpg123-portaudio": "mpg123",
+    "mpg123-pulse": "mpg123",
+    "mpg123-sdl": "mpg123",
+    "mt32emu": "mt32emu",
+    "mt32emu-debuginfo": "mt32emu",
+    "mt32emu-debugsource": "mt32emu",
+    "mt32emu-qt": "mt32emu",
+    "musepack": "musepack",
+    "musepack-debuginfo": "musepack",
+    "musepack-debugsource": "musepack",
+    "musepack-devel": "musepack"
+  }
+}

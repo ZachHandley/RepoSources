@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "backbox_9",
+    "shard": "h",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "hashcat": "hashcat",
+    "hashcat-data": "hashcat",
+    "hcxtools": "hcxtools",
+    "hydra": "hydra"
+  }
+}

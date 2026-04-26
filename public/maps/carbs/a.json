@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "carbs",
+    "shard": "a",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "alsa-lib": "alsa-lib",
+    "aria2": "aria2",
+    "aspell": "aspell",
+    "autoconf": "autoconf",
+    "automake": "automake"
+  }
+}

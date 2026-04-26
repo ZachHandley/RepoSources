@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_multimedia_libs_tumbleweed",
+    "shard": "v",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "vamp-plugin-sdk": "vamp-plugin-sdk",
+    "vamp-plugin-sdk-debuginfo": "vamp-plugin-sdk",
+    "vamp-plugin-sdk-debugsource": "vamp-plugin-sdk",
+    "vamp-plugin-sdk-devel": "vamp-plugin-sdk",
+    "vapoursynth": "vapoursynth",
+    "vapoursynth-debuginfo": "vapoursynth",
+    "vapoursynth-debugsource": "vapoursynth",
+    "vapoursynth-devel": "vapoursynth",
+    "vapoursynth-tools": "vapoursynth",
+    "vcdimager": "vcdimager",
+    "vcdimager-debuginfo": "vcdimager",
+    "vcdimager-debugsource": "vcdimager",
+    "vcdimager-devel": "vcdimager",
+    "vid_stab": "libvidstab",
+    "vid_stab-debuginfo": "libvidstab",
+    "vid_stab-debugsource": "libvidstab",
+    "vmaf": "libvmaf",
+    "vmaf-debuginfo": "libvmaf",
+    "vmaf-debugsource": "libvmaf",
+    "vmaf-devel": "libvmaf",
+    "vo-amrwbenc": "vo-amrwbenc",
+    "vo-amrwbenc-debuginfo": "vo-amrwbenc",
+    "vo-amrwbenc-debugsource": "vo-amrwbenc",
+    "vpx-tools": "libvpx"
+  }
+}

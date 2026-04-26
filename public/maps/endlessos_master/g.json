@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "endlessos_master",
+    "shard": "g",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "gir1.2-gtk-4.0": "gtk+",
+    "glib2.0": "glib",
+    "gstreamer1.0-pipewire": "pipewire",
+    "gtk-4-examples": "gtk+",
+    "gtk-4-tests": "gtk+",
+    "gtk4": "gtk4"
+  }
+}

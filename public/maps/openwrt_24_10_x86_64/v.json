@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "openwrt_24_10_x86_64",
+    "shard": "v",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "v2ray-core": "v2ray",
+    "v2ray-example": "v2ray",
+    "v2ray-extra": "v2ray",
+    "valgrind": "valgrind",
+    "valgrind-cachegrind": "valgrind",
+    "valgrind-callgrind": "valgrind",
+    "valgrind-drd": "valgrind",
+    "valgrind-helgrind": "valgrind",
+    "valgrind-massif": "valgrind",
+    "valgrind-vgdb": "valgrind",
+    "view1090": "dump1090-fa",
+    "viewadsb": "readsb",
+    "vim": "vim",
+    "vim-full": "vim",
+    "vim-fuller": "vim",
+    "vim-help": "vim",
+    "vim-runtime": "vim",
+    "vips": "vips",
+    "virtio-console-helper": "qemu",
+    "vnstat": "vnstat",
+    "vnstat2": "vnstat",
+    "vnstati": "vnstat",
+    "vnstati2": "vnstat",
+    "vsftpd": "vsftpd",
+    "vsftpd-tls": "vsftpd"
+  }
+}

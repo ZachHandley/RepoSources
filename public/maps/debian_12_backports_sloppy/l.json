@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_12_backports_sloppy",
+    "shard": "l",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "libaqbanking": "aqbanking",
+    "libaqbanking-data": "aqbanking",
+    "libaqbanking-dev": "aqbanking",
+    "libaqbanking44": "aqbanking",
+    "libgl2ps-dev": "gl2ps",
+    "libgl2ps-doc": "gl2ps",
+    "libgl2ps1.4": "gl2ps",
+    "libgwengui-fox16-79": "gwenhywfar",
+    "libgwengui-fox16-dev": "gwenhywfar",
+    "libgwengui-gtk3-79": "gwenhywfar",
+    "libgwengui-gtk3-dev": "gwenhywfar",
+    "libgwengui-qt5-79": "gwenhywfar",
+    "libgwengui-qt5-dev": "gwenhywfar",
+    "libgwenhywfar": "gwenhywfar",
+    "libgwenhywfar-core-dev": "gwenhywfar",
+    "libgwenhywfar-data": "gwenhywfar",
+    "libgwenhywfar-doc": "gwenhywfar",
+    "libgwenhywfar79": "gwenhywfar",
+    "libjs-sphinxdoc": "sphinx-doc",
+    "libssl-dev": "openssl@3",
+    "libssl3": "openssl@3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "backbox_7",
+    "shards": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "h",
+      "l",
+      "n",
+      "o",
+      "p",
+      "s",
+      "t",
+      "w"
+    ],
+    "total_mappings": 34
+  }
+}

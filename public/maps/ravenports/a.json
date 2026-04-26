@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ravenports",
+    "shard": "a",
+    "total_mappings": 32
+  },
+  "mappings": {
+    "a52dec": "a52dec",
+    "aalib": "aalib",
+    "abseil-cpp": "abseil",
+    "adwaita-icon-theme": "adwaita-icon-theme",
+    "alpine": "alpine",
+    "alsa-lib": "alsa-lib",
+    "antiword": "antiword",
+    "aom": "aom",
+    "apache": "httpd",
+    "appstream": "appstream",
+    "appstream-glib": "appstream-glib",
+    "apr-util": "apr-util",
+    "apr1": "apr",
+    "aqbanking": "aqbanking",
+    "argon2": "argon2",
+    "argp-standalone": "argp-standalone",
+    "aria2": "aria2",
+    "asciidoc": "asciidoc",
+    "asio": "asio",
+    "aspell": "aspell",
+    "at-spi2-core": "at-spi2-core",
+    "atf": "atf",
+    "atkmm": "atkmm",
+    "atkmm16": "atkmm",
+    "augeas": "augeas",
+    "autoconf": "autoconf",
+    "autoconf-archive": "autoconf-archive",
+    "autoconf213": "autoconf",
+    "automake": "automake",
+    "avahi": "avahi",
+    "avrdude": "avrdude",
+    "ayatana-ido": "ayatana-ido"
+  }
+}

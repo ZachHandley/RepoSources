@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ptxdist",
+    "shard": "v",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "valgrind": "valgrind",
+    "vim": "vim",
+    "vo-aacenc": "libvo-aacenc",
+    "volk": "vulkan-volk",
+    "vorbis-tools": "vorbis-tools",
+    "vulkan-headers": "vulkan-headers",
+    "vulkan-loader": "vulkan-loader",
+    "vulkan-tools": "vulkan-tools",
+    "vulkan-utility-libraries": "vulkan-utility-libraries",
+    "vulkan-validationlayers": "vulkan-validationlayers"
+  }
+}

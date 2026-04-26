@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "rpmsphere",
+    "shard": "i",
+    "total_mappings": 10
+  },
+  "mappings": {
+    "iat": "iat",
+    "iat-debuginfo": "iat",
+    "iat-debugsource": "iat",
+    "icdiff": "icdiff",
+    "instead": "instead",
+    "instead-debuginfo": "instead",
+    "instead-debugsource": "instead",
+    "intercal": "intercal",
+    "intercal-debuginfo": "intercal",
+    "intercal-debugsource": "intercal"
+  }
+}

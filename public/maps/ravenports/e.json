@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "ravenports",
+    "shard": "e",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "easy-rsa": "easy-rsa",
+    "ebook-tools": "ebook-tools",
+    "ecl": "ecl",
+    "ed": "ed",
+    "eigen": "eigen",
+    "elixir": "elixir",
+    "emacs": "emacs",
+    "enchant": "enchant",
+    "enchant1": "enchant",
+    "erlang": "erlang",
+    "esbuild": "esbuild",
+    "espeak-ng": "espeak-ng",
+    "evdev-proto": "linux-headers@4.4",
+    "execline": "execline",
+    "exempi": "exempi",
+    "exiv2": "exiv2",
+    "expat": "expat",
+    "expect": "expect"
+  }
+}

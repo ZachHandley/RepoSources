@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "mx_21_testing",
+    "shard": "r",
+    "total_mappings": 25
+  },
+  "mappings": {
+    "r-base": "r",
+    "r-base-core": "r",
+    "r-base-dev": "r",
+    "r-base-html": "r",
+    "r-doc-html": "r",
+    "r-doc-info": "r",
+    "r-doc-pdf": "r",
+    "r-mathlib": "r",
+    "r-recommended": "r",
+    "rclone": "rclone",
+    "rist-tools": "librist",
+    "rnp": "rnp",
+    "rsyslog": "rsyslog",
+    "rsyslog-czmq": "rsyslog",
+    "rsyslog-elasticsearch": "rsyslog",
+    "rsyslog-gnutls": "rsyslog",
+    "rsyslog-gssapi": "rsyslog",
+    "rsyslog-hiredis": "rsyslog",
+    "rsyslog-kafka": "rsyslog",
+    "rsyslog-mongodb": "rsyslog",
+    "rsyslog-mysql": "rsyslog",
+    "rsyslog-openssl": "rsyslog",
+    "rsyslog-pgsql": "rsyslog",
+    "rsyslog-relp": "rsyslog",
+    "rxvt-unicode": "rxvt-unicode"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "packman_sle_12",
+    "shard": "n",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "nasm": "nasm",
+    "nlohmann_json": "nlohmann-json",
+    "nodejs": "node",
+    "normalize": "normalize"
+  }
+}

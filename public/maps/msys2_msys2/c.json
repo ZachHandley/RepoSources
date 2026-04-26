@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "msys2_msys2",
+    "shard": "c",
+    "total_mappings": 28
+  },
+  "mappings": {
+    "c-ares": "c-ares",
+    "ca-certificates": "ca-certificates",
+    "cargo-c": "cargo-c",
+    "cargo-edit": "cargo-edit",
+    "ccache": "ccache",
+    "cdecl": "cdecl",
+    "cflow": "cflow",
+    "cgdb": "cgdb",
+    "cjson": "cjson",
+    "clang": "lld",
+    "clang-analyzer": "lld",
+    "cloc": "cloc",
+    "cmake": "cmake",
+    "cmake-emacs": "cmake",
+    "cmake-vim": "cmake",
+    "cmatrix": "cmatrix",
+    "colordiff": "colordiff",
+    "colormake": "colormake",
+    "compiler-rt": "lld",
+    "coreutils": "coreutils",
+    "cpio": "cpio",
+    "crosstool-ng": "crosstool-ng",
+    "cscope": "cscope",
+    "ctags": "universal-ctags",
+    "curl": "curl",
+    "cvs": "cvs",
+    "cyrus-sasl": "cyrus-sasl",
+    "cython": "cython"
+  }
+}

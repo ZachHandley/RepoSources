@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "epel_6",
+    "shard": "x",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "x11vnc": "x11vnc",
+    "xa": "xa",
+    "xapian-core": "xapian",
+    "xclip": "xclip",
+    "xdotool": "xdotool",
+    "xerces-c": "xerces-c",
+    "xml-security-c": "xml-security-c",
+    "xmlstarlet": "xmlstarlet",
+    "xpdf": "xpdf",
+    "xrootd": "xrootd",
+    "xsd": "xsd",
+    "xsel": "xsel",
+    "xxhash": "xxhash"
+  }
+}

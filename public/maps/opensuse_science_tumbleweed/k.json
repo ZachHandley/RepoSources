@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_science_tumbleweed",
+    "shard": "k",
+    "total_mappings": 13
+  },
+  "mappings": {
+    "kim-api": "kim-api",
+    "kim-api-debuginfo": "kim-api",
+    "kim-api-debugsource": "kim-api",
+    "kim-api-devel": "kim-api",
+    "kim-api-examples": "kim-api",
+    "kissat": "kissat",
+    "kissat-debuginfo": "kissat",
+    "kissat-debugsource": "kissat",
+    "kissat-devel": "kissat",
+    "kokkos": "kokkos",
+    "kokkos-debuginfo": "kokkos",
+    "kokkos-debugsource": "kokkos",
+    "kokkos-devel": "kokkos"
+  }
+}

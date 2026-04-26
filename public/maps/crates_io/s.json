@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "crates_io",
+    "shard": "s",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "samply": "samply",
+    "sccache": "sccache",
+    "scriptisto": "scriptisto",
+    "sd": "sd",
+    "selene": "selene",
+    "sequoia-sq": "sequoia-sq",
+    "sequoia-sqv": "sequoia-sqv",
+    "silicon": "silicon",
+    "skim": "sk",
+    "sniffglue": "sniffglue",
+    "sniffnet": "sniffnet",
+    "sonic-server": "sonic",
+    "spr": "spr",
+    "spytrap-adb": "spytrap-adb",
+    "sqlpage": "sqlpage",
+    "starship": "starship",
+    "stylua": "stylua",
+    "swc": "swc"
+  }
+}

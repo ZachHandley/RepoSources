@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "opensuse_education_tumbleweed",
+    "shard": "m",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "maxima": "maxima",
+    "maxima-exec-clisp": "maxima",
+    "maxima-exec-sbcl": "maxima",
+    "maxima-lang": "maxima",
+    "maxima-xmaxima": "maxima",
+    "muparser": "muparser",
+    "muparser-debuginfo": "muparser",
+    "muparser-debugsource": "muparser",
+    "muparser-devel": "muparser"
+  }
+}

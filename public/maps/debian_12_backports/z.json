@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "debian_12_backports",
+    "shard": "z",
+    "total_mappings": 19
+  },
+  "mappings": {
+    "zabbix": "zabbix",
+    "zabbix-agent": "zabbix",
+    "zabbix-agent2": "zabbix",
+    "zabbix-frontend-php": "zabbix",
+    "zabbix-java-gateway": "zabbix",
+    "zabbix-proxy-mysql": "zabbix",
+    "zabbix-proxy-pgsql": "zabbix",
+    "zabbix-proxy-sqlite3": "zabbix",
+    "zabbix-sender": "zabbix",
+    "zabbix-server-mysql": "zabbix",
+    "zabbix-server-pgsql": "zabbix",
+    "zabbix-web-service": "zabbix",
+    "zchunk": "zchunk",
+    "zenmap": "nmap",
+    "zlib": "zlib",
+    "zlib1g": "zlib",
+    "zlib1g-dev": "zlib",
+    "zlib1g-udeb": "zlib",
+    "zstd": "zstd"
+  }
+}

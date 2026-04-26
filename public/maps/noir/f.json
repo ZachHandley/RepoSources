@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "noir",
+    "shard": "f",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "feh": "feh",
+    "ffmpeg": "ffmpeg",
+    "flex": "flex",
+    "fontconfig": "fontconfig",
+    "foot": "foot",
+    "fribidi": "fribidi"
+  }
+}

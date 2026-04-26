@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "wikidata",
+    "shard": "z",
+    "total_mappings": 21
+  },
+  "mappings": {
+    "Z shell": "zsh",
+    "Z3 Theorem Prover": "z3",
+    "ZBar": "zbar",
+    "ZMap": "zmap",
+    "ZNC": "znc",
+    "ZPAQ": "zpaq",
+    "Zabbix": "zabbix",
+    "Zeek": "zeek",
+    "Zenity": "zenity",
+    "ZeroMQ": "zeromq",
+    "Zig": "zig",
+    "Zim Desktop Wiki": "zim",
+    "Zola": "zola",
+    "Zopfli": "zopfli",
+    "Zstandard": "zstd",
+    "zimg": "zimg",
+    "zip": "zip",
+    "zlib": "zlib",
+    "zlib-ng": "zlib-ng",
+    "zmqpp": "zmqpp",
+    "zsh-completions": "zsh-completions"
+  }
+}

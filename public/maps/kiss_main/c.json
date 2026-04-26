@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "kiss_main",
+    "shard": "c",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "cairo": "cairo",
+    "cbindgen": "cbindgen",
+    "ccache": "ccache",
+    "clang": "lld",
+    "cmake": "cmake",
+    "curl": "curl",
+    "cyrus-sasl": "cyrus-sasl"
+  }
+}

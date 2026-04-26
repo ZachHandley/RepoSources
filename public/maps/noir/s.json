@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "noir",
+    "shard": "s",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "samurai": "samurai",
+    "scdoc": "scdoc",
+    "shared-mime-info": "shared-mime-info",
+    "sqlite": "sqlite",
+    "strace": "strace"
+  }
+}

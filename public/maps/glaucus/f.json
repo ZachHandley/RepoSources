@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "glaucus",
+    "shard": "f",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "file": "file-formula",
+    "flex": "flex",
+    "fontconfig": "fontconfig",
+    "fping": "fping",
+    "freetype": "freetype",
+    "fribidi": "fribidi"
+  }
+}

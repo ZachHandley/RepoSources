@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-26T18:41:10Z",
+    "source": "repology-dump",
+    "distro": "salix_14_2",
+    "shard": "n",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "nethogs": "nethogs",
+    "newsbeuter": "newsboat",
+    "nim": "nim",
+    "nodejs": "node",
+    "numactl": "numactl",
+    "numpy": "numpy"
+  }
+}
