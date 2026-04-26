@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "openeuler_24_09",
     "shard": "l",
@@ -1015,8 +1015,8 @@
     "libssh2-debugsource": "libssh2",
     "libssh2-devel": "libssh2",
     "libssh2-help": "libssh2",
-    "libssl-dev": "openssl@3",
-    "libssl3": "openssl@3",
+    "libssl-dev": "openssl",
+    "libssl3": "openssl",
     "libstdc++": "gcc",
     "libstdc++-devel": "gcc",
     "libstdc++-static": "gcc",

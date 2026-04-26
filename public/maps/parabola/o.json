@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "o",
@@ -128,7 +128,7 @@
     "openssh-knock": "openssh",
     "openssl": "openssl@3",
     "openssl-1.0": "openssl@3",
-    "openssl-dev": "openssl@3",
+    "openssl-dev": "openssl",
     "opensubdiv": "opensubdiv",
     "opentofu": "opentofu",
     "openvdb": "openvdb",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "fedora_40",
     "shard": "p",
@@ -1081,7 +1081,7 @@
     "python2.7": "python@3.9",
     "python2.7-debuginfo": "python@3.9",
     "python2.7-debugsource": "python@3.9",
-    "python3": "python@3",
+    "python3": "python",
     "python3-GeographicLib": "geographiclib",
     "python3-NLopt": "nlopt",
     "python3-SoapySDR": "soapysdr",
@@ -1135,8 +1135,8 @@
     "python3-cython": "cython",
     "python3-datalad": "datalad",
     "python3-debug": "python@3.9",
-    "python3-dev": "python@3",
-    "python3-devel": "python@3",
+    "python3-dev": "python",
+    "python3-devel": "python",
     "python3-distrdf": "root",
     "python3-dlib": "dlib",
     "python3-dns-lexicon": "lexicon",

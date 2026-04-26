@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "debian_12_backports",
     "shard": "l",
@@ -520,9 +520,9 @@
     "libsqlcipher-dev": "sqlcipher",
     "libsqlcipher1": "sqlcipher",
     "libss2": "e2fsprogs",
-    "libssl-dev": "openssl@3",
+    "libssl-dev": "openssl",
     "libssl-doc": "openssl@3",
-    "libssl3": "openssl@3",
+    "libssl3": "openssl",
     "libssl3-udeb": "openssl@3",
     "libstdc++-12-dev": "gcc",
     "libstdc++-12-doc": "gcc",

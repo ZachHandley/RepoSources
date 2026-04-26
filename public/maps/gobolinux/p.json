@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "p",
@@ -72,8 +72,8 @@
     "Python": "python@3.9",
     "Python-GDBM": "python-gdbm@3.11",
     "Python-Setuptools": "python-setuptools",
-    "python3": "python@3",
-    "python3-dev": "python@3",
-    "python3-devel": "python@3"
+    "python3": "python",
+    "python3-dev": "python",
+    "python3-devel": "python"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "p",
@@ -229,7 +229,7 @@
     "python-snowballstemmer": "snowball",
     "python-sphinx": "sphinx-doc",
     "python-virtualenv": "virtualenv",
-    "python3": "python@3",
+    "python3": "python",
     "python3-argcomplete": "python-argcomplete",
     "python3-avahi": "avahi",
     "python3-botan": "botan",
@@ -238,8 +238,8 @@
     "python3-cv2": "opencv",
     "python3-cython": "cython",
     "python3-debuginfo": "python@3.9",
-    "python3-dev": "python@3",
-    "python3-devel": "python@3",
+    "python3-dev": "python",
+    "python3-devel": "python",
     "python3-gdal": "gdal",
     "python3-gpg": "gpgme",
     "python3-libproxy": "libproxy",

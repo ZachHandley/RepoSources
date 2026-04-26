@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "openmandriva_6_0",
     "shard": "l",
@@ -5465,8 +5465,8 @@
     "libss2": "e2fsprogs",
     "libssh": "libssh",
     "libssh2": "libssh2",
-    "libssl-dev": "openssl@3",
-    "libssl3": "openssl@3",
+    "libssl-dev": "openssl",
+    "libssl3": "openssl",
     "libstatgrab": "libstatgrab",
     "libstatgrab-debuginfo": "libstatgrab",
     "libstatgrab-debugsource": "libstatgrab",

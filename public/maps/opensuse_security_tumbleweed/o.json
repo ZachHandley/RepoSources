@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "opensuse_security_tumbleweed",
     "shard": "o",
@@ -27,7 +27,7 @@
     "openbao-mysql-legacy-database-plugin": "openbao",
     "openbao-postgresql-database-plugin": "openbao",
     "openbao-server": "openbao",
-    "openssl-dev": "openssl@3",
+    "openssl-dev": "openssl",
     "osv-scanner": "osv-scanner",
     "osv-scanner-debuginfo": "osv-scanner",
     "osv-scanner-debugsource": "osv-scanner"

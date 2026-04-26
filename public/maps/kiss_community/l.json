@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "kiss_community",
     "shard": "l",
@@ -44,8 +44,8 @@
     "libsndfile": "libsndfile",
     "libsodium": "libsodium",
     "libssh": "libssh",
-    "libssl-dev": "openssl@3",
-    "libssl3": "openssl@3",
+    "libssl-dev": "openssl",
+    "libssl3": "openssl",
     "libtermkey": "libtermkey",
     "libtool": "libtool",
     "libtorrent": "libtorrent-rakshasa",

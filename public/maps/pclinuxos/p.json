@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "p",
@@ -138,9 +138,9 @@
     "python-woob": "woob",
     "python-wxpython4": "wxpython",
     "python-xdot": "xdot",
-    "python3": "python@3",
-    "python3-dev": "python@3",
-    "python3-devel": "python@3",
+    "python3": "python",
+    "python3-dev": "python",
+    "python3-devel": "python",
     "python3-libvirt": "libvirt-python",
     "python3-matplotlib": "python-matplotlib",
     "python3-pipx": "pipx"

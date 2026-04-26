@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-26T19:38:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "p",
@@ -834,7 +834,7 @@
     "python2": "python@3.9",
     "python2-docs": "python@3.9",
     "python2-pjsua": "pjproject",
-    "python3": "python@3",
+    "python3": "python",
     "python3-ESL": "freeswitch",
     "python3-OpenImageIO": "openimageio",
     "python3-SoapySDR": "soapysdr",
@@ -866,8 +866,8 @@
     "python3-cython0": "cython",
     "python3-debuginfo": "python@3.9",
     "python3-debugsource": "python@3.9",
-    "python3-dev": "python@3",
-    "python3-devel": "python@3",
+    "python3-dev": "python",
+    "python3-devel": "python",
     "python3-dns-lexicon": "lexicon",
     "python3-docs": "python@3.9",
     "python3-dtc": "dtc",
