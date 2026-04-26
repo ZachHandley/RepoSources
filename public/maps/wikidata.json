@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:12:17Z",
+    "generated_at": "2026-04-26T04:12:24Z",
     "source": "repology-dump",
     "distro": "wikidata",
-    "total_mappings": 2979
+    "total_mappings": 2981
   },
   "mappings": {
     "2ping": "twoping",
@@ -610,6 +610,7 @@
     "Netscape portable runtime": "nspr",
     "Nettle": "nettle",
     "Netwide Assembler": "nasm",
+    "Network Kanji Filter": "nkf",
     "Network Security Services": "nss",
     "Network UPS Tools": "nut",
     "Newsboat": "newsboat",
@@ -2040,6 +2041,7 @@
     "Q6993386": "neon",
     "Q6998198": "nco",
     "Q7000521": "nettle",
+    "Q7000845": "nkf",
     "Q7000904": "nss",
     "Q70014271": "newsboat",
     "Q70093315": "fdroidserver",

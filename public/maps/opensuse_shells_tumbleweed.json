@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:10:19Z",
+    "generated_at": "2026-04-26T04:10:36Z",
     "source": "repology-dump",
     "distro": "opensuse_shells_tumbleweed",
     "total_mappings": 56
@@ -8,8 +8,8 @@
   "mappings": {
     "bash": "bash",
     "bash-completion": "bash-completion",
-    "bash-completion-devel": "bash-completion@2",
-    "bash-completion-doc": "bash-completion@2",
+    "bash-completion-devel": "bash-completion",
+    "bash-completion-doc": "bash-completion",
     "bash-devel": "bash",
     "bash-doc": "bash",
     "bash-lang": "bash",

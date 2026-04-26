@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:11:14Z",
+    "generated_at": "2026-04-26T04:11:25Z",
     "source": "repology-dump",
     "distro": "sagemath_develop",
     "total_mappings": 72
@@ -19,7 +19,7 @@
     "freetype": "freetype",
     "fricas": "fricas",
     "gc": "bdw-gc",
-    "gcc": "gcc@9",
+    "gcc": "aarch64-elf-gcc",
     "gengetopt": "gengetopt",
     "gfortran": "aarch64-elf-gcc",
     "glpk": "glpk",
@@ -49,7 +49,7 @@
     "numpy": "numpy",
     "onetbb": "tbb",
     "openblas": "openblas",
-    "openssl": "openssl@3.0",
+    "openssl": "openssl@3",
     "packaging": "python-packaging",
     "papilo": "papilo",
     "pari": "pari",

@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:10:30Z",
+    "generated_at": "2026-04-26T04:10:45Z",
     "source": "repology-dump",
     "distro": "parabola_testing",
     "total_mappings": 3
   },
   "mappings": {
-    "file": "libmagic",
+    "file": "file-formula",
     "file-debug": "file-formula",
     "sdcc": "sdcc"
   }

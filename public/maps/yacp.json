@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:12:18Z",
+    "generated_at": "2026-04-26T04:12:25Z",
     "source": "repology-dump",
     "distro": "yacp",
-    "total_mappings": 2637
+    "total_mappings": 2641
   },
   "mappings": {
     "AMQP-CPP": "amqp-cpp",
@@ -167,6 +167,7 @@
     "clac": "clac",
     "classad": "classads",
     "classads": "classads",
+    "clblast": "clblast",
     "clhep": "clhep",
     "cli11": "cli11",
     "clib": "clib",
@@ -264,6 +265,7 @@
     "eot-utilities": "eot-utils",
     "epeg": "epeg",
     "ephemeralpg": "ephemeralpg",
+    "erfa": "erfa",
     "esniper": "esniper",
     "exiftags": "exiftags",
     "ezstream": "ezstream",
@@ -940,6 +942,8 @@
     "libenkiTS1": "enkits",
     "libepeg-devel": "epeg",
     "libepeg0": "epeg",
+    "liberfa-devel": "erfa",
+    "liberfa1": "erfa",
     "libesedb": "libesedb",
     "libesedb-devel": "libesedb",
     "libesedb1": "libesedb",

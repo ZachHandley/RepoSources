@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:12:15Z",
+    "generated_at": "2026-04-26T04:12:22Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
-    "total_mappings": 5828
+    "total_mappings": 5832
   },
   "mappings": {
     "3mux": "threemux",
@@ -752,6 +752,9 @@
     "db-doc": "berkeley-db",
     "dbus": "dbus",
     "dbus-devel": "dbus",
+    "dbus-elogind": "dbus",
+    "dbus-elogind-libs": "dbus",
+    "dbus-elogind-x11": "dbus",
     "dbus-glib": "dbus-glib",
     "dbus-glib-devel": "dbus-glib",
     "dbus-libs": "dbus",
@@ -5331,6 +5334,7 @@
     "tinyxml2-devel": "tinyxml",
     "tio": "tio",
     "tllist": "tllist",
+    "tlrc": "tlrc",
     "tmate": "tmate",
     "tml": "tml",
     "tmon": "linux-headers@4.4",

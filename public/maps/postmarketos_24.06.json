@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:10:44Z",
+    "generated_at": "2026-04-26T04:10:58Z",
     "source": "repology-dump",
     "distro": "postmarketos_24.06",
     "total_mappings": 28
@@ -9,14 +9,14 @@
     "gtk+3.0": "gtk+",
     "gtk+3.0-dbg": "gtk+",
     "gtk+3.0-demo": "gtk+",
-    "gtk+3.0-dev": "gtk4",
-    "gtk+3.0-lang": "gtk4",
+    "gtk+3.0-dev": "gtk+",
+    "gtk+3.0-lang": "gtk+",
     "gtk4.0": "gtk+",
-    "gtk4.0-dbg": "gtk+3",
-    "gtk4.0-demo": "gtk+3",
+    "gtk4.0-dbg": "gtk+",
+    "gtk4.0-demo": "gtk+",
     "gtk4.0-dev": "gtk+",
     "gtk4.0-doc": "gtk+",
-    "gtk4.0-lang": "gtk+3",
+    "gtk4.0-lang": "gtk+",
     "libpulse": "pulseaudio",
     "libpulse-mainloop-glib": "pulseaudio",
     "pulseaudio": "pulseaudio",

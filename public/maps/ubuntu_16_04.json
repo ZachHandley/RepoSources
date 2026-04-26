@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:11:56Z",
+    "generated_at": "2026-04-26T04:12:05Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
-    "total_mappings": 11777
+    "total_mappings": 11780
   },
   "mappings": {
     "0install": "zero-install",
@@ -1133,6 +1133,7 @@
     "epstool": "epstool",
     "epub-utils": "ebook-tools",
     "epubcheck": "epubcheck",
+    "erfa": "erfa",
     "erlang": "erlang",
     "erlang-asn1": "erlang",
     "erlang-base": "erlang",
@@ -3748,6 +3749,8 @@
     "libepsilon1": "epsilon",
     "libepub-dev": "ebook-tools",
     "libepub0": "ebook-tools",
+    "liberfa-dev": "erfa",
+    "liberfa1": "erfa",
     "libesedb": "libesedb",
     "libesedb-dbg": "libesedb",
     "libesedb-dev": "libesedb",

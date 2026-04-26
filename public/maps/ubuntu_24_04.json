@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:12:06Z",
+    "generated_at": "2026-04-26T04:12:14Z",
     "source": "repology-dump",
     "distro": "ubuntu_24_04",
-    "total_mappings": 14575
+    "total_mappings": 14580
   },
   "mappings": {
     "0install": "zero-install",
@@ -1433,6 +1433,7 @@
     "epstool": "epstool",
     "epub-utils": "ebook-tools",
     "epubcheck": "epubcheck",
+    "erfa": "erfa",
     "erlang": "erlang",
     "erlang-asn1": "erlang",
     "erlang-base": "erlang",
@@ -1885,6 +1886,7 @@
     "g++-9": "aarch64-elf-gcc",
     "g++-9-multilib": "aarch64-elf-gcc",
     "g2o": "g2o",
+    "ga": "global-arrays",
     "gabedit": "gabedit",
     "gaffitter": "gaffitter",
     "gallery-dl": "gallery-dl",
@@ -5137,6 +5139,8 @@
     "libepoxy0-udeb": "libepoxy",
     "libepub-dev": "ebook-tools",
     "libepub0": "ebook-tools",
+    "liberfa-dev": "erfa",
+    "liberfa1": "erfa",
     "libesedb": "libesedb",
     "libesedb-dev": "libesedb",
     "libesedb-utils": "libesedb",
@@ -5729,6 +5733,7 @@
     "libglktermw-dev": "glktermw",
     "libglm-dev": "glm",
     "libglm-doc": "glm",
+    "libglobalarrays-dev": "global-arrays",
     "libglobjects-dev": "globjects",
     "libglobjects1": "globjects",
     "libglom-1.30-0": "glom",

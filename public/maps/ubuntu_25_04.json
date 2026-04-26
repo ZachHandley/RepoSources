@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T04:12:08Z",
+    "generated_at": "2026-04-26T04:12:16Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_04",
-    "total_mappings": 14868
+    "total_mappings": 14873
   },
   "mappings": {
     "0install": "zero-install",
@@ -1465,6 +1465,7 @@
     "epstool": "epstool",
     "epub-utils": "ebook-tools",
     "epubcheck": "epubcheck",
+    "erfa": "erfa",
     "erlang": "erlang",
     "erlang-asn1": "erlang",
     "erlang-base": "erlang",
@@ -1953,6 +1954,7 @@
     "g++-15-x86-64-linux-gnu": "aarch64-elf-gcc",
     "g++-15-x86-64-linux-gnux32": "aarch64-elf-gcc",
     "g2o": "g2o",
+    "ga": "global-arrays",
     "ga68-15": "aarch64-elf-gcc",
     "ga68-15-aarch64-linux-gnu": "aarch64-elf-gcc",
     "ga68-15-alpha-linux-gnu": "aarch64-elf-gcc",
@@ -5470,6 +5472,8 @@
     "libepoxy0-udeb": "libepoxy",
     "libepub-dev": "ebook-tools",
     "libepub0": "ebook-tools",
+    "liberfa-dev": "erfa",
+    "liberfa1": "erfa",
     "libesedb": "libesedb",
     "libesedb-dev": "libesedb",
     "libesedb-utils": "libesedb",
@@ -6067,6 +6071,7 @@
     "libglktermw-dev": "glktermw",
     "libglm-dev": "glm",
     "libglm-doc": "glm",
+    "libglobalarrays-dev": "global-arrays",
     "libgloox-dev": "gloox",
     "libgloox-doc": "gloox",
     "libgloox18": "gloox",
