@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "d",
@@ -42,7 +42,7 @@
     "dos2unix": "dos2unix",
     "dosbox_x": "dosbox-x",
     "dosfstools": "dosfstools",
-    "dotnet": "dotnet",
+    "dotnet": "dotnet@9",
     "double_conversion": "double-conversion",
     "doxygen": "doxygen",
     "dropbox_uploader": "dropbox-uploader",

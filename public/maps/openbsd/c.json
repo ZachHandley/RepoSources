@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "c",
@@ -76,7 +76,7 @@
     "citus": "citus",
     "cjson": "cjson",
     "clamav": "clamav",
-    "clang-tools-extra": "lld",
+    "clang-tools-extra": "lld@21",
     "claws-mail": "claws-mail",
     "claws-mail-bogofilter": "claws-mail",
     "claws-mail-pdfviewer": "claws-mail",

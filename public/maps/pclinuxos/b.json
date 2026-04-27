@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "b",
@@ -13,7 +13,7 @@
     "baobab": "baobab",
     "barcode": "gnu-barcode",
     "bash": "bash",
-    "bash-completion": "bash-completion",
+    "bash-completion": "bash-completion@2",
     "bashish": "bashish",
     "bchunk": "bchunk",
     "bdftopcf": "bdftopcf",
@@ -36,7 +36,7 @@
     "boost-jam": "boost",
     "borgbackup": "borgbackup",
     "botan": "botan",
-    "botan2": "botan",
+    "botan2": "botan@2",
     "box2d": "box2d",
     "brotli": "brotli",
     "btop": "btop",

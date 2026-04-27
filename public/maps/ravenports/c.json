@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "c",
@@ -31,8 +31,8 @@
     "cjson": "cjson",
     "clamav": "clamav",
     "clang": "lld",
-    "clang20": "lld",
-    "clang21": "lld",
+    "clang20": "lld@20",
+    "clang21": "lld@21",
     "clisp": "clisp",
     "cmake": "cmake",
     "cmark": "cmark",

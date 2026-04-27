@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openeuler_20_03_lts_sp3",
     "shard": "i",
     "total_mappings": 16
   },
   "mappings": {
-    "ImageMagick": "imagemagick",
+    "ImageMagick": "imagemagick@6",
     "i2c-tools": "i2c-tools",
     "icoutils": "icoutils",
     "icu": "icu4c@74",

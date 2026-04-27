@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "e",
@@ -39,7 +39,7 @@
     "eget": "eget",
     "eigen": "eigen",
     "eigen2": "eigen",
-    "eigen_3_4_0": "eigen",
+    "eigen_3_4_0": "eigen@3",
     "eigen_5": "eigen",
     "eigenpy": "eigenpy",
     "ejabberd": "ejabberd",
@@ -112,7 +112,7 @@
     "erg": "erg",
     "erlang": "erlang",
     "erlang-language-platform": "erlang-language-platform",
-    "erlang_27": "erlang",
+    "erlang_27": "erlang@27",
     "erlang_28": "erlang",
     "erlfmt": "erlfmt",
     "erofs-utils": "erofs-utils",

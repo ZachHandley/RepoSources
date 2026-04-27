@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "r",
@@ -195,7 +195,7 @@
     "ruby-asciidoctor": "asciidoctor",
     "ruby-ecasound": "ecasound",
     "ruby-foreman": "foreman",
-    "ruby-google-protobuf": "protobuf",
+    "ruby-google-protobuf": "protobuf@3",
     "ruby-grpc": "grpc",
     "ruby-grpc-tools": "grpc",
     "ruby-hivex": "hivex",

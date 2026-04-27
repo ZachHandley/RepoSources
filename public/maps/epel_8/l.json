@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "l",
@@ -137,7 +137,7 @@
     "libyubikey": "libyubikey",
     "libzen": "libzen",
     "lighttpd": "lighttpd",
-    "llvm14": "lld",
+    "llvm14": "llvm@14",
     "llvm5.0": "lld",
     "llvm6.0": "lld",
     "llvm7.0": "lld",

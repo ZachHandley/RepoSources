@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_6",
     "shard": "m",
@@ -15,7 +15,7 @@
     "matio": "libmatio",
     "mawk": "mawk",
     "maxima": "maxima",
-    "mbedtls": "mbedtls",
+    "mbedtls": "mbedtls@2",
     "md5deep": "md5deep",
     "mdbtools": "mdbtools",
     "mediainfo": "media-info",

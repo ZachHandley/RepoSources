@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "r",
@@ -36,7 +36,7 @@
     "ripgrep": "ripgrep",
     "ripgrep-all": "ripgrep-all",
     "riscv64-unknown-elf-binutils": "binutils",
-    "riscv64-unknown-elf-gcc": "gcc",
+    "riscv64-unknown-elf-gcc": "gcc@13",
     "riscv64-unknown-linux-gnu-binutils": "binutils",
     "riscv64-unknown-linux-gnu-gcc": "gcc",
     "riscv64-unknown-linux-gnu-gcc-stage1": "gcc",
@@ -60,7 +60,7 @@
     "ruby-bundled-gems": "ruby",
     "ruby-default-gems": "ruby",
     "ruby-docs": "ruby",
-    "ruby-google-protobuf": "protobuf",
+    "ruby-google-protobuf": "protobuf@33",
     "ruby-marisa": "marisa",
     "ruby-ronn-ng": "ronn",
     "ruby-stdlib": "ruby",

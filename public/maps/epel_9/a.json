@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "a",
@@ -109,10 +109,10 @@
     "arm-none-eabi-binutils-cs": "binutils",
     "arm-none-eabi-binutils-cs-debuginfo": "binutils",
     "arm-none-eabi-binutils-cs-debugsource": "binutils",
-    "arm-none-eabi-gcc-cs": "gcc",
-    "arm-none-eabi-gcc-cs-c++": "gcc",
-    "arm-none-eabi-gcc-cs-debuginfo": "gcc",
-    "arm-none-eabi-gcc-cs-debugsource": "gcc",
+    "arm-none-eabi-gcc-cs": "gcc@12",
+    "arm-none-eabi-gcc-cs-c++": "gcc@12",
+    "arm-none-eabi-gcc-cs-debuginfo": "gcc@12",
+    "arm-none-eabi-gcc-cs-debugsource": "gcc@12",
     "armadillo": "armadillo",
     "armadillo-debuginfo": "armadillo",
     "armadillo-debugsource": "armadillo",
@@ -132,11 +132,11 @@
     "asciinema": "asciinema",
     "asio": "asio",
     "asio-devel": "asio",
-    "assimp": "assimp",
-    "assimp-debuginfo": "assimp",
-    "assimp-debugsource": "assimp",
-    "assimp-devel": "assimp",
-    "assimp-doc": "assimp",
+    "assimp": "assimp@5",
+    "assimp-debuginfo": "assimp@5",
+    "assimp-debugsource": "assimp@5",
+    "assimp-devel": "assimp@5",
+    "assimp-doc": "assimp@5",
     "astyle": "astyle",
     "astyle-debuginfo": "astyle",
     "astyle-debugsource": "astyle",
@@ -230,7 +230,7 @@
     "aws-checksums-debugsource": "aws-checksums",
     "aws-checksums-devel": "aws-checksums",
     "aws-checksums-libs": "aws-checksums",
-    "awscli": "awscli",
+    "awscli": "awscli@1",
     "azure-cli": "azure-cli"
   }
 }

@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "y",
-    "total_mappings": 40
+    "total_mappings": 41
   },
   "mappings": {
     "yajl": "yajl",
     "yajl-devel": "yajl",
+    "yama-ptrace-enable": "elfutils",
     "yaml-cpp": "yaml-cpp",
     "yaml-cpp-devel": "yaml-cpp",
     "yaml-cpp-static": "yaml-cpp",

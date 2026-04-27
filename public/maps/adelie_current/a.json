@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "adelie_current",
     "shard": "a",
@@ -62,9 +62,9 @@
     "aspell-dev": "aspell",
     "aspell-doc": "aspell",
     "aspell-lang": "aspell",
-    "assimp": "assimp",
-    "assimp-dbg": "assimp",
-    "assimp-dev": "assimp",
+    "assimp": "assimp@5",
+    "assimp-dbg": "assimp@5",
+    "assimp-dev": "assimp@5",
     "astyle": "astyle",
     "astyle-dbg": "astyle",
     "astyle-dev": "astyle",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "f",
@@ -22,7 +22,7 @@
     "ffmpeg-gyan-nightly": "ffmpeg",
     "ffmpeg-nightly": "ffmpeg",
     "ffmpeg-shared": "ffmpeg",
-    "ffmpeg-shared-4.4.1": "ffmpeg",
+    "ffmpeg-shared-4.4.1": "ffmpeg@4",
     "ffmpeg-shared-nightly": "ffmpeg",
     "ffsend": "ffsend",
     "ffuf": "ffuf",

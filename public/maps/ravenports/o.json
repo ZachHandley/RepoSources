@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "o",
@@ -18,7 +18,7 @@
     "opencv": "opencv",
     "openexr": "openexr",
     "openh264": "openh264",
-    "openjdk": "openjdk",
+    "openjdk": "openjdk@21",
     "openjpeg": "openjpeg",
     "openjph": "openjph",
     "openldap": "openldap",

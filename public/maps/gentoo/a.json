@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "a",
-    "total_mappings": 625
+    "total_mappings": 626
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -19,7 +19,7 @@
     "app-admin/apache-tools": "httpd",
     "app-admin/apachetop": "apachetop",
     "app-admin/augeas": "augeas",
-    "app-admin/awscli": "awscli",
+    "app-admin/awscli": "awscli@1",
     "app-admin/awscli-bin": "awscli",
     "app-admin/bitwarden-cli-bin": "bitwarden-cli",
     "app-admin/chrpath": "chrpath",
@@ -34,7 +34,7 @@
     "app-admin/gopass": "gopass",
     "app-admin/gopass-jsonapi": "gopass-jsonapi",
     "app-admin/hcloud": "hcloud",
-    "app-admin/helm": "helm",
+    "app-admin/helm": "helm@3",
     "app-admin/kpcli": "kpcli",
     "app-admin/kube-bench": "kube-bench",
     "app-admin/kubectx": "kubectx",
@@ -392,6 +392,7 @@
     "app-misc/ledit": "ledit",
     "app-misc/liquidctl": "liquidctl",
     "app-misc/lxsplit": "lxsplit",
+    "app-misc/mat2": "mat2",
     "app-misc/mc": "midnight-commander",
     "app-misc/mkcert": "mkcert",
     "app-misc/mmv": "mmv",

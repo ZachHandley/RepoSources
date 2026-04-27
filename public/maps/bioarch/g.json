@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "bioarch",
     "shard": "g",
     "total_mappings": 3
   },
   "mappings": {
-    "gcc13": "gcc",
-    "gcc13-libs": "gcc",
+    "gcc13": "gcc@13",
+    "gcc13-libs": "gcc@13",
     "gffread": "gffread"
   }
 }

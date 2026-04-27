@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "i",
@@ -9,7 +9,7 @@
   "mappings": {
     "ImageMagick": "imagemagick",
     "icon-naming-utils": "icon-naming-utils",
-    "icu4c": "icu4c@78",
+    "icu4c": "icu4c@75",
     "id3lib": "id3lib",
     "imlib2": "imlib2",
     "inetutils": "inetutils",

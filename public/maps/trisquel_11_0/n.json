@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "trisquel_11_0",
     "shard": "n",
@@ -91,9 +91,9 @@
     "netpbm": "netpbm",
     "netpbm-free": "netpbm",
     "netris": "netris",
-    "netstandard-targeting-pack-2.1": "dotnet",
+    "netstandard-targeting-pack-2.1": "dotnet@6",
     "netstandard-targeting-pack-2.1-7.0": "dotnet",
-    "netstandard-targeting-pack-2.1-8.0": "dotnet",
+    "netstandard-targeting-pack-2.1-8.0": "dotnet@8",
     "nettle": "nettle",
     "nettle-bin": "nettle",
     "nettle-dev": "nettle",

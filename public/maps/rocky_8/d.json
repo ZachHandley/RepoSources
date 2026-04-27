@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "rocky_8",
     "shard": "d",
@@ -28,10 +28,10 @@
     "dotnet3.0": "dotnet",
     "dotnet3.1": "dotnet",
     "dotnet5.0": "dotnet",
-    "dotnet6.0": "dotnet",
+    "dotnet6.0": "dotnet@6",
     "dotnet7.0": "dotnet",
-    "dotnet8.0": "dotnet",
-    "dotnet9.0": "dotnet",
+    "dotnet8.0": "dotnet@8",
+    "dotnet9.0": "dotnet@9",
     "dovecot": "dovecot",
     "doxygen": "doxygen",
     "dtc": "dtc",

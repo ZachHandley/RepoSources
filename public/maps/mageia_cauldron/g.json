@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "g",
@@ -102,7 +102,7 @@
     "git": "git",
     "git-arch": "git",
     "git-archive-all": "git-archive-all",
-    "git-clang-format": "lld",
+    "git-clang-format": "llvm@20",
     "git-cola": "git-cola",
     "git-core": "git",
     "git-core-oldies": "git",

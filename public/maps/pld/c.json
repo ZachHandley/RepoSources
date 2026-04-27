@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "c",
@@ -118,7 +118,7 @@
     "crossmingw32-fontconfig": "fontconfig",
     "crossmingw32-freetype": "freetype",
     "crossmingw32-fribidi": "fribidi",
-    "crossmingw32-gcc": "gcc",
+    "crossmingw32-gcc": "gcc@13",
     "crossmingw32-gdk-pixbuf2": "gdk-pixbuf",
     "crossmingw32-gettext": "gettext",
     "crossmingw32-glib2": "glib",
@@ -132,7 +132,7 @@
     "crossmingw32-libjpeg": "jpeg",
     "crossmingw32-libogg": "libogg",
     "crossmingw32-libpng": "libpng",
-    "crossmingw32-libsigc++": "libsigc++",
+    "crossmingw32-libsigc++": "libsigc++@2",
     "crossmingw32-libtiff": "libtiff",
     "crossmingw32-libunistring": "libunistring",
     "crossmingw32-libvorbis": "libvorbis",

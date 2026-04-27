@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "fedora_41",
     "shard": "h",
@@ -64,9 +64,9 @@
     "helix-debuginfo": "helix",
     "helix-debugsource": "helix",
     "hello": "hello",
-    "helm": "helm",
-    "helm-debuginfo": "helm",
-    "helm-debugsource": "helm",
+    "helm": "helm@3",
+    "helm-debuginfo": "helm@3",
+    "helm-debugsource": "helm@3",
     "help2man": "help2man",
     "hercules": "hercules",
     "hercules-debuginfo": "hercules",

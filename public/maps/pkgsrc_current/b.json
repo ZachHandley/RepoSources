@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "b",
@@ -20,7 +20,7 @@
     "bareos": "bareos-client",
     "base64": "base64",
     "bash": "bash",
-    "bash-completion": "bash-completion",
+    "bash-completion": "bash-completion@2",
     "bash-preexec": "bash-preexec",
     "bastet": "bastet",
     "bat": "bat",
@@ -110,7 +110,7 @@
     "boost-libs": "boost",
     "boost-mpi": "boost-mpi",
     "bosh": "star",
-    "botan": "botan",
+    "botan": "botan@2",
     "botan3": "botan",
     "bowtie2": "bowtie2",
     "box2d": "box2d",

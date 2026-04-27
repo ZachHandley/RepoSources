@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "a",
@@ -285,7 +285,7 @@
     "avro-c": "avro-c",
     "avro-java": "avro-c",
     "aws-shell": "aws-shell",
-    "awscli": "awscli",
+    "awscli": "awscli@1",
     "axel": "axel",
     "ayatana-ido": "ayatana-ido",
     "ayatana-indicator-common": "libayatana-indicator"

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "kaos",
     "shard": "d",
@@ -8,7 +8,7 @@
   },
   "mappings": {
     "dav1d": "dav1d",
-    "db": "berkeley-db",
+    "db": "berkeley-db@5",
     "dbus": "dbus",
     "dbus-glib": "dbus-glib",
     "dcadec": "dcadec",

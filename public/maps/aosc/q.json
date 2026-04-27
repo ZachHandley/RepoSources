@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "q",
@@ -46,7 +46,7 @@
     "qrencode": "qrencode",
     "qscintilla": "qscintilla2",
     "qt-4": "qt",
-    "qt-5": "qt",
+    "qt-5": "qt@5",
     "qt-6": "qt",
     "qt-6-doc": "qt",
     "qtkeychain": "qtkeychain",

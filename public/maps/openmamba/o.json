@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "o",
@@ -9,7 +9,7 @@
   "mappings": {
     "ocaml": "ocaml",
     "ocaml-compiler-libs": "ocaml",
-    "ocaml-debug": "ocaml",
+    "ocaml-debug": "ocaml@4",
     "ocaml-docs": "ocaml",
     "ocaml-findlib": "ocaml-findlib",
     "ocaml-findlib-devel": "ocaml-findlib",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "e",
@@ -34,8 +34,8 @@
     "efl-doc": "efl",
     "efl-ibus": "efl",
     "efl-locale": "efl",
-    "eigen": "eigen",
-    "eigen-doc": "eigen",
+    "eigen": "eigen@3",
+    "eigen-doc": "eigen@3",
     "elfutils": "elfutils",
     "elfutils-debuginfod": "elfutils",
     "elfutils-debuginfod-libs": "elfutils",
@@ -75,7 +75,7 @@
     "erofs-utils": "erofs-utils",
     "erofs-utils-man": "erofs-utils",
     "espeak-ng": "espeak-ng",
-    "espeak-ng-devel": "espeak",
+    "espeak-ng-devel": "espeak-ng",
     "espeak-ng-devel-static": "espeak",
     "evince": "evince",
     "evince-devel": "evince",

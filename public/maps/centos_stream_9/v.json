@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "centos_stream_9",
     "shard": "v",
     "total_mappings": 59
   },
   "mappings": {
-    "v8-12.4-devel": "node",
-    "v8-13.6-devel": "node",
+    "v8-12.4-devel": "node@22",
+    "v8-13.6-devel": "node@24",
     "vala": "vala",
     "vala-debuginfo": "vala",
     "vala-debugsource": "vala",

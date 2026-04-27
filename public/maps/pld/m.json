@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "m",
-    "total_mappings": 114
+    "total_mappings": 115
   },
   "mappings": {
     "MHonArc": "mhonarc",
@@ -26,8 +26,8 @@
     "maven": "maven",
     "mawk": "mawk",
     "maxima": "maxima",
-    "mbedtls": "mbedtls",
-    "mbedtls2": "mbedtls",
+    "mbedtls": "mbedtls@3",
+    "mbedtls2": "mbedtls@2",
     "mc": "midnight-commander",
     "mcabber": "mcabber",
     "mcpp": "mcpp",
@@ -52,6 +52,7 @@
     "microsoft-gsl": "cpp-gsl",
     "mikmod": "mikmod",
     "mimalloc": "mimalloc",
+    "miniaudio": "miniaudio",
     "minicom": "minicom",
     "minidlna": "minidlna",
     "minio": "minio",
@@ -67,7 +68,7 @@
     "mm-common": "mm-common",
     "moe": "moe",
     "mold": "mold",
-    "mongo-c-driver": "mongo-c-driver",
+    "mongo-c-driver": "mongo-c-driver@1",
     "monit": "monit",
     "monitoring-plugins": "monitoring-plugins",
     "mono": "mono",
@@ -76,7 +77,7 @@
     "mosquitto": "mosquitto",
     "most": "most",
     "motif": "openmotif",
-    "mozjs115": "spidermonkey",
+    "mozjs115": "spidermonkey@115",
     "mozjs128": "spidermonkey",
     "mozjs140": "spidermonkey",
     "mp3blaster": "mp3blaster",

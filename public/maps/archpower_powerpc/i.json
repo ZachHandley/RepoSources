@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "i",
@@ -9,11 +9,11 @@
   "mappings": {
     "i2c-tools": "i2c-tools",
     "icecream": "icecream",
-    "icu": "icu4c@74",
+    "icu": "icu4c@78",
     "id3lib": "id3lib",
     "imagemagick": "imagemagick",
     "imagemagick-doc": "imagemagick",
-    "imagemagick6": "imagemagick",
+    "imagemagick6": "imagemagick@6",
     "imake": "imake",
     "imath": "imath",
     "imlib2": "imlib2",

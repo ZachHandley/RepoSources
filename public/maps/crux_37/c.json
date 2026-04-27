@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "c",
@@ -29,7 +29,7 @@
     "chrony": "chrony",
     "chrpath": "chrpath",
     "clamav": "clamav",
-    "clang": "lld",
+    "clang": "lld@20",
     "clisp": "clisp",
     "cmake": "cmake",
     "cmark": "cmark",
@@ -37,7 +37,7 @@
     "coin-or-cbc": "cbc",
     "coin-or-cgl": "cgl",
     "coin-or-coinutils": "coinutils",
-    "compiler-rt": "lld",
+    "compiler-rt": "llvm@20",
     "confuse": "confuse",
     "conmon": "conmon",
     "containerd": "containerd",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "i",
@@ -8,7 +8,7 @@
   },
   "mappings": {
     "ImageMagick": "imagemagick",
-    "ImageMagick6": "imagemagick",
+    "ImageMagick6": "imagemagick@6",
     "Ipopt": "ipopt",
     "iamb": "iamb",
     "iat": "iat",
@@ -18,7 +18,7 @@
     "icon": "icon",
     "icon-naming-utils": "icon-naming-utils",
     "icoutils": "icoutils",
-    "icu": "icu4c@74",
+    "icu": "icu4c@78",
     "id3lib": "id3lib",
     "id3v2": "id3v2",
     "idris2": "idris2",
@@ -40,7 +40,7 @@
     "inadyn": "inadyn",
     "include-what-you-use": "include-what-you-use",
     "inetutils": "inetutils",
-    "influxdb": "influxdb",
+    "influxdb": "influxdb@1",
     "inih": "inih",
     "iniparser": "iniparser",
     "inlyne": "inlyne",

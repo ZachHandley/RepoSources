@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "i",
@@ -23,9 +23,9 @@
     "icecream-scheduler": "icecream",
     "icon-naming-utils": "icon-naming-utils",
     "icoutils": "icoutils",
-    "icu": "icu4c@74",
-    "icu-doc": "icu4c@74",
-    "icu76-data": "icu4c@74",
+    "icu": "icu4c@76",
+    "icu-doc": "icu4c@76",
+    "icu76-data": "icu4c@76",
     "id3lib": "id3lib",
     "id3v2": "id3v2",
     "ideviceinstaller": "ideviceinstaller",

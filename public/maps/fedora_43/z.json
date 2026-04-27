@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "z",
@@ -69,7 +69,7 @@
     "zix-doc": "zix",
     "zlib-ng": "zlib-ng",
     "zlib-ng-compat": "zlib-ng-compat",
-    "zlib-ng-compat-devel": "zlib-ng",
+    "zlib-ng-compat-devel": "zlib-ng-compat",
     "zlib-ng-compat-static": "zlib-ng",
     "zlib-ng-devel": "zlib-ng",
     "zmap": "zmap",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "j",
-    "total_mappings": 36
+    "total_mappings": 37
   },
   "mappings": {
     "jack-audio-connection-kit": "jack",
@@ -27,6 +27,7 @@
     "jnettop": "jnettop",
     "joe": "joe",
     "john": "john",
+    "jose": "jose",
     "jp2a": "jp2a",
     "jpeginfo": "jpeginfo",
     "jpegoptim": "jpegoptim",

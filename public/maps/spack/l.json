@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "l",
@@ -35,7 +35,7 @@
     "libbinio": "libbinio",
     "libblastrampoline": "libblastrampoline",
     "libbsd": "libbsd",
-    "libbson": "mongo-c-driver",
+    "libbson": "mongo-c-driver@1",
     "libcanberra": "libcanberra",
     "libcap": "libcap",
     "libcap-ng": "libcap-ng",
@@ -154,7 +154,7 @@
     "libsamplerate": "libsamplerate",
     "libseccomp": "libseccomp",
     "libsecret": "libsecret",
-    "libsigcpp": "libsigc++",
+    "libsigcpp": "libsigc++@2",
     "libsignal-protocol-c": "libsignal-protocol-c",
     "libsigsegv": "libsigsegv",
     "libsixel": "libsixel",

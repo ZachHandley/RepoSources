@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "q",
@@ -16,7 +16,7 @@
     "qpdf": "qpdf",
     "qrupdate": "qrupdate",
     "qscintilla": "qscintilla2",
-    "qt": "qt",
+    "qt": "qt@5",
     "qt-base": "qt",
     "qt-declarative": "qt",
     "qt-quick3d": "qt",

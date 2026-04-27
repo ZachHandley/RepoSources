@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "s",
     "total_mappings": 309
   },
   "mappings": {
-    "SFML": "sfml",
-    "SFML-dbginfo": "sfml",
-    "SFML-devel": "sfml",
-    "SFML-docs": "sfml",
+    "SFML": "sfml@2",
+    "SFML-dbginfo": "sfml@2",
+    "SFML-devel": "sfml@2",
+    "SFML-docs": "sfml@2",
     "samba": "samba",
     "samba-dbginfo": "samba",
     "samba-devel": "samba",
@@ -175,7 +175,7 @@
     "soundtouch-devel": "sound-touch",
     "sox_ng": "sox_ng",
     "sox_ng-dbginfo": "sox",
-    "sox_ng-devel": "sox",
+    "sox_ng-devel": "sox_ng",
     "sparsehash": "google-sparsehash",
     "spdlog": "spdlog",
     "spdlog-dbginfo": "spdlog",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "f",
@@ -16,8 +16,8 @@
     "fcgi": "fcgi",
     "feh": "feh",
     "ffcall": "libffcall",
-    "ffmpeg": "ffmpeg",
-    "ffmpeg4": "ffmpeg",
+    "ffmpeg": "ffmpeg@7",
+    "ffmpeg4": "ffmpeg@4",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "fftw3": "fftw",
     "file": "file-formula",
@@ -50,7 +50,7 @@
     "frei0r-plugins": "frei0r",
     "fribidi": "fribidi",
     "ftgl": "ftgl",
-    "fuse": "libfuse",
+    "fuse": "libfuse@2",
     "fuse3": "libfuse",
     "fwupd": "fwupd"
   }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "scientific_7x",
     "shard": "f",
@@ -27,7 +27,7 @@
     "freetype": "freetype",
     "frei0r-plugins": "frei0r",
     "fribidi": "fribidi",
-    "fuse": "libfuse",
+    "fuse": "libfuse@2",
     "fwupd": "fwupd"
   }
 }

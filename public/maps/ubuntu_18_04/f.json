@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ubuntu_18_04",
     "shard": "f",
@@ -245,9 +245,9 @@
     "ftgl": "ftgl",
     "ftnchek": "ftnchek",
     "funcoeszz": "funcoeszz",
-    "fuse": "libfuse",
-    "fuse-dbg": "libfuse",
-    "fuse-udeb": "libfuse",
+    "fuse": "libfuse@2",
+    "fuse-dbg": "libfuse@2",
+    "fuse-udeb": "libfuse@2",
     "fuse-zip": "fuse-zip",
     "fuse2fs": "e2fsprogs",
     "fwknop": "fwknop",

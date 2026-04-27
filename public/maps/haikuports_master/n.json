@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "n",
@@ -66,13 +66,13 @@
     "net-libs/libvncserver": "libvncserver",
     "net-libs/libwebsockets": "libwebsockets",
     "net-libs/luvit": "luvit",
-    "net-libs/mbedtls": "mbedtls",
+    "net-libs/mbedtls": "mbedtls@3",
     "net-libs/miniupnpc": "miniupnpc",
     "net-libs/neon": "neon",
     "net-libs/nettle": "nettle",
     "net-libs/nghttp2": "nghttp2",
     "net-libs/nghttp3": "libnghttp3",
-    "net-libs/nodejs": "node",
+    "net-libs/nodejs": "node@20",
     "net-libs/qxmpp": "qxmpp",
     "net-libs/rpcsvc-proto": "rpcsvc-proto",
     "net-libs/serf": "apache-serf",

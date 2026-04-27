@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "centos_7",
     "shard": "c",
@@ -17,7 +17,7 @@
     "chrony": "chrony",
     "chrpath": "chrpath",
     "cmake": "cmake",
-    "compat-db": "berkeley-db",
+    "compat-db": "berkeley-db@4",
     "compat-exiv2-023": "exiv2",
     "compat-exiv2-026": "exiv2",
     "compat-gcc-32": "gcc",

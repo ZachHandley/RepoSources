@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "m",
@@ -38,7 +38,7 @@
     "mesa-opencl-icd": "mesa",
     "mesa-teflon-delegate": "mesa",
     "mesa-vulkan-drivers": "mesa",
-    "mlir-20-tools": "lld",
+    "mlir-20-tools": "llvm@20",
     "mmc-core-modules-7.0-amd64-di": "linux-headers@4.4",
     "mmc-core-modules-7.0-powerpc-di": "linux-headers@4.4",
     "mmc-core-modules-7.0-powerpc64-di": "linux-headers@4.4",

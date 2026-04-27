@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "a",
@@ -43,7 +43,7 @@
     "alpine": "alpine",
     "alsa-lib": "alsa-lib",
     "angband": "angband",
-    "ansible": "ansible",
+    "ansible": "ansible@10",
     "ansifilter": "ansifilter",
     "ansilove": "ansilove",
     "ant": "ant",
@@ -85,7 +85,7 @@
     "asio": "asio",
     "asn1c": "asn1c",
     "aspell": "aspell",
-    "assimp": "assimp",
+    "assimp": "assimp@5",
     "ast-grep": "ast-grep",
     "astroterm": "astroterm",
     "astyle": "astyle",

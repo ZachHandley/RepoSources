@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "f",
@@ -45,7 +45,7 @@
     "freetype": "freetype",
     "fribidi": "fribidi",
     "fswatch": "fswatch",
-    "fuse2": "libfuse",
+    "fuse2": "libfuse@2",
     "fuse3": "libfuse",
     "fuse_overlayfs": "fuse-overlayfs",
     "fzf": "fzf"

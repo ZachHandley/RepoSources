@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "s",
@@ -111,9 +111,9 @@
     "sfk": "sfk",
     "sfk-debuginfo": "sfk",
     "sfk-debugsource": "sfk",
-    "sfml": "sfml",
-    "sfml-debuginfo": "sfml",
-    "sfml-debugsource": "sfml",
+    "sfml": "sfml@2",
+    "sfml-debuginfo": "sfml@2",
+    "sfml-debugsource": "sfml@2",
     "sgt-puzzles": "puzzles",
     "sgt-puzzles-debuginfo": "puzzles",
     "sgt-puzzles-debugsource": "puzzles",

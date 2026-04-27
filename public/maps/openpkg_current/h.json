@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "h",
@@ -16,7 +16,7 @@
     "haxe": "haxe",
     "hdf": "hdf5",
     "heimdal": "heimdal",
-    "helm": "helm",
+    "helm": "helm@3",
     "help2man": "help2man",
     "hevea": "hevea",
     "hexcurse": "hexcurse",

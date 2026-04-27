@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "d",
@@ -24,9 +24,9 @@
     "dateutils": "dateutils",
     "dav1d": "dav1d",
     "davmail": "davmail",
-    "db": "berkeley-db",
-    "db-devel": "berkeley-db",
-    "db-doc": "berkeley-db",
+    "db": "berkeley-db@5",
+    "db-devel": "berkeley-db@5",
+    "db-doc": "berkeley-db@5",
     "dbus": "dbus",
     "dbus-devel": "dbus",
     "dbus-elogind": "dbus",

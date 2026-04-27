@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alt_p10",
     "shard": "z",
@@ -98,7 +98,7 @@
     "zsh-completion-libsixel": "libsixel",
     "zsh-completion-mpv": "mpv",
     "zsh-completion-rex": "rex",
-    "zsh-completion-task": "task",
+    "zsh-completion-task": "task@2",
     "zsh-completions": "zsh-completions",
     "zsh-debuginfo": "zsh",
     "zsh-syntax-highlighting": "zsh-syntax-highlighting",

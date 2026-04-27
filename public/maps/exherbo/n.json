@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "n",
@@ -81,7 +81,7 @@
     "net-libs/libmaxminddb": "libmaxminddb",
     "net-libs/libmicrohttpd": "libmicrohttpd",
     "net-libs/libmnl": "libmnl",
-    "net-libs/libmongoc": "mongo-c-driver",
+    "net-libs/libmongoc": "mongo-c-driver@1",
     "net-libs/libnatpmp": "libnatpmp",
     "net-libs/libnet": "libnet",
     "net-libs/libnetfilter_conntrack": "libnetfilter_conntrack",

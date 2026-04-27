@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "kaos",
     "shard": "p",
@@ -39,8 +39,8 @@
     "portmidi": "portmidi",
     "postgis": "postgis",
     "postgresql": "postgresql@18",
-    "postgresql-docs": "libpq",
-    "postgresql-libs": "libpq",
+    "postgresql-docs": "postgresql@18",
+    "postgresql-libs": "postgresql@18",
     "potrace": "potrace",
     "procps-ng": "procps",
     "proj": "proj",
@@ -53,7 +53,7 @@
     "pybind11": "pybind11",
     "pygobject": "pygobject3",
     "pyqt-builder": "pyqt-builder",
-    "python3": "python",
+    "python3": "python@3.14",
     "python3-build": "python-build",
     "python3-cairo": "py3cairo",
     "python3-cython": "cython",

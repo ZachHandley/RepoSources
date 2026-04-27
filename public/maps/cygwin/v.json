@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "v",
@@ -46,7 +46,7 @@
     "vala-libpulse": "pulseaudio",
     "vala-librsvg2.0": "librsvg",
     "vala-libsecret1": "libsecret",
-    "vala-libsoup2.4": "libsoup",
+    "vala-libsoup2.4": "libsoup@2",
     "vala-libvirt-glib1.0": "libvirt-glib",
     "vala-msi0": "msitools",
     "vala-pkcs11": "gcr",
@@ -55,7 +55,7 @@
     "vcdimager": "vcdimager",
     "vcdimager-debuginfo": "vcdimager",
     "vim": "vim",
-    "vim-clang-format": "lld",
+    "vim-clang-format": "llvm@21",
     "vim-cmake": "cmake",
     "vim-common": "vim",
     "vim-debuginfo": "vim",

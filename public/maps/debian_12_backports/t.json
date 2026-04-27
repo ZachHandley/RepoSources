@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_12_backports",
     "shard": "t",
@@ -18,12 +18,12 @@
     "tio": "tio",
     "tippecanoe": "tippecanoe",
     "tmux": "tmux",
-    "tomcat10": "tomcat",
-    "tomcat10-admin": "tomcat",
-    "tomcat10-common": "tomcat",
-    "tomcat10-docs": "tomcat",
-    "tomcat10-examples": "tomcat",
-    "tomcat10-user": "tomcat",
+    "tomcat10": "tomcat@10",
+    "tomcat10-admin": "tomcat@10",
+    "tomcat10-common": "tomcat@10",
+    "tomcat10-docs": "tomcat@10",
+    "tomcat10-examples": "tomcat@10",
+    "tomcat10-user": "tomcat@10",
     "tor": "tor",
     "tor-geoipdb": "tor",
     "trurl": "trurl"

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alpine_3_17",
     "shard": "w",
@@ -21,8 +21,8 @@
     "wait4x-fish-completion": "wait4x",
     "wait4x-zsh-completion": "wait4x",
     "wasi-libc": "wasi-libc",
-    "wasi-libcxx": "lld",
-    "wasi-libcxxabi": "lld",
+    "wasi-libcxx": "llvm@15",
+    "wasi-libcxxabi": "llvm@15",
     "wasm-pack": "wasm-pack",
     "wavpack": "wavpack",
     "wavpack-dev": "wavpack",

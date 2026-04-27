@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "i",
@@ -35,7 +35,7 @@
     "icon-naming-utils": "icon-naming-utils",
     "icon-utils": "icon",
     "icoutils": "icoutils",
-    "icu": "icu4c@74",
+    "icu": "icu4c@77",
     "id3lib": "id3lib",
     "id3lib-devel": "id3lib",
     "id3v2": "id3v2",

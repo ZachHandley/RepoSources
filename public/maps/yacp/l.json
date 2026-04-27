@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "l",
@@ -152,8 +152,8 @@
     "libaribcaption1": "libaribcaption",
     "libarmadillo-devel": "armadillo",
     "libarmadillo15": "armadillo",
-    "libassimp-devel": "assimp",
-    "libassimp5": "assimp",
+    "libassimp-devel": "assimp@5",
+    "libassimp5": "assimp@5",
     "libasync++-devel": "asyncplusplus",
     "libasync++1": "asyncplusplus",
     "libatf-c++-devel": "atf",

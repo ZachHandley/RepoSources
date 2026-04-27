@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alpine_3_17",
     "shard": "i",
@@ -64,9 +64,9 @@
     "indent": "gnu-indent",
     "indent-doc": "gnu-indent",
     "indent-lang": "gnu-indent",
-    "influxdb": "influxdb",
-    "influxdb-doc": "influxdb",
-    "influxdb-openrc": "influxdb",
+    "influxdb": "influxdb@1",
+    "influxdb-doc": "influxdb@1",
+    "influxdb-openrc": "influxdb@1",
     "inih": "inih",
     "inih-dev": "inih",
     "inih-inireader": "inih",

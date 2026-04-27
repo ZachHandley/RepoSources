@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "n",
@@ -37,9 +37,9 @@
     "nim": "nim",
     "ninja": "ninja",
     "nmap": "nmap",
-    "node": "node",
-    "node22": "node",
-    "node24": "node",
+    "node": "node@20",
+    "node22": "node@22",
+    "node24": "node@24",
     "nodejs": "node",
     "notify": "notify",
     "noweb": "noweb",

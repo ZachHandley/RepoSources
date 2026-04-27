@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "distri",
     "shard": "f",
     "total_mappings": 12
   },
   "mappings": {
-    "ffmpeg": "ffmpeg",
+    "ffmpeg": "ffmpeg@4",
     "file": "file-formula",
     "findutils": "findutils",
     "flac": "flac",

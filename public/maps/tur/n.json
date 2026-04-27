@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "tur",
     "shard": "n",
@@ -10,9 +10,9 @@
     "nodejs": "node",
     "nodejs-12": "node",
     "nodejs-16": "node",
-    "nodejs-18": "node",
-    "nodejs-20": "node",
-    "nodejs-22": "node",
+    "nodejs-18": "node@18",
+    "nodejs-20": "node@20",
+    "nodejs-22": "node@22",
     "nqp": "nqp"
   }
 }

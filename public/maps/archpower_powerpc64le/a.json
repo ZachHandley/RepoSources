@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "a",
@@ -10,9 +10,9 @@
     "a52dec": "a52dec",
     "aalib": "aalib",
     "aarch64-linux-gnu-binutils": "binutils",
-    "aarch64-linux-gnu-gcc": "gcc",
-    "aarch64-linux-gnu-gcc-stage1": "gcc",
-    "aarch64-linux-gnu-gcc-stage2": "gcc",
+    "aarch64-linux-gnu-gcc": "gcc@14",
+    "aarch64-linux-gnu-gcc-stage1": "gcc@14",
+    "aarch64-linux-gnu-gcc-stage2": "gcc@14",
     "abseil-cpp": "abseil",
     "acl": "acl",
     "acpica": "acpica",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aix_osp",
     "shard": "l",
@@ -27,7 +27,7 @@
     "libao": "libao",
     "libarchive": "libarchive",
     "libass": "libass",
-    "libassuan": "libassuan",
+    "libassuan": "libassuan@2",
     "libcddb": "libcddb",
     "libcdio": "libcdio",
     "libconfuse": "confuse",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "rpmfusion_fedora_42",
     "shard": "l",
@@ -10,8 +10,8 @@
     "libaacs": "libaacs",
     "libaacs-devel": "libaacs",
     "libaacs-utils": "libaacs",
-    "libavcodec-freeworld": "ffmpeg",
-    "libavdevice": "ffmpeg",
+    "libavcodec-freeworld": "ffmpeg@7",
+    "libavdevice": "ffmpeg@7",
     "libbdplus": "libbdplus",
     "libbdplus-devel": "libbdplus",
     "libde265": "libde265",

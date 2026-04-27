@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "noir",
     "shard": "p",
@@ -14,7 +14,7 @@
     "pigz": "pigz",
     "pixman": "pixman",
     "pkgconf": "pkgconf",
-    "postgresql": "postgresql@18",
+    "postgresql": "postgresql@16",
     "python": "python@3.14",
     "python3": "python",
     "python3-dev": "python",

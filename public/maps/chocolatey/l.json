@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "l",
@@ -61,7 +61,7 @@
     "lilypond": "lilypond",
     "liquibase": "liquibase",
     "llvm": "llvm",
-    "llvm.portable": "lld",
+    "llvm.portable": "lld@19",
     "loc": "loc",
     "logstalgia": "logstalgia",
     "logstash": "logstash",

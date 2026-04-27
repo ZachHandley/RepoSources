@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "npackd_stable",
     "shard": "g",
@@ -14,7 +14,7 @@
     "Glade": "glade",
     "Glances": "glances",
     "Go": "go",
-    "Gradle": "gradle",
+    "Gradle": "gradle@8",
     "GraphicsMagick Q16": "graphicsmagick",
     "GraphicsMagick Q16 64 bit": "graphicsmagick",
     "Graphviz": "graphviz",
@@ -24,7 +24,7 @@
     "gettext runtime": "gettext",
     "gnunano": "nano",
     "gnuplot": "gnuplot",
-    "gradle": "gradle",
+    "gradle": "gradle@8",
     "graphviz64": "graphviz"
   }
 }

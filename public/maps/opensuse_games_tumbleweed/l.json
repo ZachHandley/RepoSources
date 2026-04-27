@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_games_tumbleweed",
     "shard": "l",
@@ -149,7 +149,7 @@
     "libphysfs1": "physfs",
     "libquat0": "vrpn",
     "libsfml1_6": "sfml",
-    "libsfml2-2_6": "sfml",
+    "libsfml2-2_6": "sfml@2",
     "libsfml3-3_0": "sfml",
     "libsmpeg-0_4-0": "smpeg",
     "libsmpeg2-2_0-0": "smpeg2",

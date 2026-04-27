@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "m",
@@ -46,8 +46,8 @@
     "maxima-ecl": "maxima",
     "maxima-fas": "maxima",
     "maxima-sbcl": "maxima",
-    "mbedtls": "mbedtls",
-    "mbedtls2": "mbedtls",
+    "mbedtls": "mbedtls@3",
+    "mbedtls2": "mbedtls@2",
     "mbelib": "mbelib",
     "mc": "midnight-commander",
     "mc-debug": "midnight-commander",

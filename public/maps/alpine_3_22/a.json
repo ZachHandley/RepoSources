@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alpine_3_22",
     "shard": "a",
@@ -310,9 +310,9 @@
     "aspell-lang": "aspell",
     "aspell-libs": "aspell",
     "aspell-utils": "aspell",
-    "assimp": "assimp",
-    "assimp-dev": "assimp",
-    "assimp-libs": "assimp",
+    "assimp": "assimp@5",
+    "assimp-dev": "assimp@5",
+    "assimp-libs": "assimp@5",
     "ast-grep": "ast-grep",
     "ast-grep-bash-completion": "ast-grep",
     "ast-grep-fish-completion": "ast-grep",

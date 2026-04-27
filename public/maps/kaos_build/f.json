@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "f",
-    "total_mappings": 5
+    "total_mappings": 6
   },
   "mappings": {
     "fastfetch": "fastfetch",
     "ffmpeg": "ffmpeg",
     "fftw": "fftw",
+    "fltk": "fltk",
     "fluidsynth": "fluid-synth",
     "fwupd": "fwupd"
   }

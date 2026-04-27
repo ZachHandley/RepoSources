@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "packman_sle_12",
     "shard": "f",
@@ -12,7 +12,7 @@
     "fdk-aac": "fdk-aac",
     "ffmpeg-2": "ffmpeg",
     "ffmpeg-3": "ffmpeg",
-    "ffmpeg-4": "ffmpeg",
+    "ffmpeg-4": "ffmpeg@4",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "ffms2": "ffms2",
     "flac": "flac",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "i",
@@ -14,7 +14,7 @@
     "icecc-debug": "icecream",
     "icon-naming-utils": "icon-naming-utils",
     "icoutils": "icoutils",
-    "icu": "icu4c@74",
+    "icu": "icu4c@78",
     "icu70": "icu4c@74",
     "icu70-debug": "icu4c@74",
     "icu71": "icu4c@74",
@@ -25,8 +25,8 @@
     "icu73-debug": "icu4c@74",
     "icu74": "icu4c@74",
     "icu74-debug": "icu4c@74",
-    "icu75": "icu4c@74",
-    "icu77": "icu4c@74",
+    "icu75": "icu4c@75",
+    "icu77": "icu4c@77",
     "ideviceinstaller": "ideviceinstaller",
     "idutils": "idutils",
     "idutils-debug": "idutils",

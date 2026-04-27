@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "b",
     "total_mappings": 109
   },
   "mappings": {
-    "BAD-PACKAGER-NO-COOKIE-FOR-YOU": "lld",
+    "BAD-PACKAGER-NO-COOKIE-FOR-YOU": "llvm@18",
     "b3sum": "b3sum",
     "babl": "babl",
     "babl-dbginfo": "babl",
@@ -19,8 +19,8 @@
     "baobab": "baobab",
     "baobab-dbginfo": "baobab",
     "bash": "bash",
-    "bash-completion": "bash-completion",
-    "bash-completion-devel": "bash-completion",
+    "bash-completion": "bash-completion@2",
+    "bash-completion-devel": "bash-completion@2",
     "bash-dbginfo": "bash",
     "bash-devel": "bash",
     "basis-universal": "basis_universal",
@@ -61,7 +61,7 @@
     "bitwarden-cli-dbginfo": "bitwarden-cli",
     "blake3": "blake3",
     "blake3-dbginfo": "b3sum",
-    "blake3-devel": "b3sum",
+    "blake3-devel": "blake3",
     "blosc": "c-blosc",
     "blosc-dbginfo": "c-blosc",
     "blosc-devel": "c-blosc",

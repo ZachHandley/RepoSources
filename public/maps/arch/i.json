@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "i",
@@ -11,7 +11,7 @@
     "i2pd": "i2pd",
     "icon-naming-utils": "icon-naming-utils",
     "icoutils": "icoutils",
-    "icu": "icu4c@74",
+    "icu": "icu4c@78",
     "id3lib": "id3lib",
     "id3v2": "id3v2",
     "iftop": "iftop",
@@ -32,7 +32,7 @@
     "incus-tools": "incus",
     "indent": "gnu-indent",
     "inetutils": "inetutils",
-    "influxdb": "influxdb",
+    "influxdb": "influxdb@2",
     "iniparser": "iniparser",
     "inja": "inja",
     "innoextract": "innoextract",

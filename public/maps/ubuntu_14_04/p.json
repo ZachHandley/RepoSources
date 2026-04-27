@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "p",
@@ -94,7 +94,7 @@
     "perl-debug": "perl",
     "perl-doc": "perl",
     "perl-modules": "perl",
-    "perlmagick": "imagemagick",
+    "perlmagick": "imagemagick@6",
     "perltidy": "perltidy",
     "petsc": "petsc",
     "petsc-dev": "petsc",

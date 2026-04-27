@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "apertis_v2027",
     "shard": "i",
@@ -19,9 +19,9 @@
     "ibritish-large": "ispell",
     "ibritish-small": "ispell",
     "icon-naming-utils": "icon-naming-utils",
-    "icu": "icu4c@74",
-    "icu-devtools": "icu4c@74",
-    "icu-doc": "icu4c@74",
+    "icu": "icu4c@76",
+    "icu-devtools": "icu4c@76",
+    "icu-doc": "icu4c@76",
     "idle-python3.13": "python@3.9",
     "idn": "libidn",
     "idn2": "libidn2",

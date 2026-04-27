@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "n",
@@ -75,8 +75,8 @@
     "nnn": "nnn",
     "no-more-secrets": "no-more-secrets",
     "nodejs": "node",
-    "nodejs18": "node",
-    "nodejs20": "node",
+    "nodejs18": "node@18",
+    "nodejs20": "node@20",
     "notmuch": "notmuch",
     "npth": "npth",
     "nqp": "nqp",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "g",
@@ -9,8 +9,8 @@
   "mappings": {
     "gawk": "gawk",
     "gcab": "gcab",
-    "gcc": "gcc",
-    "gcc-fortran": "gcc",
+    "gcc": "gcc@12",
+    "gcc-fortran": "gcc@12",
     "gcr": "gcr",
     "gcr3": "gcr",
     "gdb": "gdb",

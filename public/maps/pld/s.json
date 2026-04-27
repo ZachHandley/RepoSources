@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "s",
@@ -18,7 +18,7 @@
     "SDL3_image": "sdl3_image",
     "SDL3_ttf": "sdl3_ttf",
     "SDL_gfx": "sdl_gfx",
-    "SFML": "sfml",
+    "SFML": "sfml@2",
     "SFST": "sfst",
     "SPIRV-LLVM-Translator": "spirv-llvm-translator",
     "Servus": "servus",

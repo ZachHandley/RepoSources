@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "w",
@@ -45,7 +45,7 @@
     "www-servers/mongrel2": "mongrel2",
     "www-servers/nginx": "nginx",
     "www-servers/spawn-fcgi": "spawn-fcgi",
-    "www-servers/tomcat": "tomcat",
+    "www-servers/tomcat": "tomcat@9",
     "www-servers/uwsgi": "uwsgi",
     "www-servers/webfs": "webfs"
   }

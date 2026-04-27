@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "g",
@@ -10,8 +10,8 @@
     "GraphicsMagick": "graphicsmagick",
     "gawk": "gawk",
     "gcab": "gcab",
-    "gcc13": "gcc",
-    "gcc14": "gcc",
+    "gcc13": "gcc@13",
+    "gcc14": "gcc@14",
     "gcc15": "gcc",
     "gcr": "gcr",
     "gcr3": "gcr",

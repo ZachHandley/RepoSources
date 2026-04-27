@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "adelie_current",
     "shard": "i",
@@ -9,12 +9,12 @@
   "mappings": {
     "icon-naming-utils": "icon-naming-utils",
     "icon-naming-utils-dev": "icon-naming-utils",
-    "icu": "icu4c@74",
-    "icu-dbg": "icu4c@74",
-    "icu-dev": "icu4c@74",
-    "icu-doc": "icu4c@74",
-    "icu-libs": "icu4c@74",
-    "icu-static": "icu4c@74",
+    "icu": "icu4c@75",
+    "icu-dbg": "icu4c@75",
+    "icu-dev": "icu4c@75",
+    "icu-doc": "icu4c@75",
+    "icu-libs": "icu4c@75",
+    "icu-static": "icu4c@75",
     "id3lib": "id3lib",
     "id3lib-dbg": "id3lib",
     "id3lib-dev": "id3lib",

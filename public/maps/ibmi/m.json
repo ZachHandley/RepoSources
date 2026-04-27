@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ibmi",
     "shard": "m",
@@ -15,8 +15,8 @@
     "maven": "maven",
     "mc": "midnight-commander",
     "minisign": "minisign",
-    "mongoc": "mongo-c-driver",
-    "mongoc-devel": "mongo-c-driver",
+    "mongoc": "mongo-c-driver@1",
+    "mongoc-devel": "mongo-c-driver@1",
     "mpc": "libmpc",
     "mpfr": "mpfr",
     "mpfr-aix": "mpfr"

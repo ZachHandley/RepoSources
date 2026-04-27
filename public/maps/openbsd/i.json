@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "i",
     "total_mappings": 55
   },
   "mappings": {
-    "ImageMagick": "imagemagick",
+    "ImageMagick": "imagemagick@6",
     "Imath": "imath",
     "i2p": "i2p",
     "i2pd": "i2pd",
@@ -18,7 +18,7 @@
     "icon-naming-utils": "icon-naming-utils",
     "icoutils": "icoutils",
     "icu4c": "icu4c@78",
-    "icu4c-wwwdata": "icu4c@74",
+    "icu4c-wwwdata": "icu4c@78",
     "id3lib": "id3lib",
     "ifstat": "ifstat",
     "iftop": "iftop",
@@ -35,7 +35,7 @@
     "immer": "immer",
     "inadyn": "inadyn",
     "include-what-you-use": "include-what-you-use",
-    "influxdb": "influxdb",
+    "influxdb": "influxdb@2",
     "inform6": "inform6",
     "iniparser": "iniparser",
     "innoextract": "innoextract",

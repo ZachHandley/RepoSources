@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "n",
@@ -147,7 +147,7 @@
     "nethogs-debuginfo": "nethogs",
     "nethogs-debugsource": "nethogs",
     "netpbm": "netpbm",
-    "netstandard-targeting-pack-2.1": "dotnet",
+    "netstandard-targeting-pack-2.1": "dotnet@9",
     "nettle": "nettle",
     "nfdump": "nfdump",
     "nfdump-debuginfo": "nfdump",
@@ -202,8 +202,8 @@
     "nnn-debugsource": "nnn",
     "node_exporter": "node_exporter",
     "nodejs": "node",
-    "nodejs22": "node",
-    "nodejs24": "node",
+    "nodejs22": "node@22",
+    "nodejs24": "node@24",
     "normalize": "normalize",
     "npth": "npth",
     "npth-debuginfo": "npth",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "f",
@@ -26,7 +26,7 @@
     "fetch-crl": "fetch-crl",
     "fetchmail": "fetchmail",
     "ffcall": "libffcall",
-    "ffmpeg": "ffmpeg",
+    "ffmpeg": "ffmpeg@6",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "ffms2": "ffms2",
     "fftw": "fftw",

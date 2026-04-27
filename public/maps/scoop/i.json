@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "i",
@@ -17,8 +17,8 @@
     "imagemagick-ffmpeg": "imagemagick",
     "imagemagick-lean": "imagemagick",
     "influxdb": "influxdb",
-    "influxdb1": "influxdb",
-    "influxdb2": "influxdb",
+    "influxdb1": "influxdb@1",
+    "influxdb2": "influxdb@2",
     "innoextract": "innoextract",
     "intermodal": "intermodal",
     "ios-webkit-debug-proxy": "ios-webkit-debug-proxy",

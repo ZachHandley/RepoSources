@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ibmi",
     "shard": "g",
@@ -9,8 +9,8 @@
   "mappings": {
     "gawk": "gawk",
     "gcc": "gcc",
-    "gcc10": "gcc",
-    "gcc12": "gcc",
+    "gcc10": "gcc@10",
+    "gcc12": "gcc@12",
     "gdb": "gdb",
     "gdbm": "gdbm",
     "gettext": "gettext",

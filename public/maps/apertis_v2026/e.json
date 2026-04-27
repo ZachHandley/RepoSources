@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "e",
@@ -15,11 +15,11 @@
     "ed": "ed",
     "efl": "efl",
     "efl-doc": "efl",
-    "eigen3": "eigen",
+    "eigen3": "eigen@3",
     "eject": "gnu-getopt",
     "eject-udeb": "gnu-getopt",
     "elfutils": "elfutils",
-    "elpa-protobuf-mode": "protobuf",
+    "elpa-protobuf-mode": "protobuf@3",
     "emacs": "emacs",
     "emacs-bin-common": "emacs",
     "emacs-common": "emacs",

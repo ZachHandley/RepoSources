@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "f",
@@ -18,7 +18,7 @@
     "fdupes": "fdupes",
     "ffcall": "libffcall",
     "ffmpeg": "ffmpeg",
-    "ffmpeg4.4": "ffmpeg",
+    "ffmpeg4.4": "ffmpeg@4",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "fftw": "fftw",
     "fftw-debug": "fftw",
@@ -58,7 +58,7 @@
     "ftgl": "ftgl",
     "fuse-common": "libfuse",
     "fuse-overlayfs": "fuse-overlayfs",
-    "fuse2": "libfuse",
+    "fuse2": "libfuse@2",
     "fuse2fs": "e2fsprogs",
     "fuse3": "libfuse"
   }

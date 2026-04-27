@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "g",
@@ -14,8 +14,8 @@
     "gc": "bdw-gc",
     "gcab": "gcab",
     "gcc": "gcc",
-    "gcc+32": "gcc",
-    "gcc-13": "gcc",
+    "gcc+32": "gcc@14",
+    "gcc-13": "gcc@13",
     "gcc-15": "gcc",
     "gcc-runtime": "gcc",
     "gdal": "gdal",

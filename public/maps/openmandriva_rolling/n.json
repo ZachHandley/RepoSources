@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "n",
@@ -76,7 +76,7 @@
     "nethogs-debuginfo": "nethogs",
     "nethogs-debugsource": "nethogs",
     "netpbm": "netpbm",
-    "netstandard-targeting-pack": "dotnet",
+    "netstandard-targeting-pack": "dotnet@9",
     "nettle": "nettle",
     "nettle2": "nettle",
     "nettle2-debuginfo": "nettle",
@@ -119,7 +119,7 @@
     "nng-devel": "nng",
     "nng-utils": "nng",
     "nnn": "nnn",
-    "nodejs": "node",
+    "nodejs": "node@24",
     "normalize": "normalize",
     "npth": "npth",
     "npth-debuginfo": "npth",

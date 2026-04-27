@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "endlessos_master",
     "shard": "i",
     "total_mappings": 8
   },
   "mappings": {
-    "imagemagick": "imagemagick",
-    "imagemagick-6-common": "imagemagick",
-    "imagemagick-6-doc": "imagemagick",
-    "imagemagick-6.q16": "imagemagick",
-    "imagemagick-6.q16hdri": "imagemagick",
-    "imagemagick-common": "imagemagick",
-    "imagemagick-doc": "imagemagick",
+    "imagemagick": "imagemagick@6",
+    "imagemagick-6-common": "imagemagick@6",
+    "imagemagick-6-doc": "imagemagick@6",
+    "imagemagick-6.q16": "imagemagick@6",
+    "imagemagick-6.q16hdri": "imagemagick@6",
+    "imagemagick-common": "imagemagick@6",
+    "imagemagick-doc": "imagemagick@6",
     "intltool": "intltool"
   }
 }

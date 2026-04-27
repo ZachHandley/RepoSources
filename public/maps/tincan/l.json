@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "tincan",
     "shard": "l",
@@ -20,6 +20,6 @@
     "libxkbcommon": "libxkbcommon",
     "limine": "limine",
     "linux-headers": "linux-headers@6.8",
-    "llvm": "llvm"
+    "llvm": "lld@20"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "i",
@@ -8,14 +8,14 @@
   },
   "mappings": {
     "ImageMagick": "imagemagick",
-    "ImageMagick6": "imagemagick",
+    "ImageMagick6": "imagemagick@6",
     "Imath": "imath",
     "i2c-tools": "i2c-tools",
     "icecast": "icecast",
     "icemon": "icemon",
     "icon-naming-utils": "icon-naming-utils",
     "icoutils": "icoutils",
-    "icu": "icu4c@74",
+    "icu": "icu4c@78",
     "id3lib": "id3lib",
     "id3v2": "id3v2",
     "ideviceinstaller": "ideviceinstaller",

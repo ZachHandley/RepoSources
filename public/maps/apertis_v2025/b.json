@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "apertis_v2025",
     "shard": "b",
@@ -9,7 +9,7 @@
   "mappings": {
     "bash": "bash",
     "bash-builtins": "bash",
-    "bash-completion": "bash-completion",
+    "bash-completion": "bash-completion@2",
     "bash-doc": "bash",
     "bash-static": "bash",
     "batik": "batik",
@@ -115,9 +115,9 @@
     "bluez-test-scripts": "bluez",
     "bluez-test-tools": "bluez",
     "bnd": "bnd",
-    "bolt-15": "lld",
-    "bolt-16": "lld",
-    "bolt-19": "lld",
+    "bolt-15": "llvm@15",
+    "bolt-16": "llvm@16",
+    "bolt-19": "llvm@19",
     "boost1.74": "boost",
     "bpftool": "linux-headers@4.4",
     "breezy": "breezy",

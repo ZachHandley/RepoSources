@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alpine_3_21",
     "shard": "h",
@@ -62,10 +62,10 @@
     "heimdal-openrc": "heimdal",
     "heimdal-su": "heimdal",
     "helix": "helix",
-    "helm": "helm",
-    "helm-bash-completion": "helm",
-    "helm-fish-completion": "helm",
-    "helm-zsh-completion": "helm",
+    "helm": "helm@3",
+    "helm-bash-completion": "helm@3",
+    "helm-fish-completion": "helm@3",
+    "helm-zsh-completion": "helm@3",
     "help2man": "help2man",
     "help2man-doc": "help2man",
     "hexdump": "gnu-getopt",

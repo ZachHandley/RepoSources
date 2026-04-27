@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pureos_byzantium",
     "shard": "e",
@@ -38,7 +38,7 @@
     "efl": "efl",
     "efl-doc": "efl",
     "egctl": "egctl",
-    "eigen3": "eigen",
+    "eigen3": "eigen@3",
     "ejabberd": "ejabberd",
     "eject": "gnu-getopt",
     "eject-udeb": "gnu-getopt",
@@ -55,7 +55,7 @@
     "elpa-ivy-rtags": "rtags",
     "elpa-lbdb": "lbdb",
     "elpa-notmuch": "notmuch",
-    "elpa-protobuf-mode": "protobuf",
+    "elpa-protobuf-mode": "protobuf@3",
     "elpa-ps-ccrypt": "ccrypt",
     "elpa-rtags": "rtags",
     "elvish": "elvish",

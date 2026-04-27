@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "tur",
     "shard": "g",
     "total_mappings": 7
   },
   "mappings": {
-    "gcc-12": "gcc",
-    "gcc-13": "gcc",
-    "gcc-14": "gcc",
+    "gcc-12": "gcc@12",
+    "gcc-13": "gcc@13",
+    "gcc-14": "gcc@14",
     "gcc-15": "gcc",
     "genext2fs": "genext2fs",
     "gloox": "gloox",

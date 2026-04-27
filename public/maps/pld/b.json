@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "b",
-    "total_mappings": 52
+    "total_mappings": 53
   },
   "mappings": {
     "BNFC": "bnfc",
@@ -15,7 +15,7 @@
     "baobab": "baobab",
     "barcode": "gnu-barcode",
     "bash": "bash",
-    "bash-completion": "bash-completion",
+    "bash-completion": "bash-completion@2",
     "bash-language-server": "bash-language-server",
     "bashish": "bashish",
     "bastet": "bastet",
@@ -42,12 +42,13 @@
     "boost": "boost",
     "boost-jam": "boost",
     "borgbackup": "borgbackup",
-    "botan2": "botan",
+    "botan2": "botan@2",
     "box2d": "box2d",
     "boxes": "boxes",
     "bpython": "bpython",
     "brotli": "brotli",
     "bsdiff": "bsdiff",
+    "btop": "btop",
     "btrfs-progs": "btrfs-progs",
     "bubblewrap": "bubblewrap",
     "bullet": "bullet",

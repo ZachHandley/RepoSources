@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "adelie_current",
     "shard": "n",
@@ -81,10 +81,10 @@
     "nmap-nping": "nmap",
     "nmap-nselibs": "nmap",
     "nmap-scripts": "nmap",
-    "node": "node",
-    "node-dbg": "node",
-    "node-dev": "node",
-    "node-doc": "node",
+    "node": "node@18",
+    "node-dbg": "node@18",
+    "node-dev": "node@18",
+    "node-doc": "node@18",
     "nodejs": "node",
     "npth": "npth",
     "npth-dbg": "npth",

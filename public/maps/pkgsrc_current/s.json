@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "s",
-    "total_mappings": 666
+    "total_mappings": 667
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -61,7 +61,7 @@
     "security/bcrypt": "bcrypt",
     "security/beecrypt": "beecrypt",
     "security/botan1": "botan",
-    "security/botan2": "botan",
+    "security/botan2": "botan@2",
     "security/botan3": "botan",
     "security/ca-certificates": "ca-certificates",
     "security/cargo-audit": "cargo-audit",
@@ -148,8 +148,8 @@
     "security/libyubikey": "libyubikey",
     "security/logcheck": "logcheck",
     "security/lynis": "lynis",
-    "security/mbedtls": "mbedtls",
-    "security/mbedtls3": "mbedtls",
+    "security/mbedtls": "mbedtls@2",
+    "security/mbedtls3": "mbedtls@3",
     "security/mbedtls4": "mbedtls",
     "security/mhash": "mhash",
     "security/minisign": "minisign",
@@ -252,7 +252,7 @@
     "serd": "serd",
     "serf": "apache-serf",
     "serie": "serie",
-    "sfml": "sfml",
+    "sfml": "sfml@2",
     "sfsexp": "sfsexp",
     "sha3sum": "sha3sum",
     "shairport-sync": "shairport-sync",
@@ -264,7 +264,7 @@
     "shells/ast-ksh": "ksh93",
     "shells/autojump": "autojump",
     "shells/bash": "bash",
-    "shells/bash-completion": "bash-completion",
+    "shells/bash-completion": "bash-completion@2",
     "shells/bash-preexec": "bash-preexec",
     "shells/bash2": "bash",
     "shells/bosh": "star",
@@ -340,6 +340,7 @@
     "sollya": "sollya",
     "sops": "sops",
     "sord": "sord",
+    "souffle": "souffle",
     "soundtouch": "sound-touch",
     "source-highlight": "source-highlight",
     "sox": "sox",

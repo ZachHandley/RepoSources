@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "s",
@@ -32,7 +32,7 @@
     "system/base/acl": "acl",
     "system/base/attr": "attr",
     "system/base/bash": "bash",
-    "system/base/bash-completion": "bash-completion",
+    "system/base/bash-completion": "bash-completion@2",
     "system/base/bc": "bc-gh",
     "system/base/binutils": "binutils",
     "system/base/boost": "boost",
@@ -67,7 +67,7 @@
     "system/base/groff": "groff",
     "system/base/guile": "guile",
     "system/base/gzip": "gzip",
-    "system/base/icu4c": "icu4c@74",
+    "system/base/icu4c": "icu4c@75",
     "system/base/inetutils": "inetutils",
     "system/base/iproute2": "iproute2",
     "system/base/json-c": "json-c",

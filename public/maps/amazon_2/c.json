@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "amazon_2",
     "shard": "c",
@@ -25,7 +25,7 @@
     "cmake3": "cmake",
     "cmocka": "cmocka",
     "cni-plugins": "cni-plugins",
-    "compat-db": "berkeley-db",
+    "compat-db": "berkeley-db@4",
     "compat-gcc-32": "gcc",
     "compat-gcc-34": "gcc",
     "compat-gcc-48": "gcc",
@@ -39,7 +39,7 @@
     "compat-openmpi21": "open-mpi",
     "compat-poppler022": "poppler",
     "compat-readline5": "readline",
-    "compiler-rt": "lld",
+    "compiler-rt": "clang-format@11",
     "convmv": "convmv",
     "coreutils": "coreutils",
     "cowsay": "cowsay",

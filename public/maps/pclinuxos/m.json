@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "m",
@@ -22,7 +22,7 @@
     "marisa": "marisa",
     "matio": "libmatio",
     "mawk": "mawk",
-    "mbedtls": "mbedtls",
+    "mbedtls": "mbedtls@2",
     "mc": "midnight-commander",
     "mcabber": "mcabber",
     "mcpp": "mcpp",
@@ -59,7 +59,7 @@
     "most": "most",
     "motif": "openmotif",
     "movgrab": "movgrab",
-    "mozjs115": "spidermonkey",
+    "mozjs115": "spidermonkey@115",
     "mozjs17": "spidermonkey",
     "mozjs24": "spidermonkey",
     "mozjs38": "spidermonkey",

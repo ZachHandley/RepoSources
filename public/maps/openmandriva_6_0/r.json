@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_6_0",
     "shard": "r",
@@ -79,10 +79,10 @@
     "rlog-debugsource": "rlog",
     "rlwrap": "rlwrap",
     "robin-map": "robin-map",
-    "rocm-comgr": "lld",
-    "rocm-comgr-devel": "lld",
-    "rocm-device-libs": "lld",
-    "rocm-opencl-devel": "lld",
+    "rocm-comgr": "lld@19",
+    "rocm-comgr-devel": "lld@19",
+    "rocm-device-libs": "lld@19",
+    "rocm-opencl-devel": "lld@19",
     "rofi": "rofi",
     "rofi-devel": "rofi",
     "rofi-themes": "rofi",

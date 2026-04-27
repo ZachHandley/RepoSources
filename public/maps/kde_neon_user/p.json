@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "kde_neon_user",
     "shard": "p",
@@ -27,7 +27,7 @@
     "python3-gpg": "gpgme",
     "python3-mlt": "mlt",
     "python3-mlt7": "mlt",
-    "python3-pyassimp": "assimp",
+    "python3-pyassimp": "assimp@5",
     "python3-pyqt5.qsci": "qscintilla2",
     "python3-pyqt5.qsci-dbg": "qscintilla2",
     "python3-pyqtbuild": "pyqt-builder",

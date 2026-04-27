@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "raspbian_oldstable",
     "shard": "n",
@@ -314,8 +314,8 @@
     "node-yarnpkg": "yarn",
     "node-zx": "zx",
     "nodeenv": "nodeenv",
-    "nodejs": "node",
-    "nodejs-doc": "node",
+    "nodejs": "node@18",
+    "nodejs-doc": "node@18",
     "norm": "norm",
     "notmuch": "notmuch",
     "notmuch-doc": "notmuch",

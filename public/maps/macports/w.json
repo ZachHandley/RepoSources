@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "w",
-    "total_mappings": 162
+    "total_mappings": 163
   },
   "mappings": {
     "w3m": "w3m",
@@ -14,6 +14,7 @@
     "wakeonlan": "wakeonlan",
     "wandio": "wandio",
     "wangle": "wangle",
+    "wasm-component-ld": "wasm-component-ld",
     "wasm-pack": "wasm-pack",
     "wasm3": "wasm3",
     "wasmedge": "wasmedge",

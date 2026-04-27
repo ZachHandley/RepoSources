@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "e",
@@ -10,7 +10,7 @@
     "e2fsprogs": "e2fsprogs",
     "ebook-tools": "ebook-tools",
     "ed": "ed",
-    "eigen": "eigen",
+    "eigen": "eigen@3",
     "elfutils": "elfutils",
     "elfutils-32": "elfutils",
     "enchant": "enchant",

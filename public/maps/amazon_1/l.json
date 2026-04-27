@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "amazon_1",
     "shard": "l",
@@ -47,7 +47,7 @@
     "libaio": "libaio",
     "libao": "libao",
     "libarchive": "libarchive",
-    "libassuan": "libassuan",
+    "libassuan": "libassuan@2",
     "libatomic_ops": "libatomic_ops",
     "libbsd": "libbsd",
     "libcap": "libcap",
@@ -100,7 +100,7 @@
     "libselinux": "libselinux",
     "libsepol": "libsepol",
     "libsmi": "libsmi",
-    "libsoup": "libsoup",
+    "libsoup": "libsoup@2",
     "libspiro": "libspiro",
     "libssh2": "libssh2",
     "libssl-dev": "openssl",

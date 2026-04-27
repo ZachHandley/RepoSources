@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "c",
@@ -135,10 +135,10 @@
     "cksfv": "cksfv",
     "clamav": "clamav",
     "clang": "lld",
-    "clang18": "lld",
-    "clang19": "lld",
-    "clang20": "lld",
-    "clang21": "lld",
+    "clang18": "llvm@18",
+    "clang19": "llvm@19",
+    "clang20": "lld@20",
+    "clang21": "llvm@21",
     "claws-mail": "claws-mail",
     "clazy": "clazy",
     "clblast": "clblast",

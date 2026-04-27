@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "a",
@@ -88,7 +88,7 @@
     "antlr3-tool": "antlr",
     "antlr4": "antlr",
     "antlr4-cpp-runtime": "antlr4-cpp-runtime",
-    "antlr4-cpp-runtime-devel": "antlr",
+    "antlr4-cpp-runtime-devel": "antlr4-cpp-runtime",
     "antlr4-doc": "antlr",
     "antlr4-javadoc": "antlr",
     "antlr4-maven-plugin": "antlr",

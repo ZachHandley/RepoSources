@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "h",
@@ -114,7 +114,7 @@
     "helix-db": "helix-db",
     "hello": "hello",
     "hellwal": "hellwal",
-    "helm": "helm",
+    "helm": "helm@3",
     "helm-docs": "helm-docs",
     "helm-ls": "helm-ls",
     "helmfile": "helmfile",

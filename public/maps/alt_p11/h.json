@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "h",
@@ -60,8 +60,8 @@
     "helix-grammars-debuginfo": "helix",
     "hello": "hello",
     "hello-debuginfo": "hello",
-    "helm": "helm",
-    "helm-debuginfo": "helm",
+    "helm": "helm@3",
+    "helm-debuginfo": "helm@3",
     "helmfile": "helmfile",
     "helmfile-debuginfo": "helmfile",
     "help2man": "help2man",

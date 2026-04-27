@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "b",
@@ -11,7 +11,7 @@
     "bacula": "bacula-fd",
     "baobab": "baobab",
     "bash": "bash",
-    "bash_completion": "bash-completion",
+    "bash_completion": "bash-completion@2",
     "bash_snippets": "bash-snippets",
     "bashdb": "bashdb",
     "bat": "bat",

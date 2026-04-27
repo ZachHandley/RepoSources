@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aix_osp",
     "shard": "i",
     "total_mappings": 18
   },
   "mappings": {
-    "ImageMagick": "imagemagick",
-    "ImageMagick-Q16": "imagemagick",
-    "ImageMagick-Q8": "imagemagick",
+    "ImageMagick": "imagemagick@6",
+    "ImageMagick-Q16": "imagemagick@6",
+    "ImageMagick-Q8": "imagemagick@6",
     "icu": "icu4c@74",
     "id3lib": "id3lib",
     "idutils": "idutils",

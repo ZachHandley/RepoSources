@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "n",
@@ -28,7 +28,7 @@
     "Nmap": "nmap",
     "Node JS": "node",
     "Node JS (Install)": "node",
-    "Node.js LTS (Install)": "node",
+    "Node.js LTS (Install)": "node@24",
     "NuGet.CommandLine": "nuget",
     "Nuget.CommandLine": "nuget",
     "Nullsoft Scriptable Install System": "makensis",
@@ -66,7 +66,7 @@
     "nixpacks": "nixpacks",
     "nmap": "nmap",
     "nodejs": "node",
-    "nodejs-lts": "node",
+    "nodejs-lts": "node@24",
     "nodejs.commandline": "node",
     "nodejs.install": "node",
     "nsis": "makensis",

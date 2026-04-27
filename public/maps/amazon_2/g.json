@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "amazon_2",
     "shard": "g",
@@ -11,7 +11,7 @@
     "gc": "bdw-gc",
     "gcab": "gcab",
     "gcc": "gcc",
-    "gcc10": "gcc",
+    "gcc10": "gcc@10",
     "gcr": "gcr",
     "gd": "gd",
     "gdb": "gdb",

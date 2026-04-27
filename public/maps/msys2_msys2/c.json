@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "msys2_msys2",
     "shard": "c",
@@ -16,8 +16,8 @@
     "cflow": "cflow",
     "cgdb": "cgdb",
     "cjson": "cjson",
-    "clang": "lld",
-    "clang-analyzer": "lld",
+    "clang": "lld@21",
+    "clang-analyzer": "llvm@21",
     "cloc": "cloc",
     "cmake": "cmake",
     "cmake-emacs": "cmake",
@@ -25,7 +25,7 @@
     "cmatrix": "cmatrix",
     "colordiff": "colordiff",
     "colormake": "colormake",
-    "compiler-rt": "lld",
+    "compiler-rt": "lld@21",
     "coreutils": "coreutils",
     "cpio": "cpio",
     "crosstool-ng": "crosstool-ng",

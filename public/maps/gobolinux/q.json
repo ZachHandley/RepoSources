@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "q",
@@ -21,8 +21,8 @@
     "Qjackctl": "qjackctl",
     "Qpdf": "qpdf",
     "Qrencode": "qrencode",
-    "Qt": "qt",
-    "Qt-Base": "qt",
+    "Qt": "qt@5",
+    "Qt-Base": "qt@5",
     "QtKeychain": "qtkeychain"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "fedora_40",
     "shard": "w",
@@ -89,7 +89,7 @@
     "wget2": "wget2",
     "wget2-debuginfo": "wget",
     "wget2-debugsource": "wget",
-    "wget2-devel": "wget",
+    "wget2-devel": "wget2",
     "wget2-libs": "wget",
     "wget2-wget": "wget",
     "which": "gnu-which",

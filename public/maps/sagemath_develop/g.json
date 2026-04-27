@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "sagemath_develop",
     "shard": "g",
@@ -8,9 +8,9 @@
   },
   "mappings": {
     "gc": "bdw-gc",
-    "gcc": "gcc",
+    "gcc": "gcc@14",
     "gengetopt": "gengetopt",
-    "gfortran": "gcc",
+    "gfortran": "gcc@14",
     "glpk": "glpk",
     "gmp": "gmp",
     "gsl": "gsl"

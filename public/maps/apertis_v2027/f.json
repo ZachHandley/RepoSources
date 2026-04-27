@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "apertis_v2027",
     "shard": "f",
@@ -75,9 +75,9 @@
     "fitsverify": "cfitsio",
     "flac": "flac",
     "flake8": "flake8",
-    "flang-17": "lld",
-    "flang-18": "lld",
-    "flang-19": "lld",
+    "flang-17": "llvm@17",
+    "flang-18": "llvm@18",
+    "flang-19": "llvm@19",
     "flatbuffers": "flatbuffers",
     "flatbuffers-compiler": "flatbuffers",
     "flatbuffers-compiler-dev": "flatbuffers",

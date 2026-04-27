@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "j",
@@ -36,7 +36,7 @@
     "java-14-openjdk": "openjdk",
     "java-15-openjdk": "openjdk",
     "java-16-openjdk": "openjdk",
-    "java-berkeleydb": "berkeley-db",
+    "java-berkeleydb": "berkeley-db@5",
     "java-jxrlib-git": "jxrlib",
     "java-openjdk-bin": "openjdk",
     "java-service-wrapper": "java-service-wrapper",

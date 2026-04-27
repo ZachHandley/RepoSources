@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-27T23:16:34Z",
+    "source": "repology-dump",
+    "distro": "artix_testing",
+    "shard": "s",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "sed": "gnu-sed"
+  }
+}

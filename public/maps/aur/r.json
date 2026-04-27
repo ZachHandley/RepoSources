@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "r",
@@ -161,9 +161,9 @@
     "ripsecrets": "ripsecrets",
     "riscv-none-elf-binutils": "binutils",
     "riscv64-elf-binutils-git": "binutils",
-    "riscv64-linux-uclibc-gcc": "gcc",
+    "riscv64-linux-uclibc-gcc": "gcc@14",
     "riscv64-unknown-elf-binutils": "binutils",
-    "riscv64-unknown-elf-gcc": "gcc",
+    "riscv64-unknown-elf-gcc": "gcc@14",
     "risor-bin": "risor",
     "rizin-git": "rizin",
     "rke": "rke",

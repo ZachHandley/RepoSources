@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "scientific_7x",
     "shard": "j",
@@ -13,7 +13,7 @@
     "java-1.7.0-openjdk": "openjdk",
     "java-1.8.0-openjdk": "openjdk",
     "java-10-openjdk": "openjdk",
-    "java-11-openjdk": "openjdk",
+    "java-11-openjdk": "openjdk@11",
     "java-9-openjdk": "openjdk",
     "javacc": "javacc",
     "jbigkit": "jbigkit",

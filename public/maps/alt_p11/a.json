@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "a",
@@ -352,10 +352,10 @@
     "aview-debuginfo": "aview",
     "avr-binutils": "binutils",
     "avr-binutils-debuginfo": "binutils",
-    "avr-gcc": "gcc",
-    "avr-gcc-c++": "gcc",
-    "avr-gcc-c++-debuginfo": "gcc",
-    "avr-gcc-debuginfo": "gcc",
+    "avr-gcc": "gcc@13",
+    "avr-gcc-c++": "gcc@13",
+    "avr-gcc-c++-debuginfo": "gcc@13",
+    "avr-gcc-debuginfo": "gcc@13",
     "avr-gdb": "gdb",
     "avr-gdb-debuginfo": "gdb",
     "avra": "avra",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "s",
@@ -335,7 +335,7 @@
     "sys-devel/crosstool-ng": "crosstool-ng",
     "sys-devel/distcc": "distcc",
     "sys-devel/flex": "flex",
-    "sys-devel/gcc": "gcc",
+    "sys-devel/gcc": "gcc@9",
     "sys-devel/gettext": "gettext",
     "sys-devel/icecream": "icecream",
     "sys-devel/m4": "m4",

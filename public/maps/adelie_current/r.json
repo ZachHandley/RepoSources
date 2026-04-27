@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "adelie_current",
     "shard": "r",
@@ -98,7 +98,7 @@
     "ruby-doc": "ruby",
     "ruby-fiddle": "ruby",
     "ruby-full": "ruby",
-    "ruby-google-protobuf": "protobuf",
+    "ruby-google-protobuf": "protobuf@3",
     "ruby-io-console": "ruby",
     "ruby-irb": "ruby",
     "ruby-json": "ruby",

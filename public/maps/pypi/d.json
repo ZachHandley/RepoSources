@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pypi",
     "shard": "d",
-    "total_mappings": 9
+    "total_mappings": 10
   },
   "mappings": {
     "datalad": "datalad",
@@ -13,6 +13,7 @@
     "default-jre": "openjdk",
     "diceware": "diceware",
     "diffoscope": "diffoscope",
+    "django-completion": "django-completion",
     "dlib": "dlib",
     "dns-lexicon": "lexicon",
     "docker-compose": "docker-compose"

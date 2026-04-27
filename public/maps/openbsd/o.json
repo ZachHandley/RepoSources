@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "o",
@@ -14,7 +14,7 @@
     "oath-toolkit-pskc": "oath-toolkit",
     "obfs4proxy": "obfs4proxy",
     "objfw": "objfw",
-    "ocaml": "ocaml",
+    "ocaml": "ocaml@4",
     "ocaml-num": "ocaml-num",
     "ocaml-zarith": "ocaml-zarith",
     "ocamlbuild": "ocamlbuild",
@@ -61,7 +61,7 @@
     "openscenegraph": "open-scene-graph",
     "opensearch": "opensearch",
     "opensearch-dashboards": "opensearch-dashboards",
-    "openssl": "openssl@3",
+    "openssl": "openssl@4",
     "openssl-dev": "openssl",
     "opensubdiv": "opensubdiv",
     "opentofu": "opentofu",

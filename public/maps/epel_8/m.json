@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "m",
@@ -15,7 +15,7 @@
     "masscan": "masscan",
     "matio": "libmatio",
     "mawk": "mawk",
-    "mbedtls": "mbedtls",
+    "mbedtls": "mbedtls@2",
     "md5deep": "md5deep",
     "mediaconch": "mediaconch",
     "mediainfo": "media-info",
@@ -40,7 +40,7 @@
     "mmv": "mmv",
     "moarvm": "moarvm",
     "mold": "mold",
-    "mongo-c-driver": "mongo-c-driver",
+    "mongo-c-driver": "mongo-c-driver@1",
     "monit": "monit",
     "mono": "mono",
     "moon-buggy": "moon-buggy",

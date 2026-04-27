@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "reactos",
     "shard": "f",
@@ -8,12 +8,12 @@
   },
   "mappings": {
     "FCEUX": "fceux",
-    "FFmpeg-XP": "ffmpeg",
-    "FFmpeg-XP (shared library version)": "ffmpeg",
+    "FFmpeg-XP": "ffmpeg@7",
+    "FFmpeg-XP (shared library version)": "ffmpeg@7",
     "FreePascal": "fpc",
     "fceux": "fceux",
-    "ffmpeg": "ffmpeg",
-    "ffmpeg-shared": "ffmpeg",
+    "ffmpeg": "ffmpeg@7",
+    "ffmpeg-shared": "ffmpeg@7",
     "freepascal": "fpc"
   }
 }

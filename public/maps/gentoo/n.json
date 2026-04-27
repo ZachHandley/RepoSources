@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "n",
@@ -227,7 +227,7 @@
     "net-libs/liquid-dsp": "liquid-dsp",
     "net-libs/llhttp": "llhttp",
     "net-libs/loudmouth": "loudmouth",
-    "net-libs/mbedtls": "mbedtls",
+    "net-libs/mbedtls": "mbedtls@3",
     "net-libs/miniupnpc": "miniupnpc",
     "net-libs/nDPI": "ndpi",
     "net-libs/neon": "neon",

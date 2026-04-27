@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mx_21",
     "shard": "b",
@@ -9,7 +9,7 @@
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
     "babl": "babl",
-    "bolt-15": "lld",
+    "bolt-15": "llvm@15",
     "bpftool": "linux-headers@4.4",
     "bpytop": "bpytop",
     "btrfs-modules-5.15.0-exp2mx-4kc-malta-di,ext4-modules-5.15.0-exp2mx-4kc-malta-di": "linux-headers@4.4",

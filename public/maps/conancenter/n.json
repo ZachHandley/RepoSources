@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "n",
@@ -21,7 +21,7 @@
     "nlohmann_json": "nlohmann-json",
     "nlopt": "nlopt",
     "nng": "nng",
-    "nodejs": "node",
+    "nodejs": "node@22",
     "norm": "norm",
     "nspr": "nspr",
     "nss": "nss",

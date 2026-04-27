@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "trisquel_10_0",
     "shard": "e",
@@ -35,7 +35,7 @@
     "efl": "efl",
     "efl-doc": "efl",
     "egctl": "egctl",
-    "eigen3": "eigen",
+    "eigen3": "eigen@3",
     "ejabberd": "ejabberd",
     "electric": "electric",
     "elfutils": "elfutils",
@@ -49,7 +49,7 @@
     "elpa-ivy-rtags": "rtags",
     "elpa-lbdb": "lbdb",
     "elpa-notmuch": "notmuch",
-    "elpa-protobuf-mode": "protobuf",
+    "elpa-protobuf-mode": "protobuf@3",
     "elpa-ps-ccrypt": "ccrypt",
     "elpa-rtags": "rtags",
     "elvish": "elvish",

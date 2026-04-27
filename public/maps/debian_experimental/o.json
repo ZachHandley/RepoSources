@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "o",
@@ -15,10 +15,10 @@
     "openblas": "openblas",
     "opencolorio": "opencolorio",
     "opencolorio-tools": "opencolorio",
-    "openssl": "openssl@3",
+    "openssl": "openssl@4",
     "openssl-dev": "openssl",
-    "openssl-provider-fips": "openssl@3",
-    "openssl-provider-legacy": "openssl@3",
+    "openssl-provider-fips": "openssl@4",
+    "openssl-provider-legacy": "openssl@4",
     "ott": "ott",
     "ott-tools": "ott"
   }

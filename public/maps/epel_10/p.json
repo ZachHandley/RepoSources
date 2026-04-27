@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "p",
@@ -249,7 +249,7 @@
     "python3-SoapySDR": "soapysdr",
     "python3-acme": "certbot",
     "python3-assimp": "assimp",
-    "python3-botan2": "botan",
+    "python3-botan2": "botan@2",
     "python3-botan3": "botan",
     "python3-btrfsutil": "btrfs-progs",
     "python3-build": "python-build",

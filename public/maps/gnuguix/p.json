@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "p",
@@ -119,7 +119,7 @@
     "portaudio": "portaudio",
     "portmidi": "portmidi",
     "postgis": "postgis",
-    "postgresql": "postgresql@18",
+    "postgresql": "libpq@17",
     "potrace": "potrace",
     "povray": "povray",
     "ppl": "ppl",
@@ -146,7 +146,7 @@
     "proteinortho": "proteinortho",
     "protobuf": "protobuf",
     "protobuf-c": "protobuf-c",
-    "protobuf-static": "protobuf",
+    "protobuf-static": "protobuf@3",
     "protoc-gen-go": "protoc-gen-go",
     "protoc-gen-go-grpc": "protoc-gen-go-grpc",
     "protozero": "protozero",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openeuler_20_03_lts_sp3",
     "shard": "f",
@@ -11,7 +11,7 @@
     "fcgi": "fcgi",
     "fdupes": "fdupes",
     "fetchmail": "fetchmail",
-    "ffmpeg": "ffmpeg",
+    "ffmpeg": "ffmpeg@4",
     "fftw": "fftw",
     "figlet": "figlet",
     "file": "file-formula",
@@ -20,7 +20,7 @@
     "fio": "fio",
     "flac": "flac",
     "flex": "flex",
-    "flink": "apache-flink",
+    "flink": "apache-flink@1",
     "fltk": "fltk",
     "fluidsynth": "fluid-synth",
     "fmpp": "fmpp",

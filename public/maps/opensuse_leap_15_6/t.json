@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "t",
@@ -14,7 +14,7 @@
     "talloc-man": "talloc",
     "tanukiwrapper": "java-service-wrapper",
     "tar": "gnu-tar",
-    "taskwarrior": "task",
+    "taskwarrior": "task@2",
     "tbb": "tbb",
     "tclap": "tclap",
     "tcpdump": "tcpdump",
@@ -72,8 +72,8 @@
     "toilet": "toilet",
     "toipe": "toipe",
     "tokei": "tokei",
-    "tomcat": "tomcat",
-    "tomcat10": "tomcat",
+    "tomcat": "tomcat@9",
+    "tomcat10": "tomcat@10",
     "tomcat11": "tomcat",
     "toml11": "toml11",
     "topgrade": "topgrade",

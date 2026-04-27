@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "centos_6",
     "shard": "d",
@@ -8,7 +8,7 @@
   },
   "mappings": {
     "dash": "dash-shell",
-    "db4": "berkeley-db",
+    "db4": "berkeley-db@4",
     "dbus": "dbus",
     "dbus-glib": "dbus-glib",
     "dcraw": "dcraw",

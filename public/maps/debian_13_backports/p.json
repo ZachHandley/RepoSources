@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "p",
@@ -475,12 +475,12 @@
     "pyinstaller": "pyinstaller",
     "python3": "python",
     "python3-btrfsutil": "btrfs-progs",
-    "python3-clang-21": "lld",
+    "python3-clang-21": "lld@21",
     "python3-dev": "python",
     "python3-devel": "python",
     "python3-kea-connector": "kea",
     "python3-ldb": "samba",
-    "python3-lldb-21": "lld",
+    "python3-lldb-21": "lld@21",
     "python3-louis": "liblouis",
     "python3-mapscript": "mapserver",
     "python3-notmuch2": "notmuch",

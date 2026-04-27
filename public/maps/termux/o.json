@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "o",
@@ -30,8 +30,8 @@
     "openexr": "openexr",
     "openh264": "openh264",
     "openimageio": "openimageio",
-    "openjdk-17": "openjdk",
-    "openjdk-21": "openjdk",
+    "openjdk-17": "openjdk@17",
+    "openjdk-21": "openjdk@21",
     "openjdk-25": "openjdk",
     "openjpeg": "openjpeg",
     "openldap": "openldap",

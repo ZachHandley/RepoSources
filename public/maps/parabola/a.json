@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "a",
@@ -95,9 +95,9 @@
     "aria2": "aria2",
     "aribb24": "aribb24",
     "arm-linux-gnueabi-binutils": "binutils",
-    "arm-linux-gnueabi-gcc": "gcc",
+    "arm-linux-gnueabi-gcc": "gcc@12",
     "arm-none-eabi-binutils": "arm-none-eabi-binutils",
-    "arm-none-eabi-gcc": "arm-none-eabi-gcc",
+    "arm-none-eabi-gcc": "gcc@14",
     "arm-none-eabi-gdb": "arm-none-eabi-gdb",
     "armadillo": "armadillo",
     "armadillo-intel": "armadillo",
@@ -160,7 +160,7 @@
     "aws-c-s3": "aws-c-s3",
     "aws-c-sdkutils": "aws-c-sdkutils",
     "aws-checksums": "aws-checksums",
-    "aws-cli": "awscli",
+    "aws-cli": "awscli@1",
     "aws-cli-v2": "awscli",
     "aws-crt-cpp": "aws-crt-cpp",
     "aws-sdk-cpp": "aws-sdk-cpp",

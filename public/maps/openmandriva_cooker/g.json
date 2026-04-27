@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "g",
@@ -296,7 +296,7 @@
     "gpsd-python": "gpsd",
     "gptfdisk": "gptfdisk",
     "gputils": "gputils",
-    "gradle": "gradle",
+    "gradle": "gradle@8",
     "grafana": "grafana",
     "grantlee": "grantlee",
     "grantlee-debuginfo": "grantlee",

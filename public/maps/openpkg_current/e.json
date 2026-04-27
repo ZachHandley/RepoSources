@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "e",
@@ -21,7 +21,7 @@
     "epstool": "epstool",
     "erlang": "erlang",
     "erlang19": "erlang",
-    "erlang25": "erlang",
+    "erlang25": "erlang@25",
     "eslint": "eslint",
     "espeak": "espeak",
     "etcd": "etcd",

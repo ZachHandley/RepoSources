@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "i",
@@ -20,7 +20,7 @@
     "id3libs": "id3lib",
     "iftop": "iftop",
     "ilmbase": "openexr",
-    "imagemagick": "imagemagick",
+    "imagemagick": "imagemagick@6",
     "imagemagick+7": "imagemagick",
     "imake": "imake",
     "imath": "imath",

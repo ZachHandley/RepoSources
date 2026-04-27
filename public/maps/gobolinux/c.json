@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "c",
@@ -41,7 +41,7 @@
     "Chrpath": "chrpath",
     "ChucK": "chuck",
     "Clamav": "clamav",
-    "Clang": "lld",
+    "Clang": "llvm@19",
     "Claws-Mail": "claws-mail",
     "Clisp": "clisp",
     "Clojure": "clojure",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "d",
@@ -53,8 +53,8 @@
     "davix-debugsource": "davix",
     "davix-devel": "davix",
     "dazzle-list-counters": "libdazzle",
-    "db48-doc": "berkeley-db",
-    "db48-utils": "berkeley-db",
+    "db48-doc": "berkeley-db@4",
+    "db48-utils": "berkeley-db@4",
     "dbus-1": "dbus",
     "dbus-1-common": "dbus",
     "dbus-1-daemon": "dbus",

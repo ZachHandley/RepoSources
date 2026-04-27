@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "fedora_41",
     "shard": "v",
     "total_mappings": 142
   },
   "mappings": {
-    "v8-10.2-devel": "node",
-    "v8-11.3-devel": "node",
-    "v8-12.4-devel": "node",
-    "v8-13.6-devel": "node",
+    "v8-10.2-devel": "node@18",
+    "v8-11.3-devel": "node@20",
+    "v8-12.4-devel": "node@22",
+    "v8-13.6-devel": "node@24",
     "v8-314": "v8",
     "v8-314-devel": "v8",
     "vala": "vala",

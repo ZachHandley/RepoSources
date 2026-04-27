@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
     "shard": "t",
@@ -13,7 +13,7 @@
     "talloc-dev": "talloc",
     "talloc-python": "talloc",
     "tar": "gnu-tar",
-    "task": "task",
+    "task": "task@2",
     "tcc": "tcc",
     "tcc-arm": "tcc",
     "tcc-c67": "tcc",
@@ -48,7 +48,7 @@
     "tinyxml": "tinyxml",
     "tinyxml-dev": "tinyxml",
     "tinyxml2": "tinyxml2",
-    "tinyxml2-dev": "tinyxml",
+    "tinyxml2-dev": "tinyxml2",
     "tmux": "tmux",
     "tmux-mem-cpu-load": "tmux-mem-cpu-load",
     "tokyocabinet": "tokyo-cabinet",

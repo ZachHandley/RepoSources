@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "e",
-    "total_mappings": 76
+    "total_mappings": 77
   },
   "mappings": {
     "elixir": "elixir",
     "elixir-lang": "elixir",
-    "elpa-protobuf-mode": "protobuf",
+    "elpa-protobuf-mode": "protobuf@3",
     "erlang": "erlang",
     "erlang-asn1": "erlang",
     "erlang-base": "erlang",
@@ -69,6 +69,7 @@
     "exim4-mod-postgresql": "exim",
     "exim4-mod-spf": "exim",
     "eximon4": "exim",
+    "expect": "expect",
     "ext4-modules-7.0-alpha-generic-di": "linux-headers@4.4",
     "ext4-modules-7.0-amd64-di": "linux-headers@4.4",
     "ext4-modules-7.0-arm64-di": "linux-headers@4.4",

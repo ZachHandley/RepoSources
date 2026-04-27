@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "_misc",
@@ -33,9 +33,9 @@
     "[Deprecated] Microsoft .NET Framework 4.6.2": "dotnet",
     "[Deprecated] NZBGet": "nzbget",
     "[Deprecated] Nift": "nift",
-    "[Deprecated] OpenJDK 11": "openjdk",
-    "[Deprecated] OpenJDK 17": "openjdk",
-    "[Deprecated] OpenJDK 8": "openjdk",
+    "[Deprecated] OpenJDK 11": "openjdk@11",
+    "[Deprecated] OpenJDK 17": "openjdk@17",
+    "[Deprecated] OpenJDK 8": "openjdk@8",
     "[Deprecated] Tesseract OCR (Install)": "tesseract",
     "[Deprecated] Vim x64": "vim",
     "[Deprecated] Vim x64 (Install)": "vim",

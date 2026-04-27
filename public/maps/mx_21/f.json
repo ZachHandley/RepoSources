@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mx_21",
     "shard": "f",
@@ -158,8 +158,8 @@
     "fb-modules-6.5.0-5mx-ahs-riscv64-di,input-modules-6.5.0-5mx-ahs-riscv64-di": "linux-headers@4.4",
     "fb-modules-6.5.0-5mx-ahs-sparc64-di": "linux-headers@4.4",
     "feh": "feh",
-    "ffmpeg": "ffmpeg",
-    "ffmpeg-doc": "ffmpeg",
+    "ffmpeg": "ffmpeg@4",
+    "ffmpeg-doc": "ffmpeg@4",
     "firewire-core-modules-5.15.0-exp2mx-686-di": "linux-headers@4.4",
     "firewire-core-modules-5.15.0-exp2mx-686-pae-di": "linux-headers@4.4",
     "firewire-core-modules-5.15.0-exp2mx-itanium-di": "linux-headers@4.4",

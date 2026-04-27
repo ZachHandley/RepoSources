@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "m",
@@ -28,8 +28,8 @@
     "matterbridge": "matterbridge",
     "maturin": "maturin",
     "maven": "maven",
-    "mbedtls": "mbedtls",
-    "mbedtls2": "mbedtls",
+    "mbedtls": "mbedtls@3",
+    "mbedtls2": "mbedtls@2",
     "mc": "midnight-commander",
     "mcpp": "mcpp",
     "md4c": "md4c",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "n",
-    "total_mappings": 72
+    "total_mappings": 73
   },
   "mappings": {
     "NaturalDocs": "naturaldocs",
@@ -60,7 +60,7 @@
     "nlohmann-json": "nlohmann-json",
     "nmap": "nmap",
     "nnn": "nnn",
-    "nodejs": "node",
+    "nodejs": "node@24",
     "nodejs-js-beautify": "js-beautify",
     "nodejs-semver": "semver",
     "norm": "norm",
@@ -78,6 +78,7 @@
     "numactl": "numactl",
     "nuspell": "nuspell",
     "nuttcp": "nuttcp",
-    "nvi": "nvi"
+    "nvi": "nvi",
+    "nvtop": "nvtop"
   }
 }

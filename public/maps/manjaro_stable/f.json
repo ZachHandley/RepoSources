@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "f",
@@ -36,7 +36,7 @@
     "fetchmail": "fetchmail",
     "ffcall": "libffcall",
     "ffmpeg": "ffmpeg",
-    "ffmpeg4.4": "ffmpeg",
+    "ffmpeg4.4": "ffmpeg@4",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "ffms2": "ffms2",
     "fftw": "fftw",
@@ -113,7 +113,7 @@
     "fuse-common": "libfuse",
     "fuse-overlayfs": "fuse-overlayfs",
     "fuse-zip": "fuse-zip",
-    "fuse2": "libfuse",
+    "fuse2": "libfuse@2",
     "fuse2fs": "e2fsprogs",
     "fuse3": "libfuse",
     "fvm": "fvm",

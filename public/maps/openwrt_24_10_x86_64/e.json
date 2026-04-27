@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "e",
@@ -12,7 +12,7 @@
     "e4crypt": "e2fsprogs",
     "eject": "gnu-getopt",
     "elektra-kdb": "elektra",
-    "erlang": "erlang",
+    "erlang": "erlang@27",
     "erlang-asn1": "erlang",
     "erlang-compiler": "erlang",
     "erlang-crypto": "erlang",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "m",
@@ -29,9 +29,9 @@
     "mariadb-common": "mariadb",
     "mariadb-server": "mariadb",
     "maxima": "maxima",
-    "mbedtls": "mbedtls",
-    "mbedtls2": "mbedtls",
-    "mbedtls2-debug": "mbedtls",
+    "mbedtls": "mbedtls@3",
+    "mbedtls2": "mbedtls@2",
+    "mbedtls2-debug": "mbedtls@2",
     "mc": "midnight-commander",
     "mcpp": "mcpp",
     "mcpp-debug": "mcpp",

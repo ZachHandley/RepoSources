@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "npackd_stable64",
     "shard": "c",
@@ -9,7 +9,7 @@
   "mappings": {
     "CMake 64 bit": "cmake",
     "Claws Mail 64 bit": "claws-mail",
-    "Conan 64 bit": "conan",
+    "Conan 64 bit": "conan@1",
     "cURL 64 bit": "curl",
     "clang 64 bit": "lld",
     "clang64": "lld",
@@ -18,6 +18,6 @@
     "com.ghostscript.Ghostscript64": "ghostscript",
     "com.httrack.HTTrack64": "httrack",
     "com.selenic.mercurial.Mercurial64": "mercurial",
-    "conan64": "conan"
+    "conan64": "conan@1"
   }
 }

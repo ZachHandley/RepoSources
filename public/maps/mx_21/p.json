@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mx_21",
     "shard": "p",
@@ -126,15 +126,15 @@
     "pympress": "pympress",
     "pympress-doc": "pympress",
     "python3": "python",
-    "python3-clang-12": "lld",
-    "python3-clang-14": "lld",
-    "python3-clang-15": "lld",
+    "python3-clang-12": "llvm@12",
+    "python3-clang-14": "llvm@14",
+    "python3-clang-15": "llvm@15",
     "python3-dev": "python",
     "python3-devel": "python",
-    "python3-lldb-12": "lld",
-    "python3-lldb-14": "lld",
-    "python3-lldb-15": "lld",
+    "python3-lldb-12": "llvm@12",
+    "python3-lldb-14": "llvm@14",
+    "python3-lldb-15": "llvm@15",
     "python3-mlt": "mlt",
-    "python3-pyassimp": "assimp"
+    "python3-pyassimp": "assimp@5"
   }
 }

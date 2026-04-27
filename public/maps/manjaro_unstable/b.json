@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "b",
@@ -22,7 +22,7 @@
     "barcode": "gnu-barcode",
     "baresip": "baresip",
     "bash": "bash",
-    "bash-completion": "bash-completion",
+    "bash-completion": "bash-completion@2",
     "bash-language-server": "bash-language-server",
     "bash-preexec": "bash-preexec",
     "basis-universal": "basis_universal",

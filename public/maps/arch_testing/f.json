@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-27T23:16:34Z",
+    "source": "repology-dump",
+    "distro": "arch_testing",
+    "shard": "f",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "fltk": "fltk",
+    "fltk-docs": "fltk",
+    "fzf": "fzf"
+  }
+}

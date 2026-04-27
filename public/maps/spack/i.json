@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "i",
     "total_mappings": 26
   },
   "mappings": {
-    "icu4c": "icu4c@78",
+    "icu4c": "icu4c@76",
     "id3lib": "id3lib",
     "igraph": "igraph",
     "igv": "igv",

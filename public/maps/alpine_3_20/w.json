@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alpine_3_20",
     "shard": "w",
@@ -22,7 +22,7 @@
     "wait4x-fish-completion": "wait4x",
     "wait4x-zsh-completion": "wait4x",
     "wasi-libc": "wasi-libc",
-    "wasi-libcxx": "lld",
+    "wasi-libcxx": "llvm@17",
     "wasm-bindgen": "wasm-bindgen",
     "wasm-pack": "wasm-pack",
     "watchexec": "watchexec",

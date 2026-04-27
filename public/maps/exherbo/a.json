@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "a",
@@ -162,7 +162,7 @@
     "app-security/john": "john",
     "app-shells/atuin": "atuin",
     "app-shells/bash": "bash",
-    "app-shells/bash-completion": "bash-completion",
+    "app-shells/bash-completion": "bash-completion@2",
     "app-shells/dash": "dash-shell",
     "app-shells/direnv": "direnv",
     "app-shells/fish": "fish",

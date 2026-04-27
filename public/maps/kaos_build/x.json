@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "x",
-    "total_mappings": 1
+    "total_mappings": 3
   },
   "mappings": {
-    "x265": "x265"
+    "x265": "x265",
+    "xbitmaps": "xbitmaps",
+    "xorg-font-util": "font-util"
   }
 }

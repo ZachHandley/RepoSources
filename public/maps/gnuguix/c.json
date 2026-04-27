@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "c",
@@ -90,9 +90,9 @@
     "ck": "concurrencykit",
     "clac": "clac",
     "clamav": "clamav",
-    "clang": "lld",
-    "clang-runtime": "lld",
-    "clang-toolchain": "lld",
+    "clang": "lld@21",
+    "clang-runtime": "lld@21",
+    "clang-toolchain": "lld@21",
     "claws-mail": "claws-mail",
     "clazy": "clazy",
     "clblast": "clblast",

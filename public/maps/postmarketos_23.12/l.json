@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "postmarketos_23.12",
     "shard": "l",
@@ -11,6 +11,6 @@
     "libpulse-mainloop-glib": "pulseaudio",
     "libssl-dev": "openssl",
     "libssl3": "openssl",
-    "libstdc++-dev-x86_64": "gcc"
+    "libstdc++-dev-x86_64": "gcc@13"
   }
 }

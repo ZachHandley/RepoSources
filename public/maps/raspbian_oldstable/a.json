@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "raspbian_oldstable",
     "shard": "a",
@@ -236,9 +236,9 @@
     "aspectj-doc": "aspectj",
     "aspell": "aspell",
     "aspell-doc": "aspell",
-    "assimp": "assimp",
-    "assimp-testmodels": "assimp",
-    "assimp-utils": "assimp",
+    "assimp": "assimp@5",
+    "assimp-testmodels": "assimp@5",
+    "assimp-utils": "assimp@5",
     "assistant-qt6": "qt",
     "astyle": "astyle",
     "asymptote": "asymptote",

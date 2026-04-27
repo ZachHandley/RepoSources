@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mx_21",
     "shard": "a",
@@ -36,9 +36,9 @@
     "affs-modules-6.5.0-5mx-ahs-powerpc-di": "linux-headers@4.4",
     "affs-modules-6.5.0-5mx-ahs-powerpc64-di": "linux-headers@4.4",
     "asciiquarium": "asciiquarium",
-    "assimp": "assimp",
-    "assimp-testmodels": "assimp",
-    "assimp-utils": "assimp",
+    "assimp": "assimp@5",
+    "assimp-testmodels": "assimp@5",
+    "assimp-utils": "assimp@5",
     "assistant-qt6": "qt",
     "ata-modules-5.15.0-exp2mx-4kc-malta-di": "linux-headers@4.4",
     "ata-modules-5.15.0-exp2mx-5kc-malta-di,mmc-core-modules-5.15.0-exp2mx-5kc-malta-di": "linux-headers@4.4",

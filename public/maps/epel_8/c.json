@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "c",
@@ -72,7 +72,7 @@
     "cpufetch": "cpufetch",
     "cpulimit": "cpulimit",
     "cross-binutils": "binutils",
-    "cross-gcc": "gcc",
+    "cross-gcc": "gcc@12",
     "cryptopp": "cryptopp",
     "cvs": "cvs",
     "cxxopts": "cxxopts",

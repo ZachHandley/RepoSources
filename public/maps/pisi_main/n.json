@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "n",
@@ -83,7 +83,7 @@
     "network/misc/libssh": "libssh",
     "network/misc/neon": "neon",
     "network/misc/openmpi": "open-mpi",
-    "network/misc/protobuf": "protobuf",
+    "network/misc/protobuf": "protobuf@3",
     "network/misc/protobuf-c": "protobuf-c",
     "network/misc/proxychains-ng": "proxychains-ng",
     "network/misc/putty": "putty",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "t",
@@ -217,8 +217,8 @@
     "textproc/libxml": "libxml2",
     "textproc/libxml2": "libxml2",
     "textproc/libxmlxx2": "libxml++",
-    "textproc/libxmlxx3": "libxml++",
-    "textproc/libxmlxx5": "libxml++",
+    "textproc/libxmlxx3": "libxml++@3",
+    "textproc/libxmlxx5": "libxml++@5",
     "textproc/libxslt": "libxslt",
     "textproc/lilypond": "lilypond",
     "textproc/link-grammar": "link-grammar",

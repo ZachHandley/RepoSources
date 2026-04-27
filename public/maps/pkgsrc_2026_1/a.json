@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "a",
@@ -67,7 +67,7 @@
     "apache-ivy": "ivy",
     "apache-maven": "maven",
     "apache-solr": "solr",
-    "apache-tomcat": "tomcat",
+    "apache-tomcat": "tomcat@9",
     "apachetop": "apachetop",
     "apcupsd": "apcupsd",
     "apenwarr-redo": "redo",
@@ -343,7 +343,7 @@
     "avahi-ui": "avahi",
     "aview": "aview",
     "avr-binutils": "binutils",
-    "avr-gcc": "gcc",
+    "avr-gcc": "gcc@13",
     "avr-gdb": "gdb",
     "avrdude": "avrdude",
     "ayatana-ido": "ayatana-ido"

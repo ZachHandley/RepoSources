@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "crux_38",
     "shard": "b",
@@ -10,7 +10,7 @@
     "babl": "babl",
     "bandwhich": "bandwhich",
     "bash": "bash",
-    "bash-completion": "bash-completion",
+    "bash-completion": "bash-completion@2",
     "bash-language-server": "bash-language-server",
     "bat": "bat",
     "bc": "bc",

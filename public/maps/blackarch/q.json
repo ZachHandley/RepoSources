@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "q",
@@ -12,17 +12,17 @@
     "qscintilla-qt4": "qscintilla2",
     "qt3": "qt",
     "qt4": "qt",
-    "qt5-charts": "qt",
-    "qt5-datavis3d": "qt",
-    "qt5-doc": "qt",
-    "qt5-examples": "qt",
-    "qt5-remoteobjects": "qt",
-    "qt5-scxml": "qt",
-    "qt5-sensors": "qt",
-    "qt5-serialbus": "qt",
-    "qt5-webchannel": "qt",
-    "qt5-webengine": "qt",
-    "qt5-websockets": "qt",
+    "qt5-charts": "qt@5",
+    "qt5-datavis3d": "qt@5",
+    "qt5-doc": "qt@5",
+    "qt5-examples": "qt@5",
+    "qt5-remoteobjects": "qt@5",
+    "qt5-scxml": "qt@5",
+    "qt5-sensors": "qt@5",
+    "qt5-serialbus": "qt@5",
+    "qt5-webchannel": "qt@5",
+    "qt5-webengine": "qt@5",
+    "qt5-websockets": "qt@5",
     "qwt5": "qwt"
   }
 }

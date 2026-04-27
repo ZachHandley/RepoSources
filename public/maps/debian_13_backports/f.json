@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "f",
@@ -673,7 +673,7 @@
     "firewire-core-modules-6.19.8+deb13-powerpc64-di": "linux-headers@4.4",
     "firewire-core-modules-6.19.8+deb13-powerpc64le-di": "linux-headers@4.4",
     "firewire-core-modules-6.19.8+deb13-sh7751r-di": "linux-headers@4.4",
-    "flang-21": "lld",
+    "flang-21": "llvm@21",
     "freerdp-proxy": "freerdp",
     "freerdp-proxy-modules": "freerdp",
     "freerdp-sdl": "freerdp",

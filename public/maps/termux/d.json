@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "d",
@@ -60,8 +60,8 @@
     "dosbox-x": "dosbox-x",
     "dosfstools": "dosfstools",
     "dotnet10.0": "dotnet",
-    "dotnet8.0": "dotnet",
-    "dotnet9.0": "dotnet",
+    "dotnet8.0": "dotnet@8",
+    "dotnet9.0": "dotnet@9",
     "double-conversion": "double-conversion",
     "doxygen": "doxygen",
     "dpkg": "dpkg",

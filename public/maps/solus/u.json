@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "u",
@@ -67,7 +67,7 @@
     "util-linux-32bit-dbginfo": "gnu-getopt",
     "util-linux-32bit-devel": "gnu-getopt",
     "util-linux-dbginfo": "gnu-getopt",
-    "util-linux-devel": "gnu-getopt",
+    "util-linux-devel": "util-linux",
     "util-macros": "util-macros",
     "util-macros-devel": "util-macros",
     "uv": "uv",

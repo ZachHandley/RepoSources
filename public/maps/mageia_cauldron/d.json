@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "d",
@@ -19,9 +19,9 @@
     "davix": "davix",
     "davix-doc": "davix",
     "dazzle-list-counters": "libdazzle",
-    "db53": "berkeley-db",
-    "db53-utils": "berkeley-db",
-    "db53_recover": "berkeley-db",
+    "db53": "berkeley-db@5",
+    "db53-utils": "berkeley-db@5",
+    "db53_recover": "berkeley-db@5",
     "dbus": "dbus",
     "dbus-doc": "dbus",
     "dbus-glib": "dbus-glib",

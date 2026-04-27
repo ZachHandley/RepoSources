@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "d",
@@ -23,7 +23,7 @@
     "dav1d-doc": "dav1d",
     "davix": "davix",
     "db": "berkeley-db",
-    "db5.3": "berkeley-db",
+    "db5.3": "berkeley-db@5",
     "dbmate": "dbmate",
     "dbus": "dbus",
     "dbus-daemon-units": "dbus",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "centos_6",
     "shard": "p",
@@ -30,7 +30,7 @@
     "polkit": "polkit",
     "poppler": "poppler",
     "popt": "popt",
-    "postgresql": "postgresql@18",
+    "postgresql": "libpq",
     "ppl": "ppl",
     "procmail": "procmail",
     "procps": "procps",
@@ -39,7 +39,7 @@
     "pulseaudio": "pulseaudio",
     "pycairo": "py3cairo",
     "pygobject2": "pygobject3",
-    "python": "python@3.14",
+    "python": "python@3.9",
     "python-markdown": "python-markdown",
     "python-matplotlib": "python-matplotlib",
     "python-setuptools": "python-setuptools",

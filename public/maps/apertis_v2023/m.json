@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "apertis_v2023",
     "shard": "m",
@@ -42,7 +42,7 @@
     "matplotlib": "python-matplotlib",
     "maven": "maven",
     "mawk": "mawk",
-    "mbedtls": "mbedtls",
+    "mbedtls": "mbedtls@2",
     "mc": "midnight-commander",
     "mc-data": "midnight-commander",
     "md4c": "md4c",
@@ -69,7 +69,7 @@
     "minizip": "minizip",
     "mksh": "mksh",
     "mlir-13-tools": "lld",
-    "mlir-16-tools": "lld",
+    "mlir-16-tools": "llvm@16",
     "mm-common": "mm-common",
     "mmdb-bin": "libmaxminddb",
     "mockery": "mockery",

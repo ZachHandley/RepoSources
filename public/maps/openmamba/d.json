@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "d",
@@ -13,9 +13,9 @@
     "db": "berkeley-db",
     "db-debug": "berkeley-db",
     "db-tools": "berkeley-db",
-    "db53": "berkeley-db",
-    "db53-debug": "berkeley-db",
-    "db53-tools": "berkeley-db",
+    "db53": "berkeley-db@5",
+    "db53-debug": "berkeley-db@5",
+    "db53-tools": "berkeley-db@5",
     "dbus": "dbus",
     "dbus-apidocs": "dbus",
     "dcadec": "dcadec",

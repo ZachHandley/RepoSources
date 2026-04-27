@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "f",
@@ -10,7 +10,7 @@
     "faac": "faac",
     "faad2": "faad2",
     "fdk-aac": "fdk-aac",
-    "ffmpeg": "ffmpeg",
+    "ffmpeg": "ffmpeg@7",
     "fftw": "fftw",
     "file": "file-formula",
     "findutils": "findutils",
@@ -28,6 +28,6 @@
     "frei0r-plugins": "frei0r",
     "fribidi": "fribidi",
     "fuse": "libfuse",
-    "fuse2": "libfuse"
+    "fuse2": "libfuse@2"
   }
 }

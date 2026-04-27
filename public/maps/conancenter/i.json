@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "i",
@@ -8,7 +8,7 @@
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
-    "icu": "icu4c@74",
+    "icu": "icu4c@78",
     "iguana": "iguana",
     "iir1": "iir1",
     "imagemagick": "imagemagick",

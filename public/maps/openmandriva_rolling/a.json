@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "a",
@@ -272,10 +272,10 @@
     "aspell-debuginfo": "aspell",
     "aspell-debugsource": "aspell",
     "aspell-manual": "aspell",
-    "aspnetcore-runtime": "dotnet",
-    "aspnetcore-runtime-dbg": "dotnet",
-    "aspnetcore-targeting-pack": "dotnet",
-    "assimp": "assimp",
+    "aspnetcore-runtime": "dotnet@9",
+    "aspnetcore-runtime-dbg": "dotnet@9",
+    "aspnetcore-targeting-pack": "dotnet@9",
+    "assimp": "assimp@5",
     "astyle": "astyle",
     "at-spi2-core": "at-spi2-core",
     "atari800": "atari800",

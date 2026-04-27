@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "a",
@@ -151,7 +151,7 @@
     "ancient-devel": "ancient",
     "ansible": "ansible",
     "ansible-11": "ansible",
-    "ansible-12": "ansible",
+    "ansible-12": "ansible@12",
     "ansible-builder": "ansible-builder",
     "ansible-cmdb": "ansible-cmdb",
     "ansible-creator": "ansible-creator",
@@ -521,7 +521,7 @@
     "aws-checksums-bin": "aws-checksums",
     "aws-checksums-debuginfo": "aws-checksums",
     "aws-checksums-debugsource": "aws-checksums",
-    "aws-cli": "awscli",
+    "aws-cli": "awscli@1",
     "aws-crt-cpp": "aws-crt-cpp",
     "aws-crt-cpp-bin": "aws-crt-cpp",
     "aws-crt-cpp-debuginfo": "aws-crt-cpp",

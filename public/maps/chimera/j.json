@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "j",
@@ -24,10 +24,10 @@
     "jasper-doc": "jasper",
     "jasper-progs": "jasper",
     "jasper-progs-man": "jasper",
-    "java-jdk-openjdk17-default-man": "openjdk",
-    "java-jdk-openjdk21-default-man": "openjdk",
-    "java-jre-headless-openjdk17-default-man": "openjdk",
-    "java-jre-headless-openjdk21-default-man": "openjdk",
+    "java-jdk-openjdk17-default-man": "openjdk@17",
+    "java-jdk-openjdk21-default-man": "openjdk@21",
+    "java-jre-headless-openjdk17-default-man": "openjdk@17",
+    "java-jre-headless-openjdk21-default-man": "openjdk@21",
     "jbig2dec": "jbig2dec",
     "jbig2dec-devel": "jbig2dec",
     "jbig2dec-devel-static": "jbig2dec",

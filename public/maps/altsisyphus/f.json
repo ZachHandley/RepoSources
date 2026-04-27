@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "f",
@@ -317,11 +317,11 @@
     "ftdi-eeprom": "libftdi",
     "ftdi-eeprom-debuginfo": "libftdi",
     "ftxui": "ftxui",
-    "fuse": "libfuse",
+    "fuse": "libfuse@2",
     "fuse-common": "libfuse",
     "fuse-curlftpfs": "curlftpfs",
     "fuse-curlftpfs-debuginfo": "curlftpfs",
-    "fuse-debuginfo": "libfuse",
+    "fuse-debuginfo": "libfuse@2",
     "fuse-dwarfs": "dwarfs",
     "fuse-dwarfs-debuginfo": "dwarfs",
     "fuse-encfs": "encfs",

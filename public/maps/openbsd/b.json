@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "b",
@@ -22,7 +22,7 @@
     "baresip-gtk": "baresip",
     "base64": "base64",
     "bash": "bash",
-    "bash-completion": "bash-completion",
+    "bash-completion": "bash-completion@2",
     "bastet": "bastet",
     "bat": "bat",
     "bats": "bats-core",
@@ -69,7 +69,7 @@
     "boost-md": "boost",
     "borgbackup": "borgbackup",
     "borgmatic": "borgmatic",
-    "botan2": "botan",
+    "botan2": "botan@2",
     "bozohttpd": "bozohttpd",
     "bpython": "bpython",
     "brainfuck": "brainfuck",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "f",
@@ -55,7 +55,7 @@
     "ffmpeg": "ffmpeg",
     "ffmpeg-doc": "ffmpeg",
     "ffmpeg2theora": "ffmpeg2theora",
-    "ffmpeg4": "ffmpeg",
+    "ffmpeg4": "ffmpeg@4",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "ffmpegthumbnailer-debuginfo": "ffmpegthumbnailer",
     "ffmpegthumbnailer-debugsource": "ffmpegthumbnailer",
@@ -82,7 +82,7 @@
     "fish-devel": "fish",
     "flac": "flac",
     "flac123": "flac123",
-    "flang": "flang",
+    "flang": "lld@21",
     "flashrom": "flashrom",
     "flashrom-devel": "flashrom",
     "flatbuffers": "flatbuffers",
@@ -185,9 +185,9 @@
     "ftnchek-debugsource": "ftnchek",
     "funcoeszz": "funcoeszz",
     "fuse": "libfuse",
-    "fuse2": "libfuse",
-    "fuse2-debuginfo": "libfuse",
-    "fuse2-debugsource": "libfuse",
+    "fuse2": "libfuse@2",
+    "fuse2-debuginfo": "libfuse@2",
+    "fuse2-debugsource": "libfuse@2",
     "fwupd": "fwupd",
     "fzf": "fzf"
   }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alpine_3_16",
     "shard": "n",
@@ -239,9 +239,9 @@
     "nnn-plugins": "nnn",
     "nnn-zsh-completion": "nnn",
     "nodejs": "node",
-    "nodejs-current": "node",
-    "nodejs-current-dev": "node",
-    "nodejs-current-doc": "node",
+    "nodejs-current": "node@18",
+    "nodejs-current-dev": "node@18",
+    "nodejs-current-doc": "node@18",
     "nodejs-dev": "node",
     "nodejs-doc": "node",
     "notcurses": "notcurses",

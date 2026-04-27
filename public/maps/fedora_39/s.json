@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "s",
@@ -45,10 +45,10 @@
     "SFCGAL-debuginfo": "sfcgal",
     "SFCGAL-debugsource": "sfcgal",
     "SFCGAL-devel": "sfcgal",
-    "SFML": "sfml",
-    "SFML-debuginfo": "sfml",
-    "SFML-debugsource": "sfml",
-    "SFML-devel": "sfml",
+    "SFML": "sfml@2",
+    "SFML-debuginfo": "sfml@2",
+    "SFML-debugsource": "sfml@2",
+    "SFML-devel": "sfml@2",
     "ShellCheck": "shellcheck",
     "ShellCheck-debuginfo": "shellcheck",
     "ShellCheck-debugsource": "shellcheck",

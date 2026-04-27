@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "b",
@@ -12,9 +12,9 @@
     "baobab": "baobab",
     "baobab-debuginfo": "baobab",
     "bash": "bash",
-    "bash-completion": "bash-completion",
+    "bash-completion": "bash-completion@2",
     "bash-completion-cmake": "cmake",
-    "bash-completion-devel": "bash-completion",
+    "bash-completion-devel": "bash-completion@2",
     "bash-debuginfo": "bash",
     "bash-devel": "bash",
     "bashdb": "bashdb",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "slackware_15_0",
     "shard": "g",
@@ -9,12 +9,12 @@
   "mappings": {
     "gawk": "gawk",
     "gc": "bdw-gc",
-    "gcc": "gcc",
-    "gcc-g++": "gcc",
-    "gcc-gfortran": "gcc",
-    "gcc-gnat": "gcc",
-    "gcc-go": "gcc",
-    "gcc-objc": "gcc",
+    "gcc": "gcc@11",
+    "gcc-g++": "gcc@11",
+    "gcc-gfortran": "gcc@11",
+    "gcc-gnat": "gcc@11",
+    "gcc-go": "gcc@11",
+    "gcc-objc": "gcc@11",
     "gcr": "gcr",
     "gd": "gd",
     "gdb": "gdb",

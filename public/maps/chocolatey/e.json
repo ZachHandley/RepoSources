@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "e",
@@ -14,7 +14,7 @@
     "Edit": "msedit",
     "EditorConfig Checker": "editorconfig-checker",
     "Eget": "eget",
-    "Eigen": "eigen",
+    "Eigen": "eigen@3",
     "Elixir": "elixir",
     "Elm Platform (Install)": "elm",
     "Elvish Shell": "elvish",
@@ -34,7 +34,7 @@
     "edit": "msedit",
     "editorconfig-checker": "editorconfig-checker",
     "eget": "eget",
-    "eigen": "eigen",
+    "eigen": "eigen@3",
     "eksctl": "eksctl",
     "elm-platform": "elm",
     "elvish": "elvish",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "b",
@@ -25,7 +25,7 @@
     "baobab-locale": "baobab",
     "baobab-man": "baobab",
     "bash": "bash",
-    "bash-completion": "bash-completion",
+    "bash-completion": "bash-completion@2",
     "bash-doc": "bash",
     "bash-locale": "bash",
     "bash-man": "bash",
@@ -99,7 +99,7 @@
     "bison-locale": "bison",
     "bison-man": "bison",
     "blake3": "blake3",
-    "blake3-devel": "b3sum",
+    "blake3-devel": "blake3",
     "blink": "blink",
     "blink-doc": "blink",
     "blink-man": "blink",

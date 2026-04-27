@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "m",
@@ -89,8 +89,8 @@
     "mawk": "mawk",
     "maxima": "maxima",
     "maxima-ecl": "maxima",
-    "mbedtls": "mbedtls",
-    "mbedtls_2": "mbedtls",
+    "mbedtls": "mbedtls@3",
+    "mbedtls_2": "mbedtls@2",
     "mbelib": "mbelib",
     "mbpoll": "mbpoll",
     "mbt": "mbt",
@@ -249,7 +249,7 @@
     "molecule": "molecule",
     "monero-cli": "monero",
     "monetdb": "monetdb",
-    "mongoc": "mongo-c-driver",
+    "mongoc": "mongo-c-driver@1",
     "mongocxx": "mongo-cxx-driver",
     "mongodb-atlas-cli": "mongodb-atlas-cli",
     "mongodb-cli": "mongocli",

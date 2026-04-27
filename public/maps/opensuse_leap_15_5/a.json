@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "a",
@@ -72,7 +72,7 @@
     "asio": "asio",
     "asn1c": "asn1c",
     "aspell": "aspell",
-    "assimp": "assimp",
+    "assimp": "assimp@5",
     "astyle": "astyle",
     "at-spi2-core": "at-spi2-core",
     "atkmm": "atkmm",
@@ -99,7 +99,7 @@
     "avahi-qt5": "avahi",
     "avfs": "avfs",
     "avrdude": "avrdude",
-    "aws-cli": "awscli",
+    "aws-cli": "awscli@1",
     "aws-iam-authenticator": "aws-iam-authenticator",
     "axel": "axel",
     "ayatana-ido": "ayatana-ido",

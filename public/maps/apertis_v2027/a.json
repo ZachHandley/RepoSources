@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "apertis_v2027",
     "shard": "a",
@@ -64,9 +64,9 @@
     "asciidoctor-doc": "asciidoctor",
     "aspell": "aspell",
     "aspell-doc": "aspell",
-    "assimp": "assimp",
-    "assimp-testmodels": "assimp",
-    "assimp-utils": "assimp",
+    "assimp": "assimp@5",
+    "assimp-testmodels": "assimp@5",
+    "assimp-utils": "assimp@5",
     "assistant-qt6": "qt",
     "at-spi2-common": "at-spi2-core",
     "at-spi2-core": "at-spi2-core",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "rpmfusion_el_8",
     "shard": "f",
@@ -9,7 +9,7 @@
   "mappings": {
     "faac": "faac",
     "fdk-aac": "fdk-aac",
-    "ffmpeg": "ffmpeg",
+    "ffmpeg": "ffmpeg@4",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "ffms2": "ffms2"
   }

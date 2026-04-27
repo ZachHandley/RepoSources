@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "p",
@@ -48,7 +48,7 @@
     "plplot": "plplot",
     "poppler": "poppler",
     "popt": "popt",
-    "postgresql": "postgresql@18",
+    "postgresql": "libpq@16",
     "potrace": "potrace",
     "powerman": "powerman",
     "print/cups": "cups",

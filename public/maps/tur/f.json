@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "tur",
     "shard": "f",
     "total_mappings": 3
   },
   "mappings": {
-    "ffmpeg5.1": "ffmpeg",
-    "ffmpeg7": "ffmpeg",
+    "ffmpeg5.1": "ffmpeg@5",
+    "ffmpeg7": "ffmpeg@7",
     "filebrowser": "filebrowser"
   }
 }

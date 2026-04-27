@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "o",
@@ -34,9 +34,9 @@
     "openocd": "open-ocd",
     "opensca-cli": "opensca-cli",
     "openssh": "openssh",
-    "openssl": "openssl@3",
+    "openssl": "openssl@4",
     "openssl-dev": "openssl",
-    "openssl-light": "openssl@3",
+    "openssl-light": "openssl@4",
     "openssl-lts": "openssl@3",
     "openssl-lts-light": "openssl@3",
     "openssl1": "openssl@3",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "m",
@@ -14,7 +14,7 @@
     "mariadb": "mariadb",
     "markdown-toc": "markdown-toc",
     "markdownlint-cli": "markdownlint-cli",
-    "mbedtls": "mbedtls",
+    "mbedtls": "mbedtls@3",
     "mc": "midnight-commander",
     "mda-lv2": "mda-lv2",
     "mdds": "mdds",

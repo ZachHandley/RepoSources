@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "s",
@@ -135,7 +135,7 @@
     "sesh": "sesh",
     "setconf": "setconf",
     "sfcgal": "sfcgal",
-    "sfml": "sfml",
+    "sfml": "sfml@2",
     "sfrotz": "frotz",
     "sfsexp": "sfsexp",
     "sftpgo": "sftpgo",
@@ -311,7 +311,7 @@
     "spicedb": "spicedb",
     "spicetify-cli": "spicetify-cli",
     "spidermonkey": "spidermonkey",
-    "spidermonkey_115": "spidermonkey",
+    "spidermonkey_115": "spidermonkey@115",
     "spidermonkey_128": "spidermonkey",
     "spidermonkey_78": "spidermonkey",
     "spidermonkey_91": "spidermonkey",

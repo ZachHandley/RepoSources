@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "n",
@@ -41,8 +41,8 @@
     "nodejs-lts-dubnium": "node",
     "nodejs-lts-fermium": "node",
     "nodejs-lts-gallium": "node",
-    "nodejs-lts-hydrogen": "node",
-    "nodejs-lts-iron": "node",
+    "nodejs-lts-hydrogen": "node@18",
+    "nodejs-lts-iron": "node@20",
     "npth": "npth",
     "nspr": "nspr",
     "nss": "nss",

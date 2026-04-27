@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "f",
@@ -144,9 +144,9 @@
     "flake": "flake",
     "flake8": "flake8",
     "flang": "flang",
-    "flang-18": "lld",
-    "flang-19": "lld",
-    "flang-21": "lld",
+    "flang-18": "llvm@18",
+    "flang-19": "lld@19",
+    "flang-21": "lld@21",
     "flang-7": "lld",
     "flann": "flann",
     "flann-doc": "flann",

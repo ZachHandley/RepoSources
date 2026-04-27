@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "p",
@@ -380,11 +380,11 @@
     "python3-acme": "certbot",
     "python3-ansible-lint": "ansible-lint",
     "python3-antlr4-python3-runtime": "antlr",
-    "python3-assimp": "assimp",
+    "python3-assimp": "assimp@5",
     "python3-azure-cli-core": "azure-cli",
     "python3-azure-cli-telemetry": "azure-cli",
     "python3-azure-cli-testsdk": "azure-cli",
-    "python3-botan2": "botan",
+    "python3-botan2": "botan@2",
     "python3-btrfsutil": "btrfs-progs",
     "python3-build": "python-build",
     "python3-build+virtualenv": "python-build",

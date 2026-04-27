@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "d",
@@ -41,10 +41,10 @@
     "davix": "davix",
     "davmail": "davmail",
     "db": "berkeley-db",
-    "db4": "berkeley-db",
-    "db48": "berkeley-db",
-    "db5": "berkeley-db",
-    "db53": "berkeley-db",
+    "db4": "berkeley-db@4",
+    "db48": "berkeley-db@4",
+    "db5": "berkeley-db@5",
+    "db53": "berkeley-db@5",
     "db6": "berkeley-db",
     "db60": "berkeley-db",
     "db62": "berkeley-db",

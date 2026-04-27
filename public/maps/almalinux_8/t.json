@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "almalinux_8",
     "shard": "t",
@@ -23,7 +23,7 @@
     "tmpwatch": "tmpwatch",
     "tmux": "tmux",
     "tokyocabinet": "tokyo-cabinet",
-    "tomcat": "tomcat",
+    "tomcat": "tomcat@9",
     "tree": "tree",
     "twolame": "two-lame",
     "tzdata": "tzdb"

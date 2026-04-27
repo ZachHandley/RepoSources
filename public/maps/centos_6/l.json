@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "centos_6",
     "shard": "l",
@@ -119,10 +119,10 @@
     "libselinux": "libselinux",
     "libsepol": "libsepol",
     "libshout": "libshout",
-    "libsigc++20": "libsigc++",
+    "libsigc++20": "libsigc++@2",
     "libsmi": "libsmi",
     "libsndfile": "libsndfile",
-    "libsoup": "libsoup",
+    "libsoup": "libsoup@2",
     "libspectre": "libspectre",
     "libspiro": "libspiro",
     "libssh2": "libssh2",

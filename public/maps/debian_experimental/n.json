@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "n",
@@ -81,8 +81,8 @@
     "nic-wireless-modules-7.0-riscv64-di": "linux-headers@4.4",
     "nlohmann-json3": "nlohmann-json",
     "nlohmann-json3-dev": "nlohmann-json",
-    "nodejs": "node",
-    "nodejs-doc": "node",
+    "nodejs": "node@24",
+    "nodejs-doc": "node@24",
     "nscd": "glibc",
     "numpy": "numpy",
     "nzbget": "nzbget"

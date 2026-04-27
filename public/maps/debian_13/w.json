@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_13",
     "shard": "w",
@@ -61,7 +61,7 @@
     "wget": "wget",
     "wget-udeb": "wget",
     "wget2": "wget2",
-    "wget2-dev": "wget",
+    "wget2-dev": "wget2",
     "when": "when",
     "whiptail": "newt",
     "whois": "whois",

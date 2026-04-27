@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openeuler_24_09",
     "shard": "v",
     "total_mappings": 61
   },
   "mappings": {
-    "v8-devel": "node",
+    "v8-devel": "node@20",
     "vala": "vala",
     "vala-debuginfo": "vala",
     "vala-debugsource": "vala",

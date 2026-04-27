@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "f",
@@ -26,7 +26,7 @@
     "fetchmail": "fetchmail",
     "ffcall": "libffcall",
     "ffmpeg": "ffmpeg",
-    "ffmpeg-4": "ffmpeg",
+    "ffmpeg-4": "ffmpeg@4",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "ffms2": "ffms2",
     "fftw3": "fftw",
@@ -88,7 +88,7 @@
     "ftgl": "ftgl",
     "ftxui": "ftxui",
     "fuc": "fuc",
-    "fuse": "libfuse",
+    "fuse": "libfuse@2",
     "fuse-overlayfs": "fuse-overlayfs",
     "fuse3": "libfuse",
     "fwknop": "fwknop",

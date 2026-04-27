@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "g",
@@ -254,7 +254,7 @@
     "graphene": "graphene",
     "graphics/DevIL": "devil",
     "graphics/GraphicsMagick": "graphicsmagick",
-    "graphics/ImageMagick": "imagemagick",
+    "graphics/ImageMagick": "imagemagick@6",
     "graphics/aalib": "aalib",
     "graphics/alembic": "alembic",
     "graphics/ansilove": "ansilove",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "tur",
     "shard": "q",
@@ -8,6 +8,6 @@
   },
   "mappings": {
     "qbe": "qbe",
-    "qt5-qmake": "qt"
+    "qt5-qmake": "qt@5"
   }
 }

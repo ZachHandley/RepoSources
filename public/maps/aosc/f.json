@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "f",
@@ -30,8 +30,8 @@
     "fennel-ls": "fennel-ls",
     "ffcall": "libffcall",
     "fff": "fff",
-    "ffmpeg": "ffmpeg",
-    "ffmpeg+32": "ffmpeg",
+    "ffmpeg": "ffmpeg@7",
+    "ffmpeg+32": "ffmpeg@7",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "ffms2": "ffms2",
     "fftw": "fftw",
@@ -87,7 +87,7 @@
     "fricas": "fricas",
     "fstrm": "fstrm",
     "ftgl": "ftgl",
-    "fuse": "libfuse",
+    "fuse": "libfuse@2",
     "fuse-common": "libfuse",
     "fuse-overlayfs": "fuse-overlayfs",
     "fvm": "fvm",

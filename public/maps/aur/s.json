@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "s",
@@ -155,7 +155,7 @@
     "sfk": "sfk",
     "sfk-bin": "sfk",
     "sfml-git": "sfml",
-    "sfml2": "sfml",
+    "sfml2": "sfml@2",
     "sfst": "sfst",
     "sftpgo": "sftpgo",
     "sftpgo-bin": "sftpgo",
@@ -550,7 +550,7 @@
     "swag": "swag",
     "swag-bin": "swag",
     "swagger-codegen": "swagger-codegen",
-    "swagger-codegen-git": "swagger-codegen",
+    "swagger-codegen-git": "swagger-codegen@2",
     "swc-js-bin": "swc",
     "swfmill": "swfmill",
     "swfmill-git": "swfmill",

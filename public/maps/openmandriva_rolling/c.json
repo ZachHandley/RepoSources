@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "c",
@@ -117,10 +117,10 @@
     "clamz": "clamz",
     "clamz-debuginfo": "clamz",
     "clamz-debugsource": "clamz",
-    "clang": "lld",
-    "clang-analyzer": "lld",
-    "clang-doc": "lld",
-    "clang-tools": "lld",
+    "clang": "llvm@21",
+    "clang-analyzer": "lld@21",
+    "clang-doc": "lld@21",
+    "clang-tools": "lld@21",
     "classads": "classads",
     "classads-debuginfo": "classads",
     "classads-debugsource": "classads",

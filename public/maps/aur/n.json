@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "n",
@@ -169,10 +169,10 @@
     "no-more-secrets": "no-more-secrets",
     "no-more-secrets-git": "no-more-secrets",
     "nodejs": "node",
-    "nodejs-git": "node",
+    "nodejs-git": "node@22",
     "nodejs-gitter-cli": "gitter-cli",
     "nodejs-jsonlint": "jsonlint",
-    "nodejs-lts-hydrogen": "node",
+    "nodejs-lts-hydrogen": "node@18",
     "nodejs-n": "n",
     "nodejs-svgo-git": "svgo",
     "nodejs-webpack": "webpack",

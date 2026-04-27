@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "m",
@@ -434,7 +434,7 @@
     "media-video/dvdauthor": "dvdauthor",
     "media-video/dvdbackup": "dvdbackup",
     "media-video/ffmpeg": "ffmpeg",
-    "media-video/ffmpeg-compat": "ffmpeg",
+    "media-video/ffmpeg-compat": "ffmpeg@7",
     "media-video/ffmpegthumbnailer": "ffmpegthumbnailer",
     "media-video/flvstreamer": "flvstreamer",
     "media-video/gpac": "gpac",

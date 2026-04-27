@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aix_osp",
     "shard": "d",
@@ -9,7 +9,7 @@
   "mappings": {
     "dar": "dar",
     "datamash": "datamash",
-    "db4": "berkeley-db",
+    "db4": "berkeley-db@4",
     "dbus": "dbus",
     "ddd": "ddd",
     "default-jdk": "openjdk",

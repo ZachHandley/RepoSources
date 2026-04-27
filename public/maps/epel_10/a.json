@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "a",
@@ -96,10 +96,10 @@
     "arm-none-eabi-binutils-cs": "binutils",
     "arm-none-eabi-binutils-cs-debuginfo": "binutils",
     "arm-none-eabi-binutils-cs-debugsource": "binutils",
-    "arm-none-eabi-gcc-cs": "gcc",
-    "arm-none-eabi-gcc-cs-c++": "gcc",
-    "arm-none-eabi-gcc-cs-debuginfo": "gcc",
-    "arm-none-eabi-gcc-cs-debugsource": "gcc",
+    "arm-none-eabi-gcc-cs": "gcc@14",
+    "arm-none-eabi-gcc-cs-c++": "gcc@14",
+    "arm-none-eabi-gcc-cs-debuginfo": "gcc@14",
+    "arm-none-eabi-gcc-cs-debugsource": "gcc@14",
     "armadillo": "armadillo",
     "armadillo-debuginfo": "armadillo",
     "armadillo-debugsource": "armadillo",

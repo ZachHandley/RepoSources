@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "t",
@@ -64,7 +64,7 @@
     "tinyxml2": "tinyxml2",
     "tinyxml2-debuginfo": "tinyxml",
     "tinyxml2-debugsource": "tinyxml",
-    "tinyxml2-devel": "tinyxml",
+    "tinyxml2-devel": "tinyxml2",
     "tio": "tio",
     "tio-debuginfo": "tio",
     "tio-debugsource": "tio",

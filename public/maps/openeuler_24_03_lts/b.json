@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openeuler_24_03_lts",
     "shard": "b",
@@ -27,8 +27,8 @@
     "bam-debuginfo": "bam",
     "bam-debugsource": "bam",
     "bash": "bash",
-    "bash-completion": "bash-completion",
-    "bash-completion-help": "bash-completion",
+    "bash-completion": "bash-completion@2",
+    "bash-completion-help": "bash-completion@2",
     "bash-debuginfo": "bash",
     "bash-debugsource": "bash",
     "bash-devel": "bash",

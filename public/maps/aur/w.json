@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "w",
-    "total_mappings": 188
+    "total_mappings": 189
   },
   "mappings": {
     "wabt-git": "wabt",
@@ -65,6 +65,7 @@
     "webify": "webify",
     "webkit2gtk": "webkitgtk",
     "webkit2gtk-4.1-imgpaste": "webkitgtk",
+    "webkit2gtk-bin": "webkitgtk",
     "webkit2gtk-docs": "webkitgtk",
     "webkit2gtk-imgpaste": "webkitgtk",
     "webkitgtk": "webkitgtk",

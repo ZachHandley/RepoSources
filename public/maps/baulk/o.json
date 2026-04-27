@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "baulk",
     "shard": "o",
@@ -8,7 +8,7 @@
   },
   "mappings": {
     "openjdk": "openjdk",
-    "openjdk8": "openjdk",
+    "openjdk8": "openjdk@8",
     "openssl-dev": "openssl",
     "ov": "ov"
   }

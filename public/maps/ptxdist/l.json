@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ptxdist",
     "shard": "l",
@@ -17,7 +17,7 @@
     "libassuan": "libassuan",
     "libatomic_ops": "libatomic_ops",
     "libbsd": "libbsd",
-    "libbson": "mongo-c-driver",
+    "libbson": "mongo-c-driver@1",
     "libcaca": "libcaca",
     "libcap": "libcap",
     "libcap-ng": "libcap-ng",
@@ -136,7 +136,7 @@
     "lighttpd": "lighttpd",
     "links": "links",
     "lldpd": "lldpd",
-    "llvm": "llvm",
+    "llvm": "lld@21",
     "lm_sensors": "lm-sensors",
     "log4cplus": "log4cplus",
     "logrotate": "logrotate",

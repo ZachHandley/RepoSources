@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "t",
@@ -11,7 +11,7 @@
     "tailscale": "tailscale",
     "tar": "gnu-tar",
     "taskset": "gnu-getopt",
-    "taskwarrior": "task",
+    "taskwarrior": "task@2",
     "tc-bpf": "iproute2",
     "tc-full": "iproute2",
     "tc-tiny": "iproute2",

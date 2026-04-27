@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "n",
@@ -92,9 +92,9 @@
     "nnn": "nnn",
     "nodejs": "node",
     "nodejs-bower": "bower",
-    "nodejs-lts-iron": "node",
-    "nodejs-lts-jod": "node",
-    "nodejs-lts-krypton": "node",
+    "nodejs-lts-iron": "node@20",
+    "nodejs-lts-jod": "node@22",
+    "nodejs-lts-krypton": "node@24",
     "notcurses": "notcurses",
     "notmuch": "notmuch",
     "notmuch-mutt": "notmuch",

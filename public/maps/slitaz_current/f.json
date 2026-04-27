@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "slitaz_current",
     "shard": "f",
@@ -12,11 +12,11 @@
     "faad2": "faad2",
     "faad2-dev": "faad2",
     "fail2ban": "fail2ban",
-    "ffmpeg": "ffmpeg",
+    "ffmpeg": "ffmpeg@4",
     "ffmpeg-compat": "ffmpeg",
     "ffmpeg-compat-dev": "ffmpeg",
-    "ffmpeg-dev": "ffmpeg",
-    "ffplay": "ffmpeg",
+    "ffmpeg-dev": "ffmpeg@4",
+    "ffplay": "ffmpeg@4",
     "fftw": "fftw",
     "fftw-dev": "fftw",
     "file": "file-formula",
@@ -39,7 +39,7 @@
     "fribidi-dev": "fribidi",
     "fuse": "libfuse",
     "fuse-dev": "libfuse",
-    "fuse2": "libfuse",
-    "fuse2-dev": "libfuse"
+    "fuse2": "libfuse@2",
+    "fuse2-dev": "libfuse@2"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "e",
@@ -24,7 +24,7 @@
     "espeak-ng-compat-devel": "espeak",
     "espeak-ng-debuginfo": "espeak",
     "espeak-ng-debugsource": "espeak",
-    "espeak-ng-devel": "espeak",
+    "espeak-ng-devel": "espeak-ng",
     "espeak-ng-vim": "espeak"
   }
 }

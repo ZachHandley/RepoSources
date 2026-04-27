@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "almalinux_9",
     "shard": "f",
@@ -37,7 +37,7 @@
     "file": "file-formula",
     "file-debuginfo": "libmagic",
     "file-debugsource": "libmagic",
-    "file-devel": "libmagic",
+    "file-devel": "file-formula",
     "file-libs": "libmagic",
     "file-static": "libmagic",
     "findutils": "findutils",

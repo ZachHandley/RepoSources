@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "carbs",
     "shard": "l",
@@ -61,7 +61,7 @@
     "libpsl": "libpsl",
     "libressl": "libressl",
     "libsass": "libsass",
-    "libsoup": "libsoup",
+    "libsoup": "libsoup@2",
     "libsoup3": "libsoup",
     "libssl-dev": "openssl",
     "libssl3": "openssl",
@@ -87,7 +87,7 @@
     "libyaml": "libyaml",
     "links": "links",
     "linux-headers": "linux-headers@6.8",
-    "llvm": "llvm",
+    "llvm": "llvm@15",
     "lua": "lua",
     "lz4": "lz4",
     "lzip": "lzip",

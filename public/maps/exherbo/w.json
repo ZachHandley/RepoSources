@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "w",
@@ -19,7 +19,7 @@
     "www-servers/lighttpd": "lighttpd",
     "www-servers/nginx": "nginx",
     "www-servers/static-web-server": "static-web-server",
-    "www-servers/tomcat-bin": "tomcat",
+    "www-servers/tomcat-bin": "tomcat@9",
     "www-servers/tomcat-native": "tomcat-native",
     "www-servers/uwsgi": "uwsgi"
   }

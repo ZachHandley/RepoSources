@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "f",
@@ -22,8 +22,8 @@
     "feh": "feh",
     "ffcall": "libffcall",
     "ffmpeg": "ffmpeg",
-    "ffmpeg-redist-full": "ffmpeg",
-    "ffmpeg4.4": "ffmpeg",
+    "ffmpeg-redist-full": "ffmpeg@5",
+    "ffmpeg4.4": "ffmpeg@4",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "fftw": "fftw",
     "fftw-openmpi": "fftw",
@@ -68,7 +68,7 @@
     "ftgl": "ftgl",
     "fuse-common": "libfuse",
     "fuse-overlayfs": "fuse-overlayfs",
-    "fuse2": "libfuse",
+    "fuse2": "libfuse@2",
     "fuse2fs": "e2fsprogs",
     "fuse3": "libfuse",
     "fwknop": "fwknop",

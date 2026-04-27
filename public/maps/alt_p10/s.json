@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alt_p10",
     "shard": "s",
@@ -13,7 +13,7 @@
     "SDL2_mixer": "sdl2_mixer",
     "SDL2_net": "sdl2_net",
     "SDL2_ttf": "sdl2_ttf",
-    "SFML": "sfml",
+    "SFML": "sfml@2",
     "SPICE": "spice-server",
     "s3backer": "s3-backer",
     "s3backer-debuginfo": "s3-backer",

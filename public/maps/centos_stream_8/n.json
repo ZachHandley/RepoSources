@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "centos_stream_8",
     "shard": "n",
@@ -23,7 +23,7 @@
     "ninja-build": "ninja",
     "nkf": "nkf",
     "nmap": "nmap",
-    "nodejs": "node",
+    "nodejs": "node@20",
     "npth": "npth",
     "nspr": "nspr",
     "nss": "nss",

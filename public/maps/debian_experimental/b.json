@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "b",
@@ -107,7 +107,7 @@
     "binutils-x86-64-linux-gnu-dbg": "binutils",
     "binutils-x86-64-linux-gnux32": "binutils",
     "binutils-x86-64-linux-gnux32-dbg": "binutils",
-    "bolt-20": "lld",
+    "bolt-20": "llvm@20",
     "bpftool": "linux-headers@4.4",
     "btrfs-modules-7.0-alpha-generic-di": "linux-headers@4.4",
     "btrfs-modules-7.0-amd64-di": "linux-headers@4.4",

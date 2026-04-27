@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "m",
@@ -96,7 +96,7 @@
     "maxima-share": "maxima",
     "maxima-src": "maxima",
     "maxima-test": "maxima",
-    "mbedtls": "mbedtls",
+    "mbedtls": "mbedtls@3",
     "mbpoll": "mbpoll",
     "mbt": "mbt",
     "mbw": "mbw",
@@ -228,8 +228,8 @@
     "mkvtoolnix": "mkvtoolnix",
     "mkvtoolnix-gui": "mkvtoolnix",
     "mle": "mle",
-    "mlir-19-tools": "lld",
-    "mlir-21-tools": "lld",
+    "mlir-19-tools": "lld@19",
+    "mlir-21-tools": "lld@21",
     "mlt": "mlt",
     "mlton": "mlton",
     "mlton-basis": "mlton",

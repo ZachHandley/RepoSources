@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "t",
@@ -11,7 +11,7 @@
     "t1utils": "t1utils",
     "taglib": "taglib",
     "tar": "gnu-tar",
-    "tcltk": "tcl-tk",
+    "tcltk": "tcl-tk@8",
     "tcpdump": "tcpdump",
     "template-glib": "template-glib",
     "terminator": "terminator",

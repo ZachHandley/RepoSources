@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alt_p9",
     "shard": "m",
@@ -103,9 +103,9 @@
     "maxima-lang-pt-utf8": "maxima",
     "maxima-lang-pt_BR": "maxima",
     "maxima-lang-pt_BR-utf8": "maxima",
-    "mbedtls": "mbedtls",
-    "mbedtls-utils": "mbedtls",
-    "mbedtls-utils-debuginfo": "mbedtls",
+    "mbedtls": "mbedtls@2",
+    "mbedtls-utils": "mbedtls@2",
+    "mbedtls-utils-debuginfo": "mbedtls@2",
     "mbelib": "mbelib",
     "mbelib-debuginfo": "mbelib",
     "mbelib-devel": "mbelib",

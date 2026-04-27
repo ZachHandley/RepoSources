@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pacstall",
     "shard": "f",
@@ -14,7 +14,7 @@
     "ferium-bin": "ferium",
     "feroxbuster-bin": "feroxbuster",
     "ffmpeg": "ffmpeg",
-    "ffmpeg4.4": "ffmpeg",
+    "ffmpeg4.4": "ffmpeg@4",
     "ffsend-bin": "ffsend",
     "flyctl-bin": "flyctl",
     "fnlfmt": "fnlfmt",

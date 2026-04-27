@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "f",
-    "total_mappings": 49
+    "total_mappings": 50
   },
   "mappings": {
     "f2fs-modules-7.0-alpha-generic-di": "linux-headers@4.4",
@@ -52,7 +52,8 @@
     "firewire-core-modules-7.0-powerpc64-di": "linux-headers@4.4",
     "firewire-core-modules-7.0-powerpc64le-di": "linux-headers@4.4",
     "firewire-core-modules-7.0-sh7751r-di": "linux-headers@4.4",
-    "flang-20": "lld",
+    "flang-20": "lld@20",
+    "flint": "flint",
     "fmtlib": "fmt",
     "fonts-povray": "povray",
     "freebayes": "freebayes"

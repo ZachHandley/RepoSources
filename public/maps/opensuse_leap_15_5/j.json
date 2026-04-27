@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "j",
@@ -10,8 +10,8 @@
     "jack": "jack",
     "jasper": "jasper",
     "java-10-openjdk": "openjdk",
-    "java-11-openjdk": "openjdk",
-    "java-17-openjdk": "openjdk",
+    "java-11-openjdk": "openjdk@11",
+    "java-17-openjdk": "openjdk@17",
     "java-1_8_0-openjdk": "openjdk",
     "java-9-openjdk": "openjdk",
     "javacc": "javacc",

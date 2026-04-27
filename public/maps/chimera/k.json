@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "k",
@@ -60,7 +60,7 @@
     "knot-progs": "knot",
     "knot-progs-man": "knot",
     "ktexttemplate": "ktexttemplate",
-    "ktexttemplate-devel": "grantlee",
+    "ktexttemplate-devel": "ktexttemplate",
     "kyotocabinet": "kyoto-cabinet",
     "kyotocabinet-devel": "kyoto-cabinet",
     "kyotocabinet-devel-static": "kyoto-cabinet",

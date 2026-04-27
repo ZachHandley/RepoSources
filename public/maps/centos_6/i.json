@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "centos_6",
     "shard": "i",
     "total_mappings": 14
   },
   "mappings": {
-    "ImageMagick": "imagemagick",
+    "ImageMagick": "imagemagick@6",
     "i2c-tools": "i2c-tools",
     "icon-naming-utils": "icon-naming-utils",
     "icu": "icu4c@74",

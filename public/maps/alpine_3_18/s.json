@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alpine_3_18",
     "shard": "s",
@@ -215,10 +215,10 @@
     "sfcgal": "sfcgal",
     "sfcgal-dev": "sfcgal",
     "sfdisk": "gnu-getopt",
-    "sfml": "sfml",
-    "sfml-dev": "sfml",
-    "sfml-doc": "sfml",
-    "sfml-static": "sfml",
+    "sfml": "sfml@2",
+    "sfml-dev": "sfml@2",
+    "sfml-doc": "sfml@2",
+    "sfml-static": "sfml@2",
     "sgdisk": "gptfdisk",
     "sget": "cosign",
     "sget-bash-completion": "cosign",

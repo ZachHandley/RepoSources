@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_pentoo",
     "shard": "s",
     "total_mappings": 1
   },
   "mappings": {
-    "sys-devel/gcc-arm-none-eabi": "gcc"
+    "sys-devel/gcc-arm-none-eabi": "gcc@14"
   }
 }

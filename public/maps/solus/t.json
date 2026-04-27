@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "t",
-    "total_mappings": 123
+    "total_mappings": 124
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -19,8 +19,8 @@
     "talloc-devel": "talloc",
     "tar": "gnu-tar",
     "tar-dbginfo": "gnu-tar",
-    "taskwarrior": "task",
-    "taskwarrior-dbginfo": "task",
+    "taskwarrior": "task@2",
+    "taskwarrior-dbginfo": "task@2",
     "tcpdump": "tcpdump",
     "tcpdump-dbginfo": "tcpdump",
     "tcsh": "tcsh",
@@ -96,7 +96,7 @@
     "tinyxml-devel": "tinyxml",
     "tinyxml2": "tinyxml2",
     "tinyxml2-dbginfo": "tinyxml",
-    "tinyxml2-devel": "tinyxml",
+    "tinyxml2-devel": "tinyxml2",
     "tllist": "tllist",
     "tmate": "tmate",
     "tmate-dbginfo": "tmate",
@@ -119,6 +119,7 @@
     "tree": "tree",
     "tree-dbginfo": "tree",
     "tree-sitter": "tree-sitter",
+    "tree-sitter-cli": "tree-sitter",
     "tree-sitter-dbginfo": "tree-sitter",
     "tree-sitter-devel": "tree-sitter",
     "ttyplot": "ttyplot",

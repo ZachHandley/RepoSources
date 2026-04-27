@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "e",
@@ -32,8 +32,8 @@
     "eigen": "eigen",
     "eigen-devel": "eigen",
     "eigen2": "eigen",
-    "eigen3": "eigen",
-    "eigen3-devel": "eigen",
+    "eigen3": "eigen@3",
+    "eigen3-devel": "eigen@3",
     "elfio": "elfio",
     "elfutils": "elfutils",
     "emacs": "emacs",

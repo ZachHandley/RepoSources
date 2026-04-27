@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "t",
@@ -195,8 +195,8 @@
     "tokei": "tokei",
     "tokyocabinet": "tokyo-cabinet",
     "tomcat-native": "tomcat-native",
-    "tomcat10": "tomcat",
-    "tomcat9": "tomcat",
+    "tomcat10": "tomcat@10",
+    "tomcat9": "tomcat@9",
     "toml11": "toml11",
     "toml2json": "toml2json",
     "tomlplusplus": "tomlplusplus",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "i",
@@ -33,7 +33,7 @@
     "imlib2": "imlib2",
     "include-what-you-use": "include-what-you-use",
     "indent": "gnu-indent",
-    "influxdb": "influxdb",
+    "influxdb": "influxdb@1",
     "inih": "inih",
     "iniparser": "iniparser",
     "innoextract": "innoextract",

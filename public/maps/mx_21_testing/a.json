@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mx_21_testing",
     "shard": "a",
@@ -13,9 +13,9 @@
     "aom": "aom",
     "aom-tools": "aom",
     "aria2": "aria2",
-    "assimp": "assimp",
-    "assimp-testmodels": "assimp",
-    "assimp-utils": "assimp",
+    "assimp": "assimp@5",
+    "assimp-testmodels": "assimp@5",
+    "assimp-utils": "assimp@5",
     "assistant-qt6": "qt",
     "audacious": "audacious",
     "audacious-dev": "audacious",

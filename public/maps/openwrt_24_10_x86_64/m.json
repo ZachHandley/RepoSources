@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "m",
@@ -40,7 +40,7 @@
     "mariadb-server-plugin-simple-password-check": "mariadb",
     "mariadb-server-plugin-sql-errlog": "mariadb",
     "mariadb-server-plugin-wsrep-info": "mariadb",
-    "mbedtls-util": "mbedtls",
+    "mbedtls-util": "mbedtls@3",
     "mc": "midnight-commander",
     "mc-skins": "midnight-commander",
     "mcookie": "gnu-getopt",

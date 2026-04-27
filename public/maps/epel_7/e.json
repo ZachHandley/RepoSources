@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "epel_7",
     "shard": "e",
@@ -11,7 +11,7 @@
     "easytag": "easy-tag",
     "eccodes": "eccodes",
     "efl": "efl",
-    "eigen3": "eigen",
+    "eigen3": "eigen@3",
     "elixir": "elixir",
     "enca": "enca",
     "endlessh": "endlessh",

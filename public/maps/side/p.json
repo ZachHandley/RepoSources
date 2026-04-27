@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "p",
@@ -29,13 +29,13 @@
     "procps": "procps",
     "pulseaudio": "pulseaudio",
     "pyqt-builder": "pyqt-builder",
-    "python": "python@3.14",
+    "python": "python@3.9",
     "python-cairo": "py3cairo",
     "python-pygobject2": "pygobject3",
     "python-setuptools": "python-setuptools",
     "python-sip4": "sip",
     "python-six": "six",
-    "python3": "python",
+    "python3": "python@3.14",
     "python3-brotli": "brotli",
     "python3-build": "python-build",
     "python3-cairo": "py3cairo",

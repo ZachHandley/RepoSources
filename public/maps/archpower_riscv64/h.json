@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shard": "h",
@@ -21,9 +21,9 @@
     "highway": "highway",
     "hiredis": "hiredis",
     "hppa-unknown-linux-gnu-binutils": "binutils",
-    "hppa-unknown-linux-gnu-gcc": "gcc",
-    "hppa-unknown-linux-gnu-gcc-stage1": "gcc",
-    "hppa-unknown-linux-gnu-gcc-stage2": "gcc",
+    "hppa-unknown-linux-gnu-gcc": "gcc@14",
+    "hppa-unknown-linux-gnu-gcc-stage1": "gcc@14",
+    "hppa-unknown-linux-gnu-gcc-stage2": "gcc@14",
     "hspell": "hspell",
     "htop": "htop",
     "hunspell": "hunspell",

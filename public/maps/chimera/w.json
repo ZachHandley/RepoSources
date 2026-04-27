@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "w",
@@ -62,7 +62,7 @@
     "wgcf-fishcomp": "wgcf",
     "wgcf-zshcomp": "wgcf",
     "wget2": "wget2",
-    "wget2-devel": "wget",
+    "wget2-devel": "wget2",
     "wget2-devel-static": "wget",
     "wget2-libs": "wget",
     "wget2-locale": "wget",

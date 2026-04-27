@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "d",
@@ -10,8 +10,8 @@
     "dar": "dar",
     "dash": "dash-shell",
     "dav1d": "dav1d",
-    "db": "berkeley-db",
-    "db-32": "berkeley-db",
+    "db": "berkeley-db@5",
+    "db-32": "berkeley-db@5",
     "dbus": "dbus",
     "dbus-32": "dbus",
     "dbus-glib": "dbus-glib",

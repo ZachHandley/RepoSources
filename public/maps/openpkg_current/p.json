@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "p",
@@ -71,7 +71,7 @@
     "proguard": "proguard",
     "proj": "proj",
     "prometheus": "prometheus",
-    "protobuf": "protobuf",
+    "protobuf": "protobuf@3",
     "protobuf-c": "protobuf-c",
     "protobuf-go": "protoc-gen-go",
     "proxytunnel": "proxytunnel",

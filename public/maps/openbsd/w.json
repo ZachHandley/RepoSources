@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "w",
@@ -12,7 +12,7 @@
     "waffle": "waffle",
     "walk": "walk",
     "wasi-libc": "wasi-libc",
-    "wasi-libcxx": "lld",
+    "wasi-libcxx": "llvm@19",
     "wavpack": "wavpack",
     "wayland": "wayland",
     "wayland-protocols": "wayland-protocols",
@@ -127,9 +127,9 @@
     "www/surfraw": "surfraw",
     "www/tidy": "tidy-html5",
     "www/tinyproxy": "tinyproxy",
-    "www/tomcat/v10": "tomcat",
+    "www/tomcat/v10": "tomcat@10",
     "www/tomcat/v11": "tomcat",
-    "www/tomcat/v9": "tomcat",
+    "www/tomcat/v9": "tomcat@9",
     "www/ttyd": "ttyd",
     "www/ulfius": "ulfius",
     "www/uriparser": "uriparser",

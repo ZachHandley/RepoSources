@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_5_0",
     "shard": "b",
@@ -24,8 +24,8 @@
     "baobab-debuginfo": "baobab",
     "baobab-debugsource": "baobab",
     "bash": "bash",
-    "bash-completion": "bash-completion",
-    "bash-completion-devel": "bash-completion",
+    "bash-completion": "bash-completion@2",
+    "bash-completion-devel": "bash-completion@2",
     "bash-debuginfo": "bash",
     "bash-debugsource": "bash",
     "bash-doc": "bash",

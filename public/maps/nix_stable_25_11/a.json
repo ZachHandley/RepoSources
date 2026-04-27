@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "a",
@@ -154,7 +154,7 @@
     "apache-kafka": "kafka",
     "apache-orc": "orc-tools",
     "apache-storm": "storm",
-    "apache-tomcat": "tomcat",
+    "apache-tomcat": "tomcat@9",
     "apacheHttpd": "httpd",
     "apacheKafka": "kafka",
     "apacheKafka_3_9": "kafka",
@@ -320,7 +320,7 @@
     "aws-sso-cli": "aws-sso-cli",
     "aws-sso-util": "aws-sso-util",
     "aws-vault": "aws-vault",
-    "awscli": "awscli",
+    "awscli": "awscli@1",
     "awscli2": "awscli",
     "awsebcli": "aws-elasticbeanstalk",
     "awslogs": "awslogs",

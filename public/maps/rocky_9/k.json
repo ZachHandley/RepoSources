@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "k",
-    "total_mappings": 105
+    "total_mappings": 107
   },
   "mappings": {
     "kernel": "linux-headers@4.4",
@@ -104,6 +104,8 @@
     "kmod-devel": "kmod",
     "kmod-libs": "kmod",
     "krb5": "krb5",
+    "krb5-debuginfo": "krb5",
+    "krb5-debugsource": "krb5",
     "krb5-devel": "krb5",
     "krb5-libs": "krb5",
     "krb5-pkinit": "krb5",

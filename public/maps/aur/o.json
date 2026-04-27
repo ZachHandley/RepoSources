@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "o",
@@ -22,8 +22,8 @@
     "objfw": "objfw",
     "ocaml-compiler-libs-git": "ocaml",
     "ocaml-git": "ocaml",
-    "ocaml4": "ocaml",
-    "ocaml4-compiler-libs": "ocaml",
+    "ocaml4": "ocaml@4",
+    "ocaml4-compiler-libs": "ocaml@4",
     "ocaml4-findlib": "ocaml-findlib",
     "ocaml4-num": "ocaml-num",
     "occt-webgl-viewer": "opencascade",
@@ -211,7 +211,7 @@
     "openssl-1.1": "openssl@3",
     "openssl-dev": "openssl",
     "openssl-git": "openssl@3",
-    "openssl-static": "openssl@3",
+    "openssl-static": "openssl@4",
     "opentelemetry-cpp": "opentelemetry-cpp",
     "opentimestamps-client-git": "opentimestamps-client",
     "opentofu-bin": "opentofu",

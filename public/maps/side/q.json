@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "q",
@@ -10,10 +10,10 @@
     "qemu": "qemu",
     "qman": "qman",
     "qrencode": "qrencode",
-    "qt5-base": "qt",
-    "qt5-declarative": "qt",
-    "qt5-svg": "qt",
-    "qt5-tools": "qt",
+    "qt5-base": "qt@5",
+    "qt5-declarative": "qt@5",
+    "qt5-svg": "qt@5",
+    "qt5-tools": "qt@5",
     "qt6-5compat": "qt",
     "qt6-base": "qt",
     "qt6-declarative": "qt",

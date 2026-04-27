@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "s",
@@ -29,11 +29,11 @@
     "SDL3_ttf-devel": "sdl3_ttf",
     "SDL_gfx": "sdl_gfx",
     "SDL_gfx-devel": "sdl_gfx",
-    "SFML": "sfml",
-    "SFML-devel": "sfml",
+    "SFML": "sfml@2",
+    "SFML-devel": "sfml@2",
     "SPIRV-Headers": "spirv-headers",
-    "SPIRV-LLVM-Translator": "lld",
-    "SPIRV-LLVM-Translator-devel": "lld",
+    "SPIRV-LLVM-Translator": "lld@21",
+    "SPIRV-LLVM-Translator-devel": "lld@21",
     "SPIRV-LLVM-Translator19": "spirv-llvm-translator",
     "SPIRV-LLVM-Translator19-devel": "spirv-llvm-translator",
     "SPIRV-LLVM-Translator21": "spirv-llvm-translator",

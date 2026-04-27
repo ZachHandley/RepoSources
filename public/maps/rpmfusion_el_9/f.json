@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "rpmfusion_el_9",
     "shard": "f",
     "total_mappings": 5
   },
   "mappings": {
-    "ffmpeg": "ffmpeg",
-    "ffmpeg-debuginfo": "ffmpeg",
-    "ffmpeg-debugsource": "ffmpeg",
-    "ffmpeg-devel": "ffmpeg",
-    "ffmpeg-libs": "ffmpeg"
+    "ffmpeg": "ffmpeg@5",
+    "ffmpeg-debuginfo": "ffmpeg@5",
+    "ffmpeg-debugsource": "ffmpeg@5",
+    "ffmpeg-devel": "ffmpeg@5",
+    "ffmpeg-libs": "ffmpeg@5"
   }
 }

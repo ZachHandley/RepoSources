@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_5_0",
     "shard": "a",
@@ -304,9 +304,9 @@
     "aspell-debuginfo": "aspell",
     "aspell-debugsource": "aspell",
     "aspell-manual": "aspell",
-    "assimp": "assimp",
-    "assimp-debuginfo": "assimp",
-    "assimp-debugsource": "assimp",
+    "assimp": "assimp@5",
+    "assimp-debuginfo": "assimp@5",
+    "assimp-debugsource": "assimp@5",
     "astyle": "astyle",
     "astyle-debuginfo": "astyle",
     "astyle-debugsource": "astyle",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "x",
@@ -122,7 +122,7 @@
     "x3270": "x3270",
     "x86_64-binutils": "binutils",
     "x86_64-elf-binutils": "x86_64-elf-binutils",
-    "x86_64-elf-gcc": "x86_64-elf-gcc",
+    "x86_64-elf-gcc": "gcc@12",
     "x86_64-linux-binutils": "binutils",
     "x86_64-w64-mingw32-binutils": "binutils",
     "x86_64-w64-mingw32-crt": "mingw-w64",

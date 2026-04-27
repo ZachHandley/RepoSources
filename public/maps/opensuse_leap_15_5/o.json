@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "o",
@@ -14,7 +14,7 @@
     "OpenSubdiv": "opensubdiv",
     "oath-toolkit": "oath-toolkit",
     "obfs4": "obfs4proxy",
-    "ocaml": "ocaml",
+    "ocaml": "ocaml@4",
     "ocaml-camlp5": "camlp5",
     "ocaml-dune": "dune",
     "ocaml-findlib": "ocaml-findlib",

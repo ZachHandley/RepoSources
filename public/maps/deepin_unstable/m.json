@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "deepin_unstable",
     "shard": "m",
@@ -83,7 +83,7 @@
     "maxima-share": "maxima",
     "maxima-src": "maxima",
     "maxima-test": "maxima",
-    "mbedtls": "mbedtls",
+    "mbedtls": "mbedtls@2",
     "mbt": "mbt",
     "mbw": "mbw",
     "mc": "midnight-commander",
@@ -300,7 +300,7 @@
     "moc-ffmpeg-plugin": "moc",
     "modsecurity": "modsecurity",
     "modules": "modules",
-    "mongo-c-driver": "mongo-c-driver",
+    "mongo-c-driver": "mongo-c-driver@1",
     "mongo-cxx-driver-legacy": "mongo-cxx-driver",
     "mongodb-dev": "mongo-cxx-driver",
     "mongoose": "suite-sparse",

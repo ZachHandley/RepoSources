@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openeuler_24_09",
     "shard": "u",
@@ -80,7 +80,7 @@
     "util-linux": "util-linux",
     "util-linux-debuginfo": "gnu-getopt",
     "util-linux-debugsource": "gnu-getopt",
-    "util-linux-devel": "gnu-getopt",
+    "util-linux-devel": "util-linux",
     "util-linux-help": "gnu-getopt",
     "util-linux-user": "gnu-getopt",
     "uuidd": "gnu-getopt",

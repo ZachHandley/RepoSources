@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "apertis_v2023",
     "shard": "d",
@@ -10,10 +10,10 @@
     "daq": "daq",
     "dash": "dash-shell",
     "dav1d": "dav1d",
-    "db5.3": "berkeley-db",
-    "db5.3-doc": "berkeley-db",
-    "db5.3-sql-util": "berkeley-db",
-    "db5.3-util": "berkeley-db",
+    "db5.3": "berkeley-db@5",
+    "db5.3-doc": "berkeley-db@5",
+    "db5.3-sql-util": "berkeley-db@5",
+    "db5.3-util": "berkeley-db@5",
     "dbus": "dbus",
     "dbus-1-doc": "dbus",
     "dbus-glib": "dbus-glib",

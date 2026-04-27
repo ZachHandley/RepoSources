@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "i",
@@ -81,8 +81,8 @@
     "incus-tools-debuginfo": "incus",
     "indent": "gnu-indent",
     "indent-debuginfo": "gnu-indent",
-    "influxdb": "influxdb",
-    "influxdb-debuginfo": "influxdb",
+    "influxdb": "influxdb@1",
+    "influxdb-debuginfo": "influxdb@1",
     "info": "texinfo",
     "info-debuginfo": "texinfo",
     "info-install": "texinfo",

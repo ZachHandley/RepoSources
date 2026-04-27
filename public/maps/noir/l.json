@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "noir",
     "shard": "l",
@@ -61,8 +61,8 @@
     "libxkbfile": "libxkbfile",
     "libxshmfence": "libxshmfence",
     "linux-headers": "linux-headers@6.8",
-    "lld": "lld",
-    "llvm": "llvm",
+    "lld": "llvm@17",
+    "llvm": "llvm@17",
     "lua": "lua",
     "lvm2": "device-mapper"
   }

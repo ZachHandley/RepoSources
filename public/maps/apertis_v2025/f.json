@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "apertis_v2025",
     "shard": "f",
@@ -197,8 +197,8 @@
     "fish-common": "fish",
     "flac": "flac",
     "flake8": "flake8",
-    "flang-16": "lld",
-    "flang-19": "lld",
+    "flang-16": "llvm@16",
+    "flang-19": "lld@19",
     "flatbuffers": "flatbuffers",
     "flatbuffers-compiler": "flatbuffers",
     "flatbuffers-compiler-dev": "flatbuffers",
@@ -242,8 +242,8 @@
     "fribidi": "fribidi",
     "fstrm": "fstrm",
     "fstrm-bin": "fstrm",
-    "fuse": "libfuse",
-    "fuse-udeb": "libfuse",
+    "fuse": "libfuse@2",
+    "fuse-udeb": "libfuse@2",
     "fuse2fs": "e2fsprogs",
     "fuse3": "libfuse",
     "fuse3-udeb": "libfuse"

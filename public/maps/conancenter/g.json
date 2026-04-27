@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "g",
@@ -19,7 +19,7 @@
     "getdns": "getdns",
     "gettext": "gettext",
     "gflags": "gflags",
-    "gfortran": "gcc",
+    "gfortran": "gcc@10",
     "giflib": "giflib",
     "glaze": "glaze",
     "glbinding": "glbinding",

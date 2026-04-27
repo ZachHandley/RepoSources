@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "t",
@@ -37,7 +37,7 @@
     "Tilt": "tilt",
     "Tiny C Compiler": "tcc",
     "Tokei": "tokei",
-    "Tomcat": "tomcat",
+    "Tomcat": "tomcat@9",
     "Topgrade (Portable)": "topgrade",
     "Tor": "tor",
     "Toxiproxy": "toxiproxy",
@@ -89,7 +89,7 @@
     "tinc": "tinc",
     "tinycc": "tcc",
     "tokei": "tokei",
-    "tomcat10": "tomcat",
+    "tomcat10": "tomcat@10",
     "topgrade": "topgrade",
     "tor": "tor",
     "toxiproxy": "toxiproxy",

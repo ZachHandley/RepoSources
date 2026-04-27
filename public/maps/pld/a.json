@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "a",
@@ -72,7 +72,7 @@
     "asn1c": "asn1c",
     "aspectj": "aspectj",
     "aspell": "aspell",
-    "assimp": "assimp",
+    "assimp": "assimp@5",
     "astyle": "astyle",
     "asymptote": "asymptote",
     "at-spi2-core": "at-spi2-core",
@@ -109,7 +109,7 @@
     "aws-c-sdkutils": "aws-c-sdkutils",
     "aws-checksums": "aws-checksums",
     "aws-crt-cpp": "aws-crt-cpp",
-    "awscli": "awscli",
+    "awscli": "awscli@1",
     "axel": "axel",
     "ayatana-ido": "ayatana-ido"
   }

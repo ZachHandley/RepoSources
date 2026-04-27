@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "a",
@@ -26,12 +26,12 @@
     "Apache Batik SVG Toolkit": "batik",
     "Apache Camel-K CLI": "kamel",
     "Apache Chainsaw": "chainsaw",
-    "Apache Flink": "apache-flink",
+    "Apache Flink": "apache-flink@1",
     "Apache HTTP Server Project": "httpd",
     "Apache JMeter": "jmeter",
     "Apache Solr": "solr",
-    "Apache Tomcat": "tomcat",
-    "Apache Tomcat 10": "tomcat",
+    "Apache Tomcat": "tomcat@9",
+    "Apache Tomcat 10": "tomcat@10",
     "Apache\u2122 FOP (Install)": "fop",
     "Apktool": "apktool",
     "Appium": "appium",

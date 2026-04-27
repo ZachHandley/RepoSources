@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openeuler_20_03_lts_sp3",
     "shard": "m",
@@ -27,7 +27,7 @@
     "mikmod": "mikmod",
     "minicom": "minicom",
     "mksh": "mksh",
-    "mongo-c-driver": "mongo-c-driver",
+    "mongo-c-driver": "mongo-c-driver@1",
     "motif": "openmotif",
     "mozjs78": "spidermonkey",
     "mpfr": "mpfr",

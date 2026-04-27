@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "s",
@@ -20,7 +20,7 @@
     "SDL3_mixer": "sdl3_mixer",
     "SDL3_ttf": "sdl3_ttf",
     "SFML": "sfml",
-    "SFML2.6": "sfml",
+    "SFML2.6": "sfml@2",
     "SPICE": "spice-server",
     "Singular": "singular",
     "Singular-debuginfo": "singular",

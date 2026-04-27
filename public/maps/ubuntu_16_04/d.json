@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
     "shard": "d",
@@ -28,10 +28,10 @@
     "davix-dbg": "davix",
     "davix-dev": "davix",
     "davix-doc": "davix",
-    "db5.3": "berkeley-db",
-    "db5.3-doc": "berkeley-db",
-    "db5.3-sql-util": "berkeley-db",
-    "db5.3-util": "berkeley-db",
+    "db5.3": "berkeley-db@5",
+    "db5.3-doc": "berkeley-db@5",
+    "db5.3-sql-util": "berkeley-db@5",
+    "db5.3-util": "berkeley-db@5",
     "dbacl": "dbacl",
     "dbndns": "djbdns",
     "dbus": "dbus",

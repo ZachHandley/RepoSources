@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "e",
@@ -24,7 +24,7 @@
     "editor/vim": "vim",
     "editor/vim/vim-core": "vim",
     "efl": "efl",
-    "eigen": "eigen",
+    "eigen": "eigen@3",
     "ejabberd": "ejabberd",
     "elixir": "elixir",
     "emacs": "emacs",

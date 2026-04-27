@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "mx_23_testing",
     "shard": "f",
@@ -9,8 +9,8 @@
   "mappings": {
     "fastfetch": "fastfetch",
     "feh": "feh",
-    "ffmpeg": "ffmpeg",
-    "ffmpeg-doc": "ffmpeg",
+    "ffmpeg": "ffmpeg@6",
+    "ffmpeg-doc": "ffmpeg@6",
     "finch": "pidgin",
     "finch-dev": "pidgin",
     "fp-compiler": "fpc",

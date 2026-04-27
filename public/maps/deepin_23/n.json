@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "deepin_23",
     "shard": "n",
@@ -219,8 +219,8 @@
     "node-webpack": "webpack",
     "node-yarnpkg": "yarn",
     "node-zx": "zx",
-    "nodejs": "node",
-    "nodejs-doc": "node",
+    "nodejs": "node@18",
+    "nodejs-doc": "node@18",
     "norm": "norm",
     "nox": "nox",
     "npth": "npth",

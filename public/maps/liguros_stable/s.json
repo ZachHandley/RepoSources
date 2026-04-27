@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "s",
@@ -292,7 +292,7 @@
     "sys-apps/pciutils": "pciutils",
     "sys-apps/pcsc-lite": "pcsc-lite",
     "sys-apps/pick": "pick",
-    "sys-apps/pnpm-bin": "pnpm",
+    "sys-apps/pnpm-bin": "pnpm@9",
     "sys-apps/progress": "progress",
     "sys-apps/pv": "pv",
     "sys-apps/rename": "rename",
@@ -367,7 +367,7 @@
     "sys-devel/crosstool-ng": "crosstool-ng",
     "sys-devel/distcc": "distcc",
     "sys-devel/flex": "flex",
-    "sys-devel/gcc": "gcc",
+    "sys-devel/gcc": "gcc@9",
     "sys-devel/gettext": "gettext",
     "sys-devel/icecream": "icecream",
     "sys-devel/m4": "m4",

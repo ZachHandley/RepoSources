@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "alpine_3_23",
     "shard": "w",
@@ -23,7 +23,7 @@
     "wait4x-zsh-completion": "wait4x",
     "wamrc": "wasm-micro-runtime",
     "wasi-libc": "wasi-libc",
-    "wasi-libcxx": "lld",
+    "wasi-libcxx": "llvm@21",
     "wasm-bindgen": "wasm-bindgen",
     "wasm-micro-runtime": "wasm-micro-runtime",
     "wasm-pack": "wasm-pack",
@@ -78,7 +78,7 @@
     "wget-doc": "wget",
     "wget2": "wget2",
     "wget2-dbg": "wget",
-    "wget2-dev": "wget",
+    "wget2-dev": "wget2",
     "wget2-doc": "wget",
     "wget2-libs": "wget",
     "wgetpaste": "wgetpaste",

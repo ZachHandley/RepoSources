@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "n",
@@ -314,7 +314,7 @@
     "nmh": "nmh",
     "nng": "nng",
     "nnn": "nnn",
-    "node": "node",
+    "node": "node@22",
     "node_exporter": "node_exporter",
     "nodejs": "node",
     "normalize": "normalize",

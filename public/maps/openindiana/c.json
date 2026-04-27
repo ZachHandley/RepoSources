@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "c",
@@ -27,7 +27,7 @@
     "citus": "citus",
     "ck": "concurrencykit",
     "clamav": "clamav",
-    "clang": "lld",
+    "clang": "lld@21",
     "claws-mail": "claws-mail",
     "clisp": "clisp",
     "cmake": "cmake",

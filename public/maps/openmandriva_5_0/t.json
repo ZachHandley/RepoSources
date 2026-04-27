@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "openmandriva_5_0",
     "shard": "t",
@@ -26,9 +26,9 @@
     "talloc-debuginfo": "talloc",
     "talloc-debugsource": "talloc",
     "tar": "libarchive",
-    "task": "task",
-    "task-debuginfo": "task",
-    "task-debugsource": "task",
+    "task": "task@2",
+    "task-debuginfo": "task@2",
+    "task-debugsource": "task@2",
     "task-git": "git",
     "tbb": "tbb",
     "tbb-debuginfo": "tbb",

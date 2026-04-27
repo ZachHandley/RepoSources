@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "o",
@@ -20,7 +20,7 @@
     "openjpeg2": "openjpeg",
     "openldap": "openldap",
     "openldap-32": "openldap",
-    "openmp": "lld",
+    "openmp": "llvm@20",
     "openmpi": "open-mpi",
     "openssh": "openssh",
     "openssl": "openssl@3",

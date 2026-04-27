@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "f",
@@ -12,7 +12,7 @@
     "fast_float": "fast_float",
     "feh": "feh",
     "ffmpeg": "ffmpeg",
-    "ffmpeg7": "ffmpeg",
+    "ffmpeg7": "ffmpeg@7",
     "fftw": "fftw",
     "fheroes2": "fheroes2",
     "file": "file-formula",
@@ -41,7 +41,7 @@
     "frozen": "frozen",
     "fswatch": "fswatch",
     "ftgl": "ftgl",
-    "fuse2": "libfuse",
+    "fuse2": "libfuse@2",
     "fuse3": "libfuse"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "s",
@@ -65,7 +65,7 @@
     "sersniff": "sersniff",
     "setconf": "setconf",
     "sfcgal": "sfcgal",
-    "sfml2": "sfml",
+    "sfml2": "sfml@2",
     "sfsexp": "sfsexp",
     "sha1collisiondetection": "sha1dc",
     "sha3sum": "sha3sum",

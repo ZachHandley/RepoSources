@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "crux_38",
     "shard": "f",
@@ -45,7 +45,7 @@
     "fribidi": "fribidi",
     "fribidi-32": "fribidi",
     "frozen": "frozen",
-    "fuse": "libfuse",
+    "fuse": "libfuse@2",
     "fuse3": "libfuse",
     "fwupd": "fwupd",
     "fzf": "fzf"

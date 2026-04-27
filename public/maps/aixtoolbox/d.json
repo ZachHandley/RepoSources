@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aixtoolbox",
     "shard": "d",
     "total_mappings": 8
   },
   "mappings": {
-    "db": "berkeley-db",
+    "db": "berkeley-db@5",
     "dbus": "dbus",
     "default-jdk": "openjdk",
     "default-jre": "openjdk",

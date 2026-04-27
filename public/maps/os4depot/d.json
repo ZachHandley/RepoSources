@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "d",
@@ -125,7 +125,7 @@
     "development/library/misc/libharu.lha": "libharu",
     "development/library/misc/libical.lha": "libical",
     "development/library/misc/libiconv.lha": "libiconv",
-    "development/library/misc/libicu.lha": "icu4c@74",
+    "development/library/misc/libicu.lha": "icu4c@77",
     "development/library/misc/libjansson.lha": "jansson",
     "development/library/misc/libjsoncpp.lha": "jsoncpp",
     "development/library/misc/liblz4.lha": "lz4",
@@ -139,7 +139,7 @@
     "development/library/misc/libreadline.lha": "readline",
     "development/library/misc/librtmp.lha": "rtmpdump",
     "development/library/misc/libsdl2_net.lha": "sdl2_net",
-    "development/library/misc/libsigc.lha": "libsigc++",
+    "development/library/misc/libsigc.lha": "libsigc++@2",
     "development/library/misc/libtar.lha": "libtar",
     "development/library/misc/libtre.lha": "tre",
     "development/library/misc/libx264.lha": "x264",

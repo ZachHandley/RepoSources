@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pardus_21",
     "shard": "r",
@@ -178,7 +178,7 @@
     "ruby-ecasound": "ecasound",
     "ruby-foreman": "foreman",
     "ruby-getspg": "spglib",
-    "ruby-google-protobuf": "protobuf",
+    "ruby-google-protobuf": "protobuf@3",
     "ruby-grpc": "grpc",
     "ruby-grpc-tools": "grpc",
     "ruby-hivex": "hivex",

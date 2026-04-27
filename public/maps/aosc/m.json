@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "m",
@@ -22,8 +22,8 @@
     "maturin": "maturin",
     "mawk": "mawk",
     "maxima": "maxima",
-    "mbedtls": "mbedtls",
-    "mbedtls+32": "mbedtls",
+    "mbedtls": "mbedtls@3",
+    "mbedtls+32": "mbedtls@3",
     "mc": "midnight-commander",
     "mcfly": "mcfly",
     "md4c": "md4c",

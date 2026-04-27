@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "u",
@@ -81,7 +81,7 @@
     "util/misc/tmux": "tmux",
     "util/misc/tree": "tree",
     "util/misc/zsync": "zsync",
-    "util/shell/bash-completion": "bash-completion",
+    "util/shell/bash-completion": "bash-completion@2",
     "util/shell/bashdb": "bashdb",
     "util/shell/dash": "dash-shell",
     "util/shell/fish": "fish",

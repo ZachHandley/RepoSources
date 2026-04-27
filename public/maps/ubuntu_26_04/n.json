@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T18:41:10Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "n",
@@ -143,8 +143,8 @@
     "node-wikibase-cli": "wikibase-cli",
     "node-yarnpkg": "yarn",
     "nodeenv": "nodeenv",
-    "nodejs": "node",
-    "nodejs-doc": "node",
+    "nodejs": "node@22",
+    "nodejs-doc": "node@22",
     "nom": "nom",
     "norm": "norm",
     "notcurses": "notcurses",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "e",
@@ -15,7 +15,7 @@
     "editorconfig-core-c": "editorconfig",
     "efl": "efl",
     "eigen": "eigen",
-    "eigen3": "eigen",
+    "eigen3": "eigen@3",
     "ejabberd": "ejabberd",
     "elfutils": "elfutils",
     "elixir": "elixir",
@@ -62,7 +62,7 @@
     "erlang-syntax_tools": "erlang",
     "erlang-tftp": "erlang",
     "erlang-tools": "erlang",
-    "erlang-unixodbc": "erlang",
+    "erlang-unixodbc": "erlang@26",
     "erlang-wx": "erlang",
     "erlang-xmerl": "erlang",
     "esbuild": "esbuild",

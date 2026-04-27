@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "pypi",
     "shard": "a",
@@ -22,7 +22,7 @@
     "aubio": "aubio",
     "autopep8": "autopep8",
     "avro": "avro-c",
-    "awscli": "awscli",
+    "awscli": "awscli@1",
     "awslogs": "awslogs",
     "azure-cli": "azure-cli"
   }

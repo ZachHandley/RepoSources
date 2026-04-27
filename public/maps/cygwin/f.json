@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T19:38:41Z",
+    "generated_at": "2026-04-27T23:16:34Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "f",
@@ -34,7 +34,7 @@
     "figlet": "figlet",
     "file": "file-formula",
     "file-debuginfo": "libmagic",
-    "file-devel": "libmagic",
+    "file-devel": "file-formula",
     "file-roller": "file-roller",
     "file-roller-debuginfo": "file-roller",
     "findutils": "findutils",
