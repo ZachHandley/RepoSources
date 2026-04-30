@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "mx_23_testing",
     "shard": "n",
-    "total_mappings": 8
+    "total_mappings": 7
   },
   "mappings": {
     "nanopb": "nanopb",
@@ -13,7 +13,6 @@
     "ngtcp2": "libngtcp2",
     "ngtcp2-client": "libngtcp2",
     "ngtcp2-server": "libngtcp2",
-    "nicotine": "nicotine-plus",
-    "nodejs": "node"
+    "nicotine": "nicotine-plus"
   }
 }

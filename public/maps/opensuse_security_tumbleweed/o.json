@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "opensuse_security_tumbleweed",
     "shard": "o",
-    "total_mappings": 24
+    "total_mappings": 23
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -27,7 +27,6 @@
     "openbao-mysql-legacy-database-plugin": "openbao",
     "openbao-postgresql-database-plugin": "openbao",
     "openbao-server": "openbao",
-    "openssl-dev": "openssl",
     "osv-scanner": "osv-scanner",
     "osv-scanner-debuginfo": "osv-scanner",
     "osv-scanner-debugsource": "osv-scanner"

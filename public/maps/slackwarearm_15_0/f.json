@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "slackwarearm_15_0",
     "shard": "f",
@@ -8,7 +8,7 @@
   },
   "mappings": {
     "fetchmail": "fetchmail",
-    "ffmpeg": "ffmpeg@4",
+    "ffmpeg": "ffmpeg@7",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "fftw": "fftw",
     "fig2dev": "fig2dev",

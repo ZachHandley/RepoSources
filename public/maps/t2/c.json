@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "c",
-    "total_mappings": 107
+    "total_mappings": 110
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -15,7 +15,7 @@
     "cadaver": "cadaver",
     "cairo": "cairo",
     "cairomm": "cairomm",
-    "cairomm1": "cairomm",
+    "cairomm1": "cairomm@1.14",
     "capstone": "capstone",
     "cargo-c": "cargo-c",
     "cariddi": "cariddi",
@@ -60,7 +60,7 @@
     "cjson": "cjson",
     "ck": "concurrencykit",
     "clamav": "clamav",
-    "clang": "lld",
+    "clang": "llvm@21",
     "claws-mail": "claws-mail",
     "cli11": "cli11",
     "clifm": "clifm",
@@ -77,8 +77,11 @@
     "cmocka": "cmocka",
     "cntlm": "cntlm",
     "coin": "coin3d",
+    "coin-cbc": "cbc",
+    "coin-cgl": "cgl",
+    "coin-utils": "coinutils",
     "collectd": "collectd",
-    "compiler-rt": "lld",
+    "compiler-rt": "llvm@21",
     "conmon": "conmon",
     "console_bridge": "console_bridge",
     "containerd": "containerd",

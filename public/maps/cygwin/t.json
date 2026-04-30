@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "t",
@@ -21,7 +21,7 @@
     "tar": "gnu-tar",
     "tar-debuginfo": "gnu-tar",
     "task": "task@2",
-    "tcl-db": "berkeley-db",
+    "tcl-db": "berkeley-db@5",
     "tcl-solv": "libsolv",
     "tcl-sqlite3": "sqlite",
     "tcl-tcldot": "graphviz",
@@ -81,7 +81,7 @@
     "tre": "tre",
     "tre-debuginfo": "tre",
     "tree-sitter": "tree-sitter",
-    "tree-sitter-debuginfo": "tree-sitter",
+    "tree-sitter-debuginfo": "tree-sitter@0.25",
     "ttf2pt1": "ttf2pt1",
     "ttf2pt1-debuginfo": "ttf2pt1",
     "ttfautohint": "ttfautohint",

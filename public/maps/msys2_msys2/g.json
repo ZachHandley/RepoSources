@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "msys2_msys2",
     "shard": "g",
@@ -9,10 +9,10 @@
   "mappings": {
     "gawk": "gawk",
     "gc": "bdw-gc",
-    "gcc": "gcc",
-    "gcc-libs": "gcc",
+    "gcc": "gcc@14",
+    "gcc-libs": "gcc@14",
     "gdb": "gdb",
-    "gdb-multiarch": "gdb",
+    "gdb-multiarch": "aarch64-elf-gdb",
     "gdbm": "gdbm",
     "gengetopt": "gengetopt",
     "gettext": "gettext",
@@ -32,8 +32,8 @@
     "gnutls": "gnutls",
     "gperf": "gperf",
     "gpgme": "gpgme",
-    "gradle": "gradle",
-    "gradle-doc": "gradle",
+    "gradle": "gradle@8",
+    "gradle-doc": "gradle@8",
     "grep": "grep",
     "groff": "groff",
     "gtest": "googletest",

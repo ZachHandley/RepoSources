@@ -1,15 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "baulk",
     "shard": "l",
-    "total_mappings": 4
+    "total_mappings": 2
   },
   "mappings": {
     "ldc": "ldc",
-    "less": "less",
-    "libssl-dev": "openssl",
-    "libssl3": "openssl"
+    "less": "less"
   }
 }

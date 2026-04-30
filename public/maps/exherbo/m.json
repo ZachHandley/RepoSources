@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "m",
@@ -19,7 +19,7 @@
     "mail-mta/msmtp": "msmtp",
     "measurement/argyllcms": "argyll-cms",
     "media-gfx/GraphicsMagick": "graphicsmagick",
-    "media-gfx/ImageMagick": "imagemagick",
+    "media-gfx/ImageMagick": "imagemagick@6",
     "media-gfx/dcraw": "dcraw",
     "media-gfx/ditaa-bin": "ditaa",
     "media-gfx/feh": "feh",
@@ -56,7 +56,7 @@
     "media-libs/a52dec": "a52dec",
     "media-libs/aalib": "aalib",
     "media-libs/aom": "aom",
-    "media-libs/assimp": "assimp",
+    "media-libs/assimp": "assimp@5",
     "media-libs/aubio": "aubio",
     "media-libs/babl": "babl",
     "media-libs/cgif": "cgif",
@@ -265,7 +265,7 @@
     "media-video/rtmpdump": "rtmpdump",
     "media/dvdauthor": "dvdauthor",
     "media/dvdbackup": "dvdbackup",
-    "media/ffmpeg": "ffmpeg",
+    "media/ffmpeg": "ffmpeg@7",
     "media/mediainfo": "media-info",
     "media/mlt": "mlt",
     "media/mpv": "mpv",
@@ -274,7 +274,7 @@
     "media/wireplumber": "wireplumber",
     "monitor/bwm-ng": "bwm-ng",
     "monitor/filebeat": "filebeat",
-    "monitor/loki": "loki",
+    "monitor/loki": "logcli",
     "monitor/monit": "monit",
     "monitor/prometheus": "prometheus",
     "monitoring/node_exporter": "node_exporter"

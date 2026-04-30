@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "w",
@@ -56,13 +56,13 @@
     "writerperfect-debuginfo": "writerperfect",
     "wv": "wv",
     "wv-debuginfo": "wv",
-    "wxWidgets2.8": "wxwidgets",
-    "wxWidgets2.8-debuginfo": "wxwidgets",
-    "wxWidgets3.0": "wxwidgets",
-    "wxWidgets3.0-debuginfo": "wxwidgets",
-    "wxWidgets3.0-doc": "wxwidgets",
-    "wxWidgets3.1": "wxwidgets",
-    "wxWidgets3.1-debuginfo": "wxwidgets",
-    "wxWidgets3.1-doc": "wxwidgets"
+    "wxWidgets2.8": "wxwidgets@3.2",
+    "wxWidgets2.8-debuginfo": "wxwidgets@3.2",
+    "wxWidgets3.0": "wxwidgets@3.2",
+    "wxWidgets3.0-debuginfo": "wxwidgets@3.2",
+    "wxWidgets3.0-doc": "wxwidgets@3.2",
+    "wxWidgets3.1": "wxwidgets@3.2",
+    "wxWidgets3.1-debuginfo": "wxwidgets@3.2",
+    "wxWidgets3.1-doc": "wxwidgets@3.2"
   }
 }

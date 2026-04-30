@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "apertis_v2023",
     "shard": "a",
@@ -22,8 +22,8 @@
     "amqp-tools": "rabbitmq-c",
     "ant": "ant",
     "ant-contrib": "ant-contrib",
-    "ant-doc": "ant",
-    "ant-optional": "ant",
+    "ant-doc": "ant@1.9",
+    "ant-optional": "ant@1.9",
     "antlr": "antlr",
     "antlr-doc": "antlr",
     "antlr3": "antlr",
@@ -91,7 +91,7 @@
     "at-spi2-doc": "at-spi2-core",
     "atf": "atf",
     "atf-sh": "atf",
-    "atkmm1.6": "atkmm",
+    "atkmm1.6": "atkmm@2.28",
     "attr": "attr",
     "attr-udeb": "attr",
     "augeas": "augeas",

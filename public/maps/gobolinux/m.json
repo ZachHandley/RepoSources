@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "m",
@@ -43,7 +43,7 @@
     "MatplotLib": "python-matplotlib",
     "Maven": "maven",
     "Maxima": "maxima",
-    "MbedTLS": "mbedtls@2",
+    "MbedTLS": "mbedtls@3",
     "MediaInfoCLI": "media-info",
     "MediaInfoGUI": "media-info",
     "MediaInfoLib": "libmediainfo",
@@ -62,7 +62,7 @@
     "Mono": "mono",
     "Mosh": "mosh",
     "Most": "most",
-    "MozJS": "spidermonkey",
+    "MozJS": "spidermonkey@115",
     "Mpage": "mpage",
     "Mpeg2Dec": "libmpeg2",
     "MuPDF": "mupdf",
@@ -70,6 +70,6 @@
     "Mupen64Plus": "mupen64plus",
     "Mutt": "mutt",
     "MyPaint-Brushes": "mypaint-brushes",
-    "MySQL": "mysql"
+    "MySQL": "mysql@8.4"
   }
 }

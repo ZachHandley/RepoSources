@@ -1,21 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "l",
-    "total_mappings": 10
+    "total_mappings": 4
   },
   "mappings": {
-    "lcms2": "little-cms2",
     "libcups": "cups",
-    "libgme": "game-music-emu",
-    "libgpg-error": "libgpg-error",
-    "libheif": "libheif",
-    "libssl-dev": "openssl",
-    "libssl3": "openssl",
-    "libxpm": "libxpm",
+    "libdrm": "libdrm",
     "limine": "limine",
-    "live-media": "openrtsp"
+    "lvm2": "device-mapper"
   }
 }

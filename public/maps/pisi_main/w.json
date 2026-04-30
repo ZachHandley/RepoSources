@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "w",
@@ -24,8 +24,8 @@
     "wmctrl": "wmctrl",
     "woff2": "woff2",
     "wpebackend-fdo": "wpebackend-fdo",
-    "wxGTK": "wxwidgets",
-    "wxGTK2.8": "wxwidgets",
+    "wxGTK": "wxwidgets@3.2",
+    "wxGTK2.8": "wxwidgets@3.2",
     "wxPython": "wxpython",
     "wxPython3": "wxpython"
   }

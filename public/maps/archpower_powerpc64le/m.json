@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "m",
@@ -8,9 +8,9 @@
   },
   "mappings": {
     "m4": "m4",
-    "m68k-unknown-linux-gnu-gcc": "gcc",
-    "m68k-unknown-linux-gnu-gcc-stage1": "gcc",
-    "m68k-unknown-linux-gnu-gcc-stage2": "gcc",
+    "m68k-unknown-linux-gnu-gcc": "gcc@14",
+    "m68k-unknown-linux-gnu-gcc-stage1": "gcc@14",
+    "m68k-unknown-linux-gnu-gcc-stage2": "gcc@14",
     "mac": "mac",
     "maeparser": "maeparser",
     "make": "make",
@@ -21,14 +21,14 @@
     "mandoc": "mandoc",
     "manifold": "manifold",
     "mariadb": "mariadb",
-    "mariadb-clients": "mariadb",
-    "mariadb-libs": "mariadb",
+    "mariadb-clients": "mariadb@11.8",
+    "mariadb-libs": "mariadb@11.8",
     "marisa": "marisa",
     "marked": "marked",
     "maturin": "maturin",
     "maven": "maven",
     "mbedtls": "mbedtls@3",
-    "mbedtls2": "mbedtls@2",
+    "mbedtls2": "mbedtls@3",
     "mc": "midnight-commander",
     "md4c": "md4c",
     "mdds": "mdds",
@@ -80,6 +80,6 @@
     "mutt": "mutt",
     "mypaint-brushes1": "mypaint-brushes",
     "mypy": "mypy",
-    "mytop": "mariadb"
+    "mytop": "mariadb@11.8"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "n",
-    "total_mappings": 80
+    "total_mappings": 79
   },
   "mappings": {
     "nano": "nano",
@@ -59,7 +59,7 @@
     "nettle-debuginfo": "nettle",
     "nfc-utils": "libnfc",
     "nghttp2": "nghttp2",
-    "nghttp2-debuginfo": "nghttp2",
+    "nghttp2-debuginfo": "libnghttp2",
     "nginx": "nginx",
     "nginx-debuginfo": "nginx",
     "nginx-mod_http_image_filter": "nginx",
@@ -68,7 +68,7 @@
     "nginx-mod_mail": "nginx",
     "nginx-mod_stream": "nginx",
     "ngspice": "ngspice",
-    "ngspice-debuginfo": "ngspice",
+    "ngspice-debuginfo": "libngspice",
     "ninja": "ninja",
     "ninja-debuginfo": "ninja",
     "ninvaders": "ninvaders",
@@ -79,7 +79,6 @@
     "nnn-debuginfo": "nnn",
     "no-more-secrets": "no-more-secrets",
     "no-more-secrets-debuginfo": "no-more-secrets",
-    "nodejs": "node",
     "npth": "npth",
     "npth-debuginfo": "npth",
     "nspr": "nspr",

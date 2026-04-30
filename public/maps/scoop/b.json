@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "b",
@@ -14,7 +14,7 @@
     "bandwhich": "bandwhich",
     "base64": "base64",
     "bat": "bat",
-    "bazel": "bazel",
+    "bazel": "bazel@8",
     "bazel-buildtools": "buildifier",
     "bazelisk": "bazelisk",
     "bc": "bc",
@@ -33,7 +33,7 @@
     "bom": "bom",
     "bombardier": "bombardier",
     "boost": "boost",
-    "boost-msvc142": "boost",
+    "boost-msvc142": "boost@1.85",
     "boot-clj": "boot-clj",
     "bottom": "bottom",
     "boxes": "boxes",

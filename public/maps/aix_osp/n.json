@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "aix_osp",
     "shard": "n",
-    "total_mappings": 29
+    "total_mappings": 28
   },
   "mappings": {
     "nagios": "nagios",
@@ -29,7 +29,6 @@
     "ngrep": "ngrep",
     "nmap": "nmap",
     "nmh": "nmh",
-    "nodejs": "node",
     "npth": "npth",
     "nspr": "nspr",
     "nss": "nss",

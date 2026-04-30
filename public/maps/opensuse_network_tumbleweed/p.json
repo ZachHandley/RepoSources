@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "opensuse_network_tumbleweed",
     "shard": "p",
-    "total_mappings": 32
+    "total_mappings": 29
   },
   "mappings": {
     "pan": "pan",
@@ -33,9 +33,6 @@
     "pure-ftpd": "pure-ftpd",
     "pure-ftpd-debuginfo": "pure-ftpd",
     "pure-ftpd-debugsource": "pure-ftpd",
-    "python3": "python",
-    "python3-dev": "python",
-    "python3-devel": "python",
     "python311-olm": "libolm",
     "python313-olm": "libolm",
     "python314-olm": "libolm"

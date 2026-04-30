@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "w",
@@ -12,9 +12,9 @@
     "wiredtiger": "wiredtiger",
     "wirouter-keyrec": "wirouter_keyrec",
     "wmbusmeters": "wmbusmeters",
-    "wxwidgets-3.0": "wxwidgets",
-    "wxwidgets-common-3.0": "wxwidgets",
-    "wxwidgets-gtk2-3.0": "wxwidgets",
-    "wxwidgets-gtk3-3.0": "wxwidgets"
+    "wxwidgets-3.0": "wxwidgets@3.2",
+    "wxwidgets-common-3.0": "wxwidgets@3.2",
+    "wxwidgets-gtk2-3.0": "wxwidgets@3.2",
+    "wxwidgets-gtk3-3.0": "wxwidgets@3.2"
   }
 }

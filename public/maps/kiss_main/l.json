@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "kiss_main",
     "shard": "l",
-    "total_mappings": 24
+    "total_mappings": 22
   },
   "mappings": {
     "lame": "lame",
@@ -21,8 +21,6 @@
     "libplacebo": "libplacebo",
     "libpng": "libpng",
     "libretls": "libretls",
-    "libssl-dev": "openssl",
-    "libssl3": "openssl",
     "libtheora": "theora",
     "libva": "libva",
     "libvorbis": "libvorbis",
@@ -30,6 +28,6 @@
     "libwebp": "webp",
     "libxkbcommon": "libxkbcommon",
     "linux-headers": "linux-headers@6.8",
-    "llvm": "llvm"
+    "llvm": "llvm@21"
   }
 }

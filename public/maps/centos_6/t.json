@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "centos_6",
     "shard": "t",
@@ -19,10 +19,10 @@
     "tidy": "tidy-html5",
     "tigervnc": "tiger-vnc",
     "time": "gnu-time",
-    "tmon": "linux-headers@4.4",
+    "tmon": "linux-headers@6.8",
     "tmpwatch": "tmpwatch",
     "tokyocabinet": "tokyo-cabinet",
-    "tomcat6": "tomcat",
+    "tomcat6": "tomcat@10",
     "tree": "tree",
     "tzdata": "tzdb"
   }

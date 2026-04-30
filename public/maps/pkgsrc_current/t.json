@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "t",
-    "total_mappings": 354
+    "total_mappings": 355
   },
   "mappings": {
     "TinySVM": "tinysvm",
@@ -77,6 +77,7 @@
     "textproc/discount": "discount",
     "textproc/docbook": "docbook",
     "textproc/docbook-xsl": "docbook-xsl",
+    "textproc/docbook-xsl-ns": "docbook-xsl",
     "textproc/doxx": "doxx",
     "textproc/dwdiff": "dwdiff",
     "textproc/ebook-tools": "ebook-tools",
@@ -156,7 +157,7 @@
     "textproc/libunistring": "libunistring",
     "textproc/libxls": "libxls",
     "textproc/libxlsxwriter": "libxlsxwriter",
-    "textproc/libxml++": "libxml++",
+    "textproc/libxml++": "libxml++@5",
     "textproc/libxml++5.0": "libxml++@5",
     "textproc/libxml2": "libxml2",
     "textproc/libxmlb": "libxmlb",
@@ -233,7 +234,7 @@
     "textproc/tokyodystopia": "tokyo-dystopia",
     "textproc/translate-shell": "translate-shell",
     "textproc/translate-toolkit": "translate-toolkit",
-    "textproc/tree-sitter": "tree-sitter",
+    "textproc/tree-sitter": "tree-sitter@0.25",
     "textproc/tree-sitter-cli": "tree-sitter-cli",
     "textproc/tree-sitter-go": "tree-sitter-go",
     "textproc/tree-sitter-python": "tree-sitter-python",

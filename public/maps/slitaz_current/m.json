@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "slitaz_current",
     "shard": "m",
@@ -10,9 +10,9 @@
     "m4": "m4",
     "make": "make",
     "mariadb": "mariadb",
-    "mariadb-client": "mariadb",
+    "mariadb-client": "mariadb@11.8",
     "mariadb-dev": "mariadb",
-    "mariadb-test": "mariadb",
+    "mariadb-test": "mariadb@11.8",
     "mc": "midnight-commander",
     "mercurial": "mercurial",
     "mesa": "mesa",
@@ -62,6 +62,6 @@
     "mysql": "mysql",
     "mysql-client": "mysql-client",
     "mysql-dev": "mysql",
-    "mysql-test": "mysql"
+    "mysql-test": "mysql@8.4"
   }
 }

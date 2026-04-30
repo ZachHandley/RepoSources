@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "q",
@@ -19,9 +19,9 @@
     "qpdf": "qpdf",
     "qt-qca": "qca",
     "qt-qca-sasl": "qca",
-    "qt3": "qt",
-    "qt4": "qt",
-    "qt65compat": "qt",
+    "qt3": "qt@5",
+    "qt4": "qt@5",
+    "qt65compat": "qt@5",
     "qtkeychain": "qtkeychain",
     "quazip": "quazip",
     "quickjs": "quickjs",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "p",
-    "total_mappings": 125
+    "total_mappings": 122
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -15,7 +15,7 @@
     "pango": "pango",
     "pango+32": "pango",
     "pangomm": "pangomm",
-    "pangomm-2.48": "pangomm",
+    "pangomm-2.48": "pangomm@2.46",
     "paperkey": "paperkey",
     "papers": "gnome-papers",
     "par2cmdline": "par2",
@@ -68,7 +68,7 @@
     "png++": "png++",
     "pngcrush": "pngcrush",
     "pngquant": "pngquant",
-    "pnpm": "pnpm",
+    "pnpm": "pnpm@9",
     "po4a": "po4a",
     "pocketsphinx": "cmu-pocketsphinx",
     "pocl": "pocl",
@@ -85,11 +85,11 @@
     "portaudio+32": "portaudio",
     "portmidi": "portmidi",
     "postgresql": "postgresql@18",
-    "postgresql-13": "postgresql@13",
-    "postgresql-14": "postgresql@14",
-    "postgresql-15": "postgresql@15",
-    "postgresql-16": "libpq@16",
-    "postgresql-17": "libpq@17",
+    "postgresql-13": "postgresql@18",
+    "postgresql-14": "postgresql@18",
+    "postgresql-15": "postgresql@18",
+    "postgresql-16": "postgresql@18",
+    "postgresql-17": "postgresql@18",
     "postgresql-18": "postgresql@18",
     "potrace": "potrace",
     "povray": "povray",
@@ -106,7 +106,7 @@
     "proj": "proj",
     "projectm": "projectm",
     "prometheus-node-exporter": "node_exporter",
-    "protobuf": "protobuf",
+    "protobuf": "protobuf@33",
     "protobuf-c": "protobuf-c",
     "proxychains-ng": "proxychains-ng",
     "proxychains-ng+32": "proxychains-ng",
@@ -128,9 +128,6 @@
     "pyqt-builder": "pyqt-builder",
     "pytest": "pytest",
     "python-kaitaistruct": "kaitai-struct-compiler",
-    "python-ly": "ly",
-    "python3": "python",
-    "python3-dev": "python",
-    "python3-devel": "python"
+    "python-ly": "ly"
   }
 }

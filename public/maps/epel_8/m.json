@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "m",
@@ -15,7 +15,7 @@
     "masscan": "masscan",
     "matio": "libmatio",
     "mawk": "mawk",
-    "mbedtls": "mbedtls@2",
+    "mbedtls": "mbedtls@3",
     "md5deep": "md5deep",
     "mediaconch": "mediaconch",
     "mediainfo": "media-info",
@@ -32,7 +32,7 @@
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minizip": "minizip-ng",
-    "minizip1.2": "zlib",
+    "minizip1.2": "minizip",
     "mktorrent": "mktorrent",
     "mle": "mle",
     "mlpack": "mlpack",

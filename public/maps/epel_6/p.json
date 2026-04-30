@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "epel_6",
     "shard": "p",
-    "total_mappings": 95
+    "total_mappings": 92
   },
   "mappings": {
     "Pixie": "pixie",
@@ -58,7 +58,7 @@
     "privoxy": "privoxy",
     "proftpd": "proftpd",
     "proj": "proj",
-    "protobuf": "protobuf",
+    "protobuf": "protobuf@33",
     "protobuf-c": "protobuf-c",
     "ps2eps": "ps2eps",
     "pspg": "pspg",
@@ -79,7 +79,7 @@
     "python-flake8": "flake8",
     "python-grokmirror": "grokmirror",
     "python-pivy": "pivy",
-    "python-pyside": "pyside",
+    "python-pyside": "pyside@2",
     "python-speedtest-cli": "speedtest-cli",
     "python-sphinx10": "sphinx-doc",
     "python-sqlparse": "sqlparse",
@@ -93,10 +93,7 @@
     "python2-setuptools": "python-setuptools",
     "python2-six": "six",
     "python2-sphinx": "sphinx-doc",
-    "python3": "python",
     "python3-Cython": "cython",
-    "python3-dev": "python",
-    "python3-devel": "python",
     "python3-numpy": "numpy",
     "python3-pytest": "pytest",
     "python3-setuptools": "python-setuptools",

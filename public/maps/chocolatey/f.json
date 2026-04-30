@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "f",
     "total_mappings": 65
   },
   "mappings": {
-    "FFmpeg": "ffmpeg",
-    "FFmpeg Full": "ffmpeg",
+    "FFmpeg": "ffmpeg@7",
+    "FFmpeg Full": "ffmpeg@7",
     "FLAC": "flac",
     "FS-UAE": "fs-uae",
     "Fabric Installer": "fabric-installer",
@@ -40,9 +40,9 @@
     "fend.portable": "fend",
     "feroxbuster": "feroxbuster",
     "feroxbuster (Install)": "feroxbuster",
-    "ffmpeg": "ffmpeg",
+    "ffmpeg": "ffmpeg@7",
     "ffmpeg-full": "ffmpeg-full",
-    "ffmpeg-shared": "ffmpeg",
+    "ffmpeg-shared": "ffmpeg@7",
     "file": "file-formula",
     "filebeat": "filebeat",
     "findutils": "findutils",

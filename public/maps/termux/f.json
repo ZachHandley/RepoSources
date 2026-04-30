@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "f",
-    "total_mappings": 58
+    "total_mappings": 59
   },
   "mappings": {
+    "faad2": "faad2",
     "fakeroot": "fakeroot",
     "fastfetch": "fastfetch",
     "fastmod": "fastmod",
@@ -25,9 +26,9 @@
     "feroxbuster": "feroxbuster",
     "fetchmail": "fetchmail",
     "fff": "fff",
-    "ffmpeg": "ffmpeg",
+    "ffmpeg": "ffmpeg@7",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
-    "ffplay": "ffmpeg",
+    "ffplay": "ffmpeg@7",
     "ffsend": "ffsend",
     "fftw": "fftw",
     "figlet": "figlet",
@@ -39,7 +40,7 @@
     "fio": "fio",
     "firefoxpwa": "firefoxpwa",
     "fish": "fish",
-    "flang": "lld@21",
+    "flang": "flang",
     "flatbuffers": "flatbuffers",
     "flex": "flex",
     "flint": "flint",

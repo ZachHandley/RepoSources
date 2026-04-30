@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "homebrew_tap_brewsci_bio",
     "shards": [
@@ -14,12 +14,11 @@
       "l",
       "m",
       "n",
-      "o",
       "p",
       "r",
       "s",
       "t"
     ],
-    "total_mappings": 40
+    "total_mappings": 33
   }
 }

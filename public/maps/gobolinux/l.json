@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "l",
-    "total_mappings": 281
+    "total_mappings": 279
   },
   "mappings": {
     "LADSPA": "ladspa-sdk",
@@ -14,7 +14,7 @@
     "LDNS": "ldns",
     "LE": "le",
     "LFTP": "lftp",
-    "LLVM": "lld@19",
+    "LLVM": "llvm@21",
     "LM-Sensors": "lm-sensors",
     "LRDF": "lrdf",
     "LRZSZ": "lrzsz",
@@ -36,7 +36,7 @@
     "LibASS": "libass",
     "LibAppleWM": "libapplewm",
     "LibArchive": "libarchive",
-    "LibAssuan": "libassuan",
+    "LibAssuan": "libassuan@2",
     "LibAtomic_Ops": "libatomic_ops",
     "LibBPF": "libbpf",
     "LibBSD": "libbsd",
@@ -100,7 +100,7 @@
     "LibHaru": "libharu",
     "LibICE": "libice",
     "LibICNS": "libicns",
-    "LibICU4C": "icu4c@75",
+    "LibICU4C": "icu4c@78",
     "LibID3Tag": "libid3tag",
     "LibIDL": "libidl",
     "LibIDN": "libidn",
@@ -178,7 +178,7 @@
     "LibSeccomp": "libseccomp",
     "LibSecret": "libsecret",
     "LibShout": "libshout",
-    "LibSigc++": "libsigc++",
+    "LibSigc++": "libsigc++@2",
     "LibSigsegv": "libsigsegv",
     "LibSndfile": "libsndfile",
     "LibSodium": "libsodium",
@@ -227,7 +227,7 @@
     "LibXKBfile": "libxkbfile",
     "LibXMI": "libxmi",
     "LibXML": "libxml2",
-    "LibXML++": "libxml++",
+    "LibXML++": "libxml++@5",
     "LibXML2": "libxml2",
     "LibXRandR": "libxrandr",
     "LibXSLT": "libxslt",
@@ -272,8 +272,8 @@
     "Lilypond": "lilypond",
     "Link-Grammar": "link-grammar",
     "Links": "links",
-    "Linux": "linux-headers@4.4",
-    "Linux-Headers": "linux-headers@4.4",
+    "Linux": "linux-headers@6.8",
+    "Linux-Headers": "linux-headers@6.8",
     "Linux-PAM": "linux-pam",
     "Live555": "openrtsp",
     "LnDir": "lndir",
@@ -281,12 +281,10 @@
     "LoudMouth": "loudmouth",
     "Lout": "lout",
     "Lsof": "lsof",
-    "Lua": "lua",
+    "Lua": "lua@5.4",
     "LuaJIT": "luajit",
     "LuaRocks": "luarocks",
     "Lynx": "lynx",
-    "Lzop": "lzop",
-    "libssl-dev": "openssl",
-    "libssl3": "openssl"
+    "Lzop": "lzop"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "p",
-    "total_mappings": 241
+    "total_mappings": 238
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -50,7 +50,7 @@
     "pegtl": "pegtl",
     "pelican": "pelican",
     "perceptualdiff": "perceptualdiff",
-    "perf": "linux-headers@4.4",
+    "perf": "linux-headers@6.8",
     "perl": "perl",
     "perl-app-cpanminus": "cpanminus",
     "perl-image-exiftool": "exiftool",
@@ -119,7 +119,7 @@
     "portaudio": "portaudio",
     "portmidi": "portmidi",
     "postgis": "postgis",
-    "postgresql": "libpq@17",
+    "postgresql": "postgresql@18",
     "potrace": "potrace",
     "povray": "povray",
     "ppl": "ppl",
@@ -144,9 +144,9 @@
     "prometheus-node-exporter": "node_exporter",
     "proof-general": "proof-general",
     "proteinortho": "proteinortho",
-    "protobuf": "protobuf",
+    "protobuf": "protobuf@33",
     "protobuf-c": "protobuf-c",
-    "protobuf-static": "protobuf@3",
+    "protobuf-static": "protobuf@33",
     "protoc-gen-go": "protoc-gen-go",
     "protoc-gen-go-grpc": "protoc-gen-go-grpc",
     "protozero": "protozero",
@@ -219,7 +219,7 @@
     "python-pygobject": "pygobject3",
     "python-pylint": "pylint",
     "python-pymol": "pymol",
-    "python-pyqt": "pyqt",
+    "python-pyqt": "pyqt@5",
     "python-pyqt-builder": "pyqt-builder",
     "python-pytest": "pytest",
     "python-qscintilla": "qscintilla2",
@@ -244,9 +244,6 @@
     "python-xgboost": "xgboost",
     "python-yq": "python-yq",
     "python-yubikey-manager": "ykman",
-    "python2": "python@3.9",
-    "python3": "python",
-    "python3-dev": "python",
-    "python3-devel": "python"
+    "python2": "python@3.9"
   }
 }

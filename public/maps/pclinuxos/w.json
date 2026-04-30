@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "w",
@@ -35,11 +35,11 @@
     "wordnet": "wordnet",
     "wv": "wv",
     "wv2": "wv2",
-    "wxGTK2.6": "wxwidgets",
-    "wxgtk2.8": "wxwidgets",
-    "wxgtk3.0": "wxwidgets",
-    "wxgtk3.1": "wxwidgets",
-    "wxgtk3.2": "wxwidgets",
+    "wxGTK2.6": "wxwidgets@3.2",
+    "wxgtk2.8": "wxwidgets@3.2",
+    "wxgtk3.0": "wxwidgets@3.2",
+    "wxgtk3.1": "wxwidgets@3.2",
+    "wxgtk3.2": "wxwidgets@3.2",
     "wxmaxima": "wxmaxima",
     "wxpython": "wxpython"
   }

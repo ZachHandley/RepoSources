@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "debian_12_backports_sloppy",
     "shard": "l",
-    "total_mappings": 21
+    "total_mappings": 19
   },
   "mappings": {
     "libaqbanking": "aqbanking",
@@ -25,8 +25,6 @@
     "libgwenhywfar-data": "gwenhywfar",
     "libgwenhywfar-doc": "gwenhywfar",
     "libgwenhywfar79": "gwenhywfar",
-    "libjs-sphinxdoc": "sphinx-doc",
-    "libssl-dev": "openssl",
-    "libssl3": "openssl"
+    "libjs-sphinxdoc": "sphinx-doc"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_apps_tumbleweed",
     "shard": "l",
-    "total_mappings": 47
+    "total_mappings": 45
   },
   "mappings": {
     "libadplug": "adplug",
@@ -31,8 +31,6 @@
     "librasqal-devel-doc": "rasqal",
     "librasqal3": "rasqal",
     "libsox3": "sox",
-    "libssl-dev": "openssl",
-    "libssl3": "openssl",
     "libsuil-0-0": "suil",
     "libzvbi-chains0": "zvbi",
     "libzvbi0": "zvbi",

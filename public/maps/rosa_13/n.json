@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "n",
-    "total_mappings": 256
+    "total_mappings": 255
   },
   "mappings": {
     "nacl": "nacl",
@@ -172,8 +172,8 @@
     "ngircd": "ngircd",
     "ngrep": "ngrep",
     "ngspice": "ngspice",
-    "ngspice-debuginfo": "ngspice",
-    "ngspice-debugsource": "ngspice",
+    "ngspice-debuginfo": "libngspice",
+    "ngspice-debugsource": "libngspice",
     "nikto": "nikto",
     "nim": "nim",
     "ninja": "ninja",
@@ -201,8 +201,7 @@
     "nnn-debuginfo": "nnn",
     "nnn-debugsource": "nnn",
     "node_exporter": "node_exporter",
-    "nodejs": "node",
-    "nodejs22": "node@22",
+    "nodejs22": "node@24",
     "nodejs24": "node@24",
     "normalize": "normalize",
     "npth": "npth",
@@ -212,7 +211,7 @@
     "nrg2iso": "nrg2iso",
     "nrg2iso-debuginfo": "nrg2iso",
     "nrg2iso-debugsource": "nrg2iso",
-    "nscd": "glibc",
+    "nscd": "glibc@2.17",
     "nsd": "nsd",
     "nsd-debuginfo": "nsd",
     "nsd-debugsource": "nsd",

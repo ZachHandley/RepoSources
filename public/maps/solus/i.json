@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "i",
@@ -29,10 +29,10 @@
     "iir1": "iir1",
     "iir1-dbginfo": "iir1",
     "iir1-devel": "iir1",
-    "imagemagick": "imagemagick",
-    "imagemagick-dbginfo": "imagemagick",
-    "imagemagick-devel": "imagemagick",
-    "imagemagick-docs": "imagemagick",
+    "imagemagick": "imagemagick@6",
+    "imagemagick-dbginfo": "imagemagick@6",
+    "imagemagick-devel": "imagemagick@6",
+    "imagemagick-docs": "imagemagick@6",
     "imake": "imake",
     "imake-dbginfo": "imake",
     "imath": "imath",

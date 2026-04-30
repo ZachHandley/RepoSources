@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "e",
@@ -32,7 +32,7 @@
     "emulators/fs-uae": "fs-uae",
     "enchant": "enchant",
     "environment-modules": "modules",
-    "erlang": "erlang",
+    "erlang": "erlang@27",
     "espeak": "espeak",
     "exiv2": "exiv2",
     "expat": "expat",

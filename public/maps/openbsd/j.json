@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "j",
@@ -13,7 +13,7 @@
     "jansson": "jansson",
     "japanese/mecab": "mecab-ipadic",
     "jasper": "jasper",
-    "java/gradle": "gradle",
+    "java/gradle": "gradle@8",
     "jbig2dec": "jbig2dec",
     "jbigkit": "jbigkit",
     "jed": "jed",
@@ -37,7 +37,7 @@
     "jpegoptim": "jpegoptim",
     "jq": "jq",
     "jruby": "jruby",
-    "js140": "spidermonkey",
+    "js140": "spidermonkey@115",
     "json-c": "json-c",
     "json-glib": "json-glib",
     "jsoncpp": "jsoncpp",

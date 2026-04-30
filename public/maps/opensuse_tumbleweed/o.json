@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "o",
-    "total_mappings": 401
+    "total_mappings": 400
   },
   "mappings": {
     "OpenColorIO": "opencolorio",
@@ -316,11 +316,10 @@
     "openssh-server": "openssh",
     "openssh-server-config-rootlogin": "openssh",
     "openssl": "openssl@3",
-    "openssl-3": "openssl@3",
-    "openssl-3-debuginfo": "openssl@3",
-    "openssl-3-debugsource": "openssl@3",
-    "openssl-3-doc": "openssl@3",
-    "openssl-dev": "openssl",
+    "openssl-3": "openssl@4",
+    "openssl-3-debuginfo": "openssl@4",
+    "openssl-3-debugsource": "openssl@4",
+    "openssl-3-doc": "openssl@4",
     "openssl-engine-libp11": "libp11",
     "openssl-provider-libp11": "libp11",
     "opentofu": "opentofu",

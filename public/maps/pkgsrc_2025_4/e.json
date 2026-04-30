@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "e",
@@ -69,7 +69,7 @@
     "editors/vim-share": "vim",
     "editors/zile": "zile",
     "editors/zim": "zim",
-    "eigen": "eigen",
+    "eigen": "eigen@3",
     "eigen3": "eigen@3",
     "ejabberd": "ejabberd",
     "electric": "electric",
@@ -149,7 +149,7 @@
     "erlang": "erlang@27",
     "erlang-doc": "erlang@27",
     "erlang-man": "erlang@27",
-    "erlang21": "erlang",
+    "erlang21": "erlang@27",
     "errcheck": "errcheck",
     "esbuild": "esbuild",
     "esniper": "esniper",

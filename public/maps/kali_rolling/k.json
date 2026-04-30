@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "k",
-    "total_mappings": 89
+    "total_mappings": 90
   },
   "mappings": {
     "kakoune": "kakoune",
@@ -25,6 +25,7 @@
     "kea-dhcp4-server": "kea",
     "kea-dhcp6-server": "kea",
     "kea-doc": "kea",
+    "kew": "kew",
     "key2odp": "writerperfect",
     "keychain": "keychain",
     "keystone-engine": "keystone",
@@ -85,9 +86,9 @@
     "kubecolor": "kubecolor",
     "kubectl": "kubernetes-cli",
     "kubectx": "kubectx",
-    "kubernetes": "kubernetes-cli",
-    "kubernetes-client": "kubernetes-cli",
-    "kubernetes-helm": "helm",
+    "kubernetes": "kubernetes-cli@1.35",
+    "kubernetes-client": "kubernetes-cli@1.35",
+    "kubernetes-helm": "helm@3",
     "kubetail": "kubetail",
     "kustomize": "kustomize",
     "kvazaar": "kvazaar",

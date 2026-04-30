@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "d",
@@ -34,10 +34,10 @@
     "db5.3-doc": "berkeley-db@5",
     "db5.3-sql-util": "berkeley-db@5",
     "db5.3-util": "berkeley-db@5",
-    "db6.0": "berkeley-db",
-    "db6.0-doc": "berkeley-db",
-    "db6.0-sql-util": "berkeley-db",
-    "db6.0-util": "berkeley-db",
+    "db6.0": "berkeley-db@5",
+    "db6.0-doc": "berkeley-db@5",
+    "db6.0-sql-util": "berkeley-db@5",
+    "db6.0-util": "berkeley-db@5",
     "dbacl": "dbacl",
     "dbndns": "djbdns",
     "dbus": "dbus",

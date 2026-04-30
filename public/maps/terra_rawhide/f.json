@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "f",
-    "total_mappings": 13
+    "total_mappings": 17
   },
   "mappings": {
     "faad2": "faad2",
@@ -16,6 +16,10 @@
     "flow-control": "flow-control",
     "flow-control-debuginfo": "flow-control",
     "flow-control-debugsource": "flow-control",
+    "framework-tool-tui": "framework-tool-tui",
+    "framework-tool-tui-debuginfo": "framework-tool-tui",
+    "framework-tool-tui-debugsource": "framework-tool-tui",
+    "framework-tool-tui-doc": "framework-tool-tui",
     "fuc": "fuc",
     "fzy": "fzy",
     "fzy-debuginfo": "fzy",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "centos_6",
     "shard": "p",
-    "total_mappings": 41
+    "total_mappings": 38
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -30,7 +30,7 @@
     "polkit": "polkit",
     "poppler": "poppler",
     "popt": "popt",
-    "postgresql": "libpq",
+    "postgresql": "postgresql@18",
     "ppl": "ppl",
     "procmail": "procmail",
     "procps": "procps",
@@ -39,14 +39,11 @@
     "pulseaudio": "pulseaudio",
     "pycairo": "py3cairo",
     "pygobject2": "pygobject3",
-    "python": "python@3.9",
+    "python": "python@3.14",
     "python-markdown": "python-markdown",
     "python-matplotlib": "python-matplotlib",
     "python-setuptools": "python-setuptools",
     "python-six": "six",
-    "python-sphinx": "sphinx-doc",
-    "python3": "python",
-    "python3-dev": "python",
-    "python3-devel": "python"
+    "python-sphinx": "sphinx-doc"
   }
 }

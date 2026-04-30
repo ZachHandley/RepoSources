@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "n",
-    "total_mappings": 339
+    "total_mappings": 338
   },
   "mappings": {
     "nagios": "nagios",
@@ -95,7 +95,7 @@
     "net/gupnp/av": "gupnp-av",
     "net/gupnp/core": "gupnp",
     "net/gupnp/tools": "gupnp-tools",
-    "net/haproxy": "haproxy",
+    "net/haproxy": "haproxy@2.8",
     "net/hurl": "hurl",
     "net/i2p": "i2p",
     "net/i2pd": "i2pd",
@@ -314,9 +314,8 @@
     "nmh": "nmh",
     "nng": "nng",
     "nnn": "nnn",
-    "node": "node@22",
+    "node": "node@24",
     "node_exporter": "node_exporter",
-    "nodejs": "node",
     "normalize": "normalize",
     "notmuch": "notmuch",
     "notmuch-emacs": "notmuch",

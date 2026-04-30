@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "a",
@@ -30,7 +30,7 @@
     "at-spi2-core": "at-spi2-core",
     "atf": "atf",
     "atkmm": "atkmm",
-    "atkmm16": "atkmm",
+    "atkmm16": "atkmm@2.28",
     "augeas": "augeas",
     "autoconf": "autoconf",
     "autoconf-archive": "autoconf-archive",

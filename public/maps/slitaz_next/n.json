@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
     "shard": "n",
-    "total_mappings": 59
+    "total_mappings": 58
   },
   "mappings": {
     "nagios": "nagios",
@@ -47,13 +47,12 @@
     "ninvaders": "ninvaders",
     "nmap": "nmap",
     "nms": "no-more-secrets",
-    "node": "node",
-    "node-dev": "node",
-    "nodejs": "node",
+    "node": "node@24",
+    "node-dev": "node@24",
     "normalize": "normalize",
     "npth": "npth",
     "npth-dev": "npth",
-    "nscd": "glibc",
+    "nscd": "glibc@2.17",
     "nsd": "nsd",
     "nspr": "nspr",
     "nspr-dev": "nspr",

@@ -1,12 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "n",
-    "total_mappings": 221
+    "total_mappings": 225
   },
   "mappings": {
+    "NLopt": "nlopt",
+    "NLopt-debuginfo": "nlopt",
+    "NLopt-debugsource": "nlopt",
+    "NLopt-devel": "nlopt",
+    "NLopt-doc": "nlopt",
     "nagios": "nagios",
     "nagios-common": "nagios",
     "nagios-contrib": "nagios",
@@ -187,7 +192,6 @@
     "node-exporter": "node_exporter",
     "node-exporter-debuginfo": "node_exporter",
     "node-exporter-debugsource": "node_exporter",
-    "nodejs": "node",
     "notcurses": "notcurses",
     "notcurses-debuginfo": "notcurses",
     "notcurses-debugsource": "notcurses",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "p",
-    "total_mappings": 546
+    "total_mappings": 544
   },
   "mappings": {
     "PDAL": "pdal",
@@ -374,7 +374,6 @@
     "python-wxpython4-debuginfo": "wxpython",
     "python-wxpython4-debugsource": "wxpython",
     "python-wxpython4-doc": "wxpython",
-    "python3": "python",
     "python3-GeographicLib": "geographiclib",
     "python3-SoapySDR": "soapysdr",
     "python3-acme": "certbot",
@@ -384,6 +383,7 @@
     "python3-azure-cli-core": "azure-cli",
     "python3-azure-cli-telemetry": "azure-cli",
     "python3-azure-cli-testsdk": "azure-cli",
+    "python3-barman": "barman",
     "python3-botan2": "botan@2",
     "python3-btrfsutil": "btrfs-progs",
     "python3-build": "python-build",
@@ -408,8 +408,6 @@
     "python3-cjdns": "cjdns",
     "python3-cookiecutter": "cookiecutter",
     "python3-cram": "cram",
-    "python3-dev": "python",
-    "python3-devel": "python",
     "python3-distrdf": "root",
     "python3-dlib": "dlib",
     "python3-dns-lexicon": "lexicon",

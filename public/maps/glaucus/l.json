@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "glaucus",
     "shard": "l",
-    "total_mappings": 19
+    "total_mappings": 17
   },
   "mappings": {
     "less": "less",
@@ -18,8 +18,6 @@
     "libpciaccess": "libpciaccess",
     "libpng": "libpng",
     "libressl": "libressl",
-    "libssl-dev": "openssl",
-    "libssl3": "openssl",
     "libxkbcommon": "libxkbcommon",
     "libxml2": "libxml2",
     "limine": "limine",

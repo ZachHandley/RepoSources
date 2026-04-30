@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "a",
@@ -18,7 +18,7 @@
     "APR": "apr",
     "APR-Util": "apr-util",
     "AStyle": "astyle",
-    "ATKMM": "atkmm",
+    "ATKMM": "atkmm@2.28",
     "ATTR": "attr",
     "AVFS": "avfs",
     "Abook": "abook",
@@ -29,7 +29,7 @@
     "Allegro": "allegro",
     "Alpine": "alpine",
     "Antiword": "antiword",
-    "Apache-Ant": "ant",
+    "Apache-Ant": "ant@1.9",
     "AppStream-Glib": "appstream-glib",
     "Apt": "apt",
     "Archivemount": "archivemount",

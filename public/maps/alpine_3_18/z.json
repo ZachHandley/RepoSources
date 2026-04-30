@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-04-30T22:09:52Z",
     "source": "repology-dump",
     "distro": "alpine_3_18",
     "shard": "z",
@@ -50,10 +50,10 @@
     "zita-convolver-dev": "zita-convolver",
     "zlib": "zlib",
     "zlib-dev": "zlib",
-    "zlib-doc": "zlib",
+    "zlib-doc": "minizip",
     "zlib-ng": "zlib-ng",
     "zlib-ng-dev": "zlib-ng",
-    "zlib-static": "zlib",
+    "zlib-static": "minizip",
     "zmap": "zmap",
     "zmap-doc": "zmap",
     "znc": "znc",
