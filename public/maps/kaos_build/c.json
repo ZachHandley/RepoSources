@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "c",
-    "total_mappings": 3
+    "total_mappings": 5
   },
   "mappings": {
+    "cargo-c": "cargo-c",
     "cfitsio": "cfitsio",
+    "containerd": "containerd",
     "cups": "cups",
     "curl": "curl"
   }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "a",
@@ -418,7 +418,7 @@
     "app-misc/skim": "sk",
     "app-misc/sl": "sl",
     "app-misc/symlinks": "symlinks",
-    "app-misc/task": "task@2",
+    "app-misc/task": "task",
     "app-misc/timew": "timewarrior",
     "app-misc/tinysparql": "tinysparql",
     "app-misc/tmate": "tmate",

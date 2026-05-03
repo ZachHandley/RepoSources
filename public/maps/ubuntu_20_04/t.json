@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "ubuntu_20_04",
     "shard": "t",
@@ -28,10 +28,10 @@
     "tarantool-lts-postgresql-module": "tarantool",
     "tarantool-lts-sophia-module": "tarantool",
     "tarlz": "tarlz",
-    "task": "task@2",
+    "task": "task",
     "task-spooler": "task-spooler",
     "tasksh": "tasksh",
-    "taskwarrior": "task@2",
+    "taskwarrior": "task",
     "tbb": "tbb",
     "tcc": "tcc",
     "tcl-expect": "expect",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "t",
@@ -20,7 +20,7 @@
     "taglib-debuginfo": "taglib",
     "tar": "gnu-tar",
     "tar-debuginfo": "gnu-tar",
-    "task": "task@2",
+    "task": "task",
     "tcl-db": "berkeley-db@5",
     "tcl-solv": "libsolv",
     "tcl-sqlite3": "sqlite",

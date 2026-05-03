@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "g",
-    "total_mappings": 754
+    "total_mappings": 755
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -146,6 +146,7 @@
     "geeqie": "geeqie",
     "gegl": "gegl",
     "gemini-cli": "gemini-cli",
+    "gemmi": "gemmi",
     "genact": "genact",
     "gengetopt": "gengetopt",
     "gensio": "gensio",

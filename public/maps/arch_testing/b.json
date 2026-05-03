@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "b",
-    "total_mappings": 7
+    "total_mappings": 8
   },
   "mappings": {
+    "binutils": "binutils",
     "bitcoin": "bitcoin",
     "bitcoin-daemon": "bitcoin",
     "bitcoin-qt": "bitcoin",

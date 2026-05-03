@@ -1,23 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "o",
-    "total_mappings": 12
+    "total_mappings": 2
   },
   "mappings": {
-    "openjdk-doc": "openjdk",
-    "openjdk-src": "openjdk",
-    "openjdk11-doc": "openjdk",
-    "openjdk11-src": "openjdk",
-    "openjdk17-doc": "openjdk",
-    "openjdk17-src": "openjdk",
-    "openjdk21-doc": "openjdk",
-    "openjdk21-src": "openjdk",
-    "openjdk8-doc": "openjdk",
-    "openjdk8-src": "openjdk",
-    "openssl": "openssl@3",
-    "openssl-dev": "openssl"
+    "opencl-mesa": "mesa",
+    "openvpn": "openvpn"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "l",
-    "total_mappings": 2392
+    "total_mappings": 2393
   },
   "mappings": {
     "ldb-tools": "samba",
@@ -248,6 +248,7 @@
     "libxkbregistry0": "libxkbcommon",
     "libzxc-dev": "zxc",
     "libzxc2": "zxc",
+    "libzxc3": "zxc",
     "linux": "linux-headers@6.8",
     "linux-base-6.18.12+deb13-alpha-generic": "linux-headers@6.8",
     "linux-base-6.18.12+deb13-alpha-smp": "linux-headers@6.8",

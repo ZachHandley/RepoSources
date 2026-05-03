@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "s",
@@ -292,7 +292,7 @@
     "sys-apps/pciutils": "pciutils",
     "sys-apps/pcsc-lite": "pcsc-lite",
     "sys-apps/pick": "pick",
-    "sys-apps/pnpm-bin": "pnpm@9",
+    "sys-apps/pnpm-bin": "pnpm@10",
     "sys-apps/progress": "progress",
     "sys-apps/pv": "pv",
     "sys-apps/rename": "rename",

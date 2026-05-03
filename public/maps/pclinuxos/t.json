@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "t",
@@ -13,7 +13,7 @@
     "taglib": "taglib",
     "talloc": "talloc",
     "tar": "gnu-tar",
-    "taskwarrior": "task@2",
+    "taskwarrior": "task",
     "tbb": "tbb",
     "tcl-sqlite3": "sqlite",
     "tclap": "tclap",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "w",
-    "total_mappings": 105
+    "total_mappings": 104
   },
   "mappings": {
     "w3m": "w3m",
@@ -44,7 +44,6 @@
     "webkitgtk4-devel": "webkitgtk",
     "webkitgtk4-doc": "webkitgtk",
     "webkitgtk4-locale": "webkitgtk",
-    "webp-pixbuf-loader": "webp-pixbuf-loader",
     "weechat": "weechat",
     "weechat-devel": "weechat",
     "weechat-doc": "weechat",

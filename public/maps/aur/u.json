@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "u",
-    "total_mappings": 88
+    "total_mappings": 89
   },
   "mappings": {
     "uade": "uade",
@@ -58,6 +58,7 @@
     "unixodbc-git": "unixodbc",
     "unnethack": "unnethack",
     "unnethack-git": "unnethack",
+    "unordered_dense-git": "unordered_dense",
     "unpaper-git": "unpaper",
     "unshield-git": "unshield",
     "unum": "unum",

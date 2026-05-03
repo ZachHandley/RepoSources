@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "a",
-    "total_mappings": 991
+    "total_mappings": 992
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -434,6 +434,7 @@
     "app-multimedia/jack": "jack",
     "app-multimedia/lame": "lame",
     "app-multimedia/lilypond": "lilypond",
+    "app-multimedia/mda-lv2": "mda-lv2",
     "app-multimedia/mediainfo": "media-info",
     "app-multimedia/mjpegtools": "mjpegtools",
     "app-multimedia/mkvtoolnix": "mkvtoolnix",
@@ -582,7 +583,7 @@
     "app-penetration/sqlmap": "sqlmap",
     "app-productivity/beancount": "beancount",
     "app-productivity/presenterm": "presenterm",
-    "app-productivity/taskwarrior": "task@2",
+    "app-productivity/taskwarrior": "task",
     "app-proxy/cloudflared": "cloudflared",
     "app-proxy/dante": "dante",
     "app-proxy/gost": "gost",

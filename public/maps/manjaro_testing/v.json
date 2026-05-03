@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "v",
-    "total_mappings": 73
+    "total_mappings": 72
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -66,7 +66,6 @@
     "vulkan-headers": "vulkan-headers",
     "vulkan-icd-loader": "vulkan-loader",
     "vulkan-intel": "mesa",
-    "vulkan-kosmickrisp": "mesa",
     "vulkan-mesa-implicit-layers": "mesa",
     "vulkan-mesa-layers": "mesa",
     "vulkan-nouveau": "mesa",

@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-03T04:06:03Z",
+    "source": "repology-dump",
+    "distro": "homebrew_tap_brewsci_bio",
+    "shard": "v",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "vcflib": "vcflib"
+  }
+}

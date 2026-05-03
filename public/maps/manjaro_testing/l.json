@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "l",
-    "total_mappings": 874
+    "total_mappings": 871
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -247,7 +247,6 @@
     "lib32-vulkan-gfxstream": "mesa",
     "lib32-vulkan-icd-loader": "vulkan-loader",
     "lib32-vulkan-intel": "mesa",
-    "lib32-vulkan-kosmickrisp": "mesa",
     "lib32-vulkan-mesa-implicit-layers": "mesa",
     "lib32-vulkan-mesa-layers": "mesa",
     "lib32-vulkan-nouveau": "mesa",
@@ -784,8 +783,6 @@
     "linux612-headers": "linux-headers@6.8",
     "linux618": "linux-headers@6.8",
     "linux618-headers": "linux-headers@6.8",
-    "linux619": "linux-headers@6.8",
-    "linux619-headers": "linux-headers@6.8",
     "linux66": "linux-headers@6.8",
     "linux66-headers": "linux-headers@6.8",
     "linux70": "linux-headers@6.8",

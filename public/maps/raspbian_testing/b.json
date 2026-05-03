@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "b",
-    "total_mappings": 316
+    "total_mappings": 318
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -198,6 +198,8 @@
     "binwalk": "binwalk",
     "bioawk": "bioawk",
     "bioperl": "bioperl",
+    "biosig": "biosig",
+    "biosig-tools": "biosig",
     "bison": "bison",
     "bison-doc": "bison",
     "bitlbee": "bitlbee",

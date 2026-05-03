@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
     "shard": "p",
-    "total_mappings": 738
+    "total_mappings": 740
   },
   "mappings": {
     "p0f": "p0f",
@@ -449,6 +449,7 @@
     "python-gumbo": "gumbo-parser",
     "python-hivex": "hivex",
     "python-hy": "hy",
+    "python-hyphy": "hyphy",
     "python-imaging": "pillow",
     "python-imobiledevice": "libimobiledevice",
     "python-iptcdata": "libiptcdata",
@@ -659,6 +660,7 @@
     "python3-gumbo": "gumbo-parser",
     "python3-hivex": "hivex",
     "python3-hy": "hy",
+    "python3-hyphy": "hyphy",
     "python3-img2pdf": "img2pdf",
     "python3-isort": "isort",
     "python3-jenkins-job-builder": "jenkins-job-builder",

@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "pacstall",
     "shard": "g",
-    "total_mappings": 10
+    "total_mappings": 11
   },
   "mappings": {
     "ghcup-bin": "ghcup",
     "git": "git",
     "git-delta-deb": "git-delta",
     "git-extras-git": "git-extras",
+    "git-review": "git-review",
     "github-cli-bin": "gh",
     "github-cli-deb": "gh",
     "gitui-git": "gitui",

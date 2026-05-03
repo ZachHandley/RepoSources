@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "d",
-    "total_mappings": 5
+    "total_mappings": 6
   },
   "mappings": {
     "dash": "dash-shell",
     "debuginfod": "elfutils",
     "default-jdk": "openjdk",
     "default-jre": "openjdk",
-    "device-mapper": "device-mapper"
+    "dejagnu": "deja-gnu",
+    "dovecot": "dovecot"
   }
 }

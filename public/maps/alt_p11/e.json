@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "e",
-    "total_mappings": 196
+    "total_mappings": 198
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -45,6 +45,8 @@
     "eigen3-examples": "eigen@3",
     "eigen3-examples-debuginfo": "eigen@3",
     "ejabberd": "ejabberd",
+    "ekphos": "ekphos",
+    "ekphos-debuginfo": "ekphos",
     "electric": "electric",
     "electric-javadoc": "electric",
     "elementary-data": "efl",

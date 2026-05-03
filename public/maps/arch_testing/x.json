@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "x",
-    "total_mappings": 1
+    "total_mappings": 3
   },
   "mappings": {
-    "x86_energy_perf_policy": "linux-headers@6.8"
+    "x86_energy_perf_policy": "linux-headers@6.8",
+    "xapian-core": "xapian",
+    "xapian-core-docs": "xapian"
   }
 }

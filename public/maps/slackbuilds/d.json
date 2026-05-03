@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "d",
@@ -288,7 +288,7 @@
     "development/php84": "php@8.4",
     "development/pkgconf": "pkgconf",
     "development/pkgdiff": "pkgdiff",
-    "development/pnpm": "pnpm@9",
+    "development/pnpm": "pnpm@10",
     "development/pocl": "pocl",
     "development/polyml": "polyml",
     "development/portaudio": "portaudio",

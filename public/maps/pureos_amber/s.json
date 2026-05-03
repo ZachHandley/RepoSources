@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "s",
-    "total_mappings": 549
+    "total_mappings": 550
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -374,6 +374,7 @@
     "splint": "splint",
     "splint-data": "splint",
     "splint-doc-html": "splint",
+    "spoa": "spoa",
     "sqlcipher": "sqlcipher",
     "sqlformat": "sqlparse",
     "sqlite": "sqlite",

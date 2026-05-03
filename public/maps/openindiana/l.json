@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "l",
-    "total_mappings": 742
+    "total_mappings": 735
   },
   "mappings": {
     "lame": "lame",
@@ -211,8 +211,6 @@
     "library/c++/mdds": "mdds",
     "library/c++/nlohmann-json": "nlohmann-json",
     "library/c++/protobuf": "protobuf@33",
-    "library/c++/protobuf-244": "protobuf@33",
-    "library/c++/protobuf-293": "protobuf@33",
     "library/c++/protobuf-302": "protobuf@33",
     "library/c++/protobuf-340": "protobuf@33",
     "library/c++/protobuf-341": "protobuf@33",
@@ -313,11 +311,6 @@
     "library/gsoap": "gsoap",
     "library/guile": "guile",
     "library/hyperscan": "hyperscan",
-    "library/icu": "icu4c@78",
-    "library/icu-74": "icu4c@78",
-    "library/icu-74/32": "icu4c@78",
-    "library/icu-75": "icu4c@78",
-    "library/icu-75/32": "icu4c@78",
     "library/icu-76": "icu4c@78",
     "library/icu-76/32": "icu4c@78",
     "library/icu-77": "icu4c@78",

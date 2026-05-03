@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "t",
@@ -38,9 +38,9 @@
     "tar": "gnu-tar",
     "tar-debuginfo": "gnu-tar",
     "tar-debugsource": "gnu-tar",
-    "taskwarrior": "task@2",
-    "taskwarrior-debuginfo": "task@2",
-    "taskwarrior-debugsource": "task@2",
+    "taskwarrior": "task",
+    "taskwarrior-debuginfo": "task",
+    "taskwarrior-debugsource": "task",
     "tbb": "tbb",
     "tbb-debuginfo": "tbb",
     "tbb-debugsource": "tbb",

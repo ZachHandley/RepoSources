@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "o",
-    "total_mappings": 301
+    "total_mappings": 302
   },
   "mappings": {
     "oasis": "oasis",
@@ -35,6 +35,7 @@
     "ocrmypdf": "ocrmypdf",
     "ocrmypdf-doc": "ocrmypdf",
     "octave": "octave",
+    "octave-biosig": "biosig",
     "octave-common": "octave",
     "octave-dev": "octave",
     "octave-doc": "octave",

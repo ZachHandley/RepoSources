@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "n",
@@ -147,7 +147,7 @@
     "nodePackages.bower": "bower",
     "nodePackages.js-beautify": "js-beautify",
     "nodePackages.jsonlint": "jsonlint",
-    "nodePackages.pnpm": "pnpm@9",
+    "nodePackages.pnpm": "pnpm@10",
     "nodePackages.prettier": "prettier",
     "nodePackages.semver": "semver",
     "nodePackages.svgo": "svgo",
@@ -158,7 +158,7 @@
     "nodePackages_latest.joplin": "joplin-cli",
     "nodePackages_latest.js-beautify": "js-beautify",
     "nodePackages_latest.jsonlint": "jsonlint",
-    "nodePackages_latest.pnpm": "pnpm@9",
+    "nodePackages_latest.pnpm": "pnpm@10",
     "nodePackages_latest.prettier": "prettier",
     "nodePackages_latest.semver": "semver",
     "nodePackages_latest.svgo": "svgo",

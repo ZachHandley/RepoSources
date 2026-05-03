@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "pacstall",
     "shard": "t",
@@ -10,7 +10,7 @@
     "tailscale": "tailscale",
     "talm-bin": "talm",
     "talosctl-bin": "talosctl",
-    "taskwarrior": "task@2",
+    "taskwarrior": "task",
     "tgpt-bin": "tgpt",
     "tmpmail-bin": "tmpmail",
     "tmux": "tmux",

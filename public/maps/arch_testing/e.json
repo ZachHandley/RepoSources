@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "e",
-    "total_mappings": 38
+    "total_mappings": 39
   },
   "mappings": {
     "elfutils": "elfutils",
@@ -44,6 +44,7 @@
     "erlang-tftp": "erlang@27",
     "erlang-tools": "erlang@27",
     "erlang-wx": "erlang@27",
-    "erlang-xmerl": "erlang@27"
+    "erlang-xmerl": "erlang@27",
+    "esphome": "esphome"
   }
 }

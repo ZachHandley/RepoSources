@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "l",
-    "total_mappings": 1715
+    "total_mappings": 1717
   },
   "mappings": {
     "ladspa-rubberband": "rubberband",
@@ -602,6 +602,8 @@
     "libgedit-amtk": "libgedit-amtk",
     "libgedit-amtk5-devel": "libgedit-amtk",
     "libgedit-amtk5_0": "libgedit-amtk",
+    "libgemmi_cpp-devel": "gemmi",
+    "libgemmi_cpp0": "gemmi",
     "libgerbv-devel": "gerbv",
     "libgerbv1": "gerbv",
     "libgetdns-devel": "getdns",

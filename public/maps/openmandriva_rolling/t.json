@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "t",
@@ -21,9 +21,9 @@
     "tailscale": "tailscale",
     "talloc": "talloc",
     "tar": "libarchive",
-    "task": "task@2",
-    "task-debuginfo": "task@2",
-    "task-debugsource": "task@2",
+    "task": "task",
+    "task-debuginfo": "task",
+    "task-debugsource": "task",
     "task-git": "git",
     "tbb": "tbb",
     "tcc": "tcc",

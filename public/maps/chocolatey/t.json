@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "t",
@@ -47,7 +47,7 @@
     "Trippy (Portable)": "trippy",
     "Trivy": "trivy",
     "TruffleHog": "trufflehog",
-    "Tr\u00e6fik": "traefik@2",
+    "Tr\u00e6fik": "traefik",
     "TypeScript": "typescript",
     "Typos Language Server": "typos-lsp",
     "tailscale": "tailscale",
@@ -93,7 +93,7 @@
     "topgrade": "topgrade",
     "tor": "tor",
     "toxiproxy": "toxiproxy",
-    "traefik": "traefik@2",
+    "traefik": "traefik",
     "transifex-cli": "transifex-cli",
     "transmission": "transmission-cli",
     "transmission-qt": "transmission-cli",

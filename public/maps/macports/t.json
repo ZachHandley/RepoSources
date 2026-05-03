@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "t",
@@ -23,7 +23,7 @@
     "tanka": "tanka",
     "taplo": "taplo",
     "tarsnap": "tarsnap",
-    "task": "task@2",
+    "task": "task",
     "taskopen": "taskopen",
     "tasksh": "tasksh",
     "taskwarrior-tui": "taskwarrior-tui",
@@ -401,7 +401,7 @@
     "toxcore": "toxcore",
     "toxiproxy": "toxiproxy",
     "tradcpp": "tradcpp",
-    "traefik": "traefik@2",
+    "traefik": "traefik",
     "translate-shell": "translate-shell",
     "translate-toolkit": "translate-toolkit",
     "transmission": "transmission-cli",

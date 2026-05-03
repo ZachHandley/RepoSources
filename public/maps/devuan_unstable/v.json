@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "v",
-    "total_mappings": 128
+    "total_mappings": 135
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -103,6 +103,13 @@
     "vncsnapshot": "vncsnapshot",
     "vnstat": "vnstat",
     "vnstati": "vnstat",
+    "vnu": "vnu",
+    "vnu-client": "vnu",
+    "vnu-common": "vnu",
+    "vnu-jetty12": "vnu",
+    "vnu-jetty9": "vnu",
+    "vnu-server": "vnu",
+    "vnu-tomcat11": "vnu",
     "vo-aacenc": "libvo-aacenc",
     "vo-amrwbenc": "vo-amrwbenc",
     "volk": "volk",

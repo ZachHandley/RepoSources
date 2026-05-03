@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "h",
-    "total_mappings": 127
+    "total_mappings": 131
   },
   "mappings": {
     "h2o": "h2o",
@@ -131,6 +131,10 @@
     "hyperv-daemons": "linux-headers@6.8",
     "hypervisor-modules-6.19.6+2-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-6.19.6+2-powerpc64le-di": "linux-headers@6.8",
+    "hyphy": "hyphy",
+    "hyphy-common": "hyphy",
+    "hyphy-mpi": "hyphy",
+    "hyphy-pt": "hyphy",
     "hypopg": "hypopg",
     "hypre": "hypre",
     "hyx": "hyx"

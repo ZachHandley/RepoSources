@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "a",
-    "total_mappings": 101
+    "total_mappings": 117
   },
   "mappings": {
     "aalib": "aalib",
@@ -15,6 +15,9 @@
     "acpica-tools": "acpica",
     "acpica-unix": "acpica",
     "adwaita-icon-theme": "adwaita-icon-theme",
+    "affs-modules-6.18.24-m68k-di": "linux-headers@6.8",
+    "affs-modules-6.18.24-powerpc-di": "linux-headers@6.8",
+    "affs-modules-6.18.24-powerpc64-di": "linux-headers@6.8",
     "affs-modules-6.18.5+2-m68k-di": "linux-headers@6.8",
     "affs-modules-6.18.5+2-powerpc-di": "linux-headers@6.8",
     "affs-modules-6.18.5+2-powerpc64-di": "linux-headers@6.8",
@@ -72,6 +75,19 @@
     "at-spi2-core": "at-spi2-core",
     "at-spi2-core-udeb": "at-spi2-core",
     "at-spi2-doc": "at-spi2-core",
+    "ata-modules-6.18.24-alpha-generic-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-amd64-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-arm64-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-armmp-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-loong64-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-m68k-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-parisc-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-parisc64-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-powerpc-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-powerpc64-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-powerpc64le-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-riscv64-di": "linux-headers@6.8",
+    "ata-modules-6.18.24-sparc64-di": "linux-headers@6.8",
     "ata-modules-6.18.5+2-alpha-generic-di": "linux-headers@6.8",
     "ata-modules-6.18.5+2-amd64-di": "linux-headers@6.8",
     "ata-modules-6.18.5+2-arm64-di": "linux-headers@6.8",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "p",
@@ -49,7 +49,7 @@
     "pluto": "pluto",
     "pngcrush": "pngcrush",
     "pngquant": "pngquant",
-    "pnpm": "pnpm@9",
+    "pnpm": "pnpm@10",
     "pocketbase": "pocketbase",
     "pocketsphinx": "cmu-pocketsphinx",
     "podman": "podman",

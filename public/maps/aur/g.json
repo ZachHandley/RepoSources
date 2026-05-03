@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "g",
-    "total_mappings": 674
+    "total_mappings": 675
   },
   "mappings": {
     "g++9-bin": "gcc@14",
@@ -142,6 +142,7 @@
     "gegl-git": "gegl",
     "gemgen": "gemgen",
     "gemini-cli-git": "gemini-cli",
+    "gemmi": "gemmi",
     "genders": "genders",
     "genext2fs": "genext2fs",
     "gengetopt-git": "gengetopt",

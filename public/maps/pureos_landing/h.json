@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "pureos_landing",
     "shard": "h",
-    "total_mappings": 117
+    "total_mappings": 121
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -121,6 +121,10 @@
     "hyperv-daemons": "linux-headers@6.8",
     "hypervisor-modules-6.12.73+deb13-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-6.12.73+deb13-powerpc64le-di": "linux-headers@6.8",
+    "hyphy": "hyphy",
+    "hyphy-common": "hyphy",
+    "hyphy-mpi": "hyphy",
+    "hyphy-pt": "hyphy",
     "hypopg": "hypopg",
     "hypre": "hypre",
     "hyx": "hyx"

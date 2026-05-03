@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "f",
-    "total_mappings": 74
+    "total_mappings": 75
   },
   "mappings": {
     "faac": "faac",
@@ -74,6 +74,7 @@
     "fresh-editor": "fresh-editor",
     "fribidi": "fribidi",
     "frotz": "frotz",
+    "frozen": "frozen",
     "fs-uae": "fs-uae",
     "fstrm": "fstrm",
     "ftgl": "ftgl",

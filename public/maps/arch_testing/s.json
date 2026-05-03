@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "s",
-    "total_mappings": 1
+    "total_mappings": 2
   },
   "mappings": {
-    "sed": "gnu-sed"
+    "stress-ng": "stress-ng",
+    "sysprof": "sysprof"
   }
 }

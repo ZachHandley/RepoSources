@@ -1,13 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "p",
-    "total_mappings": 3
+    "total_mappings": 7
   },
   "mappings": {
+    "pdal": "pdal",
     "perf": "linux-headers@6.8",
+    "podofo": "podofo",
+    "podofo-tools": "podofo",
+    "postgis": "postgis",
     "python-gdal": "gdal",
     "python-pyarrow": "apache-arrow"
   }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "b",
-    "total_mappings": 64
+    "total_mappings": 65
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -56,6 +56,7 @@
     "bootterm": "bootterm",
     "borgmatic": "borgmatic",
     "botan": "botan@2",
+    "box2d": "box2d",
     "bpytop": "bpytop",
     "brotli": "brotli",
     "bsdiff": "bsdiff",

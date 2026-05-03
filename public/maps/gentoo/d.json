@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "d",
-    "total_mappings": 984
+    "total_mappings": 983
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -672,7 +672,6 @@
     "dev-python/packaging": "python-packaging",
     "dev-python/pdm": "pdm",
     "dev-python/pillow": "pillow",
-    "dev-python/pipenv": "pipenv",
     "dev-python/pivy": "pivy",
     "dev-python/poetry": "poetry",
     "dev-python/pyarrow": "apache-arrow",

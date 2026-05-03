@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "g",
-    "total_mappings": 11138
+    "total_mappings": 11142
   },
   "mappings": {
     "G'MIC": "gmic",
@@ -92,7 +92,6 @@
     "GNU Libidn": "libidn",
     "GNU Libtool": "libtool",
     "GNU Linear Programming Kit": "glpk",
-    "GNU MAC Changer": "macchanger",
     "GNU MIX Development Kit": "mdk",
     "GNU MPC": "libmpc",
     "GNU MPFR": "mpfr",
@@ -152,6 +151,7 @@
     "GNU libunistring": "libunistring",
     "GNU lightning": "lightning",
     "GNU m4": "m4",
+    "GNU macchanger": "macchanger",
     "GNU make": "make",
     "GNU moe": "moe",
     "GNU mtools": "mtools",
@@ -3012,6 +3012,11 @@
     "gemgen": "gemgen",
     "gemini-cli": "gemini-cli",
     "gemini-cli-git": "gemini-cli",
+    "gemmi": "gemmi",
+    "gemmi-debuginfo": "gemmi",
+    "gemmi-debugsource": "gemmi",
+    "gemmi-dev": "gemmi",
+    "gemmi-devel": "gemmi",
     "genact": "genact",
     "genders": "genders",
     "genders-base": "genders",
@@ -7440,7 +7445,6 @@
     "gnome.yelp-xsl": "yelp-xsl",
     "gnome.zenity": "zenity",
     "gnome/accessibility/at-spi2-core": "at-spi2-core",
-    "gnome/accessibility/at-spi2-core/32": "at-spi2-core",
     "gnome/adwaita-icon-theme": "adwaita-icon-theme",
     "gnome/appstream": "appstream",
     "gnome/at-spi2-core": "at-spi2-core",

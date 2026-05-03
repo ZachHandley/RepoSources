@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "g",
-    "total_mappings": 698
+    "total_mappings": 699
   },
   "mappings": {
     "GMT": "gmt",
@@ -473,6 +473,7 @@
     "git-crypt": "git-crypt",
     "git-crypt-debuginfo": "git-crypt",
     "git-crypt-debugsource": "git-crypt",
+    "git-delta": "git-delta",
     "git-filter-repo": "git-filter-repo",
     "git-imerge": "git-imerge",
     "git-review": "git-review",

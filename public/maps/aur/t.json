@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "t",
-    "total_mappings": 376
+    "total_mappings": 377
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -34,7 +34,7 @@
     "tarsnap-gui": "tarsnap-gui",
     "tarsnapper": "tarsnapper",
     "tartufo": "tartufo",
-    "task-git": "task@2",
+    "task-git": "task",
     "task-spooler": "task-spooler",
     "taskd-git": "taskd",
     "taskflow-git": "taskflow",
@@ -227,6 +227,7 @@
     "tmuxinator": "tmuxinator",
     "tnef": "tnef",
     "tnftpd": "tnftpd",
+    "toast-bin": "toast",
     "tock-bin": "tock",
     "todoist-bin": "todoist-cli",
     "todoist-git": "todoist-cli",
@@ -268,8 +269,8 @@
     "tracy-bin": "tracy",
     "tracy-git": "tracy",
     "trader": "trader",
-    "traefik-bin": "traefik@2",
-    "traefik-git": "traefik@2",
+    "traefik-bin": "traefik",
+    "traefik-git": "traefik",
     "trafficserver": "trafficserver",
     "traildb-git": "traildb",
     "transcrypt": "transcrypt",

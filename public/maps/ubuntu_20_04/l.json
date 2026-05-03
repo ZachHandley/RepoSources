@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "ubuntu_20_04",
     "shard": "l",
-    "total_mappings": 6317
+    "total_mappings": 6319
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -4999,6 +4999,8 @@
     "libspnav": "libspnav",
     "libspnav-dev": "libspnav",
     "libspnav0": "libspnav",
+    "libspoa-dev": "spoa",
+    "libspoa3": "spoa",
     "libspqr2": "suite-sparse",
     "libsqlcipher-dev": "sqlcipher",
     "libsqlcipher0": "sqlcipher",

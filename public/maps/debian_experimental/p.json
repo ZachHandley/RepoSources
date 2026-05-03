@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "p",
-    "total_mappings": 99
+    "total_mappings": 106
   },
   "mappings": {
     "papilo": "papilo",
@@ -35,6 +35,10 @@
     "perl-debug": "perl",
     "perl-doc": "perl",
     "perl-modules-5.42": "perl",
+    "petsc": "petsc",
+    "petsc-dev": "petsc",
+    "petsc3.25-doc": "petsc",
+    "petsc64-dev": "petsc",
     "php-google-protobuf": "protobuf@33",
     "phpunit": "phpunit",
     "pmix": "pmix",
@@ -77,6 +81,9 @@
     "python-libewf": "libewf",
     "python-numpy-doc": "numpy",
     "python-scipy-doc": "scipy",
+    "python3-adios2": "adios2",
+    "python3-adios2-mpi": "adios2",
+    "python3-adios2-serial": "adios2",
     "python3-clang-20": "llvm@21",
     "python3-cracklib": "cracklib",
     "python3-gdal": "gdal",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "s",
@@ -36,7 +36,7 @@
     "sys-apps/lsr": "lsr",
     "sys-apps/nvimpager": "nvimpager",
     "sys-apps/ov": "ov",
-    "sys-apps/pnpm-bin": "pnpm@9",
+    "sys-apps/pnpm-bin": "pnpm@10",
     "sys-apps/sd": "sd",
     "sys-cluster/genders": "genders",
     "sys-cluster/kops-bin": "kops",

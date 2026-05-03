@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "n",
@@ -338,7 +338,7 @@
     "net/torsocks": "torsocks",
     "net/toxcore": "toxcore",
     "net/toxiproxy": "toxiproxy",
-    "net/traefik": "traefik@2",
+    "net/traefik": "traefik",
     "net/transmission": "transmission-cli",
     "net/transmission-qt": "transmission-cli",
     "net/transmission-x11": "transmission-cli",

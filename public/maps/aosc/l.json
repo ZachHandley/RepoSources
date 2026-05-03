@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "l",
@@ -47,7 +47,7 @@
     "lang-js/nodejs-22": "node@24",
     "lang-js/nodejs-24": "node@24",
     "lang-js/nvm": "nvm",
-    "lang-js/pnpm": "pnpm@9",
+    "lang-js/pnpm": "pnpm@10",
     "lang-js/quickjs": "quickjs",
     "lang-js/typescript": "typescript",
     "lang-js/yarn": "yarn",
@@ -486,7 +486,7 @@
     "linux-kernel-6.10.8": "linux-headers@6.8",
     "linux-kernel-6.14.10": "linux-headers@6.8",
     "linux-kernel-6.14.9": "linux-headers@6.8",
-    "linux-kernel-6.18.16": "linux-headers@6.8",
+    "linux-kernel-6.18.25": "linux-headers@6.8",
     "linux-kernel-lts-6.12.28": "linux-headers@6.8",
     "linux-kernel-lts-6.12.31": "linux-headers@6.8",
     "linux-kernel-lts-6.12.32": "linux-headers@6.8",

@@ -1,14 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "d",
-    "total_mappings": 3
+    "total_mappings": 5
   },
   "mappings": {
     "default-jdk": "openjdk",
     "default-jre": "openjdk",
-    "device-mapper": "device-mapper"
+    "device-mapper": "device-mapper",
+    "docker": "docker",
+    "doxygen": "doxygen"
   }
 }

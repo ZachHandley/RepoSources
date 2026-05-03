@@ -1,15 +1,49 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "e",
-    "total_mappings": 4
+    "total_mappings": 38
   },
   "mappings": {
     "elfutils": "elfutils",
     "emacs": "emacs",
     "emacs-nox": "emacs",
-    "emacs-wayland": "emacs"
+    "emacs-wayland": "emacs",
+    "erlang": "erlang@27",
+    "erlang-asn1": "erlang@27",
+    "erlang-common_test": "erlang@27",
+    "erlang-core": "erlang@27",
+    "erlang-debugger": "erlang@27",
+    "erlang-dialyzer": "erlang@27",
+    "erlang-diameter": "erlang@27",
+    "erlang-edoc": "erlang@27",
+    "erlang-eldap": "erlang@27",
+    "erlang-erl_interface": "erlang@27",
+    "erlang-et": "erlang@27",
+    "erlang-eunit": "erlang@27",
+    "erlang-ftp": "erlang@27",
+    "erlang-headless": "erlang@27",
+    "erlang-inets": "erlang@27",
+    "erlang-jinterface": "erlang@27",
+    "erlang-megaco": "erlang@27",
+    "erlang-mnesia": "erlang@27",
+    "erlang-observer": "erlang@27",
+    "erlang-odbc": "erlang@27",
+    "erlang-os_mon": "erlang@27",
+    "erlang-parsetools": "erlang@27",
+    "erlang-public_key": "erlang@27",
+    "erlang-reltool": "erlang@27",
+    "erlang-runtime_tools": "erlang@27",
+    "erlang-sasl": "erlang@27",
+    "erlang-snmp": "erlang@27",
+    "erlang-ssh": "erlang@27",
+    "erlang-ssl": "erlang@27",
+    "erlang-syntax_tools": "erlang@27",
+    "erlang-tftp": "erlang@27",
+    "erlang-tools": "erlang@27",
+    "erlang-wx": "erlang@27",
+    "erlang-xmerl": "erlang@27"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "fedora_41",
     "shard": "p",
@@ -421,7 +421,7 @@
     "pngcrush": "pngcrush",
     "pngnq": "pngnq",
     "pngquant": "pngquant",
-    "pnpm": "pnpm@9",
+    "pnpm": "pnpm@10",
     "po4a": "po4a",
     "pocketsphinx": "cmu-pocketsphinx",
     "pocketsphinx-devel": "cmu-pocketsphinx",

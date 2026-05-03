@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
     "shard": "t",
@@ -13,7 +13,7 @@
     "talloc-dev": "talloc",
     "talloc-python": "talloc",
     "tar": "gnu-tar",
-    "task": "task@2",
+    "task": "task",
     "tcc": "tcc",
     "tcc-arm": "tcc",
     "tcc-c67": "tcc",

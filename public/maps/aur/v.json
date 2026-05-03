@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "v",
-    "total_mappings": 156
+    "total_mappings": 158
   },
   "mappings": {
     "v": "v",
@@ -34,6 +34,8 @@
     "vapoursynth-plugin-descale-git": "vapoursynth-descale",
     "vapoursynth-plugin-imwri-git": "vapoursynth-imwri",
     "vapoursynth-plugin-ocr-git": "vapoursynth-ocr",
+    "vcflib": "vcflib",
+    "vcflib-git": "vcflib",
     "vcftools": "vcftools",
     "vcluster": "vcluster",
     "vcluster-bin": "vcluster",

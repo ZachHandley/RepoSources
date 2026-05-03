@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "r",
-    "total_mappings": 610
+    "total_mappings": 616
   },
   "mappings": {
     "R": "r",
@@ -88,6 +88,9 @@
     "redwax-tool": "redwax-tool",
     "redwax-tool-debuginfo": "redwax-tool",
     "redwax-tool-debugsource": "redwax-tool",
+    "reposurgeon": "reposurgeon",
+    "reposurgeon-debuginfo": "reposurgeon",
+    "reposurgeon-debugsource": "reposurgeon",
     "reproc": "reproc",
     "reproc-debuginfo": "reproc",
     "reproc-debugsource": "reproc",
@@ -464,6 +467,9 @@
     "rust-fd-find": "fd",
     "rust-fd-find-debuginfo": "fd",
     "rust-fd-find-debugsource": "fd",
+    "rust-git-delta": "git-delta",
+    "rust-git-delta-debuginfo": "git-delta",
+    "rust-git-delta-debugsource": "git-delta",
     "rust-just": "just",
     "rust-just+default-devel": "just",
     "rust-just-debuginfo": "just",

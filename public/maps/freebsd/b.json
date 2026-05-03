@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "b",
-    "total_mappings": 226
+    "total_mappings": 230
   },
   "mappings": {
     "Bento4": "bento4",
@@ -135,6 +135,7 @@
     "biology/gffread": "gffread",
     "biology/hmmer": "hmmer",
     "biology/htslib": "htslib",
+    "biology/hyphy": "hyphy",
     "biology/igv": "igv",
     "biology/jellyfish": "jellyfish",
     "biology/kallisto": "kallisto",
@@ -154,9 +155,11 @@
     "biology/seqan3": "seqan3",
     "biology/seqkit": "seqkit",
     "biology/seqtk": "seqtk",
+    "biology/spoa": "spoa",
     "biology/star": "rna-star",
     "biology/stringtie": "stringtie",
     "biology/tabixpp": "tabixpp",
+    "biology/vcflib": "vcflib",
     "biology/vcftools": "vcftools",
     "biology/vsearch": "vsearch",
     "biology/wfa2-lib": "wfa2-lib",
@@ -213,6 +216,7 @@
     "brogue-nox11": "brogue",
     "broot": "broot",
     "brotli": "brotli",
+    "brpc": "brpc",
     "bsdconv": "bsdconv",
     "bsdsfv": "bsdsfv",
     "bstring": "bstring",

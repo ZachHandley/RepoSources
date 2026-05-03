@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-03T04:06:03Z",
+    "source": "repology-dump",
+    "distro": "artix_testing",
+    "shard": "x",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "xapian-core": "xapian",
+    "xapian-core-docs": "xapian"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "l",
-    "total_mappings": 6195
+    "total_mappings": 6197
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -4755,6 +4755,8 @@
     "libspnav": "libspnav",
     "libspnav-dev": "libspnav",
     "libspnav0": "libspnav",
+    "libspoa-dev": "spoa",
+    "libspoa1.1.5": "spoa",
     "libspqr2": "suite-sparse",
     "libsqlcipher-dev": "sqlcipher",
     "libsqlcipher0": "sqlcipher",

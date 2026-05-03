@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "l",
-    "total_mappings": 862
+    "total_mappings": 861
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -247,7 +247,6 @@
     "lib32-vulkan-gfxstream": "mesa",
     "lib32-vulkan-icd-loader": "vulkan-loader",
     "lib32-vulkan-intel": "mesa",
-    "lib32-vulkan-kosmickrisp": "mesa",
     "lib32-vulkan-mesa-implicit-layers": "mesa",
     "lib32-vulkan-mesa-layers": "mesa",
     "lib32-vulkan-nouveau": "mesa",

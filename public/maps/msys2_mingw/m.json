@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "msys2_mingw",
     "shard": "m",
-    "total_mappings": 3072
+    "total_mappings": 3071
   },
   "mappings": {
     "mingw-w64-64tass": "tass64",
@@ -454,10 +454,7 @@
     "mingw-w64-i686-fribidi": "fribidi",
     "mingw-w64-i686-gc": "bdw-gc",
     "mingw-w64-i686-gcc": "gcc@14",
-    "mingw-w64-i686-gcc-fortran": "gcc@14",
-    "mingw-w64-i686-gcc-libgfortran": "gcc@14",
     "mingw-w64-i686-gcc-libs": "gcc@14",
-    "mingw-w64-i686-gcc-lto-dump": "gcc@14",
     "mingw-w64-i686-gdb": "aarch64-elf-gdb",
     "mingw-w64-i686-gdb-multiarch": "aarch64-elf-gdb",
     "mingw-w64-i686-gdbm": "gdbm",
@@ -1550,6 +1547,7 @@
     "mingw-w64-unifdef": "unifdef",
     "mingw-w64-unittest-cpp": "unittest-cpp",
     "mingw-w64-unixodbc": "unixodbc",
+    "mingw-w64-unordered_dense": "unordered_dense",
     "mingw-w64-unpaper": "unpaper",
     "mingw-w64-upx": "upx",
     "mingw-w64-uriparser": "uriparser",
@@ -2948,6 +2946,7 @@
     "mingw-w64-x86_64-unifdef": "unifdef",
     "mingw-w64-x86_64-unittest-cpp": "unittest-cpp",
     "mingw-w64-x86_64-unixodbc": "unixodbc",
+    "mingw-w64-x86_64-unordered_dense": "unordered_dense",
     "mingw-w64-x86_64-unpaper": "unpaper",
     "mingw-w64-x86_64-upx": "upx",
     "mingw-w64-x86_64-uriparser": "uriparser",

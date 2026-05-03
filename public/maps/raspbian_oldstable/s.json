@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "raspbian_oldstable",
     "shard": "s",
-    "total_mappings": 683
+    "total_mappings": 684
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -474,6 +474,7 @@
     "splint": "splint",
     "splint-data": "splint",
     "splint-doc-html": "splint",
+    "spoa": "spoa",
     "sq": "sequoia-sq",
     "sqlcipher": "sqlcipher",
     "sqlfluff": "sqlfluff",

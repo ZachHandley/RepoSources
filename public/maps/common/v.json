@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "v",
-    "total_mappings": 1250
+    "total_mappings": 1258
   },
   "mappings": {
     "V": "vlang",
@@ -404,6 +404,8 @@
     "vcdimager-doc": "vcdimager",
     "vcdimager-libs": "vcdimager",
     "vcdimager-xmltools": "vcdimager",
+    "vcflib": "vcflib",
+    "vcflib-git": "vcflib",
     "vcftools": "vcftools",
     "vcftools-debuginfo": "vcftools",
     "vcftools-debugsource": "vcftools",
@@ -911,6 +913,12 @@
     "vnstati": "vnstat",
     "vnstati2": "vnstat",
     "vnu": "vnu",
+    "vnu-client": "vnu",
+    "vnu-common": "vnu",
+    "vnu-jetty12": "vnu",
+    "vnu-jetty9": "vnu",
+    "vnu-server": "vnu",
+    "vnu-tomcat11": "vnu",
     "vo-aacenc": "libvo-aacenc",
     "vo-aacenc-dbg": "libvo-aacenc",
     "vo-aacenc-dbginfo": "libvo-aacenc",

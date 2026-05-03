@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "a",
-    "total_mappings": 1619
+    "total_mappings": 1620
   },
   "mappings": {
     "a52dec-git": "a52dec",
@@ -1424,6 +1424,7 @@
     "apgdiff": "apgdiff",
     "apgdiff-git": "apgdiff",
     "apkeep": "apkeep",
+    "apkeep-bin": "apkeep",
     "apkleaks-git": "apkleaks",
     "apl": "gnu-apl",
     "apl-bin": "gnu-apl",

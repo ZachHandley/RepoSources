@@ -1,15 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "c",
-    "total_mappings": 4
+    "total_mappings": 1
   },
   "mappings": {
-    "ca-certificates-mozilla": "nss",
-    "ccache": "ccache",
-    "cmake": "cmake",
-    "coreutils": "coreutils"
+    "curl": "curl"
   }
 }

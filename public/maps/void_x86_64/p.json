@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "p",
@@ -268,7 +268,7 @@
     "png++-doc": "png++",
     "pngcrush": "pngcrush",
     "pngquant": "pngquant",
-    "pnpm": "pnpm@9",
+    "pnpm": "pnpm@10",
     "po4a": "po4a",
     "pocketsphinx": "cmu-pocketsphinx",
     "poco": "poco",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "d",
-    "total_mappings": 1079
+    "total_mappings": 1080
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -638,6 +638,7 @@
     "dev-libs/udis86": "udis86",
     "dev-libs/unibilium": "unibilium",
     "dev-libs/unittest++": "unittest-cpp",
+    "dev-libs/unordered_dense": "unordered_dense",
     "dev-libs/uriparser": "uriparser",
     "dev-libs/userspace-rcu": "userspace-rcu",
     "dev-libs/utfcpp": "utf8cpp",

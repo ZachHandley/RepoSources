@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "a",
@@ -468,7 +468,7 @@
     "app-misc/sl": "sl",
     "app-misc/superfile": "superfile",
     "app-misc/symlinks": "symlinks",
-    "app-misc/task": "task@2",
+    "app-misc/task": "task",
     "app-misc/tealdeer": "tealdeer",
     "app-misc/television": "television",
     "app-misc/timew": "timewarrior",

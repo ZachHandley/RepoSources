@@ -1,12 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "a",
-    "total_mappings": 24
+    "total_mappings": 29
   },
   "mappings": {
+    "adios2": "adios2",
+    "adios2-data": "adios2",
+    "adios2-mpi-bin": "adios2",
+    "adios2-scripts": "adios2",
+    "adios2-serial-bin": "adios2",
     "affs-modules-7.0-m68k-di": "linux-headers@6.8",
     "affs-modules-7.0-powerpc-di": "linux-headers@6.8",
     "affs-modules-7.0-powerpc64-di": "linux-headers@6.8",

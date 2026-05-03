@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "q",
-    "total_mappings": 167
+    "total_mappings": 168
   },
   "mappings": {
     "qalculate-gtk": "qalculate-gtk",
@@ -113,6 +113,7 @@
     "qt5-declarative": "qt@5",
     "qt5-graphicaleffects": "qt@5",
     "qt5-imageformats": "qt@5",
+    "qt5-location": "qt@5",
     "qt5-multimedia": "qt@5",
     "qt5-networkauth": "qt@5",
     "qt5-quickcontrols": "qt@5",

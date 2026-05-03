@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_science",
     "shard": "s",
-    "total_mappings": 37
+    "total_mappings": 38
   },
   "mappings": {
     "sci-biology/LINKS": "links",
@@ -24,6 +24,7 @@
     "sci-biology/sickle": "sickle",
     "sci-biology/stringtie": "stringtie",
     "sci-biology/tabixpp": "tabixpp",
+    "sci-biology/vcflib": "vcflib",
     "sci-electronics/minipro": "minipro",
     "sci-electronics/mpremote": "micropython",
     "sci-libs/arrayfire": "arrayfire",

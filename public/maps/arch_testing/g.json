@@ -1,13 +1,26 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "g",
-    "total_mappings": 2
+    "total_mappings": 15
   },
   "mappings": {
+    "gcc": "gcc@14",
+    "gcc-ada": "gcc@14",
+    "gcc-d": "gcc@14",
+    "gcc-fortran": "gcc@14",
+    "gcc-gcobol": "gcc@14",
+    "gcc-go": "gcc@14",
+    "gcc-libs": "gcc@14",
+    "gcc-m2": "gcc@14",
+    "gcc-objc": "gcc@14",
+    "gcc-rust": "gcc@14",
     "gdal": "gdal",
-    "gnutls": "gnutls"
+    "glibc": "glibc",
+    "glibc-locales": "glibc@2.17",
+    "gmt": "gmt",
+    "gmt-doc": "gmt"
   }
 }

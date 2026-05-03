@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "s",
-    "total_mappings": 93
+    "total_mappings": 97
   },
   "mappings": {
     "sata-modules-7.0-alpha-generic-di": "linux-headers@6.8",
@@ -67,6 +67,10 @@
     "serial-modules-7.0-powerpc64-di": "linux-headers@6.8",
     "serial-modules-7.0-powerpc64le-di": "linux-headers@6.8",
     "simde": "simde",
+    "slepc": "slepc",
+    "slepc-dev": "slepc",
+    "slepc3.25-doc": "slepc",
+    "slepc64-dev": "slepc",
     "sound-modules-7.0-amd64-di": "linux-headers@6.8",
     "sound-modules-7.0-arm64-di": "linux-headers@6.8",
     "sound-modules-7.0-armmp-di": "linux-headers@6.8",

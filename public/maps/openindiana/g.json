@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "g",
-    "total_mappings": 89
+    "total_mappings": 88
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -46,7 +46,6 @@
     "gmp": "gmp",
     "gnome-themes-extra": "gnome-themes-extra",
     "gnome/accessibility/at-spi2-core": "at-spi2-core",
-    "gnome/accessibility/at-spi2-core/32": "at-spi2-core",
     "gnome/config/gsettings-desktop-schemas": "gsettings-desktop-schemas",
     "gnome/theme/adwaita-icon-theme": "adwaita-icon-theme",
     "gnome/theme/gnome-themes-extra": "gnome-themes-extra",

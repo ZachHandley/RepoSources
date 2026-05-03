@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "g",
-    "total_mappings": 67
+    "total_mappings": 71
   },
   "mappings": {
     "gdal": "gdal",
@@ -17,6 +17,10 @@
     "gecode-debugsource": "gecode",
     "gecode-devel": "gecode",
     "gecode-minizinc": "gecode",
+    "gemmi": "gemmi",
+    "gemmi-debuginfo": "gemmi",
+    "gemmi-debugsource": "gemmi",
+    "gemmi-devel": "gemmi",
     "geotiff": "libgeotiff",
     "geotiff-debuginfo": "libgeotiff",
     "geotiff-debugsource": "libgeotiff",

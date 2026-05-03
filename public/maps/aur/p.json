@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "p",
-    "total_mappings": 1129
+    "total_mappings": 1130
   },
   "mappings": {
     "p11-kit-git": "p11-kit",
@@ -758,7 +758,7 @@
     "pmd": "pmd",
     "pmtiles": "pmtiles",
     "pngcheck": "pngcheck",
-    "pnpm-bin": "pnpm@9",
+    "pnpm-bin": "pnpm@10",
     "pocket-id": "pocket-id",
     "pocket-id-bin": "pocket-id",
     "pocket-id-git": "pocket-id",
@@ -859,6 +859,7 @@
     "precomp-git": "precomp",
     "prek": "prek",
     "prek-bin": "prek",
+    "prek-git": "prek",
     "premake-git": "premake",
     "premake2": "premake",
     "premake2-bin": "premake",

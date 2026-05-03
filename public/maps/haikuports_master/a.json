@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "a",
-    "total_mappings": 217
+    "total_mappings": 218
   },
   "mappings": {
     "app-accessibility/espeak": "espeak",
@@ -83,6 +83,7 @@
     "app-editors/joe": "joe",
     "app-editors/kakoune": "kakoune",
     "app-editors/mg": "mg",
+    "app-editors/msedit": "msedit",
     "app-editors/nano": "nano",
     "app-editors/ne": "ne",
     "app-editors/neovim": "neovim",
@@ -135,7 +136,7 @@
     "app-misc/screen": "screen",
     "app-misc/screenfetch": "screenfetch",
     "app-misc/sl": "sl",
-    "app-misc/task": "task@2",
+    "app-misc/task": "task",
     "app-misc/tmux": "tmux",
     "app-misc/toilet": "toilet",
     "app-misc/vifm": "vifm",

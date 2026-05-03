@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "g",
@@ -60,7 +60,6 @@
     "GNU Libidn": "libidn",
     "GNU Libtool": "libtool",
     "GNU Linear Programming Kit": "glpk",
-    "GNU MAC Changer": "macchanger",
     "GNU MIX Development Kit": "mdk",
     "GNU MPC": "libmpc",
     "GNU MPFR": "mpfr",
@@ -110,6 +109,7 @@
     "GNU libunistring": "libunistring",
     "GNU lightning": "lightning",
     "GNU m4": "m4",
+    "GNU macchanger": "macchanger",
     "GNU moe": "moe",
     "GNU mtools": "mtools",
     "GNU nano": "nano",

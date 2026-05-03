@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "m",
-    "total_mappings": 1625
+    "total_mappings": 1629
   },
   "mappings": {
     "m4": "m4",
@@ -646,6 +646,7 @@
     "mingw32-libjpeg-turbo-debuginfo": "jpeg-turbo",
     "mingw32-libjpeg-turbo-static": "jpeg-turbo",
     "mingw32-libkml": "libkml",
+    "mingw32-libkml-debuginfo": "libkml",
     "mingw32-liblerc": "liblerc",
     "mingw32-libltdl": "libtool",
     "mingw32-libmicrohttpd": "libmicrohttpd",
@@ -894,6 +895,7 @@
     "mingw32-turbojpeg": "jpeg-turbo",
     "mingw32-turbojpeg-static": "jpeg-turbo",
     "mingw32-uriparser": "uriparser",
+    "mingw32-uriparser-debuginfo": "uriparser",
     "mingw32-usbredir": "usbredir",
     "mingw32-usbredir-static": "usbredir",
     "mingw32-vulkan-headers": "vulkan-headers",
@@ -1142,6 +1144,7 @@
     "mingw64-libjpeg-turbo-debuginfo": "jpeg-turbo",
     "mingw64-libjpeg-turbo-static": "jpeg-turbo",
     "mingw64-libkml": "libkml",
+    "mingw64-libkml-debuginfo": "libkml",
     "mingw64-liblerc": "liblerc",
     "mingw64-libltdl": "libtool",
     "mingw64-libmicrohttpd": "libmicrohttpd",
@@ -1389,6 +1392,7 @@
     "mingw64-turbojpeg": "jpeg-turbo",
     "mingw64-turbojpeg-static": "jpeg-turbo",
     "mingw64-uriparser": "uriparser",
+    "mingw64-uriparser-debuginfo": "uriparser",
     "mingw64-usbredir": "usbredir",
     "mingw64-usbredir-static": "usbredir",
     "mingw64-vulkan-headers": "vulkan-headers",

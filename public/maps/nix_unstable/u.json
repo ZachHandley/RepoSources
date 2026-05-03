@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "u",
-    "total_mappings": 121
+    "total_mappings": 122
   },
   "mappings": {
     "uade": "uade",
@@ -87,6 +87,7 @@
     "unixtools.write": "gnu-getopt",
     "unnethack": "unnethack",
     "unoconv": "unoconv",
+    "unordered_dense": "unordered_dense",
     "unp": "unp",
     "unpaper": "unpaper",
     "unrtf": "unrtf",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "s",
-    "total_mappings": 1071
+    "total_mappings": 1073
   },
   "mappings": {
     "SCIP": "scip",
@@ -64,6 +64,7 @@
     "science/dynare": "dynare",
     "science/eccodes": "eccodes",
     "science/gabedit": "gabedit",
+    "science/gemmi": "gemmi",
     "science/gromacs": "gromacs",
     "science/hdf5": "hdf5@1.10",
     "science/hdf5-110": "hdf5@1.10",
@@ -611,6 +612,7 @@
     "spirv-llvm-translator-llvm22": "spirv-llvm-translator",
     "spirv-tools": "spirv-tools",
     "splint": "splint",
+    "spoa": "spoa",
     "spoofdpi": "spoofdpi",
     "spot": "spot",
     "spotify-player": "spotify_player",

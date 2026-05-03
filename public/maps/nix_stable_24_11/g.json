@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "g",
-    "total_mappings": 509
+    "total_mappings": 510
   },
   "mappings": {
     "g2o": "g2o",
@@ -71,6 +71,7 @@
     "geeqie": "geeqie",
     "geesefs": "geesefs",
     "gegl": "gegl",
+    "gemmi": "gemmi",
     "genact": "genact",
     "genext2fs": "genext2fs",
     "gengetopt": "gengetopt",

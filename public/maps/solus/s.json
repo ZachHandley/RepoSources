@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "s",
-    "total_mappings": 309
+    "total_mappings": 312
   },
   "mappings": {
     "SFML": "sfml@2",
@@ -92,6 +92,9 @@
     "sdl3": "sdl3",
     "sdl3-dbginfo": "sdl3",
     "sdl3-devel": "sdl3",
+    "sdl3-ttf": "sdl3_ttf",
+    "sdl3-ttf-dbginfo": "sdl3_ttf",
+    "sdl3-ttf-devel": "sdl3_ttf",
     "sed": "gnu-sed",
     "sed-dbginfo": "gnu-sed",
     "seexpr": "seexpr",

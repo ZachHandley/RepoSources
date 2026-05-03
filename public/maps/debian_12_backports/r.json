@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "debian_12_backports",
     "shard": "r",
-    "total_mappings": 32
+    "total_mappings": 34
   },
   "mappings": {
     "racket": "minimal-racket",
@@ -32,6 +32,8 @@
     "rfkill-modules-6.12.73+deb12-loong64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.74+deb12-amd64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.74+deb12-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.85+deb12-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.85+deb12-loong64-di": "linux-headers@6.8",
     "rfkill-modules-6.5.0-0.deb12.4-686-di": "linux-headers@6.8",
     "rfkill-modules-6.5.0-0.deb12.4-686-pae-di": "linux-headers@6.8",
     "rfkill-modules-6.5.0-0.deb12.4-amd64-di,linux-image-amd64-signed-template": "linux-headers@6.8",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "fedora_42",
     "shard": "n",
@@ -259,7 +259,7 @@
     "nodejs-libs": "node@24",
     "nodejs-marked": "marked",
     "nodejs-npm": "node@24",
-    "nodejs-pnpm": "pnpm@9",
+    "nodejs-pnpm": "pnpm@10",
     "nodejs18": "node@24",
     "nodejs18-devel": "node@24",
     "nodejs18-docs": "node@24",

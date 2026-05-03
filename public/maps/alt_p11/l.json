@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "l",
-    "total_mappings": 6917
+    "total_mappings": 6923
   },
   "mappings": {
     "LibreSSL": "libressl",
@@ -856,8 +856,8 @@
     "libbotan": "botan@2",
     "libbotan-debuginfo": "botan@2",
     "libbotan-devel": "botan@2",
-    "libbotan-devel-debuginfo": "botan@2",
-    "libbotan-doc": "botan@2",
+    "libbotan3": "botan@2",
+    "libbotan3-debuginfo": "botan@2",
     "libbox2d": "box2d",
     "libbox2d-debuginfo": "box2d",
     "libbox2d-devel": "box2d",
@@ -4880,6 +4880,12 @@
     "libraw-devel": "libraw",
     "libraw-samples": "libraw",
     "libraw-samples-debuginfo": "libraw",
+    "libraw0": "libraw",
+    "libraw0-devel": "libraw",
+    "libraw25": "libraw",
+    "libraw25-debuginfo": "libraw",
+    "libraw_r25": "libraw",
+    "libraw_r25-debuginfo": "libraw",
     "librbio4": "suite-sparse",
     "librbio4-debuginfo": "suite-sparse",
     "librdkafka": "librdkafka",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "t",
@@ -12,7 +12,7 @@
     "Taplo": "taplo",
     "Tarantool": "tarantool",
     "Tarsnap": "tarsnap",
-    "Taskwarrior": "task@2",
+    "Taskwarrior": "task",
     "TeX Live": "texlive",
     "Tesseract": "tesseract",
     "TestDisk": "testdisk",
@@ -34,7 +34,7 @@
     "Tombi": "tombi",
     "Tor": "tor",
     "Tox": "toxcore",
-    "Traefik Proxy": "traefik@2",
+    "Traefik Proxy": "traefik",
     "Translate Toolkit": "translate-toolkit",
     "Transmission": "transmission-cli",
     "Tsung": "tsung",

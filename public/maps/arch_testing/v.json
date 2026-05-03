@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-03T04:06:03Z",
+    "source": "repology-dump",
+    "distro": "arch_testing",
+    "shard": "v",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "valgrind": "valgrind",
+    "vtk": "vtk"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "s",
-    "total_mappings": 564
+    "total_mappings": 565
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -377,6 +377,7 @@
     "splint": "splint",
     "splint-data": "splint",
     "splint-doc-html": "splint",
+    "spoa": "spoa",
     "spytrap-adb": "spytrap-adb",
     "sq": "sequoia-sq",
     "sqlcipher": "sqlcipher",

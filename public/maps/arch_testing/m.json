@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "m",
-    "total_mappings": 3
+    "total_mappings": 2
   },
   "mappings": {
-    "maven": "maven",
-    "mermaid-cli": "mermaid-cli",
-    "msedit": "msedit"
+    "mapnik": "mapnik",
+    "maven": "maven"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "q",
-    "total_mappings": 6407
+    "total_mappings": 6408
   },
   "mappings": {
     "Q100531088": "texlab",
@@ -211,7 +211,7 @@
     "Q1183453": "deja-gnu",
     "Q11860238": "glfw",
     "Q1188957": "libvirt",
-    "Q118939881": "pnpm@9",
+    "Q118939881": "pnpm@10",
     "Q119132579": "tree",
     "Q119398768": "wasmtime",
     "Q1194120": "gegl",
@@ -318,6 +318,7 @@
     "Q138775501": "wasm3",
     "Q1388579": "figlet",
     "Q13895877": "nicotine-plus",
+    "Q139595512": "libbpf",
     "Q139941": "maven",
     "Q1403548": "mapproxy",
     "Q1404540": "gnu-go",
@@ -927,7 +928,7 @@
     "Q3487131": "snappy",
     "Q3487229": "sox",
     "Q3509073": "nspr",
-    "Q3515953": "task@2",
+    "Q3515953": "task",
     "Q3529240": "tinyxml",
     "Q3557801": "libva",
     "Q3566968": "webkitgtk",
@@ -1510,7 +1511,7 @@
     "Q96233686": "libvorbis",
     "Q96235722": "theora",
     "Q96252548": "bombadillo",
-    "Q96332968": "traefik@2",
+    "Q96332968": "traefik",
     "Q96419253": "roadrunner",
     "Q965596": "gradle@8",
     "Q966109": "fdupes",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "a",
@@ -134,7 +134,7 @@
     "app-misc/screen": "screen",
     "app-misc/sd": "sd",
     "app-misc/stow": "stow",
-    "app-misc/task": "task@2",
+    "app-misc/task": "task",
     "app-misc/timew": "timewarrior",
     "app-misc/tmuxinator": "tmuxinator",
     "app-misc/tokei": "tokei",

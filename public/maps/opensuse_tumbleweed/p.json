@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "p",
@@ -441,10 +441,10 @@
     "pngquant": "pngquant",
     "pngquant-debuginfo": "pngquant",
     "pngquant-debugsource": "pngquant",
-    "pnpm": "pnpm@9",
-    "pnpm-bash-completion": "pnpm@9",
-    "pnpm-fish-completion": "pnpm@9",
-    "pnpm-zsh-completion": "pnpm@9",
+    "pnpm": "pnpm@10",
+    "pnpm-bash-completion": "pnpm@10",
+    "pnpm-fish-completion": "pnpm@10",
+    "pnpm-zsh-completion": "pnpm@10",
     "po4a": "po4a",
     "po4a-lang": "po4a",
     "pocketbase": "pocketbase",

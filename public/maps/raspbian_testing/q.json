@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "q",
-    "total_mappings": 584
+    "total_mappings": 583
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -388,7 +388,6 @@
     "qt6-virtualkeyboard-plugin": "qt@5",
     "qt6-wayland": "qt@5",
     "qt6-wayland-dev": "qt@5",
-    "qt6-wayland-dev-tools": "qt@5",
     "qt6-wayland-doc": "qt@5",
     "qt6-wayland-doc-html": "qt@5",
     "qt6-wayland-examples": "qt@5",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T22:09:52Z",
+    "generated_at": "2026-05-03T04:06:03Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "t",
@@ -34,10 +34,10 @@
     "tarsnap": "tarsnap",
     "tarsnap-doc": "tarsnap",
     "tarsnap-man": "tarsnap",
-    "taskwarrior": "task@2",
-    "taskwarrior-doc": "task@2",
-    "taskwarrior-man": "task@2",
-    "taskwarrior-zshcomp": "task@2",
+    "taskwarrior": "task",
+    "taskwarrior-doc": "task",
+    "taskwarrior-man": "task",
+    "taskwarrior-zshcomp": "task",
     "tclap": "tclap",
     "tclap-doc": "tclap",
     "tcpdump": "tcpdump",
