@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "s",
-    "total_mappings": 48
+    "total_mappings": 49
   },
   "mappings": {
     "s2geometry": "s2geometry",
@@ -35,6 +35,7 @@
     "sleef": "sleef",
     "snappy": "snappy",
     "soci": "soci",
+    "sol2": "sol2",
     "sophus": "sophus",
     "soplex": "soplex",
     "soundtouch": "sound-touch",

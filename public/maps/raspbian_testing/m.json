@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "m",
-    "total_mappings": 423
+    "total_mappings": 429
   },
   "mappings": {
     "m4": "m4",
@@ -228,6 +228,11 @@
     "mktorrent": "mktorrent",
     "mkvtoolnix": "mkvtoolnix",
     "mkvtoolnix-gui": "mkvtoolnix",
+    "ml-burg": "smlnj",
+    "ml-lex": "smlnj",
+    "ml-lpt": "smlnj",
+    "ml-nlffigen": "smlnj",
+    "ml-yacc": "smlnj",
     "mle": "mle",
     "mlir-18-tools": "llvm@21",
     "mlir-19-tools": "llvm@21",
@@ -282,7 +287,8 @@
     "monero": "monero",
     "monero-tests": "monero",
     "mongo-c-driver": "mongo-c-driver@1",
-    "mongoose": "suite-sparse",
+    "mongoose": "mongoose",
+    "mongoose-webserver-source": "mongoose",
     "monit": "monit",
     "monitoring-plugins": "monitoring-plugins",
     "monitoring-plugins-basic": "monitoring-plugins",

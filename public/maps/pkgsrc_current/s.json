@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "s",
-    "total_mappings": 667
+    "total_mappings": 668
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -96,6 +96,7 @@
     "security/flawfinder": "flawfinder",
     "security/flawz": "flawz",
     "security/gcr": "gcr",
+    "security/gcr4": "gcr",
     "security/git-crypt": "git-crypt",
     "security/git-secret": "git-secret",
     "security/gnupg": "gnupg@1.4",
@@ -143,6 +144,7 @@
     "security/libssh": "libssh",
     "security/libssh2": "libssh2",
     "security/libtasn1": "libtasn1",
+    "security/libtatsu": "libtatsu",
     "security/libtomcrypt": "libtomcrypt",
     "security/libuecc": "libuecc",
     "security/libyubikey": "libyubikey",
@@ -252,6 +254,7 @@
     "serd": "serd",
     "serf": "apache-serf",
     "serie": "serie",
+    "sesh": "sesh",
     "sfml": "sfml@2",
     "sfsexp": "sfsexp",
     "sha3sum": "sha3sum",
@@ -322,6 +325,7 @@
     "smake": "smake",
     "smalltalk": "gnu-smalltalk",
     "smartmontools": "smartmontools",
+    "smlnj": "smlnj",
     "smpeg": "smpeg",
     "smpeg2": "smpeg2",
     "snapcast": "snapcast",
@@ -523,7 +527,6 @@
     "sysutils/fclones": "fclones",
     "sysutils/fd-find": "fd",
     "sysutils/fdupes": "fdupes",
-    "sysutils/fff": "fff",
     "sysutils/file": "file-formula",
     "sysutils/findutils": "findutils",
     "sysutils/flashrom": "flashrom",
@@ -568,7 +571,6 @@
     "sysutils/navi": "navi",
     "sysutils/ncdu": "ncdu",
     "sysutils/ncdu2": "ncdu",
-    "sysutils/neofetch": "neofetch",
     "sysutils/netmask": "netmask",
     "sysutils/nmrpflash": "nmrpflash",
     "sysutils/nnn": "nnn",
@@ -579,7 +581,6 @@
     "sysutils/p5-collectd": "collectd",
     "sysutils/parallel-disk-usage": "parallel-disk-usage",
     "sysutils/pciutils": "pciutils",
-    "sysutils/pfetch": "pfetch",
     "sysutils/pidof": "pidof",
     "sysutils/podman": "podman",
     "sysutils/psftools": "psftools",

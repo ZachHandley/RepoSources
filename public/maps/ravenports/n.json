@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "n",
-    "total_mappings": 31
+    "total_mappings": 30
   },
   "mappings": {
     "nano": "nano",
@@ -12,7 +12,6 @@
     "nawk": "awk",
     "ncftp": "ncftp",
     "ncurses": "ncurses",
-    "neofetch": "neofetch",
     "neon": "neon",
     "neovim": "neovim",
     "net-snmp": "net-snmp",

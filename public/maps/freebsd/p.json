@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "p",
-    "total_mappings": 575
+    "total_mappings": 583
   },
   "mappings": {
     "PETSc": "petsc",
@@ -26,6 +26,7 @@
     "pagmo2": "pagmo",
     "pam_google_authenticator": "google-authenticator-libpam",
     "pam_u2f": "pam-u2f",
+    "paml": "paml",
     "pan": "pan",
     "pango": "pango",
     "pangomm": "pangomm",
@@ -83,7 +84,6 @@
     "perl5.38": "perl",
     "perl5.40": "perl",
     "pet": "pet",
-    "pfetch": "pfetch",
     "pfetch-rs": "pfetch-rs",
     "pgFormatter": "pgformatter",
     "pg_cron": "pg_cron",
@@ -181,6 +181,7 @@
     "plow": "plow",
     "plplot": "plplot",
     "plutobook": "plutobook",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "plzip": "plzip",
     "pmccabe": "pmccabe",
@@ -570,6 +571,12 @@
     "py314-packaging": "python-packaging",
     "py314-setuptools": "python-setuptools",
     "py314-sqlite3": "python@3.9",
+    "py315-build": "python-build",
+    "py315-cython": "cython",
+    "py315-gdbm": "python-gdbm@3.14",
+    "py315-packaging": "python-packaging",
+    "py315-setuptools": "python-setuptools",
+    "py315-sqlite3": "python@3.9",
     "pybind11": "pybind11",
     "pyenv": "pyenv",
     "pylint-py311": "pylint",
@@ -581,6 +588,7 @@
     "python312": "python@3.9",
     "python313": "python@3.9",
     "python314": "python@3.9",
+    "python315": "python@3.9",
     "pytorch": "pytorch"
   }
 }

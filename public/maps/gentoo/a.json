@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "a",
-    "total_mappings": 626
+    "total_mappings": 624
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -365,7 +365,6 @@
     "app-misc/detox": "detox",
     "app-misc/digitemp": "digitemp",
     "app-misc/dtach": "dtach",
-    "app-misc/dvorak7min": "dvorak7min",
     "app-misc/empty": "empty",
     "app-misc/fastfetch": "fastfetch",
     "app-misc/fdupes": "fdupes",
@@ -397,7 +396,6 @@
     "app-misc/mkcert": "mkcert",
     "app-misc/mmv": "mmv",
     "app-misc/mosquitto": "mosquitto",
-    "app-misc/neofetch": "neofetch",
     "app-misc/nnn": "nnn",
     "app-misc/no-more-secrets": "no-more-secrets",
     "app-misc/ola": "ola",

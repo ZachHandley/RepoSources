@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "g",
-    "total_mappings": 675
+    "total_mappings": 677
   },
   "mappings": {
     "g++9-bin": "gcc@14",
@@ -424,6 +424,8 @@
     "go-chroma-bin": "chroma",
     "go-critic": "go-critic",
     "go-git": "go@1.25",
+    "go-hass-agent": "go-hass-agent",
+    "go-hass-agent-bin": "go-hass-agent",
     "go-jira": "go-jira",
     "go-jira-bin": "go-jira",
     "go-jsonnet": "go-jsonnet",

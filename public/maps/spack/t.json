@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "t",
-    "total_mappings": 42
+    "total_mappings": 43
   },
   "mappings": {
     "talloc": "talloc",
@@ -37,6 +37,7 @@
     "tl-expected": "tl-expected",
     "tmux": "tmux",
     "tnftp": "tnftp",
+    "tofu-ls": "tofu-ls",
     "tomcat": "tomcat@10",
     "toml11": "toml11",
     "tomlplusplus": "tomlplusplus",

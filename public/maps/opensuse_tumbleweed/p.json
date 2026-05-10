@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "p",
-    "total_mappings": 1643
+    "total_mappings": 1649
   },
   "mappings": {
     "PDAL": "pdal",
@@ -407,6 +407,10 @@
     "pluto-debugsource": "pluto",
     "pluto-fish-completion": "pluto",
     "pluto-zsh-completion": "pluto",
+    "plutosvg": "plutosvg",
+    "plutosvg-debuginfo": "plutosvg",
+    "plutosvg-debugsource": "plutosvg",
+    "plutosvg-devel": "plutosvg",
     "plutovg": "plutovg",
     "plutovg-debuginfo": "plutovg",
     "plutovg-debugsource": "plutovg",
@@ -1301,6 +1305,7 @@
     "python312-documentation-debugsource": "python@3.9",
     "python312-idle": "python@3.9",
     "python312-packaging": "python-packaging",
+    "python312-pipx": "pipx",
     "python312-setuptools": "python-setuptools",
     "python312-setuptools-wheel": "python-setuptools",
     "python312-testsuite": "python@3.9",
@@ -1513,6 +1518,7 @@
     "python314-core": "python@3.9",
     "python314-core-debuginfo": "python@3.9",
     "python314-core-debugsource": "python@3.9",
+    "python314-csvkit": "csvkit",
     "python314-curses": "python@3.9",
     "python314-dbm": "python@3.9",
     "python314-debuginfo": "python@3.9",

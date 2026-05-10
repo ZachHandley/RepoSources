@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "e",
-    "total_mappings": 198
+    "total_mappings": 200
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -41,9 +41,11 @@
     "eigen": "eigen@3",
     "eigen2": "eigen@3",
     "eigen3": "eigen@3",
-    "eigen3-docs": "eigen@3",
-    "eigen3-examples": "eigen@3",
-    "eigen3-examples-debuginfo": "eigen@3",
+    "eigen3-blas": "eigen@3",
+    "eigen3-blas-debuginfo": "eigen@3",
+    "eigen3-devel": "eigen@3",
+    "eigen3-lapack": "eigen@3",
+    "eigen3-lapack-debuginfo": "eigen@3",
     "ejabberd": "ejabberd",
     "ekphos": "ekphos",
     "ekphos-debuginfo": "ekphos",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "c",
-    "total_mappings": 232
+    "total_mappings": 233
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -172,6 +172,7 @@
     "coin-or-coinutils": "coinutils",
     "collada-dom": "collada-dom",
     "colordiff": "colordiff",
+    "committed": "committed",
     "compiler-rt": "llvm@21",
     "composer": "composer",
     "confuse": "confuse",

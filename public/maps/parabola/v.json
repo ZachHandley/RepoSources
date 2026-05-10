@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "v",
@@ -27,6 +27,7 @@
     "vde2": "vde",
     "vdirsyncer": "vdirsyncer",
     "vegeta": "vegeta",
+    "velero": "velero",
     "verilator": "verilator",
     "vhs": "vhs",
     "vice": "vice",
@@ -66,7 +67,6 @@
     "vulkan-headers": "vulkan-headers",
     "vulkan-icd-loader": "vulkan-loader",
     "vulkan-intel": "mesa",
-    "vulkan-kosmickrisp": "mesa",
     "vulkan-mesa-implicit-layers": "mesa",
     "vulkan-mesa-layers": "mesa",
     "vulkan-nouveau": "mesa",

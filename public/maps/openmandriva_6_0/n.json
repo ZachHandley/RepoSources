@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openmandriva_6_0",
     "shard": "n",
-    "total_mappings": 142
+    "total_mappings": 141
   },
   "mappings": {
     "nacl": "nacl",
@@ -42,7 +42,6 @@
     "nemu": "nemu",
     "nemu-debuginfo": "nemu",
     "nemu-debugsource": "nemu",
-    "neofetch": "neofetch",
     "neon": "neon",
     "neon-i18n": "neon",
     "neovim": "neovim",

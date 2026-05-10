@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "l",
-    "total_mappings": 1717
+    "total_mappings": 1721
   },
   "mappings": {
     "ladspa-rubberband": "rubberband",
@@ -34,7 +34,7 @@
     "libCLHEP-devel": "clhep",
     "libCLHEP2": "clhep",
     "libCatch2-devel": "catch2",
-    "libCatch2_3.12.0": "catch2",
+    "libCatch2_3.14.0": "catch2",
     "libCello": "libcello",
     "libCello-devel": "libcello",
     "libCello0": "libcello",
@@ -627,6 +627,8 @@
     "libgig13": "libgig",
     "libginac-devel": "ginac",
     "libginac13": "ginac",
+    "libginkgo-devel": "ginkgo",
+    "libginkgo1.6.0": "ginkgo",
     "libgiza-devel": "giza",
     "libgiza2": "giza",
     "libglbinding-devel": "glbinding@2",
@@ -1171,6 +1173,8 @@
     "libplist": "libplist",
     "libplist2.0-devel": "libplist",
     "libplist2.0_4": "libplist",
+    "libplutosvg-devel": "plutosvg",
+    "libplutosvg0": "plutosvg",
     "libplutovg-devel": "plutovg",
     "libplutovg1": "plutovg",
     "libpnetcdf-devel": "pnetcdf",

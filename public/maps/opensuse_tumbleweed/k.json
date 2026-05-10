@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "k",
-    "total_mappings": 384
+    "total_mappings": 370
   },
   "mappings": {
     "k3sup": "k3sup",
@@ -268,20 +268,6 @@
     "kubernetes-scheduler-minus1": "kubernetes-cli@1.35",
     "kubernetes-scheduler-minus2": "kubernetes-cli@1.35",
     "kubernetes-scheduler-minus3": "kubernetes-cli@1.35",
-    "kubernetes1.32": "kubernetes-cli@1.35",
-    "kubernetes1.32-apiserver": "kubernetes-cli@1.35",
-    "kubernetes1.32-client": "kubernetes-cli@1.35",
-    "kubernetes1.32-client-bash-completion": "kubernetes-cli@1.35",
-    "kubernetes1.32-client-common": "kubernetes-cli@1.35",
-    "kubernetes1.32-client-fish-completion": "kubernetes-cli@1.35",
-    "kubernetes1.32-controller-manager": "kubernetes-cli@1.35",
-    "kubernetes1.32-debuginfo": "kubernetes-cli@1.35",
-    "kubernetes1.32-debugsource": "kubernetes-cli@1.35",
-    "kubernetes1.32-kubeadm": "kubernetes-cli@1.35",
-    "kubernetes1.32-kubelet": "kubernetes-cli@1.35",
-    "kubernetes1.32-kubelet-common": "kubernetes-cli@1.35",
-    "kubernetes1.32-proxy": "kubernetes-cli@1.35",
-    "kubernetes1.32-scheduler": "kubernetes-cli@1.35",
     "kubernetes1.33": "kubernetes-cli@1.35",
     "kubernetes1.33-apiserver": "kubernetes-cli@1.35",
     "kubernetes1.33-client": "kubernetes-cli@1.35",

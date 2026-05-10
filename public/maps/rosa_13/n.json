@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "n",
-    "total_mappings": 255
+    "total_mappings": 256
   },
   "mappings": {
     "nacl": "nacl",
@@ -69,6 +69,8 @@
     "nagios-plugins-debugsource": "nagios-plugins",
     "nagios-www": "nagios",
     "nano": "nano",
+    "nano-debuginfo": "nano",
+    "nano-debugsource": "nano",
     "nanomsg": "nanomsg",
     "nanomsg-debuginfo": "nanomsg",
     "nanomsg-debugsource": "nanomsg",
@@ -110,7 +112,6 @@
     "nemu": "nemu",
     "nemu-debuginfo": "nemu",
     "nemu-debugsource": "nemu",
-    "neofetch": "neofetch",
     "neon": "neon",
     "neon-i18n": "neon",
     "neovim": "neovim",

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-10T04:26:33Z",
+    "source": "repology-dump",
+    "distro": "artix_testing",
+    "shard": "b",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "bootconfig": "linux-headers@6.8",
+    "bpf": "linux-headers@6.8"
+  }
+}

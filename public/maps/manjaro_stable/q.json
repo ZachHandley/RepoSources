@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "q",
-    "total_mappings": 174
+    "total_mappings": 171
   },
   "mappings": {
     "qalculate-gtk": "qalculate-gtk",
@@ -113,18 +113,15 @@
     "qscintilla-qt5": "qscintilla2",
     "qscintilla-qt6": "qscintilla2",
     "qsv": "qsv",
-    "qt5-3d": "qt@5",
     "qt5-base": "qt@5",
     "qt5-declarative": "qt@5",
     "qt5-graphicaleffects": "qt@5",
     "qt5-imageformats": "qt@5",
-    "qt5-location": "qt@5",
     "qt5-multimedia": "qt@5",
     "qt5-networkauth": "qt@5",
     "qt5-quickcontrols": "qt@5",
     "qt5-quickcontrols2": "qt@5",
     "qt5-script": "qt@5",
-    "qt5-sensors": "qt@5",
     "qt5-serialport": "qt@5",
     "qt5-speech": "qt@5",
     "qt5-svg": "qt@5",
@@ -171,15 +168,15 @@
     "qt6-webview": "qt@5",
     "qt6-xcb-private-headers": "qt@5",
     "qtkeychain": "qtkeychain",
-    "qtkeychain-qt5": "qtkeychain",
     "qtkeychain-qt6": "qtkeychain",
     "quazip": "quazip",
-    "quazip-qt5": "quazip",
     "quazip-qt6": "quazip",
     "quiche": "cloudflare-quiche",
     "quilt": "quilt",
     "qwen-code": "qwen-code",
     "qwt": "qwt",
+    "qwt-common": "qwt",
+    "qwt-qt5": "qwt-qt5",
     "qxmpp": "qxmpp"
   }
 }

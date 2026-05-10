@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "c",
-    "total_mappings": 221
+    "total_mappings": 224
   },
   "mappings": {
     "CGAL": "cgal",
@@ -176,6 +176,9 @@
     "cpio-dbginfo": "cpio",
     "cppcheck": "cppcheck",
     "cppcheck-dbginfo": "cppcheck",
+    "cpptrace": "cpptrace",
+    "cpptrace-dbginfo": "cpptrace",
+    "cpptrace-devel": "cpptrace",
     "cppunit": "cppunit",
     "cppunit-dbginfo": "cppunit",
     "cppunit-devel": "cppunit",

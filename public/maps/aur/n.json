@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "n",
-    "total_mappings": 262
+    "total_mappings": 259
   },
   "mappings": {
     "naabu": "naabu",
@@ -64,8 +64,6 @@
     "nemu-git": "nemu",
     "neocmakelsp": "neocmakelsp",
     "neocmakelsp-bin": "neocmakelsp",
-    "neofetch": "neofetch",
-    "neofetch-git": "neofetch",
     "neomutt-git": "neomutt",
     "neosync-bin": "neosync",
     "neovide-bin": "neovide",
@@ -267,7 +265,6 @@
     "nxproxy": "nx",
     "nyancat-git": "nyancat",
     "nyx-git": "nyx",
-    "nzbget-git": "nzbget",
-    "nzbget-git-debug": "nzbget"
+    "nzbget-git": "nzbget"
   }
 }

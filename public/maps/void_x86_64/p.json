@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "p",
-    "total_mappings": 475
+    "total_mappings": 476
   },
   "mappings": {
     "PyInstaller": "pyinstaller",
@@ -65,6 +65,7 @@
     "patchelf": "patchelf",
     "patchutils": "patchutils",
     "pax": "pax",
+    "payload-dumper-go": "payload-dumper-go",
     "pbzip2": "pbzip2",
     "pcaudiolib": "pcaudiolib",
     "pcaudiolib-devel": "pcaudiolib",
@@ -96,7 +97,6 @@
     "peru": "peru",
     "pet": "pet",
     "pex": "pex",
-    "pfetch": "pfetch",
     "pg_top": "pg_top",
     "pgbackrest": "pgbackrest",
     "pgbouncer": "pgbouncer",
@@ -354,6 +354,7 @@
     "prek": "prek",
     "premake4": "premake",
     "premake5": "premake",
+    "presenterm": "presenterm",
     "primecount": "primecount",
     "primecount-devel": "primecount",
     "primesieve": "primesieve",

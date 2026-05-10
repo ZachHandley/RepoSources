@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "p",
-    "total_mappings": 303
+    "total_mappings": 304
   },
   "mappings": {
     "PyQt-builder": "pyqt-builder",
@@ -215,6 +215,7 @@
     "python-imobiledevice": "libimobiledevice",
     "python-ipython": "ipython",
     "python-ipython-py3": "ipython",
+    "python-kdj": "libkate",
     "python-lensfun": "lensfun",
     "python-libcap-ng-py3": "libcap-ng",
     "python-libcec": "libcec",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "h",
-    "total_mappings": 76
+    "total_mappings": 77
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -82,6 +82,7 @@
     "hyfetch": "hyfetch",
     "hyperfine": "hyperfine",
     "hyperscan": "hyperscan",
-    "hyperv": "linux-headers@6.8"
+    "hyperv": "linux-headers@6.8",
+    "hypre": "hypre"
   }
 }

@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "bioarch",
     "shard": "c",
-    "total_mappings": 3
+    "total_mappings": 4
   },
   "mappings": {
     "cctz": "cctz",
     "coalgen": "beast",
+    "cutadapt": "cutadapt",
     "cython2": "cython"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "l",
-    "total_mappings": 5613
+    "total_mappings": 5617
   },
   "mappings": {
     "LimeSuite": "limesuite",
@@ -2833,6 +2833,8 @@
     "lib64plotutils2": "plotutils",
     "lib64plutobook-devel": "plutobook",
     "lib64plutobook0": "plutobook",
+    "lib64plutosvg-devel": "plutosvg",
+    "lib64plutosvg0": "plutosvg",
     "lib64plutovg-devel": "plutovg",
     "lib64plutovg1": "plutovg",
     "lib64pmpi12": "mpich",
@@ -5614,6 +5616,8 @@
     "lvm2": "device-mapper",
     "lynis": "lynis",
     "lynx": "lynx",
+    "lynx-debuginfo": "lynx",
+    "lynx-debugsource": "lynx",
     "lz4": "lz4",
     "lzf": "liblzf",
     "lzip": "lzip",

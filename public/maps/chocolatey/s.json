@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "s",
-    "total_mappings": 170
+    "total_mappings": 172
   },
   "mappings": {
     "SACAD": "sacad",
@@ -59,6 +59,7 @@
     "Splint (Portable)": "splint",
     "SquashFS": "squashfs",
     "Squid (Install)": "squid",
+    "Standard ML of New Jersey (SML/NJ)": "smlnj",
     "Starship": "starship",
     "Static Web Server (sws)": "static-web-server",
     "Stern (Install)": "stern",
@@ -119,6 +120,7 @@
     "smartmontools": "smartmontools",
     "smimesign": "smimesign",
     "smimesign (S/MIME Sign)": "smimesign",
+    "smlnj": "smlnj",
     "snort": "snort",
     "snyk": "snyk-cli",
     "softhsm": "softhsm",

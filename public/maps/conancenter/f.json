@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "f",
-    "total_mappings": 29
+    "total_mappings": 28
   },
   "mappings": {
     "faac": "faac",
     "faiss": "faiss",
     "fast_float": "fast_float",
     "fcl": "fcl",
-    "fff": "fff",
     "ffmpeg": "ffmpeg@7",
     "fftw": "fftw",
     "flac": "flac",

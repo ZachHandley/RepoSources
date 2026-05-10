@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "f",
-    "total_mappings": 75
+    "total_mappings": 74
   },
   "mappings": {
     "faac": "faac",
@@ -27,7 +27,6 @@
     "fennel": "fennel",
     "fetchmail": "fetchmail",
     "ffcall": "libffcall",
-    "fff": "fff",
     "ffmpeg": "ffmpeg@7",
     "fftw": "fftw",
     "fftw3": "fftw",

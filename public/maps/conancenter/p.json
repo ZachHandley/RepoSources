@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "p",
-    "total_mappings": 43
+    "total_mappings": 44
   },
   "mappings": {
     "p7zip": "p7zip",
@@ -29,6 +29,7 @@
     "pixman": "pixman",
     "pkgconf": "pkgconf",
     "plog": "plog",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "pngpp": "png++",
     "poco": "poco",

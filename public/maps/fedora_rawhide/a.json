@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "a",
-    "total_mappings": 353
+    "total_mappings": 351
   },
   "mappings": {
     "Agda": "agda",
@@ -65,8 +65,6 @@
     "age-debuginfo": "age",
     "age-debugsource": "age",
     "agedu": "agedu",
-    "aggregate": "aggregate",
-    "aggregate-ios": "aggregate",
     "agrep": "tre",
     "aha": "aha",
     "ahcpd": "ahcpd",

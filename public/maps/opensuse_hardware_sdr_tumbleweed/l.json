@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_hardware_sdr_tumbleweed",
     "shard": "l",
@@ -27,7 +27,7 @@
     "libitpp8": "itpp",
     "libliquid1": "liquid-dsp",
     "libubertooth1": "ubertooth",
-    "libuhd4_9_0": "uhd",
+    "libuhd4_10_0": "uhd",
     "libvolk3_3": "volk",
     "limesuite": "limesuite",
     "limesuite-debuginfo": "limesuite",

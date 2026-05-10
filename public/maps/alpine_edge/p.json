@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "p",
-    "total_mappings": 1180
+    "total_mappings": 1179
   },
   "mappings": {
     "p0f": "p0f",
@@ -164,8 +164,6 @@
     "perl-strip-nondeterminism-doc": "strip-nondeterminism",
     "perl-subversion": "subversion",
     "perl-utils": "perl",
-    "pfetch": "pfetch",
-    "pfetch-doc": "pfetch",
     "pfetch-rs": "pfetch-rs",
     "pfetch-rs-doc": "pfetch-rs",
     "pg_top": "pg_top",
@@ -569,6 +567,7 @@
     "pipewire-filter-graph-ladspa": "pipewire",
     "pipewire-filter-graph-lv2": "pipewire",
     "pipewire-filter-graph-onnx": "pipewire",
+    "pipewire-filter-graph-sofa": "pipewire",
     "pipewire-jack": "pipewire",
     "pipewire-jack-dev": "pipewire",
     "pipewire-lang": "pipewire",

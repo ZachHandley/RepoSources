@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "l",
-    "total_mappings": 2769
+    "total_mappings": 2768
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1011,7 +1011,6 @@
     "libgda5.0_4": "libgda",
     "libgdal-devel": "gdal",
     "libgdal26": "gdal",
-    "libgdal29": "gdal",
     "libgdal30": "gdal",
     "libgdal31": "gdal",
     "libgdal32": "gdal",

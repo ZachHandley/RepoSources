@@ -1,14 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "f",
-    "total_mappings": 307
+    "total_mappings": 310
   },
   "mappings": {
     "f3": "f3",
     "f3-debuginfo": "f3",
+    "f3d": "f3d",
+    "f3d-debuginfo": "f3d",
+    "f3d-devel": "f3d",
     "faac": "faac",
     "faac-debuginfo": "faac",
     "faad": "faad2",

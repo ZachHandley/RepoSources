@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "o",
-    "total_mappings": 147
+    "total_mappings": 148
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -28,6 +28,7 @@
     "offlineimap": "offlineimap",
     "ogmtools": "ogmtools",
     "oha": "oha",
+    "oils-for-unix": "oils-for-unix",
     "ollama": "ollama",
     "ollama-cuda": "ollama",
     "ollama-docs": "ollama",

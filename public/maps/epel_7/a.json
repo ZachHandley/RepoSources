@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "epel_7",
     "shard": "a",
-    "total_mappings": 54
+    "total_mappings": 53
   },
   "mappings": {
     "Agda": "agda",
@@ -25,7 +25,6 @@
     "afflib": "afflib",
     "afuse": "afuse",
     "agedu": "agedu",
-    "aggregate": "aggregate",
     "aha": "aha",
     "alembic": "alembic",
     "allegro": "allegro",

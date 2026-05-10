@@ -1,16 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "d",
-    "total_mappings": 96
+    "total_mappings": 85
   },
   "mappings": {
     "dasd-extra-modules-6.18.24-s390x-di": "linux-headers@6.8",
-    "dasd-extra-modules-6.18.5+2-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.18.24-s390x-di": "linux-headers@6.8",
-    "dasd-modules-6.18.5+2-s390x-di": "linux-headers@6.8",
     "dash": "dash-shell",
     "dav1d": "dav1d",
     "db5.3": "berkeley-db@5",
@@ -89,15 +87,6 @@
     "drm-core-modules-6.18.24-powerpc64le-di": "linux-headers@6.8",
     "drm-core-modules-6.18.24-riscv64-di": "linux-headers@6.8",
     "drm-core-modules-6.18.24-sparc64-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.5+2-alpha-generic-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.5+2-amd64-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.5+2-armmp-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.5+2-loong64-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.5+2-powerpc-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.5+2-powerpc64-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.5+2-powerpc64le-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.5+2-riscv64-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.5+2-sparc64-di": "linux-headers@6.8",
     "dselect": "dpkg",
     "duktape": "duktape",
     "duktape-dev": "duktape",

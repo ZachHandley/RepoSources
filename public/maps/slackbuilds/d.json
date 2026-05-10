@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "d",
-    "total_mappings": 383
+    "total_mappings": 384
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -21,7 +21,6 @@
     "desktop/foot": "foot",
     "desktop/hyfetch": "hyfetch",
     "desktop/ideviceinstaller": "ideviceinstaller",
-    "desktop/pfetch": "pfetch",
     "desktop/redshift": "redshift",
     "desktop/rofi": "rofi",
     "desktop/screenfetch": "screenfetch",
@@ -137,6 +136,7 @@
     "development/difftastic": "difftastic",
     "development/dmd": "dmd",
     "development/dpkg": "dpkg",
+    "development/dub": "dub",
     "development/dune": "dune",
     "development/ecl": "ecl",
     "development/elixir": "elixir",
@@ -337,6 +337,7 @@
     "development/shc": "shc",
     "development/sloccount": "sloccount",
     "development/smalltalk": "gnu-smalltalk",
+    "development/smlnj": "smlnj",
     "development/snappy": "snappy",
     "development/souffle": "souffle",
     "development/source-highlight": "source-highlight",

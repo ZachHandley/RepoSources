@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "f",
-    "total_mappings": 171
+    "total_mappings": 170
   },
   "mappings": {
     "f3": "f3",
@@ -32,7 +32,6 @@
     "feluda": "feluda",
     "fetchmail": "fetchmail",
     "fetchmailconf": "fetchmail",
-    "fff": "fff",
     "ffmpeg2theora": "ffmpeg2theora",
     "ffmpeg3": "ffmpeg@7",
     "ffmpeg4": "ffmpeg@7",

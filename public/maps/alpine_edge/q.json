@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "q",
-    "total_mappings": 312
+    "total_mappings": 311
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -155,7 +155,6 @@
     "qscintilla-designer": "qscintilla2",
     "qscintilla-dev": "qscintilla2",
     "qscintilla-lang": "qscintilla2",
-    "qt5-assistant": "qt@5",
     "qt5-qdbusviewer": "qt@5",
     "qt5-qtbase": "qt@5",
     "qt5-qtbase-dbg": "qt@5",

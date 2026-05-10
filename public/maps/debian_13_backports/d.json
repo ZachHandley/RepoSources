@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "d",
-    "total_mappings": 181
+    "total_mappings": 202
   },
   "mappings": {
     "dasd-extra-modules-6.16.12+deb13-s390x-di": "linux-headers@6.8",
@@ -18,8 +18,10 @@
     "dasd-extra-modules-6.19.10+deb13-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-6.19.11+deb13-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-6.19.13+deb13-s390x-di": "linux-headers@6.8",
+    "dasd-extra-modules-6.19.14+deb13-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-6.19.6+deb13-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-6.19.8+deb13-s390x-di": "linux-headers@6.8",
+    "dasd-extra-modules-7.0.4+deb13-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.16.12+deb13-s390x-di,drm-core-modules-6.16.12+deb13-4kc-malta-di": "linux-headers@6.8",
     "dasd-modules-6.16.3+deb13-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.17.8+deb13-s390x-di": "linux-headers@6.8",
@@ -30,8 +32,10 @@
     "dasd-modules-6.19.10+deb13-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.19.11+deb13-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.19.13+deb13-s390x-di": "linux-headers@6.8",
+    "dasd-modules-6.19.14+deb13-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.19.6+deb13-s390x-di,drm-core-modules-6.19.6+deb13-alpha-generic-di": "linux-headers@6.8",
     "dasd-modules-6.19.8+deb13-s390x-di,drm-core-modules-6.19.8+deb13-alpha-generic-di": "linux-headers@6.8",
+    "dasd-modules-7.0.4+deb13-s390x-di": "linux-headers@6.8",
     "dcfldd": "dcfldd",
     "ddcutil": "ddcutil",
     "debuginfod": "elfutils",
@@ -172,6 +176,15 @@
     "drm-core-modules-6.19.13+deb13-powerpc64le-di": "linux-headers@6.8",
     "drm-core-modules-6.19.13+deb13-riscv64-di": "linux-headers@6.8",
     "drm-core-modules-6.19.13+deb13-sparc64-di": "linux-headers@6.8",
+    "drm-core-modules-6.19.14+deb13-alpha-generic-di": "linux-headers@6.8",
+    "drm-core-modules-6.19.14+deb13-amd64-di": "linux-headers@6.8",
+    "drm-core-modules-6.19.14+deb13-armmp-di": "linux-headers@6.8",
+    "drm-core-modules-6.19.14+deb13-loong64-di": "linux-headers@6.8",
+    "drm-core-modules-6.19.14+deb13-powerpc-di": "linux-headers@6.8",
+    "drm-core-modules-6.19.14+deb13-powerpc64-di": "linux-headers@6.8",
+    "drm-core-modules-6.19.14+deb13-powerpc64le-di": "linux-headers@6.8",
+    "drm-core-modules-6.19.14+deb13-riscv64-di": "linux-headers@6.8",
+    "drm-core-modules-6.19.14+deb13-sparc64-di": "linux-headers@6.8",
     "drm-core-modules-6.19.6+deb13-amd64-di": "linux-headers@6.8",
     "drm-core-modules-6.19.6+deb13-armmp-di": "linux-headers@6.8",
     "drm-core-modules-6.19.6+deb13-loong64-di": "linux-headers@6.8",
@@ -187,6 +200,14 @@
     "drm-core-modules-6.19.8+deb13-powerpc64-di": "linux-headers@6.8",
     "drm-core-modules-6.19.8+deb13-powerpc64le-di": "linux-headers@6.8",
     "drm-core-modules-6.19.8+deb13-riscv64-di": "linux-headers@6.8",
-    "drm-core-modules-6.19.8+deb13-sparc64-di": "linux-headers@6.8"
+    "drm-core-modules-6.19.8+deb13-sparc64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb13-alpha-generic-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb13-amd64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb13-armmp-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb13-loong64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb13-powerpc-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb13-powerpc64-di,drm-core-modules-7.0.4+deb13-powerpc64le-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb13-riscv64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb13-sparc64-di": "linux-headers@6.8"
   }
 }

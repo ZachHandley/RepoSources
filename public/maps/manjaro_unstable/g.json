@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "g",
-    "total_mappings": 292
+    "total_mappings": 296
   },
   "mappings": {
     "gammaray": "gammaray",
@@ -23,6 +23,9 @@
     "gcc-m2": "gcc@14",
     "gcc-objc": "gcc@14",
     "gcc-rust": "gcc@14",
+    "gcc15": "gcc@14",
+    "gcc15-fortran": "gcc@14",
+    "gcc15-libs": "gcc@14",
     "gcdmaster": "cdrdao",
     "gcovr": "gcovr",
     "gcr": "gcr",
@@ -93,6 +96,7 @@
     "git-town": "git-town",
     "git-zsh-completion": "git",
     "gitea": "gitea",
+    "gitea-runner": "gitea-runner",
     "gitg": "gitg",
     "github-cli": "gh",
     "gitlab-runner": "gitlab-runner",

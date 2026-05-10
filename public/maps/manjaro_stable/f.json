@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "f",
@@ -45,7 +45,6 @@
     "figlet": "figlet",
     "file": "file-formula",
     "file-roller": "file-roller",
-    "finch": "pidgin",
     "findomain": "findomain",
     "findutils": "findutils",
     "fio": "fio",
@@ -79,6 +78,7 @@
     "foremost": "foremost",
     "forge": "forge",
     "forgejo": "forgejo",
+    "forgejo-cli": "forgejo-cli",
     "fossil": "fossil",
     "foundry": "foundry",
     "fox": "fox",

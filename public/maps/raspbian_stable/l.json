@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "l",
-    "total_mappings": 7547
+    "total_mappings": 7555
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1090,6 +1090,7 @@
     "libcjson1": "cjson",
     "libck-dev": "concurrencykit",
     "libck0t64": "concurrencykit",
+    "libckit-smlnj": "smlnj",
     "libclamav-dev": "clamav",
     "libclamav12": "clamav",
     "libclang-11-dev": "llvm@21",
@@ -1158,6 +1159,8 @@
     "libcmark0.30.2": "cmark",
     "libcminpack-dev": "cminpack",
     "libcminpack1": "cminpack",
+    "libcml-smlnj": "smlnj",
+    "libcmlutil-smlnj": "smlnj",
     "libcmocka-dev": "cmocka",
     "libcmocka0": "cmocka",
     "libcoap": "libcoap",
@@ -1725,6 +1728,7 @@
     "libexecline2.9": "execline",
     "libexempi-dev": "exempi",
     "libexempi8": "exempi",
+    "libexene-smlnj": "smlnj",
     "libexif": "libexif",
     "libexif-dev": "libexif",
     "libexif-doc": "libexif",
@@ -3582,7 +3586,9 @@
     "libmlir-18-dev": "llvm@21",
     "libmlir-19": "llvm@21",
     "libmlir-19-dev": "llvm@21",
+    "libmlnlffi-smlnj": "smlnj",
     "libmlpack-dev": "mlpack",
+    "libmlrisctools-smlnj": "smlnj",
     "libmlt++-dev": "mlt",
     "libmlt++7": "mlt",
     "libmlt-data": "mlt",
@@ -4659,6 +4665,7 @@
     "libpgplot0": "giza",
     "libpgpool-dev": "pgpool-ii",
     "libpgpool2": "pgpool-ii",
+    "libpgraphutil-smlnj": "smlnj",
     "libpgsbox8": "wcslib",
     "libpgtypes3": "postgresql@18",
     "libphobos2-ldc-shared-dev": "ldc",
@@ -5646,6 +5653,7 @@
     "libsmi2-common": "libsmi",
     "libsmi2-dev": "libsmi",
     "libsmi2t64": "libsmi",
+    "libsmlnj-smlnj": "smlnj",
     "libsmpeg-dev": "smpeg",
     "libsmpeg0t64": "smpeg",
     "libsnap7-1": "snap7",

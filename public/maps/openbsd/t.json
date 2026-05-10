@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "t",
-    "total_mappings": 386
+    "total_mappings": 385
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -34,7 +34,6 @@
     "telephony/baresip/re": "libre",
     "telephony/coturn": "coturn",
     "telephony/libosip2": "libosip",
-    "telephony/linphone/ortp": "ortp",
     "telephony/pjsua": "pjproject",
     "telephony/sngrep": "sngrep",
     "telephony/spandsp": "spandsp",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "f",
-    "total_mappings": 56
+    "total_mappings": 57
   },
   "mappings": {
     "f3d": "f3d",
@@ -55,6 +55,7 @@
     "freebayes": "freebayes",
     "freeglut": "freeglut",
     "freeipmi": "freeipmi",
+    "freesasa": "freesasa",
     "freetype": "freetype",
     "freexl": "freexl",
     "fribidi": "fribidi",

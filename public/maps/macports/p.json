@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "p",
-    "total_mappings": 982
+    "total_mappings": 983
   },
   "mappings": {
     "PEGTL": "pegtl",
@@ -108,7 +108,6 @@
     "perl5.38": "perl",
     "perl5.40": "perl",
     "petsc": "petsc",
-    "pfetch": "pfetch",
     "pgFormatter": "pgformatter",
     "pgbadger": "pgbadger",
     "pgbouncer": "pgbouncer",
@@ -715,6 +714,7 @@
     "py313-cookiecutter": "cookiecutter",
     "py313-csvkit": "csvkit",
     "py313-cython": "cython",
+    "py313-dlib": "dlib",
     "py313-dns-lexicon": "lexicon",
     "py313-eyed3": "eye-d3",
     "py313-fabric": "fabric",
@@ -779,6 +779,7 @@
     "py314-codestyle": "pycodestyle",
     "py314-cookiecutter": "cookiecutter",
     "py314-cython": "cython",
+    "py314-dlib": "dlib",
     "py314-dns-lexicon": "lexicon",
     "py314-eyed3": "eye-d3",
     "py314-fabric": "fabric",

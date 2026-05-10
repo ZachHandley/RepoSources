@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "s",
-    "total_mappings": 213
+    "total_mappings": 214
   },
   "mappings": {
     "s2n": "s2n",
@@ -106,6 +106,7 @@
     "smalltalk": "gnu-smalltalk",
     "smartdns": "smartdns",
     "smartmontools": "smartmontools",
+    "smlnj": "smlnj",
     "smu": "smu",
     "snakemake": "snakemake",
     "snapcast": "snapcast",

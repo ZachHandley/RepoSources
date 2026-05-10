@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "s",
-    "total_mappings": 594
+    "total_mappings": 597
   },
   "mappings": {
     "s-nail-git": "s-nail",
@@ -122,6 +122,7 @@
     "sdlpop": "sdlpop",
     "sdns-git": "sdns",
     "seal": "seal",
+    "seal-bin": "seal",
     "seam-git": "seam",
     "seaweedfs-git": "seaweedfs",
     "sec": "sec",
@@ -130,7 +131,6 @@
     "sed-git": "gnu-sed",
     "semgrep-bin": "semgrep",
     "sendemail": "sendemail",
-    "sendme": "sendme",
     "sendme-bin": "sendme",
     "senpai-git": "senpai",
     "sentencepiece": "sentencepiece",
@@ -328,6 +328,10 @@
     "sodium-git": "libsodium",
     "soft-serve-git": "soft-serve",
     "softhsm-git": "softhsm",
+    "sol2": "sol2",
+    "sol2-git": "sol2",
+    "sol2-single": "sol2",
+    "sol2-single-git": "sol2",
     "solana": "solana",
     "solana-bin": "solana",
     "solana-cli": "solana",
@@ -423,7 +427,6 @@
     "srecord": "srecord",
     "srt-git": "srt",
     "ssdb": "ssdb",
-    "sse2neon": "sse2neon",
     "ssed": "ssed",
     "ssh-audit-git": "ssh-audit",
     "ssh-vault": "ssh-vault",

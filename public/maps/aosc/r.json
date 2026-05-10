@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "r",
-    "total_mappings": 899
+    "total_mappings": 901
   },
   "mappings": {
     "r": "r",
@@ -487,6 +487,7 @@
     "runtime-imaging/openjpeg": "openjpeg",
     "runtime-imaging/openslide": "openslide",
     "runtime-imaging/pcl": "pcl",
+    "runtime-imaging/plutosvg": "plutosvg",
     "runtime-imaging/plutovg": "plutovg",
     "runtime-imaging/png++": "png++",
     "runtime-imaging/qrencode": "qrencode",
@@ -698,6 +699,7 @@
     "runtime-optenv32/libass+32": "libass",
     "runtime-optenv32/libbluray+32": "libbluray",
     "runtime-optenv32/libbsd+32": "libbsd",
+    "runtime-optenv32/libcaca+32": "libcaca",
     "runtime-optenv32/libcap+32": "libcap",
     "runtime-optenv32/libcddb+32": "libcddb",
     "runtime-optenv32/libcdio+32": "libcdio",

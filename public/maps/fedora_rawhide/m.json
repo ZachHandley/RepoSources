@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "m",
-    "total_mappings": 1629
+    "total_mappings": 1633
   },
   "mappings": {
     "m4": "m4",
@@ -31,6 +31,8 @@
     "mandoc": "mandoc",
     "manifest-tool": "manifest-tool",
     "manifold": "manifold",
+    "manifold-debuginfo": "manifold",
+    "manifold-debugsource": "manifold",
     "manifold-devel": "manifold",
     "manifold-doc": "manifold",
     "mapnik": "mapnik",
@@ -468,6 +470,7 @@
     "mingw32-cairomm-static": "cairomm@1.14",
     "mingw32-cereal": "cereal",
     "mingw32-cfitsio": "cfitsio",
+    "mingw32-cfitsio-debuginfo": "cfitsio",
     "mingw32-cfitsio-tools": "cfitsio",
     "mingw32-check": "check",
     "mingw32-cmocka": "cmocka",
@@ -965,6 +968,7 @@
     "mingw64-cairomm-static": "cairomm@1.14",
     "mingw64-cereal": "cereal",
     "mingw64-cfitsio": "cfitsio",
+    "mingw64-cfitsio-debuginfo": "cfitsio",
     "mingw64-cfitsio-tools": "cfitsio",
     "mingw64-check": "check",
     "mingw64-cmocka": "cmocka",

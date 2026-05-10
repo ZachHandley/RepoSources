@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "o",
-    "total_mappings": 302
+    "total_mappings": 301
   },
   "mappings": {
     "oasis": "oasis",
@@ -184,7 +184,6 @@
     "openjdk-25-jre": "openjdk@21",
     "openjdk-25-jre-headless": "openjdk@21",
     "openjdk-25-jre-zero": "openjdk@21",
-    "openjdk-25-jvmci-jdk": "openjdk@21",
     "openjdk-25-source": "openjdk@21",
     "openjdk-25-testsupport": "openjdk@21",
     "openjdk-26": "openjdk@21",

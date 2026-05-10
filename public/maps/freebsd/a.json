@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "a",
-    "total_mappings": 497
+    "total_mappings": 495
   },
   "mappings": {
     "ALPSCore": "alpscore",
@@ -57,7 +57,6 @@
     "aften": "aften",
     "age": "age",
     "agedu": "agedu",
-    "aggregate": "aggregate",
     "aha": "aha",
     "aichat": "aichat",
     "aide": "aide",
@@ -118,7 +117,6 @@
     "aqbanking": "aqbanking",
     "aravis": "aravis",
     "archey4": "archey4",
-    "archiva": "apache-archiva",
     "archivemount": "archivemount",
     "archivers/7-zip": "sevenzip",
     "archivers/advancecomp": "advancecomp",

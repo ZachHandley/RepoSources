@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_stable_23_11",
     "shard": "n",
-    "total_mappings": 219
+    "total_mappings": 217
   },
   "mappings": {
     "NGT": "ngt",
@@ -47,8 +47,6 @@
     "neko": "neko",
     "neo4j": "neo4j",
     "neocmakelsp": "neocmakelsp",
-    "neofetch": "neofetch",
-    "neofetch-unstable": "neofetch",
     "neomutt": "neomutt",
     "neon": "neon",
     "neovide": "neovide",

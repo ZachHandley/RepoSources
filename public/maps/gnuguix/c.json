@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "c",
-    "total_mappings": 185
+    "total_mappings": 187
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -28,6 +28,7 @@
     "capnproto": "capnp",
     "capstone": "capstone",
     "cargo-audit": "cargo-audit",
+    "cargo-auditable": "cargo-auditable",
     "cargo-bloat": "cargo-bloat",
     "cargo-nextest": "cargo-nextest",
     "carla": "carla",
@@ -185,6 +186,7 @@
     "curlie": "curlie",
     "curlpp": "curlpp",
     "curseofwar": "curseofwar",
+    "cutadapt": "cutadapt",
     "cvs": "cvs",
     "cvs-fast-export": "cvs-fast-export",
     "cxxopts": "cxxopts",

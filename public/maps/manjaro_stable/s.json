@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "s",
@@ -110,6 +110,7 @@
     "smartdns": "smartdns",
     "smartmontools": "smartmontools",
     "smbclient": "samba",
+    "smlnj": "smlnj",
     "smpeg": "smpeg2",
     "sn0int": "sn0int",
     "snapd": "snap",
@@ -204,7 +205,6 @@
     "strongswan": "strongswan",
     "stubby": "stubby",
     "stunnel": "stunnel",
-    "stylelint": "stylelint",
     "stylish-haskell": "stylish-haskell",
     "stylua": "stylua",
     "subversion": "subversion",

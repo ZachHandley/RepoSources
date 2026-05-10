@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_12_backports",
     "shard": "h",
-    "total_mappings": 48
+    "total_mappings": 53
   },
   "mappings": {
     "heif-gdk-pixbuf": "libheif",
@@ -30,6 +30,9 @@
     "hfs-modules-6.12.85+deb12-m68k-di": "linux-headers@6.8",
     "hfs-modules-6.12.85+deb12-powerpc-di": "linux-headers@6.8",
     "hfs-modules-6.12.85+deb12-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-6.12.86+deb12-m68k-di": "linux-headers@6.8",
+    "hfs-modules-6.12.86+deb12-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-6.12.86+deb12-powerpc64-di": "linux-headers@6.8",
     "hfs-modules-6.5.0-0.deb12.4-m68k-di": "linux-headers@6.8",
     "hfs-modules-6.5.0-0.deb12.4-powerpc-di": "linux-headers@6.8",
     "hfs-modules-6.5.0-0.deb12.4-powerpc64-di": "linux-headers@6.8",
@@ -53,6 +56,8 @@
     "hypervisor-modules-6.12.74+deb12-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-6.12.85+deb12-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-6.12.85+deb12-powerpc64le-di": "linux-headers@6.8",
+    "hypervisor-modules-6.12.86+deb12-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-6.12.86+deb12-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-6.5.0-0.deb12.4-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-6.5.0-0.deb12.4-powerpc64le-di": "linux-headers@6.8"
   }

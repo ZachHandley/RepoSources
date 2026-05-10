@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "l",
-    "total_mappings": 1542
+    "total_mappings": 1546
   },
   "mappings": {
     "LGOGDownloader": "lgogdownloader",
@@ -29,9 +29,11 @@
     "latexindent": "texlive",
     "lazydocker": "lazydocker",
     "lazygit": "lazygit",
+    "lazysql": "lazysql",
     "lbzip2": "lbzip2",
     "lc0": "lc0",
     "lc3-tools": "liblc3",
+    "lcdf-typetools": "lcdf-typetools",
     "lcms": "little-cms2",
     "lcms-devel": "little-cms2",
     "lcms2": "little-cms2",
@@ -484,6 +486,8 @@
     "libftdi1-devel": "libftdi",
     "libfuzzy": "ssdeep",
     "libfuzzy-devel": "ssdeep",
+    "libfyaml": "libfyaml",
+    "libfyaml-devel": "libfyaml",
     "libgadu": "libgadu",
     "libgadu-devel": "libgadu",
     "libgbm": "mesa",

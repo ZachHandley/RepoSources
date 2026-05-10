@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "a",
-    "total_mappings": 279
+    "total_mappings": 278
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -70,7 +70,6 @@
     "agda-bin": "agda",
     "age": "age",
     "agedu": "agedu",
-    "aggregate": "aggregate",
     "aha": "aha",
     "ahcpd": "ahcpd",
     "aircrack-ng": "aircrack-ng",

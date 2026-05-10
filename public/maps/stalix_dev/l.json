@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "stalix_dev",
     "shard": "l",
-    "total_mappings": 461
+    "total_mappings": 462
   },
   "mappings": {
     "lib/a52": "a52dec",
@@ -306,6 +306,7 @@
     "lib/pipeline": "libpipeline",
     "lib/pixman": "pixman",
     "lib/placebo/7": "libplacebo",
+    "lib/pluto/svg": "plutosvg",
     "lib/pluto/vg": "plutovg",
     "lib/png/a": "libpng",
     "lib/png/stock": "libpng",

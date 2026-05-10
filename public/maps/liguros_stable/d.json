@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "d",
-    "total_mappings": 1076
+    "total_mappings": 1078
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -102,6 +102,7 @@
     "dev-cpp/safeint": "safeint",
     "dev-cpp/scnlib": "scnlib",
     "dev-cpp/simdutf": "simdutf",
+    "dev-cpp/sol2": "sol2",
     "dev-cpp/sparsehash": "google-sparsehash",
     "dev-cpp/taskflow": "taskflow",
     "dev-cpp/tbb": "tbb",
@@ -313,6 +314,7 @@
     "dev-lang/rust-common": "rust",
     "dev-lang/sassc": "sassc",
     "dev-lang/scala-bin": "scala@3.3",
+    "dev-lang/smlnj": "smlnj",
     "dev-lang/souffle": "souffle",
     "dev-lang/spidermonkey": "spidermonkey@115",
     "dev-lang/swi-prolog": "swi-prolog",

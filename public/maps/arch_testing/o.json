@@ -1,33 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "o",
-    "total_mappings": 22
+    "total_mappings": 3
   },
   "mappings": {
-    "openscenegraph": "open-scene-graph",
-    "opensearch": "opensearch",
-    "opensearch-analysis-icu-plugin": "opensearch",
-    "opensearch-analysis-kuromoji-plugin": "opensearch",
-    "opensearch-analysis-nori-plugin": "opensearch",
-    "opensearch-analysis-phonetic-plugin": "opensearch",
-    "opensearch-analysis-smartcn-plugin": "opensearch",
-    "opensearch-analysis-stempel-plugin": "opensearch",
-    "opensearch-analysis-ukrainian-plugin": "opensearch",
-    "opensearch-dashboards": "opensearch-dashboards",
-    "opensearch-discovery-azure-classic-plugin": "opensearch",
-    "opensearch-discovery-ec2-plugin": "opensearch",
-    "opensearch-discovery-gce-plugin": "opensearch",
-    "opensearch-ingest-attachment-plugin": "opensearch",
-    "opensearch-mapper-annotated-text-plugin": "opensearch",
-    "opensearch-mapper-murmur3-plugin": "opensearch",
-    "opensearch-mapper-size-plugin": "opensearch",
-    "opensearch-repository-azure-plugin": "opensearch",
-    "opensearch-repository-gcs-plugin": "opensearch",
-    "opensearch-repository-hdfs-plugin": "opensearch",
-    "opensearch-repository-s3-plugin": "opensearch",
-    "opensearch-store-smb-plugin": "opensearch"
+    "opencl-mesa": "mesa",
+    "openconnect": "openconnect",
+    "opendht": "opendht"
   }
 }

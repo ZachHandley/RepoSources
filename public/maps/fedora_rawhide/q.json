@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "q",
-    "total_mappings": 496
+    "total_mappings": 492
   },
   "mappings": {
     "QuantLib": "quantlib",
@@ -160,11 +160,6 @@
     "qemu-user-static-sparc": "qemu",
     "qemu-user-static-x86": "qemu",
     "qemu-user-static-xtensa": "qemu",
-    "qgpgme-common-devel": "gpgme",
-    "qgpgme-qt5": "gpgme",
-    "qgpgme-qt5-devel": "gpgme",
-    "qgpgme-qt6": "gpgme",
-    "qgpgme-qt6-devel": "gpgme",
     "qhull": "qhull",
     "qhull-devel": "qhull",
     "qjackctl": "qjackctl",
@@ -233,6 +228,7 @@
     "qt5-qt3d": "qt@5",
     "qt5-qt3d-devel": "qt@5",
     "qt5-qt3d-doc": "qt@5",
+    "qt5-qt3d-examples": "qt@5",
     "qt5-qtbase": "qt@5",
     "qt5-qtbase-common": "qt@5",
     "qt5-qtbase-devel": "qt@5",

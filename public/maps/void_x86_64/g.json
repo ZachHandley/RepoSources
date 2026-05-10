@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "g",
-    "total_mappings": 387
+    "total_mappings": 389
   },
   "mappings": {
     "Gauche": "gauche",
@@ -135,6 +135,7 @@
     "gitk": "git",
     "gitlab-runner": "gitlab-runner",
     "gitoxide": "gitoxide",
+    "gitu": "gitu",
     "gitui": "gitui",
     "gjs": "gjs",
     "gjs-devel": "gjs",
@@ -256,6 +257,7 @@
     "gosu": "libgosu",
     "gosu-devel": "libgosu",
     "got": "got",
+    "gotestsum": "gotestsum",
     "gotop": "gotop",
     "gource": "gource",
     "gowall": "gowall",

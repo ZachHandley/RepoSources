@@ -1,20 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "l",
-    "total_mappings": 9
+    "total_mappings": 4
   },
   "mappings": {
-    "libcups": "cups",
-    "libdrm": "libdrm",
-    "libgsf": "libgsf",
-    "liblo": "liblo",
-    "limine": "limine",
-    "linux-next": "linux-headers@6.8",
-    "linux-next-docs": "linux-headers@6.8",
-    "linux-next-headers": "linux-headers@6.8",
-    "lvm2": "device-mapper"
+    "libedit": "libedit",
+    "libgpg-error": "libgpg-error",
+    "libksba": "libksba",
+    "limine": "limine"
   }
 }

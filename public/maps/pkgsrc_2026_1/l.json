@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "l",
-    "total_mappings": 639
+    "total_mappings": 640
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -172,6 +172,7 @@
     "lang/scala": "scala@3.3",
     "lang/scheme48": "scheme48",
     "lang/smalltalk": "gnu-smalltalk",
+    "lang/smlnj": "smlnj",
     "lang/spago": "spago",
     "lang/spidermonkey": "spidermonkey@115",
     "lang/spidermonkey185": "spidermonkey@115",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "s",
-    "total_mappings": 247
+    "total_mappings": 250
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -55,6 +55,7 @@
     "sed": "gnu-sed",
     "selene": "selene",
     "semver": "semver",
+    "sendme": "sendme",
     "senpai": "senpai",
     "sentry-cli": "sentry-cli",
     "sentry-native": "sentry-native",
@@ -110,6 +111,7 @@
     "smartdns": "smartdns",
     "smartmontools": "smartmontools",
     "smbclient": "samba",
+    "smlnj": "smlnj",
     "smpeg": "smpeg2",
     "sn0int": "sn0int",
     "snapd": "snap",
@@ -173,6 +175,7 @@
     "srgn": "srgn",
     "srt": "srt",
     "ssdeep": "ssdeep",
+    "sse2neon": "sse2neon",
     "ssh-audit": "ssh-audit",
     "sshfs": "sshfs",
     "sshguard": "sshguard",

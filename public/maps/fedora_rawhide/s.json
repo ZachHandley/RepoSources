@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "s",
-    "total_mappings": 510
+    "total_mappings": 513
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -244,6 +244,9 @@
     "soci-sqlite3-devel": "soci",
     "softhsm": "softhsm",
     "softhsm-devel": "softhsm",
+    "sol2": "sol2",
+    "sol2-devel": "sol2",
+    "sol2-devel-docs": "sol2",
     "solidity": "solidity",
     "soplex": "soplex",
     "sord": "sord",

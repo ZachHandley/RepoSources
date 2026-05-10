@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "p",
@@ -76,7 +76,6 @@
     "pdsh": "pdsh",
     "percona-toolkit": "percona-toolkit",
     "perl": "perl",
-    "pfetch": "pfetch",
     "pg_top": "pg_top",
     "pgbouncer": "pgbouncer",
     "pgpdump": "pgpdump",
@@ -373,6 +372,7 @@
     "py313-syslog-ng": "syslog-ng",
     "py313-tabulate": "python-tabulate",
     "py313-thrift": "thrift",
+    "py313-tmuxp": "tmuxp",
     "py313-twine": "twine",
     "py313-unicorn": "unicorn",
     "py313-uvicorn": "uvicorn",

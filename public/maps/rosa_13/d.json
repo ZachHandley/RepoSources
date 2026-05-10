@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "d",
-    "total_mappings": 270
+    "total_mappings": 269
   },
   "mappings": {
     "DirectX-Headers": "directx-headers",
@@ -156,6 +156,8 @@
     "dns2tcp-server": "dns2tcp",
     "dnsmasq": "dnsmasq",
     "dnsmasq-base": "dnsmasq",
+    "dnsmasq-debuginfo": "dnsmasq",
+    "dnsmasq-debugsource": "dnsmasq",
     "dnsmasq-utils": "dnsmasq",
     "dnstop": "dnstop",
     "dnstop-debuginfo": "dnstop",
@@ -270,9 +272,6 @@
     "dvdbackup": "dvdbackup",
     "dvdbackup-debuginfo": "dvdbackup",
     "dvdbackup-debugsource": "dvdbackup",
-    "dvorak7min": "dvorak7min",
-    "dvorak7min-debuginfo": "dvorak7min",
-    "dvorak7min-debugsource": "dvorak7min",
     "dwarf-tools": "dwarfutils",
     "dwm": "dwm",
     "dynamips": "dynamips",

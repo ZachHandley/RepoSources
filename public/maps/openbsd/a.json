@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "a",
-    "total_mappings": 285
+    "total_mappings": 284
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -28,7 +28,6 @@
     "afl++": "afl++",
     "age": "age",
     "age-plugin-yubikey": "age-plugin-yubikey",
-    "aggregate": "aggregate",
     "aide": "aide",
     "aircrack-ng": "aircrack-ng",
     "alembic": "alembic",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "y",
-    "total_mappings": 358
+    "total_mappings": 360
   },
   "mappings": {
     "YAFC": "yafc",
@@ -153,6 +153,7 @@
     "yarn-node22": "yarn",
     "yarn-node24": "yarn",
     "yarn-node25": "yarn",
+    "yarn-node26": "yarn",
     "yarnpkg": "yarn",
     "yash": "yash",
     "yash-binsh": "yash",
@@ -239,6 +240,7 @@
     "ykdl": "ykdl",
     "ykdl-git": "ykdl",
     "ykman": "ykman",
+    "ykman (Install)": "ykman",
     "ykpers": "ykpers",
     "ykpers-debuginfo": "ykpers",
     "ykpers-debugsource": "ykpers",

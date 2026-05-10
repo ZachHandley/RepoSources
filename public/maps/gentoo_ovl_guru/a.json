@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "a",
-    "total_mappings": 96
+    "total_mappings": 94
   },
   "mappings": {
     "app-accessibility/mimic1": "mimic",
@@ -48,7 +48,6 @@
     "app-misc/cpufetch": "cpufetch",
     "app-misc/diff-so-fancy": "diff-so-fancy",
     "app-misc/durdraw": "durdraw",
-    "app-misc/fff": "fff",
     "app-misc/ghq": "ghq",
     "app-misc/glow": "glow",
     "app-misc/kanata": "kanata",
@@ -58,7 +57,6 @@
     "app-misc/nerdfetch": "nerdfetch",
     "app-misc/onefetch": "onefetch",
     "app-misc/pastel": "pastel",
-    "app-misc/pfetch": "pfetch",
     "app-misc/pfetch-rs": "pfetch-rs",
     "app-misc/pueue": "pueue",
     "app-misc/qman": "qman",

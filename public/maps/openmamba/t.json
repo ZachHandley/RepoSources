@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "t",
-    "total_mappings": 79
+    "total_mappings": 81
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -57,6 +57,8 @@
     "texlive-tex4ht": "texlive",
     "texlive-xdvi": "texlive",
     "threadweaver": "threadweaver",
+    "thrift": "thrift",
+    "thrift-devel": "thrift",
     "tidy": "tidy-html5",
     "tiff-utils": "libtiff",
     "tigervnc": "tiger-vnc",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "o",
@@ -72,9 +72,9 @@
     "opus": "opus",
     "opus-tools": "opus-tools",
     "opusfile": "opusfile",
+    "oras": "oras",
     "orc": "orc",
     "orcania": "orcania",
-    "ortp": "ortp",
     "osinfo-db": "osinfo-db",
     "osinfo-db-tools": "osinfo-db-tools",
     "osm-gps-map": "osm-gps-map",

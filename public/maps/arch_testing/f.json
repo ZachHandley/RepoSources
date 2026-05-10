@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "f",
-    "total_mappings": 2
+    "total_mappings": 3
   },
   "mappings": {
     "fltk": "fltk",
-    "fltk-docs": "fltk@1.3"
+    "fltk-docs": "fltk@1.3",
+    "freerdp": "freerdp"
   }
 }

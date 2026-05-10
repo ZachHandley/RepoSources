@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "v",
-    "total_mappings": 66
+    "total_mappings": 68
   },
   "mappings": {
     "VTK": "vtk",
@@ -39,6 +39,8 @@
     "verilator-devel": "verilator",
     "vgrep": "vgrep",
     "vgrep-dbginfo": "vgrep",
+    "vhs": "vhs",
+    "vhs-dbginfo": "vhs",
     "vice": "vice",
     "vice-dbginfo": "vice",
     "vid.stab": "libvidstab",

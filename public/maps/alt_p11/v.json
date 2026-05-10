@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "v",
-    "total_mappings": 136
+    "total_mappings": 135
   },
   "mappings": {
     "vala": "vala",
@@ -130,7 +130,6 @@
     "vte3-debuginfo": "vte3",
     "vtk": "vtk",
     "vtk-debuginfo": "vtk",
-    "vtk-doc": "vtk",
     "vtk-examples": "vtk",
     "vtk-python3": "vtk",
     "vtk-python3-debuginfo": "vtk",

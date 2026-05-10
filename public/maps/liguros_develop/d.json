@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "d",
-    "total_mappings": 1080
+    "total_mappings": 1083
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -105,6 +105,7 @@
     "dev-cpp/safeint": "safeint",
     "dev-cpp/scnlib": "scnlib",
     "dev-cpp/simdutf": "simdutf",
+    "dev-cpp/sol2": "sol2",
     "dev-cpp/sparsehash": "google-sparsehash",
     "dev-cpp/taskflow": "taskflow",
     "dev-cpp/tbb": "tbb",
@@ -123,6 +124,7 @@
     "dev-db/barman": "barman",
     "dev-db/cdb": "cdb",
     "dev-db/citus": "citus",
+    "dev-db/couchdb": "couchdb",
     "dev-db/duckdb": "duckdb",
     "dev-db/etcd": "etcd",
     "dev-db/freetds": "freetds",
@@ -311,6 +313,7 @@
     "dev-lang/rust-common": "rust",
     "dev-lang/sassc": "sassc",
     "dev-lang/scala-bin": "scala@3.3",
+    "dev-lang/smlnj": "smlnj",
     "dev-lang/souffle": "souffle",
     "dev-lang/spidermonkey": "spidermonkey@115",
     "dev-lang/swi-prolog": "swi-prolog",
@@ -732,7 +735,6 @@
     "dev-python/qscintilla": "qscintilla2",
     "dev-python/scikit-image": "scikit-image",
     "dev-python/scipy": "scipy",
-    "dev-python/scrapy": "scrapy",
     "dev-python/setuptools": "python-setuptools",
     "dev-python/sip": "sip",
     "dev-python/six": "six",
@@ -1014,6 +1016,7 @@
     "dev-util/tflint-bin": "tflint",
     "dev-util/tkdiff": "tkdiff",
     "dev-util/tokei": "tokei",
+    "dev-util/tombi": "tombi",
     "dev-util/topiary": "topiary",
     "dev-util/tree-sitter-cli": "tree-sitter-cli",
     "dev-util/treecc": "treecc",

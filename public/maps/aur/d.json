@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "d",
@@ -147,6 +147,7 @@
     "direvent-git": "direvent",
     "direwolf": "direwolf",
     "direwolf-git": "direwolf",
+    "dish": "dish",
     "diskonaut-git": "diskonaut",
     "disktype": "disktype",
     "diskus-git": "diskus",
@@ -314,7 +315,6 @@
     "dvanalyzer": "dvanalyzer",
     "dvanalyzer-gui": "dvanalyzer",
     "dvc": "dvc",
-    "dvorak7min": "dvorak7min",
     "dvr-scan": "dvr-scan",
     "dwarfs": "dwarfs",
     "dwarfs-bin": "dwarfs",

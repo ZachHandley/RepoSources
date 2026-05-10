@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "p",
-    "total_mappings": 458
+    "total_mappings": 461
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -151,6 +151,9 @@
     "php8.3-xsl": "php@8.4",
     "php8.3-zip": "php@8.4",
     "php8.3-zlib": "php@8.4",
+    "physfs": "physfs",
+    "physfs-devel": "physfs",
+    "physfs-devel-static": "physfs",
     "pigz": "pigz",
     "pigz-man": "pigz",
     "pinentry": "pinentry",

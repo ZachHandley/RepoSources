@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "n",
-    "total_mappings": 47
+    "total_mappings": 46
   },
   "mappings": {
     "nano": "nano",
@@ -15,7 +15,6 @@
     "ncompress": "ncompress",
     "ncurses": "ncurses",
     "ndiff": "nmap",
-    "neofetch": "neofetch",
     "neon": "neon",
     "net-snmp": "net-snmp",
     "net-tools": "net-tools",

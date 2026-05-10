@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "f",
-    "total_mappings": 393
+    "total_mappings": 394
   },
   "mappings": {
     "f2fs-modules-6.12.41+1-4kc-malta-di": "linux-headers@6.8",
@@ -343,6 +343,7 @@
     "freerdp3-shadow-x11": "freerdp",
     "freerdp3-wayland": "freerdp",
     "freerdp3-x11": "freerdp",
+    "freesasa": "freesasa",
     "freetds": "freetds",
     "freetds-bin": "freetds",
     "freetds-common": "freetds",

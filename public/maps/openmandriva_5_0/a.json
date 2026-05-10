@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openmandriva_5_0",
     "shard": "a",
-    "total_mappings": 369
+    "total_mappings": 368
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -60,7 +60,6 @@
     "agg": "libagg",
     "agg-debuginfo": "libagg",
     "agg-debugsource": "libagg",
-    "aggregate": "aggregate",
     "agrep": "tre",
     "aha": "aha",
     "aha-debuginfo": "aha",

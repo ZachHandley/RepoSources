@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "l",
-    "total_mappings": 536
+    "total_mappings": 538
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -75,6 +75,7 @@
     "lang-ocaml/opam": "opam",
     "lang-ocaml/zarith": "ocaml-zarith",
     "lang-pascal/fpc": "fpc",
+    "lang-perl/perl": "perl",
     "lang-perl/perl-app-cpanminus": "cpanminus",
     "lang-perl/perl-image-exiftool": "exiftool",
     "lang-python/acme": "certbot",
@@ -162,6 +163,7 @@
     "libbsd": "libbsd",
     "libbsd+32": "libbsd",
     "libcaca": "libcaca",
+    "libcaca+32": "libcaca",
     "libcanberra": "libcanberra",
     "libcap": "libcap",
     "libcap+32": "libcap",
@@ -486,7 +488,7 @@
     "linux-kernel-6.10.8": "linux-headers@6.8",
     "linux-kernel-6.14.10": "linux-headers@6.8",
     "linux-kernel-6.14.9": "linux-headers@6.8",
-    "linux-kernel-6.18.25": "linux-headers@6.8",
+    "linux-kernel-6.18.27": "linux-headers@6.8",
     "linux-kernel-lts-6.12.28": "linux-headers@6.8",
     "linux-kernel-lts-6.12.31": "linux-headers@6.8",
     "linux-kernel-lts-6.12.32": "linux-headers@6.8",

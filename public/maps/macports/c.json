@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "c",
@@ -196,6 +196,7 @@
     "collectd": "collectd",
     "colordiff": "colordiff",
     "commitizen": "commitizen",
+    "committed": "committed",
     "comms/hidapi": "hidapi",
     "comms/jerm": "jerm",
     "comms/kermit": "c-kermit",
@@ -247,7 +248,7 @@
     "croc": "croc",
     "cross/aarch64-elf-binutils": "aarch64-elf-binutils",
     "cross/arm-aout-binutils": "aarch64-elf-binutils",
-    "cross/arm-elf-binutils": "aarch64-elf-binutils",
+    "cross/arm-binutils": "aarch64-elf-binutils",
     "cross/arm-elf-gcc": "gcc@14",
     "cross/arm-elf-gcc3": "gcc@14",
     "cross/arm-elf-gdb": "aarch64-elf-gdb",
@@ -288,7 +289,6 @@
     "cross/riscv64-unknown-linux-gnu-gcc": "gcc@14",
     "cross/stlink": "stlink",
     "cross/x86_64-binutils": "aarch64-elf-binutils",
-    "cross/x86_64-elf-binutils": "aarch64-elf-binutils",
     "cross/x86_64-elf-gcc": "gcc@14",
     "cross/x86_64-w64-mingw32-binutils": "aarch64-elf-binutils",
     "cross/x86_64-w64-mingw32-gcc": "gcc@14",

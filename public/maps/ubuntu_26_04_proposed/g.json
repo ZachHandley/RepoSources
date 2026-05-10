@@ -1,19 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04_proposed",
     "shard": "g",
-    "total_mappings": 8
+    "total_mappings": 1
   },
   "mappings": {
-    "gcc-aarch64-none-elf": "gcc",
-    "gcc-arm-none-eabi": "gcc",
-    "gcc-arm-none-eabi-source": "gcc",
-    "gir1.2-gda-5.0": "libgda",
-    "golang-github-opensuse-umoci-dev": "umoci",
-    "gopls": "gopls",
-    "gource": "gource",
-    "guile-fibers": "guile-fibers"
+    "golang-github-snapcore-snapd-dev": "snap"
   }
 }

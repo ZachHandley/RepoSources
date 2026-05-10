@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "n",
-    "total_mappings": 427
+    "total_mappings": 426
   },
   "mappings": {
     "net-analyzer/2ping": "twoping",
@@ -272,7 +272,6 @@
     "net-mail/sendEmail": "sendemail",
     "net-mail/swaks": "swaks",
     "net-mail/tnef": "tnef",
-    "net-misc/aggregate": "aggregate",
     "net-misc/aria2": "aria2",
     "net-misc/autossh": "autossh",
     "net-misc/axel": "axel",

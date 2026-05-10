@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "s",
-    "total_mappings": 893
+    "total_mappings": 892
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -107,9 +107,6 @@
     "samba-winbind": "samba",
     "samba-winbind-libs": "samba",
     "samba-winbind-libs-lang": "samba",
-    "sampler": "sampler",
-    "sampler-debuginfo": "sampler",
-    "sampler-debugsource": "sampler",
     "samply": "samply",
     "samply-debuginfo": "samply",
     "samply-debugsource": "samply",
@@ -437,6 +434,9 @@
     "smenu-debuginfo": "smenu",
     "smenu-debugsource": "smenu",
     "smenu-tests": "smenu",
+    "smlnj": "smlnj",
+    "smlnj-debuginfo": "smlnj",
+    "smlnj-debugsource": "smlnj",
     "smpeg": "smpeg",
     "smpeg-debuginfo": "smpeg",
     "smpeg-debugsource": "smpeg",
@@ -896,7 +896,6 @@
     "systemd-networkd": "systemd",
     "systemd-portable": "systemd",
     "systemd-resolved": "systemd",
-    "systemd-sysvcompat": "systemd",
     "systemd-testsuite": "systemd",
     "systemd-ukify": "systemd",
     "sz2-devel": "libaec"

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "m",
-    "total_mappings": 19
+    "total_mappings": 18
   },
   "mappings": {
     "media-gfx/czkawka": "czkawka",
@@ -24,7 +24,6 @@
     "media-sound/rsgain": "rsgain",
     "media-sound/spotify-player": "spotify_player",
     "media-sound/spotifyd": "spotifyd",
-    "media-sound/streamrip": "streamrip",
-    "media-sound/yewtube": "yewtube"
+    "media-sound/streamrip": "streamrip"
   }
 }

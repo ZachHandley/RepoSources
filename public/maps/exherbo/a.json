@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "a",
-    "total_mappings": 247
+    "total_mappings": 246
   },
   "mappings": {
     "app-admin/ansible": "ansible@12",
@@ -124,7 +124,6 @@
     "app-misc/mc": "midnight-commander",
     "app-misc/mktorrent": "mktorrent",
     "app-misc/mmv": "mmv",
-    "app-misc/neofetch": "neofetch",
     "app-misc/oath-toolkit": "oath-toolkit",
     "app-misc/prettyping": "prettyping",
     "app-misc/pv": "pv",

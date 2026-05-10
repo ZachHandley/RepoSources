@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pardus_21",
     "shard": "r",
-    "total_mappings": 235
+    "total_mappings": 239
   },
   "mappings": {
     "r-base": "r",
@@ -105,6 +105,9 @@
     "rfkill-modules-5.10.0-41-686-di": "linux-headers@6.8",
     "rfkill-modules-5.10.0-41-686-pae-di": "linux-headers@6.8",
     "rfkill-modules-5.10.0-41-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-5.10.0-42-686-di": "linux-headers@6.8",
+    "rfkill-modules-5.10.0-42-686-pae-di": "linux-headers@6.8",
+    "rfkill-modules-5.10.0-42-amd64-di": "linux-headers@6.8",
     "rfkill-modules-5.10.0-6-686-di": "linux-headers@6.8",
     "rfkill-modules-5.10.0-6-686-pae-di": "linux-headers@6.8",
     "rfkill-modules-5.10.0-6-amd64-di": "linux-headers@6.8",
@@ -167,6 +170,7 @@
     "rtc-modules-5.10.0-32-octeon-di": "linux-headers@6.8",
     "rtc-modules-5.10.0-39-octeon-di": "linux-headers@6.8",
     "rtc-modules-5.10.0-41-octeon-di": "linux-headers@6.8",
+    "rtc-modules-5.10.0-42-octeon-di": "linux-headers@6.8",
     "rtc-modules-5.10.0-6-octeon-di": "linux-headers@6.8",
     "rtc-modules-5.10.0-8-octeon-di": "linux-headers@6.8",
     "rtl-433": "rtl_433",

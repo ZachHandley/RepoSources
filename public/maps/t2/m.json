@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "m",
-    "total_mappings": 112
+    "total_mappings": 113
   },
   "mappings": {
     "m4": "m4",
@@ -20,6 +20,7 @@
     "mariadb": "mariadb",
     "mariadb-connector-c": "mariadb-connector-c",
     "markdown": "python-markdown",
+    "marmot": "marmot",
     "masscan": "masscan",
     "matplotlib": "python-matplotlib",
     "matterbridge": "matterbridge",

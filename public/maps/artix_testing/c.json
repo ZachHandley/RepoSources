@@ -1,12 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "c",
-    "total_mappings": 1
+    "total_mappings": 4
   },
   "mappings": {
+    "chrony": "chrony",
+    "claws-mail": "claws-mail",
+    "cpupower": "linux-headers@6.8",
     "curl": "curl"
   }
 }

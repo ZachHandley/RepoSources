@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "a",
-    "total_mappings": 411
+    "total_mappings": 413
   },
   "mappings": {
     "ALPSCore": "alpscore",
@@ -210,10 +210,12 @@
     "argyll": "argyll-cms",
     "aria2": "aria2",
     "arm-aout-binutils": "aarch64-elf-binutils",
+    "arm-binutils": "aarch64-elf-binutils",
     "arm-elf-binutils": "aarch64-elf-binutils",
     "arm-elf-gcc": "gcc@14",
     "arm-elf-gcc3": "gcc@14",
     "arm-elf-gdb": "aarch64-elf-gdb",
+    "arm-linux-binutils": "aarch64-elf-binutils",
     "arm-none-eabi-binutils": "arm-none-eabi-binutils",
     "arm-none-eabi-gcc": "arm-none-eabi-gcc",
     "arm-none-eabi-gcc8": "gcc@14",

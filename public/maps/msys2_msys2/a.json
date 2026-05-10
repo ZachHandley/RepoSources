@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "msys2_msys2",
     "shard": "a",
-    "total_mappings": 26
+    "total_mappings": 27
   },
   "mappings": {
     "ack": "ack",
@@ -14,6 +14,7 @@
     "apr-util": "apr-util",
     "apr-util-devel": "apr-util",
     "asciidoc": "asciidoc",
+    "asciidoctor": "asciidoctor",
     "aspell": "aspell",
     "aspell-devel": "aspell",
     "atool": "atool",

@@ -1,16 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "e",
-    "total_mappings": 39
+    "total_mappings": 35
   },
   "mappings": {
     "elfutils": "elfutils",
-    "emacs": "emacs",
-    "emacs-nox": "emacs",
-    "emacs-wayland": "emacs",
     "erlang": "erlang@27",
     "erlang-asn1": "erlang@27",
     "erlang-common_test": "erlang@27",
@@ -44,7 +41,6 @@
     "erlang-tftp": "erlang@27",
     "erlang-tools": "erlang@27",
     "erlang-wx": "erlang@27",
-    "erlang-xmerl": "erlang@27",
-    "esphome": "esphome"
+    "erlang-xmerl": "erlang@27"
   }
 }

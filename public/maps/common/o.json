@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "o",
-    "total_mappings": 2906
+    "total_mappings": 2905
   },
   "mappings": {
     "OCRmyPDF": "ocrmypdf",
@@ -246,7 +246,6 @@
     "ocaml-compiler-libs-git": "ocaml@4",
     "ocaml-cpdf": "cpdf",
     "ocaml-dbginfo": "ocaml@4",
-    "ocaml-debug": "ocaml@4",
     "ocaml-debuginfo": "ocaml@4",
     "ocaml-debugsource": "ocaml@4",
     "ocaml-dev": "ocaml@4",
@@ -421,7 +420,6 @@
     "ocamlPackages_latest._0install-solver": "zero-install",
     "ocamlbuild": "ocamlbuild",
     "ocamlbuild-dbginfo": "ocamlbuild",
-    "ocamlbuild-debug": "ocamlbuild",
     "ocamlbuild-doc": "ocamlbuild",
     "ocamlfind": "ocaml-findlib",
     "occt": "opencascade",
@@ -803,7 +801,6 @@
     "ollama-docs-git": "ollama",
     "ollama-full": "ollama",
     "ollama-git": "ollama",
-    "ollama-mlx-cuda13-bin": "ollama",
     "ollama-nogpu-git": "ollama",
     "ollama-rocm": "ollama",
     "ollama-rocm-git": "ollama",
@@ -1369,6 +1366,7 @@
     "opendht-git": "opendht",
     "opendht-libs": "opendht",
     "opendht-tools": "opendht",
+    "opendoor": "opendoor",
     "openexr": "openexr",
     "openexr-dbginfo": "openexr",
     "openexr-debuginfo": "openexr",
@@ -2794,6 +2792,7 @@
     "osqp": "osqp",
     "osqp-git": "osqp",
     "osrm-backend": "osrm-backend",
+    "osrm-backend-service": "osrm-backend",
     "osslsigncode": "osslsigncode",
     "osslsigncode-debuginfo": "osslsigncode",
     "osslsigncode-debugsource": "osslsigncode",

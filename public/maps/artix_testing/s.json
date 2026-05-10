@@ -1,12 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T23:16:34Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "s",
-    "total_mappings": 1
+    "total_mappings": 4
   },
   "mappings": {
-    "sed": "gnu-sed"
+    "sequoia-sq": "sequoia-sq",
+    "sequoia-sqv": "sequoia-sqv",
+    "squid": "squid",
+    "stoken": "stoken"
   }
 }

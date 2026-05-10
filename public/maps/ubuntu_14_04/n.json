@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "n",
-    "total_mappings": 165
+    "total_mappings": 166
   },
   "mappings": {
     "nacl": "nacl",
@@ -129,6 +129,7 @@
     "notmuch-vim": "notmuch",
     "noweb": "noweb",
     "nowebm": "noweb",
+    "nowhere": "smlnj",
     "npth": "npth",
     "nqp": "nqp",
     "nrg2iso": "nrg2iso",

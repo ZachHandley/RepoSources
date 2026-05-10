@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "g",
-    "total_mappings": 578
+    "total_mappings": 580
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -195,6 +195,8 @@
     "gkrellm-server": "gkrellm",
     "gl2ps": "gl2ps",
     "glab": "glab",
+    "glab-debuginfo": "glab",
+    "glab-debugsource": "glab",
     "glade": "glade",
     "glade-debuginfo": "glade",
     "glade-debugsource": "glade",

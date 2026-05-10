@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "p",
-    "total_mappings": 808
+    "total_mappings": 811
   },
   "mappings": {
     "p0f": "p0f",
@@ -22,6 +22,8 @@
     "paho.mqtt.c-examples": "libpaho-mqtt",
     "pam": "linux-pam",
     "pam-u2f": "pam-u2f",
+    "paml": "paml",
+    "paml-doc": "paml",
     "pamu2fcfg": "pam-u2f",
     "pan": "pan",
     "pandoc": "pandoc",
@@ -240,6 +242,7 @@
     "plplot-tcl": "plplot",
     "plplot-tcl-bin": "plplot",
     "plplot-tcl-dev": "plplot",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "plzip": "plzip",
     "pmccabe": "pmccabe",

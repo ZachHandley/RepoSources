@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "w",
-    "total_mappings": 123
+    "total_mappings": 119
   },
   "mappings": {
     "w3m": "w3m",
@@ -97,10 +97,6 @@
     "woff2": "woff2",
     "wolfssl": "wolfssl",
     "woof-doom": "woof-doom",
-    "wordgrinder": "wordgrinder",
-    "wordgrinder-doc": "wordgrinder",
-    "wordgrinder-ncurses": "wordgrinder",
-    "wordgrinder-x11": "wordgrinder",
     "wordnet": "wordnet",
     "wordnet-base": "wordnet",
     "wordnet-dev": "wordnet",

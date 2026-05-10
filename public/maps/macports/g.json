@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "g",
-    "total_mappings": 738
+    "total_mappings": 740
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -156,6 +156,7 @@
     "gifsicle": "gifsicle",
     "gifski": "gifski",
     "gindent": "gnu-indent",
+    "ginkgo": "ginkgo",
     "girara": "girara",
     "gis/cgal4": "cgal",
     "gis/cgal5": "cgal",
@@ -618,6 +619,7 @@
     "graphics/qrtool": "qrtool",
     "graphics/qwt": "qwt",
     "graphics/qwt-qt5": "qwt",
+    "graphics/qwt-qt6": "qwt",
     "graphics/sane-backends": "sane-backends",
     "graphics/scale2x": "scale2x",
     "graphics/shaderc": "shaderc",

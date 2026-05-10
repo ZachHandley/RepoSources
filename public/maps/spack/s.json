@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "s",
-    "total_mappings": 98
+    "total_mappings": 99
   },
   "mappings": {
     "s5cmd": "s5cmd",
@@ -34,6 +34,7 @@
     "seqtk": "seqtk",
     "serf": "apache-serf",
     "sfcgal": "sfcgal",
+    "sfml": "sfml@2",
     "shadowenv": "shadowenv",
     "shamrock": "shamrock",
     "shapelib": "shapelib",

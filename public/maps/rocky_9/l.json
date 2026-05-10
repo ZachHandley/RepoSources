@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "l",
-    "total_mappings": 997
+    "total_mappings": 999
   },
   "mappings": {
     "LibRaw": "libraw",
@@ -209,6 +209,8 @@
     "libcanberra-gtk2": "libcanberra",
     "libcanberra-gtk3": "libcanberra",
     "libcap": "libcap",
+    "libcap-debuginfo": "libcap",
+    "libcap-debugsource": "libcap",
     "libcap-devel": "libcap",
     "libcap-ng": "libcap-ng",
     "libcap-ng-debuginfo": "libcap-ng",

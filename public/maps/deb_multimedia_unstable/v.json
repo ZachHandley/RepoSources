@@ -1,29 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "deb_multimedia_unstable",
     "shard": "v",
-    "total_mappings": 29
+    "total_mappings": 16
   },
   "mappings": {
     "vamp-examples": "vamp-plugin-sdk",
     "vamp-plugin-sdk": "vamp-plugin-sdk",
     "vamp-plugin-sdk-dmo": "vamp-plugin-sdk",
     "vamp-plugin-sdk-doc": "vamp-plugin-sdk",
-    "vapoursynth": "vapoursynth",
-    "vapoursynth-bm3d": "vapoursynth-bm3d",
-    "vapoursynth-bm3d-dmo": "vapoursynth-bm3d",
-    "vapoursynth-descale": "vapoursynth-descale",
-    "vapoursynth-descale-dmo": "vapoursynth-descale",
-    "vapoursynth-dev": "vapoursynth",
-    "vapoursynth-dmo": "vapoursynth",
-    "vapoursynth-doc": "vapoursynth",
-    "vapoursynth-imwri": "vapoursynth-imwri",
-    "vapoursynth-imwri-dmo": "vapoursynth-imwri",
-    "vapoursynth-ocr": "vapoursynth-ocr",
-    "vapoursynth-ocr-dmo": "vapoursynth-ocr",
-    "vapousynth-imwri": "vapoursynth-imwri",
     "vcdimager": "vcdimager",
     "vcdimager-dmo": "vcdimager",
     "vid.stab-dmo": "libvidstab",

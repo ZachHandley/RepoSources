@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "p",
-    "total_mappings": 393
+    "total_mappings": 392
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -76,7 +76,6 @@
     "pdsh": "pdsh",
     "percona-toolkit": "percona-toolkit",
     "perl": "perl",
-    "pfetch": "pfetch",
     "pg_top": "pg_top",
     "pgbouncer": "pgbouncer",
     "pgpdump": "pgpdump",

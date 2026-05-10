@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "n",
-    "total_mappings": 32
+    "total_mappings": 31
   },
   "mappings": {
     "nanomsg": "nanomsg",
@@ -12,7 +12,6 @@
     "nativefiledialog-extended": "nativefiledialog-extended",
     "ncdc": "ncdc",
     "ncnn": "ncnn",
-    "neofetch": "neofetch",
     "nestopia": "nestopia-ue",
     "networkit": "networkit",
     "never": "never",

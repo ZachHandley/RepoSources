@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "g",
-    "total_mappings": 288
+    "total_mappings": 292
   },
   "mappings": {
     "gammaray": "gammaray",
@@ -47,14 +47,14 @@
     "gengetopt": "gengetopt",
     "gensio": "gensio",
     "geocode-glib": "geocode-glib",
-    "geocode-glib-2": "geocode-glib",
-    "geocode-glib-common": "geocode-glib",
+    "geocode-glib-docs": "geocode-glib",
     "geogram": "geogram",
     "geoipupdate": "geoipupdate",
     "geos": "geos",
     "getdns": "getdns",
     "gettext": "gettext",
     "gexiv2": "gexiv2",
+    "gexiv2-docs": "gexiv2",
     "gflags": "gflags",
     "gfold": "gfold",
     "ghc": "ghc",
@@ -81,6 +81,7 @@
     "git-bug": "git-bug",
     "git-cinnabar": "git-cinnabar",
     "git-cliff": "git-cliff",
+    "git-credential-oauth": "git-credential-oauth",
     "git-crypt": "git-crypt",
     "git-delta": "git-delta",
     "git-filter-repo": "git-filter-repo",
@@ -179,6 +180,7 @@
     "goreleaser": "goreleaser",
     "gost": "gost",
     "gource": "gource",
+    "govulncheck": "govulncheck",
     "gpac": "gpac",
     "gperf": "gperf",
     "gperftools": "gperftools",
@@ -294,6 +296,8 @@
     "gurk": "gurk",
     "gvim": "vim",
     "gwenhywfar": "gwenhywfar",
+    "gwenhywfar-gtk": "gwenhywfar",
+    "gwenhywfar-qt": "gwenhywfar",
     "gzip": "gzip"
   }
 }

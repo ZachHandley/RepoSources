@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "o",
@@ -73,7 +73,6 @@
     "ollama-cuda13-bin": "ollama",
     "ollama-docs-git": "ollama",
     "ollama-git": "ollama",
-    "ollama-mlx-cuda13-bin": "ollama",
     "ollama-nogpu-git": "ollama",
     "ollama-rocm-git": "ollama",
     "ollama-vulkan-bin": "ollama",
@@ -141,6 +140,7 @@
     "opencv3-opt-samples": "opencv",
     "opendetex": "opendetex",
     "opendht-git": "opendht",
+    "opendoor": "opendoor",
     "openexr-git": "openexr",
     "openexr2": "openexr",
     "openexr2-libs": "openexr",

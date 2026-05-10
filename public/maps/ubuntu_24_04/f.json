@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_24_04",
     "shard": "f",
-    "total_mappings": 288
+    "total_mappings": 289
   },
   "mappings": {
     "f3": "f3",
@@ -243,6 +243,7 @@
     "freerdp3-shadow-x11": "freerdp",
     "freerdp3-wayland": "freerdp",
     "freerdp3-x11": "freerdp",
+    "freesasa": "freesasa",
     "freetds": "freetds",
     "freetds-bin": "freetds",
     "freetds-common": "freetds",

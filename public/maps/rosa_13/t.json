@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "t",
-    "total_mappings": 388
+    "total_mappings": 390
   },
   "mappings": {
     "TiMidity++": "timidity",
@@ -295,6 +295,8 @@
     "tigervnc-server-minimal": "tiger-vnc",
     "tigervnc-server-module": "tiger-vnc",
     "time": "gnu-time",
+    "time-debuginfo": "gnu-time",
+    "time-debugsource": "gnu-time",
     "timezone": "glibc@2.17",
     "timezone-java": "tzdb",
     "tinc": "tinc",

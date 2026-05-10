@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "a",
-    "total_mappings": 117
+    "total_mappings": 101
   },
   "mappings": {
     "aalib": "aalib",
@@ -18,9 +18,6 @@
     "affs-modules-6.18.24-m68k-di": "linux-headers@6.8",
     "affs-modules-6.18.24-powerpc-di": "linux-headers@6.8",
     "affs-modules-6.18.24-powerpc64-di": "linux-headers@6.8",
-    "affs-modules-6.18.5+2-m68k-di": "linux-headers@6.8",
-    "affs-modules-6.18.5+2-powerpc-di": "linux-headers@6.8",
-    "affs-modules-6.18.5+2-powerpc64-di": "linux-headers@6.8",
     "alsa-lib": "alsa-lib",
     "amqp-tools": "rabbitmq-c",
     "antlr4-cpp-runtime": "antlr4-cpp-runtime",
@@ -88,19 +85,6 @@
     "ata-modules-6.18.24-powerpc64le-di": "linux-headers@6.8",
     "ata-modules-6.18.24-riscv64-di": "linux-headers@6.8",
     "ata-modules-6.18.24-sparc64-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-alpha-generic-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-amd64-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-arm64-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-armmp-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-loong64-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-m68k-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-parisc-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-parisc64-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-powerpc-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-powerpc64-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-powerpc64le-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-riscv64-di": "linux-headers@6.8",
-    "ata-modules-6.18.5+2-sparc64-di": "linux-headers@6.8",
     "atf": "atf",
     "atf-sh": "atf",
     "atkmm1.6": "atkmm@2.28",

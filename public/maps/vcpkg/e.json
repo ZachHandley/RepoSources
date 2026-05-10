@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "e",
-    "total_mappings": 15
+    "total_mappings": 16
   },
   "mappings": {
     "ebml": "libebml",
+    "eccodes": "eccodes",
     "ecm": "extra-cmake-modules",
     "eigen3": "eigen@3",
     "elfio": "elfio",

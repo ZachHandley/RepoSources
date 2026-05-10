@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "o",
-    "total_mappings": 2
+    "total_mappings": 4
   },
   "mappings": {
     "opencl-mesa": "mesa",
-    "openvpn": "openvpn"
+    "openconnect": "openconnect",
+    "opendht": "opendht",
+    "openscenegraph": "open-scene-graph"
   }
 }

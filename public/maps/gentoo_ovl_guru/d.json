@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "d",
-    "total_mappings": 106
+    "total_mappings": 107
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -22,6 +22,7 @@
     "dev-cpp/scnlib": "scnlib",
     "dev-cpp/xtensor": "xtensor",
     "dev-cpp/xtl": "xtl",
+    "dev-db/couchdb": "couchdb",
     "dev-db/libpg_query": "libpg_query",
     "dev-db/sqlcmd": "sqlcmd",
     "dev-db/turso": "turso",
@@ -60,7 +61,6 @@
     "dev-python/internetarchive": "internetarchive",
     "dev-python/pipenv": "pipenv",
     "dev-python/pympress": "pympress",
-    "dev-python/scrapy": "scrapy",
     "dev-scheme/sagittarius": "sagittarius-scheme",
     "dev-tex/tectonic": "tectonic",
     "dev-util/addlicense": "addlicense",
@@ -102,6 +102,7 @@
     "dev-util/tailspin": "tailspin",
     "dev-util/tflint-bin": "tflint",
     "dev-util/tokei": "tokei",
+    "dev-util/tombi": "tombi",
     "dev-util/topiary": "topiary",
     "dev-util/trivy": "trivy",
     "dev-util/typescript-language-server": "typescript-language-server",

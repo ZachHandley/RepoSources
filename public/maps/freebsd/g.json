@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "g",
-    "total_mappings": 755
+    "total_mappings": 754
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -176,7 +176,6 @@
     "gh": "gh",
     "gh-bc": "bc-gh",
     "ghc": "ghc",
-    "ghc92": "ghc@9.8",
     "ghc94": "ghc@9.8",
     "ghc96": "ghc@9.8",
     "ghc98": "ghc@9.8",
@@ -224,7 +223,6 @@
     "git-who": "git-who",
     "git-workspace": "git-workspace",
     "gitea": "gitea",
-    "gitea-act_runner": "act_runner",
     "gitg": "gitg",
     "gitlab-runner": "gitlab-runner",
     "gitleaks": "gitleaks",
@@ -600,6 +598,7 @@
     "graphics/pixie": "pixie",
     "graphics/plantuml": "plantuml",
     "graphics/plotutils": "plotutils",
+    "graphics/plutosvg": "plutosvg",
     "graphics/plutovg": "plutovg",
     "graphics/png": "libpng",
     "graphics/png++": "png++",

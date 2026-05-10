@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "d",
-    "total_mappings": 1140
+    "total_mappings": 1141
   },
   "mappings": {
     "d2": "d2",
@@ -337,6 +337,7 @@
     "devel/coccinelle": "coccinelle",
     "devel/cocogitto": "cocogitto",
     "devel/commitizen": "commitizen",
+    "devel/committed": "committed",
     "devel/container": "container",
     "devel/copilot": "copilot",
     "devel/cpp-httplib": "cpp-httplib",

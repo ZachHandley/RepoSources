@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "n",
-    "total_mappings": 338
+    "total_mappings": 336
   },
   "mappings": {
     "nagios": "nagios",
@@ -24,7 +24,6 @@
     "ne": "ne",
     "nedit": "nedit",
     "nekovm": "neko",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neon": "neon",
     "neovim": "neovim",
@@ -33,7 +32,6 @@
     "net-snmp": "net-snmp",
     "net-snmp-tkmib": "net-snmp",
     "net/adns": "adns",
-    "net/aggregate": "aggregate",
     "net/amfora": "amfora",
     "net/argus-clients": "argus-clients",
     "net/arp-scan": "arp-scan",

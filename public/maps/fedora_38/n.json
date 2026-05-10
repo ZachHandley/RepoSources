@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_38",
     "shard": "n",
-    "total_mappings": 486
+    "total_mappings": 485
   },
   "mappings": {
     "NLopt": "nlopt",
@@ -168,7 +168,6 @@
     "nekovm-debuginfo": "neko",
     "nekovm-debugsource": "neko",
     "nekovm-devel": "neko",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neomutt-debuginfo": "neomutt",
     "neomutt-debugsource": "neomutt",

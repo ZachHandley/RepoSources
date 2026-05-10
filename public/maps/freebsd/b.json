@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "b",
-    "total_mappings": 230
+    "total_mappings": 231
   },
   "mappings": {
     "Bento4": "bento4",
@@ -145,6 +145,7 @@
     "biology/mrbayes": "mrbayes",
     "biology/mummer": "mummer",
     "biology/ncbi-blast+": "blast",
+    "biology/paml": "paml",
     "biology/picard-tools": "picard-tools",
     "biology/primer3": "primer3",
     "biology/prodigal": "prodigal",

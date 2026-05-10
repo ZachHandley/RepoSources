@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "s",
-    "total_mappings": 2
+    "total_mappings": 4
   },
   "mappings": {
-    "stress-ng": "stress-ng",
-    "sysprof": "sysprof"
+    "sequoia-sq": "sequoia-sq",
+    "sequoia-sqv": "sequoia-sqv",
+    "squid": "squid",
+    "stoken": "stoken"
   }
 }

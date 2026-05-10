@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "o",
-    "total_mappings": 5
+    "total_mappings": 6
   },
   "mappings": {
     "obfs4proxy": "obfs4proxy",
+    "opendoor": "opendoor",
     "openssl-1.0": "openssl@4",
     "openssl-1.1": "openssl@4",
     "ophcrack": "ophcrack",

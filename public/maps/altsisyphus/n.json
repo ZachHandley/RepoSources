@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "n",
-    "total_mappings": 281
+    "total_mappings": 280
   },
   "mappings": {
     "nDPI": "ndpi",
@@ -97,7 +97,6 @@
     "nemu": "nemu",
     "neocmakelsp": "neocmakelsp",
     "neocmakelsp-debuginfo": "neocmakelsp",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neomutt-debuginfo": "neomutt",
     "neovim": "neovim",

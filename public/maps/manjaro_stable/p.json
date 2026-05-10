@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "p",
-    "total_mappings": 332
+    "total_mappings": 330
   },
   "mappings": {
     "p0f": "p0f",
@@ -70,6 +70,7 @@
     "perl": "perl",
     "perl-image-exiftool": "exiftool",
     "perl-marisa": "marisa",
+    "pfetch-rs": "pfetch-rs",
     "pgbackrest": "pgbackrest",
     "pgbouncer": "pgbouncer",
     "pgcli": "pgcli",
@@ -98,7 +99,6 @@
     "physfs": "physfs",
     "pianobar": "pianobar",
     "picocom": "picocom",
-    "pidgin": "pidgin",
     "pigz": "pigz",
     "pinentry": "pinentry",
     "pint": "pint",
@@ -310,7 +310,6 @@
     "python-pycodestyle": "pycodestyle",
     "python-pylint": "pylint",
     "python-pytest": "pytest",
-    "python-qscintilla-qt5": "qscintilla2",
     "python-qscintilla-qt6": "qscintilla2",
     "python-ruff": "ruff",
     "python-scikit-image": "scikit-image",
@@ -335,7 +334,6 @@
     "python-uv": "uv",
     "python-uv-build": "uv",
     "python-virtualenv": "virtualenv",
-    "python-virtualenvwrapper": "virtualenvwrapper",
     "python-wxpython": "wxpython",
     "python-z3-solver": "z3",
     "pyupgrade": "pyupgrade"

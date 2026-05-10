@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "n",
-    "total_mappings": 542
+    "total_mappings": 543
   },
   "mappings": {
     "nInvaders": "ninvaders",
@@ -48,7 +48,6 @@
     "nemu": "nemu",
     "neo4j": "neo4j",
     "neocmakelsp": "neocmakelsp",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neon": "neon",
     "neovim": "neovim",
@@ -78,7 +77,6 @@
     "net-im/toot": "toot",
     "net-im/tox": "toxcore",
     "net-mgmt/2ping": "twoping",
-    "net-mgmt/aggregate": "aggregate",
     "net-mgmt/aircrack-ng": "aircrack-ng",
     "net-mgmt/argus-clients": "argus-clients",
     "net-mgmt/bandwhich": "bandwhich",
@@ -260,6 +258,7 @@
     "net/kube-apiserver": "kubernetes-cli@1.35",
     "net/kube-controller-manager": "kubernetes-cli@1.35",
     "net/kube-scheduler": "kubernetes-cli@1.35",
+    "net/lavinmq": "lavinmq",
     "net/lft": "lft",
     "net/libbgpdump": "bgpdump",
     "net/libcoap": "libcoap",
@@ -426,6 +425,7 @@
     "net/unison": "unison",
     "net/unison248": "unison",
     "net/unison251": "unison",
+    "net/unison253": "unison",
     "net/uriparser": "uriparser",
     "net/usbredir": "usbredir",
     "net/v2ray": "v2ray",
@@ -509,6 +509,7 @@
     "node22": "node@24",
     "node24": "node@24",
     "node25": "node@24",
+    "node26": "node@24",
     "node_exporter": "node_exporter",
     "norm": "norm",
     "normalize": "normalize",

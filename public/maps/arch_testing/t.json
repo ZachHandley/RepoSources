@@ -1,13 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "t",
-    "total_mappings": 3
+    "total_mappings": 6
   },
   "mappings": {
+    "testdisk": "testdisk",
+    "tigervnc": "tiger-vnc",
     "tmon": "linux-headers@6.8",
+    "traefik": "traefik",
     "turbostat": "linux-headers@6.8",
     "typescript": "typescript"
   }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "o",
-    "total_mappings": 276
+    "total_mappings": 278
   },
   "mappings": {
     "oasis": "oasis",
@@ -268,6 +268,8 @@
     "osmpbf": "osm-pbf",
     "osmpbf-bin": "osm-pbf",
     "ospray": "ospray",
+    "osrm-backend": "osrm-backend",
+    "osrm-backend-service": "osrm-backend",
     "osslsigncode": "osslsigncode",
     "ossp-uuid": "ossp-uuid",
     "otf2": "otf2",

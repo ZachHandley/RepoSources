@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "p",
-    "total_mappings": 74
+    "total_mappings": 75
   },
   "mappings": {
     "PEGTL": "pegtl",
@@ -39,6 +39,7 @@
     "pixz": "pixz",
     "pkcs11-helper": "pkcs11-helper",
     "plog": "plog",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "pnetcdf": "pnetcdf",
     "png++": "png++",

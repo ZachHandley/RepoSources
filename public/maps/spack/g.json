@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "g",
-    "total_mappings": 86
+    "total_mappings": 87
   },
   "mappings": {
     "g2o": "g2o",
@@ -28,6 +28,7 @@
     "ghostscript": "ghostscript",
     "giflib": "giflib",
     "ginac": "ginac",
+    "ginkgo": "ginkgo",
     "git": "git",
     "git-annex": "git-annex",
     "git-filter-repo": "git-filter-repo",

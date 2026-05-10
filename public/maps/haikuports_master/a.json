@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "a",
-    "total_mappings": 218
+    "total_mappings": 215
   },
   "mappings": {
     "app-accessibility/espeak": "espeak",
@@ -120,7 +120,6 @@
     "app-misc/diff-so-fancy": "diff-so-fancy",
     "app-misc/fastfetch": "fastfetch",
     "app-misc/fdupes": "fdupes",
-    "app-misc/fff": "fff",
     "app-misc/figlet": "figlet",
     "app-misc/hello": "hello",
     "app-misc/jigdo": "jigdo",
@@ -128,9 +127,7 @@
     "app-misc/lcdproc": "lcdproc",
     "app-misc/mc": "midnight-commander",
     "app-misc/mosquitto": "mosquitto",
-    "app-misc/neofetch": "neofetch",
     "app-misc/nnn": "nnn",
-    "app-misc/pfetch": "pfetch",
     "app-misc/ranger": "ranger",
     "app-misc/rlwrap": "rlwrap",
     "app-misc/screen": "screen",

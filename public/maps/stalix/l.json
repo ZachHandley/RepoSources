@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "stalix",
     "shard": "l",
-    "total_mappings": 463
+    "total_mappings": 462
   },
   "mappings": {
     "lib/a52": "a52dec",
@@ -108,7 +108,6 @@
     "lib/fast/float": "fast_float",
     "lib/fcft/3": "fcft",
     "lib/ffi/boot": "libffi",
-    "lib/ffi/darwin": "libffi",
     "lib/ffi/unix": "libffi",
     "lib/ffmpeg/7": "ffmpeg@7",
     "lib/fluid/synth": "fluid-synth",
@@ -189,7 +188,6 @@
     "lib/icu/archive": "icu4c@78",
     "lib/icu/archive/data": "icu4c@78",
     "lib/idn/2/elf": "libidn2",
-    "lib/idn/2/other": "libidn2",
     "lib/iir/1": "iir1",
     "lib/image/magick": "imagemagick@6",
     "lib/imath": "imath",
@@ -308,6 +306,7 @@
     "lib/pipeline": "libpipeline",
     "lib/pixman": "pixman",
     "lib/placebo/7": "libplacebo",
+    "lib/pluto/svg": "plutosvg",
     "lib/pluto/vg": "plutovg",
     "lib/png/a": "libpng",
     "lib/png/stock": "libpng",

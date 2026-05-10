@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "t",
-    "total_mappings": 435
+    "total_mappings": 434
   },
   "mappings": {
     "TinySVM": "tinysvm",
@@ -335,7 +335,6 @@
     "textproc/yq": "yq",
     "textproc/ytt": "ytt",
     "textproc/zint": "zint",
-    "textproc/zorba": "zorba",
     "textproc/zsv": "zsv",
     "tfenv": "tfenv",
     "tfk8s": "tfk8s",

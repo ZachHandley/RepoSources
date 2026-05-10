@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "h",
-    "total_mappings": 107
+    "total_mappings": 108
   },
   "mappings": {
     "h2c": "h2c",
@@ -47,6 +47,7 @@
     "helmfile": "helmfile",
     "help2man": "help2man",
     "hercules": "hercules",
+    "hermes-agent": "hermes-agent",
     "hesiod": "hesiod",
     "hevea": "hevea",
     "hexcurse": "hexcurse",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "z",
-    "total_mappings": 58
+    "total_mappings": 57
   },
   "mappings": {
     "z": "z",
@@ -50,7 +50,6 @@
     "zns": "zns",
     "zola": "zola",
     "zopfli": "zopfli",
-    "zorba": "zorba",
     "zoxide": "zoxide",
     "zpaq": "zpaq",
     "zsh": "zsh",

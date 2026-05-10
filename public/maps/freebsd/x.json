@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "x",
-    "total_mappings": 261
+    "total_mappings": 262
   },
   "mappings": {
     "x11-fonts/bdftopcf": "bdftopcf",
@@ -104,6 +104,7 @@
     "x11-toolkits/wxgtk30": "wxwidgets@3.2",
     "x11-toolkits/wxgtk32": "wxwidgets@3.2",
     "x11-wm/dwm": "dwm",
+    "x11-wm/twm": "twm",
     "x11/babl": "babl",
     "x11/controllermap": "sdl2",
     "x11/dmenu": "dmenu",

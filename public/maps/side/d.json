@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "d",
-    "total_mappings": 114
+    "total_mappings": 113
   },
   "mappings": {
     "DirectX-headers": "directx-headers",
@@ -110,7 +110,6 @@
     "development/toolchain/yasm": "yasm",
     "dialog": "dialog",
     "diffutils": "diffutils",
-    "disktype": "disktype",
     "djvulibre": "djvulibre",
     "docbook-xsl-nons": "docbook-xsl",
     "docker-buildx": "docker-buildx",

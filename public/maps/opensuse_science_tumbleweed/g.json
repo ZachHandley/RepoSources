@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "g",
-    "total_mappings": 71
+    "total_mappings": 75
   },
   "mappings": {
     "gdal": "gdal",
@@ -29,6 +29,10 @@
     "ginac-debuginfo": "ginac",
     "ginac-debugsource": "ginac",
     "ginac-devel": "ginac",
+    "ginkgo": "ginkgo",
+    "ginkgo-debuginfo": "ginkgo",
+    "ginkgo-debugsource": "ginkgo",
+    "ginkgo-devel": "ginkgo",
     "gismo": "gismo",
     "gismo-debuginfo": "gismo",
     "gismo-debugsource": "gismo",

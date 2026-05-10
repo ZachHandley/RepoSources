@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "n",
-    "total_mappings": 75
+    "total_mappings": 74
   },
   "mappings": {
     "nagios": "nagios",
@@ -33,7 +33,6 @@
     "ncursesw-extra": "ncurses",
     "ndpi": "ndpi",
     "ndpi-dev": "ndpi",
-    "neofetch": "neofetch",
     "neon": "neon",
     "neon-dev": "neon",
     "neovim": "neovim",

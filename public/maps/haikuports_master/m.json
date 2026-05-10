@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "m",
-    "total_mappings": 268
+    "total_mappings": 269
   },
   "mappings": {
     "mail-client/claws-mail": "claws-mail",
@@ -32,6 +32,7 @@
     "media-gfx/imagemagick": "imagemagick@6",
     "media-gfx/jpegoptim": "jpegoptim",
     "media-gfx/libimagequant": "libimagequant",
+    "media-gfx/msc-generator": "msc-generator",
     "media-gfx/mypaint_brushes": "mypaint-brushes",
     "media-gfx/opencsg": "opencsg",
     "media-gfx/openvdb": "openvdb",

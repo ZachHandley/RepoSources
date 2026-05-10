@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "l",
-    "total_mappings": 612
+    "total_mappings": 613
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -255,6 +255,7 @@
     "libheif-openh264": "libheif",
     "libheif-openjpeg": "libheif",
     "libheif-rav1e": "libheif",
+    "libheif-svtenc": "libheif",
     "libheif1": "libheif",
     "libid3-3_8-3": "id3lib",
     "libid3tag": "libid3tag",
@@ -497,7 +498,7 @@
     "libsidplayfp-debuginfo": "libsidplayfp",
     "libsidplayfp-debugsource": "libsidplayfp",
     "libsidplayfp-devel": "libsidplayfp",
-    "libsidplayfp6": "libsidplayfp",
+    "libsidplayfp7": "libsidplayfp",
     "libsndfile": "libsndfile",
     "libsndfile-debuginfo": "libsndfile",
     "libsndfile-debugsource": "libsndfile",

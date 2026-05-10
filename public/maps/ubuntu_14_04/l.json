@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "l",
-    "total_mappings": 5793
+    "total_mappings": 5801
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -692,6 +692,7 @@
     "libchromaprint0": "chromaprint",
     "libcimcclient0": "sblim-sfcc",
     "libcimcclient0-dev": "sblim-sfcc",
+    "libckit-smlnj": "smlnj",
     "libclamav-dev": "clamav",
     "libclamav6": "clamav",
     "libclamav7": "clamav",
@@ -730,6 +731,8 @@
     "libclosure-compiler-java-doc": "closure-compiler",
     "libcminpack-dev": "cminpack",
     "libcminpack1.0.90": "cminpack",
+    "libcml-smlnj": "smlnj",
+    "libcmlutil-smlnj": "smlnj",
     "libcmocka-dev": "cmocka",
     "libcmocka0": "cmocka",
     "libcob1": "gnucobol",
@@ -1166,6 +1169,7 @@
     "libexempi-dev": "exempi",
     "libexempi3": "exempi",
     "libexempi3-dbg": "exempi",
+    "libexene-smlnj": "smlnj",
     "libexif": "libexif",
     "libexif-dev": "libexif",
     "libexif12": "libexif",
@@ -2589,6 +2593,8 @@
     "libminiupnpc8": "miniupnpc",
     "libmjpegtools-dev": "mjpegtools",
     "libmjpegutils-2.1-0": "mjpegtools",
+    "libmlnlffi-smlnj": "smlnj",
+    "libmlrisctools-smlnj": "smlnj",
     "libmlt++-dev": "mlt",
     "libmlt++3": "mlt",
     "libmlt-data": "mlt",
@@ -3392,6 +3398,7 @@
     "libpgm-dev": "libpgm",
     "libpgpool-dev": "pgpool-ii",
     "libpgpool0": "pgpool-ii",
+    "libpgraphutil-smlnj": "smlnj",
     "libpgtypes3": "postgresql@18",
     "libphobos-4.8-dbg": "gcc@14",
     "libphobos-4.8-dev": "gcc@14",
@@ -4205,6 +4212,7 @@
     "libsmi2-dbg": "libsmi",
     "libsmi2-dev": "libsmi",
     "libsmi2ldbl": "libsmi",
+    "libsmlnj-smlnj": "smlnj",
     "libsmpeg-dev": "smpeg",
     "libsmpeg0": "smpeg",
     "libsnappy-dev": "snappy",

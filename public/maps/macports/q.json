@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "q",
-    "total_mappings": 826
+    "total_mappings": 827
   },
   "mappings": {
     "QuantLib": "quantlib",
@@ -829,6 +829,7 @@
     "quotatool": "quotatool",
     "qwt": "qwt",
     "qwt-qt5": "qwt-qt5",
+    "qwt-qt6": "qwt",
     "qwt52": "qwt",
     "qwt60": "qwt",
     "qwt61": "qwt",

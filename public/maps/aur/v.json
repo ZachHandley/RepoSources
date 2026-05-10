@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "v",
-    "total_mappings": 158
+    "total_mappings": 156
   },
   "mappings": {
     "v": "v",
@@ -47,8 +47,6 @@
     "vdirsyncer-git": "vdirsyncer",
     "vectorscan": "vectorscan",
     "veilid-git": "veilid",
-    "velero": "velero",
-    "velero-bin": "velero",
     "verapdf": "verapdf",
     "verilator-git": "verilator",
     "vermin-bin": "vermin",

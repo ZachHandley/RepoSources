@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "p",
-    "total_mappings": 87
+    "total_mappings": 88
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -21,6 +21,7 @@
     "pastel": "pastel",
     "patch": "gpatch",
     "patchelf": "patchelf",
+    "patchutils": "patchutils",
     "pathpicker": "fpp",
     "pcal": "pcal",
     "pcaudiolib": "pcaudiolib",

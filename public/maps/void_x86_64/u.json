@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "u",
-    "total_mappings": 67
+    "total_mappings": 68
   },
   "mappings": {
     "u-boot-tools": "u-boot-tools",
@@ -62,6 +62,7 @@
     "urlscan": "urlscan",
     "urlview": "urlview",
     "urlwatch": "urlwatch",
+    "usage": "usage",
     "usbip": "linux-headers@6.8",
     "usbredir": "usbredir",
     "usbredir-devel": "usbredir",

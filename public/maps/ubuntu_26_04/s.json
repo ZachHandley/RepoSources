@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "s",
-    "total_mappings": 482
+    "total_mappings": 488
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -210,6 +210,9 @@
     "smenu": "smenu",
     "smistrip": "libsmi",
     "smitools": "libsmi",
+    "smlnj": "smlnj",
+    "smlnj-doc": "smlnj",
+    "smlnj-runtime": "smlnj",
     "smpeg": "smpeg",
     "smpeg-plaympeg": "smpeg",
     "snakemake": "snakemake",
@@ -253,6 +256,9 @@
     "soci": "soci",
     "softhsm2": "softhsm",
     "softhsm2-common": "softhsm",
+    "sol2": "sol2",
+    "sol2-dev": "sol2",
+    "sol2-doc": "sol2",
     "sollya": "sollya",
     "sollya-doc": "sollya",
     "soplex": "soplex",

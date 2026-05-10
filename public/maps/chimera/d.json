@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "d",
-    "total_mappings": 126
+    "total_mappings": 131
   },
   "mappings": {
     "daq": "daq",
@@ -123,6 +123,11 @@
     "dtc-devel-static": "dtc",
     "dtc-python": "dtc",
     "dtc-python-pycache": "dtc",
+    "dua-cli": "dua-cli",
+    "dua-cli-bashcomp": "dua-cli",
+    "dua-cli-doc": "dua-cli",
+    "dua-cli-fishcomp": "dua-cli",
+    "dua-cli-zshcomp": "dua-cli",
     "duktape": "duktape",
     "duktape-devel": "duktape",
     "duktape-doc": "duktape",

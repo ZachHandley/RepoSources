@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "r",
-    "total_mappings": 681
+    "total_mappings": 684
   },
   "mappings": {
     "R": "r",
@@ -525,6 +525,9 @@
     "rust-hyperfine": "hyperfine",
     "rust-hyperfine-debuginfo": "hyperfine",
     "rust-hyperfine-debugsource": "hyperfine",
+    "rust-lsd": "lsd",
+    "rust-lsd-debuginfo": "lsd",
+    "rust-lsd-debugsource": "lsd",
     "rust-nu": "nushell",
     "rust-nu-debuginfo": "nushell",
     "rust-nu-debugsource": "nushell",

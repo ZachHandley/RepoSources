@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_10",
     "shard": "r",
-    "total_mappings": 255
+    "total_mappings": 263
   },
   "mappings": {
     "r-base": "r",
@@ -216,6 +216,12 @@
     "rust-1.88-gdb": "rust",
     "rust-1.88-lldb": "rust",
     "rust-1.88-src": "rust",
+    "rust-1.91-all": "rust",
+    "rust-1.91-clippy": "rust",
+    "rust-1.91-doc": "rust",
+    "rust-1.91-gdb": "rust",
+    "rust-1.91-lldb": "rust",
+    "rust-1.91-src": "rust",
     "rust-b3sum": "b3sum",
     "rust-bacon": "bacon",
     "rust-bat": "bat",
@@ -257,8 +263,10 @@
     "rust-zoxide": "zoxide",
     "rustc-1.85": "rust",
     "rustc-1.88": "rust",
+    "rustc-1.91": "rust",
     "rustfmt-1.85": "rust",
     "rustfmt-1.88": "rust",
+    "rustfmt-1.91": "rust",
     "rustup": "rustup",
     "rxvt-unicode": "rxvt-unicode",
     "rzip": "rzip"

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "slackwarearm_15_0",
     "shard": "n",
-    "total_mappings": 22
+    "total_mappings": 21
   },
   "mappings": {
     "nano": "nano",
@@ -12,7 +12,6 @@
     "ncftp": "ncftp",
     "ncompress": "ncompress",
     "ncurses": "ncurses",
-    "neofetch": "neofetch",
     "neon": "neon",
     "net-snmp": "net-snmp",
     "net-tools": "net-tools",

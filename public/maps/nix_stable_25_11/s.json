@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "s",
-    "total_mappings": 489
+    "total_mappings": 493
   },
   "mappings": {
     "SDL": "sdl12-compat",
@@ -222,6 +222,9 @@
     "smenu": "smenu",
     "smimesign": "smimesign",
     "smlfmt": "smlfmt",
+    "smlnj": "smlnj",
+    "smlnj-bootstrap": "smlnj",
+    "smlnjBootstrap": "smlnj",
     "smlpkg": "smlpkg",
     "smpeg": "smpeg",
     "smpeg2": "smpeg2",
@@ -259,6 +262,7 @@
     "sofia_sip": "sofia-sip",
     "soft-serve": "soft-serve",
     "softhsm": "softhsm",
+    "sol2": "sol2",
     "solarus": "solarus",
     "solarus-launcher": "solarus",
     "solarus-quest-editor": "solarus",

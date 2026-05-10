@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "l",
-    "total_mappings": 1603
+    "total_mappings": 1612
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -279,6 +279,10 @@
     "libdw-32bit": "elfutils",
     "libdw-32bit-devel": "elfutils",
     "libdw-devel": "elfutils",
+    "libdwarf": "dwarfutils",
+    "libdwarf-dbginfo": "dwarfutils",
+    "libdwarf-devel": "dwarfutils",
+    "libdwarf-tools": "dwarfutils",
     "libebml": "libebml",
     "libebml-dbginfo": "libebml",
     "libebml-devel": "libebml",
@@ -1104,6 +1108,8 @@
     "libtermkey": "libtermkey",
     "libtermkey-dbginfo": "libtermkey",
     "libtermkey-devel": "libtermkey",
+    "libtextstyle": "gettext",
+    "libtextstyle-devel": "gettext",
     "libthai": "libthai",
     "libthai-dbginfo": "libthai",
     "libthai-devel": "libthai",
@@ -1268,6 +1274,9 @@
     "libwebp-32bit-devel": "webp",
     "libwebp-dbginfo": "webp",
     "libwebp-devel": "webp",
+    "libwebsockets": "libwebsockets",
+    "libwebsockets-dbginfo": "libwebsockets",
+    "libwebsockets-devel": "libwebsockets",
     "libwpd": "libwpd",
     "libwpd-dbginfo": "libwpd",
     "libwpd-devel": "libwpd",

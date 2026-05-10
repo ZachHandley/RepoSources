@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "m",
-    "total_mappings": 559
+    "total_mappings": 563
   },
   "mappings": {
     "MMTabBarView": "mmtabbarview",
@@ -58,6 +58,7 @@
     "mail/libetpan": "libetpan",
     "mail/libidn": "libidn",
     "mail/libidn2": "libidn2",
+    "mail/mailpit": "mailpit",
     "mail/mailutils": "mailutils",
     "mail/mairix": "mairix",
     "mail/meli": "meli",
@@ -79,6 +80,7 @@
     "mail/sylpheed": "sylpheed",
     "mail/urlscan": "urlscan",
     "mail/uudeview": "uudeview",
+    "mailpit": "mailpit",
     "mailutils": "mailutils",
     "mairix": "mairix",
     "makedepend": "makedepend",
@@ -168,6 +170,7 @@
     "math/fricas": "fricas",
     "math/gaul-devel": "gaul",
     "math/gibbslda": "gibbslda",
+    "math/ginkgo": "ginkgo",
     "math/glpk": "glpk",
     "math/gnuplot": "gnuplot",
     "math/gsl": "gsl",
@@ -324,6 +327,7 @@
     "mips-elf-gcc": "gcc@14",
     "mips-linux-binutils": "aarch64-elf-binutils",
     "mise": "mise",
+    "mist-cli": "mist-cli",
     "mit-scheme": "mit-scheme",
     "mjpegtools": "mjpegtools",
     "mk-configure": "mk-configure",

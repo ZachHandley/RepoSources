@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p10",
     "shard": "n",
-    "total_mappings": 252
+    "total_mappings": 251
   },
   "mappings": {
     "nDPI": "ndpi",
@@ -79,7 +79,6 @@
     "nedit-debuginfo": "nedit",
     "neko": "neko",
     "neko-debuginfo": "neko",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neomutt-debuginfo": "neomutt",
     "neovim": "neovim",

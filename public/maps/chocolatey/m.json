@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "m",
-    "total_mappings": 128
+    "total_mappings": 130
   },
   "mappings": {
     "MAME - Emulation Framework": "mame",
@@ -27,6 +27,7 @@
     "Meilisearch (Community Edition)": "meilisearch",
     "Memcached": "memcached",
     "Mercurial": "mercurial",
+    "Mergiraf": "mergiraf",
     "Meson": "meson",
     "Microsoft .NET": "dotnet@9",
     "Microsoft .NET Framework 1.1": "dotnet@9",
@@ -82,6 +83,7 @@
     "megatools": "megatools",
     "meilisearch": "meilisearch",
     "memcached": "memcached",
+    "mergiraf": "mergiraf",
     "meson": "meson",
     "metricbeat": "metricbeat",
     "mgba": "mgba",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "r",
-    "total_mappings": 281
+    "total_mappings": 280
   },
   "mappings": {
     "r-mkl": "r",
@@ -210,7 +210,6 @@
     "rshijack-git": "rshijack",
     "rsync-git": "rsync",
     "rsync-reflink": "rsync",
-    "rsync-reflink-git": "rsync",
     "rsyncy-bin": "rsyncy",
     "rsyslog": "rsyslog",
     "rtags": "rtags",

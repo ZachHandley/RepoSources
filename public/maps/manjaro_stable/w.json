@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "w",
-    "total_mappings": 65
+    "total_mappings": 62
   },
   "mappings": {
     "w3m": "w3m",
     "wabt": "wabt",
-    "wakatime": "wakatime-cli",
     "wakeonlan": "wakeonlan",
     "wasi-libc": "wasi-libc",
     "wasm-bindgen": "wasm-bindgen",
@@ -26,10 +25,8 @@
     "wcslib": "wcslib",
     "wdiff": "wdiff",
     "webhook": "webhook",
-    "webkit2gtk": "webkitgtk",
     "webkit2gtk-4.1": "webkitgtk",
     "webkit2gtk-4.1-docs": "webkitgtk",
-    "webkit2gtk-docs": "webkitgtk",
     "webkitgtk-6.0": "webkitgtk",
     "webkitgtk-6.0-docs": "webkitgtk",
     "webp-pixbuf-loader": "webp-pixbuf-loader",

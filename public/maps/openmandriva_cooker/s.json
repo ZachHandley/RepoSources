@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "s",
-    "total_mappings": 296
+    "total_mappings": 294
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -163,8 +163,6 @@
     "sox-debugsource": "sox",
     "soxr": "libsoxr",
     "spandsp": "spandsp",
-    "spandsp-debuginfo": "spandsp",
-    "spandsp-debugsource": "spandsp",
     "sparsehash": "google-sparsehash",
     "sparsehash-devel": "google-sparsehash",
     "spdlog": "spdlog",

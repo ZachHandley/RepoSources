@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "h",
-    "total_mappings": 198
+    "total_mappings": 200
   },
   "mappings": {
     "h2": "h2",
@@ -90,6 +90,8 @@
     "helmsman-git": "helmsman",
     "help2man-git": "help2man",
     "hercules": "hercules",
+    "hermes-agent": "hermes-agent",
+    "hermes-agent-git": "hermes-agent",
     "hevi": "hevi",
     "hevi-bin": "hevi",
     "hevi-git": "hevi",

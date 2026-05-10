@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "carbs",
     "shard": "p",
-    "total_mappings": 14
+    "total_mappings": 13
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -13,7 +13,6 @@
     "pciutils": "pciutils",
     "pcre2": "pcre2",
     "perl": "perl",
-    "pfetch": "pfetch",
     "pigz": "pigz",
     "pinentry": "pinentry",
     "pixman": "pixman",

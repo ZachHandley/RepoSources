@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "d",
-    "total_mappings": 245
+    "total_mappings": 243
   },
   "mappings": {
     "dante": "dante",
@@ -244,8 +244,6 @@
     "dvdauthor-debuginfo": "dvdauthor",
     "dvdbackup": "dvdbackup",
     "dvdbackup-debuginfo": "dvdbackup",
-    "dvorak7min": "dvorak7min",
-    "dvorak7min-debuginfo": "dvorak7min",
     "dwdiff": "dwdiff",
     "dwdiff-debuginfo": "dwdiff",
     "dwm": "dwm",

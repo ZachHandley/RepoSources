@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "l",
-    "total_mappings": 745
+    "total_mappings": 744
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -583,7 +583,6 @@
     "libtorrent": "libtorrent-rakshasa",
     "libtorrent-rasterbar": "libtorrent-rasterbar",
     "libtpms": "libtpms",
-    "libtransmission3": "transmission-cli",
     "libtsan": "gcc@14",
     "libubsan": "gcc@14",
     "libultrahdr": "libultrahdr",

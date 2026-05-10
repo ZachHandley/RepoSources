@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "l",
-    "total_mappings": 817
+    "total_mappings": 818
   },
   "mappings": {
     "LBFGSpp": "lbfgspp",
@@ -223,6 +223,7 @@
     "lang/sisc": "sisc-scheme",
     "lang/slang": "s-lang",
     "lang/slang2": "s-lang",
+    "lang/smlnj": "smlnj",
     "lang/snobol4": "snobol4",
     "lang/solidity": "solidity",
     "lang/spidermonkey": "spidermonkey@115",

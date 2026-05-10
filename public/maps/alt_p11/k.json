@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "k",
-    "total_mappings": 223
+    "total_mappings": 225
   },
   "mappings": {
     "k9s": "k9s",
@@ -114,6 +114,8 @@
     "ktoblzcheck": "ktoblzcheck",
     "ktoblzcheck-debuginfo": "ktoblzcheck",
     "ktoblzcheck-devel": "ktoblzcheck",
+    "kubelogin": "kubelogin",
+    "kubelogin-debuginfo": "kubelogin",
     "kubernetes1.23": "kubernetes-cli@1.35",
     "kubernetes1.23-client": "kubernetes-cli@1.35",
     "kubernetes1.23-common": "kubernetes-cli@1.35",

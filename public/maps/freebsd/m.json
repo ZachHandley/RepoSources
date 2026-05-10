@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "m",
@@ -353,8 +353,6 @@
     "minizinc": "minizinc",
     "minizip": "minizip",
     "minizip-ng": "minizip-ng",
-    "mips-binutils": "aarch64-elf-binutils",
-    "mips64-binutils": "aarch64-elf-binutils",
     "miruo": "miruo",
     "misc/adios2": "adios2",
     "misc/aichat": "aichat",
@@ -382,7 +380,6 @@
     "misc/dlpack": "dlpack",
     "misc/dotenv-linter": "dotenv-linter",
     "misc/dtach": "dtach",
-    "misc/dvorak7min": "dvorak7min",
     "misc/dynomite": "dynomite",
     "misc/exercism": "exercism",
     "misc/fabric": "fabric-ai",
@@ -399,6 +396,7 @@
     "misc/gwhich": "gnu-which",
     "misc/hello": "hello",
     "misc/help2man": "help2man",
+    "misc/hermes-agent": "hermes-agent",
     "misc/hicolor-icon-theme": "hicolor-icon-theme",
     "misc/ipbt": "ipbt",
     "misc/iso-codes": "iso-codes",
@@ -705,6 +703,8 @@
     "mysql84-server": "mysql@8.4",
     "mysql96-client": "mysql@8.4",
     "mysql96-server": "mysql@8.4",
+    "mysql97-client": "mysql@8.4",
+    "mysql97-server": "mysql@8.4",
     "mysqltuner": "mysqltuner"
   }
 }

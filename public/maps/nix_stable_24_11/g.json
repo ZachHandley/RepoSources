@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "g",
-    "total_mappings": 510
+    "total_mappings": 509
   },
   "mappings": {
     "g2o": "g2o",
@@ -187,7 +187,6 @@
     "gitSVN": "git",
     "gitbatch": "gitbatch",
     "gitea": "gitea",
-    "gitea-actions-runner": "act_runner",
     "gitg": "gitg",
     "github-release": "github-release",
     "gitlab-ci-local": "gitlab-ci-local",

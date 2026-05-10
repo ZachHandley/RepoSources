@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "a",
-    "total_mappings": 56
+    "total_mappings": 55
   },
   "mappings": {
     "ack": "ack",
@@ -14,7 +14,6 @@
     "acpica-unix": "acpica",
     "afuse": "afuse",
     "agetty": "gnu-getopt",
-    "aggregate": "aggregate",
     "ahcpd": "ahcpd",
     "aircrack-ng": "aircrack-ng",
     "airmon-ng": "aircrack-ng",

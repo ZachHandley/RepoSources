@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "t",
-    "total_mappings": 67
+    "total_mappings": 68
   },
   "mappings": {
     "ta-lib": "ta-lib",
@@ -72,6 +72,7 @@
     "ttyplot": "ttyplot",
     "ttyrec": "ttyrec",
     "tut": "tut",
+    "ty": "ty",
     "typst": "typst",
     "typstfmt": "typstfmt"
   }

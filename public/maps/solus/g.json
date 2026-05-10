@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "g",
-    "total_mappings": 426
+    "total_mappings": 427
   },
   "mappings": {
     "g++": "gcc@14",
@@ -90,6 +90,7 @@
     "gettext-dbginfo": "gettext",
     "gettext-devel": "gettext",
     "gettext-docs": "gettext",
+    "gettext-libs": "gettext",
     "gexiv2": "gexiv2",
     "gexiv2-0.14": "gexiv2",
     "gexiv2-0.14-dbginfo": "gexiv2",

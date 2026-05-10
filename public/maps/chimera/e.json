@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "e",
-    "total_mappings": 91
+    "total_mappings": 93
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -74,6 +74,8 @@
     "erlang-wx": "erlang@27",
     "erofs-utils": "erofs-utils",
     "erofs-utils-man": "erofs-utils",
+    "esbuild": "esbuild",
+    "esbuild-doc": "esbuild",
     "espeak-ng": "espeak-ng",
     "espeak-ng-devel": "espeak-ng",
     "espeak-ng-devel-static": "espeak",

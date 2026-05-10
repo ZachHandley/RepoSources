@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "g",
-    "total_mappings": 518
+    "total_mappings": 517
   },
   "mappings": {
     "g-ls": "g-ls",
@@ -190,7 +190,6 @@
     "gitSVN": "git",
     "gitbatch": "gitbatch",
     "gitea": "gitea",
-    "gitea-actions-runner": "act_runner",
     "gitea-mcp-server": "gitea-mcp-server",
     "gitg": "gitg",
     "github-mcp-server": "github-mcp-server",

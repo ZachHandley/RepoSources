@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "m",
-    "total_mappings": 81
+    "total_mappings": 83
   },
   "mappings": {
     "m4": "m4",
@@ -20,11 +20,13 @@
     "markdown-oxide": "markdown-oxide",
     "marksman": "marksman",
     "mask": "mask",
+    "matcha": "matcha",
     "matterbridge": "matterbridge",
     "maven": "maven",
     "maven3": "maven",
     "maven4": "maven",
     "maxima": "maxima",
+    "mcat": "mcat",
     "mcfly": "mcfly",
     "mdbook": "mdbook",
     "mdcat": "mdcat",

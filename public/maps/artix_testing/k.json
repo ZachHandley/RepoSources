@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-10T04:26:33Z",
+    "source": "repology-dump",
+    "distro": "artix_testing",
+    "shard": "k",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "kcpuid": "linux-headers@6.8"
+  }
+}

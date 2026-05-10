@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "p",
-    "total_mappings": 1184
+    "total_mappings": 1189
   },
   "mappings": {
     "PDAL": "pdal",
@@ -357,6 +357,7 @@
     "pipewire0.2-devel": "pipewire",
     "pipewire0.2-libs": "pipewire",
     "pipx": "pipx",
+    "pipx+uv": "pipx",
     "pixiewps": "pixiewps",
     "pixman": "pixman",
     "pixman-devel": "pixman",
@@ -391,6 +392,9 @@
     "plplot-tk-devel": "plplot",
     "plplot-wxGTK": "plplot",
     "plplot-wxGTK-devel": "plplot",
+    "plutosvg": "plutosvg",
+    "plutosvg-devel": "plutosvg",
+    "plutosvg-samples": "plutosvg",
     "plutovg": "plutovg",
     "plutovg-devel": "plutovg",
     "plutovg-samples": "plutovg",
@@ -900,7 +904,7 @@
     "python3-gobject": "pygobject3",
     "python3-gobject-base": "pygobject3",
     "python3-gobject-devel": "pygobject3",
-    "python3-gpg": "gpgme",
+    "python3-gpg": "gpgmepy",
     "python3-gpsd": "gpsd",
     "python3-graph-tool": "graph-tool",
     "python3-graph-tool-devel": "graph-tool",
@@ -974,6 +978,7 @@
     "python3-lsp-server": "python-lsp-server",
     "python3-lsp-server+all": "python-lsp-server",
     "python3-lttngust": "lttng-ust",
+    "python3-manifold3d": "manifold",
     "python3-mapserver": "mapserver",
     "python3-marisa": "marisa",
     "python3-markdown": "python-markdown",

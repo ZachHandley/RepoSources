@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "f",
-    "total_mappings": 234
+    "total_mappings": 233
   },
   "mappings": {
     "FAudio": "faudio",
@@ -52,7 +52,6 @@
     "fetchmailconf": "fetchmail",
     "fex": "fex",
     "ffe": "ffe",
-    "fff": "fff",
     "ffmpeg": "ffmpeg@7",
     "ffmpeg-nox11": "ffmpeg@7",
     "ffmpeg3": "ffmpeg@7",

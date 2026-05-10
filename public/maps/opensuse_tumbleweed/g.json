@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "g",
-    "total_mappings": 1395
+    "total_mappings": 1393
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -556,6 +556,10 @@
     "ginac-debuginfo": "ginac",
     "ginac-debugsource": "ginac",
     "ginac-devel": "ginac",
+    "ginkgo": "ginkgo",
+    "ginkgo-debuginfo": "ginkgo",
+    "ginkgo-debugsource": "ginkgo",
+    "ginkgo-devel": "ginkgo",
     "gio-branding-upstream": "glib",
     "girara": "girara",
     "girara-debuginfo": "girara",
@@ -999,12 +1003,6 @@
     "googletest": "googletest",
     "googletest-debuginfo": "googletest",
     "googletest-debugsource": "googletest",
-    "goose": "goose",
-    "goose-bash-completion": "goose",
-    "goose-debuginfo": "goose",
-    "goose-debugsource": "goose",
-    "goose-fish-completion": "goose",
-    "goose-zsh-completion": "goose",
     "gopass": "gopass",
     "gopass-bash-completion": "gopass",
     "gopass-debuginfo": "gopass",

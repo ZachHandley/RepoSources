@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "k",
-    "total_mappings": 43
+    "total_mappings": 42
   },
   "mappings": {
     "k2tf": "k2tf",
@@ -18,7 +18,6 @@
     "kanata": "kanata",
     "kapacitor": "kapacitor",
     "kapp": "kapp",
-    "kcptun": "kcptun",
     "kimi-cli": "kimi-cli",
     "kind": "kind",
     "kiota": "kiota",

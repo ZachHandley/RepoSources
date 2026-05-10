@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "o",
@@ -162,7 +162,6 @@
     "openjdk-25-jre": "openjdk@21",
     "openjdk-25-jre-headless": "openjdk@21",
     "openjdk-25-jre-zero": "openjdk@21",
-    "openjdk-25-jvmci-jdk": "openjdk@21",
     "openjdk-25-source": "openjdk@21",
     "openjdk-25-testsupport": "openjdk@21",
     "openjdk-26": "openjdk@21",
@@ -185,7 +184,6 @@
     "openjdk-27-jre": "openjdk@21",
     "openjdk-27-jre-headless": "openjdk@21",
     "openjdk-27-jre-zero": "openjdk@21",
-    "openjdk-27-jvmci-jdk": "openjdk@21",
     "openjdk-27-source": "openjdk@21",
     "openjdk-27-testsupport": "openjdk@21",
     "openjdk-8": "openjdk@21",
@@ -273,6 +271,8 @@
     "osmpbf": "osm-pbf",
     "osmpbf-bin": "osm-pbf",
     "ospray": "ospray",
+    "osrm-backend": "osrm-backend",
+    "osrm-backend-service": "osrm-backend",
     "osslsigncode": "osslsigncode",
     "ossp-uuid": "ossp-uuid",
     "otf2": "otf2",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "s",
-    "total_mappings": 166
+    "total_mappings": 165
   },
   "mappings": {
     "SPIRV-Headers": "spirv-headers",
@@ -45,7 +45,6 @@
     "system/base/dbus": "dbus",
     "system/base/dbus-glib": "dbus-glib",
     "system/base/diffutils": "diffutils",
-    "system/base/disktype": "disktype",
     "system/base/duktape": "duktape",
     "system/base/e2fsprogs": "e2fsprogs",
     "system/base/elfutils": "elfutils",

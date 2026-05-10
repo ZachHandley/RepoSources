@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "s",
-    "total_mappings": 247
+    "total_mappings": 248
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -110,6 +110,7 @@
     "smartdns": "smartdns",
     "smartmontools": "smartmontools",
     "smbclient": "samba",
+    "smlnj": "smlnj",
     "smpeg": "smpeg2",
     "sn0int": "sn0int",
     "snapd": "snap",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "t",
-    "total_mappings": 355
+    "total_mappings": 357
   },
   "mappings": {
     "TinySVM": "tinysvm",
@@ -290,6 +290,7 @@
     "time/hebcal": "hebcal",
     "time/khal": "khal",
     "time/libical": "libical",
+    "time/libical4": "libical",
     "time/pcal": "pcal",
     "time/phoon": "phoon",
     "time/py-jrnl": "jrnl",
@@ -315,6 +316,7 @@
     "tmate": "tmate",
     "tmux": "tmux",
     "tmux-mem-cpu-load": "tmux-mem-cpu-load",
+    "tmuxp": "tmuxp",
     "tnef": "tnef",
     "tnftp": "tnftp",
     "tnftpd": "tnftpd",

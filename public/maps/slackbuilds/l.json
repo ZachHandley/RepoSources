@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "l",
-    "total_mappings": 536
+    "total_mappings": 538
   },
   "mappings": {
     "libraries/Botan": "botan@2",
-    "libraries/Botan3": "botan@2",
+    "libraries/Botan2": "botan@2",
     "libraries/CCfits": "ccfits",
     "libraries/CGAL": "cgal",
     "libraries/CGAL5": "cgal",
@@ -319,6 +319,7 @@
     "libraries/libscrypt": "libscrypt",
     "libraries/libserialport": "libserialport",
     "libraries/libshout": "libshout",
+    "libraries/libshumate": "libshumate",
     "libraries/libsidplayfp": "libsidplayfp",
     "libraries/libsigrok": "libsigrok",
     "libraries/libsigrokdecode": "libsigrokdecode",
@@ -379,6 +380,7 @@
     "libraries/log4cplus": "log4cplus",
     "libraries/log4cpp": "log4cpp",
     "libraries/log4shib": "log4shib",
+    "libraries/lttng-ust": "lttng-ust",
     "libraries/lua-lpeg": "lpeg",
     "libraries/lunasvg": "lunasvg",
     "libraries/mbedtls": "mbedtls@3",

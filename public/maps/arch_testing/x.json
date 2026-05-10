@@ -1,14 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "x",
-    "total_mappings": 3
+    "total_mappings": 8
   },
   "mappings": {
     "x86_energy_perf_policy": "linux-headers@6.8",
-    "xapian-core": "xapian",
-    "xapian-core-docs": "xapian"
+    "xorg-server": "xorg-server",
+    "xorg-server-common": "xorg-server",
+    "xorg-server-devel": "xorg-server",
+    "xorg-server-src": "xorg-server",
+    "xorg-server-xephyr": "xorg-server",
+    "xorg-server-xnest": "xorg-server",
+    "xorg-server-xvfb": "xorg-server"
   }
 }

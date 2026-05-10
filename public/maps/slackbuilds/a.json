@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "a",
-    "total_mappings": 165
+    "total_mappings": 167
   },
   "mappings": {
     "academic/Gabedit": "gabedit",
@@ -27,6 +27,7 @@
     "academic/calc": "calc",
     "academic/cdo": "cdo",
     "academic/cryptominisat": "cryptominisat",
+    "academic/cutadapt": "cutadapt",
     "academic/datamash": "datamash",
     "academic/diamond": "diamond",
     "academic/ent": "ent",
@@ -65,6 +66,7 @@
     "academic/ncview": "ncview",
     "academic/ngspice": "libngspice",
     "academic/octave": "octave",
+    "academic/paml": "paml",
     "academic/pari": "pari",
     "academic/pari-elldata": "pari-elldata",
     "academic/pari-galdata": "pari-galdata",

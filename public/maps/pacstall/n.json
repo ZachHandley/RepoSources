@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pacstall",
     "shard": "n",
-    "total_mappings": 10
+    "total_mappings": 9
   },
   "mappings": {
     "nano": "nano",
-    "neofetch": "neofetch",
     "neovide-bin": "neovide",
     "neovim": "neovim",
     "neovim-app": "neovim",

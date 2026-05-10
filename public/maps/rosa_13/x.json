@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "x",
-    "total_mappings": 119
+    "total_mappings": 123
   },
   "mappings": {
     "Xaw3d": "libxaw3d",
@@ -120,11 +120,15 @@
     "xsltproc": "libxslt",
     "xtables-plugins": "iptables",
     "xterm": "xterm",
+    "xterm-debuginfo": "xterm",
+    "xterm-debugsource": "xterm",
     "xtl": "xtl",
     "xtl-doc": "xtl",
     "xvid": "xvid",
     "xwininfo": "xwininfo",
     "xxhash": "xxhash",
-    "xz": "xz"
+    "xz": "xz",
+    "xz-debuginfo": "xz",
+    "xz-debugsource": "xz"
   }
 }

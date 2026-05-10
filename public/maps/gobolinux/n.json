@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "n",
-    "total_mappings": 47
+    "total_mappings": 46
   },
   "mappings": {
     "NCDU": "ncdu",
@@ -29,7 +29,6 @@
     "NcursesW": "ncurses",
     "Neko": "neko",
     "NeoVim": "neovim",
-    "Neofetch": "neofetch",
     "Neon": "neon",
     "Nestopia": "nestopia-ue",
     "Net-SNMP": "net-snmp",

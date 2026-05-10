@@ -1,18 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "g",
-    "total_mappings": 94
+    "total_mappings": 89
   },
   "mappings": {
     "gdal": "gdal",
     "gdal-bin": "gdal",
     "gdal-data": "gdal",
     "gdal-plugins": "gdal",
+    "gexiv2-0.14": "gexiv2",
     "gflags": "gflags",
     "gir1.2-gdesktopenums-3.0": "gsettings-desktop-schemas",
+    "gir1.2-gexiv2-0.10": "gexiv2",
     "gir1.2-gstreamer-1.0": "gstreamer",
     "gir1.2-gtksource-300": "libgedit-gtksourceview",
     "gir1.2-javascriptcoregtk-4.1": "webkitgtk",
@@ -36,9 +38,6 @@
     "glibc": "glibc",
     "glibc-doc": "glibc@2.17",
     "glibc-source": "glibc@2.17",
-    "gnutls-bin": "gnutls",
-    "gnutls-doc": "gnutls",
-    "gnutls28": "gnutls",
     "go-containerregistry": "crane",
     "golang-1.10": "go@1.25",
     "golang-1.10-doc": "go@1.25",
@@ -81,9 +80,7 @@
     "golang-github-gittuf-gittuf-dev": "gittuf",
     "golang-github-google-go-containerregistry-dev": "crane",
     "golang-github-knqyf263-gost-dev": "gost",
-    "golang-github-lxc-incus-dev": "incus",
     "golang-github-opencontainers-runc-dev": "runc",
-    "golang-github-opensuse-umoci-dev": "umoci",
     "golang-github-sigstore-cosign-dev": "cosign",
     "golang-github-sigstore-gitsign-dev": "gitsign",
     "google-glog": "glog",
@@ -98,8 +95,6 @@
     "gsettings-desktop-schemas-dev": "gsettings-desktop-schemas",
     "gstreamer1.0": "gstreamer",
     "gstreamer1.0-tools": "gstreamer",
-    "gwyddion": "gwyddion",
-    "gwyddion-common": "gwyddion",
     "gzip": "gzip"
   }
 }

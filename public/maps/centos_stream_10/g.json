@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "centos_stream_10",
     "shard": "g",
-    "total_mappings": 488
+    "total_mappings": 494
   },
   "mappings": {
     "gawk": "gawk",
@@ -356,6 +356,8 @@
     "glslang-debugsource": "glslang",
     "glslang-devel": "glslang",
     "glslc": "shaderc",
+    "gmock": "googletest",
+    "gmock-devel": "googletest",
     "gmp": "gmp",
     "gmp-c++": "gmp",
     "gmp-debuginfo": "gmp",
@@ -456,6 +458,10 @@
     "gstreamer1-debuginfo": "gstreamer",
     "gstreamer1-debugsource": "gstreamer",
     "gstreamer1-devel": "gstreamer",
+    "gtest": "googletest",
+    "gtest-debuginfo": "googletest",
+    "gtest-debugsource": "googletest",
+    "gtest-devel": "googletest",
     "gtk-doc": "gtk-doc",
     "gtk-update-icon-cache": "gtk+",
     "gtk-vnc": "gtk-vnc",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "a",
-    "total_mappings": 992
+    "total_mappings": 990
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -720,7 +720,6 @@
     "app-utils/fastfetch": "fastfetch",
     "app-utils/fd": "fd",
     "app-utils/fend": "fend",
-    "app-utils/fff": "fff",
     "app-utils/figlet": "figlet",
     "app-utils/file": "file-formula",
     "app-utils/findutils": "findutils",
@@ -786,7 +785,6 @@
     "app-utils/most": "most",
     "app-utils/ncdu": "ncdu",
     "app-utils/ncompress": "ncompress",
-    "app-utils/neofetch": "neofetch",
     "app-utils/netpbm": "netpbm",
     "app-utils/nnn": "nnn",
     "app-utils/nomino": "nomino",

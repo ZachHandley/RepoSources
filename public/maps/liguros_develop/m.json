@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "m",
@@ -287,6 +287,7 @@
     "media-libs/partio": "partio",
     "media-libs/pcaudiolib": "pcaudiolib",
     "media-libs/plotutils": "plotutils",
+    "media-libs/plutosvg": "plutosvg",
     "media-libs/plutovg": "plutovg",
     "media-libs/portaudio": "portaudio",
     "media-libs/portmidi": "portmidi",
@@ -426,7 +427,6 @@
     "media-sound/vorbisgain": "vorbisgain",
     "media-sound/wavpack": "wavpack",
     "media-sound/wildmidi": "wildmidi",
-    "media-sound/yewtube": "yewtube",
     "media-video/aravis": "aravis",
     "media-video/atomicparsley": "atomicparsley",
     "media-video/ccextractor": "ccextractor",

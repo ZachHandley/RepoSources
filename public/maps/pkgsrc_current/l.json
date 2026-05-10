@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "l",
-    "total_mappings": 641
+    "total_mappings": 648
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -171,6 +171,7 @@
     "lang/scala": "scala@3.3",
     "lang/scheme48": "scheme48",
     "lang/smalltalk": "gnu-smalltalk",
+    "lang/smlnj": "smlnj",
     "lang/souffle": "souffle",
     "lang/spago": "spago",
     "lang/spidermonkey": "spidermonkey@115",
@@ -385,6 +386,8 @@
     "libidn2": "libidn2",
     "libilbc": "libilbc",
     "libimagequant": "libimagequant",
+    "libimobiledevice": "libimobiledevice",
+    "libimobiledevice-glue": "libimobiledevice-glue",
     "libint": "libint",
     "libiptcdata": "libiptcdata",
     "libiscsi": "libiscsi",
@@ -433,6 +436,7 @@
     "libnet10": "libnet",
     "libnet11": "libnet",
     "libnfc": "libnfc",
+    "libnfs": "libnfs",
     "libnice": "libnice",
     "libnids": "libnids",
     "libnotify": "libnotify",
@@ -509,6 +513,7 @@
     "libspatialite": "libspatialite",
     "libspectre": "libspectre",
     "libspiro": "libspiro",
+    "libsquish": "libsquish",
     "libssh": "libssh",
     "libssh2": "libssh2",
     "libstatgrab": "libstatgrab",
@@ -517,6 +522,7 @@
     "libsvm": "libsvm",
     "libtar": "libtar",
     "libtasn1": "libtasn1",
+    "libtatsu": "libtatsu",
     "libtecla": "libtecla",
     "libtermkey": "libtermkey",
     "libthai": "libthai",
@@ -544,6 +550,7 @@
     "libusb": "libusb",
     "libusb-compat": "libusb-compat",
     "libusb1": "libusb",
+    "libusbmuxd": "libusbmuxd",
     "libuuid": "gnu-getopt",
     "libuv": "libuv",
     "libva": "libva",

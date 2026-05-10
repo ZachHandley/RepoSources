@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_11",
     "shard": "d",
-    "total_mappings": 241
+    "total_mappings": 242
   },
   "mappings": {
     "daemon": "daemon",
@@ -30,6 +30,7 @@
     "dasd-extra-modules-5.10.0-32-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-5.10.0-39-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-5.10.0-41-s390x-di": "linux-headers@6.8",
+    "dasd-extra-modules-5.10.0-42-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-5.10.0-6-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-5.10.0-8-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-3-s390x-di": "linux-headers@6.8",
@@ -37,6 +38,7 @@
     "dasd-modules-5.10.0-32-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-39-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-41-s390x-di": "linux-headers@6.8",
+    "dasd-modules-5.10.0-42-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-6-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-8-s390x-di": "linux-headers@6.8",
     "dash": "dash-shell",
@@ -238,7 +240,6 @@
     "dvdbackup": "dvdbackup",
     "dvdbackup-dbg": "dvdbackup",
     "dvisvgm": "dvisvgm",
-    "dvorak7min": "dvorak7min",
     "dwarfdump": "dwarfutils",
     "dwarfutils": "dwarfutils",
     "dwdiff": "dwdiff",

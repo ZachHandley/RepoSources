@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_40",
     "shard": "a",
-    "total_mappings": 569
+    "total_mappings": 565
   },
   "mappings": {
     "Agda": "agda",
@@ -106,10 +106,6 @@
     "agedu": "agedu",
     "agedu-debuginfo": "agedu",
     "agedu-debugsource": "agedu",
-    "aggregate": "aggregate",
-    "aggregate-debuginfo": "aggregate",
-    "aggregate-debugsource": "aggregate",
-    "aggregate-ios": "aggregate",
     "agrep": "tre",
     "aha": "aha",
     "aha-debuginfo": "aha",

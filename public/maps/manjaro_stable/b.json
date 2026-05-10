@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "b",
-    "total_mappings": 117
+    "total_mappings": 115
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -110,7 +110,6 @@
     "bubblewrap": "bubblewrap",
     "bubblewrap-suid": "bubblewrap",
     "buf": "buf",
-    "build2": "build2",
     "buildkit": "buildkit",
     "bullet": "bullet",
     "bullet-docs": "bullet",
@@ -121,7 +120,6 @@
     "busted": "busted",
     "bwm-ng": "bwm-ng",
     "byacc": "byacc",
-    "byobu": "byobu",
     "bzip2": "bzip2",
     "bzip3": "bzip3"
   }

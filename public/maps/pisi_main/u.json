@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "u",
-    "total_mappings": 79
+    "total_mappings": 78
   },
   "mappings": {
     "uchardet": "uchardet",
@@ -70,7 +70,6 @@
     "util/misc/lf": "lf",
     "util/misc/lsof": "lsof",
     "util/misc/mc": "midnight-commander",
-    "util/misc/neofetch": "neofetch",
     "util/misc/nnn": "nnn",
     "util/misc/patchutils/patchutils": "patchutils",
     "util/misc/progress": "progress",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_stable_23_11",
     "shard": "f",
-    "total_mappings": 203
+    "total_mappings": 202
   },
   "mappings": {
     "Fabric": "fabric",
@@ -66,7 +66,6 @@
     "fetchmail": "fetchmail",
     "fetchmail-unstable": "fetchmail",
     "fetchmail_7": "fetchmail",
-    "fff": "fff",
     "ffmpeg": "ffmpeg@7",
     "ffmpeg-full": "ffmpeg-full",
     "ffmpeg-headless": "ffmpeg@7",

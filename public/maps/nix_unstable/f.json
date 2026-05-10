@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "f",
@@ -77,7 +77,6 @@
     "ferron": "ferron",
     "fetchmail": "fetchmail",
     "fetchmail_7": "fetchmail",
-    "fff": "fff",
     "ffmpeg": "ffmpeg@7",
     "ffmpeg-full": "ffmpeg-full",
     "ffmpeg-headless": "ffmpeg@7",
@@ -226,6 +225,7 @@
     "freenect": "libfreenect",
     "freeradius": "freeradius-server",
     "freerdp": "freerdp",
+    "freesasa": "freesasa",
     "freeswitch": "freeswitch",
     "freetds": "freetds",
     "freetype": "freetype",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "p",
-    "total_mappings": 1007
+    "total_mappings": 1008
   },
   "mappings": {
     "PDAL": "pdal",
@@ -28,6 +28,7 @@
     "pam_u2f": "pam-u2f",
     "pam_u2f-debuginfo": "pam-u2f",
     "pam_u2f-debugsource": "pam-u2f",
+    "paml": "paml",
     "pamu2fcfg": "pam-u2f",
     "pan": "pan",
     "pan-debuginfo": "pan",

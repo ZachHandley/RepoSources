@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "n",
-    "total_mappings": 267
+    "total_mappings": 266
   },
   "mappings": {
     "nagios": "nagios",
@@ -113,7 +113,6 @@
     "nedit": "nedit",
     "nedit-debuginfo": "nedit",
     "nedit-debugsource": "nedit",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neomutt-debuginfo": "neomutt",
     "neomutt-debugsource": "neomutt",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "r",
@@ -13,8 +13,8 @@
     "redis-server": "redis@8.2",
     "redis-tools": "redis@8.2",
     "reprepro": "reprepro",
-    "rfkill-modules-7.0-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-7.0-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.1-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-7.1-loong64-di": "linux-headers@6.8",
     "rtla": "linux-headers@6.8",
     "rtorrent": "rtorrent",
     "ruby-google-protobuf": "protobuf@33",

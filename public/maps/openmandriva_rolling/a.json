@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "a",
-    "total_mappings": 313
+    "total_mappings": 312
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -48,7 +48,6 @@
     "afuse-debuginfo": "afuse",
     "afuse-debugsource": "afuse",
     "agg": "libagg",
-    "aggregate": "aggregate",
     "agrep": "tre",
     "aha": "aha",
     "aha-debuginfo": "aha",

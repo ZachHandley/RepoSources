@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alpine_3_21",
     "shard": "c",
-    "total_mappings": 512
+    "total_mappings": 513
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -379,6 +379,7 @@
     "collectd-zookeeper": "collectd",
     "colordiff": "colordiff",
     "colordiff-doc": "colordiff",
+    "committed": "committed",
     "composer": "composer",
     "composer-bash-completion": "composer",
     "composer-zsh-completion": "zsh",

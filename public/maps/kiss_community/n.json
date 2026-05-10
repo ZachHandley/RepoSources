@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "kiss_community",
     "shard": "n",
-    "total_mappings": 14
+    "total_mappings": 13
   },
   "mappings": {
     "nano": "nano",
     "nawk-git": "awk",
     "ncdu1": "ncdu",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neovim": "neovim",
     "nettle": "nettle",

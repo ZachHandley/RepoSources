@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "c",
-    "total_mappings": 344
+    "total_mappings": 346
   },
   "mappings": {
     "CLI11": "cli11",
@@ -197,6 +197,8 @@
     "comms/gammu": "gammu",
     "comms/kermit": "c-kermit",
     "comms/libhidapi": "hidapi",
+    "comms/libimobiledevice": "libimobiledevice",
+    "comms/libusbmuxd": "libusbmuxd",
     "comms/lrzsz": "lrzsz",
     "comms/minicom": "minicom",
     "comms/minimodem": "minimodem",

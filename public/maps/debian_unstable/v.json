@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "v",
-    "total_mappings": 135
+    "total_mappings": 136
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -135,6 +135,7 @@
     "vtk9-doc": "vtk",
     "vtk9-examples": "vtk",
     "vttest": "vttest",
+    "vtzero": "vtzero",
     "vulkan-loader": "vulkan-loader",
     "vulkan-tools": "vulkan-tools",
     "vulkan-utility-libraries": "vulkan-utility-libraries",

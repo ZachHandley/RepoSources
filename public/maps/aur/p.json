@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "p",
-    "total_mappings": 1130
+    "total_mappings": 1131
   },
   "mappings": {
     "p11-kit-git": "p11-kit",
@@ -27,6 +27,7 @@
     "paho-mqtt-c-git": "libpaho-mqtt",
     "pam-selinux": "linux-pam",
     "pam_u2f-git": "pam-u2f",
+    "paml": "paml",
     "pan-git": "pan",
     "pandoc-bin": "pandoc",
     "pandoc-crossref-bin": "pandoc-crossref",
@@ -127,8 +128,6 @@
     "petsc-complex": "petsc-complex",
     "petsc-git": "petsc",
     "pferd": "pferd",
-    "pfetch": "pfetch",
-    "pfetch-git": "pfetch",
     "pg_cron": "pg_cron",
     "pg_partman": "pg_partman",
     "pg_partman-git": "pg_partman",
@@ -751,6 +750,8 @@
     "plplot": "plplot",
     "pluto": "pluto",
     "pluto-bin": "pluto",
+    "plutosvg": "plutosvg",
+    "plutosvg-git": "plutosvg",
     "plutovg": "plutovg",
     "plutovg-git": "plutovg",
     "plzip": "plzip",

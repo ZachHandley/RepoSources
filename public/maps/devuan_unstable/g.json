@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "g",
-    "total_mappings": 1975
+    "total_mappings": 1979
   },
   "mappings": {
     "g++-11": "gcc@14",
@@ -818,6 +818,7 @@
     "gettext-el": "gettext",
     "getty-run": "runit",
     "gexiv2": "gexiv2",
+    "gexiv2-0.14": "gexiv2",
     "gffread": "gffread",
     "gflags": "gflags",
     "gforth": "gforth",
@@ -1004,6 +1005,7 @@
     "gir1.2-gegl-0.4": "gegl",
     "gir1.2-geocodeglib-2.0": "geocode-glib",
     "gir1.2-gexiv2-0.10": "gexiv2",
+    "gir1.2-gexiv2-0.16": "gexiv2",
     "gir1.2-gfls-1": "libgedit-gfls",
     "gir1.2-ggit-1.0": "libgit2-glib",
     "gir1.2-girepository-2.0": "gobject-introspection",
@@ -1901,6 +1903,8 @@
     "groonga-doc": "groonga",
     "groonga-examples": "groonga",
     "groonga-munin-plugins": "groonga",
+    "groonga-plugin-h3": "groonga",
+    "groonga-plugin-language-model": "groonga",
     "groonga-plugin-suggest": "groonga",
     "groonga-server-common": "groonga",
     "groonga-server-gqtp": "groonga",

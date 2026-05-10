@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "n",
@@ -35,7 +35,6 @@
     "neatvi": "neatvi",
     "nedit": "nedit",
     "neko": "neko",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neon": "neon",
     "neovim": "neovim",
@@ -156,6 +155,7 @@
     "net/libiscsi": "libiscsi",
     "net/liblive": "openrtsp",
     "net/libmms": "libmms",
+    "net/libnfs": "libnfs",
     "net/libnice": "libnice",
     "net/libnids": "libnids",
     "net/libnpupnp": "libnpupnp",

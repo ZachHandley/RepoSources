@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "g",
-    "total_mappings": 1205
+    "total_mappings": 1210
   },
   "mappings": {
     "GLEW": "glew",
@@ -211,6 +211,9 @@
     "gengetopt-debuginfo": "gengetopt",
     "geogram": "geogram",
     "geogram-debuginfo": "geogram",
+    "geographiclib": "geographiclib",
+    "geographiclib-debuginfo": "geographiclib",
+    "geographiclib-doc": "geographiclib",
     "geoipupdate": "geoipupdate",
     "geoipupdate-debuginfo": "geoipupdate",
     "geomview": "geomview",
@@ -994,6 +997,8 @@
     "gnuradio": "gnuradio",
     "gnuradio-debuginfo": "gnuradio",
     "gnuradio-devel": "gnuradio",
+    "gnuradio-libs": "gnuradio",
+    "gnuradio-libs-debuginfo": "gnuradio",
     "gnustep-base": "gnustep-base",
     "gnustep-base-debuginfo": "gnustep-base",
     "gnustep-base-devel": "gnustep-base",

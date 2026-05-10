@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "z",
-    "total_mappings": 149
+    "total_mappings": 150
   },
   "mappings": {
     "z-git": "z",
@@ -41,6 +41,7 @@
     "zf-bin": "zf",
     "zfind": "zfind",
     "zfind-bin": "zfind",
+    "zig-0.16-bin": "zig@0.15",
     "zig-bin": "zig@0.15",
     "zig-dev-bin": "zig@0.15",
     "zig-git": "zig@0.15",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "a",
-    "total_mappings": 105
+    "total_mappings": 104
   },
   "mappings": {
     "AppStream": "appstream",
@@ -30,7 +30,6 @@
     "afflib": "afflib",
     "afio": "afio",
     "aften": "aften",
-    "aggregate": "aggregate",
     "aircrack-ng": "aircrack-ng",
     "aldo": "aldo",
     "allegro": "allegro",

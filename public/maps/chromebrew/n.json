@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "n",
-    "total_mappings": 41
+    "total_mappings": 40
   },
   "mappings": {
     "nano": "nano",
@@ -19,7 +19,6 @@
     "ncurses": "ncurses",
     "nedit": "nedit",
     "neo4j": "neo4j",
-    "neofetch": "neofetch",
     "neon": "neon",
     "neovim": "neovim",
     "netcat": "netcat",

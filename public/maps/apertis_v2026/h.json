@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "h",
-    "total_mappings": 44
+    "total_mappings": 39
   },
   "mappings": {
     "handy-1-examples": "libhandy",
@@ -28,9 +28,6 @@
     "hfs-modules-6.18.24-m68k-di": "linux-headers@6.8",
     "hfs-modules-6.18.24-powerpc-di": "linux-headers@6.8",
     "hfs-modules-6.18.24-powerpc64-di": "linux-headers@6.8",
-    "hfs-modules-6.18.5+2-m68k-di": "linux-headers@6.8",
-    "hfs-modules-6.18.5+2-powerpc-di": "linux-headers@6.8",
-    "hfs-modules-6.18.5+2-powerpc64-di": "linux-headers@6.8",
     "hicolor-icon-theme": "hicolor-icon-theme",
     "highway": "highway",
     "highway-doc": "highway",
@@ -48,8 +45,6 @@
     "hwloc-nox": "hwloc",
     "hyperv-daemons": "linux-headers@6.8",
     "hypervisor-modules-6.18.24-powerpc64-di": "linux-headers@6.8",
-    "hypervisor-modules-6.18.24-powerpc64le-di": "linux-headers@6.8",
-    "hypervisor-modules-6.18.5+2-powerpc64-di": "linux-headers@6.8",
-    "hypervisor-modules-6.18.5+2-powerpc64le-di": "linux-headers@6.8"
+    "hypervisor-modules-6.18.24-powerpc64le-di": "linux-headers@6.8"
   }
 }

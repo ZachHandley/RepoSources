@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "l",
-    "total_mappings": 325
+    "total_mappings": 326
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -219,6 +219,7 @@
     "libtheora": "theora",
     "libtiff": "libtiff",
     "libtirpc": "libtirpc",
+    "libtommath": "libtommath",
     "libtool": "libtool",
     "libtorrent": "libtorrent-rasterbar",
     "libultrahdr": "libultrahdr",

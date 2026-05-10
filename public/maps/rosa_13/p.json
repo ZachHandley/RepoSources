@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "p",
-    "total_mappings": 1052
+    "total_mappings": 1059
   },
   "mappings": {
     "PDAL": "pdal",
@@ -30,6 +30,9 @@
     "pam_u2f": "pam-u2f",
     "pam_u2f-debuginfo": "pam-u2f",
     "pam_u2f-debugsource": "pam-u2f",
+    "paml": "paml",
+    "paml-debuginfo": "paml",
+    "paml-debugsource": "paml",
     "pamu2fcfg": "pam-u2f",
     "pan": "pan",
     "pan-debuginfo": "pan",
@@ -455,6 +458,10 @@
     "plutoprint": "plutoprint",
     "plutoprint-debuginfo": "plutoprint",
     "plutoprint-debugsource": "plutoprint",
+    "plutosvg": "plutosvg",
+    "plutosvg-debuginfo": "plutosvg",
+    "plutosvg-debugsource": "plutosvg",
+    "plutosvg-samples": "plutosvg",
     "plutovg": "plutovg",
     "plutovg-debuginfo": "plutovg",
     "plutovg-debugsource": "plutovg",

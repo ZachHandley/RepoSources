@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_13",
     "shard": "h",
-    "total_mappings": 146
+    "total_mappings": 151
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -76,6 +76,9 @@
     "hfs-modules-6.12.85+deb13-m68k-di": "linux-headers@6.8",
     "hfs-modules-6.12.85+deb13-powerpc-di": "linux-headers@6.8",
     "hfs-modules-6.12.85+deb13-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-6.12.86+deb13-m68k-di": "linux-headers@6.8",
+    "hfs-modules-6.12.86+deb13-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-6.12.86+deb13-powerpc64-di": "linux-headers@6.8",
     "hicolor-icon-theme": "hicolor-icon-theme",
     "hidapi": "hidapi",
     "highlight": "highlight",
@@ -146,6 +149,8 @@
     "hypervisor-modules-6.12.8-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-6.12.85+deb13-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-6.12.85+deb13-powerpc64le-di": "linux-headers@6.8",
+    "hypervisor-modules-6.12.86+deb13-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-6.12.86+deb13-powerpc64le-di": "linux-headers@6.8",
     "hyphy": "hyphy",
     "hyphy-common": "hyphy",
     "hyphy-mpi": "hyphy",

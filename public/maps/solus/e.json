@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "e",
-    "total_mappings": 84
+    "total_mappings": 85
   },
   "mappings": {
     "ETL": "etl",
@@ -61,6 +61,7 @@
     "enter-tex": "enter-tex",
     "enter-tex-dbginfo": "enter-tex",
     "enter-tex-docs": "enter-tex",
+    "envsubst": "gettext",
     "erlang": "erlang@27",
     "erlang-dbginfo": "erlang@27",
     "erofs-utils": "erofs-utils",

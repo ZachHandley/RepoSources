@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "a",
-    "total_mappings": 707
+    "total_mappings": 704
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -397,7 +397,6 @@
     "app-misc/empty": "empty",
     "app-misc/fastfetch": "fastfetch",
     "app-misc/fdupes": "fdupes",
-    "app-misc/fff": "fff",
     "app-misc/figlet": "figlet",
     "app-misc/fx": "fx",
     "app-misc/ghq": "ghq",
@@ -432,7 +431,6 @@
     "app-misc/mmv": "mmv",
     "app-misc/mosquitto": "mosquitto",
     "app-misc/navi": "navi",
-    "app-misc/neofetch": "neofetch",
     "app-misc/nerdfetch": "nerdfetch",
     "app-misc/nnn": "nnn",
     "app-misc/no-more-secrets": "no-more-secrets",
@@ -441,7 +439,6 @@
     "app-misc/onefetch": "onefetch",
     "app-misc/pastel": "pastel",
     "app-misc/pet": "pet",
-    "app-misc/pfetch": "pfetch",
     "app-misc/plod": "plod",
     "app-misc/presenterm": "presenterm",
     "app-misc/pueue": "pueue",

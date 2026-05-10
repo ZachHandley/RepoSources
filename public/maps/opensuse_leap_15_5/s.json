@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "s",
-    "total_mappings": 184
+    "total_mappings": 185
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -95,6 +95,7 @@
     "slrn": "slrn",
     "smartmontools": "smartmontools",
     "smenu": "smenu",
+    "smlnj": "smlnj",
     "smpeg": "smpeg",
     "snappy": "snappy",
     "sngrep": "sngrep",

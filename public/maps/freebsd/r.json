@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "r",
-    "total_mappings": 165
+    "total_mappings": 164
   },
   "mappings": {
     "R": "r",
@@ -137,7 +137,6 @@
     "ruby-build": "ruby-build",
     "ruby-install": "ruby-install",
     "ruby-subversion": "subversion",
-    "ruby32": "ruby@3.4",
     "ruby33": "ruby@3.4",
     "ruby40": "ruby@3.4",
     "rubygem-asciidoctor": "asciidoctor",

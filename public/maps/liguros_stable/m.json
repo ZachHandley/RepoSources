@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "m",
-    "total_mappings": 451
+    "total_mappings": 452
   },
   "mappings": {
     "mail-client/aerc": "aerc",
@@ -286,6 +286,7 @@
     "media-libs/partio": "partio",
     "media-libs/pcaudiolib": "pcaudiolib",
     "media-libs/plotutils": "plotutils",
+    "media-libs/plutosvg": "plutosvg",
     "media-libs/plutovg": "plutovg",
     "media-libs/portaudio": "portaudio",
     "media-libs/portmidi": "portmidi",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "c",
-    "total_mappings": 274
+    "total_mappings": 280
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -93,6 +93,9 @@
     "cava": "cava",
     "cava-doc": "cava",
     "cbindgen": "cbindgen",
+    "cbonsai": "cbonsai",
+    "cbonsai-bashcomp": "cbonsai",
+    "cbonsai-doc": "cbonsai",
     "ccache": "ccache",
     "cdrdao": "cdrdao",
     "cdrdao-gcdmaster": "cdrdao",
@@ -100,6 +103,9 @@
     "cdrdao-man": "cdrdao",
     "cereal": "cereal",
     "cereal-doc": "cereal",
+    "ceres": "ceres-solver",
+    "ceres-devel": "ceres-solver",
+    "ceres-doc": "ceres-solver",
     "certbot": "certbot",
     "certbot-apache": "certbot",
     "certbot-apache-pycache": "certbot",

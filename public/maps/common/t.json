@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "t",
-    "total_mappings": 10327
+    "total_mappings": 10328
   },
   "mappings": {
     "T1Lib": "t1lib",
@@ -18,6 +18,7 @@
     "TNEF": "tnef",
     "TNFTP": "tnftp",
     "TRE": "tre",
+    "TUIOS": "tuios",
     "TXR": "txr",
     "TXT2Tags": "txt2tags",
     "TZData": "tzdb",
@@ -595,7 +596,6 @@
     "telephony/baresip/re": "libre",
     "telephony/coturn": "coturn",
     "telephony/libosip2": "libosip",
-    "telephony/linphone/ortp": "ortp",
     "telephony/pjsua": "pjproject",
     "telephony/sngrep": "sngrep",
     "telephony/spandsp": "spandsp",
@@ -8923,7 +8923,6 @@
     "textproc/ytt": "ytt",
     "textproc/zet": "zet",
     "textproc/zint": "zint",
-    "textproc/zorba": "zorba",
     "textproc/zsv": "zsv",
     "textproc/zxing-cpp": "zxing-cpp",
     "textract": "textract",
@@ -9149,6 +9148,7 @@
     "time/hebcal": "hebcal",
     "time/khal": "khal",
     "time/libical": "libical",
+    "time/libical4": "libical",
     "time/pcal": "pcal",
     "time/phoon": "phoon",
     "time/py-jrnl": "jrnl",
@@ -10033,6 +10033,7 @@
     "tty-solitaire-debugsource": "tty-solitaire",
     "tty-solitaire-git": "tty-solitaire",
     "ttyd": "ttyd",
+    "ttyd-dbginfo": "ttyd",
     "ttyd-debuginfo": "ttyd",
     "ttyd-debugsource": "ttyd",
     "ttyd-doc": "ttyd",

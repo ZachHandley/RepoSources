@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "n",
-    "total_mappings": 230
+    "total_mappings": 229
   },
   "mappings": {
     "nacl": "nacl",
@@ -105,7 +105,6 @@
     "nedit-debuginfo": "nedit",
     "nedit-debugsource": "nedit",
     "nemu": "nemu",
-    "neofetch": "neofetch",
     "neon": "neon",
     "neon-i18n": "neon",
     "neovim": "neovim",

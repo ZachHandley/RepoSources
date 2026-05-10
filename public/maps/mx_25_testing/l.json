@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "mx_25_testing",
     "shard": "l",
-    "total_mappings": 70
+    "total_mappings": 76
   },
   "mappings": {
     "libaqbanking": "aqbanking",
@@ -63,6 +63,10 @@
     "libspa-0.2-modules": "pipewire",
     "libsvtav1enc-dev": "svt-av1",
     "libsvtav1enc3": "svt-av1",
+    "libtorrent-rasterbar": "libtorrent-rasterbar",
+    "libtorrent-rasterbar-dev": "libtorrent-rasterbar",
+    "libtorrent-rasterbar-doc": "libtorrent-rasterbar",
+    "libtorrent-rasterbar2.0t64": "libtorrent-rasterbar",
     "libtransmission-dev": "transmission-cli",
     "libturbojpeg-java": "jpeg-turbo",
     "libturbojpeg0": "jpeg-turbo",
@@ -74,6 +78,8 @@
     "libxml2-dev": "libxml2",
     "libxml2-doc": "libxml2",
     "libxml2-utils": "libxml2",
+    "libxsimd-dev": "xsimd",
+    "libxsimd-doc": "xsimd",
     "libyyjson-dev": "yyjson",
     "libyyjson-doc": "yyjson",
     "libyyjson0": "yyjson"

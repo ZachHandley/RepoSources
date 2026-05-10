@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "h",
     "total_mappings": 2
   },
   "mappings": {
-    "hugo": "hugo",
+    "hopenpgp-tools": "hopenpgp-tools",
     "hyperv": "linux-headers@6.8"
   }
 }

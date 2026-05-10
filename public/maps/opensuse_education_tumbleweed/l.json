@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_education_tumbleweed",
     "shard": "l",
-    "total_mappings": 79
+    "total_mappings": 80
   },
   "mappings": {
     "lapack": "lapack",
@@ -19,6 +19,7 @@
     "libcblas3": "lapack",
     "libenca0": "enca",
     "libfftw3-3": "fftw",
+    "libfftw3_mpi3": "fftw",
     "libfftw3_omp3": "fftw",
     "libfftw3_threads3": "fftw",
     "libgnustep-base1_31": "gnustep-base",

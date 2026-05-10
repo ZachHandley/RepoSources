@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p10",
     "shard": "l",
@@ -2481,9 +2481,9 @@
     "libjack": "jack",
     "libjack-debuginfo": "jack",
     "libjack-devel": "jack",
-    "libjansson": "jansson",
-    "libjansson-debuginfo": "jansson",
     "libjansson-devel": "jansson",
+    "libjansson4": "jansson",
+    "libjansson4-debuginfo": "jansson",
     "libjasper": "jasper",
     "libjasper-debuginfo": "jasper",
     "libjasper-devel": "jasper",

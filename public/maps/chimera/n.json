@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "n",
-    "total_mappings": 173
+    "total_mappings": 170
   },
   "mappings": {
     "nano": "nano",
@@ -43,9 +43,6 @@
     "neocmakelsp-doc": "neocmakelsp",
     "neocmakelsp-fishcomp": "neocmakelsp",
     "neocmakelsp-zshcomp": "neocmakelsp",
-    "neofetch": "neofetch",
-    "neofetch-doc": "neofetch",
-    "neofetch-man": "neofetch",
     "neomutt": "neomutt",
     "neomutt-doc": "neomutt",
     "neomutt-locale": "neomutt",

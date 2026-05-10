@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "c",
-    "total_mappings": 389
+    "total_mappings": 386
   },
   "mappings": {
     "ChaiScript": "chaiscript",
@@ -113,9 +113,6 @@
     "ceres-solver": "ceres-solver",
     "cfengine": "cfengine",
     "cfengine-devel": "cfengine",
-    "cfengine321": "cfengine",
-    "cfengine322": "cfengine",
-    "cfengine323": "cfengine",
     "cfengine324": "cfengine",
     "cfengine325": "cfengine",
     "cfengine326": "cfengine",

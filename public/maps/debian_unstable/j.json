@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "j",
-    "total_mappings": 300
+    "total_mappings": 313
   },
   "mappings": {
     "jack-audio-connection-kit": "jack",
@@ -264,6 +264,19 @@
     "jfs-modules-7.0.3+deb14-s390x-di": "linux-headers@6.8",
     "jfs-modules-7.0.3+deb14-sh7751r-di": "linux-headers@6.8",
     "jfs-modules-7.0.3+deb14-sparc64-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-alpha-generic-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-amd64-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-arm64-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-armmp-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-loong64-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-parisc-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-parisc64-di,jfs-modules-7.0.4+deb14-powerpc-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-powerpc64-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-powerpc64le-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-riscv64-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-s390x-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-sh7751r-di": "linux-headers@6.8",
+    "jfs-modules-7.0.4+deb14-sparc64-di": "linux-headers@6.8",
     "jhead": "jhead",
     "jid": "jid",
     "jigdo": "jigdo",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "l",
-    "total_mappings": 484
+    "total_mappings": 485
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -51,6 +51,7 @@
     "libavif": "libavif",
     "libb2": "libb2",
     "libbdplus": "libbdplus",
+    "libbinio": "libbinio",
     "libblake3": "b3sum",
     "libblastrampoline": "libblastrampoline",
     "libbluray": "libbluray",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "m",
-    "total_mappings": 162
+    "total_mappings": 161
   },
   "mappings": {
     "m4": "m4",
@@ -121,7 +121,6 @@
     "molecule": "molecule",
     "mongo-c-driver": "mongo-c-driver@1",
     "monit": "monit",
-    "monitoring-plugins": "monitoring-plugins",
     "mono": "mono",
     "monolith": "monolith",
     "moor": "moor",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "f",
-    "total_mappings": 467
+    "total_mappings": 465
   },
   "mappings": {
     "f3": "f3",
@@ -102,8 +102,6 @@
     "fetchmailconf": "fetchmail",
     "ffcall": "libffcall",
     "ffcall-doc": "libffcall",
-    "fff": "fff",
-    "fff-doc": "fff",
     "ffmpeg": "ffmpeg@7",
     "ffmpeg-dbg": "ffmpeg@7",
     "ffmpeg-dev": "ffmpeg@7",

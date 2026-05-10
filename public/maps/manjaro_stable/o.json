@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "o",
-    "total_mappings": 136
+    "total_mappings": 140
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -20,7 +20,7 @@
     "octave": "octave",
     "ode": "ode",
     "odin": "odin",
-    "odinfmt": "odinfmt",
+    "odinfmt": "ols",
     "odt2txt": "odt2txt",
     "offlineimap": "offlineimap",
     "ogmtools": "ogmtools",
@@ -30,6 +30,7 @@
     "ollama-docs": "ollama",
     "ollama-rocm": "ollama",
     "ollama-vulkan": "ollama",
+    "ols": "ols",
     "onednn": "onednn",
     "onefetch": "onefetch",
     "onetbb": "tbb",
@@ -48,6 +49,7 @@
     "openapi-generator": "openapi-generator",
     "openapi-tui": "openapi-tui",
     "openbabel": "open-babel",
+    "openbao": "openbao",
     "openblas": "openblas",
     "openblas64": "openblas",
     "opencascade": "opencascade",
@@ -79,6 +81,8 @@
     "openjdk17-src": "openjdk@21",
     "openjdk21-doc": "openjdk@21",
     "openjdk21-src": "openjdk@21",
+    "openjdk25-doc": "openjdk@21",
+    "openjdk25-src": "openjdk@21",
     "openjdk8-doc": "openjdk@21",
     "openjdk8-src": "openjdk@21",
     "openjpeg2": "openjpeg",

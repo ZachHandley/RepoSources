@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "m",
-    "total_mappings": 151
+    "total_mappings": 152
   },
   "mappings": {
     "m4": "m4",
@@ -90,6 +90,7 @@
     "minizip": "minizip",
     "minizip-ng": "minizip-ng",
     "minizip-ng-compat": "minizip-ng",
+    "mise": "mise",
     "mit-krb5": "krb5",
     "mit-scheme": "mit-scheme",
     "mjpegtools": "mjpegtools",

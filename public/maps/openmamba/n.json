@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "n",
-    "total_mappings": 54
+    "total_mappings": 53
   },
   "mappings": {
     "nagios": "nagios",
@@ -22,7 +22,6 @@
     "ncurses": "ncurses",
     "ncurses-terminfo": "ncurses",
     "ndpi": "ndpi",
-    "neofetch": "neofetch",
     "net-snmp": "net-snmp",
     "net-snmp-gui": "net-snmp",
     "net-snmp-utils": "net-snmp",

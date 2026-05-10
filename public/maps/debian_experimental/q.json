@@ -1,12 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "q",
-    "total_mappings": 216
+    "total_mappings": 222
   },
   "mappings": {
+    "qbs": "qbs",
+    "qbs-common": "qbs",
+    "qbs-dev": "qbs",
+    "qbs-doc": "qbs",
+    "qbs-doc-html": "qbs",
+    "qbs-examples": "qbs",
     "qdbus-qt5": "qt@5",
     "qdoc-qt5": "qt@5",
     "qhelpgenerator-qt5": "qt@5",

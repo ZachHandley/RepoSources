@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "p",
-    "total_mappings": 945
+    "total_mappings": 946
   },
   "mappings": {
     "p0f": "p0f",
@@ -23,6 +23,7 @@
     "pam-reattach": "pam-reattach",
     "pam_reattach": "pam-reattach",
     "pam_u2f": "pam-u2f",
+    "paml": "paml",
     "pan": "pan",
     "pandoc": "pandoc",
     "pango": "pango",
@@ -133,7 +134,6 @@
     "pet": "pet",
     "petsc": "petsc",
     "pferd": "pferd",
-    "pfetch": "pfetch",
     "pfetch-rs": "pfetch-rs",
     "pg-schema-diff": "pg-schema-diff",
     "pg_cron": "pg_cron",
@@ -253,6 +253,7 @@
     "plowshare": "plowshare",
     "plplot": "plplot",
     "pluto": "pluto",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "plzip": "plzip",
     "pmccabe": "pmccabe",

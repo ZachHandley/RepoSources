@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alpine_3_20",
     "shard": "n",
-    "total_mappings": 368
+    "total_mappings": 366
   },
   "mappings": {
     "nagios": "nagios",
@@ -114,8 +114,6 @@
     "neo4j": "neo4j",
     "neo4j-doc": "neo4j",
     "neo4j-openrc": "neo4j",
-    "neofetch": "neofetch",
-    "neofetch-doc": "neofetch",
     "neomutt": "neomutt",
     "neomutt-doc": "neomutt",
     "neomutt-lang": "neomutt",

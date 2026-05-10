@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "g",
-    "total_mappings": 976
+    "total_mappings": 974
   },
   "mappings": {
     "GLEW": "glew",
@@ -552,9 +552,6 @@
     "ghostscript-utils": "ghostscript",
     "gi-docgen": "gi-docgen",
     "gi-docgen-templates": "gi-docgen",
-    "giflib": "giflib",
-    "giflib-devel": "giflib",
-    "giflib-devel-debuginfo": "giflib",
     "gifsicle": "gifsicle",
     "gifsicle-debuginfo": "gifsicle",
     "gimp-plugin-gmic": "gmic",
@@ -909,6 +906,7 @@
     "grpc-plugins": "grpc",
     "grpc-plugins-debuginfo": "grpc",
     "grpc-tools-ruby-protoc": "grpc",
+    "grpc1.70": "grpc",
     "grpcurl": "grpcurl",
     "grpcurl-debuginfo": "grpcurl",
     "grsync": "grsync",

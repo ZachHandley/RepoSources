@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "i",
-    "total_mappings": 137
+    "total_mappings": 139
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -64,6 +64,8 @@
     "ilbc_freeswitch": "libilbc",
     "ilmbase": "openexr",
     "imagemagick": "imagemagick@6",
+    "imagemagick-debuginfo": "imagemagick@6",
+    "imagemagick-debugsource": "imagemagick@6",
     "imagemagick-desktop": "imagemagick@6",
     "imagemagick-doc": "imagemagick@6",
     "imake": "imake",

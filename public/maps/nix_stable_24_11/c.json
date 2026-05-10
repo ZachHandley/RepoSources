@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "c",
-    "total_mappings": 423
+    "total_mappings": 424
   },
   "mappings": {
     "CUnit": "cunit",
@@ -303,6 +303,7 @@
     "colordiff": "colordiff",
     "colormake": "colormake",
     "commitizen": "commitizen",
+    "committed": "committed",
     "complexity": "gnu-complexity",
     "composer": "composer",
     "comrak": "comrak",

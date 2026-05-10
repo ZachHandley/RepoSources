@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "p",
-    "total_mappings": 544
+    "total_mappings": 550
   },
   "mappings": {
     "PDAL": "pdal",
@@ -80,6 +80,7 @@
     "pdftk-java": "pdftk-java",
     "pdns": "pdns",
     "pdns-backend-ldap": "pdns",
+    "pdns-backend-lmdb": "pdns",
     "pdns-backend-lua2": "pdns",
     "pdns-backend-mysql": "pdns",
     "pdns-backend-pipe": "pdns",
@@ -181,6 +182,11 @@
     "plplot-tk-devel": "plplot",
     "plplot-wxGTK": "plplot",
     "plplot-wxGTK-devel": "plplot",
+    "plutosvg": "plutosvg",
+    "plutosvg-debuginfo": "plutosvg",
+    "plutosvg-debugsource": "plutosvg",
+    "plutosvg-devel": "plutosvg",
+    "plutosvg-samples": "plutosvg",
     "plutovg": "plutovg",
     "plutovg-debuginfo": "plutovg",
     "plutovg-debugsource": "plutovg",

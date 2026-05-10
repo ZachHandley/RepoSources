@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "l",
-    "total_mappings": 1010
+    "total_mappings": 1011
   },
   "mappings": {
     "LibRaw-devel": "libraw",
@@ -978,6 +978,7 @@
     "lowdown-debugsource": "lowdown",
     "lowdown-devel": "lowdown",
     "lowdown-libs": "lowdown",
+    "lsd": "lsd",
     "lsyncd": "lsyncd",
     "lsyncd-debuginfo": "lsyncd",
     "lsyncd-debugsource": "lsyncd",

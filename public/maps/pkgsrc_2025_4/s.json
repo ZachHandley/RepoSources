@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "s",
-    "total_mappings": 661
+    "total_mappings": 659
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -318,6 +318,7 @@
     "smake": "smake",
     "smalltalk": "gnu-smalltalk",
     "smartmontools": "smartmontools",
+    "smlnj": "smlnj",
     "smpeg": "smpeg",
     "smpeg2": "smpeg2",
     "snapcast": "snapcast",
@@ -517,7 +518,6 @@
     "sysutils/fclones": "fclones",
     "sysutils/fd-find": "fd",
     "sysutils/fdupes": "fdupes",
-    "sysutils/fff": "fff",
     "sysutils/file": "file-formula",
     "sysutils/findutils": "findutils",
     "sysutils/flashrom": "flashrom",
@@ -562,7 +562,6 @@
     "sysutils/navi": "navi",
     "sysutils/ncdu": "ncdu",
     "sysutils/ncdu2": "ncdu",
-    "sysutils/neofetch": "neofetch",
     "sysutils/netmask": "netmask",
     "sysutils/nmrpflash": "nmrpflash",
     "sysutils/nnn": "nnn",
@@ -573,7 +572,6 @@
     "sysutils/p5-collectd": "collectd",
     "sysutils/parallel-disk-usage": "parallel-disk-usage",
     "sysutils/pciutils": "pciutils",
-    "sysutils/pfetch": "pfetch",
     "sysutils/pidof": "pidof",
     "sysutils/podman": "podman",
     "sysutils/psftools": "psftools",

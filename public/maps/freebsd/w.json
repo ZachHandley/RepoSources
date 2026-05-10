@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "w",
-    "total_mappings": 279
+    "total_mappings": 280
   },
   "mappings": {
     "WordNet": "wordnet",
@@ -84,7 +84,6 @@
     "www/amfora": "amfora",
     "www/analog": "analog",
     "www/apache24": "httpd",
-    "www/archiva": "apache-archiva",
     "www/aria2": "aria2",
     "www/bareos-webui": "bareos-client",
     "www/bareos23-webui": "bareos-client",
@@ -195,6 +194,7 @@
     "www/node22": "node@24",
     "www/node24": "node@24",
     "www/node25": "node@24",
+    "www/node26": "node@24",
     "www/oatpp": "oatpp",
     "www/oauth2-proxy": "oauth2_proxy",
     "www/osrm-backend": "osrm-backend",
@@ -274,6 +274,7 @@
     "www/yarn-node22": "yarn",
     "www/yarn-node24": "yarn",
     "www/yarn-node25": "yarn",
+    "www/yarn-node26": "yarn",
     "www/yaws": "yaws",
     "www/you-get": "you-get",
     "www/yt-dlp": "yt-dlp",

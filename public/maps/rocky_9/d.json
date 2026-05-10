@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "d",
-    "total_mappings": 123
+    "total_mappings": 125
   },
   "mappings": {
     "dbus": "dbus",
@@ -119,6 +119,8 @@
     "double-conversion-devel": "double-conversion",
     "double-conversion-static": "double-conversion",
     "dovecot": "dovecot",
+    "dovecot-debuginfo": "dovecot",
+    "dovecot-debugsource": "dovecot",
     "dovecot-devel": "dovecot",
     "dovecot-mysql": "dovecot",
     "dovecot-pgsql": "dovecot",

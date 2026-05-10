@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "a",
-    "total_mappings": 99
+    "total_mappings": 98
   },
   "mappings": {
     "A Better CD Encoder": "abcde",
@@ -30,7 +30,6 @@
     "Anubis": "anubis",
     "Apache ActiveMQ": "activemq",
     "Apache Ant": "ant@1.9",
-    "Apache Archiva": "apache-archiva",
     "Apache Arrow": "apache-arrow",
     "Apache Avro": "avro-c",
     "Apache Batik": "batik",

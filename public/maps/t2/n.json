@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "n",
-    "total_mappings": 68
+    "total_mappings": 67
   },
   "mappings": {
     "nagios": "nagios",
@@ -23,7 +23,6 @@
     "neatvi": "neatvi",
     "nedit": "nedit",
     "nemu": "nemu",
-    "neofetch": "neofetch",
     "neon": "neon",
     "neovim": "neovim",
     "net-snmp": "net-snmp",

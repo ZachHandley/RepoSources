@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "p",
-    "total_mappings": 344
+    "total_mappings": 345
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -263,6 +263,7 @@
     "programming/misc/libxmlb": "libxmlb",
     "programming/misc/libxmlpp": "libxml++@5",
     "programming/misc/libyaml": "libyaml",
+    "programming/misc/llhttp": "llhttp",
     "programming/misc/log4c": "log4c",
     "programming/misc/mandoc": "mandoc",
     "programming/misc/mm-common": "mm-common",

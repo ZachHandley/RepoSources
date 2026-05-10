@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "d",
-    "total_mappings": 272
+    "total_mappings": 271
   },
   "mappings": {
     "daemon": "daemon",
@@ -269,7 +269,6 @@
     "dvdauthor": "dvdauthor",
     "dvdbackup": "dvdbackup",
     "dvisvgm": "dvisvgm",
-    "dvorak7min": "dvorak7min",
     "dwarfdump": "dwarfutils",
     "dwarfutils": "dwarfutils",
     "dwdiff": "dwdiff",

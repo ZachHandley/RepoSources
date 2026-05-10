@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "p",
-    "total_mappings": 117
+    "total_mappings": 118
   },
   "mappings": {
     "p11kit": "p11-kit",
@@ -58,6 +58,7 @@
     "pkgconf": "pkgconf",
     "plowshare": "plowshare",
     "plplot": "plplot",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "pmd": "pmd",
     "pngcheck": "pngcheck",

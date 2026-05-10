@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
     "shard": "n",
-    "total_mappings": 58
+    "total_mappings": 57
   },
   "mappings": {
     "nagios": "nagios",
@@ -24,7 +24,6 @@
     "ncurses-libform": "ncurses",
     "ncurses-libmenu": "ncurses",
     "ncurses-libpanel": "ncurses",
-    "neofetch": "neofetch",
     "neon": "neon",
     "neon-dev": "neon",
     "net-snmp": "net-snmp",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "f",
-    "total_mappings": 96
+    "total_mappings": 95
   },
   "mappings": {
     "f3": "f3",
@@ -27,7 +27,6 @@
     "fennel-docs": "fennel",
     "fetchmail": "fetchmail",
     "ffcall": "libffcall",
-    "fff": "fff",
     "ffmpeg": "ffmpeg@7",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
     "fftw": "fftw",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "m",
-    "total_mappings": 457
+    "total_mappings": 458
   },
   "mappings": {
     "Mesa": "mesa",
@@ -61,6 +61,7 @@
     "man-db-debuginfo": "man-db",
     "mandoc": "mandoc",
     "mandoc-debuginfo": "mandoc",
+    "manifold": "manifold",
     "mariadb": "mariadb",
     "mariadb-backup": "mariadb@11.8",
     "mariadb-backup-debuginfo": "mariadb@11.8",

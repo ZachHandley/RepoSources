@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "a",
-    "total_mappings": 159
+    "total_mappings": 157
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -23,7 +23,6 @@
     "acme.sh": "acme.sh",
     "acpica": "acpica",
     "act": "act",
-    "act_runner": "act_runner",
     "actionlint": "actionlint",
     "ada": "ada-url",
     "add-determinism": "add-determinism",
@@ -58,7 +57,6 @@
     "angle-grinder": "angle-grinder",
     "ansible": "ansible@12",
     "ansible-creator": "ansible-creator",
-    "ansible-language-server": "ansible-language-server",
     "ansible-lint": "ansible-lint",
     "ant": "ant",
     "ant-doc": "ant@1.9",

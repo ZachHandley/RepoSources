@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "g",
-    "total_mappings": 38
+    "total_mappings": 39
   },
   "mappings": {
     "g3log": "g3log",
@@ -21,6 +21,7 @@
     "gflags": "gflags",
     "gfortran": "gcc@14",
     "giflib": "giflib",
+    "ginkgo": "ginkgo",
     "glaze": "glaze",
     "glbinding": "glbinding@2",
     "glew": "glew",

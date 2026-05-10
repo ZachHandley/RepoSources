@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "h",
-    "total_mappings": 205
+    "total_mappings": 210
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -113,6 +113,9 @@
     "hfs-modules-7.0.3+deb14-m68k-di": "linux-headers@6.8",
     "hfs-modules-7.0.3+deb14-powerpc-di": "linux-headers@6.8",
     "hfs-modules-7.0.3+deb14-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-7.0.4+deb14-m68k-di": "linux-headers@6.8",
+    "hfs-modules-7.0.4+deb14-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-7.0.4+deb14-powerpc64-di": "linux-headers@6.8",
     "hfsutils": "hfsutils",
     "hfsutils-tcltk": "hfsutils",
     "hicolor-icon-theme": "hicolor-icon-theme",
@@ -205,6 +208,8 @@
     "hypervisor-modules-6.19.8+deb14-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-7.0.3+deb14-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-7.0.3+deb14-powerpc64le-di": "linux-headers@6.8",
+    "hypervisor-modules-7.0.4+deb14-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-7.0.4+deb14-powerpc64le-di": "linux-headers@6.8",
     "hyphy": "hyphy",
     "hyphy-common": "hyphy",
     "hyphy-mpi": "hyphy",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "k",
-    "total_mappings": 56
+    "total_mappings": 57
   },
   "mappings": {
     "k9s": "k9s",
@@ -29,6 +29,7 @@
     "ki18n5": "ki18n",
     "klavaro": "klavaro",
     "kmod": "kmod",
+    "knockd": "knock",
     "knot": "knot",
     "knot-resolver": "knot-resolver",
     "ko": "ko",

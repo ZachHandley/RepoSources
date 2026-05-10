@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_41",
     "shard": "p",
-    "total_mappings": 1165
+    "total_mappings": 1168
   },
   "mappings": {
     "PDAL": "pdal",
@@ -410,6 +410,9 @@
     "plplot-tk-devel": "plplot",
     "plplot-wxGTK": "plplot",
     "plplot-wxGTK-devel": "plplot",
+    "plutosvg": "plutosvg",
+    "plutosvg-devel": "plutosvg",
+    "plutosvg-samples": "plutosvg",
     "plutovg": "plutovg",
     "plutovg-devel": "plutovg",
     "plutovg-samples": "plutovg",

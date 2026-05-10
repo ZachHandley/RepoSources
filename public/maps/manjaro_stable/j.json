@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "j",
-    "total_mappings": 68
+    "total_mappings": 73
   },
   "mappings": {
     "jack2": "jack",
@@ -21,6 +21,7 @@
     "java11-openjdk": "openjdk@21",
     "java17-openjdk": "openjdk@21",
     "java21-openjdk": "openjdk@21",
+    "java25-openjdk": "openjdk@21",
     "java8-openjdk": "openjdk@21",
     "jbig2dec": "jbig2dec",
     "jbigkit": "jbigkit",
@@ -29,6 +30,7 @@
     "jdk11-openjdk": "openjdk@21",
     "jdk17-openjdk": "openjdk@21",
     "jdk21-openjdk": "openjdk@21",
+    "jdk25-openjdk": "openjdk@21",
     "jdk8-openjdk": "openjdk@21",
     "jemalloc": "jemalloc",
     "jenkins": "jenkins",
@@ -39,6 +41,7 @@
     "jnettop": "jnettop",
     "jnv": "jnv",
     "jo": "jo",
+    "joe": "joe",
     "john": "john",
     "jose": "jose",
     "jp2a": "jp2a",
@@ -53,6 +56,8 @@
     "jre17-openjdk-headless": "openjdk@21",
     "jre21-openjdk": "openjdk@21",
     "jre21-openjdk-headless": "openjdk@21",
+    "jre25-openjdk": "openjdk@21",
+    "jre25-openjdk-headless": "openjdk@21",
     "jre8-openjdk": "openjdk@21",
     "jre8-openjdk-headless": "openjdk@21",
     "jrnl": "jrnl",

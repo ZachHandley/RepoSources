@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "p",
-    "total_mappings": 1081
+    "total_mappings": 1088
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -64,6 +64,8 @@
     "par2cmdline": "par2",
     "par2cmdline-debuginfo": "par2",
     "parallel": "parallel",
+    "parallel-hashmap": "parallel-hashmap",
+    "parallel-hashmap-devel": "parallel-hashmap",
     "pari": "pari",
     "pari-devel": "pari",
     "pari-gp": "pari",
@@ -320,6 +322,7 @@
     "plotutils-debuginfo": "plotutils",
     "plow": "plow",
     "plow-debuginfo": "plow",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "plzip": "plzip",
     "plzip-debuginfo": "plzip",
@@ -819,6 +822,7 @@
     "python3-module-dartpy": "dartsim",
     "python3-module-dlib": "dlib",
     "python3-module-eyeD3": "eye-d3",
+    "python3-module-f3d": "f3d",
     "python3-module-fastapi": "fastapi",
     "python3-module-flake8": "flake8",
     "python3-module-flatbuffers": "flatbuffers",
@@ -892,6 +896,8 @@
     "python3-module-log4cplus-debuginfo": "log4cplus",
     "python3-module-louis": "liblouis",
     "python3-module-mackup": "mackup",
+    "python3-module-manifold": "manifold",
+    "python3-module-manifold-debuginfo": "manifold",
     "python3-module-marisa": "marisa",
     "python3-module-marisa-debuginfo": "marisa",
     "python3-module-markdown": "python-markdown",
@@ -919,6 +925,7 @@
     "python3-module-mupdf-debuginfo": "mupdf",
     "python3-module-mypy": "mypy",
     "python3-module-mypyc": "mypy",
+    "python3-module-nanobind": "nanobind",
     "python3-module-nftables": "nftables",
     "python3-module-nlopt": "nlopt",
     "python3-module-nlopt-debuginfo": "nlopt",

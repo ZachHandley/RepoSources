@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "g",
-    "total_mappings": 539
+    "total_mappings": 541
   },
   "mappings": {
     "GMT": "gmt",
@@ -101,6 +101,7 @@
     "gcli": "gcli",
     "gcpio": "cpio",
     "gcr": "gcr",
+    "gcr4": "gcr",
     "gd": "gd",
     "gdal-lib": "gdal",
     "gdb": "gdb",
@@ -414,6 +415,7 @@
     "graphics/librsvg-c": "librsvg",
     "graphics/libsixel": "libsixel",
     "graphics/libspiro": "libspiro",
+    "graphics/libsquish": "libsquish",
     "graphics/libvips": "vips",
     "graphics/libwebp": "webp",
     "graphics/libwmf": "libwmf",

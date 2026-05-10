@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "f",
@@ -92,6 +92,7 @@
     "feh-git": "feh",
     "feluda": "feluda",
     "feluda-bin": "feluda",
+    "fence": "fence",
     "fend": "fend",
     "fend-bin": "fend",
     "fennel-git": "fennel",
@@ -107,8 +108,6 @@
     "feroxbuster-git": "feroxbuster",
     "fetch-crl3": "fetch-crl",
     "fex": "fex",
-    "fff": "fff",
-    "fff-git": "fff",
     "ffmpeg-amd-full": "ffmpeg@7",
     "ffmpeg-amd-full-git": "ffmpeg@7",
     "ffmpeg-compat-54": "ffmpeg@7",
@@ -283,6 +282,7 @@
     "fresh-editor-bin": "fresh-editor",
     "fribidi-git": "fribidi",
     "friendly-find": "ffind",
+    "frizbee": "frizbee",
     "frotz-dumb-git": "frotz",
     "frotz-git": "frotz",
     "frotz-ncurses-git": "frotz",

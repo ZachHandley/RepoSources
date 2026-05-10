@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "t",
-    "total_mappings": 47
+    "total_mappings": 48
   },
   "mappings": {
     "TRE": "tre",
+    "TUIOS": "tuios",
     "TagLib": "taglib",
     "Taplo": "taplo",
     "Tarantool": "tarantool",

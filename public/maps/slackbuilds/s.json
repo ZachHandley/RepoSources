@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "s",
@@ -38,6 +38,7 @@
     "system/barman": "barman",
     "system/bat": "bat",
     "system/betty": "betty",
+    "system/bfs": "bfs",
     "system/bindfs": "bindfs",
     "system/blueprint-compiler": "blueprint-compiler",
     "system/bochs": "bochs",
@@ -111,7 +112,6 @@
     "system/fd": "fd",
     "system/fdclone": "fdclone",
     "system/fdupes": "fdupes",
-    "system/fff": "fff",
     "system/file-roller": "file-roller",
     "system/fio": "fio",
     "system/fish": "fish",

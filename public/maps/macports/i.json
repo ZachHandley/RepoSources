@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "i",
-    "total_mappings": 112
+    "total_mappings": 113
   },
   "mappings": {
     "ImageMagick": "imagemagick@6",
@@ -90,6 +90,7 @@
     "iproute2mac": "iproute2mac",
     "ipsw": "ipsw",
     "ipv6calc": "ipv6calc",
+    "iqtree3": "iqtree3",
     "irc/bitchx": "bitchx",
     "irc/bitlbee": "bitlbee",
     "irc/epic5": "epic5",

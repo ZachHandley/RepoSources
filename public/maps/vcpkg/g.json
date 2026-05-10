@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "g",
-    "total_mappings": 59
+    "total_mappings": 60
   },
   "mappings": {
     "g2o": "g2o",
@@ -25,6 +25,7 @@
     "gflags": "gflags",
     "ggml": "ggml",
     "giflib": "giflib",
+    "ginkgo": "ginkgo",
     "gl2ps": "gl2ps",
     "glaze": "glaze",
     "glbinding": "glbinding@2",

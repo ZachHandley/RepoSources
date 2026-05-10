@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "l",
-    "total_mappings": 307
+    "total_mappings": 308
   },
   "mappings": {
     "lammps": "lammps",
@@ -46,7 +46,7 @@
     "libSFCGAL2": "sfcgal",
     "libSingular-4_4_1": "singular",
     "libSingular-devel": "singular",
-    "libadios2-2_11": "adios2",
+    "libadios2-2_12": "adios2",
     "libaec": "libaec",
     "libaec-debuginfo": "libaec",
     "libaec-debugsource": "libaec",
@@ -118,6 +118,7 @@
     "libgemmi_cpp0": "gemmi",
     "libgeotiff5": "libgeotiff",
     "libginac13": "ginac",
+    "libginkgo1_10_0": "ginkgo",
     "libgismo25": "gismo",
     "libgl2ps1": "gl2ps",
     "libglpk40": "glpk",
@@ -183,9 +184,9 @@
     "libnauty-2_9_3": "nauty",
     "libnblib_gmx0": "gromacs",
     "libncnn1": "ncnn",
-    "libnco-5_3_4": "nco",
+    "libnco-5_3_9": "nco",
     "libnco-devel": "nco",
-    "libnco_c++-5_3_4": "nco",
+    "libnco_c++-5_3_9": "nco",
     "libnetcdf-fortran-7": "netcdf-fortran",
     "libnetcdf22": "netcdf",
     "libnetcdf_c++4-1": "netcdf-cxx",

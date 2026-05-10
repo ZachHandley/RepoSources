@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "m",
-    "total_mappings": 193
+    "total_mappings": 192
   },
   "mappings": {
     "m4": "m4",
@@ -198,7 +198,6 @@
     "mxml": "libmxml",
     "mxml-dbginfo": "libmxml",
     "mxml-devel": "libmxml",
-    "mypaint-brushes": "mypaint-brushes",
-    "mypaint-brushes1": "mypaint-brushes"
+    "mypaint-brushes": "mypaint-brushes"
   }
 }

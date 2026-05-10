@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "b",
-    "total_mappings": 360
+    "total_mappings": 359
   },
   "mappings": {
     "BibTool": "bib-tool",
@@ -177,7 +177,6 @@
     "bison-runtime": "bison",
     "bitcoin-core": "bitcoin",
     "bitcoin-core-desktop": "bitcoin",
-    "bitcoin-core-devel": "bitcoin",
     "bitcoin-core-server": "bitcoin",
     "bitcoin-core-utils": "bitcoin",
     "bitlbee": "bitlbee",

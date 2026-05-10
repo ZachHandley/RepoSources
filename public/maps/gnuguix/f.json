@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "f",
@@ -39,7 +39,6 @@
     "fennel": "fennel",
     "fennel-ls": "fennel-ls",
     "fetchmail": "fetchmail",
-    "fff": "fff",
     "ffmpeg": "ffmpeg@7",
     "ffmpeg-jami": "ffmpeg@7",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
@@ -88,6 +87,7 @@
     "freeimage": "freeimage",
     "freeipmi": "freeipmi",
     "freerdp": "freerdp",
+    "freesasa": "freesasa",
     "freetds": "freetds",
     "freetype": "freetype",
     "freexl": "freexl",

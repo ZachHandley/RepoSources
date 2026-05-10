@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "m",
-    "total_mappings": 444
+    "total_mappings": 448
   },
   "mappings": {
     "Markdown": "markdown",
@@ -249,6 +249,7 @@
     "misc/libcdio-paranoia": "libcdio-paranoia",
     "misc/libcec": "libcec",
     "misc/libdivecomputer": "libdivecomputer",
+    "misc/libimobiledevice-glue": "libimobiledevice-glue",
     "misc/libquantum": "libquantum",
     "misc/lr": "lr",
     "misc/lv": "lv",
@@ -266,17 +267,20 @@
     "misc/pixd": "pixd",
     "misc/projectable": "projectable",
     "misc/py-asciinema": "asciinema",
+    "misc/py-tmuxp": "tmuxp",
     "misc/qt6-qtsensors": "qt@5",
     "misc/rhash": "rhash",
     "misc/rlwrap": "rlwrap",
     "misc/rpm": "rpm",
     "misc/screen": "screen",
     "misc/screen4": "screen",
+    "misc/sesh": "sesh",
     "misc/since": "since",
     "misc/sword": "sword",
     "misc/tailspin": "tailspin",
     "misc/tmate": "tmate",
     "misc/tmux": "tmux",
+    "misc/tmuxp": "tmuxp",
     "misc/todoman": "todoman",
     "misc/toilet": "toilet",
     "misc/ttyrec": "ttyrec",

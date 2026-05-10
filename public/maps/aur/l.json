@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "l",
-    "total_mappings": 1127
+    "total_mappings": 1128
   },
   "mappings": {
     "lab": "lab",
@@ -30,6 +30,7 @@
     "launch": "launch",
     "launch4j": "launch4j",
     "lavat-git": "lavat",
+    "lavinmq": "lavinmq",
     "lazydocker-bin": "lazydocker",
     "lazydocker-git": "lazydocker",
     "lazygit-git": "lazygit",
@@ -100,8 +101,6 @@
     "lgeneral": "lgeneral",
     "lgogdownloader": "lgogdownloader",
     "lgogdownloader-git": "lgogdownloader",
-    "lgogdownloader-qt5": "lgogdownloader",
-    "lgogdownloader-qt5-git": "lgogdownloader",
     "lhasa-git": "lhasa",
     "lib32-a52dec": "a52dec",
     "lib32-abseil-cpp": "abseil",
@@ -628,6 +627,7 @@
     "liblxi": "liblxi",
     "liblxi-git": "liblxi",
     "libmagick6": "imagemagick@6",
+    "libmapper": "libmapper",
     "libmarpa": "libmarpa",
     "libmatio-git": "libmatio",
     "libmatroska-git": "libmatroska",
@@ -955,9 +955,9 @@
     "linux-mainline-headers": "linux-headers@6.8",
     "linux-next-git": "linux-headers@6.8",
     "linux-next-git-headers": "linux-headers@6.8",
-    "linux6.18.25-1-lts-bin": "linux-headers@6.8",
-    "linux6.18.25-1-lts-docs-bin": "linux-headers@6.8",
-    "linux6.18.25-1-lts-headers-bin": "linux-headers@6.8",
+    "linux6.18.26-2-lts-bin": "linux-headers@6.8",
+    "linux6.18.26-2-lts-docs-bin": "linux-headers@6.8",
+    "linux6.18.26-2-lts-headers-bin": "linux-headers@6.8",
     "liquibase": "liquibase",
     "liquid-dsp-git": "liquid-dsp",
     "liquidctl-git": "liquidctl",
@@ -984,6 +984,7 @@
     "llama.cpp-hip": "llama.cpp",
     "llama.cpp-hipblas-git": "llama.cpp",
     "llama.cpp-opencl": "llama.cpp",
+    "llama.cpp-sycl": "llama.cpp",
     "llama.cpp-sycl-f16": "llama.cpp",
     "llama.cpp-sycl-f16-git": "llama.cpp",
     "llama.cpp-sycl-f32": "llama.cpp",

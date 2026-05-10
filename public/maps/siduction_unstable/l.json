@@ -1,12 +1,27 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "siduction_unstable",
     "shard": "l",
-    "total_mappings": 4
+    "total_mappings": 19
   },
   "mappings": {
+    "libdrm": "libdrm",
+    "libdrm-amdgpu1": "libdrm",
+    "libdrm-common": "libdrm",
+    "libdrm-dev": "libdrm",
+    "libdrm-etnaviv1": "libdrm",
+    "libdrm-exynos1": "libdrm",
+    "libdrm-freedreno1": "libdrm",
+    "libdrm-intel1": "libdrm",
+    "libdrm-nouveau2": "libdrm",
+    "libdrm-omap1": "libdrm",
+    "libdrm-radeon1": "libdrm",
+    "libdrm-tegra0": "libdrm",
+    "libdrm-tests": "libdrm",
+    "libdrm2": "libdrm",
+    "libdrm2-udeb": "libdrm",
     "libglyr-dev": "glyr",
     "libglyr1": "glyr",
     "libvulkan-dev": "vulkan-loader",

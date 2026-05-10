@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "m",
-    "total_mappings": 327
+    "total_mappings": 332
   },
   "mappings": {
     "m4": "m4",
@@ -158,6 +158,11 @@
     "mktorrent": "mktorrent",
     "mkvtoolnix": "mkvtoolnix",
     "mkvtoolnix-gui": "mkvtoolnix",
+    "ml-burg": "smlnj",
+    "ml-lex": "smlnj",
+    "ml-lpt": "smlnj",
+    "ml-nlffigen": "smlnj",
+    "ml-yacc": "smlnj",
     "mlt": "mlt",
     "mlton": "mlton",
     "mlton-basis": "mlton",

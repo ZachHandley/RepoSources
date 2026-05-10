@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "mx_21",
     "shard": "n",
-    "total_mappings": 270
+    "total_mappings": 269
   },
   "mappings": {
     "nbd-modules-5.15.0-exp2mx-4kc-malta-di": "linux-headers@6.8",
@@ -63,7 +63,6 @@
     "nbd-modules-6.5.0-5mx-ahs-sh7751r-di": "linux-headers@6.8",
     "nbd-modules-6.5.0-5mx-ahs-sh7785lcr-di": "linux-headers@6.8",
     "nbd-modules-6.5.0-5mx-ahs-sparc64-di": "linux-headers@6.8",
-    "neofetch": "neofetch",
     "neowofetch": "hyfetch",
     "nfs-modules-5.15.0-exp2mx-loongson-3-di": "linux-headers@6.8",
     "nfs-modules-6.5.0-5mx-ahs-4kc-malta-di": "linux-headers@6.8",

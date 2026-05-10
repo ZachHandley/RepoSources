@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "epel_6",
     "shard": "a",
-    "total_mappings": 41
+    "total_mappings": 40
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -19,7 +19,6 @@
     "admesh": "admesh",
     "aespipe": "aespipe",
     "agedu": "agedu",
-    "aggregate": "aggregate",
     "aha": "aha",
     "alpine": "alpine",
     "amtterm": "amtterm",

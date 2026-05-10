@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "kiss_community",
     "shard": "f",
-    "total_mappings": 11
+    "total_mappings": 10
   },
   "mappings": {
     "fdk-aac": "fdk-aac",
-    "fff": "fff",
     "fftw": "fftw",
     "file": "file-formula",
     "flac": "flac",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "p",
-    "total_mappings": 122
+    "total_mappings": 124
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -41,6 +41,7 @@
     "pdfgrep": "pdfgrep",
     "pdfsandwich": "pdfsandwich",
     "peg": "peg",
+    "perl": "perl",
     "perl-app-cpanminus": "cpanminus",
     "perl-image-exiftool": "exiftool",
     "phodav": "phodav",
@@ -63,6 +64,7 @@
     "pkgconf": "pkgconf",
     "plog": "plog",
     "plotutils": "plotutils",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "plzip": "plzip",
     "png++": "png++",

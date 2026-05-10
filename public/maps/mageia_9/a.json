@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "a",
-    "total_mappings": 341
+    "total_mappings": 338
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -59,9 +59,6 @@
     "aften": "aften",
     "aften-debuginfo": "aften",
     "aften-debugsource": "aften",
-    "aggregate": "aggregate",
-    "aggregate-debuginfo": "aggregate",
-    "aggregate-debugsource": "aggregate",
     "agrep": "tre",
     "aha": "aha",
     "aha-debuginfo": "aha",

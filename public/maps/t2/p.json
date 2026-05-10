@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "p",
@@ -40,7 +40,6 @@
     "perl": "perl",
     "perltidy": "perltidy",
     "pet": "pet",
-    "pfetch": "pfetch",
     "pgbouncer": "pgbouncer",
     "phodav": "phodav",
     "php": "php",
@@ -58,6 +57,7 @@
     "pixman": "pixman",
     "plotutils": "plotutils",
     "plplot": "plplot",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "pmccabe": "pmccabe",
     "pngnq": "pngnq",

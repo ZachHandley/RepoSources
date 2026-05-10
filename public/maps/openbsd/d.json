@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "d",
@@ -351,6 +351,7 @@
     "devel/llvm/19": "llvm@21",
     "devel/llvm/20": "llvm@21",
     "devel/llvm/21": "llvm@21",
+    "devel/llvm/22": "llvm@21",
     "devel/log4c": "log4c",
     "devel/log4cplus": "log4cplus",
     "devel/log4cpp": "log4cpp",
@@ -597,7 +598,6 @@
     "duplicity": "duplicity",
     "dvd+rw-tools": "dvd+rw-tools",
     "dvdauthor": "dvdauthor",
-    "dvorak7min": "dvorak7min",
     "dwdiff": "dwdiff",
     "dwm": "dwm",
     "dynamips": "dynamips"

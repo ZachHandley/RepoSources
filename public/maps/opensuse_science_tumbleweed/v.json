@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "v",
-    "total_mappings": 30
+    "total_mappings": 29
   },
   "mappings": {
     "vcftools": "vcftools",
@@ -21,7 +21,6 @@
     "votca-debuginfo": "votca",
     "votca-debugsource": "votca",
     "votca-devel": "votca",
-    "votca-tutorials": "votca",
     "vtk": "vtk",
     "vtk-debuginfo": "vtk",
     "vtk-debugsource": "vtk",

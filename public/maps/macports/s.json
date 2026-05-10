@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "s",
-    "total_mappings": 1022
+    "total_mappings": 1025
   },
   "mappings": {
     "SDL3": "sdl3",
@@ -117,6 +117,7 @@
     "science/hmmer": "hmmer",
     "science/htslib": "htslib",
     "science/inspectrum": "inspectrum",
+    "science/iqtree3": "iqtree3",
     "science/jags": "jags",
     "science/libccd": "libccd",
     "science/libdap": "libdap",
@@ -228,6 +229,7 @@
     "security/fetch-crl": "fetch-crl",
     "security/ffuf": "ffuf",
     "security/flawz": "flawz",
+    "security/fnox": "fnox",
     "security/git-credential-oauth": "git-credential-oauth",
     "security/gitleaks": "gitleaks",
     "security/gitsign": "gitsign",
@@ -271,6 +273,7 @@
     "security/oath-toolkit": "oath-toolkit",
     "security/oauth2-proxy": "oauth2_proxy",
     "security/oauth2c": "oauth2c",
+    "security/openbao": "openbao",
     "security/opensc": "opensc",
     "security/ophcrack": "ophcrack",
     "security/p11-kit": "p11-kit",
@@ -421,6 +424,7 @@
     "smake": "smake",
     "smartmontools": "smartmontools",
     "smimesign": "smimesign",
+    "smlnj": "smlnj",
     "smlpkg": "smlpkg",
     "smpeg": "smpeg",
     "smpeg2": "smpeg2",
@@ -858,6 +862,7 @@
     "sysutils/memtester": "memtester",
     "sysutils/minikube": "minikube",
     "sysutils/mise": "mise",
+    "sysutils/mist-cli": "mist-cli",
     "sysutils/mole-cleaner": "mole",
     "sysutils/monit": "monit",
     "sysutils/moreutils": "moreutils",
@@ -866,7 +871,6 @@
     "sysutils/multitail": "multitail",
     "sysutils/navi": "navi",
     "sysutils/ncdu": "ncdu",
-    "sysutils/neofetch": "neofetch",
     "sysutils/neovim-remote": "neovim-remote",
     "sysutils/nerdlog": "nerdlog",
     "sysutils/netdata": "netdata",
@@ -892,7 +896,6 @@
     "sysutils/payload-dumper-go": "payload-dumper-go",
     "sysutils/pciutils": "pciutils",
     "sysutils/peco": "peco",
-    "sysutils/pfetch": "pfetch",
     "sysutils/pidof": "pidof",
     "sysutils/pngpaste": "pngpaste",
     "sysutils/podman": "podman",

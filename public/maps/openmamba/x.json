@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "x",
-    "total_mappings": 66
+    "total_mappings": 65
   },
   "mappings": {
     "x11vnc": "x11vnc",
     "x264": "x264",
     "x265": "x265",
-    "x265-debug": "x265",
     "xa": "xa",
     "xa-debug": "xa",
     "xauth": "xauth",

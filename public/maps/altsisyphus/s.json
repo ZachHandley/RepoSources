@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "s",
-    "total_mappings": 554
+    "total_mappings": 555
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -115,6 +115,7 @@
     "scc": "scc",
     "scc-debuginfo": "scc",
     "sccache": "sccache",
+    "sccache-debuginfo": "sccache",
     "scdoc": "scdoc",
     "scdoc-debuginfo": "scdoc",
     "schedutils": "gnu-getopt",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "e",
-    "total_mappings": 204
+    "total_mappings": 212
   },
   "mappings": {
     "e2fsck-static": "e2fsprogs",
@@ -180,9 +180,17 @@
     "exim4-config": "exim",
     "exim4-daemon-heavy": "exim",
     "exim4-daemon-light": "exim",
+    "exim4-daemon-mod": "exim",
     "exim4-dev": "exim",
     "exim4-doc-html": "exim",
     "exim4-doc-info": "exim",
+    "exim4-mod-cyrus-sasl": "exim",
+    "exim4-mod-ldap": "exim",
+    "exim4-mod-mysql": "exim",
+    "exim4-mod-pam": "exim",
+    "exim4-mod-perl": "exim",
+    "exim4-mod-postgresql": "exim",
+    "exim4-mod-spf": "exim",
     "eximdoc4": "exim",
     "eximon4": "exim",
     "exiv2": "exiv2",

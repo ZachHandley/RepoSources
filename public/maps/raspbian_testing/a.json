@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "a",
-    "total_mappings": 315
+    "total_mappings": 316
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -76,7 +76,6 @@
     "agda-bin": "agda",
     "age": "age",
     "agedu": "agedu",
-    "aggregate": "aggregate",
     "aha": "aha",
     "ahcpd": "ahcpd",
     "aide": "aide",
@@ -88,6 +87,8 @@
     "airspy-host": "airspy",
     "airspyhf": "airspyhf",
     "airspyone-host": "airspy",
+    "aklomp-base64": "aklomp-base64",
+    "aklomp-base64-tools": "aklomp-base64",
     "aldo": "aldo",
     "algol68g": "algol68g",
     "allegro4-doc": "allegro",

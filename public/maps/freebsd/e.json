@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "e",
-    "total_mappings": 181
+    "total_mappings": 183
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -97,6 +97,7 @@
     "emulators/hatari": "hatari",
     "emulators/hercules": "hercules",
     "emulators/libdsk": "libdsk",
+    "emulators/libmt32emu": "mt32emu",
     "emulators/mame": "mame",
     "emulators/mednafen": "mednafen",
     "emulators/mgba": "mgba",
@@ -151,6 +152,7 @@
     "erlang-runtime26": "erlang@27",
     "erlang-runtime27": "erlang@27",
     "erlang-runtime28": "erlang@27",
+    "erlang-runtime29": "erlang@27",
     "erlang-wx": "erlang@27",
     "esbuild": "esbuild",
     "espeak-ng": "espeak-ng",

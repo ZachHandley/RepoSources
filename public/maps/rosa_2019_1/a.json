@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "a",
@@ -51,7 +51,6 @@
     "aften-debugsource": "aften",
     "afuse": "afuse",
     "agg": "libagg",
-    "aggregate": "aggregate",
     "agrep": "tre",
     "aha": "aha",
     "aide": "aide",
@@ -73,6 +72,7 @@
     "alsa-lib-docs": "alsa-lib",
     "alsa-topology": "alsa-lib",
     "alsa-ucm": "alsa-lib",
+    "anaconda-xorg-root-check": "xorg-server",
     "analog": "analog",
     "angband": "angband",
     "angband-debuginfo": "angband",

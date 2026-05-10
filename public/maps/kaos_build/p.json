@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "p",
-    "total_mappings": 2
+    "total_mappings": 4
   },
   "mappings": {
-    "pnpm": "pnpm@10",
-    "psutils": "psutils"
+    "postgis": "postgis",
+    "pygobject": "pygobject3",
+    "python3-build": "python-build",
+    "python3-gobject3": "pygobject3"
   }
 }

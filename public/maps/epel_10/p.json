@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "p",
-    "total_mappings": 403
+    "total_mappings": 408
   },
   "mappings": {
     "PDAL": "pdal",
@@ -127,6 +127,11 @@
     "pkcs11-helper-debugsource": "pkcs11-helper",
     "pkcs11-helper-devel": "pkcs11-helper",
     "plantuml": "plantuml",
+    "plutosvg": "plutosvg",
+    "plutosvg-debuginfo": "plutosvg",
+    "plutosvg-debugsource": "plutosvg",
+    "plutosvg-devel": "plutosvg",
+    "plutosvg-samples": "plutosvg",
     "plutovg": "plutovg",
     "plutovg-debuginfo": "plutovg",
     "plutovg-debugsource": "plutovg",

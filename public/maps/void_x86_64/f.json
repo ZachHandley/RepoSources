@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "f",
-    "total_mappings": 181
+    "total_mappings": 180
   },
   "mappings": {
     "FAudio": "faudio",
@@ -49,7 +49,6 @@
     "fex": "fex",
     "ffcall": "libffcall",
     "ffcall-devel": "libffcall",
-    "fff": "fff",
     "ffmpeg": "ffmpeg@7",
     "ffmpeg-devel": "ffmpeg@7",
     "ffmpeg6": "ffmpeg@7",

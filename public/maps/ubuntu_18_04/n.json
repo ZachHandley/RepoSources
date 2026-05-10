@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_18_04",
     "shard": "n",
@@ -59,7 +59,6 @@
     "nedit": "nedit",
     "neko": "neko",
     "neko-dev": "neko",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neon27": "neon",
     "neovim": "neovim",
@@ -145,6 +144,7 @@
     "notmuch-vim": "notmuch",
     "noweb": "noweb",
     "nowebm": "noweb",
+    "nowhere": "smlnj",
     "npth": "npth",
     "nqp": "nqp",
     "nrg2iso": "nrg2iso",

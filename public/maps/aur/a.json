@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "a",
-    "total_mappings": 1620
+    "total_mappings": 1621
   },
   "mappings": {
     "a52dec-git": "a52dec",
@@ -31,7 +31,6 @@
     "acronym": "acronym",
     "act-bin": "act",
     "act-git": "act",
-    "act-runner-bin": "act_runner",
     "actionlint-git": "actionlint",
     "activemq": "activemq",
     "ad": "ad",
@@ -58,7 +57,10 @@
     "aerc-no-notmuch-git": "aerc",
     "aescrypt": "aescrypt-packetizer",
     "aescrypt-bin": "aescrypt-packetizer",
-    "aescrypt-gui": "aescrypt-packetizer",
+    "aescrypt_cli": "aescrypt-packetizer",
+    "aescrypt_cli-bin": "aescrypt-packetizer",
+    "aescrypt_gui": "aescrypt-packetizer",
+    "aescrypt_gui-bin": "aescrypt-packetizer",
     "aespipe": "aespipe",
     "afflib": "afflib",
     "afio": "afio",
@@ -75,7 +77,6 @@
     "agent-browser": "agent-browser",
     "agent-browser-bin": "agent-browser",
     "agg-2.6-git": "libagg",
-    "aggregate": "aggregate",
     "aha-git": "aha",
     "ahoy": "ahoy",
     "aiac": "aiac",
@@ -119,6 +120,7 @@
     "alpscore-git": "alpscore",
     "amass": "amass",
     "amass-bin": "amass",
+    "amass-git": "amass",
     "amazon-ecr-credential-helper": "docker-credential-helper-ecr",
     "amber": "amber",
     "amdonly-gaming-mesa-git": "mesa",
@@ -1449,7 +1451,6 @@
     "arcade-learning-environment": "arcade-learning-environment",
     "archey4": "archey4",
     "archey4-git": "archey4",
-    "archiva": "apache-archiva",
     "archivemount": "archivemount",
     "archivemount-git": "archivemount",
     "archivemount-ng": "archivemount",

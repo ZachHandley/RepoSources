@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "n",
-    "total_mappings": 95
+    "total_mappings": 94
   },
   "mappings": {
     "nagios": "nagios",
@@ -27,7 +27,6 @@
     "ne": "ne",
     "nebula": "nebula",
     "neko": "neko",
-    "neofetch": "neofetch",
     "neomutt": "neomutt",
     "neon": "neon",
     "neovim": "neovim",

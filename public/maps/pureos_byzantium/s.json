@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pureos_byzantium",
     "shard": "s",
-    "total_mappings": 568
+    "total_mappings": 571
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -276,6 +276,9 @@
     "smenu": "smenu",
     "smistrip": "libsmi",
     "smitools": "libsmi",
+    "smlnj": "smlnj",
+    "smlnj-doc": "smlnj",
+    "smlnj-runtime": "smlnj",
     "smpeg": "smpeg",
     "smpeg-plaympeg": "smpeg",
     "snakemake": "snakemake",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "j",
-    "total_mappings": 49
+    "total_mappings": 36
   },
   "mappings": {
     "jack-audio-connection-kit": "jack",
@@ -32,19 +32,6 @@
     "jfs-modules-6.18.24-riscv64-di": "linux-headers@6.8",
     "jfs-modules-6.18.24-sh7751r-di": "linux-headers@6.8",
     "jfs-modules-6.18.24-sparc64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-alpha-generic-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-amd64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-arm64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-armmp-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-loong64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-parisc-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-parisc64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-powerpc-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-powerpc64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-powerpc64le-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-riscv64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-sh7751r-di": "linux-headers@6.8",
-    "jfs-modules-6.18.5+2-sparc64-di": "linux-headers@6.8",
     "jimsh": "jimtcl",
     "jimtcl": "jimtcl",
     "jpeg-xl": "jpeg-xl",

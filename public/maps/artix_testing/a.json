@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "a",
     "total_mappings": 3
   },
   "mappings": {
-    "act-runner": "act_runner",
-    "ansible-creator": "ansible-creator",
+    "aarch64-linux-gnu-binutils": "aarch64-elf-binutils",
+    "aarch64-linux-gnu-gcc": "gcc@14",
     "arrow": "apache-arrow"
   }
 }

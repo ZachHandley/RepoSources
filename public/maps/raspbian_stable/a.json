@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "a",
-    "total_mappings": 331
+    "total_mappings": 330
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -84,7 +84,6 @@
     "agda-bin": "agda",
     "age": "age",
     "agedu": "agedu",
-    "aggregate": "aggregate",
     "aha": "aha",
     "ahcpd": "ahcpd",
     "aide": "aide",

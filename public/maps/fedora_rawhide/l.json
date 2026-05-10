@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "l",
-    "total_mappings": 1823
+    "total_mappings": 1825
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -274,6 +274,7 @@
     "libbinio": "libbinio",
     "libbinio-devel": "libbinio",
     "libbitcoinkernel": "bitcoin",
+    "libbitcoinkernel-devel": "bitcoin",
     "libblkid": "gnu-getopt",
     "libblkid-devel": "gnu-getopt",
     "libbluray": "libbluray",
@@ -732,6 +733,7 @@
     "libicu-devel": "icu4c@78",
     "libicu-doc": "icu4c@78",
     "libicu76": "icu4c@78",
+    "libicu77": "icu4c@78",
     "libid3tag": "libid3tag",
     "libid3tag-devel": "libid3tag",
     "libidn": "libidn",

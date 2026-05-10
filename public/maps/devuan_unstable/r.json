@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "r",
-    "total_mappings": 262
+    "total_mappings": 263
   },
   "mappings": {
     "r-base": "r",
@@ -112,7 +112,7 @@
     "reuse": "reuse",
     "rex": "rex",
     "rfkill": "gnu-getopt",
-    "rfkill-modules-7.0.3+deb14-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.4+deb14-loong64-di": "linux-headers@6.8",
     "rgbds": "rgbds",
     "rgxg": "rgxg",
     "rhash": "rhash",
@@ -245,6 +245,7 @@
     "rust-lldb": "rust",
     "rust-llvm": "rust",
     "rust-lsd": "lsd",
+    "rust-miniserve": "miniserve",
     "rust-numbat-cli": "numbat",
     "rust-pastel": "pastel",
     "rust-procs": "procs",

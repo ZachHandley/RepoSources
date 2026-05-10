@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "s",
-    "total_mappings": 78
+    "total_mappings": 79
   },
   "mappings": {
     "s2n": "s2n",
@@ -39,6 +39,7 @@
     "slurm": "slurm",
     "smalltalk": "gnu-smalltalk",
     "smenu": "smenu",
+    "smlnj": "smlnj",
     "snappy": "snappy",
     "sng": "sng",
     "snort": "snort",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "alpine_3_17",
     "shard": "n",
-    "total_mappings": 320
+    "total_mappings": 318
   },
   "mappings": {
     "nagios": "nagios",
@@ -104,8 +104,6 @@
     "nemu-bash-completion": "nemu",
     "nemu-doc": "nemu",
     "nemu-lang": "nemu",
-    "neofetch": "neofetch",
-    "neofetch-doc": "neofetch",
     "neomutt": "neomutt",
     "neomutt-doc": "neomutt",
     "neomutt-lang": "neomutt",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "f",
-    "total_mappings": 180
+    "total_mappings": 181
   },
   "mappings": {
     "FAudio": "faudio",
@@ -114,6 +114,7 @@
     "flyctl": "flyctl",
     "flyway": "flyway",
     "fnm": "fnm",
+    "fnox": "fnox",
     "folderify": "folderify",
     "folly": "folly",
     "fontconfig": "fontconfig",

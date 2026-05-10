@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "u",
-    "total_mappings": 1
+    "total_mappings": 2
   },
   "mappings": {
+    "uriparser": "uriparser",
     "usbip": "linux-headers@6.8"
   }
 }

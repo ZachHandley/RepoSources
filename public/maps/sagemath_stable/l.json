@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "sagemath_stable",
     "shard": "l",
-    "total_mappings": 6
+    "total_mappings": 5
   },
   "mappings": {
     "libatomic_ops": "libatomic_ops",
     "libffi": "libffi",
     "libgd": "gd",
-    "liblzma": "xz",
     "libogg": "libogg",
     "libpng": "libpng"
   }

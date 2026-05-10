@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "n",
-    "total_mappings": 258
+    "total_mappings": 257
   },
   "mappings": {
     "network/2ping": "twoping",
     "network/acme.sh": "acme.sh",
     "network/aerc": "aerc",
-    "network/aggregate": "aggregate",
     "network/aircrack-ng": "aircrack-ng",
     "network/argus": "argus",
     "network/argus-clients": "argus-clients",

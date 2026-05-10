@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "m",
-    "total_mappings": 459
+    "total_mappings": 464
   },
   "mappings": {
     "m4": "m4",
@@ -248,6 +248,11 @@
     "mktorrent": "mktorrent",
     "mkvtoolnix": "mkvtoolnix",
     "mkvtoolnix-gui": "mkvtoolnix",
+    "ml-burg": "smlnj",
+    "ml-lex": "smlnj",
+    "ml-lpt": "smlnj",
+    "ml-nlffigen": "smlnj",
+    "ml-yacc": "smlnj",
     "mle": "mle",
     "mlir-17-tools": "llvm@21",
     "mlir-18-tools": "llvm@21",

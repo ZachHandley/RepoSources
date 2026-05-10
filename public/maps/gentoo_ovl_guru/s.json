@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "s",
-    "total_mappings": 45
+    "total_mappings": 46
   },
   "mappings": {
     "sci-electronics/bender": "bender",
@@ -38,6 +38,7 @@
     "sys-apps/ov": "ov",
     "sys-apps/pnpm-bin": "pnpm@10",
     "sys-apps/sd": "sd",
+    "sys-apps/sift": "sift",
     "sys-cluster/genders": "genders",
     "sys-cluster/kops-bin": "kops",
     "sys-cluster/opencoarrays": "opencoarrays",

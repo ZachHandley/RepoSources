@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "r",
-    "total_mappings": 212
+    "total_mappings": 210
   },
   "mappings": {
     "R": "r",
@@ -209,8 +209,6 @@
     "rust-debugger-common": "rust",
     "rust-gdb": "rust",
     "rust-nightly": "rust",
-    "rust-nightly-debuginfo": "rust",
-    "rust-nightly-debugsource": "rust",
     "rust-src": "rust",
     "rust-std-static": "rust",
     "rust1.89": "rust",

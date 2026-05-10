@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "s",
-    "total_mappings": 71
+    "total_mappings": 72
   },
   "mappings": {
     "s2geometry": "s2geometry",
@@ -47,6 +47,7 @@
     "snappy": "snappy",
     "soapysdr": "soapysdr",
     "soci": "soci",
+    "sol2": "sol2",
     "solid3": "solid",
     "sophus": "sophus",
     "sord": "sord",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "o",
-    "total_mappings": 202
+    "total_mappings": 203
   },
   "mappings": {
     "oak": "oak",
@@ -67,6 +67,7 @@
     "ondir": "ondir",
     "onednn": "onednn",
     "onednn_2": "onednn",
+    "onedpl": "onedpl",
     "onefetch": "onefetch",
     "onetbb": "tbb",
     "oniguruma": "oniguruma",

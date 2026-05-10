@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04_proposed",
     "shards": [
       "b",
       "d",
-      "l"
+      "g",
+      "l",
+      "s"
     ],
-    "total_mappings": 33
+    "total_mappings": 35
   }
 }

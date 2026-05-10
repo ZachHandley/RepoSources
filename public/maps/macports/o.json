@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "o",
-    "total_mappings": 183
+    "total_mappings": 184
   },
   "mappings": {
     "OpenBLAS": "openblas",
@@ -87,6 +87,7 @@
     "open_jtalk": "open-jtalk",
     "openal-soft": "openal-soft",
     "openbabel": "open-babel",
+    "openbao": "openbao",
     "opencascade": "opencascade",
     "opencc": "opencc",
     "opencode": "opencode",

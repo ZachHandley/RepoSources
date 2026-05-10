@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "p",
-    "total_mappings": 112
+    "total_mappings": 113
   },
   "mappings": {
     "pacmc": "pacmc",
@@ -46,6 +46,7 @@
     "pixi": "pixi",
     "plakar": "plakar",
     "plantuml": "plantuml",
+    "plow": "plow",
     "pluto": "pluto",
     "pngcrush": "pngcrush",
     "pngquant": "pngquant",

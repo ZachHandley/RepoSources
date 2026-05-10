@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-10T04:26:33Z",
+    "source": "repology-dump",
+    "distro": "arch_testing",
+    "shard": "w",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "wget": "wget",
+    "wimlib": "wimlib"
+  }
+}

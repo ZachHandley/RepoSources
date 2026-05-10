@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "o",
-    "total_mappings": 46
+    "total_mappings": 47
   },
   "mappings": {
     "oatpp": "oatpp",
@@ -12,6 +12,7 @@
     "ode": "ode",
     "odpi": "odpi",
     "ogg": "libogg",
+    "ompl": "ompl",
     "onedpl": "onedpl",
     "onetbb": "tbb",
     "oniguruma": "oniguruma",

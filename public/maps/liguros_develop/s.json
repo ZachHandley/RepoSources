@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "s",
-    "total_mappings": 472
+    "total_mappings": 475
   },
   "mappings": {
     "sci-astronomy/cdsclient": "cdsclient",
@@ -32,6 +32,7 @@
     "sci-biology/mafft": "mafft",
     "sci-biology/mrbayes": "mrbayes",
     "sci-biology/mummer": "mummer",
+    "sci-biology/paml": "paml",
     "sci-biology/primer3": "primer3",
     "sci-biology/prodigal": "prodigal",
     "sci-biology/samtools": "samtools",
@@ -101,6 +102,7 @@
     "sci-libs/gdal": "gdal",
     "sci-libs/geos": "geos",
     "sci-libs/getdata": "libgetdata",
+    "sci-libs/ginkgo": "ginkgo",
     "sci-libs/gmsh": "gmsh",
     "sci-libs/gsl": "gsl",
     "sci-libs/gts": "gts",
@@ -304,6 +306,7 @@
     "sys-apps/s6-rc": "s6-rc",
     "sys-apps/sd": "sd",
     "sys-apps/sed": "gnu-sed",
+    "sys-apps/sift": "sift",
     "sys-apps/smartmontools": "smartmontools",
     "sys-apps/systemd": "systemd",
     "sys-apps/texinfo": "texinfo",

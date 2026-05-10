@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "d",
-    "total_mappings": 444
+    "total_mappings": 453
   },
   "mappings": {
     "daemon": "daemon",
@@ -41,6 +41,7 @@
     "dasd-extra-modules-6.19.6+deb14-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-6.19.8+deb14-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-7.0.3+deb14-s390x-di": "linux-headers@6.8",
+    "dasd-extra-modules-7.0.4+deb14-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.12.73+deb13-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.18.10+deb14-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.18.12+deb14-s390x-di": "linux-headers@6.8",
@@ -58,6 +59,7 @@
     "dasd-modules-6.19.6+deb14-s390x-di,drm-core-modules-6.19.6+deb14-alpha-generic-di": "linux-headers@6.8",
     "dasd-modules-6.19.8+deb14-s390x-di,drm-core-modules-6.19.8+deb14-alpha-generic-di": "linux-headers@6.8",
     "dasd-modules-7.0.3+deb14-s390x-di": "linux-headers@6.8",
+    "dasd-modules-7.0.4+deb14-s390x-di": "linux-headers@6.8",
     "dasel": "dasel",
     "dash": "dash-shell",
     "dasm": "dasm",
@@ -410,6 +412,14 @@
     "drm-core-modules-7.0.3+deb14-powerpc64-di,drm-core-modules-7.0.3+deb14-powerpc64le-di": "linux-headers@6.8",
     "drm-core-modules-7.0.3+deb14-riscv64-di": "linux-headers@6.8",
     "drm-core-modules-7.0.3+deb14-sparc64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb14-alpha-generic-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb14-amd64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb14-armmp-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb14-loong64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb14-powerpc-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb14-powerpc64-di,drm-core-modules-7.0.4+deb14-powerpc64le-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb14-riscv64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.4+deb14-sparc64-di": "linux-headers@6.8",
     "drogon": "drogon",
     "dropbear": "dropbear",
     "dropbear-bin": "dropbear",
@@ -441,7 +451,6 @@
     "dvdauthor": "dvdauthor",
     "dvdbackup": "dvdbackup",
     "dvisvgm": "dvisvgm",
-    "dvorak7min": "dvorak7min",
     "dwarfdump": "dwarfutils",
     "dwarfutils": "dwarfutils",
     "dwdiff": "dwdiff",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openwrt_23_05_x86_64",
     "shard": "f",
-    "total_mappings": 833
+    "total_mappings": 832
   },
   "mappings": {
     "faad2": "faad2",
@@ -316,7 +316,6 @@
     "feeds/packages/multimedia/minidlna": "minidlna",
     "feeds/packages/multimedia/yt-dlp": "yt-dlp",
     "feeds/packages/net/acme-acmesh": "acme.sh",
-    "feeds/packages/net/aggregate": "aggregate",
     "feeds/packages/net/aircrack-ng": "aircrack-ng",
     "feeds/packages/net/apache": "httpd",
     "feeds/packages/net/apcupsd": "apcupsd",

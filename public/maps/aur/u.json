@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "u",
-    "total_mappings": 89
+    "total_mappings": 88
   },
   "mappings": {
     "uade": "uade",
@@ -50,7 +50,6 @@
     "unison-git": "unison",
     "unison-gtk-2.48.4": "unison",
     "unison-gtk-2.48.4-compat-bin": "unison",
-    "unison-upstream-bin": "unison",
     "units": "gnu-units",
     "unittest-cpp-git": "unittest-cpp",
     "unittestpp-git": "unittest-cpp",

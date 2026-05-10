@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "x",
-    "total_mappings": 70
+    "total_mappings": 69
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -67,7 +67,6 @@
     "xplanet": "xplanet",
     "xplr": "xplr",
     "xrootd": "xrootd",
-    "xsd": "xsd",
     "xsel": "xsel",
     "xsimd": "xsimd",
     "xsv": "xsv",

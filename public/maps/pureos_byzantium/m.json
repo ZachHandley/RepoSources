@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "pureos_byzantium",
     "shard": "m",
-    "total_mappings": 432
+    "total_mappings": 437
   },
   "mappings": {
     "m4": "m4",
@@ -216,6 +216,11 @@
     "mktorrent": "mktorrent",
     "mkvtoolnix": "mkvtoolnix",
     "mkvtoolnix-gui": "mkvtoolnix",
+    "ml-burg": "smlnj",
+    "ml-lex": "smlnj",
+    "ml-lpt": "smlnj",
+    "ml-nlffigen": "smlnj",
+    "ml-yacc": "smlnj",
     "mle": "mle",
     "mlir-13-tools": "llvm@21",
     "mlir-16-tools": "llvm@21",

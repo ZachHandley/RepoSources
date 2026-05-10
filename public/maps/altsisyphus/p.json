@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "p",
-    "total_mappings": 1103
+    "total_mappings": 1106
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -253,6 +253,7 @@
     "phpMyAdmin": "phpmyadmin",
     "phpMyAdmin-apache2-php8.4": "phpmyadmin",
     "pi": "cln",
+    "pi-coding-agent": "pi-coding-agent",
     "pi-debuginfo": "cln",
     "picat": "picat",
     "picat-debuginfo": "picat",
@@ -314,6 +315,7 @@
     "plotutils-debuginfo": "plotutils",
     "plow": "plow",
     "plow-debuginfo": "plow",
+    "plutosvg": "plutosvg",
     "plutovg": "plutovg",
     "plzip": "plzip",
     "plzip-debuginfo": "plzip",
@@ -656,6 +658,7 @@
     "protobuf-javadoc": "protobuf@33",
     "protobuf-javalite": "protobuf@33",
     "protobuf-parent": "protobuf@33",
+    "protobuf25": "protobuf@33",
     "proxychains": "proxychains-ng",
     "proxychains-ng": "proxychains-ng",
     "proxychains-ng-debuginfo": "proxychains-ng",

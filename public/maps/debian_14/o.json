@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "o",
-    "total_mappings": 239
+    "total_mappings": 235
   },
   "mappings": {
     "oasis": "oasis",
@@ -61,9 +61,6 @@
     "olm": "libolm",
     "omake": "omake",
     "omake-doc": "omake",
-    "ompl": "ompl",
-    "ompl-demos": "ompl",
-    "ompl-plannerarena": "ompl",
     "ondir": "ondir",
     "onednn": "onednn",
     "onetbb": "tbb",
@@ -132,7 +129,6 @@
     "openjdk-25-jre": "openjdk@21",
     "openjdk-25-jre-headless": "openjdk@21",
     "openjdk-25-jre-zero": "openjdk@21",
-    "openjdk-25-jvmci-jdk": "openjdk@21",
     "openjdk-25-source": "openjdk@21",
     "openjdk-25-testsupport": "openjdk@21",
     "openjdk-26": "openjdk@21",

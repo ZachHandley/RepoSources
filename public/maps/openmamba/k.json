@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "k",
@@ -12,9 +12,9 @@
     "kdoctools": "kdoctools",
     "kdoctools-debug": "kdoctools",
     "kernel": "linux-headers@6.8",
-    "kernel-mamba-aarch64": "linux-headers@6.8",
-    "kernel-mamba-aarch64-headers": "linux-headers@6.8",
-    "kernel-mamba-aarch64-headers-sanitised": "linux-headers@6.8",
+    "kernel-mamba-x86_64": "linux-headers@6.8",
+    "kernel-mamba-x86_64-headers": "linux-headers@6.8",
+    "kernel-mamba-x86_64-headers-sanitised": "linux-headers@6.8",
     "keyutils": "keyutils",
     "kf6-karchive": "karchive",
     "kf6-karchive-debug": "karchive",

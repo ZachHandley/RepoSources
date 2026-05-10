@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "c",
-    "total_mappings": 567
+    "total_mappings": 569
   },
   "mappings": {
     "c": "c",
@@ -489,6 +489,7 @@
     "crfsuite": "crfsuite",
     "crispy-doom": "crispy-doom",
     "crispy-doom-git": "crispy-doom",
+    "crit-bin": "crit",
     "croaring": "croaring",
     "croaring-git": "croaring",
     "croc-git": "croc",
@@ -553,6 +554,7 @@
     "curseofwar": "curseofwar",
     "curseofwar-sdl": "curseofwar",
     "custom-install": "custom-install",
+    "cutadapt": "cutadapt",
     "cvs-fast-export": "cvs-fast-export",
     "cvsync": "cvsync",
     "cwalk": "cwalk",

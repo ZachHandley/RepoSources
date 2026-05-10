@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "i",
-    "total_mappings": 43
+    "total_mappings": 44
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -37,6 +37,7 @@
     "iodine": "iodine",
     "ioping": "ioping",
     "iperf": "iperf3",
+    "ipmitool": "ipmitool",
     "ipmiutil": "ipmiutil",
     "ipopt": "ipopt",
     "iproute2": "iproute2",

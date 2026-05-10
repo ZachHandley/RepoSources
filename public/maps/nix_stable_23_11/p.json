@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "nix_stable_23_11",
     "shard": "p",
@@ -21,6 +21,7 @@
     "pam-reattach": "pam-reattach",
     "pam_reattach": "pam-reattach",
     "pam_u2f": "pam-u2f",
+    "paml": "paml",
     "pan": "pan",
     "pandoc": "pandoc",
     "pango": "pango",
@@ -122,7 +123,6 @@
     "pet": "pet",
     "petsc": "petsc",
     "pferd": "pferd",
-    "pfetch": "pfetch",
     "pfetch-rs": "pfetch-rs",
     "pg_cron": "pg_cron",
     "pg_top": "pg_top",

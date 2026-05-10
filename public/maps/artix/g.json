@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "g",
-    "total_mappings": 203
+    "total_mappings": 202
   },
   "mappings": {
     "gawk": "gawk",
@@ -122,7 +122,6 @@
     "gradle-doc": "gradle@8",
     "gradle-src": "gradle@8",
     "grafana": "grafana",
-    "grantlee": "grantlee",
     "graphene": "graphene",
     "graphene-docs": "graphene",
     "graphicsmagick": "graphicsmagick",

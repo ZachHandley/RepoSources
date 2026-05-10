@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "h",
-    "total_mappings": 158
+    "total_mappings": 159
   },
   "mappings": {
     "hackbrowserdata": "hack-browser-data",
@@ -74,6 +74,7 @@
     "help2man-debuginfo": "help2man",
     "hercules": "hercules",
     "hercules-debuginfo": "hercules",
+    "hermes-agent": "hermes-agent",
     "hevea": "hevea",
     "hevea-debuginfo": "hevea",
     "hexedit": "hexedit",

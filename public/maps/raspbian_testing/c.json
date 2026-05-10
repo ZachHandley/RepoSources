@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-10T04:26:33Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "c",
-    "total_mappings": 597
+    "total_mappings": 598
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -101,6 +101,7 @@
     "cflow": "cflow",
     "cflow-doc": "cflow",
     "cflow-l10n": "cflow",
+    "cfv": "cfv",
     "cgal": "cgal",
     "cgdb": "cgdb",
     "cgi-mapserver": "mapserver",
