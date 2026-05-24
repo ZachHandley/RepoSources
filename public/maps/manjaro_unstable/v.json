@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "v",
@@ -41,7 +41,7 @@
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
     "vis": "vis",
-    "vis-syntax-highlighting": "vis",
+    "vis-lexers": "vis",
     "visidata": "visidata",
     "vit": "vit",
     "viu": "viu",

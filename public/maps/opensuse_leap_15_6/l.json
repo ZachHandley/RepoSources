@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "l",
@@ -267,7 +267,7 @@
     "libnet": "libnet",
     "libnetfilter_conntrack": "libnetfilter_conntrack",
     "libnetfilter_queue": "libnetfilter-queue",
-    "libnettle": "nettle",
+    "libnettle": "nettle@3",
     "libnfc": "libnfc",
     "libnfnetlink": "libnfnetlink",
     "libnfs": "libnfs",

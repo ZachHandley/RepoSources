@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "r",
-    "total_mappings": 240
+    "total_mappings": 241
   },
   "mappings": {
     "R": "r",
@@ -234,6 +234,7 @@
     "rustcat": "rustcat",
     "rustic": "rustic",
     "rustls-ffi": "rustls-ffi",
+    "rustnet": "rustnet",
     "rustpython": "rustpython",
     "rustscan": "rustscan",
     "rustup": "rustup",

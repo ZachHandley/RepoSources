@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "terra_41",
+    "shard": "q",
+    "total_mappings": 7
+  },
+  "mappings": {
+    "quickjs-ng": "quickjs-ng",
+    "quickjs-ng-debuginfo": "quickjs-ng",
+    "quickjs-ng-debugsource": "quickjs-ng",
+    "quickjs-ng-devel": "quickjs-ng",
+    "quickjs-ng-examples": "quickjs-ng",
+    "quickjs-ng-libs": "quickjs-ng",
+    "quickjs-ng-libs-debuginfo": "quickjs-ng"
+  }
+}

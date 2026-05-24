@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "l",
-    "total_mappings": 771
+    "total_mappings": 774
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -154,6 +154,8 @@
     "libcrypto-dev": "openssl@4",
     "libcrypto10": "openssl@4",
     "libcrypto10-dev": "openssl@4",
+    "libcrypto11": "openssl@4",
+    "libcrypto11-dev": "openssl@4",
     "libcss": "libcss",
     "libcss-dev": "libcss",
     "libcups": "cups",
@@ -438,6 +440,7 @@
     "libssh2-dev": "libssh2",
     "libssl": "openssl@4",
     "libssl10": "openssl@4",
+    "libssl11": "openssl@4",
     "libstatgrab": "libstatgrab",
     "libstatgrab-dev": "libstatgrab",
     "libsvn": "subversion",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "crux_38",
     "shard": "g",
-    "total_mappings": 79
+    "total_mappings": 80
   },
   "mappings": {
     "gawk": "gawk",
@@ -29,6 +29,7 @@
     "git": "git",
     "git-cliff": "git-cliff",
     "gitea": "gitea",
+    "gitea-runner": "gitea-runner",
     "gitui": "gitui",
     "glade": "glade",
     "glew": "glew",

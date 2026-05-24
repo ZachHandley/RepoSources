@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "f",
-    "total_mappings": 118
+    "total_mappings": 120
   },
   "mappings": {
     "fetchmail": "fetchmail",
@@ -83,6 +83,8 @@
     "freeglut-devel": "freeglut",
     "freeipmi": "freeipmi",
     "freeipmi-bmc-watchdog": "freeipmi",
+    "freeipmi-debuginfo": "freeipmi",
+    "freeipmi-debugsource": "freeipmi",
     "freeipmi-devel": "freeipmi",
     "freeipmi-ipmidetectd": "freeipmi",
     "freeipmi-ipmiseld": "freeipmi",

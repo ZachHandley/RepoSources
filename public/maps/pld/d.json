@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "d",
-    "total_mappings": 92
+    "total_mappings": 93
   },
   "mappings": {
     "DevIL": "devil",
@@ -54,6 +54,7 @@
     "digitemp": "digitemp",
     "dillo": "dillo",
     "dirac": "dirac",
+    "direnv": "direnv",
     "discount": "discount",
     "dislocker": "dislocker",
     "distcc": "distcc",

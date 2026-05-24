@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "f",
-    "total_mappings": 351
+    "total_mappings": 352
   },
   "mappings": {
     "f2fs-modules-6.19.14+kali-alpha-generic-di": "linux-headers@6.8",
@@ -143,6 +143,7 @@
     "flake8": "flake8",
     "flang-19": "llvm@21",
     "flang-21": "llvm@21",
+    "flang-22": "llvm@21",
     "flann": "flann",
     "flann-doc": "flann",
     "flashrom": "flashrom",

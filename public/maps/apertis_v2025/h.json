@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "apertis_v2025",
     "shard": "h",
-    "total_mappings": 38
+    "total_mappings": 43
   },
   "mappings": {
     "handy-1-examples": "libhandy",
@@ -24,9 +24,12 @@
     "heimdal-servers": "heimdal",
     "help2man": "help2man",
     "hevea": "hevea",
-    "hfs-modules-6.12.74+2-m68k-di": "linux-headers@6.8",
-    "hfs-modules-6.12.74+2-powerpc-di": "linux-headers@6.8",
-    "hfs-modules-6.12.74+2-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-6.12.86.1-m68k-di": "linux-headers@6.8",
+    "hfs-modules-6.12.86.1-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-6.12.86.1-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-6.12.88.1-m68k-di": "linux-headers@6.8",
+    "hfs-modules-6.12.88.1-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-6.12.88.1-powerpc64-di": "linux-headers@6.8",
     "hicolor-icon-theme": "hicolor-icon-theme",
     "highway": "highway",
     "highway-doc": "highway",
@@ -43,7 +46,9 @@
     "hwloc": "hwloc",
     "hwloc-nox": "hwloc",
     "hyperv-daemons": "linux-headers@6.8",
-    "hypervisor-modules-6.12.74+2-powerpc64-di": "linux-headers@6.8",
-    "hypervisor-modules-6.12.74+2-powerpc64le-di": "linux-headers@6.8"
+    "hypervisor-modules-6.12.86.1-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-6.12.86.1-powerpc64le-di": "linux-headers@6.8",
+    "hypervisor-modules-6.12.88.1-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-6.12.88.1-powerpc64le-di": "linux-headers@6.8"
   }
 }

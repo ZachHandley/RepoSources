@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "s",
-    "total_mappings": 315
+    "total_mappings": 314
   },
   "mappings": {
     "SFML": "sfml@2",
@@ -121,7 +121,6 @@
     "shared-mime-info-dbginfo": "shared-mime-info",
     "shellcheck": "shellcheck",
     "shellcheck-dbginfo": "shellcheck",
-    "shellcheck-devel": "shellcheck",
     "shntool": "shntool",
     "shntool-dbginfo": "shntool",
     "sigrok-cli": "sigrok-cli",

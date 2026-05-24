@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "f",
@@ -32,7 +32,6 @@
     "fastapi": "fastapi",
     "fastd": "fastd",
     "fastfetch": "fastfetch",
-    "fastfetchMinimal": "fastfetch",
     "fastgron": "fastgron",
     "fastjar": "fastjar",
     "fastlane": "fastlane",
@@ -58,6 +57,7 @@
     "fcgiwrap": "fcgiwrap",
     "fcl": "fcl",
     "fclones": "fclones",
+    "fcp": "fcp",
     "fcrackzip": "fcrackzip",
     "fd": "fd",
     "fdk-aac": "fdk-aac",

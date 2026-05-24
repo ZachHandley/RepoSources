@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "x",
-    "total_mappings": 116
+    "total_mappings": 115
   },
   "mappings": {
     "x11-apps/bdftopcf": "bdftopcf",
     "x11-apps/luit": "luit",
-    "x11-apps/mesa-progs": "mesa",
     "x11-apps/mkfontscale": "mkfontscale",
     "x11-apps/xauth": "xauth",
     "x11-apps/xcursorgen": "xcursorgen",

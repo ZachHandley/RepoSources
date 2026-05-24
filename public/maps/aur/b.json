@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "b",
-    "total_mappings": 351
+    "total_mappings": 353
   },
   "mappings": {
     "babelfish": "babelfish",
@@ -12,6 +12,7 @@
     "backblaze-b2": "b2-tools",
     "backblaze-b2-bin": "b2-tools",
     "backblaze-b2-git": "b2-tools",
+    "backplane-cli": "backplane-cli",
     "backupninja-git": "backupninja",
     "bacula": "bacula-fd",
     "bacula-bat": "bacula-fd",
@@ -153,6 +154,7 @@
     "bento4-sdk-bin": "bento4",
     "berglas-bin": "berglas",
     "bettercap-git": "bettercap",
+    "betterleaks": "betterleaks",
     "betty-git": "betty",
     "bfg": "bfg",
     "bfg-bin": "bfg",

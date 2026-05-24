@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "r",
-    "total_mappings": 66
+    "total_mappings": 67
   },
   "mappings": {
     "r": "r",
@@ -49,6 +49,7 @@
     "rlog": "rlog",
     "robin-map": "robin-map",
     "rocq": "rocq",
+    "ronn": "ronn",
     "root": "root",
     "rpcsvc-proto": "rpcsvc-proto",
     "rpki-client": "rpki-client",

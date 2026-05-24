@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "u",
-    "total_mappings": 36
+    "total_mappings": 38
   },
   "mappings": {
     "uade": "uade",
@@ -14,6 +14,7 @@
     "ucspi-tcp": "ucspi-tcp",
     "udis86": "udis86",
     "udunits": "udunits",
+    "ugrep": "ugrep",
     "uhd": "uhd",
     "uhubctl": "uhubctl",
     "umockdev": "umockdev",
@@ -41,6 +42,7 @@
     "uthash": "uthash",
     "util-linux": "util-linux",
     "uudeview": "uudeview",
+    "uv": "uv",
     "uvg266": "uvg266",
     "uwsgi": "uwsgi"
   }

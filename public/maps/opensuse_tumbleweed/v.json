@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "v",
-    "total_mappings": 231
+    "total_mappings": 227
   },
   "mappings": {
     "Vc": "vc",
@@ -57,10 +57,6 @@
     "vapoursynth-debugsource": "vapoursynth",
     "vapoursynth-devel": "vapoursynth",
     "vapoursynth-tools": "vapoursynth",
-    "varnish": "varnish",
-    "varnish-debuginfo": "varnish",
-    "varnish-debugsource": "varnish",
-    "varnish-devel": "varnish",
     "vcdimager": "vcdimager",
     "vcdimager-debuginfo": "vcdimager",
     "vcdimager-debugsource": "vcdimager",

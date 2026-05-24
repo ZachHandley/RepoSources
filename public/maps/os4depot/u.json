@@ -1,21 +1,23 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "u",
-    "total_mappings": 48
+    "total_mappings": 50
   },
   "mappings": {
     "uade.lha": "uade",
     "unrtf.lha": "unrtf",
     "unshield.lha": "unshield",
+    "unzip.lha": "unzip",
     "utility/archive/bzip2.lha": "bzip2",
     "utility/archive/deark.lha": "deark",
     "utility/archive/lzip.lha": "lzip",
     "utility/archive/p7zip.lha": "p7zip",
     "utility/archive/tnef.lha": "tnef",
     "utility/archive/unshield.lha": "unshield",
+    "utility/archive/unzip.lha": "unzip",
     "utility/filetool/bcrypt.lha": "bcrypt",
     "utility/filetool/cabextract.lha": "cabextract",
     "utility/filetool/ccd2iso.lha": "ccd2iso",

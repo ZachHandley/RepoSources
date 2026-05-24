@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "fedora_44",
+    "shard": "_misc",
+    "total_mappings": 8
+  },
+  "mappings": {
+    "0install": "zero-install",
+    "2ping": "twoping",
+    "64tass": "tass64",
+    "6tunnel": "sixtunnel",
+    "7zip": "sevenzip",
+    "7zip-reduced": "sevenzip",
+    "7zip-standalone": "sevenzip",
+    "7zip-standalone-all": "sevenzip"
+  }
+}

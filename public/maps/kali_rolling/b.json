@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "b",
-    "total_mappings": 309
+    "total_mappings": 310
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -237,6 +237,7 @@
     "bogofilter-tokyocabinet": "bogofilter",
     "bolt-19": "llvm@21",
     "bolt-21": "llvm@21",
+    "bolt-22": "llvm@21",
     "bombadillo": "bombadillo",
     "bombardier": "bombardier",
     "bomtool": "pkgconf",

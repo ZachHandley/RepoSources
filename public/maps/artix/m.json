@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "m",
-    "total_mappings": 92
+    "total_mappings": 93
   },
   "mappings": {
     "m4": "m4",
@@ -45,6 +45,7 @@
     "mesa": "mesa",
     "mesa-docs": "mesa",
     "meson": "meson",
+    "mg": "mg",
     "mgba": "mgba",
     "mgba-qt": "mgba",
     "mgba-sdl": "mgba",

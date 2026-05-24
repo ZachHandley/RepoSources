@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "i",
-    "total_mappings": 464
+    "total_mappings": 490
   },
   "mappings": {
     "icecast2": "icecast",
@@ -219,6 +219,17 @@
     "input-modules-7.0.4+deb13-powerpc64le-di": "linux-headers@6.8",
     "input-modules-7.0.4+deb13-riscv64-di": "linux-headers@6.8",
     "input-modules-7.0.4+deb13-sparc64-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-alpha-generic-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-amd64-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-arm64-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-armmp-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-loong64-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-parisc-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-parisc64-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-powerpc-di,input-modules-7.0.7+deb13-powerpc64-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-powerpc64le-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-riscv64-di": "linux-headers@6.8",
+    "input-modules-7.0.7+deb13-sparc64-di": "linux-headers@6.8",
     "intel-sdsi": "linux-headers@6.8",
     "inxi": "inxi",
     "isc-kea": "kea",
@@ -470,6 +481,21 @@
     "isofs-modules-7.0.4+deb13-riscv64-di": "linux-headers@6.8",
     "isofs-modules-7.0.4+deb13-s390x-di": "linux-headers@6.8",
     "isofs-modules-7.0.4+deb13-sh7751r-di": "linux-headers@6.8",
-    "isofs-modules-7.0.4+deb13-sparc64-di": "linux-headers@6.8"
+    "isofs-modules-7.0.4+deb13-sparc64-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-alpha-generic-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-amd64-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-arm64-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-armmp-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-loong64-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-m68k-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-parisc-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-parisc64-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-powerpc-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-powerpc64-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-powerpc64le-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-riscv64-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-s390x-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-sh7751r-di": "linux-headers@6.8",
+    "isofs-modules-7.0.7+deb13-sparc64-di": "linux-headers@6.8"
   }
 }

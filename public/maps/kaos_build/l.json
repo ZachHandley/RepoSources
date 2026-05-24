@@ -1,15 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "l",
-    "total_mappings": 4
+    "total_mappings": 8
   },
   "mappings": {
-    "libedit": "libedit",
-    "libgpg-error": "libgpg-error",
-    "libksba": "libksba",
+    "lcms2": "little-cms2",
+    "libde265": "libde265",
+    "libgit2": "libgit2",
+    "libheif": "libheif",
+    "libusb": "libusb",
+    "libxml++": "libxml++@5",
+    "libxmlb": "libxmlb",
     "limine": "limine"
   }
 }

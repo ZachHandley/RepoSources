@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "r",
-    "total_mappings": 148
+    "total_mappings": 149
   },
   "mappings": {
     "R": "r",
@@ -150,6 +150,7 @@
     "rust-doc": "rust",
     "rust-src": "rust",
     "rust-std": "rust",
+    "rustnet": "rustnet",
     "rustup": "rustup",
     "rustypaste": "rustypaste",
     "rustypaste-cli": "rustypaste-cli",

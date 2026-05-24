@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "g",
-    "total_mappings": 49
+    "total_mappings": 48
   },
   "mappings": {
     "gawk": "gawk",
@@ -36,7 +36,6 @@
     "go-md2man": "go-md2man",
     "gobject-introspection": "gobject-introspection",
     "gperf": "gperf",
-    "gperftools": "gperftools",
     "gpgme": "gpgme",
     "gpsd": "gpsd",
     "gptfdisk": "gptfdisk",

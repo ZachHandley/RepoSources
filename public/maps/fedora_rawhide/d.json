@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "d",
-    "total_mappings": 253
+    "total_mappings": 251
   },
   "mappings": {
     "DevIL": "devil",
@@ -216,8 +216,6 @@
     "dpkg-dev": "dpkg",
     "dpkg-devel": "dpkg",
     "dpkg-perl": "dpkg",
-    "dqlite": "dqlite",
-    "dqlite-devel": "dqlite",
     "draco": "draco",
     "draco-devel": "draco",
     "draco-static": "draco",

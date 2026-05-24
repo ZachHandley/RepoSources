@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "n",
-    "total_mappings": 455
+    "total_mappings": 454
   },
   "mappings": {
     "net-analyzer/2ping": "twoping",
@@ -29,7 +29,6 @@
     "net-analyzer/goaccess": "goaccess",
     "net-analyzer/gping": "gping",
     "net-analyzer/httping": "httping",
-    "net-analyzer/hydra": "hydra",
     "net-analyzer/ifstat": "ifstat",
     "net-analyzer/iftop": "iftop",
     "net-analyzer/ike-scan": "ike-scan",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alt_p10",
     "shard": "l",
-    "total_mappings": 6020
+    "total_mappings": 6017
   },
   "mappings": {
     "LibreSSL": "libressl",
@@ -2297,8 +2297,8 @@
     "libhiredis-devel-debuginfo": "hiredis",
     "libhiredis1.0.0": "hiredis",
     "libhiredis1.0.0-debuginfo": "hiredis",
-    "libhogweed6": "nettle",
-    "libhogweed6-debuginfo": "nettle",
+    "libhogweed6": "nettle@3",
+    "libhogweed6-debuginfo": "nettle@3",
     "libhspell": "hspell",
     "libhspell-debuginfo": "hspell",
     "libhspell-devel": "hspell",
@@ -2316,9 +2316,6 @@
     "libhwloc": "hwloc",
     "libhwloc-debuginfo": "hwloc",
     "libhwloc-devel": "hwloc",
-    "libhyperscan-devel": "hyperscan",
-    "libhyperscan5.4": "hyperscan",
-    "libhyperscan5.4-debuginfo": "hyperscan",
     "libhypre": "hypre",
     "libhypre-debuginfo": "hypre",
     "libhypre-devel": "hypre",
@@ -3146,9 +3143,9 @@
     "libnetpbm-devel": "netpbm",
     "libnetpbm11": "netpbm",
     "libnetpbm11-debuginfo": "netpbm",
-    "libnettle-devel": "nettle",
-    "libnettle8": "nettle",
-    "libnettle8-debuginfo": "nettle",
+    "libnettle-devel": "nettle@3",
+    "libnettle8": "nettle@3",
+    "libnettle8-debuginfo": "nettle@3",
     "libnfnetlink": "libnfnetlink",
     "libnfnetlink-debuginfo": "libnfnetlink",
     "libnfnetlink-devel": "libnfnetlink",

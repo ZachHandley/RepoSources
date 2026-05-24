@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "d",
-    "total_mappings": 118
+    "total_mappings": 119
   },
   "mappings": {
     "d-plplot": "plplot",
@@ -124,6 +124,7 @@
     "dvd+rw-tools": "dvd+rw-tools",
     "dvdauthor": "dvdauthor",
     "dwm": "dwm",
-    "dynamips": "dynamips"
+    "dynamips": "dynamips",
+    "dysk": "dysk"
   }
 }

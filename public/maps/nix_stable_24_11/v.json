@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "v",
-    "total_mappings": 107
+    "total_mappings": 108
   },
   "mappings": {
     "Vc": "vc",
@@ -17,6 +17,7 @@
     "vale": "vale",
     "valgrind": "valgrind",
     "valgrind-light": "valgrind",
+    "validator-nu": "vnu",
     "valijson": "valijson",
     "valkey": "valkey",
     "vals": "vals",

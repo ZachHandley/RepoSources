@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "t",
-    "total_mappings": 385
+    "total_mappings": 383
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -223,7 +223,6 @@
     "textproc/htmlq": "htmlq",
     "textproc/hunspell": "hunspell",
     "textproc/hyperestraier": "hyperestraier",
-    "textproc/hyperscan": "hyperscan",
     "textproc/icu4c": "icu4c@78",
     "textproc/intltool": "intltool",
     "textproc/ispell": "ispell",
@@ -327,7 +326,6 @@
     "textproc/xpdf": "xpdf",
     "textproc/xpdf3": "xpdf",
     "textproc/yq": "python-yq",
-    "tflint": "tflint",
     "tfsec": "tfsec",
     "tgif": "tgif",
     "the_silver_searcher": "the_silver_searcher",

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_10_proposed",
+    "shard": "y",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "yarnpkg": "yarn",
+    "yash": "yash"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "j",
@@ -73,7 +73,7 @@
     "jqfmt": "jqfmt",
     "jql": "jql",
     "jqp": "jqp",
-    "jre8": "openjdk@21",
+    "jre8": "openjdk@25",
     "jrnl": "jrnl",
     "jrsonnet": "jrsonnet",
     "jruby": "jruby",

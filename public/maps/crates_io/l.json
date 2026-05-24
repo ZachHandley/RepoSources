@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "l",
-    "total_mappings": 7
+    "total_mappings": 8
   },
   "mappings": {
     "legba": "legba",
+    "librespot": "librespot",
     "librsvg": "librsvg",
     "lla": "lla",
     "lsd": "lsd",

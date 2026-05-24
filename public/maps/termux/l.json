@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "l",
@@ -55,7 +55,6 @@
     "libcap-ng": "libcap-ng",
     "libccd": "libccd",
     "libcddb": "libcddb",
-    "libcdk": "cdk",
     "libcec": "libcec",
     "libceres-solver": "ceres-solver",
     "libchipmunk": "chipmunk-physics",
@@ -68,6 +67,7 @@
     "libcpufeatures": "cpu_features",
     "libcroco": "libcroco",
     "libcue": "libcue",
+    "libcunit": "cunit",
     "libcurl": "curl",
     "libczmq": "czmq",
     "libdaemon": "libdaemon",
@@ -199,7 +199,7 @@
     "libneon": "neon",
     "libnet": "libnet",
     "libnetfilter-queue": "libnetfilter-queue",
-    "libnettle": "nettle",
+    "libnettle": "nettle@3",
     "libnewt": "newt",
     "libnfc": "libnfc",
     "libnfnetlink": "libnfnetlink",

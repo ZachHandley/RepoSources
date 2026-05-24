@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "f",
-    "total_mappings": 744
+    "total_mappings": 742
   },
   "mappings": {
     "faad2": "faad2",
@@ -45,7 +45,7 @@
     "feeds/base/package/libs/mbedtls": "mbedtls@3",
     "feeds/base/package/libs/mpfr": "mpfr",
     "feeds/base/package/libs/ncurses": "ncurses",
-    "feeds/base/package/libs/nettle": "nettle",
+    "feeds/base/package/libs/nettle": "nettle@3",
     "feeds/base/package/libs/openssl": "openssl@4",
     "feeds/base/package/libs/pcre2": "pcre2",
     "feeds/base/package/libs/popt": "popt",
@@ -68,7 +68,6 @@
     "feeds/base/package/utils/util-linux": "gnu-getopt",
     "feeds/packages/admin/atop": "atop",
     "feeds/packages/admin/bottom": "bottom",
-    "feeds/packages/admin/btop": "btop",
     "feeds/packages/admin/fluent-bit": "fluent-bit",
     "feeds/packages/admin/gkrellmd": "gkrellm",
     "feeds/packages/admin/htop": "htop",
@@ -96,7 +95,7 @@
     "feeds/packages/devel/patch": "gpatch",
     "feeds/packages/devel/pkgconf": "pkgconf",
     "feeds/packages/lang/chicken-scheme": "chicken",
-    "feeds/packages/lang/erlang": "erlang@27",
+    "feeds/packages/lang/erlang": "erlang@28",
     "feeds/packages/lang/golang/golang": "go@1.25",
     "feeds/packages/lang/lpeg": "lpeg",
     "feeds/packages/lang/lua5.4": "lua@5.4",
@@ -154,7 +153,6 @@
     "feeds/packages/libs/hidapi": "hidapi",
     "feeds/packages/libs/hiredis": "hiredis",
     "feeds/packages/libs/hwloc": "hwloc",
-    "feeds/packages/libs/hyperscan": "hyperscan",
     "feeds/packages/libs/icu": "icu4c@78",
     "feeds/packages/libs/inih": "inih",
     "feeds/packages/libs/iniparser": "iniparser",

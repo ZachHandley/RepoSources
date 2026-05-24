@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "s",
-    "total_mappings": 339
+    "total_mappings": 335
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -104,10 +104,6 @@
     "sextractor": "sextractor",
     "sextractor-debuginfo": "sextractor",
     "sextractor-debugsource": "sextractor",
-    "sfsexp": "sfsexp",
-    "sfsexp-debuginfo": "sfsexp",
-    "sfsexp-debugsource": "sfsexp",
-    "sfsexp-devel": "sfsexp",
     "shairport-sync": "shairport-sync",
     "shairport-sync-debuginfo": "shairport-sync",
     "shairport-sync-debugsource": "shairport-sync",

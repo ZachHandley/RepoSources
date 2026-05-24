@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "e",
@@ -146,10 +146,10 @@
     "epubcheck": "epubcheck",
     "erdtree": "erdtree",
     "erfa": "erfa",
-    "erlang": "erlang@27",
-    "erlang-doc": "erlang@27",
-    "erlang-man": "erlang@27",
-    "erlang21": "erlang@27",
+    "erlang": "erlang@28",
+    "erlang-doc": "erlang@28",
+    "erlang-man": "erlang@28",
+    "erlang21": "erlang@28",
     "errcheck": "errcheck",
     "esbuild": "esbuild",
     "esniper": "esniper",

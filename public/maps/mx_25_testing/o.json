@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mx_25_testing",
     "shard": "o",
-    "total_mappings": 2
+    "total_mappings": 4
   },
   "mappings": {
     "onnxruntime": "onnxruntime",
-    "onnxruntime-tools": "onnxruntime"
+    "onnxruntime-tools": "onnxruntime",
+    "opencolorio": "opencolorio",
+    "opencolorio-tools": "opencolorio"
   }
 }

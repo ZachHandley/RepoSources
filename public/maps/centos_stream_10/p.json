@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "centos_stream_10",
     "shard": "p",
-    "total_mappings": 558
+    "total_mappings": 574
   },
   "mappings": {
     "PyQt-builder": "pyqt-builder",
@@ -550,6 +550,9 @@
     "python3.12-debuginfo": "python@3.9",
     "python3.12-debugsource": "python@3.9",
     "python3.14": "python@3.9",
+    "python3.14-Cython": "cython",
+    "python3.14-Cython-debuginfo": "cython",
+    "python3.14-Cython-debugsource": "cython",
     "python3.14-debug": "python@3.9",
     "python3.14-debuginfo": "python@3.9",
     "python3.14-debugsource": "python@3.9",
@@ -563,6 +566,19 @@
     "python3.14-freethreading-tkinter": "python@3.9",
     "python3.14-idle": "python@3.9",
     "python3.14-libs": "python@3.9",
+    "python3.14-numpy": "numpy",
+    "python3.14-numpy-debuginfo": "numpy",
+    "python3.14-numpy-debugsource": "numpy",
+    "python3.14-numpy-f2py": "numpy",
+    "python3.14-packaging": "python-packaging",
+    "python3.14-pybind11": "pybind11",
+    "python3.14-pybind11-devel": "pybind11",
+    "python3.14-pytest": "pytest",
+    "python3.14-scipy": "scipy",
+    "python3.14-scipy-debuginfo": "scipy",
+    "python3.14-scipy-debugsource": "scipy",
+    "python3.14-setuptools": "python-setuptools",
+    "python3.14-setuptools-wheel": "python-setuptools",
     "python3.14-test": "python@3.9",
     "python3.14-tkinter": "python@3.9"
   }

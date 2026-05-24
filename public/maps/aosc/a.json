@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "a",
-    "total_mappings": 990
+    "total_mappings": 992
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -141,7 +141,6 @@
     "app-database/mariadb": "mariadb@11.8",
     "app-database/mycli": "mycli",
     "app-database/postgresql": "postgresql@18",
-    "app-database/postgresql-13": "postgresql@18",
     "app-database/postgresql-14": "postgresql@18",
     "app-database/postgresql-15": "postgresql@18",
     "app-database/postgresql-16": "postgresql@18",
@@ -276,6 +275,7 @@
     "app-devel/scons": "scons",
     "app-devel/sdcc": "sdcc",
     "app-devel/shaderc": "shaderc",
+    "app-devel/shfmt": "shfmt",
     "app-devel/spirv-llvm-translator": "spirv-llvm-translator",
     "app-devel/stlink": "stlink",
     "app-devel/stm32flash": "stm32flash",
@@ -822,6 +822,7 @@
     "app-utils/rcm": "rcm",
     "app-utils/rdfind": "rdfind",
     "app-utils/recode": "recode",
+    "app-utils/renameutils": "renameutils",
     "app-utils/restic": "restic",
     "app-utils/rhash": "rhash",
     "app-utils/ripgrep": "ripgrep",
@@ -920,6 +921,7 @@
     "app-web/dns2tcp": "dns2tcp",
     "app-web/dovecot": "dovecot",
     "app-web/exim": "exim",
+    "app-web/filebrowser": "filebrowser",
     "app-web/forgejo": "forgejo",
     "app-web/gping": "gping",
     "app-web/httpd": "httpd",

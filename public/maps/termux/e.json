@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "e",
@@ -25,7 +25,7 @@
     "enchant": "enchant",
     "enscript": "enscript",
     "entr": "entr",
-    "erlang": "erlang@27",
+    "erlang": "erlang@28",
     "erofs-utils": "erofs-utils",
     "esbuild": "esbuild",
     "espeak": "espeak",

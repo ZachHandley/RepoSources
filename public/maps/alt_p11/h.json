@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "h",
-    "total_mappings": 151
+    "total_mappings": 150
   },
   "mappings": {
     "hackbrowserdata": "hack-browser-data",
@@ -149,7 +149,6 @@
     "hydra-pwinspector": "hydra",
     "hydra-pwinspector-debuginfo": "hydra",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hyperv-daemons": "linux-headers@6.8",
     "hypervfcopyd": "linux-headers@6.8",
     "hypervfcopyd-debuginfo": "linux-headers@6.8",

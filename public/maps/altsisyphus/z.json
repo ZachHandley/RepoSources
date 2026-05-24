@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "z",
-    "total_mappings": 130
+    "total_mappings": 132
   },
   "mappings": {
     "z3": "z3",
@@ -73,6 +73,8 @@
     "zenity-debuginfo": "zenity",
     "zenmap": "nmap",
     "zeromq": "zeromq",
+    "zfp": "zfp",
+    "zfp-debuginfo": "zfp",
     "zig": "zig",
     "zig-checkinstall": "zig@0.15",
     "zig-debuginfo": "zig@0.15",

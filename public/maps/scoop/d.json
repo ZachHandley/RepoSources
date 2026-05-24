@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "d",
-    "total_mappings": 56
+    "total_mappings": 58
   },
   "mappings": {
     "d2": "d2",
@@ -48,6 +48,7 @@
     "dos2unix": "dos2unix",
     "dosbox-staging": "dosbox-staging",
     "dosbox-x": "dosbox-x",
+    "dotslash": "dotslash",
     "dotter": "dotter",
     "dovi-tool": "dovi_tool",
     "doxygen": "doxygen",
@@ -60,6 +61,7 @@
     "duf": "duf",
     "dufs": "dufs",
     "dum": "dum",
+    "dumbpipe": "dumbpipe",
     "dust": "dust",
     "dvc": "dvc",
     "dyff": "dyff"

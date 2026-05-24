@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "c",
-    "total_mappings": 674
+    "total_mappings": 677
   },
   "mappings": {
     "CFR": "cfr-decompiler",
@@ -643,6 +643,9 @@
     "ctest-debuginfo": "cmake",
     "ctop": "ctop",
     "ctop-debuginfo": "ctop",
+    "ctre": "ctre",
+    "ctre-devel": "ctre",
+    "ctre-doc": "ctre",
     "cubeb": "cubeb",
     "cubeb-debuginfo": "cubeb",
     "cue": "cue",

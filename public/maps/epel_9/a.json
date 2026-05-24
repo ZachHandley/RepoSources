@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "a",
-    "total_mappings": 225
+    "total_mappings": 226
   },
   "mappings": {
     "Agda": "agda",
@@ -83,6 +83,7 @@
     "apcupsd-gui": "apcupsd",
     "apptainer": "apptainer",
     "apptainer-debuginfo": "apptainer",
+    "apptainer-debugsource": "apptainer",
     "apptainer-suid": "apptainer",
     "apt": "apt",
     "apt-apidoc": "apt",

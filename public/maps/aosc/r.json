@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "r",
-    "total_mappings": 901
+    "total_mappings": 904
   },
   "mappings": {
     "r": "r",
@@ -33,6 +33,7 @@
     "recode+32": "recode",
     "redis": "redis",
     "redland": "redland",
+    "renameutils": "renameutils",
     "repo": "repo",
     "rest": "librest",
     "restic": "restic",
@@ -82,6 +83,7 @@
     "runtime-common/confuse": "confuse",
     "runtime-common/console-bridge": "console_bridge",
     "runtime-common/cpptoml": "cpptoml",
+    "runtime-common/cpptrace": "cpptrace",
     "runtime-common/crc32c": "crc32c",
     "runtime-common/cxxopts": "cxxopts",
     "runtime-common/czmq": "czmq",
@@ -160,6 +162,7 @@
     "runtime-common/libxml++": "libxml++@5",
     "runtime-common/libxml++-2.6": "libxml++@5",
     "runtime-common/libxml2": "libxml2",
+    "runtime-common/libxml2-2": "libxml2",
     "runtime-common/libxmlb": "libxmlb",
     "runtime-common/libxslt": "libxslt",
     "runtime-common/libzen": "libzen",
@@ -272,7 +275,7 @@
     "runtime-cryptography/libtasn1": "libtasn1",
     "runtime-cryptography/libtomcrypt": "libtomcrypt",
     "runtime-cryptography/mbedtls": "mbedtls@3",
-    "runtime-cryptography/nettle": "nettle",
+    "runtime-cryptography/nettle": "nettle@3",
     "runtime-cryptography/nss": "nss",
     "runtime-cryptography/openssl": "openssl@4",
     "runtime-cryptography/openssl-1.1": "openssl@4",
@@ -766,7 +769,7 @@
     "runtime-optenv32/mpg123+32": "mpg123",
     "runtime-optenv32/ncurses+32": "ncurses",
     "runtime-optenv32/neon+32": "neon",
-    "runtime-optenv32/nettle+32": "nettle",
+    "runtime-optenv32/nettle+32": "nettle@3",
     "runtime-optenv32/nlohmann-json+32": "nlohmann-json",
     "runtime-optenv32/nspr+32": "nspr",
     "runtime-optenv32/nss+32": "nss",

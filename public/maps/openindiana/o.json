@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "o",
@@ -23,7 +23,7 @@
     "opencore-amr": "opencore-amr",
     "opendbx": "opendbx",
     "openexr": "openexr",
-    "openjdk": "openjdk@21",
+    "openjdk": "openjdk@25",
     "openjpeg": "openjpeg",
     "openldap": "openldap",
     "openmpi/gcc": "open-mpi",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "d",
-    "total_mappings": 276
+    "total_mappings": 280
   },
   "mappings": {
     "Decker": "decker",
@@ -88,6 +88,8 @@
     "delve-debuginfo": "delve",
     "deno": "deno",
     "deno-debuginfo": "deno",
+    "desed": "desed",
+    "desed-debuginfo": "desed",
     "desktop-file-utils": "desktop-file-utils",
     "desktop-file-utils-debuginfo": "desktop-file-utils",
     "devil": "devil",
@@ -245,6 +247,8 @@
     "dtop": "dtop",
     "du-dust": "dust",
     "du-dust-debuginfo": "dust",
+    "dua-cli": "dua-cli",
+    "dua-cli-debuginfo": "dua-cli",
     "dub": "dub",
     "dub-debuginfo": "dub",
     "duc": "duc",

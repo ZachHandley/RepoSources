@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "d",
-    "total_mappings": 383
+    "total_mappings": 384
   },
   "mappings": {
     "DevIL-devel": "devil",
@@ -194,6 +194,7 @@
     "distcc-server": "distcc",
     "distrobox": "distrobox",
     "distrobox-bash-completion": "distrobox",
+    "distrobox-branding-openSUSE": "distrobox",
     "dive": "dive",
     "dive-debuginfo": "dive",
     "dive-debugsource": "dive",

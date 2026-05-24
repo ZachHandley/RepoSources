@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "e",
-    "total_mappings": 24
+    "total_mappings": 25
   },
   "mappings": {
     "earthly": "earthly",
@@ -14,6 +14,7 @@
     "edit": "msedit",
     "eget": "eget",
     "eksctl": "eksctl",
+    "elan": "elan-init",
     "elixir": "elixir",
     "elixir-ls": "elixir-ls",
     "elm": "elm",
@@ -23,7 +24,7 @@
     "emscripten": "emscripten",
     "enigma": "enigma",
     "erdtree": "erdtree",
-    "erlang": "erlang@27",
+    "erlang": "erlang@28",
     "espeak-ng": "espeak-ng",
     "etcd": "etcd",
     "eva": "eva",

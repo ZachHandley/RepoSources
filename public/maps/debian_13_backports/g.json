@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "g",
-    "total_mappings": 21
+    "total_mappings": 29
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -24,6 +24,14 @@
     "golang-1.24-doc": "go@1.25",
     "golang-1.24-go": "go@1.25",
     "golang-1.24-src": "go@1.25",
+    "golang-1.25": "go@1.25",
+    "golang-1.25-doc": "go@1.25",
+    "golang-1.25-go": "go@1.25",
+    "golang-1.25-src": "go@1.25",
+    "golang-1.26": "go@1.25",
+    "golang-1.26-doc": "go@1.25",
+    "golang-1.26-go": "go@1.25",
+    "golang-1.26-src": "go@1.25",
     "golang-etcd-server-dev": "etcd",
     "golang-sigsum-sigsum-go-dev": "sigsum-go",
     "gstreamer1.0-pipewire": "pipewire",

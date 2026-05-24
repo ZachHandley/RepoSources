@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "c",
-    "total_mappings": 676
+    "total_mappings": 674
   },
   "mappings": {
     "CFR": "cfr-decompiler",
@@ -611,8 +611,6 @@
     "croc": "croc",
     "croc-debuginfo": "croc",
     "cronboard": "cronboard",
-    "crossplane": "crossplane",
-    "crossplane-debuginfo": "crossplane",
     "crun": "crun",
     "crun-debuginfo": "crun",
     "crunch": "crunch",

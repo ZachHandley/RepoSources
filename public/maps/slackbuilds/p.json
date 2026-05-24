@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "p",
-    "total_mappings": 59
+    "total_mappings": 60
   },
   "mappings": {
     "perl/MoarVM": "moarvm",
@@ -58,6 +58,7 @@
     "python/python3-pylint": "pylint",
     "python/python3-pytest": "pytest",
     "python/python3-tabulate": "python-tabulate",
+    "python/python3-unicorn": "unicorn",
     "python/python3-virtualenv": "virtualenv",
     "python/s3cmd": "s3cmd",
     "python/snowballstemmer": "snowball",

@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "mx_25_testing",
+    "shard": "c",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "coin3": "coin3d"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_18_04",
     "shard": "h",
-    "total_mappings": 99
+    "total_mappings": 98
   },
   "mappings": {
     "h2o": "h2o",
@@ -99,7 +99,6 @@
     "hybrid-dev": "ircd-hybrid",
     "hydra": "hydra",
     "hydra-gtk": "hydra",
-    "hyperscan": "hyperscan",
     "hyphy": "hyphy",
     "hyphy-common": "hyphy",
     "hyphy-mpi": "hyphy",

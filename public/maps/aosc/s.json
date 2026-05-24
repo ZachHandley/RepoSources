@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "s",
-    "total_mappings": 135
+    "total_mappings": 136
   },
   "mappings": {
     "samba": "samba",
@@ -50,6 +50,7 @@
     "shapelib": "shapelib",
     "shared-mime-info": "shared-mime-info",
     "shared-mime-info+32": "shared-mime-info",
+    "shfmt": "shfmt",
     "shntool": "shntool",
     "siege": "siege",
     "sigrok-cli": "sigrok-cli",

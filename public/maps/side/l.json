@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "l",
-    "total_mappings": 179
+    "total_mappings": 178
   },
   "mappings": {
     "lame": "lame",
@@ -152,7 +152,6 @@
     "liburcu": "userspace-rcu",
     "liburing": "liburing",
     "libusb": "libusb",
-    "libusb-compat": "libusb-compat",
     "libuv": "libuv",
     "libva": "libva",
     "libvdpau": "libvdpau",

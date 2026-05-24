@@ -1,12 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "t",
-    "total_mappings": 93
+    "total_mappings": 99
   },
   "mappings": {
+    "t1lib": "t1lib",
+    "t1lib-apps": "t1lib",
+    "t1lib-debuginfo": "t1lib",
+    "t1lib-debugsource": "t1lib",
+    "t1lib-devel": "t1lib",
+    "t1lib-static": "t1lib",
     "t1utils": "t1utils",
     "t1utils-debuginfo": "t1utils",
     "t1utils-debugsource": "t1utils",

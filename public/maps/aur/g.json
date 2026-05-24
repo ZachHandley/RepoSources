@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "g",
-    "total_mappings": 677
+    "total_mappings": 680
   },
   "mappings": {
     "g++9-bin": "gcc@14",
@@ -208,6 +208,9 @@
     "ghorg": "ghorg",
     "ghorg-bin": "ghorg",
     "ghostscript-git": "ghostscript",
+    "ghr": "ghr",
+    "ghr-bin": "ghr",
+    "ghr-git": "ghr",
     "ghz": "ghz",
     "ghz-git": "ghz",
     "gibo": "gibo",

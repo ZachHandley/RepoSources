@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "n",
@@ -18,8 +18,8 @@
     "netcdf": "netcdf",
     "netpbm": "netpbm",
     "netsurf-buildsystem": "netsurf-buildsystem",
-    "nettle": "nettle",
-    "nettle3": "nettle",
+    "nettle": "nettle@3",
+    "nettle3": "nettle@3",
     "nfdump": "nfdump",
     "nghttp3": "libnghttp3",
     "nginx": "nginx",

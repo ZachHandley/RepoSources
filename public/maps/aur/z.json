@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "z",
-    "total_mappings": 150
+    "total_mappings": 151
   },
   "mappings": {
     "z-git": "z",
@@ -32,6 +32,7 @@
     "zenmap-git": "nmap",
     "zeroclaw": "zeroclaw",
     "zeroclaw-bin": "zeroclaw",
+    "zeroclaw-git": "zeroclaw",
     "zeroinstall-injector": "zero-install",
     "zeromq-git": "zeromq",
     "zeromq3": "zeromq",

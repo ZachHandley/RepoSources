@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "trisquel_10_0",
     "shard": "g",
-    "total_mappings": 679
+    "total_mappings": 680
   },
   "mappings": {
     "g++-10": "gcc@14",
@@ -375,6 +375,7 @@
     "gmime-bin": "gmime",
     "gmime2.6": "gmime",
     "gmp": "gmp",
+    "gmp-ecm": "gmp-ecm",
     "gmsh": "gmsh",
     "gmsh-doc": "gmsh",
     "gmt": "gmt",

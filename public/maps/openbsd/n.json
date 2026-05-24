@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "n",
-    "total_mappings": 336
+    "total_mappings": 338
   },
   "mappings": {
     "nagios": "nagios",
@@ -272,6 +272,7 @@
     "netpbm": "netpbm",
     "netris": "netris",
     "netsurf-buildsystem": "netsurf-buildsystem",
+    "nettle": "nettle@3",
     "newlisp": "newlisp",
     "news/nzbget": "nzbget",
     "news/pan": "pan",
@@ -337,6 +338,7 @@
     "nut": "nut",
     "nut-cgi": "nut",
     "nut-snmp": "nut",
+    "nut-upower": "nut",
     "nut-xml": "nut",
     "nuttcp": "nuttcp",
     "nyancat": "nyancat",

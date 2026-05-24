@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "f",
-    "total_mappings": 327
+    "total_mappings": 328
   },
   "mappings": {
     "f2": "f2",
@@ -195,6 +195,7 @@
     "flint1": "flint",
     "flit-git": "flit",
     "flix": "flix",
+    "flix-bin": "flix",
     "flow": "flow",
     "flow-bin": "flow",
     "flow-cli": "flow-cli",

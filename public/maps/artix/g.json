@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "g",
-    "total_mappings": 202
+    "total_mappings": 204
   },
   "mappings": {
     "gawk": "gawk",
@@ -20,6 +20,9 @@
     "gcc-m2": "gcc@14",
     "gcc-objc": "gcc@14",
     "gcc-rust": "gcc@14",
+    "gcc15": "gcc@14",
+    "gcc15-fortran": "gcc@14",
+    "gcc15-libs": "gcc@14",
     "gcdmaster": "cdrdao",
     "gcr": "gcr",
     "gcr-docs": "gcr",
@@ -33,7 +36,6 @@
     "gdl": "gdl",
     "gedit": "gedit",
     "gegl": "gegl",
-    "gemini-cli": "gemini-cli",
     "gengetopt": "gengetopt",
     "geocode-glib": "geocode-glib",
     "geocode-glib-2": "geocode-glib",

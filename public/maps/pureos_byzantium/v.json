@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pureos_byzantium",
     "shard": "v",
-    "total_mappings": 120
+    "total_mappings": 122
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -28,6 +28,8 @@
     "vc": "vc",
     "vc-dev": "vc",
     "vcdimager": "vcdimager",
+    "vcfanno": "vcfanno",
+    "vcfanno-examples": "vcfanno",
     "vcftools": "vcftools",
     "vcsh": "vcsh",
     "vde-switch": "vde",

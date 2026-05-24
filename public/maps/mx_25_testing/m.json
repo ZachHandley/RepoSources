@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mx_25_testing",
     "shard": "m",
-    "total_mappings": 11
+    "total_mappings": 12
   },
   "mappings": {
     "mame": "mame",
@@ -13,6 +13,7 @@
     "mame-tools": "mame",
     "melt": "mlt",
     "meson": "meson",
+    "minizip-ng": "minizip-ng",
     "mkvtoolnix": "mkvtoolnix",
     "mkvtoolnix-gui": "mkvtoolnix",
     "mlt": "mlt",

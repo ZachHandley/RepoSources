@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "c",
-    "total_mappings": 85
+    "total_mappings": 86
   },
   "mappings": {
     "c3": "c3c",
@@ -54,6 +54,7 @@
     "cmake": "cmake",
     "cmctl": "cmctl",
     "cobalt": "cobalt",
+    "cocogitto": "cocogitto",
     "code-minimap": "code-minimap",
     "coder": "coder",
     "codesnap": "codesnap",

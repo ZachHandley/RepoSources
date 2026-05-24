@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "c",
-    "total_mappings": 45
+    "total_mappings": 46
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -38,6 +38,7 @@
     "cmocka": "cmocka",
     "codec2": "codec2",
     "coin": "coin3d",
+    "composer": "composer",
     "containerd": "containerd",
     "coreutils": "coreutils",
     "cpio": "cpio",

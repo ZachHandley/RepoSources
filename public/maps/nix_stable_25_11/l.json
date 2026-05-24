@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "l",
-    "total_mappings": 920
+    "total_mappings": 921
   },
   "mappings": {
     "LanguageTool": "languagetool",
@@ -728,6 +728,7 @@
     "linuxKernel.kernels.linux_6_18": "linux-headers@6.8",
     "linuxKernel.kernels.linux_6_6": "linux-headers@6.8",
     "linuxKernel.kernels.linux_7_0": "linux-headers@6.8",
+    "linuxKernel.kernels.linux_testing": "linux-headers@6.8",
     "linuxKernel.packages.linux_5_10.cpupower": "linux-headers@6.8",
     "linuxKernel.packages.linux_5_10.sysdig": "sysdig",
     "linuxKernel.packages.linux_5_10.tmon": "linux-headers@6.8",

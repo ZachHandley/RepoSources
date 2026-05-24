@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "d",
-    "total_mappings": 523
+    "total_mappings": 524
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -82,7 +82,7 @@
     "dev-lang/clang": "llvm@21",
     "dev-lang/deno-bin": "deno",
     "dev-lang/elixir": "elixir",
-    "dev-lang/erlang": "erlang@27",
+    "dev-lang/erlang": "erlang@28",
     "dev-lang/execline": "execline",
     "dev-lang/ghc": "ghc@9.8",
     "dev-lang/glslang": "glslang",
@@ -96,9 +96,9 @@
     "dev-lang/nasm": "nasm",
     "dev-lang/node": "node@24",
     "dev-lang/ocaml": "ocaml@4",
-    "dev-lang/openjdk-bin": "openjdk@21",
-    "dev-lang/openjdk11": "openjdk@21",
-    "dev-lang/openjdk8": "openjdk@21",
+    "dev-lang/openjdk-bin": "openjdk@25",
+    "dev-lang/openjdk11": "openjdk@25",
+    "dev-lang/openjdk8": "openjdk@25",
     "dev-lang/perl": "perl",
     "dev-lang/php": "php@8.4",
     "dev-lang/python": "python@3.9",
@@ -258,6 +258,7 @@
     "dev-libs/libptytty": "libptytty",
     "dev-libs/librdkafka": "librdkafka",
     "dev-libs/libressl": "libressl",
+    "dev-libs/libretls": "libretls",
     "dev-libs/libsass": "libsass",
     "dev-libs/libsecret": "libsecret",
     "dev-libs/libserialport": "libserialport",
@@ -290,7 +291,7 @@
     "dev-libs/msgpack": "msgpack",
     "dev-libs/mujs": "mujs",
     "dev-libs/nativefiledialog-extended": "nativefiledialog-extended",
-    "dev-libs/nettle": "nettle",
+    "dev-libs/nettle": "nettle@3",
     "dev-libs/npth": "npth",
     "dev-libs/nspr": "nspr",
     "dev-libs/nss": "nss",

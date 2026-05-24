@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "p",
-    "total_mappings": 297
+    "total_mappings": 295
   },
   "mappings": {
     "p7zip": "p7zip",
@@ -23,7 +23,6 @@
     "pandoc": "pandoc",
     "pandoc-crossref": "pandoc-crossref",
     "pandoc-crossref-dbginfo": "pandoc-crossref",
-    "pandoc-crossref-devel": "pandoc-crossref",
     "pandoc-dbginfo": "pandoc",
     "pango": "pango",
     "pango-32bit": "pango",
@@ -261,7 +260,6 @@
     "python-gobject": "pygobject3",
     "python-gobject-dbginfo": "pygobject3",
     "python-gobject-devel": "pygobject3",
-    "python-gpg": "gpgme",
     "python-gstreamer": "gstreamer",
     "python-ipython": "ipython",
     "python-lsp-server": "python-lsp-server",
@@ -281,8 +279,8 @@
     "python-pivy-dbginfo": "pivy",
     "python-poetry": "poetry",
     "python-pytest": "pytest",
-    "python-qscintilla": "qscintilla2",
-    "python-qscintilla-dbginfo": "qscintilla2",
+    "python-qscintilla-qt5": "qscintilla2",
+    "python-qscintilla-qt6": "qscintilla2",
     "python-setuptools": "python-setuptools",
     "python-sip": "sip",
     "python-sip-4": "sip",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "b",
-    "total_mappings": 40
+    "total_mappings": 41
   },
   "mappings": {
     "b2": "b2-tools",
@@ -23,6 +23,7 @@
     "biber": "biber",
     "binaryen": "binaryen",
     "bind": "bind",
+    "binsider": "binsider",
     "binutils": "binutils",
     "biodiff": "biodiff",
     "biome": "biome",

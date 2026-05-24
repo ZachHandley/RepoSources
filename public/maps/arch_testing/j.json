@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "arch_testing",
+    "shard": "j",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "jenkins": "jenkins"
+  }
+}

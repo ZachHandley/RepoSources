@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openeuler_22_03_lts_sp1",
     "shard": "h",
-    "total_mappings": 91
+    "total_mappings": 87
   },
   "mappings": {
     "h2": "h2",
@@ -93,10 +93,6 @@
     "hwloc-debuginfo": "hwloc",
     "hwloc-debugsource": "hwloc",
     "hwloc-devel": "hwloc",
-    "hwloc-help": "hwloc",
-    "hyperscan": "hyperscan",
-    "hyperscan-debuginfo": "hyperscan",
-    "hyperscan-debugsource": "hyperscan",
-    "hyperscan-devel": "hyperscan"
+    "hwloc-help": "hwloc"
   }
 }

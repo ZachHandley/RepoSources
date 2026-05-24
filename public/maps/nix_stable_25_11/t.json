@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "t",
-    "total_mappings": 305
+    "total_mappings": 303
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -133,7 +133,6 @@
     "tf-summarize": "tf-summarize",
     "tfautomv": "tfautomv",
     "tfk8s": "tfk8s",
-    "tflint": "tflint",
     "tfmigrate": "tfmigrate",
     "tfsec": "tfsec",
     "tfsort": "tfsort",
@@ -201,7 +200,6 @@
     "toast": "toast",
     "todo-txt-cli": "todo-txt",
     "todo.txt-cli": "todo-txt",
-    "todoist": "todoist-cli",
     "todoman": "todoman",
     "tofu-ls": "tofu-ls",
     "toilet": "toilet",

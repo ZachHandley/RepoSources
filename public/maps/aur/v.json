@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "v",
-    "total_mappings": 156
+    "total_mappings": 158
   },
   "mappings": {
     "v": "v",
@@ -22,6 +22,7 @@
     "valabind-git": "valabind",
     "vale-git": "vale",
     "valgrind-git": "valgrind",
+    "validatornu": "vnu",
     "valijson-git": "valijson",
     "valkey-git": "valkey",
     "vampire": "vampire",
@@ -34,6 +35,7 @@
     "vapoursynth-plugin-descale-git": "vapoursynth-descale",
     "vapoursynth-plugin-imwri-git": "vapoursynth-imwri",
     "vapoursynth-plugin-ocr-git": "vapoursynth-ocr",
+    "vcfanno": "vcfanno",
     "vcflib": "vcflib",
     "vcflib-git": "vcflib",
     "vcftools": "vcftools",

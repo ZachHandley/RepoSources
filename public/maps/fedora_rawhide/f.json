@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "f",
-    "total_mappings": 307
+    "total_mappings": 310
   },
   "mappings": {
     "FAudio": "faudio",
@@ -125,6 +125,9 @@
     "flamegraph-stackcollapse": "flamegraph",
     "flamegraph-stackcollapse-perf": "flamegraph",
     "flamegraph-stackcollapse-php": "flamegraph",
+    "flann": "flann",
+    "flann-devel": "flann",
+    "flann-static": "flann",
     "flashrom": "flashrom",
     "flashrom-devel": "flashrom",
     "flatbuffers": "flatbuffers",

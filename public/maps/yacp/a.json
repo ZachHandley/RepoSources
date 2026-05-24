@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "a",
-    "total_mappings": 67
+    "total_mappings": 66
   },
   "mappings": {
     "AMQP-CPP": "amqp-cpp",
@@ -72,7 +72,6 @@
     "aws-checksums": "aws-checksums",
     "aws-crt-cpp": "aws-crt-cpp",
     "aws-sdk-cpp": "aws-sdk-cpp",
-    "axel": "axel",
-    "azure-storage-cpp": "azure-storage-cpp"
+    "axel": "axel"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "s",
-    "total_mappings": 320
+    "total_mappings": 316
   },
   "mappings": {
     "SDL2_image": "sdl2_image",
@@ -86,10 +86,6 @@
     "sextractor": "sextractor",
     "sextractor-debuginfo": "sextractor",
     "sextractor-debugsource": "sextractor",
-    "sfsexp": "sfsexp",
-    "sfsexp-debuginfo": "sfsexp",
-    "sfsexp-debugsource": "sfsexp",
-    "sfsexp-devel": "sfsexp",
     "shapelib": "shapelib",
     "shapelib-debuginfo": "shapelib",
     "shapelib-debugsource": "shapelib",

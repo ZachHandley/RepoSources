@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "n",
@@ -69,7 +69,7 @@
     "net-libs/mbedtls": "mbedtls@3",
     "net-libs/miniupnpc": "miniupnpc",
     "net-libs/neon": "neon",
-    "net-libs/nettle": "nettle",
+    "net-libs/nettle": "nettle@3",
     "net-libs/nghttp2": "libnghttp2",
     "net-libs/nghttp3": "libnghttp3",
     "net-libs/nodejs": "node@24",

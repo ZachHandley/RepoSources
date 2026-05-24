@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pardus_21",
     "shard": "d",
-    "total_mappings": 242
+    "total_mappings": 244
   },
   "mappings": {
     "daemon": "daemon",
@@ -31,6 +31,7 @@
     "dasd-extra-modules-5.10.0-39-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-5.10.0-41-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-5.10.0-42-s390x-di": "linux-headers@6.8",
+    "dasd-extra-modules-5.10.0-43-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-5.10.0-6-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-5.10.0-8-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-3-s390x-di": "linux-headers@6.8",
@@ -39,6 +40,7 @@
     "dasd-modules-5.10.0-39-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-41-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-42-s390x-di": "linux-headers@6.8",
+    "dasd-modules-5.10.0-43-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-6-s390x-di": "linux-headers@6.8",
     "dasd-modules-5.10.0-8-s390x-di": "linux-headers@6.8",
     "dash": "dash-shell",

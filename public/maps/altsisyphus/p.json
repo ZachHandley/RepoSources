@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "p",
-    "total_mappings": 1106
+    "total_mappings": 1103
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -711,12 +711,6 @@
     "python-base": "python@3.9",
     "python-dev": "python@3.14",
     "python-devel-static": "python@3.9",
-    "python-module-gpg": "gpgme",
-    "python-module-gpg-debuginfo": "gpgme",
-    "python-module-ipython": "ipython",
-    "python-module-ktoblzcheck": "ktoblzcheck",
-    "python-module-libxml2": "libxml2",
-    "python-module-libxml2-debuginfo": "libxml2",
     "python-module-pkg_resources": "python-setuptools",
     "python-module-pycairo": "py3cairo",
     "python-module-pycairo-debuginfo": "py3cairo",
@@ -729,7 +723,6 @@
     "python-module-rpm-debuginfo": "rpm",
     "python-module-setuptools": "python-setuptools",
     "python-module-setuptools-docs": "python-setuptools",
-    "python-module-svm": "libsvm",
     "python-modules": "python@3.9",
     "python-modules-bsddb": "python@3.9",
     "python-modules-bsddb-debuginfo": "python@3.9",
@@ -867,6 +860,7 @@
     "python3-module-kaitaistruct": "kaitai-struct-compiler",
     "python3-module-kea": "kea",
     "python3-module-khal": "khal",
+    "python3-module-ktoblzcheck": "ktoblzcheck",
     "python3-module-lasso": "lasso",
     "python3-module-lasso-debuginfo": "lasso",
     "python3-module-ledger": "ledger",
@@ -1099,8 +1093,10 @@
     "python3.14": "python@3.9",
     "python3.14-base": "python@3.9",
     "python3.14-base-debuginfo": "python@3.9",
+    "python3.14-checkinstall": "python@3.9",
     "python3.14-debuginfo": "python@3.9",
     "python3.14-dev": "python@3.9",
+    "python3.14-dev-checkinstall": "python@3.9",
     "python3.14-doc": "python@3.9",
     "python3.14-modules-curses": "python@3.9",
     "python3.14-modules-curses-debuginfo": "python@3.9",
@@ -1110,6 +1106,7 @@
     "python3.14-modules-tkinter-debuginfo": "python@3.9",
     "python3.14-test": "python@3.9",
     "python3.14-test-debuginfo": "python@3.9",
+    "python3.14-together-checkinstall": "python@3.9",
     "python3.14-tools": "python@3.9",
     "pzstd": "zstd",
     "pzstd-debuginfo": "zstd"

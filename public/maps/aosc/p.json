@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "p",
-    "total_mappings": 124
+    "total_mappings": 123
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -87,7 +87,6 @@
     "portaudio+32": "portaudio",
     "portmidi": "portmidi",
     "postgresql": "postgresql@18",
-    "postgresql-13": "postgresql@18",
     "postgresql-14": "postgresql@18",
     "postgresql-15": "postgresql@18",
     "postgresql-16": "postgresql@18",

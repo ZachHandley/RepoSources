@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "e",
-    "total_mappings": 40
+    "total_mappings": 39
   },
   "mappings": {
     "easy-rsa": "easy-rsa",
@@ -20,7 +20,6 @@
     "eccodes-debugsource": "eccodes",
     "eccodes-devel": "eccodes",
     "eccodes-doc": "eccodes",
-    "emacs-notmuch": "notmuch",
     "enchant": "enchant",
     "enchant-debuginfo": "enchant",
     "enchant-debugsource": "enchant",

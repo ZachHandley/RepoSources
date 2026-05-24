@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "a",
-    "total_mappings": 316
+    "total_mappings": 317
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -256,6 +256,7 @@
     "atari800": "atari800",
     "atf": "atf",
     "atf-sh": "atf",
+    "atkmm": "atkmm",
     "atkmm1.6": "atkmm@2.28",
     "atomicparsley": "atomicparsley",
     "atool": "atool",

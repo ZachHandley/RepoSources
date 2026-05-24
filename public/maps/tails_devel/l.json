@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "tails_devel",
+    "shard": "l",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "libevdocument3-4t64": "evince",
+    "libevince-dev": "evince",
+    "libevview3-3t64": "evince",
+    "libgcrypt-bin": "libgcrypt",
+    "libgcrypt-mingw-w64-dev": "libgcrypt",
+    "libgcrypt20": "libgcrypt",
+    "libgcrypt20-dev": "libgcrypt",
+    "libgcrypt20-doc": "libgcrypt",
+    "libgcrypt20-udeb": "libgcrypt"
+  }
+}

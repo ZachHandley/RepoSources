@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "n",
@@ -24,7 +24,7 @@
     "netatalk": "netatalk",
     "netcdf": "netcdf",
     "netpbm": "netpbm",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "newlisp": "newlisp",
     "nexus": "nexus",
     "nfdump": "nfdump",

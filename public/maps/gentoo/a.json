@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "a",
@@ -294,7 +294,7 @@
     "app-editors/zile": "zile",
     "app-emacs/autoconf-mode": "autoconf",
     "app-emacs/doxymacs": "doxymacs",
-    "app-emacs/erlang-mode": "erlang@27",
+    "app-emacs/erlang-mode": "erlang@28",
     "app-emulation/bochs": "bochs",
     "app-emulation/dynamips": "dynamips",
     "app-emulation/faudio": "faudio",

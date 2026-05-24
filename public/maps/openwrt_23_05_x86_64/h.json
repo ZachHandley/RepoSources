@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openwrt_23_05_x86_64",
     "shard": "h",
-    "total_mappings": 16
+    "total_mappings": 14
   },
   "mappings": {
     "halog": "haproxy@2.8",
@@ -20,8 +20,6 @@
     "httping": "httping",
     "httping-nossl": "httping",
     "hwclock": "gnu-getopt",
-    "hwloc-utils": "hwloc",
-    "hyperscan-headers": "hyperscan",
-    "hyperscan-runtime": "hyperscan"
+    "hwloc-utils": "hwloc"
   }
 }

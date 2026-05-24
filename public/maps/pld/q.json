@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "q",
-    "total_mappings": 66
+    "total_mappings": 67
   },
   "mappings": {
     "Qt5Keychain": "qtkeychain",
@@ -71,6 +71,7 @@
     "qt6": "qt@5",
     "quazip": "quazip",
     "quickjs": "quickjs",
+    "quickjs-ng": "quickjs-ng",
     "quotatool": "quotatool",
     "qwt": "qwt"
   }

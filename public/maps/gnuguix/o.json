@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "o",
-    "total_mappings": 92
+    "total_mappings": 93
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -36,6 +36,7 @@
     "omake": "omake",
     "omega": "omega",
     "onednn": "onednn",
+    "onefetch": "onefetch",
     "onetbb": "tbb",
     "oniguruma": "oniguruma",
     "onnx": "onnx",
@@ -63,7 +64,7 @@
     "openh264": "openh264",
     "openhmd": "openhmd",
     "openimageio": "openimageio",
-    "openjdk": "openjdk@21",
+    "openjdk": "openjdk@25",
     "openjpeg": "openjpeg",
     "openldap": "openldap",
     "openlibm": "openlibm",

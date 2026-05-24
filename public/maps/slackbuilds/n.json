@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "n",
-    "total_mappings": 257
+    "total_mappings": 258
   },
   "mappings": {
     "network/2ping": "twoping",
@@ -170,6 +170,7 @@
     "network/proxytunnel": "proxytunnel",
     "network/pure-ftpd": "pure-ftpd",
     "network/putty": "putty",
+    "network/pwntools": "pwntools",
     "network/qodem": "qodem",
     "network/radvd": "radvd",
     "network/rclone": "rclone",

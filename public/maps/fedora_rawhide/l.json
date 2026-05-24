@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "l",
-    "total_mappings": 1825
+    "total_mappings": 1824
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -1682,6 +1682,8 @@
     "lldpd": "lldpd",
     "lldpd-devel": "lldpd",
     "llhttp": "llhttp",
+    "llhttp-debuginfo": "llhttp",
+    "llhttp-debugsource": "llhttp",
     "llhttp-devel": "llhttp",
     "llvm": "llvm@21",
     "llvm-cmake-utils": "llvm@21",
@@ -1760,9 +1762,6 @@
     "log4cplus": "log4cplus",
     "log4cplus-devel": "log4cplus",
     "log4cplus-static": "log4cplus",
-    "log4cpp": "log4cpp",
-    "log4cpp-devel": "log4cpp",
-    "log4cpp-doc": "log4cpp",
     "log4cxx": "log4cxx",
     "log4cxx-devel": "log4cxx",
     "log4cxx-doc": "log4cxx",

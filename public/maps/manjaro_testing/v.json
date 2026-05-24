@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "v",
-    "total_mappings": 72
+    "total_mappings": 73
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -27,6 +27,7 @@
     "vde2": "vde",
     "vdirsyncer": "vdirsyncer",
     "vegeta": "vegeta",
+    "velero": "velero",
     "verilator": "verilator",
     "vhs": "vhs",
     "vice": "vice",

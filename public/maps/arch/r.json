@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "r",
-    "total_mappings": 130
+    "total_mappings": 131
   },
   "mappings": {
     "r": "r",
@@ -14,6 +14,7 @@
     "racket-minimal": "minimal-racket",
     "radamsa": "radamsa",
     "radare2": "radare2",
+    "radicle": "radicle",
     "radvd": "radvd",
     "rage-encryption": "rage",
     "ragel": "ragel",
@@ -130,12 +131,12 @@
     "rust-src": "rust",
     "rust-wasm": "rust",
     "rustic": "rustic",
+    "rustnet": "rustnet",
     "rustscan": "rustscan",
     "rustup": "rustup",
     "rustypaste": "rustypaste",
     "rustypaste-cli": "rustypaste-cli",
     "rxvt-unicode": "rxvt-unicode",
-    "rxvt-unicode-terminfo": "rxvt-unicode",
-    "rye": "rye"
+    "rxvt-unicode-terminfo": "rxvt-unicode"
   }
 }

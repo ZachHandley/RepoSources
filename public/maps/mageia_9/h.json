@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "h",
-    "total_mappings": 131
+    "total_mappings": 128
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -134,9 +134,6 @@
     "hydra": "hydra",
     "hydra-debuginfo": "hydra",
     "hydra-debugsource": "hydra",
-    "hydra-gui": "hydra",
-    "hyperscan": "hyperscan",
-    "hyperscan-debuginfo": "hyperscan",
-    "hyperscan-debugsource": "hyperscan"
+    "hydra-gui": "hydra"
   }
 }

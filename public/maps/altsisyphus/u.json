@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "u",
-    "total_mappings": 101
+    "total_mappings": 100
   },
   "mappings": {
     "u-boot-tools": "u-boot-tools",
@@ -103,7 +103,6 @@
     "util-linux-debuginfo": "gnu-getopt",
     "uudeview": "uudeview",
     "uudeview-debuginfo": "uudeview",
-    "uudeview-doc": "uudeview",
     "uuidd": "gnu-getopt",
     "uuidd-debuginfo": "gnu-getopt",
     "uwsgi": "uwsgi",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubi_8",
     "shard": "n",
@@ -12,7 +12,7 @@
     "ncurses": "ncurses",
     "net-snmp": "net-snmp",
     "net-tools": "net-tools",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "nftables": "nftables",
     "nghttp2": "nghttp2",
     "nginx": "nginx",

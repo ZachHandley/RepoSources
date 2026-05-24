@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "e",
@@ -92,8 +92,8 @@
     "epic5": "epic5",
     "epoll-shim": "epoll-shim",
     "epubcheck": "epubcheck",
-    "erlang": "erlang@27",
-    "erlang-wx": "erlang@27",
+    "erlang": "erlang@28",
+    "erlang-wx": "erlang@28",
     "esbuild": "esbuild",
     "espeak": "espeak",
     "etl": "etl",

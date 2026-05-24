@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "x",
-    "total_mappings": 100
+    "total_mappings": 98
   },
   "mappings": {
     "x-cmd": "x-cmd",
@@ -28,8 +28,6 @@
     "xcb-proto-git": "xcb-proto",
     "xcb-util-cursor-git": "xcb-util-cursor",
     "xclip-git": "xclip",
-    "xcp": "xcp",
-    "xcp-git": "xcp",
     "xdelta": "xdelta",
     "xdg-ninja": "xdg-ninja",
     "xdg-ninja-git": "xdg-ninja",

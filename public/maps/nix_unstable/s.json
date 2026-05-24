@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "s",
-    "total_mappings": 515
+    "total_mappings": 516
   },
   "mappings": {
     "SDL": "sdl12-compat",
@@ -65,8 +65,8 @@
     "saxonb_9_1": "saxon-b",
     "sbcl": "sbcl",
     "sbcl_2_4_6": "sbcl",
-    "sbcl_2_6_1": "sbcl",
     "sbcl_2_6_3": "sbcl",
+    "sbcl_2_6_4": "sbcl",
     "sblim-sfcc": "sblim-sfcc",
     "sbom-tool": "sbom-tool",
     "sbt": "sbt",
@@ -301,6 +301,7 @@
     "sourceHighlight": "source-highlight",
     "sourcery": "sourcery",
     "sox": "sox",
+    "sox_ng": "sox_ng",
     "soxr": "libsoxr",
     "spacer": "spacer",
     "spades": "spades",

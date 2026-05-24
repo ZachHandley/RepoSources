@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "c",
-    "total_mappings": 298
+    "total_mappings": 299
   },
   "mappings": {
     "CImg": "cimg",
@@ -237,6 +237,7 @@
     "composer8.2": "composer",
     "composer8.3": "composer",
     "composer8.4": "composer",
+    "composer8.5": "composer",
     "comrak": "comrak",
     "confuse": "confuse",
     "confuse-devel": "confuse",

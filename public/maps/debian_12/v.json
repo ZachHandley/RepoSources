@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_12",
     "shard": "v",
-    "total_mappings": 124
+    "total_mappings": 126
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -29,6 +29,8 @@
     "vc": "vc",
     "vc-dev": "vc",
     "vcdimager": "vcdimager",
+    "vcfanno": "vcfanno",
+    "vcfanno-examples": "vcfanno",
     "vcftools": "vcftools",
     "vcsh": "vcsh",
     "vde-switch": "vde",

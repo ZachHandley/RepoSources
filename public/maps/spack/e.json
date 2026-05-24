@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "e",
@@ -23,7 +23,7 @@
     "environment-modules": "modules",
     "enzyme": "enzyme",
     "erfa": "erfa",
-    "erlang": "erlang@27",
+    "erlang": "erlang@28",
     "etcd": "etcd",
     "exempi": "exempi",
     "exiv2": "exiv2",

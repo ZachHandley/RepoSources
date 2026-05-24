@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_20_04",
     "shard": "l",
-    "total_mappings": 6327
+    "total_mappings": 6329
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1396,6 +1396,10 @@
     "libeccodes-doc": "eccodes",
     "libeccodes-tools": "eccodes",
     "libeccodes0": "eccodes",
+    "libecm-dev": "gmp-ecm",
+    "libecm1": "gmp-ecm",
+    "libecm1-dev": "gmp-ecm",
+    "libecm1-dev-common": "gmp-ecm",
     "libecore-audio1": "efl",
     "libecore-avahi1": "efl",
     "libecore-bin": "efl",
@@ -2470,7 +2474,7 @@
     "libhmsbeagle-dev": "beagle",
     "libhmsbeagle-java": "beagle",
     "libhmsbeagle1v5": "beagle",
-    "libhogweed5": "nettle",
+    "libhogweed5": "nettle@3",
     "libhpdf-2.3.0": "libharu",
     "libhpdf-dev": "libharu",
     "libhsail-rt-10-dev": "gcc@14",
@@ -2493,8 +2497,6 @@
     "libhwloc-plugins": "hwloc",
     "libhwloc15": "hwloc",
     "libhx509-5-heimdal": "heimdal",
-    "libhyperscan-dev": "hyperscan",
-    "libhyperscan5": "hyperscan",
     "libhypre": "hypre",
     "libhypre-dev": "hypre",
     "libi2c-dev": "i2c-tools",
@@ -3552,7 +3554,7 @@
     "libnetpbm9-dev": "netpbm",
     "libnetsvcs-6.4.5": "ace",
     "libnetsvcs-dev": "ace",
-    "libnettle7": "nettle",
+    "libnettle7": "nettle@3",
     "libnewt-dev": "newt",
     "libnewt-pic": "newt",
     "libnewt0.52": "newt",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "w",
-    "total_mappings": 130
+    "total_mappings": 129
   },
   "mappings": {
     "WiiUse": "wiiuse",
@@ -116,7 +116,6 @@
     "wordgrinder": "wordgrinder",
     "wordnet": "wordnet",
     "wormhole-william": "wormhole-william",
-    "wownero": "wownero",
     "wp-cli": "wp-cli",
     "wpebackend-fdo": "wpebackend-fdo",
     "wrangler": "wrangler",

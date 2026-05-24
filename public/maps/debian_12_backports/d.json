@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_12_backports",
     "shard": "d",
-    "total_mappings": 182
+    "total_mappings": 201
   },
   "mappings": {
     "dar": "dar",
@@ -18,6 +18,7 @@
     "dasd-extra-modules-6.12.74+deb12-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-6.12.85+deb12-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-6.12.86+deb12-s390x-di": "linux-headers@6.8",
+    "dasd-extra-modules-6.12.88+deb12-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-6.5.0-0.deb12.4-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.12.43+deb12-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.12.57+deb12-s390x-di": "linux-headers@6.8",
@@ -27,6 +28,7 @@
     "dasd-modules-6.12.74+deb12-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.12.85+deb12-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.12.86+deb12-s390x-di": "linux-headers@6.8",
+    "dasd-modules-6.12.88+deb12-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.5.0-0.deb12.4-s390x-di": "linux-headers@6.8",
     "datatype99": "datatype99",
     "debuginfod": "elfutils",
@@ -188,6 +190,23 @@
     "drm-core-modules-6.12.86+deb12-powerpc64le-di": "linux-headers@6.8",
     "drm-core-modules-6.12.86+deb12-riscv64-di": "linux-headers@6.8",
     "drm-core-modules-6.12.86+deb12-sparc64-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-4kc-malta-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-5kc-malta-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-alpha-generic-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-amd64-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-armmp-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-loong64-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-loongson-3-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-mips32r2eb-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-mips32r2el-di,drm-core-modules-6.12.88+deb12-mips64r2eb-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-mips64r2el-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-mips64r6el-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-octeon-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-powerpc-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-powerpc64-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-powerpc64le-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-riscv64-di": "linux-headers@6.8",
+    "drm-core-modules-6.12.88+deb12-sparc64-di": "linux-headers@6.8",
     "duplicity": "duplicity"
   }
 }

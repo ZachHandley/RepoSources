@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "p",
-    "total_mappings": 811
+    "total_mappings": 809
   },
   "mappings": {
     "p0f": "p0f",
@@ -103,8 +103,6 @@
     "pdsh": "pdsh",
     "peco": "peco",
     "peg": "peg",
-    "pelican": "pelican",
-    "pelican-doc": "pelican",
     "perceptualdiff": "perceptualdiff",
     "percona-toolkit": "percona-toolkit",
     "percona-xtrabackup": "percona-xtrabackup",

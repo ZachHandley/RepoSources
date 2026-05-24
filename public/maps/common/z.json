@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "z",
-    "total_mappings": 1064
+    "total_mappings": 1066
   },
   "mappings": {
     "Z shell": "zsh",
@@ -187,7 +187,6 @@
     "zabbix34-agent-debuginfo": "zabbix",
     "zabbix34-agent-sudo": "zabbix",
     "zabbix4": "zabbix",
-    "zabbix4-agent": "zabbix",
     "zabbix4-frontend": "zabbix",
     "zabbix40.agent": "zabbix",
     "zabbix40.proxy-mysql": "zabbix",
@@ -197,7 +196,6 @@
     "zabbix40.server-mysql": "zabbix",
     "zabbix40.web": "zabbix",
     "zabbix5": "zabbix",
-    "zabbix5-agent": "zabbix",
     "zabbix5-frontend": "zabbix",
     "zabbix5.0": "zabbix",
     "zabbix5.0-agent": "zabbix",
@@ -416,6 +414,7 @@
     "zero-install": "zero-install",
     "zero-install-debuginfo": "zero-install",
     "zero-install-debugsource": "zero-install",
+    "zeroc-dsnode": "ice",
     "zeroc-glacier2": "ice",
     "zeroc-ice": "ice",
     "zeroc-ice-all-dev": "ice",
@@ -435,8 +434,10 @@
     "zeroc-icegrid": "ice",
     "zeroc-icegridgui": "ice",
     "zeroc-icepatch2": "ice",
+    "zeroc-icestorm": "ice",
     "zeroclaw": "zeroclaw",
     "zeroclaw-bin": "zeroclaw",
+    "zeroclaw-git": "zeroclaw",
     "zeroinstall": "zero-install",
     "zeroinstall-injector": "zero-install",
     "zeromq": "zeromq",
@@ -525,6 +526,7 @@
     "zig0.8-bin": "zig@0.15",
     "zig0.9-bin": "zig@0.15",
     "zig014": "zig@0.15",
+    "zig015": "zig@0.15",
     "zig13": "zig@0.15",
     "zig_0_10": "zig@0.15",
     "zig_0_11": "zig@0.15",

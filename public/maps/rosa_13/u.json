@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "u",
-    "total_mappings": 88
+    "total_mappings": 92
   },
   "mappings": {
     "uade": "uade",
@@ -66,6 +66,8 @@
     "unshield-debuginfo": "unshield",
     "unshield-debugsource": "unshield",
     "unzip": "unzip",
+    "unzip-debuginfo": "unzip",
+    "unzip-debugsource": "unzip",
     "uptimed": "uptimed",
     "uptimed-debuginfo": "uptimed",
     "uptimed-debugsource": "uptimed",
@@ -76,6 +78,8 @@
     "urlview": "urlview",
     "usbip": "linux-headers@6.8",
     "usbip-client": "linux-headers@6.8",
+    "usbip-debuginfo": "linux-headers@6.8",
+    "usbip-debugsource": "linux-headers@6.8",
     "usbip-server": "linux-headers@6.8",
     "usbredir": "usbredir",
     "usbredir-devel": "usbredir",

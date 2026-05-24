@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "b",
-    "total_mappings": 137
+    "total_mappings": 136
   },
   "mappings": {
     "babeld": "babeld",
@@ -138,7 +138,6 @@
     "bsdtar": "libarchive",
     "bsdtar-noopenssl": "libarchive",
     "bspatch": "bsdiff",
-    "btop": "btop",
     "btrfs-progs": "btrfs-progs",
     "bwm-ng": "bwm-ng",
     "byobu": "byobu",

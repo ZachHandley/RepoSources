@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_games_tumbleweed",
     "shard": "p",
-    "total_mappings": 33
+    "total_mappings": 34
   },
   "mappings": {
     "pachi-go": "pachi",
@@ -39,6 +39,7 @@
     "puzzles": "puzzles",
     "puzzles-debuginfo": "puzzles",
     "puzzles-debugsource": "puzzles",
-    "python-freenect": "libfreenect"
+    "python-freenect": "libfreenect",
+    "python3-pybullet": "bullet"
   }
 }

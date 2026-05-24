@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "x",
-    "total_mappings": 227
+    "total_mappings": 226
   },
   "mappings": {
     "x11/clisp-gtk2": "clisp",
@@ -182,7 +182,6 @@
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
     "xclip": "xclip",
-    "xcp": "xcp",
     "xcursorgen": "xcursorgen",
     "xdelta": "xdelta",
     "xdelta3": "xdelta",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "p",
-    "total_mappings": 345
+    "total_mappings": 346
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -66,8 +66,8 @@
     "programming/language/go": "go@1.25",
     "programming/language/guile3": "guile",
     "programming/language/java/fastjar": "fastjar",
-    "programming/language/java/java-openjdk": "openjdk@21",
-    "programming/language/java/java8-openjdk": "openjdk@21",
+    "programming/language/java/java-openjdk": "openjdk@25",
+    "programming/language/java/java8-openjdk": "openjdk@25",
     "programming/language/java/mozjs": "spidermonkey@115",
     "programming/language/java/mozjs-102": "spidermonkey@115",
     "programming/language/java/mozjs-128": "spidermonkey@115",
@@ -289,6 +289,7 @@
     "programming/misc/xerces-c": "xerces-c",
     "programming/misc/xsd": "xsd",
     "programming/misc/yajl": "yajl",
+    "programming/php/composer": "composer",
     "programming/php/php": "php@8.4",
     "programming/php/php8": "php@8.4",
     "programming/profiler/valgrind": "valgrind",

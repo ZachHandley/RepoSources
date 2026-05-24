@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "q",
-    "total_mappings": 567
+    "total_mappings": 571
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -55,6 +55,9 @@
     "qhull": "qhull",
     "qhull-bin": "qhull",
     "qjackctl": "qjackctl",
+    "qjs": "quickjs-ng",
+    "qjs-doc": "quickjs-ng",
+    "qjs-src": "quickjs-ng",
     "qmake6": "qt@5",
     "qmake6-bin": "qt@5",
     "qman": "qman",
@@ -565,6 +568,7 @@
     "quantlib": "quantlib",
     "quantlib-examples": "quantlib",
     "quickjs": "quickjs",
+    "quickjs-ng": "quickjs-ng",
     "quicktime-utils": "libquicktime",
     "quicktime-x11utils": "libquicktime",
     "quilt": "quilt",

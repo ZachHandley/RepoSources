@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "g",
-    "total_mappings": 427
+    "total_mappings": 428
   },
   "mappings": {
     "g++": "gcc@14",
@@ -285,9 +285,10 @@
     "gpgme": "gpgme",
     "gpgme-dbginfo": "gpgme",
     "gpgme-devel": "gpgme",
-    "gpgme-qt": "gpgme",
-    "gpgme-qt-devel": "gpgme",
     "gpgme-qt6": "gpgme",
+    "gpgmepp": "gpgmepp",
+    "gpgmepp-dbginfo": "gpgmepp",
+    "gpgmepp-devel": "gpgmepp",
     "gphoto2": "gphoto2",
     "gphoto2-dbginfo": "gphoto2",
     "gpsbabel": "gpsbabel",

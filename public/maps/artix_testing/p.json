@@ -1,19 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "p",
-    "total_mappings": 8
+    "total_mappings": 1
   },
   "mappings": {
-    "pdal": "pdal",
-    "perf": "linux-headers@6.8",
-    "podofo": "podofo",
-    "podofo-tools": "podofo",
-    "postgis": "postgis",
-    "python-gdal": "gdal",
-    "python-poetry": "poetry",
-    "python-pyarrow": "apache-arrow"
+    "pnpm": "pnpm@10"
   }
 }

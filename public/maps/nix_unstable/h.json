@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "h",
-    "total_mappings": 218
+    "total_mappings": 211
   },
   "mappings": {
     "h2": "h2",
@@ -45,10 +45,8 @@
     "haskell-language-server": "haskell-language-server",
     "haskell.compiler.ghc902Binary": "ghc@9.8",
     "haskell.compiler.ghc910": "ghc@9.8",
-    "haskell.compiler.ghc9102": "ghc@9.8",
     "haskell.compiler.ghc9103": "ghc@9.8",
     "haskell.compiler.ghc912": "ghc@9.8",
-    "haskell.compiler.ghc9122": "ghc@9.8",
     "haskell.compiler.ghc9123": "ghc@9.8",
     "haskell.compiler.ghc9124": "ghc@9.8",
     "haskell.compiler.ghc914": "ghc@9.8",
@@ -62,10 +60,8 @@
     "haskell.compiler.ghc984Binary": "ghc@9.8",
     "haskell.compiler.ghcHEAD": "ghc@9.8",
     "haskell.compiler.native-bignum.ghc910": "ghc@9.8",
-    "haskell.compiler.native-bignum.ghc9102": "ghc@9.8",
     "haskell.compiler.native-bignum.ghc9103": "ghc@9.8",
     "haskell.compiler.native-bignum.ghc912": "ghc@9.8",
-    "haskell.compiler.native-bignum.ghc9122": "ghc@9.8",
     "haskell.compiler.native-bignum.ghc9123": "ghc@9.8",
     "haskell.compiler.native-bignum.ghc9124": "ghc@9.8",
     "haskell.compiler.native-bignum.ghc914": "ghc@9.8",
@@ -94,7 +90,7 @@
     "haskellPackages.hpack_0_39_1": "hpack",
     "haskellPackages.hpack_0_39_3": "hpack",
     "haskellPackages.pandoc": "pandoc",
-    "haskellPackages.pandoc_3_9": "pandoc",
+    "haskellPackages.pandoc_3_9_0_2": "pandoc",
     "haskellPackages.stack": "haskell-stack",
     "haskellPackages.thrift": "thrift",
     "hatari": "hatari",
@@ -102,8 +98,6 @@
     "havn": "havn",
     "hawkeye": "hawkeye",
     "haxe": "haxe",
-    "haxe_4_0": "haxe",
-    "haxe_4_1": "haxe",
     "haxe_4_3": "haxe",
     "hayagriva": "hayagriva",
     "hbase": "hbase",
@@ -221,7 +215,6 @@
     "hy": "hy",
     "hyfetch": "hyfetch",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hypre": "hypre",
     "hysteria": "hysteria",
     "hyx": "hyx"

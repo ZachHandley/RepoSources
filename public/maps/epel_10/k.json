@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "k",
-    "total_mappings": 74
+    "total_mappings": 75
   },
   "mappings": {
     "kcat": "kcat",
     "kcat-debuginfo": "kcat",
     "kcat-debugsource": "kcat",
+    "keychain": "keychain",
     "keydb": "keydb",
     "keydb-debuginfo": "keydb",
     "keydb-debugsource": "keydb",

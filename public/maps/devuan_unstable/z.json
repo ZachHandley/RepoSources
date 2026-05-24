@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "z",
-    "total_mappings": 101
+    "total_mappings": 102
   },
   "mappings": {
     "z3": "z3",
@@ -31,6 +31,7 @@
     "zenity": "zenity",
     "zenity-common": "zenity",
     "zenmap": "nmap",
+    "zeroc-dsnode": "ice",
     "zeroc-glacier2": "ice",
     "zeroc-ice": "ice",
     "zeroc-ice-all-dev": "ice",
@@ -41,14 +42,14 @@
     "zeroc-icebox": "ice",
     "zeroc-icebridge": "ice",
     "zeroc-icegrid": "ice",
-    "zeroc-icegridgui": "ice",
-    "zeroc-icepatch2": "ice",
+    "zeroc-icestorm": "ice",
     "zeroinstall-injector": "zero-install",
     "zeromq3": "zeromq",
     "zfind": "zfind",
     "zfp": "zfp",
     "zile": "zile",
     "zim": "zim",
+    "zimfw": "zimfw",
     "zimg": "zimg",
     "zint": "zint",
     "zint-qt": "zint",

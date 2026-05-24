@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "t",
-    "total_mappings": 69
+    "total_mappings": 70
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -27,6 +27,7 @@
     "tcsh": "tcsh",
     "tdb": "tdb",
     "telegraf": "telegraf",
+    "template-glib": "template-glib",
     "termcolor": "termcolor",
     "terraform-ls": "terraform-ls",
     "tesseract": "tesseract",

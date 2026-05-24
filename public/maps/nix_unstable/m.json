@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "m",
-    "total_mappings": 346
+    "total_mappings": 348
   },
   "mappings": {
     "MHonArc": "mhonarc",
@@ -18,6 +18,7 @@
     "macmon": "macmon",
     "mactop": "mactop",
     "macvim": "macvim",
+    "mado": "mado",
     "maeparser": "maeparser",
     "mafft": "mafft",
     "mage": "mage",
@@ -80,6 +81,7 @@
     "massdns": "massdns",
     "massren": "massren",
     "mat2": "mat2",
+    "matcha": "matcha",
     "matio": "libmatio",
     "matplotlib": "python-matplotlib",
     "matterbridge": "matterbridge",
@@ -90,7 +92,7 @@
     "maxima": "maxima",
     "maxima-ecl": "maxima",
     "mbedtls": "mbedtls@3",
-    "mbedtls_2": "mbedtls@3",
+    "mbedtls_4": "mbedtls@3",
     "mbelib": "mbelib",
     "mbpoll": "mbpoll",
     "mbt": "mbt",
@@ -201,6 +203,7 @@
     "minizip": "minizip",
     "minizip-ng": "minizip-ng",
     "mise": "mise",
+    "mist-cli": "mist-cli",
     "mistral-vibe": "mistral-vibe",
     "mit-scheme": "mit-scheme",
     "mit-scheme-x11": "mit-scheme",
@@ -286,7 +289,6 @@
     "mp3val": "mp3val",
     "mp4v2": "mp4v2",
     "mpack": "mpack",
-    "mpage": "mpage",
     "mpc": "mpc",
     "mpd": "mpd",
     "mpd-small": "mpd",

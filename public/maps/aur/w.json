@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "w",
@@ -147,7 +147,6 @@
     "worktrunk-bin": "worktrunk",
     "wormhole-william": "wormhole-william",
     "wormhole-william-bin": "wormhole-william",
-    "wownero-git": "wownero",
     "wp-cli-git": "wp-cli",
     "wpebackend-fdo-git": "wpebackend-fdo",
     "wput-git": "wput",
@@ -157,6 +156,7 @@
     "wrk": "wrk",
     "wrkflw": "wrkflw",
     "wrkflw-bin": "wrkflw",
+    "wrkflw-git": "wrkflw",
     "wsk-git": "wsk",
     "wskdeploy-git": "wskdeploy",
     "wstunnel": "wstunnel",

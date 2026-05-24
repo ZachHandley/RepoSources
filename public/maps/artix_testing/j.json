@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "j",
     "total_mappings": 1
   },
   "mappings": {
-    "java-batik": "batik"
+    "jenkins": "jenkins"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "h",
-    "total_mappings": 55
+    "total_mappings": 54
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -60,7 +60,6 @@
     "hydra-gui": "hydra",
     "hyperestraier": "hyperestraier",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hyx": "hyx"
   }
 }

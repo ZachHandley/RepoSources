@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "h",
-    "total_mappings": 68
+    "total_mappings": 67
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -68,7 +68,6 @@
     "hut": "hut",
     "hwloc": "hwloc",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hypre": "hypre",
     "hypre_2_20_0-gnu-mpich-hpc": "hypre",
     "hypre_2_20_0-gnu-mvapich2-hpc": "hypre",

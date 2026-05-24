@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "n",
@@ -122,8 +122,8 @@
     "netpbm-debuginfo": "netpbm",
     "netris": "netris",
     "netris-debuginfo": "netris",
-    "nettle": "nettle",
-    "nettle-debuginfo": "nettle",
+    "nettle": "nettle@3",
+    "nettle-debuginfo": "nettle@3",
     "newlisp": "newlisp",
     "newlisp-debuginfo": "newlisp",
     "newlisp-doc": "newlisp",

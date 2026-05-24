@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "l",
-    "total_mappings": 247
+    "total_mappings": 245
   },
   "mappings": {
     "lame": "lame",
@@ -229,12 +229,10 @@
     "linux-api-headers": "linux-headers@6.8",
     "liveMedia": "openrtsp",
     "lld": "lld@21",
-    "lld20": "llvm@21",
     "lld21": "llvm@21",
     "lldb": "llvm@21",
     "llhttp": "llhttp",
     "llvm": "llvm@21",
-    "llvm20": "llvm@21",
     "llvm21": "llvm@21",
     "lmdb": "lmdb",
     "loudmouth": "loudmouth",

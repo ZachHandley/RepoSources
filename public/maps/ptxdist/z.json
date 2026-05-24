@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ptxdist",
     "shard": "z",
-    "total_mappings": 6
+    "total_mappings": 5
   },
   "mappings": {
     "zbar": "zbar",
     "zint": "zint",
     "zip": "zip",
     "zlib": "zlib",
-    "zstd": "zstd",
-    "zsync": "zsync"
+    "zstd": "zstd"
   }
 }

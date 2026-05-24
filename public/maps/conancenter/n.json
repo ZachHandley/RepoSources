@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "n",
@@ -15,7 +15,7 @@
     "ncurses": "ncurses",
     "net-snmp": "net-snmp",
     "netcdf": "netcdf",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "nghttp3": "libnghttp3",
     "ninja": "ninja",
     "nlohmann_json": "nlohmann-json",

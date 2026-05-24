@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "e",
@@ -16,7 +16,7 @@
     "emacs": "emacs",
     "enchant": "enchant",
     "enchant1": "enchant",
-    "erlang": "erlang@27",
+    "erlang": "erlang@28",
     "esbuild": "esbuild",
     "espeak-ng": "espeak-ng",
     "evdev-proto": "linux-headers@6.8",

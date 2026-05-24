@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "g",
-    "total_mappings": 742
+    "total_mappings": 746
   },
   "mappings": {
     "g++": "gcc@14",
@@ -69,8 +69,10 @@
     "gdal-bash-completion": "gdal",
     "gdal-dev": "gdal",
     "gdal-doc": "gdal",
+    "gdal-driver-adbc": "gdal",
     "gdal-driver-all": "gdal",
     "gdal-driver-arrow": "gdal",
+    "gdal-driver-avif": "gdal",
     "gdal-driver-basisu_ktx2": "gdal",
     "gdal-driver-cad": "gdal",
     "gdal-driver-carto": "gdal",
@@ -316,6 +318,8 @@
     "gitea": "gitea",
     "gitea-doc": "gitea",
     "gitea-openrc": "gitea",
+    "gitea-runner": "gitea-runner",
+    "gitea-runner-openrc": "gitea-runner",
     "gitg": "gitg",
     "gitg-dev": "gitg",
     "gitg-doc": "gitg",

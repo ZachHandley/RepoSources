@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "a",
-    "total_mappings": 127
+    "total_mappings": 128
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -100,6 +100,7 @@
     "atool": "atool",
     "atop": "atop",
     "attr": "attr",
+    "atuin": "atuin",
     "aubio": "aubio",
     "audacious": "audacious",
     "augeas": "augeas",

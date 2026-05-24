@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "r",
-    "total_mappings": 27
+    "total_mappings": 28
   },
   "mappings": {
     "radare2": "radare2",
@@ -29,6 +29,7 @@
     "rust-clippy": "rust",
     "rust-doc": "rust",
     "rust-gdb": "rust",
+    "rust-jaq": "jaq",
     "rust-lldb": "rust",
     "rust-llvm": "rust",
     "rust-src": "rust",

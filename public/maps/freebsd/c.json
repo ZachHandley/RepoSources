@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "c",
-    "total_mappings": 386
+    "total_mappings": 387
   },
   "mappings": {
+    "Carla": "carla",
     "ChaiScript": "chaiscript",
     "ChipmunkPhysics": "chipmunk-physics",
     "Clipper2": "clipper2",

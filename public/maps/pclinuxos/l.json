@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "l",
-    "total_mappings": 395
+    "total_mappings": 396
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -252,6 +252,7 @@
     "libshumate": "libshumate",
     "libsidplayfp": "libsidplayfp",
     "libsigc++": "libsigc++@2",
+    "libsigc++2.0": "libsigc++@2",
     "libsignal-protocol-c": "libsignal-protocol-c",
     "libsigsegv": "libsigsegv",
     "libsixel": "libsixel",

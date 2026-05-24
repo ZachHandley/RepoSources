@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "o",
-    "total_mappings": 74
+    "total_mappings": 75
   },
   "mappings": {
     "office/BibTool": "bib-tool",
@@ -80,6 +80,7 @@
     "office/when": "when",
     "office/wordgrinder": "wordgrinder",
     "office/xpdf3": "xpdf",
-    "office/zim": "zim"
+    "office/zim": "zim",
+    "office/zk": "zk"
   }
 }

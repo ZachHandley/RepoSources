@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "h",
@@ -25,9 +25,9 @@
     "heimdal-servers": "heimdal",
     "help2man": "help2man",
     "hevea": "hevea",
-    "hfs-modules-6.18.24-m68k-di": "linux-headers@6.8",
-    "hfs-modules-6.18.24-powerpc-di": "linux-headers@6.8",
-    "hfs-modules-6.18.24-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-6.18.31-m68k-di": "linux-headers@6.8",
+    "hfs-modules-6.18.31-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-6.18.31-powerpc64-di": "linux-headers@6.8",
     "hicolor-icon-theme": "hicolor-icon-theme",
     "highway": "highway",
     "highway-doc": "highway",
@@ -44,7 +44,7 @@
     "hwloc": "hwloc",
     "hwloc-nox": "hwloc",
     "hyperv-daemons": "linux-headers@6.8",
-    "hypervisor-modules-6.18.24-powerpc64-di": "linux-headers@6.8",
-    "hypervisor-modules-6.18.24-powerpc64le-di": "linux-headers@6.8"
+    "hypervisor-modules-6.18.31-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-6.18.31-powerpc64le-di": "linux-headers@6.8"
   }
 }

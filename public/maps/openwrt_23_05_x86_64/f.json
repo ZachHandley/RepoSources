@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openwrt_23_05_x86_64",
     "shard": "f",
-    "total_mappings": 832
+    "total_mappings": 831
   },
   "mappings": {
     "faad2": "faad2",
@@ -42,7 +42,7 @@
     "feeds/base/package/libs/libxml2": "libxml2",
     "feeds/base/package/libs/mbedtls": "mbedtls@3",
     "feeds/base/package/libs/ncurses": "ncurses",
-    "feeds/base/package/libs/nettle": "nettle",
+    "feeds/base/package/libs/nettle": "nettle@3",
     "feeds/base/package/libs/openssl": "openssl@4",
     "feeds/base/package/libs/pcre2": "pcre2",
     "feeds/base/package/libs/popt": "popt",
@@ -92,7 +92,7 @@
     "feeds/packages/devel/patch": "gpatch",
     "feeds/packages/devel/pkgconf": "pkgconf",
     "feeds/packages/lang/chicken-scheme": "chicken",
-    "feeds/packages/lang/erlang": "erlang@27",
+    "feeds/packages/lang/erlang": "erlang@28",
     "feeds/packages/lang/golang/golang": "go@1.25",
     "feeds/packages/lang/lpeg": "lpeg",
     "feeds/packages/lang/luajit": "luajit",
@@ -144,7 +144,6 @@
     "feeds/packages/libs/hidapi": "hidapi",
     "feeds/packages/libs/hiredis": "hiredis",
     "feeds/packages/libs/hwloc": "hwloc",
-    "feeds/packages/libs/hyperscan": "hyperscan",
     "feeds/packages/libs/icu": "icu4c@78",
     "feeds/packages/libs/inih": "inih",
     "feeds/packages/libs/jose": "jose",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "deepin_23",
     "shard": "l",
-    "total_mappings": 5281
+    "total_mappings": 5282
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1940,7 +1940,7 @@
     "libhighlight-perl": "highlight",
     "libhiredis-dev": "hiredis",
     "libhiredis1.1.0": "hiredis",
-    "libhogweed6": "nettle",
+    "libhogweed6": "nettle@3",
     "libhowardhinnant-date-dev": "howard-hinnant-date",
     "libhpdf-2.3.0": "libharu",
     "libhpdf-dev": "libharu",
@@ -2802,7 +2802,7 @@
     "libnetpbm-dev": "netpbm",
     "libnetpbm11": "netpbm",
     "libnetsnmptrapd40": "net-snmp",
-    "libnettle8": "nettle",
+    "libnettle8": "nettle@3",
     "libnewt-dev": "newt",
     "libnewt-pic": "newt",
     "libnewt0.52": "newt",
@@ -3719,6 +3719,7 @@
     "librust-bat-dev": "bat",
     "librust-bkt-dev": "bkt",
     "librust-blake3-dev": "b3sum",
+    "librust-cargo-binutils-dev": "cargo-binutils",
     "librust-cargo-c-dev": "cargo-c",
     "librust-cbindgen+clap-dev": "cbindgen",
     "librust-cbindgen-dev": "cbindgen",

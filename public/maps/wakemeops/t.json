@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "wakemeops",
     "shard": "t",
-    "total_mappings": 8
+    "total_mappings": 7
   },
   "mappings": {
     "terraform-docs": "terraform-docs",
     "terragrunt": "terragrunt",
     "terrascan": "terrascan",
-    "tflint": "tflint",
     "tokei": "tokei",
     "trivy": "trivy",
     "ttyd": "ttyd",

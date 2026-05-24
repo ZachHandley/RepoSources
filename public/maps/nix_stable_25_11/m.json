@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "m",
-    "total_mappings": 318
+    "total_mappings": 320
   },
   "mappings": {
     "m-cli": "m-cli",
@@ -16,6 +16,7 @@
     "macmon": "macmon",
     "mactop": "mactop",
     "macvim": "macvim",
+    "mado": "mado",
     "maeparser": "maeparser",
     "mafft": "mafft",
     "mage": "mage",
@@ -83,6 +84,7 @@
     "maxima-ecl": "maxima",
     "mbedtls": "mbedtls@3",
     "mbedtls_2": "mbedtls@3",
+    "mbedtls_4": "mbedtls@3",
     "mbelib": "mbelib",
     "mbpoll": "mbpoll",
     "mbt": "mbt",

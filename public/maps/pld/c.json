@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "c",
-    "total_mappings": 163
+    "total_mappings": 162
   },
   "mappings": {
     "CCfits": "ccfits",
     "CGAL": "cgal",
     "CImg": "cimg",
     "CLI11": "cli11",
-    "CUnit": "cunit",
     "CharLS": "charls",
     "Clipper2": "clipper2",
     "Coin": "coin3d",

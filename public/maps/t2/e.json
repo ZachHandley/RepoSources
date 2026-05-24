@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "e",
@@ -31,7 +31,7 @@
     "epeg": "epeg",
     "epic5": "epic5",
     "epr": "epr",
-    "erlang-otp": "erlang@27",
+    "erlang-otp": "erlang@28",
     "esbuild": "esbuild",
     "espeak": "espeak",
     "ettercap": "ettercap",

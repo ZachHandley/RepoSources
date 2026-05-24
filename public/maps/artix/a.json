@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "a",
-    "total_mappings": 96
+    "total_mappings": 97
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -47,6 +47,7 @@
     "apr": "apr",
     "apr-util": "apr-util",
     "aqbanking": "aqbanking",
+    "arduino-cli": "arduino-cli",
     "argon2": "argon2",
     "argyllcms": "argyll-cms",
     "aria2": "aria2",

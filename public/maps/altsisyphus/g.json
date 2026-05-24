@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "g",
-    "total_mappings": 974
+    "total_mappings": 978
   },
   "mappings": {
     "GLEW": "glew",
@@ -196,6 +196,8 @@
     "gdbgui": "gdbgui",
     "gdbgui-docs": "gdbgui",
     "gdbm": "gdbm",
+    "gdbm-debuginfo": "gdbm",
+    "gdbm3": "gdbm",
     "gdbserver": "aarch64-elf-gdb",
     "gdbserver-debuginfo": "aarch64-elf-gdb",
     "gdcm": "gdcm",
@@ -692,6 +694,8 @@
     "gmic-zart": "gmic",
     "gmic-zart-debuginfo": "gmic",
     "gmp": "gmp",
+    "gmp-ecm": "gmp-ecm",
+    "gmp-ecm-debuginfo": "gmp-ecm",
     "gmp3info": "mp3info",
     "gmp3info-debuginfo": "mp3info",
     "gmsh": "gmsh",
@@ -800,8 +804,8 @@
     "gonzo-debuginfo": "gonzo",
     "google-java-format": "google-java-format",
     "googletest": "googletest",
-    "goose": "goose",
-    "goose-debuginfo": "goose",
+    "goose": "block-goose-cli",
+    "goose-debuginfo": "block-goose-cli",
     "gopass": "gopass",
     "gopass-debuginfo": "gopass",
     "gopls": "gopls",
@@ -903,9 +907,9 @@
     "gron": "gron",
     "gron-debuginfo": "gron",
     "grpc": "grpc",
+    "grpc-grpc-tools-ruby-protoc": "grpc",
     "grpc-plugins": "grpc",
     "grpc-plugins-debuginfo": "grpc",
-    "grpc-tools-ruby-protoc": "grpc",
     "grpc1.70": "grpc",
     "grpcurl": "grpcurl",
     "grpcurl-debuginfo": "grpcurl",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "c",
-    "total_mappings": 558
+    "total_mappings": 560
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -38,8 +38,10 @@
     "capstone-tool": "capstone",
     "cargo": "rust",
     "cargo-auditable": "cargo-auditable",
+    "cargo-binutils": "cargo-binutils",
     "cargo-c": "cargo-c",
     "cargo-doc": "rust",
+    "cargo-outdated": "cargo-outdated",
     "carton": "carton",
     "casablanca": "cpprestsdk",
     "castxml": "castxml",

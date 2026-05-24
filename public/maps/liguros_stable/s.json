@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "s",
-    "total_mappings": 477
+    "total_mappings": 478
   },
   "mappings": {
     "sci-astronomy/cdsclient": "cdsclient",
@@ -182,6 +182,7 @@
     "sci-mathematics/fricas": "fricas",
     "sci-mathematics/ginac": "ginac",
     "sci-mathematics/glpk": "glpk",
+    "sci-mathematics/gmp-ecm": "gmp-ecm",
     "sci-mathematics/jags": "jags",
     "sci-mathematics/kissat": "kissat",
     "sci-mathematics/lpsolve": "lp_solve",

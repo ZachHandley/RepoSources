@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "tails_devel",
+    "shard": "g",
+    "total_mappings": 1
+  },
+  "mappings": {
+    "gir1.2-evince-3.0": "evince"
+  }
+}

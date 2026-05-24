@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_20_04",
     "shard": "r",
-    "total_mappings": 229
+    "total_mappings": 230
   },
   "mappings": {
     "r-base": "r",
@@ -208,6 +208,7 @@
     "rust-1.80-src": "rust",
     "rust-all": "rust",
     "rust-bat": "bat",
+    "rust-cargo-outdated": "cargo-outdated",
     "rust-cbindgen": "cbindgen",
     "rust-clippy": "rust",
     "rust-doc": "rust",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "t",
@@ -30,6 +30,7 @@
     "tdb": "tdb",
     "tea": "tea",
     "tealdeer": "tealdeer",
+    "teamtype": "teamtype",
     "tectonic": "tectonic",
     "teensy-loader-cli": "teensy_loader_cli",
     "teensy_loader_cli": "teensy_loader_cli",
@@ -54,7 +55,6 @@
     "texinfo": "texinfo",
     "texlab": "texlab",
     "texlive-bin": "texlive",
-    "tflint": "tflint",
     "tgpt": "tgpt",
     "the_silver_searcher": "the_silver_searcher",
     "thefuck": "thefuck",

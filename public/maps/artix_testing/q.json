@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "artix_testing",
+    "shard": "q",
+    "total_mappings": 2
+  },
+  "mappings": {
+    "qt5-sensors": "qt@5",
+    "qt5-webchannel": "qt@5"
+  }
+}

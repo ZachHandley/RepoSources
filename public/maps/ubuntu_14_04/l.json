@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "l",
-    "total_mappings": 5801
+    "total_mappings": 5803
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1058,6 +1058,8 @@
     "libebml4": "libebml",
     "libecasoundc-dev": "ecasound",
     "libecasoundc1": "ecasound",
+    "libecm-dev": "gmp-ecm",
+    "libecm0": "gmp-ecm",
     "libecpg-compat3": "postgresql@18",
     "libecpg-dev": "postgresql@18",
     "libecpg6": "postgresql@18",
@@ -2043,7 +2045,7 @@
     "libhivex-ocaml-dev": "hivex",
     "libhivex0": "hivex",
     "libhivex0-dbg": "hivex",
-    "libhogweed2": "nettle",
+    "libhogweed2": "nettle@3",
     "libhpdf-2.2.1": "libharu",
     "libhpdf-dev": "libharu",
     "libhtmlcxx-dev": "htmlcxx",
@@ -3002,7 +3004,7 @@
     "libnetpbm9-dev": "netpbm",
     "libnetsvcs-6.0.3": "ace",
     "libnetsvcs-dev": "ace",
-    "libnettle4": "nettle",
+    "libnettle4": "nettle@3",
     "libnfc": "libnfc",
     "libnfc-bin": "libnfc",
     "libnfc-dev": "libnfc",

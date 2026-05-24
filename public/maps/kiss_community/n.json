@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kiss_community",
     "shard": "n",
@@ -12,7 +12,7 @@
     "ncdu1": "ncdu",
     "neomutt": "neomutt",
     "neovim": "neovim",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "nftables": "nftables",
     "nmap": "nmap",
     "npth": "npth",

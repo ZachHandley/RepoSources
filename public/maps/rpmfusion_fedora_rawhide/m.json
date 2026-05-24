@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "rpmfusion_fedora_rawhide",
     "shard": "m",
-    "total_mappings": 19
+    "total_mappings": 18
   },
   "mappings": {
     "mencoder": "mplayer",
@@ -20,7 +20,6 @@
     "mingw64-libmad-debuginfo": "mad",
     "mmsrip": "mmsrip",
     "moc": "moc",
-    "mpd": "mpd",
     "mpgtx": "mpgtx",
     "mplayer": "mplayer",
     "mplayer-common": "mplayer",

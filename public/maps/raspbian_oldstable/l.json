@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "raspbian_oldstable",
     "shard": "l",
-    "total_mappings": 7392
+    "total_mappings": 7395
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1556,6 +1556,10 @@
     "libeccodes0": "eccodes",
     "libecl-dev": "ecl",
     "libecl21.2": "ecl",
+    "libecm-dev": "gmp-ecm",
+    "libecm1": "gmp-ecm",
+    "libecm1-dev": "gmp-ecm",
+    "libecm1-dev-common": "gmp-ecm",
     "libecore-audio1": "efl",
     "libecore-bin": "efl",
     "libecore-con1": "efl",
@@ -2700,7 +2704,7 @@
     "libhmsbeagle-dev": "beagle",
     "libhmsbeagle-java": "beagle",
     "libhmsbeagle1v5": "beagle",
-    "libhogweed6": "nettle",
+    "libhogweed6": "nettle@3",
     "libhowardhinnant-date-dev": "howard-hinnant-date",
     "libhpdf-2.3.0": "libharu",
     "libhpdf-dev": "libharu",
@@ -2727,8 +2731,6 @@
     "libhwy-dev": "highway",
     "libhwy1": "highway",
     "libhx509-5-heimdal": "heimdal",
-    "libhyperscan-dev": "hyperscan",
-    "libhyperscan5": "hyperscan",
     "libhypre-2.26.0": "hypre",
     "libhypre-dev": "hypre",
     "libhypre64-2.26.0": "hypre",
@@ -3898,7 +3900,7 @@
     "libnetsnmptrapd40": "net-snmp",
     "libnetsvcs-7.0.8": "ace",
     "libnetsvcs-dev": "ace",
-    "libnettle8": "nettle",
+    "libnettle8": "nettle@3",
     "libnewt-dev": "newt",
     "libnewt-pic": "newt",
     "libnewt0.52": "newt",
@@ -5235,6 +5237,7 @@
     "libruby3.1": "ruby@3.4",
     "librust-bat-dev": "bat",
     "librust-blake3-dev": "b3sum",
+    "librust-cargo-binutils-dev": "cargo-binutils",
     "librust-cargo-c-dev": "cargo-c",
     "librust-cbindgen+clap-dev": "cbindgen",
     "librust-cbindgen-dev": "cbindgen",

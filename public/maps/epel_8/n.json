@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "n",
-    "total_mappings": 44
+    "total_mappings": 43
   },
   "mappings": {
     "nagios": "nagios",
@@ -40,7 +40,6 @@
     "nnn": "nnn",
     "no-more-secrets": "no-more-secrets",
     "notcurses": "notcurses",
-    "notmuch": "notmuch",
     "nqp": "nqp",
     "nrpe": "nrpe",
     "nsd": "nsd",

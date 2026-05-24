@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "n",
-    "total_mappings": 266
+    "total_mappings": 260
   },
   "mappings": {
     "nagios": "nagios",
@@ -225,12 +225,6 @@
     "notcurses-devel": "notcurses",
     "notcurses-static": "notcurses",
     "notcurses-utils": "notcurses",
-    "notmuch": "notmuch",
-    "notmuch-debuginfo": "notmuch",
-    "notmuch-debugsource": "notmuch",
-    "notmuch-devel": "notmuch",
-    "notmuch-mutt": "notmuch",
-    "notmuch-vim": "notmuch",
     "nqp": "nqp",
     "nrpe": "nrpe",
     "nrpe-debuginfo": "nrpe",

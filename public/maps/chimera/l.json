@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "l",
-    "total_mappings": 1265
+    "total_mappings": 1264
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -506,9 +506,7 @@
     "libmediainfo-doc": "libmediainfo",
     "libmicrohttpd": "libmicrohttpd",
     "libmicrohttpd-devel": "libmicrohttpd",
-    "libmicrohttpd-devel-man": "libmicrohttpd",
     "libmicrohttpd-devel-static": "libmicrohttpd",
-    "libmicrohttpd-doc": "libmicrohttpd",
     "libmikmod": "libmikmod",
     "libmikmod-devel": "libmikmod",
     "libmikmod-devel-doc": "libmikmod",
@@ -1197,6 +1195,7 @@
     "lm-sensors-devel-static": "lm-sensors",
     "lm-sensors-libs": "lm-sensors",
     "lm-sensors-man": "lm-sensors",
+    "lm-sensors-zshcomp": "lm-sensors",
     "lmdb": "lmdb",
     "lmdb-devel": "lmdb",
     "lmdb-doc": "lmdb",

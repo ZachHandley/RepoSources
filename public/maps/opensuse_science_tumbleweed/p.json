@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "p",
@@ -25,6 +25,7 @@
     "pcl-doc": "pcl",
     "pcl-tools": "pcl",
     "petsc": "petsc",
+    "petsc-data": "petsc",
     "petsc-debuginfo": "petsc",
     "petsc-debugsource": "petsc",
     "petsc-devel": "petsc",
@@ -76,7 +77,6 @@
     "python-scipy-debugsource": "scipy",
     "python3-GDAL": "gdal",
     "python3-adios2": "adios2",
-    "python3-arpack-ng": "arpack",
     "python3-bitwuzla": "bitwuzla",
     "python3-gmsh": "gmsh",
     "python3-lammps": "lammps",

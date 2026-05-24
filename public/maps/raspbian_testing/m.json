@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "m",
-    "total_mappings": 429
+    "total_mappings": 431
   },
   "mappings": {
     "m4": "m4",
@@ -213,6 +213,7 @@
     "minimodem": "minimodem",
     "minisat": "minisat",
     "minisat2": "minisat",
+    "miniserve": "miniserve",
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minix-modules-6.19.6+2-sh7751r-di": "linux-headers@6.8",
@@ -237,6 +238,7 @@
     "mlir-18-tools": "llvm@21",
     "mlir-19-tools": "llvm@21",
     "mlir-21-tools": "llvm@21",
+    "mlir-22-tools": "llvm@21",
     "mlpack": "mlpack",
     "mlpack-bin": "mlpack",
     "mlpack-doc": "mlpack",

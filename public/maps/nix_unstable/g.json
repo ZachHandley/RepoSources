@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "g",
-    "total_mappings": 543
+    "total_mappings": 544
   },
   "mappings": {
     "g-ls": "g-ls",
@@ -68,7 +68,6 @@
     "geckodriver": "geckodriver",
     "gecode": "gecode",
     "gecode_3": "gecode",
-    "gecode_6": "gecode",
     "gedit": "gedit",
     "geeqie": "geeqie",
     "geesefs": "geesefs",
@@ -98,6 +97,7 @@
     "gettext": "gettext",
     "getxbook": "getxbook",
     "gexiv2": "gexiv2",
+    "gexiv2_0_16": "gexiv2",
     "gflags": "gflags",
     "gfold": "gfold",
     "gforth": "gforth",
@@ -360,6 +360,7 @@
     "golangci-lint": "golangci-lint",
     "golangci-lint-langserver": "golangci-lint-langserver",
     "golines": "golines",
+    "gollama": "gollama",
     "gom": "gom",
     "gomi": "gomi",
     "gomodifytags": "gomodifytags",
@@ -373,6 +374,7 @@
     "google-authenticator-libpam": "google-authenticator-libpam",
     "google-java-format": "google-java-format",
     "goose": "goose",
+    "goose-cli": "block-goose-cli",
     "gopass": "gopass",
     "gopass-jsonapi": "gopass-jsonapi",
     "gopeed": "gopeed",
@@ -503,7 +505,6 @@
     "gtk4": "gtk4",
     "gtkdatabox": "gtkdatabox",
     "gtkglext": "gtkglext",
-    "gtkgnutella": "gtk-gnutella",
     "gtkmm": "gtkmm",
     "gtkmm2": "gtkmm",
     "gtkmm3": "gtkmm3",

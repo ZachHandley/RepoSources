@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_04",
     "shard": "c",
-    "total_mappings": 529
+    "total_mappings": 531
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -46,7 +46,9 @@
     "cargo-1.85": "rust",
     "cargo-1.85-doc": "rust",
     "cargo-auditable": "cargo-auditable",
+    "cargo-binutils": "cargo-binutils",
     "cargo-c": "cargo-c",
+    "cargo-outdated": "cargo-outdated",
     "carla": "carla",
     "carla-bridge-linux32": "carla",
     "carla-bridge-linux64": "carla",

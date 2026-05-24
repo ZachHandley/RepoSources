@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "d",
-    "total_mappings": 256
+    "total_mappings": 257
   },
   "mappings": {
     "daemon": "daemon",
@@ -262,6 +262,7 @@
     "dynamips": "dynamips",
     "dynare": "dynare",
     "dynare-doc": "dynare",
-    "dynare-matlab": "dynare"
+    "dynare-matlab": "dynare",
+    "dysk": "dysk"
   }
 }

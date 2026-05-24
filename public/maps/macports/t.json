@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "t",
-    "total_mappings": 434
+    "total_mappings": 431
   },
   "mappings": {
     "TinySVM": "tinysvm",
@@ -168,7 +168,6 @@
     "textproc/htmldoc": "htmldoc",
     "textproc/hunspell": "hunspell",
     "textproc/hyperestraier": "hyperestraier",
-    "textproc/hyperscan": "hyperscan",
     "textproc/icdiff": "icdiff",
     "textproc/idnits": "idnits",
     "textproc/igrep": "igrep",
@@ -338,7 +337,6 @@
     "textproc/zsv": "zsv",
     "tfenv": "tfenv",
     "tfk8s": "tfk8s",
-    "tflint": "tflint",
     "tfmigrate": "tfmigrate",
     "tfmv": "tfmv",
     "tfsec": "tfsec",
@@ -381,7 +379,6 @@
     "tnftp": "tnftp",
     "tnftpd": "tnftpd",
     "toast": "toast",
-    "todoist-cli": "todoist-cli",
     "todotxt": "todo-txt",
     "toilet": "toilet",
     "tokei": "tokei",

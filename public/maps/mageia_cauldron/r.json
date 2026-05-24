@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "r",
-    "total_mappings": 332
+    "total_mappings": 333
   },
   "mappings": {
     "R-base": "r",
@@ -285,6 +285,7 @@
     "rust-cbindgen-devel": "cbindgen",
     "rust-debugger-common": "rust",
     "rust-doc": "rust",
+    "rust-dysk": "dysk",
     "rust-eza": "eza",
     "rust-fd-find": "fd",
     "rust-gdb": "rust",

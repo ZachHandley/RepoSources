@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_10_proposed",
+    "shard": "r",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "r-base": "r",
+    "r-base-core": "r",
+    "r-base-dev": "r",
+    "r-base-html": "r",
+    "r-cran-arrow": "apache-arrow",
+    "r-doc-html": "r",
+    "r-doc-info": "r",
+    "r-doc-pdf": "r",
+    "r-mathlib": "r",
+    "r-recommended": "r",
+    "rabbitmq-server": "rabbitmq",
+    "rclone": "rclone",
+    "re2": "re2",
+    "redis-module-knot": "knot",
+    "rist-tools": "librist",
+    "rnp": "rnp",
+    "rsync": "rsync",
+    "ruby-grpc": "grpc",
+    "ruby-grpc-tools": "grpc",
+    "ruby-mecab": "mecab",
+    "ruby-notmuch": "notmuch",
+    "ruby-selinux": "libselinux",
+    "runc": "runc",
+    "runit": "runit",
+    "runit-run": "runit",
+    "rust-procs": "procs"
+  }
+}

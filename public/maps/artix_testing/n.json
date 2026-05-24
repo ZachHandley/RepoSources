@@ -1,14 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "n",
-    "total_mappings": 4
+    "total_mappings": 2
   },
   "mappings": {
-    "nettle": "nettle",
-    "nettle3": "nettle",
     "ntfs-3g": "ntfs-3g",
     "ntfsprogs": "ntfs-3g"
   }

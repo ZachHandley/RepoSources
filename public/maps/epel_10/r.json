@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "r",
-    "total_mappings": 619
+    "total_mappings": 623
   },
   "mappings": {
     "R": "r",
@@ -259,7 +259,6 @@
     "rubberband-debuginfo": "rubberband",
     "rubberband-debugsource": "rubberband",
     "rubberband-devel": "rubberband",
-    "ruby-notmuch": "notmuch",
     "rubygem-asciidoctor": "asciidoctor",
     "rubygem-asciidoctor-doc": "asciidoctor",
     "rubygem-ronn-ng": "ronn",
@@ -310,6 +309,11 @@
     "rust-cargo-c-debuginfo": "cargo-c",
     "rust-cargo-c-debugsource": "cargo-c",
     "rust-cargo-c-devel": "cargo-c",
+    "rust-cargo-cyclonedx": "cargo-cyclonedx",
+    "rust-cargo-cyclonedx+default-devel": "cargo-cyclonedx",
+    "rust-cargo-cyclonedx-debuginfo": "cargo-cyclonedx",
+    "rust-cargo-cyclonedx-debugsource": "cargo-cyclonedx",
+    "rust-cargo-cyclonedx-devel": "cargo-cyclonedx",
     "rust-cbindgen": "cbindgen",
     "rust-cbindgen+clap-devel": "cbindgen",
     "rust-cbindgen+default-devel": "cbindgen",

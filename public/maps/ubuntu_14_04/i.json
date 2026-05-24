@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "i",
@@ -28,9 +28,9 @@
     "icecast2": "icecast",
     "icecc": "icecream",
     "icecc-monitor": "icemon",
-    "icedtea-6-jre-cacao": "openjdk@21",
-    "icedtea-6-jre-jamvm": "openjdk@21",
-    "icedtea-7-jre-jamvm": "openjdk@21",
+    "icedtea-6-jre-cacao": "openjdk@25",
+    "icedtea-6-jre-jamvm": "openjdk@25",
+    "icedtea-7-jre-jamvm": "openjdk@25",
     "icegrid-gui": "ice",
     "icnsutils": "libicns",
     "icon-naming-utils": "icon-naming-utils",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "n",
-    "total_mappings": 256
+    "total_mappings": 257
   },
   "mappings": {
     "nacl": "nacl",
@@ -149,7 +149,7 @@
     "nethogs-debugsource": "nethogs",
     "netpbm": "netpbm",
     "netstandard-targeting-pack-2.1": "dotnet@9",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "nfdump": "nfdump",
     "nfdump-debuginfo": "nfdump",
     "nfdump-debugsource": "nfdump",
@@ -204,6 +204,7 @@
     "node_exporter": "node_exporter",
     "nodejs22": "node@24",
     "nodejs24": "node@24",
+    "nodejs26": "node@24",
     "normalize": "normalize",
     "npth": "npth",
     "npth-debuginfo": "npth",

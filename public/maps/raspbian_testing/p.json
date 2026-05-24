@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "p",
-    "total_mappings": 904
+    "total_mappings": 906
   },
   "mappings": {
     "p0f": "p0f",
@@ -647,6 +647,7 @@
     "python3-clang-18": "llvm@21",
     "python3-clang-19": "llvm@21",
     "python3-clang-21": "llvm@21",
+    "python3-clang-22": "llvm@21",
     "python3-cookiecutter": "cookiecutter",
     "python3-cracklib": "cracklib",
     "python3-cram": "cram",
@@ -737,6 +738,7 @@
     "python3-lldb-18": "llvm@21",
     "python3-lldb-19": "llvm@21",
     "python3-lldb-21": "llvm@21",
+    "python3-lldb-22": "llvm@21",
     "python3-llm": "llm",
     "python3-locust": "locust",
     "python3-louis": "liblouis",

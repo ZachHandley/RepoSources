@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "npackd_stable",
     "shard": "o",
@@ -22,7 +22,7 @@
     "org.bunkus.videotools.MKVToolNix": "mkvtoolnix",
     "org.cgsecurity.testdisk.TestDisk": "testdisk",
     "org.cmake.CMake": "cmake",
-    "org.erlang.Erlang": "erlang@27",
+    "org.erlang.Erlang": "erlang@28",
     "org.gnome.glade.Glade": "glade",
     "org.gnome.projects.Evince": "evince",
     "org.gnome.projects.easytag.EasyTAG": "easy-tag",

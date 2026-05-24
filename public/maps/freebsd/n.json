@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "n",
@@ -464,7 +464,7 @@
     "netmask": "netmask",
     "netpbm": "netpbm",
     "netsurf-buildsystem": "netsurf-buildsystem",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "nettoe": "nettoe",
     "newlisp": "newlisp",
     "news/gup": "gup",

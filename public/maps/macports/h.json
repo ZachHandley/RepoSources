@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "h",
-    "total_mappings": 114
+    "total_mappings": 113
   },
   "mappings": {
     "HandBrake": "handbrake",
@@ -118,7 +118,6 @@
     "hyfetch": "hyfetch",
     "hyperestraier": "hyperestraier",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hypre": "hypre",
     "hysteria": "hysteria"
   }

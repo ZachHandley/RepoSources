@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "c",
-    "total_mappings": 518
+    "total_mappings": 519
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -21,6 +21,7 @@
     "canberra-common": "libcanberra",
     "canberra-gtk3": "libcanberra",
     "canfigger": "canfigger",
+    "canfigger-docs": "canfigger",
     "capnproto": "capnp",
     "capnproto-debuginfo": "capnp",
     "capnproto-debugsource": "capnp",

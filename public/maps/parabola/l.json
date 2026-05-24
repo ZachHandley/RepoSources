@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "l",
-    "total_mappings": 644
+    "total_mappings": 642
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -230,7 +230,6 @@
     "libjxl": "jpeg-xl",
     "libjxl-doc": "jpeg-xl",
     "libkate": "libkate",
-    "libkate-docs": "libkate",
     "libkeccak": "libkeccak",
     "libkeyfinder": "libkeyfinder",
     "libkiwix": "libkiwix",
@@ -530,7 +529,6 @@
     "libxml2-docs": "libxml2",
     "libxml2-legacy": "libxml2",
     "libxmlb": "libxmlb",
-    "libxmlrpc": "xmlrpc-c",
     "libxmp": "libxmp",
     "libxmu": "libxmu",
     "libxp": "libxp",

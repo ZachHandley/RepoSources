@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ptxdist",
     "shard": "d",
-    "total_mappings": 18
+    "total_mappings": 15
   },
   "mappings": {
-    "daemonize": "daemonize",
     "dash": "dash-shell",
     "dav1d": "dav1d",
     "db": "berkeley-db@5",
@@ -17,8 +16,6 @@
     "default-jdk": "openjdk",
     "default-jre": "openjdk",
     "dfu-util": "dfu-util",
-    "dhex": "dhex",
-    "dialog": "dialog",
     "diffutils": "diffutils",
     "dnsmasq": "dnsmasq",
     "dosfstools": "dosfstools",

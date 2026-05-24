@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_11",
     "shard": "h",
-    "total_mappings": 148
+    "total_mappings": 152
   },
   "mappings": {
     "h2o": "h2o",
@@ -73,6 +73,9 @@
     "hfs-modules-5.10.0-42-m68k-di": "linux-headers@6.8",
     "hfs-modules-5.10.0-42-powerpc-di": "linux-headers@6.8",
     "hfs-modules-5.10.0-42-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-5.10.0-43-m68k-di": "linux-headers@6.8",
+    "hfs-modules-5.10.0-43-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-5.10.0-43-powerpc64-di": "linux-headers@6.8",
     "hfs-modules-5.10.0-6-m68k-di": "linux-headers@6.8",
     "hfs-modules-5.10.0-6-powerpc-di": "linux-headers@6.8",
     "hfs-modules-5.10.0-6-powerpc64-di": "linux-headers@6.8",
@@ -131,7 +134,6 @@
     "hybrid-dev": "ircd-hybrid",
     "hydra": "hydra",
     "hydra-gtk": "hydra",
-    "hyperscan": "hyperscan",
     "hyperv-daemons": "linux-headers@6.8",
     "hypervisor-modules-5.10.0-3-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-5.10.0-3-powerpc64le-di": "linux-headers@6.8",
@@ -145,6 +147,8 @@
     "hypervisor-modules-5.10.0-41-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-5.10.0-42-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-5.10.0-42-powerpc64le-di": "linux-headers@6.8",
+    "hypervisor-modules-5.10.0-43-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-5.10.0-43-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-5.10.0-6-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-5.10.0-6-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-5.10.0-8-powerpc64-di": "linux-headers@6.8",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "apertis_v2024",
     "shard": "d",
@@ -8,9 +8,9 @@
   },
   "mappings": {
     "dasd-extra-modules-6.6.113-s390x-di": "linux-headers@6.8",
-    "dasd-extra-modules-6.6.137-s390x-di": "linux-headers@6.8",
+    "dasd-extra-modules-6.6.139-s390x-di": "linux-headers@6.8",
     "dasd-modules-6.6.113-s390x-di": "linux-headers@6.8",
-    "dasd-modules-6.6.137-s390x-di": "linux-headers@6.8",
+    "dasd-modules-6.6.139-s390x-di": "linux-headers@6.8",
     "dash": "dash-shell",
     "dav1d": "dav1d",
     "db5.3": "berkeley-db@5",

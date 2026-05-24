@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "r",
-    "total_mappings": 118
+    "total_mappings": 123
   },
   "mappings": {
     "rio": "rio-terminal",
@@ -25,6 +25,8 @@
     "rmz": "fuc",
     "rust-deno": "deno",
     "rust-deno-debugsource": "deno",
+    "rust-dysk": "dysk",
+    "rust-dysk-debugsource": "dysk",
     "rust-eza": "eza",
     "rust-eza+default-devel": "eza",
     "rust-eza+git-devel": "eza",
@@ -122,6 +124,9 @@
     "rust-xplr": "xplr",
     "rust-xplr-debugsource": "xplr",
     "rust-xplr-devel": "xplr",
+    "rustnet": "rustnet",
+    "rustnet-debuginfo": "rustnet",
+    "rustnet-debugsource": "rustnet",
     "rustypaste": "rustypaste",
     "rustypaste-debuginfo": "rustypaste",
     "rustypaste-debugsource": "rustypaste"

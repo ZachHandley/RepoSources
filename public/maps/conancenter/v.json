@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "v",
-    "total_mappings": 11
+    "total_mappings": 12
   },
   "mappings": {
     "valijson": "valijson",
@@ -16,6 +16,7 @@
     "vorbis": "libvorbis",
     "vulkan-headers": "vulkan-headers",
     "vulkan-loader": "vulkan-loader",
+    "vulkan-utility-libraries": "vulkan-utility-libraries",
     "vulkan-validationlayers": "vulkan-validationlayers",
     "vvenc": "vvenc"
   }

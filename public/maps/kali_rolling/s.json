@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "s",
-    "total_mappings": 568
+    "total_mappings": 567
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -19,8 +19,6 @@
     "safe-rm": "safe-rm",
     "safeint": "safeint",
     "saidar": "libstatgrab",
-    "sail": "libsail",
-    "sail-codecs": "libsail",
     "samba": "samba",
     "samba-ad-dc": "samba",
     "samba-ad-provision": "samba",
@@ -269,6 +267,8 @@
     "smpeg": "smpeg",
     "smpeg-plaympeg": "smpeg",
     "sn0int": "sn0int",
+    "snakemake": "snakemake",
+    "snakemake-doc": "snakemake",
     "snap7": "snap7",
     "snapcast": "snapcast",
     "snapclient": "snapcast",
@@ -352,7 +352,6 @@
     "spectra": "spectra",
     "speech-tools": "speech-tools",
     "speech-tools-doc": "speech-tools",
-    "speedtest-cli": "speedtest-cli",
     "speex": "speex",
     "speex-doc": "speex",
     "speexdsp": "speexdsp",

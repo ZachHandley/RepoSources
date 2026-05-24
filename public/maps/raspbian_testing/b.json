@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "b",
-    "total_mappings": 318
+    "total_mappings": 319
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -248,6 +248,7 @@
     "bolt-18": "llvm@21",
     "bolt-19": "llvm@21",
     "bolt-21": "llvm@21",
+    "bolt-22": "llvm@21",
     "bombadillo": "bombadillo",
     "bombardier": "bombardier",
     "bomtool": "pkgconf",

@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ptxdist",
     "shard": "s",
-    "total_mappings": 36
+    "total_mappings": 34
   },
   "mappings": {
     "samba": "samba",
     "screen": "screen",
-    "sdl-gfx": "sdl_gfx",
     "sdl2": "sdl2",
     "sdl2-image": "sdl2_image",
     "sdl2-mixer": "sdl2_mixer",
@@ -40,7 +39,6 @@
     "stress-ng": "stress-ng",
     "strongswan": "strongswan",
     "stunnel": "stunnel",
-    "supertux": "supertux",
     "sysstat": "sysstat",
     "systemd": "systemd"
   }

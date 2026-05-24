@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "g",
-    "total_mappings": 754
+    "total_mappings": 757
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -124,6 +124,7 @@
     "gcc14-devel": "gcc@14",
     "gcc15": "gcc@14",
     "gcc15-devel": "gcc@14",
+    "gcc16": "gcc@14",
     "gcc16-devel": "gcc@14",
     "gcc17-devel": "gcc@14",
     "gcem": "gcem",
@@ -263,6 +264,7 @@
     "gmime26-sharp": "gmime",
     "gmime30": "gmime",
     "gmp": "gmp",
+    "gmp-ecm": "gmp-ecm",
     "gmsh": "gmsh",
     "gmt": "gmt",
     "gnatcross-binutils-aarch64": "aarch64-elf-binutils",
@@ -324,6 +326,7 @@
     "google-ctemplate": "ctemplate",
     "google-perftools": "gperftools",
     "googletest": "googletest",
+    "goose-db-migration-tool": "goose",
     "gopass": "gopass",
     "gopls": "gopls",
     "goredo": "goredo",

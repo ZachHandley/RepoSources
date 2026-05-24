@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "s",
@@ -208,7 +208,7 @@
     "system/base/ncompress": "ncompress",
     "system/base/ncurses": "ncurses",
     "system/base/net-tools": "net-tools",
-    "system/base/nettle": "nettle",
+    "system/base/nettle": "nettle@3",
     "system/base/nspr": "nspr",
     "system/base/openssl": "openssl@4",
     "system/base/openssl-1.1": "openssl@4",

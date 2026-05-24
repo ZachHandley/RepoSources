@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "e",
@@ -29,7 +29,7 @@
     "enchant": "enchant",
     "enchant-2": "enchant",
     "enet": "enet",
-    "erlang": "erlang@27",
+    "erlang": "erlang@28",
     "erofs-utils": "erofs-utils",
     "espeak": "espeak",
     "espeak-ng": "espeak-ng",

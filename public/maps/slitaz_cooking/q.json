@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "q",
-    "total_mappings": 65
+    "total_mappings": 66
   },
   "mappings": {
+    "Qt4": "qt@5",
     "Qt4-dev": "qt@5",
     "Qt4-qca-ossl": "qca",
     "Qt5": "qt@5",

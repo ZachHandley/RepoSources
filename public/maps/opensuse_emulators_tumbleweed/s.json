@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_emulators_tumbleweed",
     "shard": "s",
-    "total_mappings": 7
+    "total_mappings": 6
   },
   "mappings": {
-    "seal": "seal",
     "snow": "snow",
     "snow-debuginfo": "snow",
     "snow-debugsource": "snow",

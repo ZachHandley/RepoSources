@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "g",
-    "total_mappings": 740
+    "total_mappings": 742
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -254,6 +254,7 @@
     "gmime": "gmime",
     "gmime3": "gmime",
     "gmp": "gmp",
+    "gmp-ecm": "gmp-ecm",
     "gmsh": "gmsh",
     "gmt4": "gmt",
     "gmt5": "gmt",
@@ -528,6 +529,7 @@
     "graphics/jp2a": "jp2a",
     "graphics/jpeg": "jpeg",
     "graphics/jpegoptim": "jpegoptim",
+    "graphics/jxrlib": "jxrlib",
     "graphics/lcms": "little-cms2",
     "graphics/lcms2": "little-cms2",
     "graphics/lensfun": "lensfun",

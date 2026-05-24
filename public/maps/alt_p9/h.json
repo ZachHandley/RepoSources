@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alt_p9",
     "shard": "h",
-    "total_mappings": 128
+    "total_mappings": 127
   },
   "mappings": {
     "h2": "h2",
@@ -126,7 +126,6 @@
     "hydra-gtk-debuginfo": "hydra",
     "hydra-pwinspector": "hydra",
     "hydra-pwinspector-debuginfo": "hydra",
-    "hyperscan": "hyperscan",
     "hyperv-daemons": "linux-headers@6.8",
     "hypervfcopyd": "linux-headers@6.8",
     "hypervfcopyd-debuginfo": "linux-headers@6.8",

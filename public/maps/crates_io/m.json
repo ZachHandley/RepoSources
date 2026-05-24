@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "m",
-    "total_mappings": 6
+    "total_mappings": 7
   },
   "mappings": {
     "maturin": "maturin",
     "mdbook": "mdbook",
+    "meli": "meli",
     "mergiraf": "mergiraf",
     "miniserve": "miniserve",
     "mlc": "mlc",

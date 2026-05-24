@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "z",
-    "total_mappings": 100
+    "total_mappings": 102
   },
   "mappings": {
     "z3": "z3",
@@ -31,6 +31,7 @@
     "zenity": "zenity",
     "zenity-common": "zenity",
     "zenmap": "nmap",
+    "zeroc-dsnode": "ice",
     "zeroc-glacier2": "ice",
     "zeroc-ice": "ice",
     "zeroc-ice-all-dev": "ice",
@@ -43,6 +44,7 @@
     "zeroc-icegrid": "ice",
     "zeroc-icegridgui": "ice",
     "zeroc-icepatch2": "ice",
+    "zeroc-icestorm": "ice",
     "zeroinstall-injector": "zero-install",
     "zeromq3": "zeromq",
     "zfind": "zfind",

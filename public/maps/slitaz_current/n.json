@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slitaz_current",
     "shard": "n",
@@ -22,8 +22,8 @@
     "neon-dev": "neon",
     "net-snmp": "net-snmp",
     "net-snmp-dev": "net-snmp",
-    "nettle": "nettle",
-    "nettle-dev": "nettle",
+    "nettle": "nettle@3",
+    "nettle-dev": "nettle@3",
     "ninja": "ninja",
     "npth": "npth",
     "npth-dev": "npth",

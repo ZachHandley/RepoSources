@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "a",
-    "total_mappings": 29
+    "total_mappings": 27
   },
   "mappings": {
     "adios2": "adios2",
@@ -33,8 +33,6 @@
     "ata-modules-7.1-powerpc-di": "linux-headers@6.8",
     "ata-modules-7.1-powerpc64-di,ata-modules-7.1-powerpc64le-di": "linux-headers@6.8",
     "ata-modules-7.1-riscv64-di": "linux-headers@6.8",
-    "ata-modules-7.1-sparc64-di": "linux-headers@6.8",
-    "autoconf": "autoconf",
-    "autoconf-doc": "autoconf"
+    "ata-modules-7.1-sparc64-di": "linux-headers@6.8"
   }
 }

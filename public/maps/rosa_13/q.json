@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "q",
-    "total_mappings": 460
+    "total_mappings": 462
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -163,7 +163,7 @@
     "qjson-qt5-debuginfo": "qjson",
     "qjson-qt5-debugsource": "qjson",
     "qlalr5": "qt@5",
-    "qmake-qt%{qtmajor}": "qt@5",
+    "qmake-qt6": "qt@5",
     "qmake5": "qt@5",
     "qman": "qman",
     "qman-debuginfo": "qman",
@@ -198,7 +198,6 @@
     "qscintilla-qt5-i18n": "qscintilla2",
     "qscintilla-qt6-i18n": "qscintilla2",
     "qstat": "qstat",
-    "qt%{qtmajor}-cmake": "qt@5",
     "qt3": "qt@5",
     "qt3-assistant": "qt@5",
     "qt3-common": "qt@5",
@@ -338,11 +337,14 @@
     "qt5-qtwebview-debugsource": "qt@5",
     "qt5-qtwebview-examples": "qt@5",
     "qt5-qtx11extras": "qt@5",
+    "qt5-qtx11extras-debuginfo": "qt@5",
+    "qt5-qtx11extras-debugsource": "qt@5",
     "qt5-qtxmlpatterns": "qt@5",
     "qt5-qtxmlpatterns-examples": "qt@5",
     "qt5-qtxmlpatterns-i18n": "qt@5",
     "qt5-tools": "qt@5",
     "qt6-assistant": "qt@5",
+    "qt6-cmake": "qt@5",
     "qt6-dbusviewer": "qt@5",
     "qt6-designer": "qt@5",
     "qt6-designer-plugin-libqwt": "qwt",

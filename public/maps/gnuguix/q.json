@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "q",
-    "total_mappings": 67
+    "total_mappings": 68
   },
   "mappings": {
     "qalculate-gtk": "qalculate-gtk",
@@ -71,6 +71,7 @@
     "quazip": "quazip",
     "quazip-qt5": "quazip",
     "quickjs": "quickjs",
+    "quickjs-ng": "quickjs-ng",
     "quilt": "quilt",
     "qwt": "qwt",
     "qxmpp": "qxmpp"

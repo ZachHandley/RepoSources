@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "p",
-    "total_mappings": 408
+    "total_mappings": 410
   },
   "mappings": {
     "PDAL": "pdal",
@@ -122,6 +122,7 @@
     "pipewire-epel-debugsource": "pipewire",
     "pipewire-module-filter-chain-lv2": "pipewire",
     "pipx": "pipx",
+    "pipx+uv": "pipx",
     "pkcs11-helper": "pkcs11-helper",
     "pkcs11-helper-debuginfo": "pkcs11-helper",
     "pkcs11-helper-debugsource": "pkcs11-helper",
@@ -348,10 +349,8 @@
     "python3-mlt": "mlt",
     "python3-mpi4py-mpich": "mpi4py",
     "python3-mpi4py-openmpi": "mpi4py",
-    "python3-mupdf": "mupdf",
     "python3-mypy": "mypy",
     "python3-nanobind": "nanobind",
-    "python3-notmuch2": "notmuch",
     "python3-opencv": "opencv",
     "python3-openvdb": "openvdb",
     "python3-otf2": "otf2",
@@ -411,7 +410,10 @@
     "python3.13-freethreading-debug": "python@3.9",
     "python3.13-idle": "python@3.9",
     "python3.13-libs": "python@3.9",
+    "python3.13-packaging": "python-packaging",
     "python3.13-rpm": "rpm",
+    "python3.13-setuptools": "python-setuptools",
+    "python3.13-setuptools-wheel": "python-setuptools",
     "python3.13-test": "python@3.9",
     "python3.13-tkinter": "python@3.9",
     "python3.14-rpm": "rpm"

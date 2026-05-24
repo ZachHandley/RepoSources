@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "s",
-    "total_mappings": 513
+    "total_mappings": 515
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -194,6 +194,8 @@
     "slang-slsh": "s-lang",
     "slashem": "slashem",
     "sleef": "sleef",
+    "sleef-debuginfo": "sleef",
+    "sleef-debugsource": "sleef",
     "sleef-devel": "sleef",
     "sleef-dft": "sleef",
     "sleef-dft-devel": "sleef",

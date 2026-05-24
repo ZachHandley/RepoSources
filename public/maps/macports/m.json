@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "m",
-    "total_mappings": 563
+    "total_mappings": 568
   },
   "mappings": {
     "MMTabBarView": "mmtabbarview",
@@ -114,6 +114,8 @@
     "mariadb-10.9-server": "mariadb@11.8",
     "mariadb-11.4": "mariadb@11.8",
     "mariadb-11.4-server": "mariadb@11.8",
+    "mariadb-11.8": "mariadb@11.8",
+    "mariadb-11.8-server": "mariadb@11.8",
     "mariadb-server": "mariadb@11.8",
     "marisa-trie": "marisa",
     "marksman": "marksman",
@@ -172,6 +174,7 @@
     "math/gibbslda": "gibbslda",
     "math/ginkgo": "ginkgo",
     "math/glpk": "glpk",
+    "math/gmp-ecm": "gmp-ecm",
     "math/gnuplot": "gnuplot",
     "math/gsl": "gsl",
     "math/gtkdatabox": "gtkdatabox",
@@ -354,6 +357,7 @@
     "mole-cleaner": "mole",
     "mongo-c-driver": "mongo-c-driver@1",
     "mongo-cxx-driver": "mongo-cxx-driver",
+    "mongocli": "mongocli",
     "mongoose": "mongoose",
     "mongrel2": "mongrel2",
     "monit": "monit",
@@ -368,6 +372,7 @@
     "mosml": "mosml",
     "mosquitto": "mosquitto",
     "most": "most",
+    "motif": "openmotif",
     "mox": "mox",
     "mozjpeg": "mozjpeg",
     "mozjs102": "spidermonkey@115",

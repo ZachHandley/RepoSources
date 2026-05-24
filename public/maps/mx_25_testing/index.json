@@ -1,11 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mx_25_testing",
     "shards": [
       "a",
       "b",
+      "c",
       "d",
       "f",
       "g",
@@ -19,8 +20,9 @@
       "t",
       "w",
       "x",
-      "y"
+      "y",
+      "_misc"
     ],
-    "total_mappings": 160
+    "total_mappings": 176
   }
 }

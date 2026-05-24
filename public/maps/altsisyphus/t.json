@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "t",
-    "total_mappings": 283
+    "total_mappings": 282
   },
   "mappings": {
     "TiMidity++": "timidity",
@@ -282,7 +282,6 @@
     "twolame": "two-lame",
     "twolame-debuginfo": "two-lame",
     "txt2man": "txt2man",
-    "txt2tags": "txt2tags",
     "ty": "ruff",
     "ty-debuginfo": "ruff",
     "typespeed": "typespeed",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "c",
-    "total_mappings": 61
+    "total_mappings": 62
   },
   "mappings": {
     "cargo": "rust",
@@ -23,6 +23,8 @@
     "cdrom-core-modules-7.1-s390x-di": "linux-headers@6.8",
     "cdrom-core-modules-7.1-sh7751r-di": "linux-headers@6.8",
     "cdrom-core-modules-7.1-sparc64-di": "linux-headers@6.8",
+    "chawan": "chawan",
+    "chawan-doc": "chawan",
     "clang-20": "llvm@21",
     "clang-20-doc": "llvm@21",
     "clang-20-examples": "llvm@21",
@@ -66,7 +68,6 @@
     "crypto-modules-7.1-s390x-di": "linux-headers@6.8",
     "crypto-modules-7.1-sh7751r-di": "linux-headers@6.8",
     "crypto-modules-7.1-sparc64-di": "linux-headers@6.8",
-    "cubeb": "cubeb",
-    "curl": "curl"
+    "cubeb": "cubeb"
   }
 }

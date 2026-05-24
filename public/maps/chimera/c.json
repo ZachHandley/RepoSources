@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "c",
-    "total_mappings": 280
+    "total_mappings": 283
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -199,6 +199,9 @@
     "cmark-doc": "cmark",
     "cmark-libs": "cmark",
     "cmark-man": "cmark",
+    "cmatrix": "cmatrix",
+    "cmatrix-doc": "cmatrix",
+    "cmatrix-man": "cmatrix",
     "cmocka": "cmocka",
     "cmocka-devel": "cmocka",
     "cmus": "cmus",

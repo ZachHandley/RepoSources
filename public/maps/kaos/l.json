@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kaos",
     "shard": "l",
-    "total_mappings": 236
+    "total_mappings": 234
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -35,7 +35,6 @@
     "libcdio": "libcdio",
     "libcdio-paranoia": "libcdio-paranoia",
     "libcdr": "libcdr",
-    "libclc": "libclc",
     "libconfig": "libconfig",
     "libcroco": "libcroco",
     "libcups": "cups",
@@ -231,7 +230,6 @@
     "linux-next-docs": "linux-headers@6.8",
     "linux-next-headers": "linux-headers@6.8",
     "live-media": "openrtsp",
-    "lldb": "llvm@21",
     "lm_sensors": "lm-sensors",
     "lmdb": "lmdb",
     "logrotate": "logrotate",

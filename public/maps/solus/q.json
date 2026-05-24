@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "q",
-    "total_mappings": 275
+    "total_mappings": 276
   },
   "mappings": {
     "qbe": "qbe",
@@ -41,8 +41,9 @@
     "qrupdate-dbginfo": "qrupdate",
     "qrupdate-devel": "qrupdate",
     "qscintilla": "qscintilla2",
-    "qscintilla-dbginfo": "qscintilla2",
     "qscintilla-devel": "qscintilla2",
+    "qscintilla-qt5": "qscintilla2",
+    "qscintilla-qt6": "qscintilla2",
     "qt5-3d": "qt@5",
     "qt5-3d-dbginfo": "qt@5",
     "qt5-3d-demos": "qt@5",

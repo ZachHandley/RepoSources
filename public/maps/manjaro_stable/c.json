@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "c",
-    "total_mappings": 233
+    "total_mappings": 236
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -50,6 +50,7 @@
     "cargo-geiger": "cargo-geiger",
     "cargo-generate": "cargo-generate",
     "cargo-hack": "cargo-hack",
+    "cargo-insta": "cargo-insta",
     "cargo-llvm-cov": "cargo-llvm-cov",
     "cargo-make": "cargo-make",
     "cargo-msrv": "cargo-msrv",
@@ -196,6 +197,7 @@
     "cpanminus": "cpanminus",
     "cpio": "cpio",
     "cppcheck": "cppcheck",
+    "cpptrace": "cpptrace",
     "cppunit": "cppunit",
     "cpputest": "cpputest",
     "cppzmq": "cppzmq",
@@ -215,6 +217,7 @@
     "cryptol": "cryptol",
     "cryptominisat": "cryptominisat",
     "crystal": "crystal",
+    "crystal-docs": "crystal",
     "cscope": "cscope",
     "csfml": "csfml",
     "csound": "csound",

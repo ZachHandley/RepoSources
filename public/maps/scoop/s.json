@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "s",
-    "total_mappings": 101
+    "total_mappings": 103
   },
   "mappings": {
     "s5cmd": "s5cmd",
@@ -35,6 +35,7 @@
     "sdl2-ttf": "sdl2_ttf",
     "sed": "gnu-sed",
     "selene": "selene",
+    "sendme": "sendme",
     "sentry-cli": "sentry-cli",
     "serverless": "serverless",
     "sfk": "sfk",
@@ -68,6 +69,7 @@
     "spicetify-cli": "spicetify-cli",
     "spotbugs": "spotbugs",
     "spotify-player": "spotify_player",
+    "sq": "sq",
     "sqlc": "sqlc",
     "sqlite": "sqlite",
     "sqlpage": "sqlpage",

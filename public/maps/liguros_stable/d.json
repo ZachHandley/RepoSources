@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "d",
-    "total_mappings": 1078
+    "total_mappings": 1077
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -233,8 +233,8 @@
     "dev-java/leiningen-bin": "leiningen",
     "dev-java/maven-bin": "maven",
     "dev-java/mill-bin": "mill",
-    "dev-java/openjdk": "openjdk@21",
-    "dev-java/openjdk-bin": "openjdk@21",
+    "dev-java/openjdk": "openjdk@25",
+    "dev-java/openjdk-bin": "openjdk@25",
     "dev-java/rhino": "rhino",
     "dev-java/saxon": "saxon",
     "dev-java/sbt": "sbt",
@@ -256,7 +256,7 @@
     "dev-lang/dafny-bin": "dafny",
     "dev-lang/duktape": "duktape",
     "dev-lang/elixir": "elixir",
-    "dev-lang/erlang": "erlang@27",
+    "dev-lang/erlang": "erlang@28",
     "dev-lang/execline": "execline",
     "dev-lang/fennel": "fennel",
     "dev-lang/fpc": "fpc",
@@ -581,8 +581,8 @@
     "dev-libs/nanopb": "nanopb",
     "dev-libs/nativefiledialog-extended": "nativefiledialog-extended",
     "dev-libs/ncnn": "ncnn",
-    "dev-libs/nettle": "nettle",
-    "dev-libs/nettle-compat": "nettle",
+    "dev-libs/nettle": "nettle@3",
+    "dev-libs/nettle-compat": "nettle@3",
     "dev-libs/newt": "newt",
     "dev-libs/nng": "nng",
     "dev-libs/npth": "npth",
@@ -1011,7 +1011,6 @@
     "dev-util/sysprof": "sysprof",
     "dev-util/tailspin": "tailspin",
     "dev-util/tea": "tea",
-    "dev-util/tflint-bin": "tflint",
     "dev-util/tkdiff": "tkdiff",
     "dev-util/tokei": "tokei",
     "dev-util/topiary": "topiary",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "n",
-    "total_mappings": 202
+    "total_mappings": 203
   },
   "mappings": {
     "net-analyzer/ettercap": "ettercap",
@@ -62,6 +62,7 @@
     "net-im/loudmouth": "loudmouth",
     "net-im/pidgin": "pidgin",
     "net-im/qxmpp": "qxmpp",
+    "net-irc/catgirl": "catgirl",
     "net-irc/ii": "ii",
     "net-irc/irssi": "irssi",
     "net-irc/weechat": "weechat",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "stalix",
     "shard": "l",
@@ -259,7 +259,7 @@
     "lib/neon": "neon",
     "lib/net/filter/conntrack": "libnetfilter_conntrack",
     "lib/net/filter/queue": "libnetfilter-queue",
-    "lib/nettle": "nettle",
+    "lib/nettle": "nettle@3",
     "lib/nfnetlink": "libnfnetlink",
     "lib/nft/nl": "libnftnl",
     "lib/ng/http/2": "libnghttp2",

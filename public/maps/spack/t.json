@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "t",
-    "total_mappings": 43
+    "total_mappings": 44
   },
   "mappings": {
     "talloc": "talloc",
+    "talosctl": "talosctl",
     "tar": "gnu-tar",
     "task": "task",
     "taskd": "taskd",

@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "n",
-    "total_mappings": 94
+    "total_mappings": 95
   },
   "mappings": {
     "nagios": "nagios",
     "nano": "nano",
+    "nanoflann": "nanoflann",
     "nanomsg": "nanomsg",
     "nanopb": "nanopb",
     "nasm": "nasm",
@@ -42,7 +43,7 @@
     "nethack": "nethack",
     "nethogs": "nethogs",
     "netpbm": "netpbm",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "newsboat": "newsboat",
     "newsraft": "newsraft",
     "newt": "newt",

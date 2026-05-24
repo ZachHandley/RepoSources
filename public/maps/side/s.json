@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "s",
-    "total_mappings": 165
+    "total_mappings": 163
   },
   "mappings": {
     "SPIRV-Headers": "spirv-headers",
@@ -61,7 +61,6 @@
     "system/base/gmp": "gmp",
     "system/base/gobject-introspection": "gobject-introspection",
     "system/base/gperf": "gperf",
-    "system/base/gperftools": "gperftools",
     "system/base/grep": "grep",
     "system/base/groff": "groff",
     "system/base/guile": "guile",
@@ -113,7 +112,6 @@
     "system/base/liburcu": "userspace-rcu",
     "system/base/liburing": "liburing",
     "system/base/libusb": "libusb",
-    "system/base/libusb-compat": "libusb-compat",
     "system/base/libxcb": "libxcb",
     "system/base/libxcrypt": "libxcrypt",
     "system/base/libxml2": "libxml2",
@@ -131,7 +129,7 @@
     "system/base/ncompress": "ncompress",
     "system/base/ncurses": "ncurses",
     "system/base/net-tools": "net-tools",
-    "system/base/nettle": "nettle",
+    "system/base/nettle": "nettle@3",
     "system/base/nspr": "nspr",
     "system/base/nss": "nss",
     "system/base/openssh": "openssh",

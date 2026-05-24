@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "c",
-    "total_mappings": 409
+    "total_mappings": 410
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -68,6 +68,7 @@
     "capnproto-devel": "capnp",
     "capnproto-libs": "capnp",
     "cargo-c": "cargo-c",
+    "cargo-cyclonedx": "cargo-cyclonedx",
     "castxml": "castxml",
     "castxml-debuginfo": "castxml",
     "castxml-debugsource": "castxml",

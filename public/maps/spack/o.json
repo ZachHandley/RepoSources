@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "o",
-    "total_mappings": 50
+    "total_mappings": 51
   },
   "mappings": {
     "ocaml": "ocaml@4",
@@ -32,7 +32,7 @@
     "openfpgaloader": "openfpgaloader",
     "openfst": "openfst",
     "openimageio": "openimageio",
-    "openjdk": "openjdk@21",
+    "openjdk": "openjdk@25",
     "openjpeg": "openjpeg",
     "openkim-models": "openkim-models",
     "openldap": "openldap",
@@ -53,6 +53,7 @@
     "orc": "orc-tools",
     "orientdb": "orientdb",
     "osi": "osi",
+    "osmosis": "osmosis",
     "ospray": "ospray",
     "osqp": "osqp",
     "ossp-uuid": "ossp-uuid",

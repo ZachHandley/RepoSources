@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "g",
-    "total_mappings": 1931
+    "total_mappings": 1934
   },
   "mappings": {
     "g++-12": "gcc@14",
@@ -782,6 +782,7 @@
     "geocode-glib": "geocode-glib",
     "geocode-glib-common": "geocode-glib",
     "geocode-glib-tests": "geocode-glib",
+    "geogram": "geogram",
     "geographiclib": "geographiclib",
     "geographiclib-doc": "geographiclib",
     "geographiclib-tools": "geographiclib",
@@ -799,6 +800,7 @@
     "gettext-el": "gettext",
     "getty-run": "runit",
     "gexiv2": "gexiv2",
+    "gexiv2-0.14": "gexiv2",
     "gffread": "gffread",
     "gflags": "gflags",
     "gforth": "gforth",
@@ -980,7 +982,7 @@
     "gir1.2-gee-0.8": "libgee",
     "gir1.2-gegl-0.4": "gegl",
     "gir1.2-geocodeglib-2.0": "geocode-glib",
-    "gir1.2-gexiv2-0.10": "gexiv2",
+    "gir1.2-gexiv2-0.16": "gexiv2",
     "gir1.2-gfls-1": "libgedit-gfls",
     "gir1.2-ggit-1.0": "libgit2-glib",
     "gir1.2-girepository-2.0": "gobject-introspection",
@@ -1269,6 +1271,7 @@
     "gmime-bin": "gmime",
     "gmp": "gmp",
     "gmp-doc": "gmp",
+    "gmp-ecm": "gmp-ecm",
     "gmsh": "gmsh",
     "gmsh-doc": "gmsh",
     "gmt": "gmt",

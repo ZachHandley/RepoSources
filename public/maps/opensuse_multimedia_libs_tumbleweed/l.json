@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "l",
-    "total_mappings": 613
+    "total_mappings": 612
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -255,7 +255,6 @@
     "libheif-openh264": "libheif",
     "libheif-openjpeg": "libheif",
     "libheif-rav1e": "libheif",
-    "libheif-svtenc": "libheif",
     "libheif1": "libheif",
     "libid3-3_8-3": "id3lib",
     "libid3tag": "libid3tag",

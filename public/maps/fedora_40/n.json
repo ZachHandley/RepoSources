@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_40",
     "shard": "n",
@@ -276,10 +276,10 @@
     "netscanner": "netscanner",
     "netstandard-targeting-pack-2.1": "dotnet@9",
     "netsurf-buildsystem": "netsurf-buildsystem",
-    "nettle": "nettle",
-    "nettle-debuginfo": "nettle",
-    "nettle-debugsource": "nettle",
-    "nettle-devel": "nettle",
+    "nettle": "nettle@3",
+    "nettle-debuginfo": "nettle@3",
+    "nettle-debugsource": "nettle@3",
+    "nettle-devel": "nettle@3",
     "newlisp": "newlisp",
     "newlisp-debuginfo": "newlisp",
     "newlisp-debugsource": "newlisp",

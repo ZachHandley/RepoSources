@@ -1,14 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "s",
-    "total_mappings": 3
+    "total_mappings": 1
   },
   "mappings": {
-    "sbcl": "sbcl",
-    "spirv-llvm-translator": "spirv-llvm-translator",
-    "starship": "starship"
+    "sox": "sox"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "p",
-    "total_mappings": 115
+    "total_mappings": 117
   },
   "mappings": {
     "p0f": "p0f",
@@ -55,6 +55,7 @@
     "pipx": "pipx",
     "pixie": "pixie",
     "pixman": "pixman",
+    "plog": "plog",
     "plotutils": "plotutils",
     "plplot": "plplot",
     "plutosvg": "plutosvg",
@@ -89,6 +90,7 @@
     "proftpd": "proftpd",
     "proj": "proj",
     "prometheus": "prometheus",
+    "prometheus-node-exporter": "node_exporter",
     "protobuf": "protobuf@33",
     "protobuf-c": "protobuf-c",
     "protozero": "protozero",

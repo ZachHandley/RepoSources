@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "c",
-    "total_mappings": 882
+    "total_mappings": 883
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -131,6 +131,7 @@
     "cargo": "rust",
     "cargo-c": "cargo-c",
     "cargo-deny": "cargo-deny",
+    "cargo-insta": "cargo-insta",
     "castget": "castget",
     "castget-debuginfo": "castget",
     "castget-debugsource": "castget",

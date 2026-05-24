@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "d",
-    "total_mappings": 985
+    "total_mappings": 987
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -217,8 +217,8 @@
     "dev-java/leiningen-bin": "leiningen",
     "dev-java/maven-bin": "maven",
     "dev-java/mill-bin": "mill",
-    "dev-java/openjdk": "openjdk@21",
-    "dev-java/openjdk-bin": "openjdk@21",
+    "dev-java/openjdk": "openjdk@25",
+    "dev-java/openjdk-bin": "openjdk@25",
     "dev-java/rhino": "rhino",
     "dev-java/saxon": "saxon",
     "dev-java/sbt": "sbt",
@@ -239,7 +239,7 @@
     "dev-lang/deno-bin": "deno",
     "dev-lang/duktape": "duktape",
     "dev-lang/elixir": "elixir",
-    "dev-lang/erlang": "erlang@27",
+    "dev-lang/erlang": "erlang@28",
     "dev-lang/execline": "execline",
     "dev-lang/fennel": "fennel",
     "dev-lang/fpc": "fpc",
@@ -545,7 +545,7 @@
     "dev-libs/mxml": "libmxml",
     "dev-libs/nanomsg": "nanomsg",
     "dev-libs/ncnn": "ncnn",
-    "dev-libs/nettle": "nettle",
+    "dev-libs/nettle": "nettle@3",
     "dev-libs/newt": "newt",
     "dev-libs/nng": "nng",
     "dev-libs/npth": "npth",
@@ -574,6 +574,7 @@
     "dev-libs/pugixml": "pugixml",
     "dev-libs/qtkeychain": "qtkeychain",
     "dev-libs/quazip": "quazip",
+    "dev-libs/quickjs-ng": "quickjs-ng",
     "dev-libs/rapidjson": "rapidjson",
     "dev-libs/rasqal": "rasqal",
     "dev-libs/re2": "re2",
@@ -835,6 +836,7 @@
     "dev-util/drone-cli": "drone-cli",
     "dev-util/dwdiff": "dwdiff",
     "dev-util/esbuild": "esbuild",
+    "dev-util/fj-cli": "forgejo-cli",
     "dev-util/flawfinder": "flawfinder",
     "dev-util/ftnchek": "ftnchek",
     "dev-util/gcovr": "gcovr",

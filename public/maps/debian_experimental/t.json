@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "t",
-    "total_mappings": 1
+    "total_mappings": 3
   },
   "mappings": {
-    "tinc": "tinc"
+    "tinc": "tinc",
+    "tree-sitter": "tree-sitter",
+    "tree-sitter-cli": "tree-sitter@0.25"
   }
 }

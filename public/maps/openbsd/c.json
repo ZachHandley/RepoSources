@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "c",
-    "total_mappings": 205
+    "total_mappings": 206
   },
   "mappings": {
     "CGNS": "cgns",
@@ -32,6 +32,7 @@
     "capstone": "capstone",
     "cargo-audit": "cargo-audit",
     "cargo-c": "cargo-c",
+    "cargo-insta": "cargo-insta",
     "castget": "castget",
     "cataclysm-dda": "cataclysm",
     "catch2": "catch2",

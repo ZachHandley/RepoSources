@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "g",
-    "total_mappings": 158
+    "total_mappings": 150
   },
   "mappings": {
     "gawk": "gawk",
@@ -12,13 +12,6 @@
     "gcab": "gcab",
     "gcab-apidocs": "gcab",
     "gcc": "gcc@14",
-    "gcc-c++": "gcc@14",
-    "gcc-cpp": "gcc@14",
-    "gcc-d": "gcc@14",
-    "gcc-doc": "gcc@14",
-    "gcc-fortran": "gcc@14",
-    "gcc-go": "gcc@14",
-    "gcc-m2": "gcc@14",
     "gcr": "gcr",
     "gcr-apidocs": "gcr",
     "gcr3": "gcr",
@@ -110,7 +103,6 @@
     "gocr-debug": "gocr",
     "goffice": "goffice",
     "gource": "gource",
-    "gource-debug": "gource",
     "gperf": "gperf",
     "gperftools": "gperftools",
     "gpgme": "gpgme",

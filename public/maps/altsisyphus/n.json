@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "n",
-    "total_mappings": 280
+    "total_mappings": 282
   },
   "mappings": {
     "nDPI": "ndpi",
@@ -69,6 +69,8 @@
     "navidrome": "navidrome",
     "navidrome-debuginfo": "navidrome",
     "nb": "nb",
+    "nbping": "nbping",
+    "nbping-debuginfo": "nbping",
     "nbsdgames": "nbsdgames",
     "nbsdgames-debuginfo": "nbsdgames",
     "ncdc": "ncdc",
@@ -133,8 +135,8 @@
     "netris": "netris",
     "netris-debuginfo": "netris",
     "netscanner": "netscanner",
-    "nettle": "nettle",
-    "nettle-debuginfo": "nettle",
+    "nettle": "nettle@3",
+    "nettle-debuginfo": "nettle@3",
     "newlisp": "newlisp",
     "newlisp-debuginfo": "newlisp",
     "newlisp-doc": "newlisp",

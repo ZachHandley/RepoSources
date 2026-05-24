@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alpine_3_23",
     "shard": "c",
-    "total_mappings": 556
+    "total_mappings": 558
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -66,6 +66,8 @@
     "cargo-flamegraph-zsh-completion": "cargo-flamegraph",
     "cargo-hack": "cargo-hack",
     "cargo-hack-doc": "cargo-hack",
+    "cargo-insta": "cargo-insta",
+    "cargo-insta-doc": "cargo-insta",
     "cargo-make": "cargo-make",
     "cargo-make-bash-completion": "cargo-make",
     "cargo-nextest": "cargo-nextest",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_05",
     "shard": "g",
-    "total_mappings": 518
+    "total_mappings": 519
   },
   "mappings": {
     "g-ls": "g-ls",
@@ -360,6 +360,7 @@
     "google-authenticator-libpam": "google-authenticator-libpam",
     "google-java-format": "google-java-format",
     "goose": "goose",
+    "goose-cli": "block-goose-cli",
     "gopass": "gopass",
     "gopass-jsonapi": "gopass-jsonapi",
     "gopeed": "gopeed",

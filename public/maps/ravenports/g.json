@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "g",
-    "total_mappings": 74
+    "total_mappings": 73
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -32,7 +32,6 @@
     "git": "git",
     "git-lfs": "git-lfs",
     "gjs": "gjs",
-    "glade": "glade",
     "glew": "glew",
     "glfw": "glfw",
     "glib": "glib",

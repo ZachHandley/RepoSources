@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "w",
-    "total_mappings": 1612
+    "total_mappings": 1613
   },
   "mappings": {
     "W3M": "w3m",
@@ -160,6 +160,7 @@
     "wasm-bindgen-cli_0_2_114": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_117": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_118": "wasm-bindgen",
+    "wasm-bindgen-cli_0_2_121": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_92": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_93": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_95": "wasm-bindgen",
@@ -928,8 +929,6 @@
     "worktrunk-bin": "worktrunk",
     "wormhole-william": "wormhole-william",
     "wormhole-william-bin": "wormhole-william",
-    "wownero": "wownero",
-    "wownero-git": "wownero",
     "wp-cli": "wp-cli",
     "wp-cli-git": "wp-cli",
     "wp-cli-php82": "wp-cli",
@@ -974,6 +973,7 @@
     "wrk-luajit-openresty": "wrk",
     "wrkflw": "wrkflw",
     "wrkflw-bin": "wrkflw",
+    "wrkflw-git": "wrkflw",
     "wsk-git": "wsk",
     "wskdeploy-git": "wskdeploy",
     "wslay": "wslay",
@@ -1196,6 +1196,7 @@
     "www/libnghttp3": "libnghttp3",
     "www/libproxy": "libproxy",
     "www/libpsl": "libpsl",
+    "www/librest": "librest",
     "www/librest07": "librest",
     "www/libsass": "libsass",
     "www/libwebsockets": "libwebsockets",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "l",
-    "total_mappings": 818
+    "total_mappings": 821
   },
   "mappings": {
     "LBFGSpp": "lbfgspp",
@@ -45,7 +45,7 @@
     "lang/eiffelstudio": "eiffelstudio",
     "lang/elixir": "elixir",
     "lang/emscripten": "emscripten",
-    "lang/erlang": "erlang@27",
+    "lang/erlang": "erlang@28",
     "lang/execline": "execline",
     "lang/fortran-stdlib": "fortran-stdlib",
     "lang/fpc": "fpc",
@@ -160,6 +160,7 @@
     "lang/nodejs20": "node@24",
     "lang/nodejs22": "node@24",
     "lang/nodejs24": "node@24",
+    "lang/nodejs26": "node@24",
     "lang/nodejs8": "node@24",
     "lang/nqp": "nqp",
     "lang/ocaml": "ocaml@4",
@@ -724,6 +725,7 @@
     "lldb-devel": "llvm@21",
     "lldpd": "lldpd",
     "llhttp": "llhttp",
+    "llm/apfel": "apfel",
     "llm/ata": "ata",
     "llm/fabric": "fabric-ai",
     "llm/gemini-cli": "gemini-cli",
@@ -735,6 +737,7 @@
     "llm/ollama": "ollama",
     "llm/opencode": "opencode",
     "llm/openspec": "openspec",
+    "llm/pi-coding-agent": "pi-coding-agent",
     "llm/ramalama": "ramalama",
     "llmfit": "llmfit",
     "llvm-10": "llvm@21",

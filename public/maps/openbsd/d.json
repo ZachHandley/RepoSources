@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "d",
-    "total_mappings": 594
+    "total_mappings": 597
   },
   "mappings": {
     "DevIL": "devil",
@@ -155,6 +155,7 @@
     "devel/capstone/main": "capstone",
     "devel/cargo-audit": "cargo-audit",
     "devel/cargo-c": "cargo-c",
+    "devel/cargo-insta": "cargo-insta",
     "devel/catch2": "catch2",
     "devel/cbindgen": "cbindgen",
     "devel/cbmc": "cbmc",
@@ -216,6 +217,7 @@
     "devel/fox": "fox",
     "devel/fpm": "fpm",
     "devel/fribidi": "fribidi",
+    "devel/gcem": "gcem",
     "devel/gdb": "aarch64-elf-gdb",
     "devel/gengetopt": "gengetopt",
     "devel/geotiff": "libgeotiff",
@@ -450,6 +452,7 @@
     "devel/samurai": "samurai",
     "devel/sbt": "sbt",
     "devel/sccache": "sccache",
+    "devel/scnlib": "scnlib",
     "devel/scons": "scons",
     "devel/sdcc": "sdcc",
     "devel/sdl-gfx": "sdl_gfx",

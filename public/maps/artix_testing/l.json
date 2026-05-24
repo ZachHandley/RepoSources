@@ -1,44 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "l",
-    "total_mappings": 33
+    "total_mappings": 5
   },
   "mappings": {
-    "lib32-curl": "curl",
-    "lib32-gnutls": "gnutls",
-    "lib32-libcurl-compat": "curl",
-    "lib32-libcurl-gnutls": "curl",
-    "lib32-libelf": "elfutils",
-    "lib32-mesa": "mesa",
-    "lib32-nettle": "nettle",
-    "lib32-opencl-mesa": "mesa",
-    "lib32-vulkan-asahi": "mesa",
-    "lib32-vulkan-broadcom": "mesa",
-    "lib32-vulkan-dzn": "mesa",
-    "lib32-vulkan-freedreno": "mesa",
-    "lib32-vulkan-gfxstream": "mesa",
-    "lib32-vulkan-intel": "mesa",
-    "lib32-vulkan-mesa-implicit-layers": "mesa",
-    "lib32-vulkan-mesa-layers": "mesa",
-    "lib32-vulkan-nouveau": "mesa",
-    "lib32-vulkan-panfrost": "mesa",
-    "lib32-vulkan-powervr": "mesa",
-    "lib32-vulkan-radeon": "mesa",
-    "lib32-vulkan-swrast": "mesa",
-    "lib32-vulkan-virtio": "mesa",
-    "libcurl-compat": "curl",
-    "libcurl-gnutls": "curl",
-    "libelf": "elfutils",
+    "lib32-fontconfig": "fontconfig",
+    "libgit2": "libgit2",
     "libntfs-3g": "ntfs-3g",
-    "libunistring": "libunistring",
-    "linux": "linux-headers@6.8",
     "linux-api-headers": "linux-headers@6.8",
-    "linux-docs": "linux-headers@6.8",
-    "linux-headers": "linux-headers@6.8",
-    "linux-tools": "linux-headers@6.8",
-    "linux-tools-meta": "linux-headers@6.8"
+    "lld": "lld@21"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shard": "n",
@@ -22,7 +22,7 @@
     "netcdf-fortran": "netcdf-fortran",
     "netpbm": "netpbm",
     "netsurf-buildsystem": "netsurf-buildsystem",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "nftables": "nftables",
     "nginx": "nginx",
     "nginx-src": "nginx",

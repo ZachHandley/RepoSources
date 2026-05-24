@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alpine_3_16",
     "shard": "n",
@@ -134,10 +134,10 @@
     "nethack-doc": "nethack",
     "nethogs": "nethogs",
     "nethogs-doc": "nethogs",
-    "nettle": "nettle",
-    "nettle-dev": "nettle",
-    "nettle-static": "nettle",
-    "nettle-utils": "nettle",
+    "nettle": "nettle@3",
+    "nettle-dev": "nettle@3",
+    "nettle-static": "nettle@3",
+    "nettle-utils": "nettle@3",
     "newsboat": "newsboat",
     "newsboat-doc": "newsboat",
     "newsboat-lang": "newsboat",

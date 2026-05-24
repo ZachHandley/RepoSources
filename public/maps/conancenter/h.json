@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "h",
-    "total_mappings": 12
+    "total_mappings": 11
   },
   "mappings": {
     "h3": "h3",
@@ -17,7 +17,6 @@
     "highway": "highway",
     "hiredis": "hiredis",
     "hunspell": "hunspell",
-    "hwloc": "hwloc",
-    "hyperscan": "hyperscan"
+    "hwloc": "hwloc"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mx_25_testing",
     "shard": "l",
-    "total_mappings": 76
+    "total_mappings": 84
   },
   "mappings": {
     "libaqbanking": "aqbanking",
@@ -16,6 +16,10 @@
     "libbabl-0.1-0": "babl",
     "libbabl-dev": "babl",
     "libbabl-doc": "babl",
+    "libcoin-dev": "coin3d",
+    "libcoin-doc": "coin3d",
+    "libcoin-runtime": "coin3d",
+    "libcoin80t64": "coin3d",
     "libgegl-0.4-0t64": "gegl",
     "libgegl-common": "gegl",
     "libgegl-dev": "gegl",
@@ -24,6 +28,8 @@
     "libjpeg-turbo-progs": "jpeg-turbo",
     "libjpeg-turbo8": "jpeg-turbo",
     "libjpeg-turbo8-dev": "jpeg-turbo",
+    "libminizip-ng-dev": "minizip-ng",
+    "libminizip-ng4t64": "minizip-ng",
     "libmlt++-dev": "mlt",
     "libmlt++7": "mlt",
     "libmlt-data": "mlt",
@@ -37,6 +43,8 @@
     "libonnxruntime-dev": "onnxruntime",
     "libonnxruntime-providers": "onnxruntime",
     "libonnxruntime1.21": "onnxruntime",
+    "libopencolorio-dev": "opencolorio",
+    "libopencolorio2.5": "opencolorio",
     "libpipewire-0.3-0t64": "pipewire",
     "libpipewire-0.3-common": "pipewire",
     "libpipewire-0.3-dev": "pipewire",

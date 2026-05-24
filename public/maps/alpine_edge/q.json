@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "q",
-    "total_mappings": 311
+    "total_mappings": 316
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -307,6 +307,11 @@
     "quickjs-dev": "quickjs",
     "quickjs-doc": "quickjs",
     "quickjs-libs": "quickjs",
+    "quickjs-ng": "quickjs-ng",
+    "quickjs-ng-dev": "quickjs-ng",
+    "quickjs-ng-doc": "quickjs-ng",
+    "quickjs-ng-libs": "quickjs-ng",
+    "quickjs-ng-libs-static": "quickjs-ng",
     "quickjs-static": "quickjs",
     "quilt": "quilt",
     "quilt-bash-completion": "quilt",

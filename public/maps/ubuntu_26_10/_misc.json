@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_10",
+    "shard": "_misc",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "0install": "zero-install",
+    "0install-core": "zero-install",
+    "0install-solver": "zero-install",
+    "2048": "c2048",
+    "2ping": "twoping",
+    "64tass": "tass64",
+    "6tunnel": "sixtunnel",
+    "7kaa": "seven-kingdoms",
+    "7kaa-data": "seven-kingdoms",
+    "7zip": "sevenzip",
+    "7zip-rar": "sevenzip",
+    "7zip-standalone": "sevenzip"
+  }
+}

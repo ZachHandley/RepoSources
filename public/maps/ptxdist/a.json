@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ptxdist",
     "shard": "a",
-    "total_mappings": 11
+    "total_mappings": 10
   },
   "mappings": {
     "abseil-cpp": "abseil",
     "acl": "acl",
     "alsa-lib": "alsa-lib",
-    "archivemount": "archivemount",
     "armadillo": "armadillo",
     "assimp": "assimp@5",
     "at-spi2-core": "at-spi2-core",

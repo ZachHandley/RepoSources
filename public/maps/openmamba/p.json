@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "p",
-    "total_mappings": 304
+    "total_mappings": 305
   },
   "mappings": {
     "PyQt-builder": "pyqt-builder",
@@ -185,6 +185,7 @@
     "python-boost187-py3": "boost@1.85",
     "python-boost188-py3": "boost@1.85",
     "python-boost189-py3": "boost@1.85",
+    "python-boost190-py3": "boost@1.85",
     "python-brotli": "brotli",
     "python-brotli-py3": "brotli",
     "python-build": "python-build",

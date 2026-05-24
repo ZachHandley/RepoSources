@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "c",
-    "total_mappings": 559
+    "total_mappings": 564
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -44,6 +44,8 @@
     "c-ares": "c-ares",
     "c-ares-devel": "c-ares",
     "c4core": "c4core",
+    "c4core-debuginfo": "c4core",
+    "c4core-debugsource": "c4core",
     "c4core-devel": "c4core",
     "ca-certificates": "ca-certificates",
     "cabal-install": "cabal-install",
@@ -83,7 +85,9 @@
     "captree": "libcap",
     "cargo": "rust",
     "cargo-c": "cargo-c",
+    "cargo-cyclonedx": "cargo-cyclonedx",
     "cargo-deny": "cargo-deny",
+    "cargo-insta": "cargo-insta",
     "castget": "castget",
     "castxml": "castxml",
     "cataclysm-dda": "cataclysm",
@@ -197,6 +201,7 @@
     "chromaprint-tools": "chromaprint",
     "chrony": "chrony",
     "chrpath": "chrpath",
+    "chunkah": "chunkah",
     "cjson": "cjson",
     "cjson-devel": "cjson",
     "ck": "concurrencykit",

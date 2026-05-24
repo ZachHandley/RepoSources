@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "l",
-    "total_mappings": 440
+    "total_mappings": 447
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -28,6 +28,7 @@
     "lgeneral": "lgeneral",
     "libaac": "fdk-aac",
     "libaacs": "libaacs",
+    "libabw": "libabw",
     "libadwaita": "libadwaita",
     "libaec": "libaec",
     "libaio": "libaio",
@@ -97,6 +98,7 @@
     "libelf": "elfutils",
     "libemf2svg": "libemf2svg",
     "libestr": "libestr",
+    "libetonyek": "libetonyek",
     "libetpan": "libetpan",
     "libev": "libev",
     "libevdev": "libevdev",
@@ -162,6 +164,7 @@
     "libjcat": "libjcat",
     "libjpeg": "jpeg",
     "libjpeg-turbo": "jpeg-turbo",
+    "libjuice": "libjuice",
     "libjwt": "libjwt",
     "libjxl": "jpeg-xl",
     "libkeyfinder": "libkeyfinder",
@@ -225,6 +228,7 @@
     "libotr": "libotr",
     "libowfat": "libowfat",
     "libp11": "libp11",
+    "libpagemaker": "libpagemaker",
     "libpanel": "libpanel",
     "libpano": "libpano",
     "libpaper": "libpaper",
@@ -293,6 +297,7 @@
     "libsoup3": "libsoup@2",
     "libspatialindex": "spatialindex",
     "libspectre": "libspectre",
+    "libspelling": "libspelling",
     "libspiro": "libspiro",
     "libspnav": "libspnav",
     "libspng": "libspng",
@@ -340,6 +345,7 @@
     "libvirt": "libvirt",
     "libvirt-glib": "libvirt-glib",
     "libvirt-python": "libvirt-python",
+    "libvisio": "libvisio",
     "libvncserver": "libvncserver",
     "libvolk": "volk",
     "libvorbis": "libvorbis",
@@ -427,6 +433,7 @@
     "logrotate": "logrotate",
     "loudmouth": "loudmouth",
     "lpeg": "lpeg",
+    "lpsolve": "lp_solve",
     "lrzsz": "lrzsz",
     "lsdvd": "lsdvd",
     "lsof": "lsof",

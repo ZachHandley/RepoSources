@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "r",
-    "total_mappings": 864
+    "total_mappings": 872
   },
   "mappings": {
     "R": "r",
@@ -441,12 +441,20 @@
     "rust-cargo-c-debuginfo": "cargo-c",
     "rust-cargo-c-debugsource": "cargo-c",
     "rust-cargo-c-devel": "cargo-c",
+    "rust-cargo-cyclonedx": "cargo-cyclonedx",
+    "rust-cargo-cyclonedx+default-devel": "cargo-cyclonedx",
+    "rust-cargo-cyclonedx-debuginfo": "cargo-cyclonedx",
+    "rust-cargo-cyclonedx-debugsource": "cargo-cyclonedx",
+    "rust-cargo-cyclonedx-devel": "cargo-cyclonedx",
     "rust-cargo-deny": "cargo-deny",
     "rust-cargo-deny+default-devel": "cargo-deny",
     "rust-cargo-deny+native-certs-devel": "cargo-deny",
     "rust-cargo-deny-debuginfo": "cargo-deny",
     "rust-cargo-deny-debugsource": "cargo-deny",
     "rust-cargo-deny-devel": "cargo-deny",
+    "rust-cargo-insta": "cargo-insta",
+    "rust-cargo-insta-debuginfo": "cargo-insta",
+    "rust-cargo-insta-debugsource": "cargo-insta",
     "rust-cbindgen": "cbindgen",
     "rust-cbindgen+clap-devel": "cbindgen",
     "rust-cbindgen+default-devel": "cbindgen",

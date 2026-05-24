@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "f",
-    "total_mappings": 177
+    "total_mappings": 179
   },
   "mappings": {
     "f3": "f3",
@@ -115,6 +115,8 @@
     "fontconfig-devel": "fontconfig",
     "fontforge": "fontforge",
     "fontforge-dbginfo": "fontforge",
+    "foot": "foot",
+    "foot-dbginfo": "foot",
     "fop": "fop",
     "foremost": "foremost",
     "foremost-dbginfo": "foremost",

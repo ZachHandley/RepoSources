@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "w",
-    "total_mappings": 36
+    "total_mappings": 37
   },
   "mappings": {
     "w3m": "w3m",
     "wasi-libc": "wasi-libc",
     "wasi-libcxx": "llvm@21",
+    "wasmedge": "wasmedge",
     "wasmer": "wasmer",
     "wavpack": "wavpack",
     "wayland": "wayland",

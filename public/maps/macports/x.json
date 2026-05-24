@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "x",
@@ -29,7 +29,7 @@
     "x11/makedepend": "makedepend",
     "x11/mesa": "mesa",
     "x11/mkfontscale": "mkfontscale",
-    "x11/openmotif": "openmotif",
+    "x11/motif": "openmotif",
     "x11/pango": "pango",
     "x11/pango-devel": "pango",
     "x11/pangomm": "pangomm@2.46",

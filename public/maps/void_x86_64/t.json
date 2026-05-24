@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "t",
-    "total_mappings": 332
+    "total_mappings": 330
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -231,7 +231,6 @@
     "texlive-devel": "texlive",
     "texlive-dvi": "texlive",
     "texlive-latexmk": "texlive",
-    "tflint": "tflint",
     "thc-hydra": "hydra",
     "the_silver_searcher": "the_silver_searcher",
     "thefuck": "thefuck",
@@ -270,7 +269,6 @@
     "tmux-mem-cpu-load": "tmux-mem-cpu-load",
     "tmux-xpanes": "tmux-xpanes",
     "tnftp": "tnftp",
-    "todoist": "todoist-cli",
     "todoman": "todoman",
     "toilet": "toilet",
     "tokei": "tokei",

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_10_proposed",
+    "shard": "x",
+    "total_mappings": 6
+  },
+  "mappings": {
+    "xjed": "jed",
+    "xmaxima": "maxima",
+    "xmlsec1": "libxmlsec1",
+    "xpmutils": "libxpm",
+    "xterm": "xterm",
+    "xxd": "vim"
+  }
+}

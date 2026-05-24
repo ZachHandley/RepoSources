@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_10_proposed",
+    "shard": "z",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "zabbix-cli": "zabbix-cli",
+    "zenmap": "nmap",
+    "zile": "zile"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "a",
-    "total_mappings": 413
+    "total_mappings": 414
   },
   "mappings": {
     "ALPSCore": "alpscore",
@@ -88,6 +88,7 @@
     "apache2": "httpd",
     "apachetop": "apachetop",
     "apcupsd": "apcupsd",
+    "apfel": "apfel",
     "apgdiff": "apgdiff",
     "apktool": "apktool",
     "apophenia": "apophenia",

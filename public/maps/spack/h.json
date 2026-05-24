@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "h",
-    "total_mappings": 34
+    "total_mappings": 33
   },
   "mappings": {
     "hackrf-host": "hackrf",
@@ -38,7 +38,6 @@
     "hunspell": "hunspell",
     "hwloc": "hwloc",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hyphy": "hyphy",
     "hypre": "hypre"
   }

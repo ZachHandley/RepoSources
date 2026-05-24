@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "n",
@@ -60,9 +60,9 @@
     "netris": "netris",
     "netscanner": "netscanner",
     "netsurf-buildsystem": "netsurf-buildsystem",
-    "nettle": "nettle",
-    "nettle-devel": "nettle",
-    "nettle-tools": "nettle",
+    "nettle": "nettle@3",
+    "nettle-devel": "nettle@3",
+    "nettle-tools": "nettle@3",
     "network-ups-tools": "nut",
     "network-ups-tools-devel": "nut",
     "newlisp": "newlisp",

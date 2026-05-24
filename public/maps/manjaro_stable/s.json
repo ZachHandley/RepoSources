@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "s",
-    "total_mappings": 248
+    "total_mappings": 251
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -55,6 +55,7 @@
     "sed": "gnu-sed",
     "selene": "selene",
     "semver": "semver",
+    "sendme": "sendme",
     "senpai": "senpai",
     "sentry-cli": "sentry-cli",
     "sentry-native": "sentry-native",
@@ -165,6 +166,7 @@
     "sqlite-doc": "sqlite",
     "sqlite-tcl": "sqlite",
     "sqlmap": "sqlmap",
+    "sqlsmith": "sqlsmith",
     "sqlx-cli": "sqlx-cli",
     "squashfs-tools": "squashfs",
     "squashfuse": "squashfuse",
@@ -174,6 +176,7 @@
     "srgn": "srgn",
     "srt": "srt",
     "ssdeep": "ssdeep",
+    "sse2neon": "sse2neon",
     "ssh-audit": "ssh-audit",
     "sshfs": "sshfs",
     "sshguard": "sshguard",

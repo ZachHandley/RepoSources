@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "s",
-    "total_mappings": 503
+    "total_mappings": 504
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -21,6 +21,7 @@
     "sccache": "sccache",
     "scdoc": "scdoc",
     "scheme48": "scheme48",
+    "scnlib": "scnlib",
     "scons": "scons",
     "scour": "scour",
     "screen": "screen",
@@ -95,7 +96,7 @@
     "security/libident": "libident",
     "security/libksba": "libksba",
     "security/libmodsecurity": "modsecurity",
-    "security/libnettle": "nettle",
+    "security/libnettle": "nettle@3",
     "security/libotr": "libotr",
     "security/libscrypt": "libscrypt",
     "security/libsodium": "libsodium",
@@ -106,6 +107,7 @@
     "security/mbedtls": "mbedtls@3",
     "security/mhash": "mhash",
     "security/minisign": "minisign",
+    "security/nettle": "nettle@3",
     "security/nikto": "nikto",
     "security/nss": "nss",
     "security/nuclei": "nuclei",
@@ -493,7 +495,6 @@
     "sysutils/telegraf": "telegraf",
     "sysutils/terragrunt": "terragrunt",
     "sysutils/testdisk": "testdisk",
-    "sysutils/tflint": "tflint",
     "sysutils/tmate": "tmate",
     "sysutils/tmux-mem-cpu-load": "tmux-mem-cpu-load",
     "sysutils/tmuxinator": "tmuxinator",

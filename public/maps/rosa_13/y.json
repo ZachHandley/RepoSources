@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "y",
-    "total_mappings": 36
+    "total_mappings": 38
   },
   "mappings": {
     "yacas": "yacas",
@@ -22,6 +22,8 @@
     "yash-debugsource": "yash",
     "yash-doc": "yash",
     "yasm": "yasm",
+    "yasm-debuginfo": "yasm",
+    "yasm-debugsource": "yasm",
     "yasm-devel": "yasm",
     "yaws": "yaws",
     "yaz": "yaz",

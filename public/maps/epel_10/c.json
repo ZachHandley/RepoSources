@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "c",
-    "total_mappings": 311
+    "total_mappings": 316
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -59,6 +59,7 @@
     "calceph-fortran-devel": "calceph",
     "calceph-libs": "calceph",
     "cargo-c": "cargo-c",
+    "cargo-cyclonedx": "cargo-cyclonedx",
     "castxml": "castxml",
     "castxml-debuginfo": "castxml",
     "castxml-debugsource": "castxml",
@@ -255,6 +256,10 @@
     "compiler-rt19": "llvm@21",
     "compiler-rt20": "llvm@21",
     "composer": "composer",
+    "conserver": "conserver",
+    "conserver-client": "conserver",
+    "conserver-debuginfo": "conserver",
+    "conserver-debugsource": "conserver",
     "console-bridge": "console_bridge",
     "console-bridge-debuginfo": "console_bridge",
     "console-bridge-debugsource": "console_bridge",

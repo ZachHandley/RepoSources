@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "s",
-    "total_mappings": 555
+    "total_mappings": 559
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -20,8 +20,8 @@
     "SDL3_mixer": "sdl3_mixer",
     "SDL3_ttf": "sdl3_ttf",
     "SFML": "sfml@2",
-    "SFML2.6": "sfml@2",
     "SPICE": "spice-server",
+    "SheenBidi": "sheenbidi",
     "Singular": "singular",
     "Singular-debuginfo": "singular",
     "Singular-doc": "singular",
@@ -154,6 +154,8 @@
     "sed": "gnu-sed",
     "sed-debuginfo": "gnu-sed",
     "sendemail": "sendemail",
+    "sentencepiece": "sentencepiece",
+    "sentencepiece-debuginfo": "sentencepiece",
     "sequoia-sqv": "sequoia-sqv",
     "sequoia-sqv-debuginfo": "sequoia-sqv",
     "ser2net": "ser2net",
@@ -367,6 +369,8 @@
     "sse2neon-devel": "sse2neon",
     "sshpass": "sshpass",
     "sshpass-debuginfo": "sshpass",
+    "sshs": "sshs",
+    "sshs-debuginfo": "sshs",
     "sshuttle": "sshuttle",
     "sshx": "sshx",
     "sslh": "sslh",

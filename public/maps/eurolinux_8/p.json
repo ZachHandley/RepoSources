@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "eurolinux_8",
     "shard": "p",
-    "total_mappings": 67
+    "total_mappings": 71
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -68,7 +68,11 @@
     "python2-six": "six",
     "python3": "python@3.14",
     "python3.11": "python@3.9",
+    "python3.11-setuptools": "python-setuptools",
     "python3.12": "python@3.9",
+    "python3.12-Cython": "cython",
+    "python3.12-numpy": "numpy",
+    "python3.12-setuptools": "python-setuptools",
     "python36": "python@3.9",
     "python38": "python@3.9",
     "python39": "python@3.9",

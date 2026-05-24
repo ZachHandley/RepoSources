@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "n",
-    "total_mappings": 113
+    "total_mappings": 114
   },
   "mappings": {
     "nagios": "nagios",
@@ -52,7 +52,8 @@
     "netpbm-debug": "netpbm",
     "netscanner": "netscanner",
     "netsurf-buildsystem": "netsurf-buildsystem",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
+    "nettle3": "nettle@3",
     "newlisp": "newlisp",
     "newlisp-debug": "newlisp",
     "newsboat": "newsboat",

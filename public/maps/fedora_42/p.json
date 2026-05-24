@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_42",
     "shard": "p",
-    "total_mappings": 1183
+    "total_mappings": 1184
   },
   "mappings": {
     "PDAL": "pdal",
@@ -374,6 +374,7 @@
     "pipewire0.2-devel": "pipewire",
     "pipewire0.2-libs": "pipewire",
     "pipx": "pipx",
+    "pipx+uv": "pipx",
     "pixiewps": "pixiewps",
     "pixman": "pixman",
     "pixman-devel": "pixman",

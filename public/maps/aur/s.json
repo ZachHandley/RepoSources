@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "s",
-    "total_mappings": 597
+    "total_mappings": 599
   },
   "mappings": {
     "s-nail-git": "s-nail",
@@ -121,8 +121,8 @@
     "sdl3_ttf-git": "sdl3_ttf",
     "sdlpop": "sdlpop",
     "sdns-git": "sdns",
-    "seal": "seal",
-    "seal-bin": "seal",
+    "sealcrypto": "seal",
+    "sealcrypto-git": "seal",
     "seam-git": "seam",
     "seaweedfs-git": "seaweedfs",
     "sec": "sec",
@@ -249,6 +249,8 @@
     "skillshare-bin": "skillshare",
     "skim-git": "sk",
     "skip": "skip",
+    "skm": "skm",
+    "skm-bin": "skm",
     "skopeo-git": "skopeo",
     "sl-git": "sl",
     "slackcat": "slackcat",
@@ -413,7 +415,6 @@
     "sqlmap-git": "sqlmap",
     "sqlpage": "sqlpage",
     "sqlpage-bin": "sqlpage",
-    "sqlsmith": "sqlsmith",
     "sqruff-bin": "sqruff",
     "sqsmover": "sqsmover",
     "squashfs-tools-git": "squashfs",
@@ -434,6 +435,7 @@
     "ssh3-server": "ssh3",
     "sshguard-git": "sshguard",
     "sshpass-svn": "sshpass",
+    "sshportal": "sshportal",
     "sshuttle-git": "sshuttle",
     "sshx-git": "sshx",
     "ssldump": "ssldump",

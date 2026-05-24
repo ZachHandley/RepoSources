@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "l",
-    "total_mappings": 308
+    "total_mappings": 309
   },
   "mappings": {
     "lammps": "lammps",
@@ -63,7 +63,7 @@
     "libarrow_dataset2300": "apache-arrow",
     "libarrow_flight2300": "apache-arrow",
     "libarrow_flight_sql2300": "apache-arrow",
-    "libbandicoot3": "bandicoot",
+    "libbandicoot4": "bandicoot",
     "libbitwuzla0": "bitwuzla",
     "libblas3": "lapack",
     "libblis4": "blis",
@@ -89,6 +89,7 @@
     "libcsirocsa0": "plplot",
     "libcsironn0": "plplot",
     "libcxsparse4": "suite-sparse",
+    "libecm1": "gmp-ecm",
     "libecpint": "libecpint",
     "libecpint-debuginfo": "libecpint",
     "libecpint-debugsource": "libecpint",
@@ -161,7 +162,7 @@
     "libklu-doc": "suite-sparse",
     "libklu2": "suite-sparse",
     "libklu_cholmod2": "suite-sparse",
-    "libkokkos-4_6": "kokkos",
+    "libkokkos-5_1": "kokkos",
     "liblagraph1": "suite-sparse",
     "liblagraphx1": "suite-sparse",
     "liblammps0": "lammps",
@@ -235,7 +236,7 @@
     "libparquet2300": "apache-arrow",
     "libparu1": "suite-sparse",
     "libpcl1_14": "pcl",
-    "libpetsc3_24": "petsc",
+    "libpetsc3_25": "petsc",
     "libplplot17": "plplot",
     "libplplotcxx15": "plplot",
     "libplplotfortran0": "plplot",

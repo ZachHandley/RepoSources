@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "s",
-    "total_mappings": 158
+    "total_mappings": 159
   },
   "mappings": {
     "sci-astronomy/wcslib": "wcslib",
@@ -69,6 +69,7 @@
     "sci-mathematics/clipper2": "clipper2",
     "sci-mathematics/ginac": "ginac",
     "sci-mathematics/glpk": "glpk",
+    "sci-mathematics/gmp_ecm": "gmp-ecm",
     "sci-mathematics/lpsolve": "lp_solve",
     "sci-mathematics/manifold": "manifold",
     "sci-mathematics/maxima": "maxima",

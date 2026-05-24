@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "e",
-    "total_mappings": 2
+    "total_mappings": 3
   },
   "mappings": {
+    "ethersync": "teamtype",
     "eureka": "eureka",
     "eza": "eza"
   }

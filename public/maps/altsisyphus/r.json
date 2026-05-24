@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "r",
-    "total_mappings": 325
+    "total_mappings": 330
   },
   "mappings": {
     "R-base": "r",
@@ -305,6 +305,7 @@
     "ruff-debuginfo": "ruff",
     "runc": "runc",
     "runit": "runit",
+    "runit-debuginfo": "runit",
     "rust": "rust",
     "rust-aarch64-unknown-linux-gnu-target": "rust",
     "rust-analyzer": "rust",
@@ -325,7 +326,11 @@
     "rustfmt": "rust",
     "rustic": "rustic",
     "rustic-debuginfo": "rustic",
+    "rustnet": "rustnet",
+    "rustnet-debuginfo": "rustnet",
     "rustscan": "rustscan",
+    "rustup": "rustup",
+    "rustup-debuginfo": "rustup",
     "rv": "linux-headers@6.8",
     "rv-debuginfo": "linux-headers@6.8",
     "rxvt-unicode": "rxvt-unicode",

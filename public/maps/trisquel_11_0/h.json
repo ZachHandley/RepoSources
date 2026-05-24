@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "trisquel_11_0",
     "shard": "h",
-    "total_mappings": 111
+    "total_mappings": 110
   },
   "mappings": {
     "h2o": "h2o",
@@ -111,7 +111,6 @@
     "hydra": "hydra",
     "hydra-gtk": "hydra",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hyphy": "hyphy",
     "hyphy-common": "hyphy",
     "hyphy-mpi": "hyphy",

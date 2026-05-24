@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "n",
@@ -103,7 +103,7 @@
     "nethogs": "nethogs",
     "netpbm": "netpbm",
     "netsurf-buildsystem": "netsurf-buildsystem",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "newt": "newt",
     "nftables": "nftables",
     "nghttp2": "nghttp2",

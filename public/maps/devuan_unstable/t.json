@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "t",
-    "total_mappings": 367
+    "total_mappings": 368
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -318,6 +318,7 @@
     "topydo": "topydo",
     "tor": "tor",
     "tor-geoipdb": "tor",
+    "torf-cli": "torf-cli",
     "torsocks": "torsocks",
     "tox": "tox",
     "toxcore-utils": "toxcore",

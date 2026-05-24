@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pureos_byzantium",
     "shard": "h",
-    "total_mappings": 112
+    "total_mappings": 111
   },
   "mappings": {
     "h2o": "h2o",
@@ -109,7 +109,6 @@
     "hybrid-dev": "ircd-hybrid",
     "hydra": "hydra",
     "hydra-gtk": "hydra",
-    "hyperscan": "hyperscan",
     "hyperv-daemons": "linux-headers@6.8",
     "hypervisor-modules-5.10.0-28-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-5.10.0-28-powerpc64le-di": "linux-headers@6.8",

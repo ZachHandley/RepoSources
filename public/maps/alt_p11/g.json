@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "g",
-    "total_mappings": 1210
+    "total_mappings": 1214
   },
   "mappings": {
     "GLEW": "glew",
@@ -114,6 +114,8 @@
     "gcc13-plugin-devel": "gcc@14",
     "gcdmaster": "cdrdao",
     "gcdmaster-debuginfo": "cdrdao",
+    "gcem": "gcem",
+    "gcem-devel": "gcem",
     "gcli": "gcli",
     "gcli-debuginfo": "gcli",
     "gcovr": "gcovr",
@@ -937,6 +939,8 @@
     "gmic-zart": "gmic",
     "gmic-zart-debuginfo": "gmic",
     "gmp": "gmp",
+    "gmp-ecm": "gmp-ecm",
+    "gmp-ecm-debuginfo": "gmp-ecm",
     "gmp3info": "mp3info",
     "gmp3info-debuginfo": "mp3info",
     "gmsh": "gmsh",
@@ -1043,8 +1047,8 @@
     "golangci-lint": "golangci-lint",
     "golangci-lint-debuginfo": "golangci-lint",
     "googletest": "googletest",
-    "goose": "goose",
-    "goose-debuginfo": "goose",
+    "goose": "block-goose-cli",
+    "goose-debuginfo": "block-goose-cli",
     "gopass": "gopass",
     "gopls": "gopls",
     "gopls-debuginfo": "gopls",

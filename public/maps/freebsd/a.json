@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "a",
-    "total_mappings": 495
+    "total_mappings": 496
   },
   "mappings": {
     "ALPSCore": "alpscore",
@@ -279,6 +279,7 @@
     "audio/arss": "arss",
     "audio/aubio": "aubio",
     "audio/baresip": "baresip",
+    "audio/carla": "carla",
     "audio/cava": "cava",
     "audio/cd-discid": "cd-discid",
     "audio/chromaprint": "chromaprint",

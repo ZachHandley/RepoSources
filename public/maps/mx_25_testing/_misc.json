@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "mx_25_testing",
+    "shard": "_misc",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "7zip": "sevenzip",
+    "7zip-rar": "sevenzip",
+    "7zip-standalone": "sevenzip"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "centos_8",
     "shard": "j",
@@ -10,9 +10,9 @@
     "Judy": "judy",
     "jansson": "jansson",
     "jasper": "jasper",
-    "java-1.8.0-openjdk": "openjdk@21",
-    "java-11-openjdk": "openjdk@21",
-    "java-17-openjdk": "openjdk@21",
+    "java-1.8.0-openjdk": "openjdk@25",
+    "java-11-openjdk": "openjdk@25",
+    "java-17-openjdk": "openjdk@25",
     "javacc": "javacc",
     "jbig2dec": "jbig2dec",
     "jbigkit": "jbigkit",

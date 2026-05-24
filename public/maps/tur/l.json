@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "tur",
     "shard": "l",
@@ -14,7 +14,7 @@
     "lib32-libgnutls": "gnutls",
     "lib32-libiconv": "libiconv",
     "lib32-libidn2": "libidn2",
-    "lib32-libnettle": "nettle",
+    "lib32-libnettle": "nettle@3",
     "lib32-libunistring": "libunistring",
     "libabw": "libabw",
     "libbson": "mongo-c-driver@1",

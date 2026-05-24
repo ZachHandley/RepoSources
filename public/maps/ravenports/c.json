@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "c",
-    "total_mappings": 43
+    "total_mappings": 42
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -31,7 +31,6 @@
     "cjson": "cjson",
     "clamav": "clamav",
     "clang": "llvm@21",
-    "clang20": "llvm@21",
     "clang21": "llvm@21",
     "clisp": "clisp",
     "cmake": "cmake",

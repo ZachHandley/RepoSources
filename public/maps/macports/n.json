@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "n",
-    "total_mappings": 470
+    "total_mappings": 472
   },
   "mappings": {
     "n": "n",
@@ -80,6 +80,7 @@
     "net/certgraph": "certgraph",
     "net/cidr-go": "cidr",
     "net/cjdns": "cjdns",
+    "net/cloudflare-speed-cli": "cloudflare-speed-cli",
     "net/cloudflared": "cloudflared",
     "net/cntlm": "cntlm",
     "net/corkscrew": "corkscrew",
@@ -381,7 +382,7 @@
     "net/yazpp": "yazpp",
     "net/yewtube": "yewtube",
     "net/youtube-dl": "yt-dlp",
-    "net/zabbix4": "zabbix",
+    "net/zabbix-agent": "zabbix",
     "net/zeek": "zeek",
     "net/zenmap": "nmap",
     "net/zmap": "zmap",
@@ -398,7 +399,7 @@
     "nethack343": "nethack",
     "netpbm": "netpbm",
     "netris": "netris",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "newlisp": "newlisp",
     "news/slrn": "slrn",
     "news/tin": "tin",
@@ -443,6 +444,7 @@
     "nodejs20": "node@24",
     "nodejs22": "node@24",
     "nodejs24": "node@24",
+    "nodejs26": "node@24",
     "nodejs8": "node@24",
     "nomino": "nomino",
     "normalize": "normalize",

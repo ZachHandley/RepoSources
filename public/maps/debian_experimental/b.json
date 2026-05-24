@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "b",
-    "total_mappings": 117
+    "total_mappings": 119
   },
   "mappings": {
     "base-modules-7.1-alpha-generic-di": "linux-headers@6.8",
@@ -108,6 +108,8 @@
     "binutils-x86-64-linux-gnux32": "aarch64-elf-binutils",
     "binutils-x86-64-linux-gnux32-dbg": "aarch64-elf-binutils",
     "bolt-20": "llvm@21",
+    "botan": "botan@2",
+    "botan3": "botan@2",
     "bpftool": "linux-headers@6.8",
     "btrfs-modules-7.1-alpha-generic-di": "linux-headers@6.8",
     "btrfs-modules-7.1-amd64-di": "linux-headers@6.8",

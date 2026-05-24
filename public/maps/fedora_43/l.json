@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "l",
-    "total_mappings": 1838
+    "total_mappings": 1839
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -273,6 +273,7 @@
     "libbinio-devel": "libbinio",
     "libbinpac": "zeek",
     "libbitcoinkernel": "bitcoin",
+    "libbitcoinkernel-devel": "bitcoin",
     "libblkid": "gnu-getopt",
     "libblkid-devel": "gnu-getopt",
     "libbluray": "libbluray",

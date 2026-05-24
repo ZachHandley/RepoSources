@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alt_p9",
     "shard": "c",
-    "total_mappings": 494
+    "total_mappings": 492
   },
   "mappings": {
     "CUnit": "cunit",
@@ -474,8 +474,6 @@
     "cubeb-debuginfo": "cubeb",
     "cuetools": "cuetools",
     "cuetools-debuginfo": "cuetools",
-    "cunit": "cunit",
-    "cunit-debuginfo": "cunit",
     "cups": "cups",
     "cups-debuginfo": "cups",
     "cups-ipptool": "cups",

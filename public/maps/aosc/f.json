@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "f",
-    "total_mappings": 85
+    "total_mappings": 86
   },
   "mappings": {
     "f3": "f3",
@@ -38,6 +38,7 @@
     "figlet": "figlet",
     "file": "file-formula",
     "file-roller": "file-roller",
+    "filebrowser": "filebrowser",
     "findutils": "findutils",
     "fio": "fio",
     "fish": "fish",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "b",
-    "total_mappings": 53
+    "total_mappings": 54
   },
   "mappings": {
     "BNFC": "bnfc",
@@ -23,6 +23,7 @@
     "bbe": "bbe",
     "bchunk": "bchunk",
     "beecrypt": "beecrypt",
+    "bfs": "bfs",
     "bigloo": "bigloo",
     "bind": "bind",
     "bindfs": "bindfs",

@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "w",
-    "total_mappings": 1
+    "total_mappings": 2
   },
   "mappings": {
-    "wireshark": "wireshark"
+    "wcslib": "wcslib",
+    "which": "gnu-which"
   }
 }

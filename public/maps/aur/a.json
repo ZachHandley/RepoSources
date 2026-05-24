@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "a",
-    "total_mappings": 1621
+    "total_mappings": 1622
   },
   "mappings": {
     "a52dec-git": "a52dec",
@@ -294,7 +294,7 @@
     "android-aarch64-mpfr": "mpfr",
     "android-aarch64-mpg123": "mpg123",
     "android-aarch64-ncurses": "ncurses",
-    "android-aarch64-nettle": "nettle",
+    "android-aarch64-nettle": "nettle@3",
     "android-aarch64-nlohmann-json": "nlohmann-json",
     "android-aarch64-npth": "npth",
     "android-aarch64-nspr": "nspr",
@@ -552,7 +552,7 @@
     "android-armv7a-eabi-mpfr": "mpfr",
     "android-armv7a-eabi-mpg123": "mpg123",
     "android-armv7a-eabi-ncurses": "ncurses",
-    "android-armv7a-eabi-nettle": "nettle",
+    "android-armv7a-eabi-nettle": "nettle@3",
     "android-armv7a-eabi-nlohmann-json": "nlohmann-json",
     "android-armv7a-eabi-npth": "npth",
     "android-armv7a-eabi-nspr": "nspr",
@@ -804,7 +804,7 @@
     "android-riscv64-mpfr": "mpfr",
     "android-riscv64-mpg123": "mpg123",
     "android-riscv64-ncurses": "ncurses",
-    "android-riscv64-nettle": "nettle",
+    "android-riscv64-nettle": "nettle@3",
     "android-riscv64-nlohmann-json": "nlohmann-json",
     "android-riscv64-npth": "npth",
     "android-riscv64-nspr": "nspr",
@@ -1028,7 +1028,7 @@
     "android-x86-64-mpfr": "mpfr",
     "android-x86-64-mpg123": "mpg123",
     "android-x86-64-ncurses": "ncurses",
-    "android-x86-64-nettle": "nettle",
+    "android-x86-64-nettle": "nettle@3",
     "android-x86-64-nlohmann-json": "nlohmann-json",
     "android-x86-64-npth": "npth",
     "android-x86-64-nspr": "nspr",
@@ -1283,7 +1283,7 @@
     "android-x86-mpfr": "mpfr",
     "android-x86-mpg123": "mpg123",
     "android-x86-ncurses": "ncurses",
-    "android-x86-nettle": "nettle",
+    "android-x86-nettle": "nettle@3",
     "android-x86-nlohmann-json": "nlohmann-json",
     "android-x86-npth": "npth",
     "android-x86-nspr": "nspr",
@@ -1458,6 +1458,8 @@
     "archiver": "archiver",
     "arduino-cli-git": "arduino-cli",
     "ares-decrypt": "ares",
+    "arf": "arf",
+    "arf-bin": "arf",
     "argc": "argc",
     "argc-git": "argc",
     "argo-bin": "argo",
@@ -1498,7 +1500,7 @@
     "as-tree-git": "as-tree",
     "asak": "asak",
     "asak-git": "asak",
-    "asc": "asc",
+    "asc-git": "asc",
     "ascii2binary": "ascii2binary",
     "asciidoc-git": "asciidoc",
     "asciinema-agg": "agg",
@@ -1626,7 +1628,6 @@
     "awsume": "awsume",
     "azd-cli": "azure-dev",
     "azure-dev-cli": "azure-dev",
-    "azure-dev-cli-bin": "azure-dev",
-    "azure-storage-cpp": "azure-storage-cpp"
+    "azure-dev-cli-bin": "azure-dev"
   }
 }

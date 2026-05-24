@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "q",
-    "total_mappings": 215
+    "total_mappings": 216
   },
   "mappings": {
     "q": "q",
@@ -215,6 +215,7 @@
     "questdb": "questdb",
     "quick-lint-js": "quick-lint-js",
     "quickjs": "quickjs",
+    "quickjs-ng": "quickjs-ng",
     "quicktype": "quicktype",
     "quill-log": "quill",
     "quilt": "quilt",

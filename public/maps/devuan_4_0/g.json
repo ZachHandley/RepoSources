@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "devuan_4_0",
     "shard": "g",
-    "total_mappings": 606
+    "total_mappings": 607
   },
   "mappings": {
     "g++-10": "gcc@14",
@@ -338,6 +338,7 @@
     "gmime-bin": "gmime",
     "gmp": "gmp",
     "gmp-doc": "gmp",
+    "gmp-ecm": "gmp-ecm",
     "gmsh": "gmsh",
     "gmsh-doc": "gmsh",
     "gmt": "gmt",

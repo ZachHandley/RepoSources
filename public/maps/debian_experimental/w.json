@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "w",
-    "total_mappings": 3
+    "total_mappings": 4
   },
   "mappings": {
+    "wasi-libc": "wasi-libc",
     "wayland": "wayland",
     "webkit2gtk": "webkitgtk",
     "webkitgtk-webdriver": "webkitgtk"

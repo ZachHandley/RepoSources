@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "c",
-    "total_mappings": 110
+    "total_mappings": 109
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -100,7 +100,6 @@
     "cracklib": "cracklib",
     "crm114": "crm114",
     "croc": "croc",
-    "crossplane": "crossplane",
     "crypto++": "cryptopp",
     "cscope": "cscope",
     "csmith": "csmith",

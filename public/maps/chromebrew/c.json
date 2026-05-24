@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "c",
-    "total_mappings": 61
+    "total_mappings": 62
   },
   "mappings": {
     "c_ares": "c-ares",
@@ -67,6 +67,7 @@
     "cunit": "cunit",
     "cups": "cups",
     "curl": "curl",
+    "curl_static": "curl",
     "cvs": "cvs"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "n",
@@ -17,7 +17,7 @@
     "ncurses": "ncurses",
     "netcdf-c": "netcdf",
     "netcdf-cxx4": "netcdf-cxx",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "nghttp2": "nghttp2",
     "nghttp3": "libnghttp3",
     "ngspice": "ngspice",

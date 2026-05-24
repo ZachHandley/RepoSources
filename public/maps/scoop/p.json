@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "p",
-    "total_mappings": 113
+    "total_mappings": 114
   },
   "mappings": {
     "pacmc": "pacmc",
@@ -105,6 +105,7 @@
     "pyoxidizer": "pyoxidizer",
     "pypy2": "pypy",
     "pypy3": "pypy3.10",
+    "pyrefly": "pyrefly",
     "python": "python@3.14",
     "python-alpha": "python@3.9",
     "python-beta": "python@3.9",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "o",
-    "total_mappings": 376
+    "total_mappings": 380
   },
   "mappings": {
     "OpenCL-ICD-Loader": "opencl-icd-loader",
@@ -180,6 +180,7 @@
     "opencc-doc": "opencc",
     "opencc-tools": "opencc",
     "opencl-headers": "opencl-headers",
+    "openclaw": "openclaw-cli",
     "openconnect": "openconnect",
     "openconnect-devel": "openconnect",
     "opencore-amr": "opencore-amr",
@@ -350,6 +351,9 @@
     "orc-devel": "orc",
     "orc-doc": "orc",
     "ormolu": "ormolu",
+    "orocos-kdl": "orocos-kdl",
+    "orocos-kdl-devel": "orocos-kdl",
+    "orocos-kdl-doc": "orocos-kdl",
     "osc": "osc",
     "osinfo-db": "osinfo-db",
     "osinfo-db-tools": "osinfo-db-tools",

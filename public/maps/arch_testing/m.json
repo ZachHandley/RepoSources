@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "m",
-    "total_mappings": 2
+    "total_mappings": 4
   },
   "mappings": {
-    "mesa": "mesa",
-    "mesa-docs": "mesa"
+    "mariadb-lts": "mariadb@11.8",
+    "mariadb-lts-clients": "mariadb@11.8",
+    "mariadb-lts-libs": "mariadb@11.8",
+    "mariadb-lts-pam": "mariadb@11.8"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "a",
-    "total_mappings": 351
+    "total_mappings": 348
   },
   "mappings": {
     "Agda": "agda",
@@ -276,9 +276,6 @@
     "atkmm": "atkmm",
     "atkmm-devel": "atkmm",
     "atkmm-doc": "atkmm@2.28",
-    "atkmm2.36": "atkmm@2.28",
-    "atkmm2.36-devel": "atkmm@2.28",
-    "atkmm2.36-doc": "atkmm@2.28",
     "atool": "atool",
     "atop": "atop",
     "attr": "attr",

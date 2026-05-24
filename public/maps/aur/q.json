@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "q",
-    "total_mappings": 124
+    "total_mappings": 126
   },
   "mappings": {
     "q-dns": "q",
@@ -112,6 +112,7 @@
     "quantlib-git": "quantlib",
     "quazip-legacy": "quazip",
     "quazip-qt4": "quazip",
+    "quazip-qt5": "quazip",
     "questdb": "questdb",
     "questdb-git": "questdb",
     "quex": "quex",
@@ -119,6 +120,7 @@
     "quick-lint-js-git": "quick-lint-js",
     "quickjs": "quickjs",
     "quickjs-bin": "quickjs",
+    "quickjs-ng": "quickjs-ng",
     "quicktype": "quicktype",
     "quill": "quill",
     "quint": "quint",

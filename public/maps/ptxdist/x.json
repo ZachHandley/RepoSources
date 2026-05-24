@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ptxdist",
     "shard": "x",
-    "total_mappings": 50
+    "total_mappings": 49
   },
   "mappings": {
     "x264": "x264",
@@ -54,7 +54,6 @@
     "xorg-lib-xvmc": "libxvmc",
     "xorg-lib-xxf86vm": "libxxf86vm",
     "xorgproto": "xorgproto",
-    "xterm": "xterm",
     "xxhash": "xxhash",
     "xz": "xz"
   }

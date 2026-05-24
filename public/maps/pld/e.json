@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "e",
-    "total_mappings": 42
+    "total_mappings": 41
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -18,7 +18,6 @@
     "ejabberd": "ejabberd",
     "ekg2": "ekg2",
     "ekhtml": "ekhtml",
-    "elektra": "elektra",
     "elfutils": "elfutils",
     "elixir": "elixir",
     "emacs": "emacs",
@@ -34,7 +33,7 @@
     "epeg": "epeg",
     "ephemeralpg": "ephemeralpg",
     "epsilon-compressor": "epsilon",
-    "erlang": "erlang@27",
+    "erlang": "erlang@28",
     "erlang-rebar3": "rebar3",
     "espeak": "espeak",
     "espeak-ng": "espeak-ng",

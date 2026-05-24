@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "z",
@@ -11,11 +11,11 @@
     "z-devel": "z",
     "z3": "z3",
     "zabbix4": "zabbix",
-    "zabbix4-agent": "zabbix",
     "zabbix4-frontend": "zabbix",
     "zabbix5": "zabbix",
-    "zabbix5-agent": "zabbix",
     "zabbix5-frontend": "zabbix",
+    "zabbix7-agent": "zabbix",
+    "zabbix74-agent": "zabbix",
     "zbar": "zbar",
     "zebra": "zebra",
     "zeek": "zeek",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "j",
-    "total_mappings": 118
+    "total_mappings": 119
   },
   "mappings": {
     "jack": "jack",
@@ -43,20 +43,20 @@
     "java/maven32": "maven",
     "java/maven4": "maven",
     "java/micronaut": "micronaut",
-    "java/openjdk11": "openjdk@21",
-    "java/openjdk13": "openjdk@21",
-    "java/openjdk15": "openjdk@21",
-    "java/openjdk17": "openjdk@21",
-    "java/openjdk18": "openjdk@21",
-    "java/openjdk19": "openjdk@21",
-    "java/openjdk20": "openjdk@21",
-    "java/openjdk21": "openjdk@21",
-    "java/openjdk22": "openjdk@21",
-    "java/openjdk23": "openjdk@21",
-    "java/openjdk24": "openjdk@21",
-    "java/openjdk25": "openjdk@21",
-    "java/openjdk26": "openjdk@21",
-    "java/openjdk8": "openjdk@21",
+    "java/openjdk11": "openjdk@25",
+    "java/openjdk13": "openjdk@25",
+    "java/openjdk15": "openjdk@25",
+    "java/openjdk17": "openjdk@25",
+    "java/openjdk18": "openjdk@25",
+    "java/openjdk19": "openjdk@25",
+    "java/openjdk20": "openjdk@25",
+    "java/openjdk21": "openjdk@25",
+    "java/openjdk22": "openjdk@25",
+    "java/openjdk23": "openjdk@25",
+    "java/openjdk24": "openjdk@25",
+    "java/openjdk25": "openjdk@25",
+    "java/openjdk26": "openjdk@25",
+    "java/openjdk8": "openjdk@25",
     "java/osmosis": "osmosis",
     "java/plantuml": "plantuml",
     "java/pmd": "pmd",
@@ -124,6 +124,7 @@
     "jump": "jump",
     "just": "just",
     "jwt-cli": "jwt-cli",
+    "jxrlib": "jxrlib",
     "jython": "jython"
   }
 }

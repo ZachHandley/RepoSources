@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "n",
-    "total_mappings": 259
+    "total_mappings": 261
   },
   "mappings": {
     "naabu": "naabu",
@@ -35,6 +35,7 @@
     "nb": "nb",
     "nb-git": "nb",
     "nbimg": "nbimg",
+    "nbping-bin": "nbping",
     "nbsdgames-git": "nbsdgames",
     "ncdc": "ncdc",
     "ncdc-git": "ncdc",
@@ -93,9 +94,9 @@
     "netris-git": "netris",
     "netscanner-bin": "netscanner",
     "netsurf-buildsystem-git": "netsurf-buildsystem",
-    "nettle-git": "nettle",
-    "nettle6": "nettle",
-    "nettle7": "nettle",
+    "nettle-git": "nettle@3",
+    "nettle6": "nettle@3",
+    "nettle7": "nettle@3",
     "network-ups-tools-git": "nut",
     "newlisp": "newlisp",
     "newman": "newman",
@@ -182,6 +183,7 @@
     "nomino": "nomino",
     "nomino-bin": "nomino",
     "nono-ai": "nono",
+    "nono-ai-bin": "nono",
     "nono-ai-git": "nono",
     "nopoll": "nopoll",
     "nopoll-git": "nopoll",

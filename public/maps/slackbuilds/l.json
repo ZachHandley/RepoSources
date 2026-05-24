@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "l",
-    "total_mappings": 538
+    "total_mappings": 537
   },
   "mappings": {
     "libraries/Botan": "botan@2",
@@ -141,7 +141,6 @@
     "libraries/hoedown": "hoedown",
     "libraries/htmlcxx": "htmlcxx",
     "libraries/htslib": "htslib",
-    "libraries/hyperscan": "hyperscan",
     "libraries/hypre": "hypre",
     "libraries/iir1": "iir1",
     "libraries/imlib2": "imlib2",

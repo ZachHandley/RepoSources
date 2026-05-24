@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "s",
-    "total_mappings": 268
+    "total_mappings": 269
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -169,6 +169,7 @@
     "sqlite-analyzer": "sqlite-analyzer",
     "sqlite-tcl": "sqlite",
     "sqlmap": "sqlmap",
+    "sqlsmith": "sqlsmith",
     "sqlx-cli": "sqlx-cli",
     "squashfs-tools": "squashfs",
     "squashfuse": "squashfuse",

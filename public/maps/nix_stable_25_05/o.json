@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_05",
     "shard": "o",
@@ -110,7 +110,7 @@
     "openhmd": "openhmd",
     "openimageio": "openimageio",
     "openimageio_2": "openimageio",
-    "openjdk": "openjdk@21",
+    "openjdk": "openjdk@25",
     "openjpeg": "openjpeg",
     "openjph": "openjph",
     "openldap": "openldap",

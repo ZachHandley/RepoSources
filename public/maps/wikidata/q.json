@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "q",
-    "total_mappings": 1540
+    "total_mappings": 1541
   },
   "mappings": {
     "Q100531088": "texlab",
@@ -342,7 +342,7 @@
     "Q1457398": "mutt",
     "Q14579": "linux-headers@6.8",
     "Q1458021": "singular",
-    "Q1461054": "openjdk@21",
+    "Q1461054": "openjdk@25",
     "Q1466320": "pulseaudio",
     "Q1479432": "ntfs-3g",
     "Q1485048": "gd",
@@ -916,7 +916,7 @@
     "Q3327305": "mtools",
     "Q3337877": "neko",
     "Q334824": "passenger",
-    "Q334879": "erlang@27",
+    "Q334879": "erlang@28",
     "Q3353118": "openjpeg",
     "Q3359573": "pari",
     "Q3392881": "po4a",
@@ -1213,6 +1213,7 @@
     "Q62855763": "numactl",
     "Q62855925": "ntp",
     "Q62856911": "paperkey",
+    "Q62857096": "nload",
     "Q62858226": "plzip",
     "Q62860331": "pngquant",
     "Q62860422": "libiconv",
@@ -1330,7 +1331,7 @@
     "Q69904311": "nnn",
     "Q6993386": "neon",
     "Q6998198": "nco",
-    "Q7000521": "nettle",
+    "Q7000521": "nettle@3",
     "Q7000845": "nkf",
     "Q7000904": "nss",
     "Q70014271": "newsboat",

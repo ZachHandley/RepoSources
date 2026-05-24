@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_7",
     "shard": "p",
-    "total_mappings": 127
+    "total_mappings": 128
   },
   "mappings": {
     "PEGTL": "pegtl",
@@ -133,6 +133,7 @@
     "python3-six": "six",
     "python3-sphinx": "sphinx-doc",
     "python3-virtualenv": "virtualenv",
-    "python34": "python@3.9"
+    "python34": "python@3.9",
+    "python34-setuptools": "python-setuptools"
   }
 }

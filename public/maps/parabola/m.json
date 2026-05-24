@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "m",
-    "total_mappings": 168
+    "total_mappings": 170
   },
   "mappings": {
     "m4": "m4",
     "macchanger": "macchanger",
     "macchina": "macchina",
+    "mado": "mado",
     "maeparser": "maeparser",
     "mage": "mage",
     "magic-wormhole": "magic-wormhole",
@@ -125,6 +126,7 @@
     "molecule": "molecule",
     "mongo-c-driver": "mongo-c-driver@1",
     "monit": "monit",
+    "monitoring-plugins": "monitoring-plugins",
     "monkeysphere": "monkeysphere",
     "mono": "mono",
     "monolith": "monolith",

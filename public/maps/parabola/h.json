@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "h",
-    "total_mappings": 78
+    "total_mappings": 77
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -82,7 +82,6 @@
     "hydra": "hydra",
     "hyfetch": "hyfetch",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hyperv": "linux-headers@6.8",
     "hypre": "hypre"
   }

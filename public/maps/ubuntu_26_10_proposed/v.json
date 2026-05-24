@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_10_proposed",
+    "shard": "v",
+    "total_mappings": 26
+  },
+  "mappings": {
+    "vala": "vala",
+    "vala-0.56-doc": "vala",
+    "valac": "vala",
+    "valac-0.56-vapi": "vala",
+    "valac-bin": "vala",
+    "valadoc": "vala",
+    "valkey": "valkey",
+    "valkey-sentinel": "valkey",
+    "valkey-server": "valkey",
+    "valkey-tools": "valkey",
+    "vera++": "vera++",
+    "verilator": "verilator",
+    "vim": "vim",
+    "vim-common": "vim",
+    "vim-doc": "vim",
+    "vim-gtk3": "vim",
+    "vim-gui-common": "vim",
+    "vim-haproxy": "haproxy@2.8",
+    "vim-motif": "vim",
+    "vim-nox": "vim",
+    "vim-runtime": "vim",
+    "vim-tiny": "vim",
+    "vips": "vips",
+    "virtualenv": "virtualenv",
+    "visidata": "visidata",
+    "vte2.91": "vte3"
+  }
+}

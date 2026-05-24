@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "t",
-    "total_mappings": 220
+    "total_mappings": 224
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -45,6 +45,8 @@
     "tdom-devel": "tdom",
     "tealdeer": "tealdeer",
     "teem": "teem",
+    "teem-debuginfo": "teem",
+    "teem-debugsource": "teem",
     "teem-devel": "teem",
     "teem-examples": "teem",
     "teem-libs": "teem",
@@ -105,6 +107,8 @@
     "tinyxml": "tinyxml",
     "tinyxml-devel": "tinyxml",
     "tinyxml2": "tinyxml2",
+    "tinyxml2-debuginfo": "tinyxml",
+    "tinyxml2-debugsource": "tinyxml",
     "tinyxml2-devel": "tinyxml2",
     "tio": "tio",
     "tkrzw": "tkrzw",

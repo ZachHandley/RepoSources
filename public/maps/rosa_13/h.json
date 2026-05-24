@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "h",
-    "total_mappings": 103
+    "total_mappings": 100
   },
   "mappings": {
     "HdrHistogram_c": "hdrhistogram_c",
@@ -106,9 +106,6 @@
     "hyperfine": "hyperfine",
     "hyperfine-bash-completion": "hyperfine",
     "hyperfine-fish-completion": "hyperfine",
-    "hyperfine-zsh-completion": "hyperfine",
-    "hyperscan": "hyperscan",
-    "hyperscan-debuginfo": "hyperscan",
-    "hyperscan-debugsource": "hyperscan"
+    "hyperfine-zsh-completion": "hyperfine"
   }
 }

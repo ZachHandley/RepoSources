@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "g",
-    "total_mappings": 149
+    "total_mappings": 150
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -103,6 +103,7 @@
     "golangci-lint-langserver": "golangci-lint-langserver",
     "gom": "gom",
     "goocanvas": "goocanvas",
+    "goose-cli": "block-goose-cli",
     "gopls": "gopls",
     "govc": "govc",
     "gpa": "gpa",

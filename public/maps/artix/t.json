@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "t",
-    "total_mappings": 66
+    "total_mappings": 64
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -16,6 +16,7 @@
     "task": "task",
     "tcc": "tcc",
     "tclap": "tclap",
+    "tcpdump": "tcpdump",
     "tcsh": "tcsh",
     "tdb": "tdb",
     "tea": "tea",
@@ -57,9 +58,6 @@
     "transmission-cli": "transmission-cli",
     "transmission-gtk": "transmission-cli",
     "transmission-qt": "transmission-cli",
-    "transmission3-cli": "transmission-cli",
-    "transmission3-gtk": "transmission-cli",
-    "transmission3-qt": "transmission-cli",
     "trash-cli": "trash-cli",
     "tre": "tre",
     "tree": "tree",

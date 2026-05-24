@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "c",
@@ -62,6 +62,7 @@
     "cargo-geiger": "cargo-geiger",
     "cargo-generate": "cargo-generate",
     "cargo-hack": "cargo-hack",
+    "cargo-insta": "cargo-insta",
     "cargo-llvm-cov": "cargo-llvm-cov",
     "cargo-llvm-lines": "cargo-llvm-lines",
     "cargo-make": "cargo-make",
@@ -396,7 +397,6 @@
     "criterion": "criterion",
     "croaring": "croaring",
     "croc": "croc",
-    "crossplane-cli": "crossplane",
     "crow": "crow",
     "cruft": "cruft",
     "crun": "crun",

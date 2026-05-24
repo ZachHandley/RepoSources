@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "m",
-    "total_mappings": 1
+    "total_mappings": 2
   },
   "mappings": {
-    "mpd": "mpd"
+    "mesa": "mesa",
+    "ms-gsl": "cpp-gsl"
   }
 }

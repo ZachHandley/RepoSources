@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "amazon_1",
     "shard": "j",
@@ -9,9 +9,9 @@
   "mappings": {
     "jansson": "jansson",
     "jasper": "jasper",
-    "java-1.6.0-openjdk": "openjdk@21",
-    "java-1.7.0-openjdk": "openjdk@21",
-    "java-1.8.0-openjdk": "openjdk@21",
+    "java-1.6.0-openjdk": "openjdk@25",
+    "java-1.7.0-openjdk": "openjdk@25",
+    "java-1.8.0-openjdk": "openjdk@25",
     "javacc": "javacc",
     "jbigkit": "jbigkit",
     "jemalloc": "jemalloc",

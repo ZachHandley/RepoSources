@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "l",
-    "total_mappings": 1011
+    "total_mappings": 1016
   },
   "mappings": {
     "LibRaw-devel": "libraw",
@@ -154,6 +154,7 @@
     "libbinio-debugsource": "libbinio",
     "libbinio-devel": "libbinio",
     "libbinpac": "zeek",
+    "libbitcoinkernel": "bitcoin",
     "libbluray": "libbluray",
     "libbluray-bdj": "libbluray",
     "libbluray-debuginfo": "libbluray",
@@ -822,6 +823,10 @@
     "libxml++-debugsource": "libxml++@5",
     "libxml++-devel": "libxml++@5",
     "libxml++-doc": "libxml++@5",
+    "libxmp": "libxmp",
+    "libxmp-debuginfo": "libxmp",
+    "libxmp-debugsource": "libxmp",
+    "libxmp-devel": "libxmp",
     "libxo": "libxo",
     "libxo-debuginfo": "libxo",
     "libxo-debugsource": "libxo",

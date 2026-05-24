@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "r",
-    "total_mappings": 458
+    "total_mappings": 462
   },
   "mappings": {
     "R-KernSmooth": "r",
@@ -447,6 +447,10 @@
     "rust1.94-debuginfo": "rust",
     "rust1.94-debugsource": "rust",
     "rust1.94-src": "rust",
+    "rust1.95": "rust",
+    "rust1.95-debuginfo": "rust",
+    "rust1.95-debugsource": "rust",
+    "rust1.95-src": "rust",
     "rustscan": "rustscan",
     "rustscan-debuginfo": "rustscan",
     "rustscan-debugsource": "rustscan",

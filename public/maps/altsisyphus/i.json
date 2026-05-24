@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "i",
-    "total_mappings": 164
+    "total_mappings": 163
   },
   "mappings": {
     "I2util": "i2util",
@@ -133,7 +133,6 @@
     "iptables-nft-debuginfo": "iptables",
     "iputils": "iputils",
     "iputils-debuginfo": "iputils",
-    "ipython": "ipython",
     "ipython3": "ipython",
     "irssi": "irssi",
     "irssi-debuginfo": "irssi",

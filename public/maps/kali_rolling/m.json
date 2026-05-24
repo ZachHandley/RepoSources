@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "m",
-    "total_mappings": 402
+    "total_mappings": 403
   },
   "mappings": {
     "m4": "m4",
@@ -211,6 +211,7 @@
     "minimodem": "minimodem",
     "minisat": "minisat",
     "minisat2": "minisat",
+    "miniserve": "miniserve",
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minix-modules-6.19.14+kali-sh7751r-di": "linux-headers@6.8",
@@ -232,6 +233,7 @@
     "mle": "mle",
     "mlir-19-tools": "llvm@21",
     "mlir-21-tools": "llvm@21",
+    "mlir-22-tools": "llvm@21",
     "mlt": "mlt",
     "mlton": "mlton",
     "mlton-basis": "mlton",
@@ -305,7 +307,6 @@
     "most": "most",
     "motif": "openmotif",
     "mount": "gnu-getopt",
-    "mozjs128": "spidermonkey@115",
     "mozjs140": "spidermonkey@115",
     "mp3blaster": "mp3blaster",
     "mp3check": "mp3check",

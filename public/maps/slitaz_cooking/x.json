@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "x",
-    "total_mappings": 139
+    "total_mappings": 140
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -111,6 +111,7 @@
     "xorg-libxkbfile": "libxkbfile",
     "xorg-libxkbfile-dev": "libxkbfile",
     "xorg-libxshmfence": "libxshmfence",
+    "xorg-libxshmfence-dev": "libxshmfence",
     "xorg-makedepend": "makedepend",
     "xorg-mkfontscale": "mkfontscale",
     "xorg-server": "xorg-server",

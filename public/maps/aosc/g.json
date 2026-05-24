@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "g",
-    "total_mappings": 161
+    "total_mappings": 162
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -44,6 +44,7 @@
     "gifsicle": "gifsicle",
     "gifski": "gifski",
     "girara": "girara",
+    "git": "git",
     "git-absorb": "git-absorb",
     "git-archive-all": "git-archive-all",
     "git-branchless": "git-branchless",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "t",
-    "total_mappings": 188
+    "total_mappings": 187
   },
   "mappings": {
     "taglib": "taglib",
@@ -88,7 +88,6 @@
     "texinfo-locale": "texinfo",
     "texinfo-man": "texinfo",
     "texlab": "texlab",
-    "tflint": "tflint",
     "thefuck": "thefuck",
     "thefuck-doc": "thefuck",
     "thefuck-pycache": "thefuck",

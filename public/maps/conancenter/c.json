@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "c",
-    "total_mappings": 71
+    "total_mappings": 70
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -72,7 +72,6 @@
     "cryptopp": "cryptopp",
     "cspice": "cspice",
     "ctre": "ctre",
-    "cunit": "cunit",
     "curlpp": "curlpp",
     "cwalk": "cwalk",
     "cxxopts": "cxxopts",

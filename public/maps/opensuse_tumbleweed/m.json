@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "m",
-    "total_mappings": 757
+    "total_mappings": 758
   },
   "mappings": {
     "Mesa": "mesa",
@@ -452,6 +452,7 @@
     "minizip-ng-debuginfo": "minizip-ng",
     "minizip-ng-debugsource": "minizip-ng",
     "minizip-ng-devel": "minizip-ng",
+    "mistral-vibe": "mistral-vibe",
     "mjpegtools": "mjpegtools",
     "mjpegtools-debuginfo": "mjpegtools",
     "mjpegtools-debugsource": "mjpegtools",

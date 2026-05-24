@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "s",
@@ -178,6 +178,7 @@
     "sci-mathematics/fricas": "fricas",
     "sci-mathematics/ginac": "ginac",
     "sci-mathematics/glpk": "glpk",
+    "sci-mathematics/gmp-ecm": "gmp-ecm",
     "sci-mathematics/highs": "highs",
     "sci-mathematics/jags": "jags",
     "sci-mathematics/kissat": "kissat",
@@ -417,7 +418,6 @@
     "sys-fs/simple-mtpfs": "simple-mtpfs",
     "sys-fs/squashfs-tools": "squashfs",
     "sys-fs/squashfuse": "squashfuse",
-    "sys-fs/xcp": "xcp",
     "sys-kernel/git-sources": "linux-headers@6.8",
     "sys-kernel/linux-docs": "linux-headers@6.8",
     "sys-kernel/linux-headers": "linux-headers@6.8",

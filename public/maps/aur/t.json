@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "t",
-    "total_mappings": 377
+    "total_mappings": 374
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -147,7 +147,6 @@
     "tfenv": "tfenv",
     "tfk8s": "tfk8s",
     "tfk8s-bin": "tfk8s",
-    "tflint-bin": "tflint",
     "tfmigrate": "tfmigrate",
     "tfsec": "tfsec",
     "tfsec-bin": "tfsec",
@@ -229,8 +228,6 @@
     "tnftpd": "tnftpd",
     "toast-bin": "toast",
     "tock-bin": "tock",
-    "todoist-bin": "todoist-cli",
-    "todoist-git": "todoist-cli",
     "todoman-git": "todoman",
     "todotxt": "todo-txt",
     "todotxt-git": "todo-txt",

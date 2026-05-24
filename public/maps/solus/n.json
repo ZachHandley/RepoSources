@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "n",
-    "total_mappings": 129
+    "total_mappings": 131
   },
   "mappings": {
     "nano": "nano",
@@ -60,12 +60,12 @@
     "netdata-dbginfo": "netdata",
     "nethogs": "nethogs",
     "nethogs-dbginfo": "nethogs",
-    "nettle": "nettle",
-    "nettle-32bit-dbginfo": "nettle",
-    "nettle-32bit-devel": "nettle",
-    "nettle-bin": "nettle",
-    "nettle-dbginfo": "nettle",
-    "nettle-devel": "nettle",
+    "nettle": "nettle@3",
+    "nettle-32bit-dbginfo": "nettle@3",
+    "nettle-32bit-devel": "nettle@3",
+    "nettle-bin": "nettle@3",
+    "nettle-dbginfo": "nettle@3",
+    "nettle-devel": "nettle@3",
     "newsboat": "newsboat",
     "newsboat-dbginfo": "newsboat",
     "newt": "newt",
@@ -112,6 +112,8 @@
     "nodejs-20-dbginfo": "node@24",
     "nodejs-22": "node@24",
     "nodejs-22-dbginfo": "node@24",
+    "nodejs-24": "node@24",
+    "nodejs-24-dbginfo": "node@24",
     "notmuch": "notmuch",
     "notmuch-dbginfo": "notmuch",
     "notmuch-devel": "notmuch",

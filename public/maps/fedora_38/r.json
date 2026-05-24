@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_38",
     "shard": "r",
-    "total_mappings": 830
+    "total_mappings": 833
   },
   "mappings": {
     "R": "r",
@@ -571,6 +571,9 @@
     "rust-cargo-deny-debuginfo": "cargo-deny",
     "rust-cargo-deny-debugsource": "cargo-deny",
     "rust-cargo-deny-devel": "cargo-deny",
+    "rust-cargo-insta": "cargo-insta",
+    "rust-cargo-insta-debuginfo": "cargo-insta",
+    "rust-cargo-insta-debugsource": "cargo-insta",
     "rust-cbindgen": "cbindgen",
     "rust-cbindgen+clap-devel": "cbindgen",
     "rust-cbindgen+default-devel": "cbindgen",

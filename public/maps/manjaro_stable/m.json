@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "m",
-    "total_mappings": 161
+    "total_mappings": 162
   },
   "mappings": {
     "m4": "m4",
     "mac": "mac",
     "macchanger": "macchanger",
     "macchina": "macchina",
+    "mado": "mado",
     "maeparser": "maeparser",
     "mage": "mage",
     "magic-wormhole": "magic-wormhole",

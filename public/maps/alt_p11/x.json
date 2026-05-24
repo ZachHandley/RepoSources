@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "x",
-    "total_mappings": 158
+    "total_mappings": 156
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -31,8 +31,6 @@
     "xbyak": "xbyak",
     "xclip": "xclip",
     "xclip-debuginfo": "xclip",
-    "xcp": "xcp",
-    "xcp-debuginfo": "xcp",
     "xcursorgen": "xcursorgen",
     "xcursorgen-debuginfo": "xcursorgen",
     "xdelta1": "xdelta",

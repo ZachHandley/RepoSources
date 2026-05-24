@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "x",
-    "total_mappings": 215
+    "total_mappings": 228
   },
   "mappings": {
     "xapian-core": "xapian",
@@ -220,6 +220,19 @@
     "xfs-modules-7.0.4+deb13-riscv64-di": "linux-headers@6.8",
     "xfs-modules-7.0.4+deb13-s390x-di": "linux-headers@6.8",
     "xfs-modules-7.0.4+deb13-sh7751r-di,xfs-modules-7.0.4+deb13-sparc64-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-alpha-generic-di,xfs-modules-7.0.7+deb13-amd64-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-arm64-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-armmp-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-loong64-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-m68k-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-parisc-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-parisc64-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-powerpc-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-powerpc64-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-powerpc64le-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-riscv64-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-s390x-di": "linux-headers@6.8",
+    "xfs-modules-7.0.7+deb13-sh7751r-di,xfs-modules-7.0.7+deb13-sparc64-di": "linux-headers@6.8",
     "xmake": "xmake",
     "xmake-data": "xmake"
   }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "p",
-    "total_mappings": 102
+    "total_mappings": 101
   },
   "mappings": {
     "parallel-hashmap": "parallel-hashmap",
@@ -82,6 +82,7 @@
     "python3-adios2": "adios2",
     "python3-adios2-mpi": "adios2",
     "python3-adios2-serial": "adios2",
+    "python3-botan": "botan@2",
     "python3-clang-20": "llvm@21",
     "python3-cracklib": "cracklib",
     "python3-gdal": "gdal",
@@ -90,13 +91,12 @@
     "python3-liblinear": "liblinear",
     "python3-libsvm": "libsvm",
     "python3-lldb-20": "llvm@21",
-    "python3-mypy": "mypy",
+    "python3-openbabel": "open-babel",
     "python3-pmix": "pmix",
     "python3-protobuf": "protobuf@33",
     "python3-pyopencolorio": "opencolorio",
     "python3-scipy": "scipy",
     "python3-sphinx": "sphinx-doc",
-    "python3-torch": "pytorch",
     "python3.15": "python@3.9",
     "python3.15-dbg": "python@3.9",
     "python3.15-dev": "python@3.9",
@@ -107,7 +107,6 @@
     "python3.15-minimal": "python@3.9",
     "python3.15-nopie": "python@3.9",
     "python3.15-tk": "python@3.9",
-    "python3.15-venv": "python@3.9",
-    "pytorch": "pytorch"
+    "python3.15-venv": "python@3.9"
   }
 }

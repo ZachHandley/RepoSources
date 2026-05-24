@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "f",
-    "total_mappings": 58
+    "total_mappings": 59
   },
   "mappings": {
     "faad2": "faad2",
@@ -52,6 +52,7 @@
     "foot": "foot",
     "forgejo": "forgejo",
     "fossil": "fossil",
+    "foundry": "foundry",
     "freeglut": "freeglut",
     "freeimage": "freeimage",
     "freerdp": "freerdp",

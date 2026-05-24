@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "b",
-    "total_mappings": 359
+    "total_mappings": 358
   },
   "mappings": {
     "BibTool": "bib-tool",
@@ -46,7 +46,6 @@
     "baresip-ctrl_dbus": "baresip",
     "baresip-devel": "baresip",
     "baresip-g722": "baresip",
-    "baresip-g726": "baresip",
     "baresip-gst": "baresip",
     "baresip-gtk": "baresip",
     "baresip-jack": "baresip",

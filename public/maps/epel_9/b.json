@@ -1,15 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "b",
     "total_mappings": 249
   },
   "mappings": {
-    "BibTool": "bib-tool",
-    "BibTool-debuginfo": "bib-tool",
-    "BibTool-debugsource": "bib-tool",
     "b3sum": "b3sum",
     "b4": "b4",
     "backupninja": "backupninja",
@@ -232,6 +229,9 @@
     "boxes-debuginfo": "boxes",
     "boxes-debugsource": "boxes",
     "boxes-vim": "boxes",
+    "bpftop": "bpftop",
+    "bpftop-debuginfo": "bpftop",
+    "bpftop-debugsource": "bpftop",
     "btop": "btop",
     "btop-debuginfo": "btop",
     "btop-debugsource": "btop",

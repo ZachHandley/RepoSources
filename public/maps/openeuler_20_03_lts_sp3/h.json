@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openeuler_20_03_lts_sp3",
     "shard": "h",
-    "total_mappings": 16
+    "total_mappings": 15
   },
   "mappings": {
     "h2": "h2",
@@ -21,7 +21,6 @@
     "hivex": "hivex",
     "httpd": "httpd",
     "hunspell": "hunspell",
-    "hwloc": "hwloc",
-    "hyperscan": "hyperscan"
+    "hwloc": "hwloc"
   }
 }

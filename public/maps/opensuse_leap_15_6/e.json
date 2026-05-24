@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "e",
@@ -37,9 +37,9 @@
     "entr": "entr",
     "erdtree": "erdtree",
     "erfa": "erfa",
-    "erlang": "erlang@27",
+    "erlang": "erlang@28",
     "erlang-rebar3": "rebar3",
-    "erlang26": "erlang@27",
+    "erlang26": "erlang@28",
     "erofs-utils": "erofs-utils",
     "espeak": "espeak",
     "espeak-ng": "espeak-ng",

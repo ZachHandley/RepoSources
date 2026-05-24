@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "x",
-    "total_mappings": 161
+    "total_mappings": 160
   },
   "mappings": {
     "Xaw3d": "libxaw3d",
@@ -30,7 +30,6 @@
     "xcbeautify": "xcbeautify",
     "xclip": "xclip",
     "xcodes": "xcodes",
-    "xcp": "xcp",
     "xcursorgen": "xcursorgen",
     "xdelta": "xdelta",
     "xdeltaUnstable": "xdelta",

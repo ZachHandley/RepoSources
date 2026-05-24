@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aixtoolbox",
     "shard": "n",
@@ -15,7 +15,7 @@
     "ncurses": "ncurses",
     "neon": "neon",
     "net-snmp": "net-snmp",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "nghttp2": "nghttp2",
     "nginx": "nginx",
     "ninja-build": "ninja",

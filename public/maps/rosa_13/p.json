@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "p",
-    "total_mappings": 1059
+    "total_mappings": 1058
   },
   "mappings": {
     "PDAL": "pdal",
@@ -576,7 +576,6 @@
     "postgresql18-debugsource": "postgresql@18",
     "postgresql18-devel": "postgresql@18",
     "postgresql18-docs": "postgresql@18",
-    "postgresql18-jit": "postgresql@18",
     "postgresql18-pg_cron": "pg_cron",
     "postgresql18-pg_cron-debuginfo": "pg_cron",
     "postgresql18-pg_cron-debugsource": "pg_cron",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "o",
-    "total_mappings": 65
+    "total_mappings": 67
   },
   "mappings": {
     "ocaml": "ocaml@4",
@@ -50,6 +50,8 @@
     "openssl-dev": "openssl@3",
     "openssl10": "openssl@4",
     "openssl10-dev": "openssl@4",
+    "openssl11": "openssl@4",
+    "openssl11-dev": "openssl@4",
     "opentyrian": "open-tyrian",
     "openvpn": "openvpn",
     "openvpn-doc": "openvpn",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "c",
-    "total_mappings": 569
+    "total_mappings": 572
   },
   "mappings": {
     "c": "c",
@@ -48,6 +48,7 @@
     "camlpdf": "camlpdf",
     "camlpdf-git": "camlpdf",
     "canfigger": "canfigger",
+    "canfigger-docs": "canfigger",
     "capnproto-git": "capnp",
     "capstone-git": "capstone",
     "carapace": "carapace",
@@ -373,6 +374,7 @@
     "code2prompt-git": "code2prompt",
     "codeberg-cli": "codeberg-cli",
     "codeberg-cli-git": "codeberg-cli",
+    "codeburn": "codeburn",
     "codec2-git": "codec2",
     "codequery": "codequery",
     "coder": "coder",
@@ -411,6 +413,7 @@
     "confd": "confd",
     "config-file-validator": "config-file-validator",
     "conftest": "conftest",
+    "conftest-bin": "conftest",
     "conmon-git": "conmon",
     "connect": "connect",
     "conserver": "conserver",
@@ -466,11 +469,11 @@
     "cppinsights-git": "cppinsights",
     "cppman": "cppman",
     "cppman-git": "cppman",
+    "cppp-git": "cppp",
     "cpprestsdk": "cpprestsdk",
     "cpptest": "cpptest",
     "cpptoml": "cpptoml",
     "cpptoml-git": "cpptoml",
-    "cpptrace": "cpptrace",
     "cpputest-git": "cpputest",
     "cppzmq-git": "cppzmq",
     "cpr": "cpr",

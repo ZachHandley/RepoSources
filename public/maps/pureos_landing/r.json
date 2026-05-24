@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pureos_landing",
     "shard": "r",
-    "total_mappings": 244
+    "total_mappings": 247
   },
   "mappings": {
     "r-base": "r",
@@ -100,8 +100,8 @@
     "reuse": "reuse",
     "rex": "rex",
     "rfkill": "gnu-getopt",
-    "rfkill-modules-6.12.73+deb13-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-6.12.73+deb13-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.86+deb13-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.86+deb13-loong64-di": "linux-headers@6.8",
     "rgxg": "rgxg",
     "rhash": "rhash",
     "rhino": "rhino",
@@ -207,7 +207,9 @@
     "rust-bkt": "bkt",
     "rust-blake3": "b3sum",
     "rust-cargo-auditable": "cargo-auditable",
+    "rust-cargo-binutils": "cargo-binutils",
     "rust-cargo-c": "cargo-c",
+    "rust-cargo-outdated": "cargo-outdated",
     "rust-cbindgen": "cbindgen",
     "rust-clippy": "rust",
     "rust-comrak": "comrak",
@@ -218,6 +220,7 @@
     "rust-czkawka-gui": "czkawka",
     "rust-doc": "rust",
     "rust-du-dust": "dust",
+    "rust-dysk": "dysk",
     "rust-eza": "eza",
     "rust-fd-find": "fd",
     "rust-gdb": "rust",

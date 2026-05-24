@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "raspbian_oldstable",
     "shard": "r",
-    "total_mappings": 241
+    "total_mappings": 243
   },
   "mappings": {
     "r-base": "r",
@@ -216,7 +216,9 @@
     "rust-b3sum": "b3sum",
     "rust-bat": "bat",
     "rust-blake3": "b3sum",
+    "rust-cargo-binutils": "cargo-binutils",
     "rust-cargo-c": "cargo-c",
+    "rust-cargo-outdated": "cargo-outdated",
     "rust-cbindgen": "cbindgen",
     "rust-clippy": "rust",
     "rust-coreutils": "uutils-coreutils",

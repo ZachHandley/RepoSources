@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
     "shard": "l",
-    "total_mappings": 6322
+    "total_mappings": 6327
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1240,6 +1240,11 @@
     "libebur128-dev": "libebur128",
     "libecasoundc-dev": "ecasound",
     "libecasoundc1v5": "ecasound",
+    "libecm-dev": "gmp-ecm",
+    "libecm0": "gmp-ecm",
+    "libecm0-dbg": "gmp-ecm",
+    "libecm0-dev": "gmp-ecm",
+    "libecm0-dev-common": "gmp-ecm",
     "libecore-con1": "efl",
     "libecore-dev": "efl",
     "libecore-evas1": "efl",
@@ -2297,7 +2302,7 @@
     "libhivex-ocaml-dev": "hivex",
     "libhivex0": "hivex",
     "libhivex0-dbg": "hivex",
-    "libhogweed4": "nettle",
+    "libhogweed4": "nettle@3",
     "libhpdf-2.2.1": "libharu",
     "libhpdf-dev": "libharu",
     "libhtmlcxx-dev": "htmlcxx",
@@ -3366,7 +3371,7 @@
     "libnetpbm9-dev": "netpbm",
     "libnetsvcs-6.3.3": "ace",
     "libnetsvcs-dev": "ace",
-    "libnettle6": "nettle",
+    "libnettle6": "nettle@3",
     "libnfc": "libnfc",
     "libnfc-bin": "libnfc",
     "libnfc-dev": "libnfc",

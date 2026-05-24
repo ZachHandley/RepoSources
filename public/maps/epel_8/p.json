@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "p",
-    "total_mappings": 94
+    "total_mappings": 95
   },
   "mappings": {
     "PDAL": "pdal",
@@ -100,6 +100,7 @@
     "python-twine": "twine",
     "python-wxpython4": "wxpython",
     "python3-mypy": "mypy",
-    "python3-rpm": "rpm"
+    "python3-rpm": "rpm",
+    "python3.12-six-epel": "six"
   }
 }

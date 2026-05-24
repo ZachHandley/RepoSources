@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "adelie_current",
     "shard": "e",
@@ -44,9 +44,9 @@
     "enchant-doc": "enchant",
     "erl-rebar3": "rebar3",
     "erl-rebar3-doc": "rebar3",
-    "erlang": "erlang@27",
-    "erlang-dbg": "erlang@27",
-    "erlang-dev": "erlang@27",
+    "erlang": "erlang@28",
+    "erlang-dbg": "erlang@28",
+    "erlang-dev": "erlang@28",
     "evince": "evince",
     "evince-dbg": "evince",
     "evince-dev": "evince",

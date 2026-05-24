@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "h",
-    "total_mappings": 200
+    "total_mappings": 202
   },
   "mappings": {
     "h2": "h2",
@@ -96,6 +96,7 @@
     "hevi-bin": "hevi",
     "hevi-git": "hevi",
     "hex-hx-git": "hex",
+    "hexapoda-bin": "hexapoda",
     "hexcurse": "hexcurse",
     "hexcurse-git": "hexcurse",
     "hexd": "hexd",
@@ -105,6 +106,8 @@
     "hey-bin": "hey",
     "hey-git": "hey",
     "hf": "hf",
+    "hf-mount": "hf-mount",
+    "hf-mount-bin": "hf-mount",
     "hfstospell": "hfstospell",
     "hfstospell-git": "hfstospell",
     "hfsutils": "hfsutils",
@@ -201,7 +204,6 @@
     "hyfetch-git": "hyfetch",
     "hyper-mcp-bin": "hyper-mcp",
     "hyperfine-git": "hyperfine",
-    "hyperscan-git": "hyperscan",
     "hypopg": "hypopg",
     "hypopg-git": "hypopg",
     "hysteria": "hysteria",

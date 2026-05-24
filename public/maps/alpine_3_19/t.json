@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alpine_3_19",
     "shard": "t",
-    "total_mappings": 281
+    "total_mappings": 280
   },
   "mappings": {
     "taglib": "taglib",
@@ -142,7 +142,6 @@
     "texlive-full": "texlive",
     "texlive-luatex": "texlive",
     "texlive-xetex": "texlive",
-    "tflint": "tflint",
     "the_silver_searcher": "the_silver_searcher",
     "the_silver_searcher-bash-completion": "the_silver_searcher",
     "the_silver_searcher-doc": "the_silver_searcher",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "a",
-    "total_mappings": 195
+    "total_mappings": 193
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -188,8 +188,6 @@
     "avahi": "avahi",
     "avahi-dnsconfd": "avahi",
     "avahi-python3": "avahi",
-    "avahi-sharp": "avahi",
-    "avahi-sharp-doc": "avahi",
     "avahi-x11": "avahi",
     "avfs": "avfs",
     "avr-gdb": "aarch64-elf-gdb",

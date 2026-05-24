@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "h",
-    "total_mappings": 108
+    "total_mappings": 109
   },
   "mappings": {
     "h2c": "h2c",
@@ -50,6 +50,7 @@
     "hermes-agent": "hermes-agent",
     "hesiod": "hesiod",
     "hevea": "hevea",
+    "hexapoda": "hexapoda",
     "hexcurse": "hexcurse",
     "hexd": "hexd",
     "hexedit": "hexedit",
@@ -64,6 +65,7 @@
     "hilite": "hilite",
     "hiredis": "hiredis",
     "hivex": "hivex",
+    "hl": "hl",
     "hmmer": "hmmer",
     "homebank": "homebank",
     "hostdb": "hostdb",
@@ -112,7 +114,6 @@
     "hydra": "hydra",
     "hyperestraier": "hyperestraier",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hyphy": "hyphy",
     "hypre": "hypre"
   }

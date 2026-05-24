@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "d",
-    "total_mappings": 17
+    "total_mappings": 18
   },
   "mappings": {
     "daktilo": "daktilo",
@@ -23,6 +23,7 @@
     "dssim": "dssim",
     "du-dust": "dust",
     "dua-cli": "dua-cli",
-    "dutree": "dutree"
+    "dutree": "dutree",
+    "dysk": "dysk"
   }
 }

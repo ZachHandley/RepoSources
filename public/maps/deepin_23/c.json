@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "deepin_23",
     "shard": "c",
-    "total_mappings": 331
+    "total_mappings": 333
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -25,8 +25,10 @@
     "cargo-1.81": "rust",
     "cargo-1.81-doc": "rust",
     "cargo-auditable": "cargo-auditable",
+    "cargo-binutils": "cargo-binutils",
     "cargo-c": "cargo-c",
     "cargo-doc": "rust",
+    "cargo-outdated": "cargo-outdated",
     "castxml": "castxml",
     "cataclysm-dda": "cataclysm",
     "cataclysm-dda-curses": "cataclysm",

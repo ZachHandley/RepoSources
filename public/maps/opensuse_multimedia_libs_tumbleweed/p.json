@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "p",
-    "total_mappings": 69
+    "total_mappings": 71
   },
   "mappings": {
     "pcaudiolib": "pcaudiolib",
@@ -68,13 +68,15 @@
     "python-aubio-debuginfo": "aubio",
     "python-aubio-debugsource": "aubio",
     "python-lcms": "little-cms2",
-    "python3-caca": "libcaca",
     "python3-mlt": "mlt",
     "python3-ola": "ola",
     "python3-vapoursynth": "vapoursynth",
     "python311-aubio": "aubio",
+    "python311-caca": "libcaca",
     "python313-aubio": "aubio",
+    "python313-caca": "libcaca",
     "python313-lilv": "lilv",
-    "python314-aubio": "aubio"
+    "python314-aubio": "aubio",
+    "python314-caca": "libcaca"
   }
 }

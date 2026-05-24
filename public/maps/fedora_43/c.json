@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "c",
-    "total_mappings": 573
+    "total_mappings": 576
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -83,7 +83,9 @@
     "captree": "libcap",
     "cargo": "rust",
     "cargo-c": "cargo-c",
+    "cargo-cyclonedx": "cargo-cyclonedx",
     "cargo-deny": "cargo-deny",
+    "cargo-insta": "cargo-insta",
     "castget": "castget",
     "castxml": "castxml",
     "cataclysm-dda": "cataclysm",
@@ -196,6 +198,7 @@
     "chromaprint-tools": "chromaprint",
     "chrony": "chrony",
     "chrpath": "chrpath",
+    "chunkah": "chunkah",
     "cjdns": "cjdns",
     "cjdns-graph": "cjdns",
     "cjdns-selinux": "cjdns",

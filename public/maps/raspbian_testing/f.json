@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "f",
-    "total_mappings": 365
+    "total_mappings": 366
   },
   "mappings": {
     "f2fs-modules-6.19.6+2-amd64-di": "linux-headers@6.8",
@@ -146,6 +146,7 @@
     "flang-18": "llvm@21",
     "flang-19": "llvm@21",
     "flang-21": "llvm@21",
+    "flang-22": "llvm@21",
     "flang-7": "llvm@21",
     "flann": "flann",
     "flann-doc": "flann",

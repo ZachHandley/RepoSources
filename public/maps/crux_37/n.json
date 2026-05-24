@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "n",
@@ -17,8 +17,8 @@
     "neon": "neon",
     "neovim": "neovim",
     "neovim-qt": "neovim-qt",
-    "nettle": "nettle",
-    "nettle-32": "nettle",
+    "nettle": "nettle@3",
+    "nettle-32": "nettle@3",
     "newsboat": "newsboat",
     "nftables": "nftables",
     "nginx": "nginx",

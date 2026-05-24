@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "o",
-    "total_mappings": 47
+    "total_mappings": 48
   },
   "mappings": {
     "oatpp": "oatpp",
@@ -35,7 +35,7 @@
     "openfst": "openfst",
     "openh264": "openh264",
     "openimageio": "openimageio",
-    "openjdk": "openjdk@21",
+    "openjdk": "openjdk@25",
     "openjpeg": "openjpeg",
     "openjph": "openjph",
     "openldap": "openldap",
@@ -51,6 +51,7 @@
     "openvino": "openvino",
     "opus": "opus",
     "opusfile": "opusfile",
+    "or-tools": "or-tools",
     "orc": "orc-tools",
     "orcania": "orcania",
     "osqp": "osqp"

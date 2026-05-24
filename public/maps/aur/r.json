@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "r",
-    "total_mappings": 280
+    "total_mappings": 279
   },
   "mappings": {
     "r-mkl": "r",
@@ -13,13 +13,10 @@
     "radamsa-git": "radamsa",
     "radare2-git": "radare2",
     "radicle": "radicle",
-    "radicle-bin": "radicle",
     "radicle-cli": "radicle",
-    "radicle-cli-bin": "radicle",
     "radicle-cli-git": "radicle",
     "radicle-git": "radicle",
     "radicle-node": "radicle",
-    "radicle-node-bin": "radicle",
     "radicle-node-git": "radicle",
     "radvd-git": "radvd",
     "ragel-dev": "ragel",
@@ -116,6 +113,7 @@
     "remarshal": "remarshal",
     "remctl": "remctl",
     "render-cli-bin": "render",
+    "renovate": "renovate",
     "renovate-git": "renovate",
     "reop": "reop",
     "repeater-bin": "repeater",
@@ -223,7 +221,6 @@
     "rtmpdump-git": "rtmpdump",
     "rtorrent-color": "rtorrent",
     "rtorrent-git": "rtorrent",
-    "rtorrent-ipv6": "rtorrent",
     "rtptools": "rtptools",
     "rttr": "rttr",
     "ruby-foreman": "foreman",
@@ -266,6 +263,8 @@
     "rustic-git": "rustic",
     "rustledger": "rustledger",
     "rustledger-bin": "rustledger",
+    "rustnet-bin": "rustnet",
+    "rustnet-git": "rustnet",
     "rustpython": "rustpython",
     "rustpython-git": "rustpython",
     "rustup-git": "rustup",

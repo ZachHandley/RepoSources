@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "d",
-    "total_mappings": 1385
+    "total_mappings": 1388
   },
   "mappings": {
     "d2": "d2",
@@ -42,6 +42,7 @@
     "databases/freetds-devel": "freetds",
     "databases/gdbm": "gdbm",
     "databases/gom": "gom",
+    "databases/goose": "goose",
     "databases/gqlplus": "gqlplus",
     "databases/hiredis": "hiredis",
     "databases/imposm3": "imposm3",
@@ -620,7 +621,6 @@
     "devel/hut": "hut",
     "devel/hwloc": "hwloc",
     "devel/hwloc2": "hwloc",
-    "devel/hyperscan": "hyperscan",
     "devel/ice": "ice",
     "devel/ice37": "ice",
     "devel/icestorm": "icestorm",
@@ -734,6 +734,7 @@
     "devel/libisofs": "libisofs",
     "devel/libjodycode": "libjodycode",
     "devel/libkiwix": "libkiwix",
+    "devel/libks": "libks",
     "devel/liblockfile": "liblockfile",
     "devel/liblouis": "liblouis",
     "devel/libltdl": "libtool",
@@ -861,6 +862,7 @@
     "devel/marisa-trie": "marisa",
     "devel/maven": "maven",
     "devel/maven363": "maven",
+    "devel/maven38": "maven",
     "devel/maven39": "maven",
     "devel/mcpp": "mcpp",
     "devel/mdds": "mdds",
@@ -914,6 +916,7 @@
     "devel/oniguruma": "oniguruma",
     "devel/open62541": "open62541",
     "devel/openapi": "openapi",
+    "devel/openapi-generator": "openapi-generator",
     "devel/openapi-tui": "openapi-tui",
     "devel/opencl": "opencl-headers",
     "devel/opendht": "opendht",

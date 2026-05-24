@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "v",
-    "total_mappings": 68
+    "total_mappings": 67
   },
   "mappings": {
     "VTK": "vtk",
     "VTK-dbginfo": "vtk",
     "VTK-devel": "vtk",
-    "VTK-qt6": "vtk",
     "vala": "vala",
     "vala-dbginfo": "vala",
     "vala-docs": "vala",

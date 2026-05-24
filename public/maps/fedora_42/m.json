@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_42",
     "shard": "m",
-    "total_mappings": 1500
+    "total_mappings": 1502
   },
   "mappings": {
     "m4": "m4",
@@ -316,7 +316,7 @@
     "mingw-log4c": "log4c",
     "mingw-minizip": "minizip-ng",
     "mingw-mpfr": "mpfr",
-    "mingw-nettle": "nettle",
+    "mingw-nettle": "nettle@3",
     "mingw-nsis": "makensis",
     "mingw-nsis-base": "makensis",
     "mingw-numpy": "numpy",
@@ -660,7 +660,7 @@
     "mingw32-log4c": "log4c",
     "mingw32-minizip": "minizip-ng",
     "mingw32-mpfr": "mpfr",
-    "mingw32-nettle": "nettle",
+    "mingw32-nettle": "nettle@3",
     "mingw32-nsis": "makensis",
     "mingw32-nuspell": "nuspell",
     "mingw32-objfw": "objfw",
@@ -829,6 +829,7 @@
     "mingw32-turbojpeg": "jpeg-turbo",
     "mingw32-turbojpeg-static": "jpeg-turbo",
     "mingw32-uriparser": "uriparser",
+    "mingw32-uriparser-debuginfo": "uriparser",
     "mingw32-usbredir": "usbredir",
     "mingw32-usbredir-static": "usbredir",
     "mingw32-vulkan-headers": "vulkan-headers",
@@ -1099,7 +1100,7 @@
     "mingw64-log4c": "log4c",
     "mingw64-minizip": "minizip-ng",
     "mingw64-mpfr": "mpfr",
-    "mingw64-nettle": "nettle",
+    "mingw64-nettle": "nettle@3",
     "mingw64-nsis": "makensis",
     "mingw64-nuspell": "nuspell",
     "mingw64-objfw": "objfw",
@@ -1268,6 +1269,7 @@
     "mingw64-turbojpeg": "jpeg-turbo",
     "mingw64-turbojpeg-static": "jpeg-turbo",
     "mingw64-uriparser": "uriparser",
+    "mingw64-uriparser-debuginfo": "uriparser",
     "mingw64-usbredir": "usbredir",
     "mingw64-usbredir-static": "usbredir",
     "mingw64-vulkan-headers": "vulkan-headers",

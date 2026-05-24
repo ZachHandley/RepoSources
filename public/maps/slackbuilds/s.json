@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "s",
-    "total_mappings": 344
+    "total_mappings": 346
   },
   "mappings": {
     "system/7zip": "sevenzip",
@@ -44,6 +44,7 @@
     "system/bochs": "bochs",
     "system/bogofilter": "bogofilter",
     "system/bonnie++": "bonnie++",
+    "system/bootterm": "bootterm",
     "system/borgbackup": "borgbackup",
     "system/borgmatic": "borgmatic",
     "system/bottom": "bottom",
@@ -73,6 +74,7 @@
     "system/convmv": "convmv",
     "system/cpmtools": "cpmtools",
     "system/cpulimit": "cpulimit",
+    "system/crun": "crun",
     "system/crunch": "crunch",
     "system/curlftpfs": "curlftpfs",
     "system/daemonize": "daemonize",

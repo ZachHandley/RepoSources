@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "e",
@@ -62,8 +62,8 @@
     "enter-tex-dbginfo": "enter-tex",
     "enter-tex-docs": "enter-tex",
     "envsubst": "gettext",
-    "erlang": "erlang@27",
-    "erlang-dbginfo": "erlang@27",
+    "erlang": "erlang@28",
+    "erlang-dbginfo": "erlang@28",
     "erofs-utils": "erofs-utils",
     "erofs-utils-dbginfo": "erofs-utils",
     "espeak-ng": "espeak-ng",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "msys2_msys2",
     "shard": "l",
@@ -60,7 +60,7 @@
     "libgpgme-devel": "gpgme",
     "libguile": "guile",
     "libguile-devel": "guile",
-    "libhogweed": "nettle",
+    "libhogweed": "nettle@3",
     "libiconv": "libiconv",
     "libiconv-devel": "libiconv",
     "libidn": "libidn",
@@ -83,8 +83,8 @@
     "libmicrohttpd": "libmicrohttpd",
     "libneon": "neon",
     "libneon-devel": "neon",
-    "libnettle": "nettle",
-    "libnettle-devel": "nettle",
+    "libnettle": "nettle@3",
+    "libnettle-devel": "nettle@3",
     "libnghttp2": "libnghttp2",
     "libnghttp2-devel": "libnghttp2",
     "libnghttp3": "libnghttp3",

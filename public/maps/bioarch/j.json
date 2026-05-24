@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "bioarch",
     "shard": "j",
@@ -8,14 +8,14 @@
   },
   "mappings": {
     "jags": "jags",
-    "java22-openjdk": "openjdk@21",
-    "java23-openjdk": "openjdk@21",
-    "jdk22-openjdk": "openjdk@21",
-    "jdk23-openjdk": "openjdk@21",
+    "java22-openjdk": "openjdk@25",
+    "java23-openjdk": "openjdk@25",
+    "jdk22-openjdk": "openjdk@25",
+    "jdk23-openjdk": "openjdk@25",
     "jellyfish": "jellyfish",
-    "jre22-openjdk": "openjdk@21",
-    "jre22-openjdk-headless": "openjdk@21",
-    "jre23-openjdk": "openjdk@21",
-    "jre23-openjdk-headless": "openjdk@21"
+    "jre22-openjdk": "openjdk@25",
+    "jre22-openjdk-headless": "openjdk@25",
+    "jre23-openjdk": "openjdk@25",
+    "jre23-openjdk-headless": "openjdk@25"
   }
 }

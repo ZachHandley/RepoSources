@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "c",
-    "total_mappings": 1183
+    "total_mappings": 1181
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -130,6 +130,7 @@
     "cargo1.92": "rust",
     "cargo1.93": "rust",
     "cargo1.94": "rust",
+    "cargo1.95": "rust",
     "carla": "carla",
     "carla-debuginfo": "carla",
     "carla-debugsource": "carla",
@@ -1065,9 +1066,6 @@
     "cross-xtensa-binutils": "aarch64-elf-binutils",
     "cross-xtensa-binutils-debuginfo": "aarch64-elf-binutils",
     "cross-xtensa-binutils-debugsource": "aarch64-elf-binutils",
-    "crossplane-cli": "crossplane",
-    "crossplane-cli-debuginfo": "crossplane",
-    "crossplane-cli-debugsource": "crossplane",
     "crosstool-ng": "crosstool-ng",
     "crosstool-ng-debuginfo": "crosstool-ng",
     "crosstool-ng-debugsource": "crosstool-ng",

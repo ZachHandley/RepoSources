@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "npackd_stable64",
     "shard": "e",
@@ -8,7 +8,7 @@
   },
   "mappings": {
     "Emacs 64 bit": "emacs",
-    "Erlang 64 bit": "erlang@27",
+    "Erlang 64 bit": "erlang@28",
     "emacs64": "emacs"
   }
 }

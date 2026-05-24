@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "h",
-    "total_mappings": 117
+    "total_mappings": 116
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -116,7 +116,6 @@
     "hybrid-dev": "ircd-hybrid",
     "hyfetch": "hyfetch",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
     "hyphy": "hyphy",
     "hyphy-common": "hyphy",
     "hyphy-mpi": "hyphy",

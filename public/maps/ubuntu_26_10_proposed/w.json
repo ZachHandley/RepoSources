@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_10_proposed",
+    "shard": "w",
+    "total_mappings": 9
+  },
+  "mappings": {
+    "webkit2gtk": "webkitgtk",
+    "webkitgtk-webdriver": "webkitgtk",
+    "webpack": "webpack",
+    "widelands": "widelands",
+    "widelands-data": "widelands",
+    "winpr-utils": "freerdp",
+    "winpr3-utils": "freerdp",
+    "wxmaxima": "wxmaxima",
+    "wxmaxima-doc": "wxmaxima"
+  }
+}

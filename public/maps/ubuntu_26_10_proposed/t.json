@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_10_proposed",
+    "shard": "t",
+    "total_mappings": 18
+  },
+  "mappings": {
+    "tcl-expect": "expect",
+    "tcl-expect-dev": "expect",
+    "tclspice": "libngspice",
+    "telnet": "inetutils",
+    "telnetd": "inetutils",
+    "texlive-bin": "texlive",
+    "texlive-binaries": "texlive",
+    "texlive-binaries-sse2": "texlive",
+    "timelord": "netatalk",
+    "tmpreaper": "tmpreaper",
+    "todotxt-cli": "todo-txt",
+    "tomcat-native": "tomcat-native",
+    "tomcat11": "tomcat@10",
+    "tomcat11-admin": "tomcat@10",
+    "tomcat11-common": "tomcat@10",
+    "tomcat11-docs": "tomcat@10",
+    "tomcat11-examples": "tomcat@10",
+    "tomcat11-user": "tomcat@10"
+  }
+}

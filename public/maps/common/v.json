@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "v",
-    "total_mappings": 1248
+    "total_mappings": 1254
   },
   "mappings": {
     "V": "vlang",
@@ -24,7 +24,6 @@
     "VTK": "vtk",
     "VTK-dbginfo": "vtk",
     "VTK-devel": "vtk",
-    "VTK-qt6": "vtk",
     "Vala": "vala",
     "Vale": "vale",
     "Valgrind": "valgrind",
@@ -288,6 +287,8 @@
     "valgrind-tools-devel": "valgrind",
     "valgrind-vgdb": "valgrind",
     "valgrind-yash-completion": "yash",
+    "validator-nu": "vnu",
+    "validatornu": "vnu",
     "valijson": "valijson",
     "valijson-debuginfo": "valijson",
     "valijson-debugsource": "valijson",
@@ -393,6 +394,8 @@
     "vcdimager-doc": "vcdimager",
     "vcdimager-libs": "vcdimager",
     "vcdimager-xmltools": "vcdimager",
+    "vcfanno": "vcfanno",
+    "vcfanno-examples": "vcfanno",
     "vcflib": "vcflib",
     "vcflib-git": "vcflib",
     "vcftools": "vcftools",
@@ -710,6 +713,7 @@
     "vim-xxd-man": "vim",
     "vim.lha": "vim",
     "vimPlugins.nvzone-volt": "volt",
+    "vimPlugins.teamtype": "teamtype",
     "vim_runtime": "vim",
     "vimdiff": "vim",
     "vimpager": "vimpager",
@@ -718,6 +722,7 @@
     "vimpc-debuginfo": "vimpc",
     "vimpc-debugsource": "vimpc",
     "vimpc-git": "vimpc",
+    "vimplugin-teamtype": "teamtype",
     "vimtutor": "vim",
     "vineflower": "vineflower",
     "vineflower-bin": "vineflower",
@@ -833,6 +838,7 @@
     "vis-debugsource": "vis",
     "vis-doc": "vis",
     "vis-git": "vis",
+    "vis-lexers": "vis",
     "vis-syntax-highlighting": "vis",
     "visidata": "visidata",
     "visidata-doc": "visidata",

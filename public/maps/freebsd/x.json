@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "x",
-    "total_mappings": 262
+    "total_mappings": 261
   },
   "mappings": {
     "x11-fonts/bdftopcf": "bdftopcf",
@@ -208,7 +208,6 @@
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
     "xclip": "xclip",
-    "xcp": "xcp",
     "xcursorgen": "xcursorgen",
     "xdelta": "xdelta",
     "xdelta3": "xdelta",

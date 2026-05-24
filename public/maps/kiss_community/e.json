@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kiss_community",
     "shard": "e",
@@ -10,7 +10,7 @@
     "ecl": "ecl",
     "emacs": "emacs",
     "entr": "entr",
-    "erlang": "erlang@27",
+    "erlang": "erlang@28",
     "execline": "execline",
     "exiftool": "exiftool",
     "extra-cmake-modules": "extra-cmake-modules"

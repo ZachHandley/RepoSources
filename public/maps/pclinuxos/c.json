@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "c",
@@ -13,6 +13,7 @@
     "c-ares": "c-ares",
     "cabextract": "cabextract",
     "cairomm": "cairomm",
+    "cairomm1.0": "cairomm@1.14",
     "calcurse": "calcurse",
     "camlp5": "camlp5",
     "castxml": "castxml",
@@ -77,7 +78,6 @@
     "cryfs": "cryfs",
     "cscope": "cscope",
     "ctemplate": "ctemplate",
-    "cunit": "cunit",
     "cups": "cups",
     "curl": "curl",
     "curlftpfs": "curlftpfs",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "g",
-    "total_mappings": 1979
+    "total_mappings": 1978
   },
   "mappings": {
     "g++-11": "gcc@14",
@@ -1004,7 +1004,6 @@
     "gir1.2-gee-0.8": "libgee",
     "gir1.2-gegl-0.4": "gegl",
     "gir1.2-geocodeglib-2.0": "geocode-glib",
-    "gir1.2-gexiv2-0.10": "gexiv2",
     "gir1.2-gexiv2-0.16": "gexiv2",
     "gir1.2-gfls-1": "libgedit-gfls",
     "gir1.2-ggit-1.0": "libgit2-glib",
@@ -1297,6 +1296,7 @@
     "gmime-bin": "gmime",
     "gmp": "gmp",
     "gmp-doc": "gmp",
+    "gmp-ecm": "gmp-ecm",
     "gmsh": "gmsh",
     "gmsh-doc": "gmsh",
     "gmt": "gmt",
@@ -1950,7 +1950,6 @@
     "gtk2-engines-pixbuf": "gtk+",
     "gtk4": "gtk4",
     "gtkmm-documentation": "gtkmm",
-    "gtkmm2.4": "gtkmm",
     "gtkmm3.0": "gtkmm",
     "gtkmm4.0": "gtkmm",
     "gtksourceview3": "gtksourceview3",

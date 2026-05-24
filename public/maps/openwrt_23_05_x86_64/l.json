@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openwrt_23_05_x86_64",
     "shard": "l",
@@ -287,7 +287,7 @@
     "libnetfilter-conntrack3": "libnetfilter_conntrack",
     "libnetfilter-queue1": "libnetfilter-queue",
     "libnetsnmp": "net-snmp",
-    "libnettle8": "nettle",
+    "libnettle8": "nettle@3",
     "libnfnetlink0": "libnfnetlink",
     "libnftnl11": "libnftnl",
     "libnghttp2-14": "libnghttp2",

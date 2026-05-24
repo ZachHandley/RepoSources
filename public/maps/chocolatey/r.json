@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "r",
-    "total_mappings": 76
+    "total_mappings": 78
   },
   "mappings": {
     "R": "r",
@@ -35,6 +35,7 @@
     "Rust (GNU ABI)": "rust",
     "Rust (Visual Studio ABI)": "rust",
     "Rust Analyzer (Portable)": "rust-analyzer",
+    "RustNet": "rustnet",
     "RustScan (Portable)": "rustscan",
     "rabbitmq": "rabbitmq",
     "rabbitmqadmin": "rabbitmqadmin",
@@ -80,6 +81,7 @@
     "rust-analyzer": "rust-analyzer",
     "rust-ms": "rust",
     "rustic": "rustic",
+    "rustnet": "rustnet",
     "rustscan": "rustscan",
     "rustup (Install)": "rustup",
     "rustup.install": "rustup"

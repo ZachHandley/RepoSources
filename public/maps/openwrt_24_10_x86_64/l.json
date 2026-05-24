@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "l",
@@ -300,7 +300,7 @@
     "libnetfilter-conntrack3": "libnetfilter_conntrack",
     "libnetfilter-queue1": "libnetfilter-queue",
     "libnetsnmp": "net-snmp",
-    "libnettle8": "nettle",
+    "libnettle8": "nettle@3",
     "libnewt": "newt",
     "libnfnetlink0": "libnfnetlink",
     "libnftnl11": "libnftnl",
@@ -514,8 +514,8 @@
     "libwebsockets-mbedtls": "libwebsockets",
     "libwebsockets-openssl": "libwebsockets",
     "libwolfssl-benchmark": "wolfssl",
-    "libwolfssl5.7.6.e624513f": "wolfssl",
-    "libwolfsslcpu-crypto5.7.6.e624513f": "wolfssl",
+    "libwolfssl5.9.1.e624513f": "wolfssl",
+    "libwolfsslcpu-crypto5.9.1.e624513f": "wolfssl",
     "libxerces-c": "xerces-c",
     "libxerces-c-samples": "xerces-c",
     "libxml2-16": "libxml2",

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-24T04:06:39Z",
+    "source": "repology-dump",
+    "distro": "ubuntu_26_10_proposed",
+    "shard": "u",
+    "total_mappings": 24
+  },
+  "mappings": {
+    "ubuntu-virt": "qemu",
+    "udev": "systemd",
+    "umoci": "umoci",
+    "unbound": "unbound",
+    "unbound-anchor": "unbound",
+    "unbound-host": "unbound",
+    "unifdef": "unifdef",
+    "utf8proc": "utf8proc",
+    "uwsgi": "uwsgi",
+    "uwsgi-core": "uwsgi",
+    "uwsgi-dev": "uwsgi",
+    "uwsgi-emperor": "uwsgi",
+    "uwsgi-extra": "uwsgi",
+    "uwsgi-plugin-alarm-curl": "uwsgi",
+    "uwsgi-plugin-alarm-xmpp": "uwsgi",
+    "uwsgi-plugin-curl-cron": "uwsgi",
+    "uwsgi-plugin-emperor-pg": "uwsgi",
+    "uwsgi-plugin-geoip": "uwsgi",
+    "uwsgi-plugin-graylog2": "uwsgi",
+    "uwsgi-plugin-ldap": "uwsgi",
+    "uwsgi-plugin-router-access": "uwsgi",
+    "uwsgi-plugin-sqlite3": "uwsgi",
+    "uwsgi-plugin-xslt": "uwsgi",
+    "uwsgi-src": "uwsgi"
+  }
+}

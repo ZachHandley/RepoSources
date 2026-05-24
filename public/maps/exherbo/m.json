@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "m",
-    "total_mappings": 271
+    "total_mappings": 272
   },
   "mappings": {
     "machine-learning/ollama": "ollama",
+    "mail-client/aerc": "aerc",
     "mail-client/claws-mail": "claws-mail",
     "mail-client/mu": "mu",
     "mail-client/mutt": "mutt",

@@ -1,37 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "g",
-    "total_mappings": 26
+    "total_mappings": 3
   },
   "mappings": {
-    "gdal": "gdal",
-    "gnutls": "gnutls",
-    "gst-devtools": "gstreamer",
-    "gst-devtools-libs": "gstreamer",
-    "gst-editing-services": "gstreamer",
-    "gst-libav": "gstreamer",
-    "gst-plugin-gtk": "gstreamer",
-    "gst-plugin-hip": "gstreamer",
-    "gst-plugin-msdk": "gstreamer",
-    "gst-plugin-opencv": "gstreamer",
-    "gst-plugin-qml6": "gstreamer",
-    "gst-plugin-qmlgl": "gstreamer",
-    "gst-plugin-qsv": "gstreamer",
-    "gst-plugin-va": "gstreamer",
-    "gst-plugin-wpe": "gstreamer",
-    "gst-plugin-wpe2": "gstreamer",
-    "gst-plugins-bad": "gstreamer",
-    "gst-plugins-bad-libs": "gstreamer",
-    "gst-plugins-base": "gstreamer",
-    "gst-plugins-base-libs": "gstreamer",
-    "gst-plugins-good": "gstreamer",
-    "gst-plugins-ugly": "gstreamer",
-    "gst-python": "gstreamer",
-    "gst-rtsp-server": "gstreamer",
-    "gstreamer": "gstreamer",
-    "gstreamer-docs": "gstreamer"
+    "gitea-runner": "gitea-runner",
+    "gopass": "gopass",
+    "grafana": "grafana"
   }
 }

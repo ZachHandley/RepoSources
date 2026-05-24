@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "s",
-    "total_mappings": 659
+    "total_mappings": 658
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -151,7 +151,7 @@
     "security/minisign": "minisign",
     "security/mit-krb5": "krb5",
     "security/nacl": "nacl",
-    "security/nettle": "nettle",
+    "security/nettle": "nettle@3",
     "security/nikto": "nikto",
     "security/nuclei": "nuclei",
     "security/oath-toolkit": "oath-toolkit",
@@ -651,7 +651,6 @@
     "sysutils/vultr": "vultr",
     "sysutils/watchman": "watchman",
     "sysutils/wimlib": "wimlib",
-    "sysutils/xcp": "xcp",
     "sysutils/xdg-ninja": "xdg-ninja",
     "sysutils/xe": "xe",
     "sysutils/xpipe": "xpipe",

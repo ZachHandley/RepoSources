@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "g",
-    "total_mappings": 1282
+    "total_mappings": 1287
   },
   "mappings": {
     "GMT": "gmt",
@@ -888,6 +888,9 @@
     "gmp": "gmp",
     "gmp-c++": "gmp",
     "gmp-devel": "gmp",
+    "gmp-ecm": "gmp-ecm",
+    "gmp-ecm-devel": "gmp-ecm",
+    "gmp-ecm-libs": "gmp-ecm",
     "gmp-static": "gmp",
     "gmsh": "gmsh",
     "gmsh-common": "gmsh",
@@ -993,6 +996,8 @@
     "golang-github-jamesclonk-vultr-devel": "vultr",
     "golang-github-jstemmer-gotags-devel": "gotags",
     "golang-github-migrate-4-devel": "golang-migrate",
+    "golang-github-pressly-goose": "goose",
+    "golang-github-pressly-goose-devel": "goose",
     "golang-github-rakyll-statik": "go-statik",
     "golang-github-rakyll-statik-devel": "go-statik",
     "golang-github-schollz-croc": "croc",
@@ -1024,7 +1029,7 @@
     "google-benchmark-devel": "google-benchmark",
     "google-cpu_features": "cpu_features",
     "google-cpu_features-devel": "cpu_features",
-    "goose": "goose",
+    "goose": "block-goose-cli",
     "gopass": "gopass",
     "gopass-debuginfo": "gopass",
     "gopass-debugsource": "gopass",

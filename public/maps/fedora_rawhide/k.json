@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "k",
-    "total_mappings": 153
+    "total_mappings": 159
   },
   "mappings": {
     "k9s": "k9s",
@@ -151,6 +151,12 @@
     "kubernetes1.35-client": "kubernetes-cli@1.35",
     "kubernetes1.35-kubeadm": "kubernetes-cli@1.35",
     "kubernetes1.35-systemd": "kubernetes-cli@1.35",
+    "kubernetes1.36": "kubernetes-cli@1.35",
+    "kubernetes1.36-client": "kubernetes-cli@1.35",
+    "kubernetes1.36-debuginfo": "kubernetes-cli@1.35",
+    "kubernetes1.36-debugsource": "kubernetes-cli@1.35",
+    "kubernetes1.36-kubeadm": "kubernetes-cli@1.35",
+    "kubernetes1.36-systemd": "kubernetes-cli@1.35",
     "kustomize": "kustomize",
     "kustomize-debuginfo": "kustomize",
     "kustomize-debugsource": "kustomize",

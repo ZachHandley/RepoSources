@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "d",
-    "total_mappings": 823
+    "total_mappings": 822
   },
   "mappings": {
     "dMagnetic": "dmagnetic",
@@ -403,7 +403,6 @@
     "devel/hlint": "hlint",
     "devel/hs-hpack": "hpack",
     "devel/ht": "ht",
-    "devel/hyperscan": "hyperscan",
     "devel/icestorm": "icestorm",
     "devel/idutils": "idutils",
     "devel/imake": "imake",

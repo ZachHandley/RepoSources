@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "l",
-    "total_mappings": 947
+    "total_mappings": 957
   },
   "mappings": {
     "LibRaw": "libraw",
@@ -154,6 +154,8 @@
     "libbinio-debuginfo": "libbinio",
     "libbinio-debugsource": "libbinio",
     "libbinio-devel": "libbinio",
+    "libbitcoinkernel": "bitcoin",
+    "libbitcoinkernel-devel": "bitcoin",
     "libbluray": "libbluray",
     "libbluray-bdj": "libbluray",
     "libbluray-debuginfo": "libbluray",
@@ -364,6 +366,10 @@
     "libgit2-debuginfo": "libgit2@1.8",
     "libgit2-debugsource": "libgit2@1.8",
     "libgit2-devel": "libgit2",
+    "libgit2_1.9": "libgit2@1.8",
+    "libgit2_1.9-debuginfo": "libgit2@1.8",
+    "libgit2_1.9-debugsource": "libgit2@1.8",
+    "libgit2_1.9-devel": "libgit2@1.8",
     "libgsasl": "gsasl",
     "libgsasl-debuginfo": "gsasl",
     "libgsasl-debugsource": "gsasl",
@@ -770,6 +776,10 @@
     "libxml++-debugsource": "libxml++@5",
     "libxml++-devel": "libxml++@5",
     "libxml++-doc": "libxml++@5",
+    "libxmp": "libxmp",
+    "libxmp-debuginfo": "libxmp",
+    "libxmp-debugsource": "libxmp",
+    "libxmp-devel": "libxmp",
     "libyubikey": "libyubikey",
     "libyubikey-debuginfo": "libyubikey",
     "libyubikey-debugsource": "libyubikey",

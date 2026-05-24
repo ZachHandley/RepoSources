@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "p",
-    "total_mappings": 1088
+    "total_mappings": 1086
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -702,10 +702,6 @@
     "python-base": "python@3.9",
     "python-dev": "python@3.14",
     "python-devel-static": "python@3.9",
-    "python-module-gpg": "gpgme",
-    "python-module-gpg-debuginfo": "gpgme",
-    "python-module-hamlib": "hamlib",
-    "python-module-hamlib-debuginfo": "hamlib",
     "python-module-ipython": "ipython",
     "python-module-ktoblzcheck": "ktoblzcheck",
     "python-module-libxml2": "libxml2",
@@ -846,6 +842,8 @@
     "python3-module-gumbo": "gumbo-parser",
     "python3-module-gv": "graphviz",
     "python3-module-gv-debuginfo": "graphviz",
+    "python3-module-hamlib": "hamlib",
+    "python3-module-hamlib-debuginfo": "hamlib",
     "python3-module-hivex": "hivex",
     "python3-module-hivex-debuginfo": "hivex",
     "python3-module-i2c-tools": "i2c-tools",

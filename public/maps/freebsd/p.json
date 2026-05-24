@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "p",
-    "total_mappings": 583
+    "total_mappings": 584
   },
   "mappings": {
     "PETSc": "petsc",
@@ -142,6 +142,7 @@
     "picard-tools": "picard-tools",
     "pick": "pick",
     "picoc": "picoc",
+    "picoclaw": "picoclaw",
     "picocom": "picocom",
     "pict": "pict",
     "pidgin": "pidgin",

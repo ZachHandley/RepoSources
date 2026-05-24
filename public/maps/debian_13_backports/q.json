@@ -1,12 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "q",
-    "total_mappings": 14
+    "total_mappings": 18
   },
   "mappings": {
+    "qjs": "quickjs-ng",
+    "qjs-doc": "quickjs-ng",
+    "qjs-src": "quickjs-ng",
     "qml6-module-qtquick-pdf": "qt@5",
     "qml6-module-qtwebengine": "qt@5",
     "qml6-module-qtwebengine-controlsdelegates": "qt@5",
@@ -20,6 +23,7 @@
     "qt6-webengine-doc-dev": "qt@5",
     "qt6-webengine-doc-html": "qt@5",
     "qt6-webengine-examples": "qt@5",
-    "qt6-webengine-private-dev": "qt@5"
+    "qt6-webengine-private-dev": "qt@5",
+    "quickjs-ng": "quickjs-ng"
   }
 }

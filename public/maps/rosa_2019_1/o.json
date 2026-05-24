@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "o",
-    "total_mappings": 187
+    "total_mappings": 189
   },
   "mappings": {
     "OpenColorIO": "opencolorio",
@@ -116,6 +116,8 @@
     "openh264-debugsource": "openh264",
     "openjazz": "openjazz",
     "openjpeg": "openjpeg",
+    "openjpeg-debuginfo": "openjpeg",
+    "openjpeg-debugsource": "openjpeg",
     "openjpeg2": "openjpeg",
     "openjpeg2-debuginfo": "openjpeg",
     "openjpeg2-debugsource": "openjpeg",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "c",
-    "total_mappings": 125
+    "total_mappings": 126
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -109,6 +109,7 @@
     "couchdb": "couchdb",
     "cpio": "cpio",
     "cppcheck": "cppcheck",
+    "cpptrace": "cpptrace",
     "cppunit": "cppunit",
     "cpputest": "cpputest",
     "cppzmq": "cppzmq",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "t",
-    "total_mappings": 470
+    "total_mappings": 469
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -348,7 +348,6 @@
     "textproc/yq": "python-yq",
     "textproc/ytt": "ytt",
     "textproc/zxing-cpp": "zxing-cpp",
-    "tflint": "tflint",
     "tgif": "tgif",
     "tgpt": "tgpt",
     "thanos": "thanos",

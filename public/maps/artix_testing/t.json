@@ -1,16 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "t",
-    "total_mappings": 5
+    "total_mappings": 2
   },
   "mappings": {
     "testdisk": "testdisk",
-    "tigervnc": "tiger-vnc",
-    "tmon": "linux-headers@6.8",
-    "turbostat": "linux-headers@6.8",
-    "typescript": "typescript"
+    "tig": "tig"
   }
 }

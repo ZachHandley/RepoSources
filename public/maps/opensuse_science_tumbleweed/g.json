@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "g",
-    "total_mappings": 75
+    "total_mappings": 79
   },
   "mappings": {
     "gdal": "gdal",
@@ -47,6 +47,10 @@
     "glpk-debugsource": "glpk",
     "glpk-devel": "glpk",
     "glpk-doc": "glpk",
+    "gmp-ecm": "gmp-ecm",
+    "gmp-ecm-debuginfo": "gmp-ecm",
+    "gmp-ecm-debugsource": "gmp-ecm",
+    "gmp-ecm-devel": "gmp-ecm",
     "gmsh": "gmsh",
     "gmsh-debuginfo": "gmsh",
     "gmsh-debugsource": "gmsh",

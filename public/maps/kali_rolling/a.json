@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "a",
@@ -248,7 +248,7 @@
     "atari800": "atari800",
     "atf": "atf",
     "atf-sh": "atf",
-    "atkmm1.6": "atkmm@2.28",
+    "atkmm": "atkmm",
     "atomicparsley": "atomicparsley",
     "atool": "atool",
     "atop": "atop",

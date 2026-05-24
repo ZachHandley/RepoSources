@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "d",
-    "total_mappings": 107
+    "total_mappings": 105
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -69,7 +69,6 @@
     "dev-util/dmg2img": "dmg2img",
     "dev-util/dockerfile-language-server": "dockerfile-language-server",
     "dev-util/exercism": "exercism",
-    "dev-util/forgejo-cli": "forgejo-cli",
     "dev-util/fortls": "fortls",
     "dev-util/gammaray": "gammaray",
     "dev-util/gemini-cli": "gemini-cli",
@@ -100,7 +99,6 @@
     "dev-util/stripe-cli": "stripe-cli",
     "dev-util/stylua": "stylua",
     "dev-util/tailspin": "tailspin",
-    "dev-util/tflint-bin": "tflint",
     "dev-util/tokei": "tokei",
     "dev-util/tombi": "tombi",
     "dev-util/topiary": "topiary",

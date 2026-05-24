@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "h",
-    "total_mappings": 35
+    "total_mappings": 34
   },
   "mappings": {
     "hamlib": "hamlib",
@@ -40,7 +40,6 @@
     "hunspell": "hunspell",
     "hwloc": "hwloc",
     "hydra": "hydra",
-    "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan"
+    "hyperfine": "hyperfine"
   }
 }

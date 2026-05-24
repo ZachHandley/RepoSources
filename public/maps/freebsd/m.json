@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "m",
-    "total_mappings": 699
+    "total_mappings": 702
   },
   "mappings": {
     "MMseqs2": "mmseqs2",
@@ -157,6 +157,7 @@
     "math/glm": "glm",
     "math/glpk": "glpk",
     "math/gmp": "gmp",
+    "math/gmp-ecm": "gmp-ecm",
     "math/gnubc": "bc",
     "math/gnumeric": "gnumeric",
     "math/gnuplot": "gnuplot",
@@ -272,6 +273,7 @@
     "matterbridge": "matterbridge",
     "maven": "maven",
     "maven363": "maven",
+    "maven38": "maven",
     "maven39": "maven",
     "mawk": "mawk",
     "maxima": "maxima",
@@ -435,6 +437,7 @@
     "misc/ossp-uuid": "ossp-uuid",
     "misc/pastebinit": "pastebinit",
     "misc/patchutils": "patchutils",
+    "misc/picoclaw": "picoclaw",
     "misc/pinfo": "pinfo",
     "misc/py-llm": "llm",
     "misc/py-xgboost": "xgboost",

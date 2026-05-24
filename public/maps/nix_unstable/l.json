@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "l",
-    "total_mappings": 994
+    "total_mappings": 991
   },
   "mappings": {
     "Lighthouse": "lighthouse",
@@ -464,11 +464,7 @@
     "librsync": "librsync",
     "librttopo": "librttopo",
     "libsForQt5.dxflib": "dxflib",
-    "libsForQt5.extra-cmake-modules": "extra-cmake-modules",
     "libsForQt5.grantlee": "grantlee",
-    "libsForQt5.karchive": "karchive",
-    "libsForQt5.kdoctools": "kdoctools",
-    "libsForQt5.ki18n": "ki18n",
     "libsForQt5.mlt": "mlt",
     "libsForQt5.poppler": "poppler",
     "libsForQt5.qca": "qca",
@@ -848,6 +844,7 @@
     "liquid-dsp": "liquid-dsp",
     "liquidctl": "liquidctl",
     "liquidprompt": "liquidprompt",
+    "lisette": "lisette",
     "lit": "lit",
     "litecli": "litecli",
     "litehtml": "litehtml",

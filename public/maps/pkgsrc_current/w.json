@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "w",
@@ -102,7 +102,7 @@
     "www/libmrss": "libmrss",
     "www/libproxy": "libproxy",
     "www/libpsl": "libpsl",
-    "www/librest07": "librest",
+    "www/librest": "librest",
     "www/libsass": "libsass",
     "www/libwebsockets": "libwebsockets",
     "www/lighttpd": "lighttpd",

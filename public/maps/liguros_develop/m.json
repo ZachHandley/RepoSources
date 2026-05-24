@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "m",
-    "total_mappings": 451
+    "total_mappings": 452
   },
   "mappings": {
     "mail-client/aerc": "aerc",
@@ -294,6 +294,7 @@
     "media-libs/ptex": "ptex",
     "media-libs/qhull": "qhull",
     "media-libs/raptor": "raptor",
+    "media-libs/raqm": "libraqm",
     "media-libs/raylib": "raylib",
     "media-libs/rtaudio": "rtaudio",
     "media-libs/rtmidi": "rtmidi",

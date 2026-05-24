@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "g",
@@ -582,9 +582,9 @@
     "google-cpu_features-debuginfo": "cpu_features",
     "google-cpu_features-debugsource": "cpu_features",
     "google-cpu_features-devel": "cpu_features",
-    "goose": "goose",
-    "goose-debuginfo": "goose",
-    "goose-debugsource": "goose",
+    "goose": "block-goose-cli",
+    "goose-debuginfo": "block-goose-cli",
+    "goose-debugsource": "block-goose-cli",
     "govulncheck": "govulncheck",
     "govulncheck-debuginfo": "govulncheck",
     "govulncheck-debugsource": "govulncheck",

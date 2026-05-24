@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "o",
-    "total_mappings": 15
+    "total_mappings": 16
   },
   "mappings": {
     "ocaml": "ocaml@4",
@@ -14,7 +14,8 @@
     "ocaml-source": "ocaml@4",
     "offlineimap": "offlineimap",
     "offlineimap3": "offlineimap",
-    "openblas": "openblas",
+    "openbabel": "open-babel",
+    "openbabel-gui": "open-babel",
     "opencolorio": "opencolorio",
     "opencolorio-tools": "opencolorio",
     "openssl": "openssl@3",

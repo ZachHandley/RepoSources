@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "n",
-    "total_mappings": 340
+    "total_mappings": 332
   },
   "mappings": {
     "NLopt": "nlopt",
@@ -187,8 +187,8 @@
     "netpbm-progs": "netpbm",
     "netstandard-targeting-pack-2.1": "dotnet@9",
     "netsurf-buildsystem": "netsurf-buildsystem",
-    "nettle": "nettle",
-    "nettle-devel": "nettle",
+    "nettle": "nettle@3",
+    "nettle-devel": "nettle@3",
     "newlisp": "newlisp",
     "newsboat": "newsboat",
     "newsboat-debuginfo": "newsboat",
@@ -248,14 +248,6 @@
     "nodejs-esbuild": "esbuild",
     "nodejs-marked": "marked",
     "nodejs-pnpm": "pnpm@10",
-    "nodejs20": "node@24",
-    "nodejs20-bin": "node@24",
-    "nodejs20-devel": "node@24",
-    "nodejs20-docs": "node@24",
-    "nodejs20-full-i18n": "node@24",
-    "nodejs20-libs": "node@24",
-    "nodejs20-npm": "node@24",
-    "nodejs20-npm-bin": "node@24",
     "nodejs22": "node@24",
     "nodejs22-bin": "node@24",
     "nodejs22-devel": "node@24",

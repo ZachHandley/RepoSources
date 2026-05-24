@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "z",
-    "total_mappings": 86
+    "total_mappings": 87
   },
   "mappings": {
     "z": "z",
@@ -56,6 +56,7 @@
     "zh-ttf2pt1": "ttf2pt1",
     "zig": "zig",
     "zig014": "zig@0.15",
+    "zig015": "zig@0.15",
     "zile": "zile",
     "zim": "zim",
     "zint": "zint",

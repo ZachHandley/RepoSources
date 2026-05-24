@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "a",
-    "total_mappings": 109
+    "total_mappings": 108
   },
   "mappings": {
     "AppStream": "appstream",
@@ -114,7 +114,6 @@
     "aws-iam-authenticator": "aws-iam-authenticator",
     "axel": "axel",
     "ayatana-ido": "ayatana-ido",
-    "azure-cli": "azure-cli",
-    "azure-storage-cpp": "azure-storage-cpp"
+    "azure-cli": "azure-cli"
   }
 }

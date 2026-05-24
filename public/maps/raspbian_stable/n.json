@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "n",
@@ -123,9 +123,9 @@
     "netpbm": "netpbm",
     "netpbm-free": "netpbm",
     "netris": "netris",
-    "nettle": "nettle",
-    "nettle-bin": "nettle",
-    "nettle-dev": "nettle",
+    "nettle": "nettle@3",
+    "nettle-bin": "nettle@3",
+    "nettle-dev": "nettle@3",
     "nettoe": "nettoe",
     "newlisp": "newlisp",
     "newsboat": "newsboat",

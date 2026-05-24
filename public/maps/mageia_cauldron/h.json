@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "h",
-    "total_mappings": 58
+    "total_mappings": 57
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -63,7 +63,6 @@
     "hunspell-he": "hspell",
     "hwloc": "hwloc",
     "hydra": "hydra",
-    "hydra-gui": "hydra",
-    "hyperscan": "hyperscan"
+    "hydra-gui": "hydra"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "fedora_42",
     "shard": "h",
-    "total_mappings": 145
+    "total_mappings": 143
   },
   "mappings": {
     "HdrHistogram_c": "hdrhistogram_c",
@@ -145,8 +145,6 @@
     "hyperestraier-devel": "hyperestraier",
     "hyperestraier-perl": "hyperestraier",
     "hyperfine": "hyperfine",
-    "hyperscan": "hyperscan",
-    "hyperscan-devel": "hyperscan",
     "hypre": "hypre",
     "hypre-devel": "hypre",
     "hypre-doc": "hypre",

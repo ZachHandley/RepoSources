@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "amazon_2",
     "shard": "n",
@@ -16,7 +16,7 @@
     "net-snmp": "net-snmp",
     "net-tools": "net-tools",
     "netpbm": "netpbm",
-    "nettle": "nettle",
+    "nettle": "nettle@3",
     "nftables": "nftables",
     "nghttp2": "nghttp2",
     "ninja-build": "ninja",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "j",
@@ -10,8 +10,8 @@
     "jack-audio-connection-kit": "jack",
     "jansson": "jansson",
     "jasper": "jasper",
-    "java-openjdk": "openjdk@21",
-    "java8-openjdk": "openjdk@21",
+    "java-openjdk": "openjdk@25",
+    "java8-openjdk": "openjdk@25",
     "jbigkit": "jbigkit",
     "jemalloc": "jemalloc",
     "jq": "jq",

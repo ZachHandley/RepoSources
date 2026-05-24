@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "m",
@@ -296,7 +296,7 @@
     "mingw64-i686-musepack": "musepack",
     "mingw64-i686-ncurses": "ncurses",
     "mingw64-i686-neon": "neon",
-    "mingw64-i686-nettle": "nettle",
+    "mingw64-i686-nettle": "nettle@3",
     "mingw64-i686-nghttp2": "libnghttp2",
     "mingw64-i686-nghttp2-debuginfo": "libnghttp2",
     "mingw64-i686-nspr": "nspr",
@@ -628,7 +628,7 @@
     "mingw64-x86_64-musepack": "musepack",
     "mingw64-x86_64-ncurses": "ncurses",
     "mingw64-x86_64-neon": "neon",
-    "mingw64-x86_64-nettle": "nettle",
+    "mingw64-x86_64-nettle": "nettle@3",
     "mingw64-x86_64-nghttp2": "libnghttp2",
     "mingw64-x86_64-nghttp2-debuginfo": "libnghttp2",
     "mingw64-x86_64-nspr": "nspr",

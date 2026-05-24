@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "l",
-    "total_mappings": 2768
+    "total_mappings": 2770
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1339,9 +1339,10 @@
     "libheif-devel": "libheif",
     "libheif-tool": "libheif",
     "libheif1": "libheif",
-    "libhogweed2": "nettle",
-    "libhogweed4": "nettle",
-    "libhogweed6": "nettle",
+    "libhogweed2": "nettle@3",
+    "libhogweed4": "nettle@3",
+    "libhogweed6": "nettle@3",
+    "libhogweed7": "nettle@3",
     "libhspell-devel": "hspell",
     "libhspell0": "hspell",
     "libhunspell-devel": "hunspell",
@@ -1692,10 +1693,11 @@
     "libnetcdf22": "netcdf",
     "libnetpbm-devel": "netpbm",
     "libnetpbm10": "netpbm",
-    "libnettle-devel": "nettle",
-    "libnettle4": "nettle",
-    "libnettle6": "nettle",
-    "libnettle8": "nettle",
+    "libnettle-devel": "nettle@3",
+    "libnettle4": "nettle@3",
+    "libnettle6": "nettle@3",
+    "libnettle8": "nettle@3",
+    "libnettle9": "nettle@3",
     "libnfc": "libnfc",
     "libnfc-debuginfo": "libnfc",
     "libnfc-devel": "libnfc",

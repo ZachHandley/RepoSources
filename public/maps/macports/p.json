@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "p",
-    "total_mappings": 983
+    "total_mappings": 984
   },
   "mappings": {
     "PEGTL": "pegtl",
@@ -167,6 +167,7 @@
     "php85-soap": "php@8.4",
     "phpmyadmin": "phpmyadmin",
     "physfs": "physfs",
+    "pi-coding-agent": "pi-coding-agent",
     "pianobar": "pianobar",
     "pianod": "pianod",
     "pick": "pick",

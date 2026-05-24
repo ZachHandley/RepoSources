@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "deepin_23",
     "shard": "r",
-    "total_mappings": 156
+    "total_mappings": 159
   },
   "mappings": {
     "r-base": "r",
@@ -129,13 +129,16 @@
     "rust-bkt": "bkt",
     "rust-blake3": "b3sum",
     "rust-cargo-auditable": "cargo-auditable",
+    "rust-cargo-binutils": "cargo-binutils",
     "rust-cargo-c": "cargo-c",
+    "rust-cargo-outdated": "cargo-outdated",
     "rust-cbindgen": "cbindgen",
     "rust-clippy": "rust",
     "rust-comrak": "comrak",
     "rust-coreutils": "uutils-coreutils",
     "rust-doc": "rust",
     "rust-du-dust": "dust",
+    "rust-dysk": "dysk",
     "rust-fd-find": "fd",
     "rust-gdb": "rust",
     "rust-git-absorb": "git-absorb",

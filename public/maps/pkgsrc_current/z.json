@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "z",
-    "total_mappings": 39
+    "total_mappings": 40
   },
   "mappings": {
     "z3": "z3",
@@ -13,6 +13,7 @@
     "zabbix-agent": "zabbix",
     "zabbix-frontend": "zabbix",
     "zbar": "zbar",
+    "zellij": "zellij",
     "zenity": "zenity",
     "zenmap": "nmap",
     "zeromq": "zeromq",

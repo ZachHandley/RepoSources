@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "g",
-    "total_mappings": 541
+    "total_mappings": 542
   },
   "mappings": {
     "GMT": "gmt",
@@ -22,6 +22,7 @@
     "games/bastet": "bastet",
     "games/cataclysm-dda": "cataclysm",
     "games/cataclysm-dda-sdl": "cataclysm",
+    "games/cbonsai": "cbonsai",
     "games/cgoban": "cgoban",
     "games/chocolate-doom": "chocolate-doom",
     "games/cmatrix": "cmatrix",

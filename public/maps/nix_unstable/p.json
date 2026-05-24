@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "p",
-    "total_mappings": 763
+    "total_mappings": 764
   },
   "mappings": {
     "p0f": "p0f",
@@ -180,6 +180,7 @@
     "phpPackages.php-cs-fixer": "php-cs-fixer",
     "phpPackages.phpmd": "phpmd",
     "phpPackages.psalm": "psalm",
+    "phpantom-lsp": "phpantom-lsp",
     "phpmd": "phpmd",
     "phpstan": "phpstan",
     "phpunit": "phpunit",
@@ -272,6 +273,7 @@
     "pnpm": "pnpm@10",
     "pnpm_10": "pnpm@10",
     "pnpm_10_29_2": "pnpm@10",
+    "pnpm_11": "pnpm@10",
     "pnpm_8": "pnpm@10",
     "pnpm_9": "pnpm@10",
     "po4a": "po4a",
@@ -429,6 +431,7 @@
     "purescript": "purescript",
     "putty": "putty",
     "pv": "pv",
+    "pvetui": "pvetui",
     "pwgen": "pwgen",
     "pwnat": "pwnat",
     "pwncat": "pwncat",
@@ -477,7 +480,6 @@
     "python313Packages.ansible": "ansible@12",
     "python313Packages.antlr4-python3-runtime": "antlr",
     "python313Packages.argcomplete": "python-argcomplete",
-    "python313Packages.aubio": "aubio",
     "python313Packages.autopep8": "autopep8",
     "python313Packages.avahi": "avahi",
     "python313Packages.avro": "avro-c",
@@ -624,7 +626,6 @@
     "python314Packages.ansible": "ansible@12",
     "python314Packages.antlr4-python3-runtime": "antlr",
     "python314Packages.argcomplete": "python-argcomplete",
-    "python314Packages.aubio": "aubio",
     "python314Packages.autopep8": "autopep8",
     "python314Packages.avahi": "avahi",
     "python314Packages.avro": "avro-c",

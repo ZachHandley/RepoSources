@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "e",
@@ -27,7 +27,7 @@
     "elm": "elm",
     "emacs": "emacs",
     "emacs-dracula-theme": "emacs-dracula",
-    "emacs-erlang": "erlang@27",
+    "emacs-erlang": "erlang@28",
     "emacs-gnugo": "gnu-go",
     "emacs-password-store": "pass",
     "embree": "embree",
@@ -44,7 +44,7 @@
     "ephemeralpg": "ephemeralpg",
     "epic5": "epic5",
     "erfa": "erfa",
-    "erlang": "erlang@27",
+    "erlang": "erlang@28",
     "erlfmt": "erlfmt",
     "erofs-utils": "erofs-utils",
     "esbuild": "esbuild",

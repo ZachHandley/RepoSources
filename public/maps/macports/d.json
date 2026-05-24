@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "d",
-    "total_mappings": 1141
+    "total_mappings": 1143
   },
   "mappings": {
     "d2": "d2",
@@ -70,8 +70,10 @@
     "databases/mariadb-10.8": "mariadb@11.8",
     "databases/mariadb-10.9": "mariadb@11.8",
     "databases/mariadb-11.4": "mariadb@11.8",
+    "databases/mariadb-11.8": "mariadb@11.8",
     "databases/mdbtools": "mdbtools",
     "databases/metabase": "metabase",
+    "databases/mongocli": "mongocli",
     "databases/mycli": "mycli",
     "databases/mysql5": "mysql@8.4",
     "databases/mysql51": "mysql@8.4",
@@ -775,7 +777,7 @@
     "devel/n": "n",
     "devel/ncurses": "ncurses",
     "devel/neocmakelsp": "neocmakelsp",
-    "devel/nettle": "nettle",
+    "devel/nettle": "nettle@3",
     "devel/ninja": "ninja",
     "devel/nixpacks": "nixpacks",
     "devel/nlohmann-json": "nlohmann-json",

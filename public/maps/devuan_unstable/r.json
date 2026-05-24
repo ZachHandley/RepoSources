@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "r",
-    "total_mappings": 263
+    "total_mappings": 267
   },
   "mappings": {
     "r-base": "r",
@@ -112,7 +112,7 @@
     "reuse": "reuse",
     "rex": "rex",
     "rfkill": "gnu-getopt",
-    "rfkill-modules-7.0.4+deb14-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.7+deb14-loong64-di": "linux-headers@6.8",
     "rgbds": "rgbds",
     "rgxg": "rgxg",
     "rhash": "rhash",
@@ -223,7 +223,10 @@
     "rust-blake3": "b3sum",
     "rust-cargo-audit": "cargo-audit",
     "rust-cargo-auditable": "cargo-auditable",
+    "rust-cargo-binutils": "cargo-binutils",
     "rust-cargo-c": "cargo-c",
+    "rust-cargo-edit": "cargo-edit",
+    "rust-cargo-outdated": "cargo-outdated",
     "rust-cbindgen": "cbindgen",
     "rust-clippy": "rust",
     "rust-comrak": "comrak",
@@ -234,6 +237,7 @@
     "rust-czkawka-gui": "czkawka",
     "rust-doc": "rust",
     "rust-du-dust": "dust",
+    "rust-dysk": "dysk",
     "rust-eza": "eza",
     "rust-fd-find": "fd",
     "rust-gdb": "rust",

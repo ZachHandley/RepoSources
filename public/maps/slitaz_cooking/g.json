@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "g",
-    "total_mappings": 176
+    "total_mappings": 177
   },
   "mappings": {
     "gammu": "gammu",
@@ -15,6 +15,7 @@
     "gc-dev": "bdw-gc",
     "gcc": "gcc@14",
     "gcc-lib-base": "gcc@14",
+    "gcc-lib-math": "gcc@14",
     "gcc3": "gcc@14",
     "gcc49": "gcc@14",
     "gcc49-lib-base": "gcc@14",

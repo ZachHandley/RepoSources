@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "l",
-    "total_mappings": 871
+    "total_mappings": 866
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -197,7 +197,7 @@
     "lib32-mesa": "mesa",
     "lib32-mpg123": "mpg123",
     "lib32-ncurses": "ncurses",
-    "lib32-nettle": "nettle",
+    "lib32-nettle": "nettle@3",
     "lib32-nspr": "nspr",
     "lib32-nss": "nss",
     "lib32-ocl-icd": "ocl-icd",
@@ -740,7 +740,6 @@
     "libxml2-docs": "libxml2",
     "libxml2-legacy": "libxml2",
     "libxmlb": "libxmlb",
-    "libxmlrpc": "xmlrpc-c",
     "libxmp": "libxmp",
     "libxmu": "libxmu",
     "libxp": "libxp",
@@ -773,10 +772,6 @@
     "linux-api-headers": "linux-headers@6.8",
     "linux-tools": "linux-headers@6.8",
     "linux-tools-meta": "linux-headers@6.8",
-    "linux510": "linux-headers@6.8",
-    "linux510-headers": "linux-headers@6.8",
-    "linux515": "linux-headers@6.8",
-    "linux515-headers": "linux-headers@6.8",
     "linux61": "linux-headers@6.8",
     "linux61-headers": "linux-headers@6.8",
     "linux612": "linux-headers@6.8",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "d",
-    "total_mappings": 450
+    "total_mappings": 451
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -67,6 +67,7 @@
     "dev-embedded/libftdi": "libftdi",
     "dev-embedded/lm4tools": "lm4tools",
     "dev-embedded/lwtools": "lwtools",
+    "dev-embedded/openocd": "open-ocd",
     "dev-embedded/sdcc": "sdcc",
     "dev-embedded/stlink": "stlink",
     "dev-embedded/stm32flash": "stm32flash",
@@ -89,7 +90,7 @@
     "dev-lang/dmd": "dmd",
     "dev-lang/duktape": "duktape",
     "dev-lang/elixir": "elixir",
-    "dev-lang/erlang": "erlang@27",
+    "dev-lang/erlang": "erlang@28",
     "dev-lang/fennel": "fennel",
     "dev-lang/fpc": "fpc",
     "dev-lang/fpc_bootstrap": "fpc",
@@ -107,7 +108,7 @@
     "dev-lang/nim": "nim",
     "dev-lang/ocaml": "ocaml@4",
     "dev-lang/odin": "odin",
-    "dev-lang/openjdk": "openjdk@21",
+    "dev-lang/openjdk": "openjdk@25",
     "dev-lang/orc": "orc",
     "dev-lang/perl": "perl",
     "dev-lang/php": "php@8.4",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "m",
-    "total_mappings": 1039
+    "total_mappings": 1040
   },
   "mappings": {
     "m4-git": "m4",
@@ -91,7 +91,6 @@
     "matplotplusplus-git": "matplotplusplus",
     "matterbridge-git": "matterbridge",
     "maturin-git": "maturin",
-    "maven363": "maven",
     "mavsdk": "mavsdk",
     "mavsdk-git": "mavsdk",
     "mawk": "mawk",
@@ -184,6 +183,7 @@
     "mgis": "mgis",
     "mgis-git": "mgis",
     "mhonarc": "mhonarc",
+    "miasma": "miasma",
     "micasa-bin": "micasa",
     "micro-git": "micro",
     "micromamba": "micromamba",
@@ -453,6 +453,7 @@
     "mingw-w64-libuv": "libuv",
     "mingw-w64-libuv0.10": "libuv",
     "mingw-w64-libva": "libva",
+    "mingw-w64-libvips": "vips",
     "mingw-w64-libvirt": "libvirt",
     "mingw-w64-libvisual": "libvisual",
     "mingw-w64-libvorbis": "libvorbis",
@@ -500,7 +501,7 @@
     "mingw-w64-nauty": "nauty",
     "mingw-w64-ncurses": "ncurses",
     "mingw-w64-netcdf": "netcdf",
-    "mingw-w64-nettle": "nettle",
+    "mingw-w64-nettle": "nettle@3",
     "mingw-w64-nlohmann-json": "nlohmann-json",
     "mingw-w64-nlopt": "nlopt",
     "mingw-w64-npth": "npth",
@@ -830,6 +831,7 @@
     "mipsel-linux-gnu-gcc91": "gcc@14",
     "mipsel-none-elf-binutils-git": "aarch64-elf-binutils",
     "mipsel-none-elf-gcc-git": "gcc@14",
+    "mise-bin": "mise",
     "mise-git": "mise",
     "mistral-vibe": "mistral-vibe",
     "mit-scheme": "mit-scheme",
@@ -897,7 +899,6 @@
     "mongosh-git": "mongosh",
     "mongrel2": "mongrel2",
     "monit-bin": "monit",
-    "monitoring-plugins": "monitoring-plugins",
     "monkeysphere": "monkeysphere",
     "mono-git": "mono",
     "monocle": "monocle",

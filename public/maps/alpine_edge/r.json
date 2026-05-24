@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "r",
-    "total_mappings": 382
+    "total_mappings": 384
   },
   "mappings": {
     "R": "r",
@@ -154,6 +154,7 @@
     "restic-doc": "restic",
     "restic-fish-completion": "restic",
     "restic-zsh-completion": "restic",
+    "resvg": "resvg",
     "reuse": "reuse",
     "reuse-bash-completion": "reuse",
     "reuse-doc": "reuse",
@@ -295,6 +296,7 @@
     "rsyslog-mmtaghostname": "rsyslog",
     "rsyslog-mmutf8fix": "rsyslog",
     "rsyslog-mysql": "rsyslog",
+    "rsyslog-omotel": "rsyslog",
     "rsyslog-openrc": "rsyslog",
     "rsyslog-openssl": "rsyslog",
     "rsyslog-pgsql": "rsyslog",

@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-24T04:06:39Z",
     "source": "repology-dump",
     "distro": "homebrew_casks",
     "shard": "b",
-    "total_mappings": 2
+    "total_mappings": 3
   },
   "mappings": {
     "Bitcoin Core": "bitcoin",
-    "bitcoin-core": "bitcoin"
+    "bitcoin-core": "bitcoin",
+    "block-goose": "block-goose-cli"
   }
 }
