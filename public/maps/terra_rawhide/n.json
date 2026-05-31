@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "n",
-    "total_mappings": 20
+    "total_mappings": 25
   },
   "mappings": {
     "nemu": "nemu",
@@ -21,9 +21,14 @@
     "nim-nighlty-doc": "nim",
     "nim-nighlty-tools": "nim",
     "nim-nightly": "nim",
+    "nim-nightly-bash-completion": "nim",
     "nim-nightly-doc": "nim",
     "nim-nightly-tools": "nim",
+    "nim-nightly-zsh-completion": "nim",
     "nim-tools": "nim",
+    "nimgrep-bash-completion": "nim",
+    "nimpretty-bash-completion": "nim",
+    "nimsuggest-bash-completion": "nim",
     "nvm": "nvm",
     "nvm-bash-completion": "nvm",
     "nvm-zsh-completion": "nvm"

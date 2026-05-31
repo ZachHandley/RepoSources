@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "p",
-    "total_mappings": 1179
+    "total_mappings": 1180
   },
   "mappings": {
     "p0f": "p0f",
@@ -906,6 +906,7 @@
     "pulumi-fish-completion": "pulumi",
     "pulumi-language-go": "pulumi",
     "pulumi-language-nodejs": "pulumi",
+    "pulumi-language-pcl": "pulumi",
     "pulumi-language-python": "pulumi",
     "pulumi-zsh-completion": "pulumi",
     "pure": "pure",

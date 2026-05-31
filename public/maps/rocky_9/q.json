@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "q",
-    "total_mappings": 151
+    "total_mappings": 155
   },
   "mappings": {
     "qemu-guest-agent": "qemu",
@@ -48,6 +48,8 @@
     "qt5-linguist": "qt@5",
     "qt5-qdbusviewer": "qt@5",
     "qt5-qt3d": "qt@5",
+    "qt5-qt3d-debuginfo": "qt@5",
+    "qt5-qt3d-debugsource": "qt@5",
     "qt5-qt3d-devel": "qt@5",
     "qt5-qt3d-doc": "qt@5",
     "qt5-qt3d-tests": "qt@5",
@@ -125,6 +127,8 @@
     "qt5-qtsvg-tests": "qt@5",
     "qt5-qttools": "qt@5",
     "qt5-qttools-common": "qt@5",
+    "qt5-qttools-debuginfo": "qt@5",
+    "qt5-qttools-debugsource": "qt@5",
     "qt5-qttools-devel": "qt@5",
     "qt5-qttools-doc": "qt@5",
     "qt5-qttools-examples": "qt@5",

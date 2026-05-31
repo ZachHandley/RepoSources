@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "s",
-    "total_mappings": 475
+    "total_mappings": 476
   },
   "mappings": {
     "sci-astronomy/cdsclient": "cdsclient",
@@ -128,6 +128,7 @@
     "sci-libs/libsvm": "libsvm",
     "sci-libs/libxc": "libxc",
     "sci-libs/lmfit": "lmfit",
+    "sci-libs/m4ri": "m4ri",
     "sci-libs/matio": "libmatio",
     "sci-libs/metis": "metis",
     "sci-libs/mpfi": "mpfi",

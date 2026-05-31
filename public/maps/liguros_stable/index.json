@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shards": [
@@ -15,6 +15,6 @@
       "w",
       "x"
     ],
-    "total_mappings": 3454
+    "total_mappings": 3457
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "d",
-    "total_mappings": 258
+    "total_mappings": 257
   },
   "mappings": {
     "daemon": "daemon",
@@ -167,7 +167,6 @@
     "dnsmasq-base": "dnsmasq",
     "dnsmasq-base-lua": "dnsmasq",
     "dnsmasq-utils": "dnsmasq",
-    "dnsperf": "dnsperf",
     "dnstop": "dnstop",
     "dnstracer": "dnstracer",
     "dnstwist": "dnstwist",

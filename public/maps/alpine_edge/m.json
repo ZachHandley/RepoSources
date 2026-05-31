@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "m",
-    "total_mappings": 496
+    "total_mappings": 500
   },
   "mappings": {
     "m4": "m4",
@@ -103,6 +103,10 @@
     "mbedtls2-dev": "mbedtls@3",
     "mbedtls2-static": "mbedtls@3",
     "mbedtls2-utils": "mbedtls@3",
+    "mbedtls3": "mbedtls@3",
+    "mbedtls3-dev": "mbedtls@3",
+    "mbedtls3-static": "mbedtls@3",
+    "mbedtls3-utils": "mbedtls@3",
     "mbt": "mbt",
     "mbt-dev": "mbt",
     "mbt-doc": "mbt",

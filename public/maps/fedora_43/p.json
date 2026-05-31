@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "p",
-    "total_mappings": 1199
+    "total_mappings": 1201
   },
   "mappings": {
     "PDAL": "pdal",
@@ -303,6 +303,7 @@
     "php-gmp": "php@8.4",
     "php-intl": "php",
     "php-ldap": "php@8.4",
+    "php-mapserver": "mapserver",
     "php-mbstring": "php@8.4",
     "php-mysqlnd": "php@8.4",
     "php-odbc": "php@8.4",
@@ -1075,6 +1076,7 @@
     "python3-pycodestyle": "pycodestyle",
     "python3-pycryptosat": "cryptominisat",
     "python3-pyesedb": "libesedb",
+    "python3-pykdl": "orocos-kdl",
     "python3-pylint": "pylint",
     "python3-pyqt4-sip": "sip",
     "python3-pytest": "pytest",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "g",
-    "total_mappings": 125
+    "total_mappings": 124
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -18,7 +18,6 @@
     "gdb": "gdb",
     "gdbm": "gdbm",
     "gdk-pixbuf": "gdk-pixbuf",
-    "gdrive-downloader": "gdrive-downloader",
     "gdu": "gdu",
     "geckodriver": "geckodriver",
     "gecode": "gecode",

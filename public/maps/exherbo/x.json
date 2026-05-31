@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "x",
-    "total_mappings": 151
+    "total_mappings": 152
   },
   "mappings": {
     "x11-apps/bdftopcf": "bdftopcf",
@@ -29,6 +29,7 @@
     "x11-apps/xterm": "xterm",
     "x11-apps/xwininfo": "xwininfo",
     "x11-data/xbitmaps": "xbitmaps",
+    "x11-dri/bumblebee": "bumblebee",
     "x11-dri/freeglut": "freeglut",
     "x11-dri/glu": "mesa-glu",
     "x11-dri/libdrm": "libdrm",

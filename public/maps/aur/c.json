@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "c",
-    "total_mappings": 572
+    "total_mappings": 579
   },
   "mappings": {
     "c": "c",
@@ -101,6 +101,9 @@
     "cbonsai": "cbonsai",
     "cbonsai-git": "cbonsai",
     "cc-connect-git": "cc-connect",
+    "cc-switch-cli": "cc-switch-cli",
+    "cc-switch-cli-bin": "cc-switch-cli",
+    "cc-switch-cli-git": "cc-switch-cli",
     "cc65": "cc65",
     "cc65-git": "cc65",
     "ccache-git": "ccache",
@@ -304,6 +307,7 @@
     "cloud-sql-proxy": "cloud-sql-proxy",
     "cloud-sql-proxy-bin": "cloud-sql-proxy",
     "cloudflare-speed-cli-bin": "cloudflare-speed-cli",
+    "cloudflare-wrangler": "cloudflare-wrangler",
     "cloudflared-bin": "cloudflared",
     "cloudflared-git": "cloudflared",
     "cloudfoundry-cli": "cloudfoundry-cli",
@@ -311,6 +315,7 @@
     "cloudlist": "cloudlist",
     "cloudlist-bin": "cloudlist",
     "cloudlist-git": "cloudlist",
+    "cloudmonkey": "cloudmonkey",
     "cloudpan189-go-bin": "cloudpan189-go",
     "cloudprober": "cloudprober",
     "clp": "clp",
@@ -404,6 +409,7 @@
     "comrak": "comrak",
     "comrak-git": "comrak",
     "comtrya": "comtrya",
+    "comtrya-bin": "comtrya",
     "conan": "conan@1",
     "conan-bin": "conan@1",
     "conan-git": "conan@1",
@@ -424,6 +430,7 @@
     "contentful-cli": "contentful-cli",
     "controllermap": "sdl2",
     "convco": "convco",
+    "convco-bin": "convco",
     "cookcli": "cookcli",
     "cookcli-bin": "cookcli",
     "cookcli-git": "cookcli",

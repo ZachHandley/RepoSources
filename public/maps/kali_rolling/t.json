@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "t",
-    "total_mappings": 363
+    "total_mappings": 362
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -57,7 +57,6 @@
     "termbox": "termbox",
     "terminator": "terminator",
     "termrec": "termrec",
-    "termshark": "termshark",
     "tesseract": "tesseract",
     "tesseract-lang": "tesseract-lang",
     "tesseract-ocr": "tesseract",

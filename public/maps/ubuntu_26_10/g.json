@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "g",
-    "total_mappings": 1977
+    "total_mappings": 1976
   },
   "mappings": {
     "g++-11": "gcc@14",
@@ -1769,7 +1769,6 @@
     "golang-bindata": "go-bindata",
     "golang-chroma": "chroma",
     "golang-etcd-server-dev": "etcd",
-    "golang-filippo-age-dev": "age",
     "golang-github-alecthomas-chroma": "chroma",
     "golang-github-alecthomas-chroma-dev": "chroma",
     "golang-github-arduino-arduino-cli-dev": "arduino-cli",

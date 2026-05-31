@@ -1,16 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "q",
-    "total_mappings": 179
+    "total_mappings": 181
   },
   "mappings": {
     "qalculate": "libqalculate",
     "qbs": "qbs",
     "qemu": "qemu",
+    "qemu-debug": "qemu",
     "qemu-guest-agent": "qemu",
+    "qemu-static": "qemu",
     "qjackctl": "qjackctl",
     "qpdf": "qpdf",
     "qscintilla": "qscintilla2",

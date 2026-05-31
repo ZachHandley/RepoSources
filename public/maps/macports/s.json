@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "s",
-    "total_mappings": 1024
+    "total_mappings": 1028
   },
   "mappings": {
     "SDL3": "sdl3",
@@ -398,6 +398,7 @@
     "silicon": "silicon",
     "simde": "simde",
     "simdjson": "simdjson",
+    "simdutf": "simdutf",
     "simg2img": "simg2img",
     "simutrans": "simutrans",
     "singular": "singular",
@@ -637,6 +638,7 @@
     "sysutils/autorestic": "autorestic",
     "sysutils/aws-iam-authenticator": "aws-iam-authenticator",
     "sysutils/aws-nuke": "aws-nuke",
+    "sysutils/azure-cli": "azure-cli",
     "sysutils/bacula": "bacula-fd",
     "sysutils/bash-completion": "bash-completion@2",
     "sysutils/bashish": "bashish",
@@ -679,6 +681,7 @@
     "sysutils/clamav-server": "clamav",
     "sysutils/cliclick": "cliclick",
     "sysutils/clifm": "clifm",
+    "sysutils/cloudmonkey": "cloudmonkey",
     "sysutils/clpbar": "clpbar",
     "sysutils/cmctl": "cmctl",
     "sysutils/colima": "colima",
@@ -914,6 +917,7 @@
     "sysutils/quotatool": "quotatool",
     "sysutils/rainbarf": "rainbarf",
     "sysutils/ranger": "ranger",
+    "sysutils/ratty": "ratty",
     "sysutils/rcm": "rcm",
     "sysutils/rdfind": "rdfind",
     "sysutils/readpe": "readpe",

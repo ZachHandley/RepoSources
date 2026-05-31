@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "p",
@@ -38,7 +38,7 @@
     "python/pycodestyle": "pycodestyle",
     "python/pypy": "pypy",
     "python/pypy3": "pypy",
-    "python/pyside": "pyside@2",
+    "python/pyside": "pyside",
     "python/pytest": "pytest",
     "python/python2-pillow": "pillow",
     "python/python2-tabulate": "python-tabulate",

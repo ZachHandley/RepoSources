@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "n",
-    "total_mappings": 78
+    "total_mappings": 77
   },
   "mappings": {
     "nanomsg": "nanomsg",
@@ -82,7 +82,6 @@
     "nic-wireless-modules-7.1-riscv64-di": "linux-headers@6.8",
     "nlohmann-json3": "nlohmann-json",
     "nlohmann-json3-dev": "nlohmann-json",
-    "node-llhttp": "llhttp",
     "nscd": "glibc@2.17",
     "nzbget": "nzbget"
   }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "a",
-    "total_mappings": 992
+    "total_mappings": 994
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -298,6 +298,7 @@
     "app-devel/yasm": "yasm",
     "app-devel/yq": "yq",
     "app-devel/z3": "z3",
+    "app-devel/zydis": "zydis",
     "app-devices/android-simg2img": "simg2img",
     "app-devices/bluez": "bluez",
     "app-devices/opensc": "opensc",
@@ -582,6 +583,7 @@
     "app-penetration/pixiewps": "pixiewps",
     "app-penetration/sqlmap": "sqlmap",
     "app-productivity/beancount": "beancount",
+    "app-productivity/cherrytree": "cherrytree",
     "app-productivity/presenterm": "presenterm",
     "app-productivity/taskwarrior": "task",
     "app-proxy/cloudflared": "cloudflared",

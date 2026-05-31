@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "i",
-    "total_mappings": 40
+    "total_mappings": 42
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -29,6 +29,8 @@
     "ipmievd": "ipmitool",
     "ipmitool": "ipmitool",
     "iproute": "iproute2",
+    "iproute-debuginfo": "iproute2",
+    "iproute-debugsource": "iproute2",
     "iproute-devel": "iproute2",
     "iproute-doc": "iproute2",
     "iproute-tc": "iproute2",

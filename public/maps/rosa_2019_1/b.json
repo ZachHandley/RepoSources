@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "b",
-    "total_mappings": 157
+    "total_mappings": 160
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -147,6 +147,9 @@
     "bubblewrap-debuginfo": "bubblewrap",
     "bubblewrap-debugsource": "bubblewrap",
     "bullet": "bullet",
+    "bumblebee": "bumblebee",
+    "bumblebee-debuginfo": "bumblebee",
+    "bumblebee-debugsource": "bumblebee",
     "bup": "bup",
     "bup-debuginfo": "bup",
     "bup-debugsource": "bup",

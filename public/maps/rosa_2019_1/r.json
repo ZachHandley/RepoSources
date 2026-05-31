@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "r",
-    "total_mappings": 204
+    "total_mappings": 205
   },
   "mappings": {
     "R": "r",
@@ -206,6 +206,7 @@
     "rust-std-static": "rust",
     "rust1.89": "rust",
     "rust1.90": "rust",
+    "rust1.95": "rust",
     "rustfmt": "rust",
     "rxvt-unicode": "rxvt-unicode",
     "rxvt-unicode-debuginfo": "rxvt-unicode",

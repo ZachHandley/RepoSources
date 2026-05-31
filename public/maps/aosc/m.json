@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "m",
-    "total_mappings": 93
+    "total_mappings": 94
   },
   "mappings": {
     "m4": "m4",
+    "m4ri": "m4ri",
     "macchanger": "macchanger",
     "macchina": "macchina",
     "make": "make",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "m",
-    "total_mappings": 452
+    "total_mappings": 453
   },
   "mappings": {
     "mail-client/aerc": "aerc",
@@ -60,6 +60,7 @@
     "media-gfx/jpeginfo": "jpeginfo",
     "media-gfx/jpegoptim": "jpegoptim",
     "media-gfx/libimagequant": "libimagequant",
+    "media-gfx/libredwg": "libredwg",
     "media-gfx/mscgen": "mscgen",
     "media-gfx/mypaint-brushes": "mypaint-brushes",
     "media-gfx/opencsg": "opencsg",

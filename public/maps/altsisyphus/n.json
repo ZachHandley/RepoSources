@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "n",
-    "total_mappings": 282
+    "total_mappings": 289
   },
   "mappings": {
     "nDPI": "ndpi",
@@ -92,6 +92,10 @@
     "ne": "ne",
     "ne-debuginfo": "ne",
     "ne-doc": "ne",
+    "nebula": "nebula",
+    "nebula-cert": "nebula",
+    "nebula-cert-debuginfo": "nebula",
+    "nebula-debuginfo": "nebula",
     "nedit": "nedit",
     "nedit-debuginfo": "nedit",
     "neko": "neko",
@@ -207,6 +211,9 @@
     "nlopt-docs": "nlopt",
     "nmap": "nmap",
     "nmap-debuginfo": "nmap",
+    "nng": "nng",
+    "nng-tools": "nng",
+    "nng-tools-debuginfo": "nng",
     "nnn": "nnn",
     "nnn-debuginfo": "nnn",
     "node": "node@24",

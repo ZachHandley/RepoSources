@@ -1,27 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "k",
-    "total_mappings": 30
+    "total_mappings": 17
   },
   "mappings": {
-    "kalign": "kalign",
     "kallisto": "kallisto",
     "kallisto-examples": "kallisto",
     "kcptun": "kcptun",
-    "kdoctools6": "kdoctools",
-    "kf6-extra-cmake-modules": "extra-cmake-modules",
-    "kf6-karchive": "karchive",
-    "kf6-kdoctools": "kdoctools",
-    "kf6-ki18n": "ki18n",
-    "kf6-ktexttemplate": "grantlee",
-    "kf6-threadweaver": "threadweaver",
-    "khal": "khal",
-    "khal-doc": "khal",
     "khard": "khard",
-    "kind": "kind",
     "kissat": "kissat",
     "knot": "knot",
     "knot-dnssecutils": "knot",
@@ -34,8 +23,6 @@
     "knot-module-geoip": "knot",
     "krita-gmic": "gmic",
     "ksh": "ksh93",
-    "ksh93u+m": "ksh93",
-    "kubectx": "kubectx",
-    "kustomize": "kustomize"
+    "ksh93u+m": "ksh93"
   }
 }

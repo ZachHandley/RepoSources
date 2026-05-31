@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "s",
-    "total_mappings": 504
+    "total_mappings": 507
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -226,6 +226,8 @@
     "snobol4": "snobol4",
     "snort": "snort",
     "snownews": "snownews",
+    "soapy-hackrf": "soapyhackrf",
+    "soapysdr": "soapysdr",
     "socat": "socat",
     "softhsm2": "softhsm",
     "solarus": "solarus",
@@ -300,6 +302,7 @@
     "subversion": "subversion",
     "suil": "suil",
     "suitesparse": "suite-sparse",
+    "superhtml": "superhtml",
     "superlu": "superlu",
     "supertux": "supertux",
     "supervisor": "supervisor",

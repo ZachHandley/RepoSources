@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "parrot",
     "shard": "r",
@@ -106,8 +106,8 @@
     "reuse": "reuse",
     "rex": "rex",
     "rfkill": "gnu-getopt",
-    "rfkill-modules-6.19.13+parrot7-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-6.19.13+parrot7-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.9+parrot7-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.9+parrot7-loong64-di": "linux-headers@6.8",
     "rgxg": "rgxg",
     "rhash": "rhash",
     "rhino": "rhino",

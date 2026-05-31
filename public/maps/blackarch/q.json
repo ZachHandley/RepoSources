@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "q",
-    "total_mappings": 17
+    "total_mappings": 18
   },
   "mappings": {
     "qscintilla": "qscintilla2",
@@ -16,6 +16,7 @@
     "qt5-datavis3d": "qt@5",
     "qt5-doc": "qt@5",
     "qt5-examples": "qt@5",
+    "qt5-location": "qt@5",
     "qt5-remoteobjects": "qt@5",
     "qt5-scxml": "qt@5",
     "qt5-sensors": "qt@5",

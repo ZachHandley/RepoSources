@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "n",
-    "total_mappings": 193
+    "total_mappings": 196
   },
   "mappings": {
     "nacl": "nacl",
@@ -91,6 +91,7 @@
     "nettoe": "nettoe",
     "newlisp": "newlisp",
     "newsboat": "newsboat",
+    "newsraft": "newsraft",
     "newt": "newt",
     "newt-tcl": "newt",
     "nfdump": "nfdump",
@@ -122,6 +123,7 @@
     "nim-doc": "nim",
     "ninja-build": "ninja",
     "ninvaders": "ninvaders",
+    "nip4": "nip4",
     "nkf": "nkf",
     "nload": "nload",
     "nlohmann-json3": "nlohmann-json",
@@ -191,6 +193,7 @@
     "nvchecker": "nvchecker",
     "nvi": "nvi",
     "nvi-doc": "nvi",
+    "nvimpager": "nvimpager",
     "nvtop": "nvtop",
     "nwchem": "nwchem",
     "nwchem-data": "nwchem",

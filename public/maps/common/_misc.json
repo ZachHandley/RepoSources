@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "_misc",
-    "total_mappings": 100
+    "total_mappings": 101
   },
   "mappings": {
     "(DEPRECATED) Microsoft .NET Framework 4.6.2": "dotnet@9",
@@ -56,6 +56,7 @@
     "7z": "sevenzip",
     "7zip": "sevenzip",
     "7zip-beta": "sevenzip",
+    "7zip-dbginfo": "sevenzip",
     "7zip-debuginfo": "sevenzip",
     "7zip-debugsource": "sevenzip",
     "7zip-doc": "sevenzip",

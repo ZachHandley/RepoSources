@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "q",
-    "total_mappings": 561
+    "total_mappings": 562
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -59,6 +59,7 @@
     "qjackctl": "qjackctl",
     "qmake6": "qt@5",
     "qmake6-bin": "qt@5",
+    "qman": "qman",
     "qml": "qt@5",
     "qml-module-org-kde-i18n-localedata": "ki18n",
     "qml-module-qt-labs-animation": "qt@5",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "s",
-    "total_mappings": 214
+    "total_mappings": 215
   },
   "mappings": {
     "s2n": "s2n",
@@ -131,6 +131,7 @@
     "soplex": "soplex",
     "sops": "sops",
     "sord": "sord",
+    "souffle": "souffle",
     "soundtouch": "sound-touch",
     "source-highlight": "source-highlight",
     "sox": "sox",

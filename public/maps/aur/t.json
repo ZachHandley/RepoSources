@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "t",
-    "total_mappings": 374
+    "total_mappings": 375
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -114,6 +114,7 @@
     "terraform-lsp": "terraform-lsp",
     "terraform-lsp-bin": "terraform-lsp",
     "terraform-lsp-git": "terraform-lsp",
+    "terraform-mcp-server": "terraform-mcp-server",
     "terraform-provider-libvirt": "terraform-provider-libvirt",
     "terraform-provider-libvirt-git": "terraform-provider-libvirt",
     "terraform-pug-bin": "pug",

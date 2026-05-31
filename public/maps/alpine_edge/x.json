@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "x",
-    "total_mappings": 162
+    "total_mappings": 163
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -137,6 +137,7 @@
     "xprop-doc": "xprop",
     "xq": "xq",
     "xq-doc": "xq",
+    "xray": "xray",
     "xrdb": "xrdb",
     "xrdb-doc": "xrdb",
     "xsane": "xsane",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "t",
-    "total_mappings": 10316
+    "total_mappings": 10317
   },
   "mappings": {
     "T1Lib": "t1lib",
@@ -1305,6 +1305,7 @@
     "tevent-python3": "tevent",
     "tex-fmt": "tex-fmt",
     "tex-fmt-bin": "tex-fmt",
+    "tex-fmt-debuginfo": "tex-fmt",
     "tex/BibTool": "bib-tool",
     "tex/LaTeXML": "latexml",
     "tex/bibclean": "bibclean",

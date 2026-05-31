@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "n",
-    "total_mappings": 63
+    "total_mappings": 54
   },
   "mappings": {
     "nanobind": "nanobind",
     "nanobind-dev": "nanobind",
-    "nanopb": "nanopb",
     "nats-server": "nats-server",
     "ncat": "nmap",
     "ncbi-blast+": "blast",
@@ -17,6 +16,7 @@
     "ndiff": "nmap",
     "neomutt": "neomutt",
     "neon27": "neon",
+    "net-snmp": "net-snmp",
     "netatalk": "netatalk",
     "netatalk-doc": "netatalk",
     "netatalk-tests": "netatalk",
@@ -31,7 +31,6 @@
     "nghttp2-client": "libnghttp2",
     "nghttp2-proxy": "libnghttp2",
     "nghttp2-server": "libnghttp2",
-    "nghttp3": "libnghttp3",
     "nginx": "nginx",
     "nginx-common": "nginx",
     "nginx-core": "nginx",
@@ -40,18 +39,11 @@
     "nginx-extras": "nginx",
     "nginx-full": "nginx",
     "nginx-light": "nginx",
-    "ngircd": "ngircd",
-    "ngrep": "ngrep",
-    "ngspice": "ngspice",
-    "ngspice-dev": "ngspice",
-    "ngspice-doc": "libngspice",
-    "ngtcp2": "libngtcp2",
     "nickle": "nickle",
+    "nim": "nim",
+    "nim-doc": "nim",
     "nmap": "nmap",
     "nmap-common": "nmap",
-    "nng": "nng",
-    "nng-utils": "nng",
-    "nnn": "nnn",
     "node-js-beautify": "js-beautify",
     "node-llhttp": "llhttp",
     "node-semver": "semver",
@@ -64,11 +56,10 @@
     "notmuch-git": "notmuch",
     "notmuch-mutt": "notmuch",
     "notmuch-vim": "notmuch",
-    "ns3": "ns-3",
-    "nsd": "nsd",
     "nss": "nss",
     "ntfs-3g": "ntfs-3g",
     "ntfs-3g-dev": "ntfs-3g",
-    "ntfs-3g-udeb": "ntfs-3g"
+    "ntfs-3g-udeb": "ntfs-3g",
+    "numpy": "numpy"
   }
 }

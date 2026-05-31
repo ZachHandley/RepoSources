@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "i",
@@ -115,7 +115,6 @@
     "ipcalc": "ipcalc",
     "ipe-tools": "pdftoipe",
     "ipe5toxml": "pdftoipe",
-    "iperf": "iperf",
     "iperf3": "iperf3",
     "ipmitool": "ipmitool",
     "ipmiutil": "ipmiutil",
@@ -130,6 +129,7 @@
     "ipv6toolkit": "ipv6toolkit",
     "ipython": "ipython",
     "ipython3": "ipython",
+    "iqtree3": "iqtree3",
     "iraf-wcstools": "wcstools",
     "ircd-hybrid": "ircd-hybrid",
     "ircd-irc2": "ircd-irc2",

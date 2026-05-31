@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "epel_6",
     "shard": "p",
@@ -79,7 +79,7 @@
     "python-flake8": "flake8",
     "python-grokmirror": "grokmirror",
     "python-pivy": "pivy",
-    "python-pyside": "pyside@2",
+    "python-pyside": "pyside",
     "python-speedtest-cli": "speedtest-cli",
     "python-sphinx10": "sphinx-doc",
     "python-sqlparse": "sqlparse",

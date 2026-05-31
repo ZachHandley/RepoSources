@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "c",
-    "total_mappings": 98
+    "total_mappings": 97
   },
   "mappings": {
     "ca-certificates": "ca-certificates",
@@ -91,7 +91,6 @@
     "cpupower": "linux-headers@6.8",
     "cracklib": "cracklib",
     "cracklib-debug": "cracklib",
-    "cross-avr-gcc": "gcc@14",
     "cross-i586-openmamba-linux-gnu-glibc": "glibc@2.17",
     "cross-ppc-openmamba-linux-gnu-binutils": "aarch64-elf-binutils",
     "cscope": "cscope",

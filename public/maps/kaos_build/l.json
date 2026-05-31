@@ -1,19 +1,29 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "l",
-    "total_mappings": 8
+    "total_mappings": 18
   },
   "mappings": {
-    "lcms2": "little-cms2",
+    "libabw": "libabw",
+    "libavif": "libavif",
+    "libcdr": "libcdr",
     "libde265": "libde265",
-    "libgit2": "libgit2",
+    "libdrm": "libdrm",
+    "libgphoto2": "libgphoto2",
     "libheif": "libheif",
-    "libusb": "libusb",
-    "libxml++": "libxml++@5",
-    "libxmlb": "libxmlb",
-    "limine": "limine"
+    "libqalculate": "libqalculate",
+    "libvisio": "libvisio",
+    "libxkbcommon": "libxkbcommon",
+    "limine": "limine",
+    "linux": "linux-headers@6.8",
+    "linux-docs": "linux-headers@6.8",
+    "linux-headers": "linux-headers@6.8",
+    "linux-next": "linux-headers@6.8",
+    "linux-next-docs": "linux-headers@6.8",
+    "linux-next-headers": "linux-headers@6.8",
+    "live-media": "openrtsp"
   }
 }

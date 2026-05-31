@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "a",
-    "total_mappings": 277
+    "total_mappings": 275
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -68,7 +68,6 @@
     "afuse": "afuse",
     "agda": "agda",
     "agda-bin": "agda",
-    "age": "age",
     "agedu": "agedu",
     "aha": "aha",
     "ahcpd": "ahcpd",
@@ -78,7 +77,6 @@
     "airspyhf": "airspyhf",
     "airspyone-host": "airspy",
     "aldo": "aldo",
-    "alembic": "alembic",
     "algol68g": "algol68g",
     "allegro4-doc": "allegro",
     "allegro4.4": "allegro",

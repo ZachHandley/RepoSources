@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "d",
@@ -28,7 +28,9 @@
     "dev-db/turso": "turso",
     "dev-debug/gdbgui": "gdbgui",
     "dev-embedded/arduino-cli": "arduino-cli",
+    "dev-embedded/flip-link": "flip-link",
     "dev-embedded/fwup": "fwup",
+    "dev-embedded/probe-rs-tools": "probe-rs-tools",
     "dev-java/jdtls-bin": "jdtls",
     "dev-lang/c3c": "c3c",
     "dev-lang/cc65": "cc65",
@@ -82,10 +84,8 @@
     "dev-util/ios-webkit-debug-proxy": "ios-webkit-debug-proxy",
     "dev-util/juliaup": "juliaup",
     "dev-util/kubetail": "kubetail",
-    "dev-util/kubetail-bin": "kubetail",
     "dev-util/lua-language-server": "lua-language-server",
     "dev-util/minify": "minify",
-    "dev-util/minify-bin": "minify",
     "dev-util/mise": "mise",
     "dev-util/neocmakelsp": "neocmakelsp",
     "dev-util/nvchecker": "nvchecker",

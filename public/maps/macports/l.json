@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "l",
-    "total_mappings": 821
+    "total_mappings": 823
   },
   "mappings": {
     "LBFGSpp": "lbfgspp",
@@ -101,6 +101,7 @@
     "lang/julia": "julia",
     "lang/jython": "jython",
     "lang/kotlin": "kotlin",
+    "lang/ldc": "ldc",
     "lang/lemon": "lemon",
     "lang/libcxx": "llvm@21",
     "lang/libomp": "llvm@21",
@@ -266,6 +267,7 @@
     "lcms2": "little-cms2",
     "lcov": "lcov",
     "ldapvi": "ldapvi",
+    "ldc": "ldc",
     "ldid": "ldid",
     "ldid-procursus": "ldid-procursus",
     "ldns": "ldns",

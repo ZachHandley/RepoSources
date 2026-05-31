@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "g",
-    "total_mappings": 190
+    "total_mappings": 191
   },
   "mappings": {
     "G'MIC": "gmic",
@@ -58,6 +58,7 @@
     "GNU Guile": "guile",
     "GNU Hello": "hello",
     "GNU Libidn": "libidn",
+    "GNU LibreDWG": "libredwg",
     "GNU Libtool": "libtool",
     "GNU Linear Programming Kit": "glpk",
     "GNU MIX Development Kit": "mdk",

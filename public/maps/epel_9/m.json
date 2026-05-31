@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "m",
-    "total_mappings": 293
+    "total_mappings": 291
   },
   "mappings": {
     "mac-robber": "mac-robber",
@@ -105,7 +105,6 @@
     "mingw32-SDL2": "sdl2",
     "mingw32-SDL2-static": "sdl2",
     "mingw32-glslang": "glslang",
-    "mingw32-jxrlib": "jxrlib",
     "mingw32-lcms2": "little-cms2",
     "mingw32-lcms2-static": "little-cms2",
     "mingw32-libgcrypt": "libgcrypt",
@@ -137,7 +136,6 @@
     "mingw64-SDL2": "sdl2",
     "mingw64-SDL2-static": "sdl2",
     "mingw64-glslang": "glslang",
-    "mingw64-jxrlib": "jxrlib",
     "mingw64-lcms2": "little-cms2",
     "mingw64-lcms2-static": "little-cms2",
     "mingw64-libgcrypt": "libgcrypt",

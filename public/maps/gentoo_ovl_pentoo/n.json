@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_pentoo",
     "shard": "n",
-    "total_mappings": 27
+    "total_mappings": 29
   },
   "mappings": {
     "net-analyzer/amass": "amass",
@@ -14,7 +14,9 @@
     "net-analyzer/legba-bin": "legba",
     "net-analyzer/masscan": "masscan",
     "net-analyzer/massdns": "massdns",
+    "net-analyzer/naabu": "naabu",
     "net-analyzer/ncrack": "ncrack",
+    "net-analyzer/nuclei": "nuclei",
     "net-analyzer/nuclei-bin": "nuclei",
     "net-analyzer/pwncat": "pwncat",
     "net-analyzer/s3scanner": "s3scanner",

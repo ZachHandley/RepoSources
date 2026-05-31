@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "m",
-    "total_mappings": 218
+    "total_mappings": 216
   },
   "mappings": {
     "mac-robber": "mac-robber",
@@ -91,7 +91,6 @@
     "mingw32-flatbuffers": "flatbuffers",
     "mingw32-flatbuffers-debuginfo": "flatbuffers",
     "mingw32-hidapi": "hidapi",
-    "mingw32-jxrlib": "jxrlib",
     "mingw32-libdeflate": "libdeflate",
     "mingw32-libdeflate-utils": "libdeflate",
     "mingw32-libidn2": "libidn2",
@@ -100,7 +99,6 @@
     "mingw64-flatbuffers": "flatbuffers",
     "mingw64-flatbuffers-debuginfo": "flatbuffers",
     "mingw64-hidapi": "hidapi",
-    "mingw64-jxrlib": "jxrlib",
     "mingw64-libdeflate": "libdeflate",
     "mingw64-libdeflate-utils": "libdeflate",
     "mingw64-libidn2": "libidn2",

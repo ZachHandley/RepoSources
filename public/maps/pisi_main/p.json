@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "p",
-    "total_mappings": 346
+    "total_mappings": 347
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -193,6 +193,7 @@
     "programming/library/rpcsvc-proto": "rpcsvc-proto",
     "programming/library/sassc": "sassc",
     "programming/library/shaderc": "shaderc",
+    "programming/library/simdjson": "simdjson",
     "programming/library/slang": "s-lang",
     "programming/library/spdlog": "spdlog",
     "programming/library/squashfuse": "squashfuse",

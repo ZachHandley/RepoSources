@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "alt_p10",
     "shard": "b",
-    "total_mappings": 313
+    "total_mappings": 315
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -300,6 +300,8 @@
     "bubblewrap": "bubblewrap",
     "bubblewrap-debuginfo": "bubblewrap",
     "bullet3": "bullet",
+    "bumblebee": "bumblebee",
+    "bumblebee-debuginfo": "bumblebee",
     "bup": "bup",
     "bup-debuginfo": "bup",
     "bup-web": "bup",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "a",
@@ -66,7 +66,6 @@
     "airspyhf": "airspyhf",
     "alass": "alass",
     "aldo": "aldo",
-    "alembic": "alembic",
     "algol68g": "algol68g",
     "ali": "ali",
     "align": "align",
@@ -240,6 +239,7 @@
     "astro/astroterm": "astroterm",
     "astro/calceph": "calceph",
     "astro/cfitsio": "cfitsio",
+    "astro/cspice": "cspice",
     "astro/erfa": "erfa",
     "astro/geographiclib": "geographiclib",
     "astro/gnuastro": "gnuastro",

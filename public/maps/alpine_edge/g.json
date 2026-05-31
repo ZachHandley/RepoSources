@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "g",
-    "total_mappings": 746
+    "total_mappings": 748
   },
   "mappings": {
     "g++": "gcc@14",
@@ -498,6 +498,8 @@
     "goaccess": "goaccess",
     "goaccess-doc": "goaccess",
     "goaccess-lang": "goaccess",
+    "goat": "goat",
+    "goat-doc": "goat",
     "goawk": "goawk",
     "goawk-doc": "goawk",
     "gobject-introspection": "gobject-introspection",

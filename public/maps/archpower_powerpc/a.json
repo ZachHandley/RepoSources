@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "a",
-    "total_mappings": 81
+    "total_mappings": 80
   },
   "mappings": {
     "a52dec": "a52dec",
@@ -21,7 +21,6 @@
     "adwaita-cursors": "adwaita-icon-theme",
     "adwaita-icon-theme": "adwaita-icon-theme",
     "aha": "aha",
-    "alembic": "alembic",
     "allegro": "allegro",
     "alsa-card-profiles": "pipewire",
     "alsa-lib": "alsa-lib",

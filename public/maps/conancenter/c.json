@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "c",
-    "total_mappings": 70
+    "total_mappings": 71
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -38,6 +38,7 @@
     "cimg": "cimg",
     "cityhash": "cityhash",
     "cjson": "cjson",
+    "clblast": "clblast",
     "clhep": "clhep",
     "cli11": "cli11",
     "clickhouse-cpp": "clickhouse-cpp",

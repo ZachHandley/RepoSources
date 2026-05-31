@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "t",
-    "total_mappings": 2
+    "total_mappings": 3
   },
   "mappings": {
+    "tailscale": "tailscale",
     "testdisk": "testdisk",
     "tig": "tig"
   }

@@ -1,13 +1,34 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "y",
-    "total_mappings": 2
+    "total_mappings": 23
   },
   "mappings": {
+    "yamllint": "yamllint",
+    "yapf": "yapf",
+    "yapf3": "yapf",
     "yarnpkg": "yarn",
-    "yash": "yash"
+    "yash": "yash",
+    "yaws": "yaws",
+    "yaws-chat": "yaws",
+    "yaws-doc": "yaws",
+    "yaws-mail": "yaws",
+    "yaws-wiki": "yaws",
+    "yaws-yapp": "yaws",
+    "yaz": "yaz",
+    "yaz-doc": "yaz",
+    "yaz-icu": "yaz",
+    "yaz-illclient": "yaz",
+    "yder": "yder",
+    "ydiff": "ydiff",
+    "yosys": "yosys",
+    "yosys-abc": "yosys",
+    "yosys-dev": "yosys",
+    "yosys-doc": "yosys",
+    "yq-go": "yq",
+    "yubikey-manager": "ykman"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "q",
-    "total_mappings": 149
+    "total_mappings": 148
   },
   "mappings": {
     "qalculate-gtk": "qalculate-gtk",
@@ -38,7 +38,6 @@
     "qemu-system-loongarch64": "qemu",
     "qemu-system-m68k": "qemu",
     "qemu-system-microblaze": "qemu",
-    "qemu-system-microblazeel": "qemu",
     "qemu-system-mips": "qemu",
     "qemu-system-mips64": "qemu",
     "qemu-system-mips64el": "qemu",

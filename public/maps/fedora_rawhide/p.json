@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "p",
-    "total_mappings": 1203
+    "total_mappings": 1206
   },
   "mappings": {
     "PDAL": "pdal",
@@ -56,6 +56,8 @@
     "papers-previewer": "gnome-papers",
     "papers-thumbnailer": "gnome-papers",
     "papilo": "papilo",
+    "papilo-debuginfo": "papilo",
+    "papilo-debugsource": "papilo",
     "paps": "paps",
     "par": "par",
     "par2cmdline": "par2",
@@ -962,6 +964,7 @@
     "python3-libfdt": "dtc",
     "python3-libfreenect": "libfreenect",
     "python3-libftdi": "libftdi",
+    "python3-libimobiledevice": "libimobiledevice",
     "python3-libiptcdata": "libiptcdata",
     "python3-libkml": "libkml",
     "python3-libknot": "knot",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "g",
-    "total_mappings": 29
+    "total_mappings": 31
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -33,6 +33,8 @@
     "golang-1.26-go": "go@1.25",
     "golang-1.26-src": "go@1.25",
     "golang-etcd-server-dev": "etcd",
+    "golang-github-lxc-incus-dev": "incus",
+    "golang-github-opensuse-umoci-dev": "umoci",
     "golang-sigsum-sigsum-go-dev": "sigsum-go",
     "gstreamer1.0-pipewire": "pipewire",
     "gwenhywfar-tools": "gwenhywfar"

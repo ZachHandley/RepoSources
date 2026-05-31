@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_42",
     "shard": "j",
-    "total_mappings": 163
+    "total_mappings": 161
   },
   "mappings": {
     "Judy": "judy",
@@ -167,8 +167,6 @@
     "jupp": "jupp",
     "jupyterlab": "jupyterlab",
     "just": "just",
-    "jxl-pixbuf-loader": "jpeg-xl",
-    "jxrlib": "jxrlib",
-    "jxrlib-devel": "jxrlib"
+    "jxl-pixbuf-loader": "jpeg-xl"
   }
 }

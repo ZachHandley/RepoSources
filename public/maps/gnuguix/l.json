@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "l",
@@ -186,7 +186,6 @@
     "libjuice": "libjuice",
     "libjwt": "libjwt",
     "libjxl": "jpeg-xl",
-    "libjxr": "jxrlib",
     "libkate": "libkate",
     "libkeyfinder": "libkeyfinder",
     "libksba": "libksba",
@@ -279,6 +278,7 @@
     "librasterlite2": "librasterlite2",
     "libraw": "libraw",
     "librdkafka": "librdkafka",
+    "libredwg": "libredwg",
     "libressl": "libressl",
     "librest": "librest",
     "librevenge": "librevenge",

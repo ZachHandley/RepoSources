@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "j",
-    "total_mappings": 108
+    "total_mappings": 107
   },
   "mappings": {
     "JAGS": "jags",
@@ -113,7 +113,6 @@
     "just": "just",
     "jwt-cli": "jwt-cli",
     "jwt-hack": "jwt-hack",
-    "jxrlib": "jxrlib",
     "jython": "jython"
   }
 }

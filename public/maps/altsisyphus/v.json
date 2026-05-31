@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "v",
-    "total_mappings": 139
+    "total_mappings": 142
   },
   "mappings": {
     "vala": "vala",
@@ -104,6 +104,9 @@
     "virtualpg": "virtualpg",
     "virtualpg-debuginfo": "virtualpg",
     "virtualpg-devel": "virtualpg",
+    "vmaf": "libvmaf",
+    "vmaf-debuginfo": "libvmaf",
+    "vmaf-models": "libvmaf",
     "vmtouch": "vmtouch",
     "vmtouch-debuginfo": "vmtouch",
     "vnstat": "vnstat",

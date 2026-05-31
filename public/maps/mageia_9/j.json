@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "j",
-    "total_mappings": 179
+    "total_mappings": 176
   },
   "mappings": {
     "jackit": "jack",
@@ -182,9 +182,6 @@
     "julia-debuginfo": "julia",
     "julia-debugsource": "julia",
     "julia-devel": "julia",
-    "julia-doc": "julia",
-    "jxrlib": "jxrlib",
-    "jxrlib-debuginfo": "jxrlib",
-    "jxrlib-debugsource": "jxrlib"
+    "julia-doc": "julia"
   }
 }

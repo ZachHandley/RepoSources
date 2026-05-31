@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "l",
-    "total_mappings": 5616
+    "total_mappings": 5618
   },
   "mappings": {
     "LimeSuite": "limesuite",
@@ -1921,7 +1921,6 @@
     "lib64jpeg-static-devel": "jpeg-turbo",
     "lib64jpeg62": "jpeg-turbo",
     "lib64jpeg8": "jpeg-turbo",
-    "lib64jpegxr0": "jxrlib",
     "lib64jpgalleg4.4": "allegro",
     "lib64jq-devel": "jq",
     "lib64jq1": "jq",
@@ -1951,8 +1950,6 @@
     "lib64jwt2": "libjwt",
     "lib64jxl-devel": "jpeg-xl",
     "lib64jxl0.11": "jpeg-xl",
-    "lib64jxrglue0": "jxrlib",
-    "lib64jxrlib-devel": "jxrlib",
     "lib64k5crypto3": "krb5",
     "lib64kadm5clnt_mit12": "krb5",
     "lib64kadm5srv_mit12": "krb5",
@@ -2168,6 +2165,8 @@
     "lib64lzma5": "xz",
     "lib64lzo-devel": "lzo",
     "lib64lzo2_2": "lzo",
+    "lib64m4ri-devel": "m4ri",
+    "lib64m4ri0.0.20200125": "m4ri",
     "lib64mad-devel": "mad",
     "lib64mad0": "mad",
     "lib64maeparser-devel": "maeparser",
@@ -2946,7 +2945,7 @@
     "lib64py3talloc-util-devel": "talloc",
     "lib64py3talloc-util2": "talloc",
     "lib64pyglib2.0_0": "pygobject3",
-    "lib64pysidepython2.7_1": "pyside@2",
+    "lib64pysidepython2.7_1": "pyside",
     "lib64pystring-devel": "pystring",
     "lib64pystring0": "pystring",
     "lib64python2-devel": "python@3.9",
@@ -4728,6 +4727,9 @@
     "liblzf-debugsource": "liblzf",
     "liblzf-devel": "liblzf",
     "liblzo": "lzo",
+    "libm4ri": "m4ri",
+    "libm4ri-debuginfo": "m4ri",
+    "libm4ri-debugsource": "m4ri",
     "libmandoc-devel": "mandoc",
     "libmatroska": "libmatroska",
     "libmaxminddb": "libmaxminddb",

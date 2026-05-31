@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "b",
-    "total_mappings": 220
+    "total_mappings": 222
   },
   "mappings": {
     "BNFC": "bnfc",
@@ -198,6 +198,7 @@
     "bruno-cli": "bruno-cli",
     "bsc": "libbsc",
     "bsdiff": "bsdiff",
+    "btdu": "btdu",
     "btfs": "btfs",
     "btop": "btop",
     "btop-rocm": "btop",
@@ -210,6 +211,7 @@
     "bulk_extractor": "bulk_extractor",
     "bullet": "bullet",
     "bullet-roboschool": "bullet",
+    "bumblebee": "bumblebee",
     "bump-my-version": "bump-my-version",
     "bundletool": "bundletool",
     "bup": "bup",

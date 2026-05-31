@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "u",
-    "total_mappings": 53
+    "total_mappings": 57
   },
   "mappings": {
     "uchardet": "uchardet",
@@ -27,6 +27,8 @@
     "ucrt64-zlib": "minizip",
     "ucrt64-zlib-static": "minizip",
     "unbound": "unbound",
+    "unbound-debuginfo": "unbound",
+    "unbound-debugsource": "unbound",
     "unbound-devel": "unbound",
     "unbound-dracut": "unbound",
     "unbound-libs": "unbound",
@@ -39,6 +41,8 @@
     "unixODBC-debugsource": "unixodbc",
     "unixODBC-devel": "unixodbc",
     "unzip": "unzip",
+    "unzip-debuginfo": "unzip",
+    "unzip-debugsource": "unzip",
     "urlview": "urlview",
     "urlview-debuginfo": "urlview",
     "urlview-debugsource": "urlview",

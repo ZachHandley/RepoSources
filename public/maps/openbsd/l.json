@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "l",
-    "total_mappings": 478
+    "total_mappings": 479
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -432,6 +432,7 @@
     "links": "links",
     "links+": "links",
     "liquibase": "liquibase",
+    "liquid-dsp": "liquid-dsp",
     "liveMedia": "openrtsp",
     "llama.cpp": "llama.cpp",
     "lldb": "llvm@21",

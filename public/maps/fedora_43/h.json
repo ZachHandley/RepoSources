@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "h",
-    "total_mappings": 138
+    "total_mappings": 140
   },
   "mappings": {
     "HdrHistogram_c": "hdrhistogram_c",
@@ -60,6 +60,8 @@
     "helix": "helix",
     "helix-debuginfo": "helix",
     "helix-debugsource": "helix",
+    "helix-parsers": "helix",
+    "helix-themes": "helix",
     "hello": "hello",
     "helm": "helm@3",
     "helm-debuginfo": "helm@3",

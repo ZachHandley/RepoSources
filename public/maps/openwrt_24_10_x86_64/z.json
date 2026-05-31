@@ -1,15 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "z",
-    "total_mappings": 79
+    "total_mappings": 76
   },
   "mappings": {
-    "zabbix-agentd-basic": "zabbix",
-    "zabbix-frontend-server": "zabbix",
-    "zabbix-proxy-basic-sqlite": "zabbix",
     "zile": "zile",
     "zipcmp": "libzip",
     "zipmerge": "libzip",

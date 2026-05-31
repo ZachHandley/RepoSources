@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "g",
-    "total_mappings": 1969
+    "total_mappings": 1966
   },
   "mappings": {
     "g++-12": "gcc@14",
@@ -259,7 +259,6 @@
     "gcc-13-mipsisa64r6el-linux-gnuabi64": "gcc@14",
     "gcc-13-mipsisa64r6el-linux-gnuabin32": "gcc@14",
     "gcc-13-multilib": "gcc@14",
-    "gcc-13-offload-amdgcn": "gcc@14",
     "gcc-13-offload-nvptx": "gcc@14",
     "gcc-13-plugin-dev,gcc-13-hppa64-linux-gnu": "gcc@14",
     "gcc-13-powerpc-linux-gnu": "gcc@14",
@@ -1176,7 +1175,6 @@
     "gm2-13": "gcc@14",
     "gm2-13-aarch64-linux-gnu": "gcc@14",
     "gm2-13-alpha-linux-gnu": "gcc@14",
-    "gm2-13-arm-linux-gnueabi,gm2-13-arm-linux-gnueabihf": "gcc@14",
     "gm2-13-arm-linux-gnueabihf": "gcc@14",
     "gm2-13-doc": "gcc@14",
     "gm2-13-for-build": "gcc@14",
@@ -1198,7 +1196,6 @@
     "gm2-13-riscv64-linux-gnu": "gcc@14",
     "gm2-13-s390x-linux-gnu": "gcc@14",
     "gm2-13-sparc64-linux-gnu": "gcc@14",
-    "gm2-13-x86-64-linux-gnu": "gcc@14",
     "gm2-13-x86-64-linux-gnu,gm2-13-arm-linux-gnueabi": "gcc@14",
     "gm2-13-x86-64-linux-gnux32": "gcc@14",
     "gm2-14": "gcc@14",

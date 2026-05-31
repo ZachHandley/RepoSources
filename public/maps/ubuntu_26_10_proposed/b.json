@@ -1,20 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "b",
-    "total_mappings": 43
+    "total_mappings": 42
   },
   "mappings": {
-    "babelfish": "babelfish",
     "babl": "babl",
-    "bamtools": "bamtools",
     "batik": "batik",
-    "bcal": "bcal",
-    "bettercap": "bettercap",
     "bfs": "bfs",
-    "bibtexconv": "bibtexconv",
     "bind9": "bind",
     "bind9-dev": "bind",
     "bind9-dnsutils": "bind",
@@ -23,6 +18,9 @@
     "bind9-libs": "bind",
     "bind9-utils": "bind",
     "binutils-djgpp": "aarch64-elf-binutils",
+    "bitwuzla": "bitwuzla",
+    "bitwuzla-dev": "bitwuzla",
+    "bitwuzla-doc": "bitwuzla",
     "blis": "blis",
     "bochs": "bochs",
     "bochs-doc": "bochs",
@@ -36,6 +34,8 @@
     "borgbackup-is-borgbackup2": "borgbackup",
     "borgbackup2": "borgbackup",
     "borgbackup2-doc": "borgbackup",
+    "botan": "botan@2",
+    "botan3": "botan@2",
     "bowtie2": "bowtie2",
     "bowtie2-examples": "bowtie2",
     "bpftool": "linux-headers@6.8",
@@ -43,12 +43,11 @@
     "breezy": "breezy",
     "brz": "breezy",
     "brz-doc": "breezy",
+    "bstring": "bstring",
     "btrfs-progs": "btrfs-progs",
     "btrfs-progs-udeb": "btrfs-progs",
     "bubblewrap": "bubblewrap",
-    "buku": "buku",
     "bximage": "bochs",
-    "byacc": "byacc",
-    "bzip3": "bzip3"
+    "byobu": "byobu"
   }
 }

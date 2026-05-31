@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "n",
-    "total_mappings": 98
+    "total_mappings": 100
   },
   "mappings": {
     "nano": "nano",
@@ -68,6 +68,8 @@
     "ninja-build-debuginfo": "ninja",
     "ninja-build-debugsource": "ninja",
     "nmap": "nmap",
+    "nmap-debuginfo": "nmap",
+    "nmap-debugsource": "nmap",
     "nmap-ncat": "nmap",
     "nodejs": "node@24",
     "nodejs-debuginfo": "node@24",

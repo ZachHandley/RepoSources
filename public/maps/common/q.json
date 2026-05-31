@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "q",
-    "total_mappings": 6419
+    "total_mappings": 6425
   },
   "mappings": {
     "Q100531088": "texlab",
@@ -573,6 +573,7 @@
     "Q2311792": "splint",
     "Q2318908": "ghc@9.8",
     "Q2326689": "asio",
+    "Q2331162": "libredwg",
     "Q2345395": "ophcrack",
     "Q2351180": "gnu-prolog",
     "Q2355114": "streamripper",
@@ -692,6 +693,7 @@
     "Q28941666": "blogc",
     "Q28941676": "borgbackup",
     "Q28941683": "btrfs-progs",
+    "Q28941699": "bumblebee",
     "Q28956397": "minio",
     "Q28971478": "guetzli",
     "Q28974755": "catch2",
@@ -1801,7 +1803,6 @@
     "qemu-block-extra": "qemu",
     "qemu-block-gluster": "qemu",
     "qemu-block-gluster-debuginfo": "qemu",
-    "qemu-block-gluster-git": "qemu",
     "qemu-block-iscsi": "qemu",
     "qemu-block-iscsi-debuginfo": "qemu",
     "qemu-block-iscsi-git": "qemu",
@@ -1826,6 +1827,7 @@
     "qemu-cris-static": "qemu",
     "qemu-dbg": "qemu",
     "qemu-dbginfo": "qemu",
+    "qemu-debug": "qemu",
     "qemu-debuginfo": "qemu",
     "qemu-debugsource": "qemu",
     "qemu-desktop": "qemu",
@@ -2018,6 +2020,7 @@
     "qemu-sparc64-firmware": "qemu",
     "qemu-sparc64-static": "qemu",
     "qemu-spice": "qemu",
+    "qemu-static": "qemu",
     "qemu-system": "qemu",
     "qemu-system-aarch64": "qemu",
     "qemu-system-aarch64-core": "qemu",
@@ -6351,6 +6354,9 @@
     "quictls-debuginfo": "quictls",
     "quictls-debugsource": "quictls",
     "quictls-perl": "quictls",
+    "quien": "quien",
+    "quien-bin": "quien",
+    "quien-git": "quien",
     "quill": "quill",
     "quill-log": "quill",
     "quill-logging-library": "quill",

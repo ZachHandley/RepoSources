@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "alt_p9",
     "shard": "l",
-    "total_mappings": 5224
+    "total_mappings": 5221
   },
   "mappings": {
     "LibreSSL": "libressl",
@@ -2298,9 +2298,6 @@
     "libjudy-debuginfo": "judy",
     "libjudy-devel": "judy",
     "libjudy-devel-doc": "judy",
-    "libjxr": "jxrlib",
-    "libjxr-debuginfo": "jxrlib",
-    "libjxr-devel": "jxrlib",
     "libkate": "libkate",
     "libkate-debuginfo": "libkate",
     "libkate-devel": "libkate",
@@ -3393,13 +3390,13 @@
     "libpurple-dbus-debuginfo": "pidgin",
     "libpurple-debuginfo": "pidgin",
     "libpurple-devel": "pidgin",
-    "libpyside-qt4": "pyside@2",
-    "libpyside-qt4-debuginfo": "pyside@2",
-    "libpyside-qt4-devel": "pyside@2",
-    "libpyside-qt4-devel-doc": "pyside@2",
-    "libpyside-qt4-py3": "pyside@2",
-    "libpyside-qt4-py3-debuginfo": "pyside@2",
-    "libpyside-qt4-py3-devel": "pyside@2",
+    "libpyside-qt4": "pyside",
+    "libpyside-qt4-debuginfo": "pyside",
+    "libpyside-qt4-devel": "pyside",
+    "libpyside-qt4-devel-doc": "pyside",
+    "libpyside-qt4-py3": "pyside",
+    "libpyside-qt4-py3-debuginfo": "pyside",
+    "libpyside-qt4-py3-devel": "pyside",
     "libpython": "python@3.9",
     "libpython-debuginfo": "python@3.9",
     "libpython3": "python@3.9",

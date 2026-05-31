@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "m",
-    "total_mappings": 702
+    "total_mappings": 704
   },
   "mappings": {
+    "M4RI": "m4ri",
     "MMseqs2": "mmseqs2",
     "m4": "m4",
     "mac": "mac",
@@ -188,6 +189,7 @@
     "math/lmfit": "lmfit",
     "math/lp_solve": "lp_solve",
     "math/ltl2ba": "ltl2ba",
+    "math/m4ri": "m4ri",
     "math/manifold": "manifold",
     "math/matio": "libmatio",
     "math/maxima": "maxima",

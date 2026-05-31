@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "almalinux_9",
     "shard": "m",
-    "total_mappings": 235
+    "total_mappings": 244
   },
   "mappings": {
     "m4": "m4",
@@ -20,6 +20,7 @@
     "man-db-debugsource": "man-db",
     "mariadb": "mariadb",
     "mariadb-backup": "mariadb@11.8",
+    "mariadb-client-utils": "mariadb@11.8",
     "mariadb-common": "mariadb@11.8",
     "mariadb-connector-c": "mariadb-connector-c",
     "mariadb-connector-c-config": "mariadb-connector-c",
@@ -50,6 +51,7 @@
     "maven-openjdk11": "maven",
     "maven-openjdk17": "maven",
     "maven-openjdk21": "maven",
+    "maven-openjdk25": "maven",
     "maven-openjdk8": "maven",
     "maven-unbound": "maven",
     "mc": "midnight-commander",
@@ -68,6 +70,13 @@
     "memcached-devel": "memcached",
     "memcached-selinux": "memcached",
     "mesa": "mesa",
+    "mesa-compat": "mesa",
+    "mesa-compat-debuginfo": "mesa",
+    "mesa-compat-debugsource": "mesa",
+    "mesa-compat-libOSMesa": "mesa",
+    "mesa-compat-libOSMesa-devel": "mesa",
+    "mesa-compat-libxatracker": "mesa",
+    "mesa-compat-libxatracker-devel": "mesa",
     "mesa-debuginfo": "mesa",
     "mesa-debugsource": "mesa",
     "mesa-dri-drivers": "mesa",

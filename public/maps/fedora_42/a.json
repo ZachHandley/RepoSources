@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_42",
     "shard": "a",
-    "total_mappings": 378
+    "total_mappings": 375
   },
   "mappings": {
     "Agda": "agda",
@@ -74,9 +74,6 @@
     "airspyone_host": "airspy",
     "airspyone_host-devel": "airspy",
     "aldo": "aldo",
-    "alembic": "alembic",
-    "alembic-devel": "alembic",
-    "alembic-libs": "alembic",
     "algol68g": "algol68g",
     "alleggl": "allegro",
     "alleggl-devel": "allegro",

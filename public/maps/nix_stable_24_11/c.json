@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "c",
-    "total_mappings": 424
+    "total_mappings": 425
   },
   "mappings": {
     "CUnit": "cunit",
@@ -249,6 +249,7 @@
     "cloudfoundry-cli": "cloudfoundry-cli",
     "cloudfox": "cloudfox",
     "cloudlist": "cloudlist",
+    "cloudmonkey": "cloudmonkey",
     "clp": "clp",
     "clusterctl": "clusterctl",
     "clzip": "clzip",

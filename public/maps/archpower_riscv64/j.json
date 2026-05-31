@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shard": "j",
-    "total_mappings": 40
+    "total_mappings": 39
   },
   "mappings": {
     "jack": "jack",
@@ -45,7 +45,6 @@
     "json-glib-docs": "json-glib",
     "jsoncpp": "jsoncpp",
     "jsoncpp-doc": "jsoncpp",
-    "judy": "judy",
-    "jxrlib": "jxrlib"
+    "judy": "judy"
   }
 }

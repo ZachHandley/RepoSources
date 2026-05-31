@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "k",
-    "total_mappings": 180
+    "total_mappings": 184
   },
   "mappings": {
     "k2tf": "k2tf",
     "k2tf-bin": "k2tf",
+    "k3d-bin": "k3d",
     "k3sup": "k3sup",
     "k3sup-bin": "k3sup",
     "k6": "k6",
@@ -79,11 +80,14 @@
     "killport-bin": "killport",
     "kim-api": "kim-api",
     "kimi-cli": "kimi-cli",
+    "kimi-cli-bin": "kimi-cli",
     "kind": "kind",
     "kind-bin": "kind",
     "kind-git": "kind",
     "kingfisher-bin": "kingfisher",
     "kissat": "kissat",
+    "klavaro-bin": "klavaro",
+    "klavaro-git": "klavaro",
     "klavaro-svn": "klavaro",
     "klee": "klee",
     "klog-time-tracker": "klog",

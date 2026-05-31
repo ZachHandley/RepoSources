@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "t",
-    "total_mappings": 282
+    "total_mappings": 284
   },
   "mappings": {
     "TiMidity++": "timidity",
@@ -98,6 +98,8 @@
     "tesseract-doc": "tesseract",
     "testdisk": "testdisk",
     "testdisk-debuginfo": "testdisk",
+    "tex-fmt": "tex-fmt",
+    "tex-fmt-debuginfo": "tex-fmt",
     "texi2dvi": "texinfo",
     "texi2html": "texi2html",
     "texinfo": "texinfo",

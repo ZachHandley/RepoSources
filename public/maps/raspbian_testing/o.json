@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "o",
-    "total_mappings": 301
+    "total_mappings": 303
   },
   "mappings": {
     "oasis": "oasis",
@@ -293,6 +293,8 @@
     "osmpbf": "osm-pbf",
     "osmpbf-bin": "osm-pbf",
     "ospray": "ospray",
+    "osrm-backend": "osrm-backend",
+    "osrm-backend-service": "osrm-backend",
     "osslsigncode": "osslsigncode",
     "ossp-uuid": "ossp-uuid",
     "otf2": "otf2",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "d",
-    "total_mappings": 384
+    "total_mappings": 386
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -27,6 +27,7 @@
     "desktop/stoken": "stoken",
     "desktop/todoman": "todoman",
     "desktop/tty-clock": "tty-clock",
+    "desktop/ttyplot": "ttyplot",
     "desktop/wmctrl": "wmctrl",
     "desktop/zenity": "zenity",
     "development/Bear": "bear",
@@ -143,6 +144,7 @@
     "development/erlang-otp": "erlang@28",
     "development/ex-vi": "ex-vi",
     "development/flawfinder": "flawfinder",
+    "development/forgejo": "forgejo",
     "development/fortls": "fortls",
     "development/fossil": "fossil",
     "development/fpc": "fpc",
@@ -262,7 +264,6 @@
     "development/nickle": "nickle",
     "development/nim": "nim",
     "development/nodeenv": "nodeenv",
-    "development/nodejs": "node@24",
     "development/nodejs18": "node@24",
     "development/nodejs22": "node@24",
     "development/noweb": "noweb",
@@ -333,6 +334,7 @@
     "development/sbt": "sbt",
     "development/scala": "scala@3.3",
     "development/scala3": "scala@3.3",
+    "development/sccache": "sccache",
     "development/scheme48": "scheme48",
     "development/sdcc": "sdcc",
     "development/shc": "shc",

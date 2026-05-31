@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "v",
-    "total_mappings": 1254
+    "total_mappings": 1251
   },
   "mappings": {
     "V": "vlang",
@@ -316,6 +316,7 @@
     "valkey-server": "valkey",
     "valkey-tls": "valkey",
     "valkey-tools": "valkey",
+    "valkey8": "valkey",
     "vals": "vals",
     "vamp-examples": "vamp-plugin-sdk",
     "vamp-plugin-sdk": "vamp-plugin-sdk",
@@ -1059,8 +1060,6 @@
     "vte-lang": "vte3",
     "vte-legacy": "vte3",
     "vte-locale": "vte3",
-    "vte-notification-common": "vte3",
-    "vte-notification-docs": "vte3",
     "vte-profile": "vte3",
     "vte-terminal": "vte3",
     "vte-terminal-gtk2": "vte3",
@@ -1098,13 +1097,11 @@
     "vte3-gtk4-demo": "vte3",
     "vte3-gtk4-devel": "vte3",
     "vte3-lang": "vte3",
-    "vte3-notification": "vte3",
     "vte3-profile": "vte3",
     "vte3-utils": "vte3",
     "vte3-utils-git": "vte3",
     "vte4": "vte3",
     "vte4-git": "vte3",
-    "vte4-notification": "vte3",
     "vte4-utils": "vte3",
     "vte4-utils-git": "vte3",
     "vtk": "vtk",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "l",
-    "total_mappings": 1882
+    "total_mappings": 1886
   },
   "mappings": {
     "lab": "lab",
@@ -445,6 +445,7 @@
     "libfyaml-doc": "libfyaml",
     "libgc++": "bdw-gc",
     "libgcc": "gcc@14",
+    "libgcc-static": "gcc@14",
     "libgccjit": "libgccjit",
     "libgccjit-dev": "libgccjit",
     "libgcrypt": "libgcrypt",
@@ -675,6 +676,9 @@
     "libltdl-static": "libtool",
     "liblzf": "liblzf",
     "liblzf-dev": "liblzf",
+    "libm4ri": "m4ri",
+    "libm4ri-dev": "m4ri",
+    "libm4ri-static": "m4ri",
     "libmaa": "libmaa",
     "libmaa-dev": "libmaa",
     "libmaa-doc": "libmaa",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pardus_21",
     "shard": "j",
-    "total_mappings": 287
+    "total_mappings": 286
   },
   "mappings": {
     "jack-audio-connection-kit": "jack",
@@ -291,7 +291,6 @@
     "julia-common": "julia",
     "julia-doc": "julia",
     "jupp": "jupp",
-    "jxrlib": "jxrlib",
     "jython": "jython",
     "jython-doc": "jython"
   }

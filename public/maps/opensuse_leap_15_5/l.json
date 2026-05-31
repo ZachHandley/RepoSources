@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "l",
-    "total_mappings": 524
+    "total_mappings": 526
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -228,6 +228,7 @@
     "liblouis": "liblouis",
     "liblqr": "liblqr",
     "libltc": "libltc",
+    "libm4ri": "m4ri",
     "libmaa": "libmaa",
     "libmad": "mad",
     "libmatroska": "libmatroska",
@@ -352,6 +353,7 @@
     "libreadline-java": "libreadline-java",
     "libreadline5": "readline",
     "librealsense": "librealsense",
+    "libredwg": "libredwg",
     "libreplaygain": "libreplaygain",
     "librest": "librest",
     "librevenge": "librevenge",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "o",
-    "total_mappings": 324
+    "total_mappings": 328
   },
   "mappings": {
     "OpenSceneGraph": "open-scene-graph",
@@ -88,6 +88,8 @@
     "octave-devel": "octave",
     "octave-devel-debuginfo": "octave",
     "octave-doc": "octave",
+    "octave-libsvm": "libsvm",
+    "octave-libsvm-debuginfo": "libsvm",
     "octomap": "octomap",
     "octomap-debuginfo": "octomap",
     "octomap-devel": "octomap",
@@ -290,6 +292,8 @@
     "osinfo-db-tools-debuginfo": "osinfo-db-tools",
     "osm2pgsql": "osm2pgsql",
     "osm2pgsql-debuginfo": "osm2pgsql",
+    "osmium-tool": "osmium-tool",
+    "osmium-tool-debuginfo": "osmium-tool",
     "osmpbf": "osm-pbf",
     "osmpbf-debuginfo": "osm-pbf",
     "osmpbf-devel": "osm-pbf",

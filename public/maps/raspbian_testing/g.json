@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "g",
-    "total_mappings": 2195
+    "total_mappings": 2196
   },
   "mappings": {
     "g++-10": "gcc@14",
@@ -906,6 +906,7 @@
     "gettext-el": "gettext",
     "getty-run": "runit",
     "gexiv2": "gexiv2",
+    "gexiv2-0.14": "gexiv2",
     "gffread": "gffread",
     "gflags": "gflags",
     "gforth": "gforth",
@@ -1111,7 +1112,7 @@
     "gir1.2-gee-0.8": "libgee",
     "gir1.2-gegl-0.4": "gegl",
     "gir1.2-geocodeglib-2.0": "geocode-glib",
-    "gir1.2-gexiv2-0.10": "gexiv2",
+    "gir1.2-gexiv2-0.16": "gexiv2",
     "gir1.2-gfls-1": "libgedit-gfls",
     "gir1.2-ggit-1.0": "libgit2-glib",
     "gir1.2-girepository-2.0": "gobject-introspection",

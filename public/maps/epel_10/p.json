@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "p",
-    "total_mappings": 410
+    "total_mappings": 417
   },
   "mappings": {
     "PDAL": "pdal",
@@ -61,6 +61,12 @@
     "patchelf": "patchelf",
     "patchelf-debuginfo": "patchelf",
     "patchelf-debugsource": "patchelf",
+    "pcl": "pcl",
+    "pcl-debuginfo": "pcl",
+    "pcl-debugsource": "pcl",
+    "pcl-devel": "pcl",
+    "pcl-doc": "pcl",
+    "pcl-tools": "pcl",
     "pdfgrep": "pdfgrep",
     "pdfgrep-debuginfo": "pdfgrep",
     "pdfgrep-debugsource": "pdfgrep",
@@ -288,6 +294,7 @@
     "python3-fastapi-slim+all": "fastapi",
     "python3-fastapi-slim+standard": "fastapi",
     "python3-flake8": "flake8",
+    "python3-flann": "flann",
     "python3-flatbuffers": "flatbuffers",
     "python3-fonttools": "fonttools",
     "python3-fonttools+graphite": "fonttools",

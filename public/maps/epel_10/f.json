@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "f",
-    "total_mappings": 142
+    "total_mappings": 147
   },
   "mappings": {
     "f3": "f3",
@@ -66,6 +66,11 @@
     "fish": "fish",
     "fish-debuginfo": "fish",
     "fish-debugsource": "fish",
+    "flann": "flann",
+    "flann-debuginfo": "flann",
+    "flann-debugsource": "flann",
+    "flann-devel": "flann",
+    "flann-static": "flann",
     "flatbuffers": "flatbuffers",
     "flatbuffers-compiler": "flatbuffers",
     "flatbuffers-debuginfo": "flatbuffers",

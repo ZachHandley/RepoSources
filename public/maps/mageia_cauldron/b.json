@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "b",
-    "total_mappings": 143
+    "total_mappings": 145
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -137,6 +137,8 @@
     "buku": "buku",
     "bulk-extractor": "bulk_extractor",
     "bullet": "bullet",
+    "bumblebee": "bumblebee",
+    "bumblebee-nvidia": "bumblebee",
     "bup": "bup",
     "bup-web": "bup",
     "bwidget": "bwidget",

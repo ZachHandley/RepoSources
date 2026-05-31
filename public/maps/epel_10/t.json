@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "t",
-    "total_mappings": 99
+    "total_mappings": 102
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -88,6 +88,9 @@
     "torsocks": "torsocks",
     "torsocks-debuginfo": "torsocks",
     "torsocks-debugsource": "torsocks",
+    "trader": "trader",
+    "trader-debuginfo": "trader",
+    "trader-debugsource": "trader",
     "translate-shell": "translate-shell",
     "tre": "tre",
     "tre-common": "tre",

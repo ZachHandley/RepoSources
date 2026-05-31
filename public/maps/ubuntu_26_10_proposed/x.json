@@ -1,15 +1,22 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "x",
-    "total_mappings": 6
+    "total_mappings": 13
   },
   "mappings": {
+    "xapian-omega": "omega",
+    "xh": "xh",
     "xjed": "jed",
+    "xkb-data": "xkeyboard-config",
+    "xkb-data-udeb": "xkeyboard-config",
+    "xkeyboard-config": "xkeyboard-config",
     "xmaxima": "maxima",
     "xmlsec1": "libxmlsec1",
+    "xonsh": "xonsh",
+    "xonsh-doc": "xonsh",
     "xpmutils": "libxpm",
     "xterm": "xterm",
     "xxd": "vim"

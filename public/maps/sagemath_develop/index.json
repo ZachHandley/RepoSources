@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "sagemath_develop",
     "shards": [
@@ -23,6 +23,6 @@
       "v",
       "z"
     ],
-    "total_mappings": 76
+    "total_mappings": 77
   }
 }

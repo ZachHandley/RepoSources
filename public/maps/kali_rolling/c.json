@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "c",
-    "total_mappings": 564
+    "total_mappings": 565
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -124,6 +124,8 @@
     "charls": "charls",
     "charon-cmd": "strongswan",
     "charon-systemd": "strongswan",
+    "chawan": "chawan",
+    "chawan-doc": "chawan",
     "check": "check",
     "check-postgres": "check_postgres",
     "checkstyle": "checkstyle",
@@ -309,6 +311,7 @@
     "commitizen": "commitizen",
     "complexity": "gnu-complexity",
     "complexity-doc": "gnu-complexity",
+    "composer": "composer",
     "concurrentqueue": "concurrentqueue",
     "conman": "conman",
     "conmon": "conmon",
@@ -328,7 +331,6 @@
     "corsix-th-data": "corsixth",
     "cosign": "cosign",
     "cotp": "cotp",
-    "coturn": "coturn",
     "cowsay": "cowsay",
     "cowsay-off": "cowsay",
     "cp2k": "cp2k",
@@ -524,7 +526,6 @@
     "crypto-modules-6.19.14+kali-s390x-di": "linux-headers@6.8",
     "crypto-modules-6.19.14+kali-sh7751r-di": "linux-headers@6.8",
     "crypto-modules-6.19.14+kali-sparc64-di": "linux-headers@6.8",
-    "cryptominisat": "cryptominisat",
     "crystal": "crystal",
     "crystal-doc": "crystal",
     "crystal-samples": "crystal",

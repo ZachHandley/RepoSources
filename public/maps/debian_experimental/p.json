@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "p",
-    "total_mappings": 101
+    "total_mappings": 97
   },
   "mappings": {
     "parallel-hashmap": "parallel-hashmap",
@@ -78,14 +78,11 @@
     "protobuf-compiler-grpc": "grpc",
     "pupnp": "libupnp",
     "python-libewf": "libewf",
-    "python-scipy-doc": "scipy",
     "python3-adios2": "adios2",
     "python3-adios2-mpi": "adios2",
     "python3-adios2-serial": "adios2",
-    "python3-botan": "botan@2",
     "python3-clang-20": "llvm@21",
     "python3-cracklib": "cracklib",
-    "python3-gdal": "gdal",
     "python3-grpcio": "grpc",
     "python3-libewf": "libewf",
     "python3-liblinear": "liblinear",
@@ -95,7 +92,6 @@
     "python3-pmix": "pmix",
     "python3-protobuf": "protobuf@33",
     "python3-pyopencolorio": "opencolorio",
-    "python3-scipy": "scipy",
     "python3-sphinx": "sphinx-doc",
     "python3.15": "python@3.9",
     "python3.15-dbg": "python@3.9",

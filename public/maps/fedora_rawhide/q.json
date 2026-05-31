@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "q",
-    "total_mappings": 492
+    "total_mappings": 491
   },
   "mappings": {
     "QuantLib": "quantlib",
@@ -479,7 +479,6 @@
     "qtkeychain-qt6": "qtkeychain",
     "qtkeychain-qt6-devel": "qtkeychain",
     "quazip": "quazip",
-    "quazip-devel": "quazip",
     "quazip-qt5": "quazip",
     "quazip-qt5-devel": "quazip",
     "quazip-qt6": "quazip",

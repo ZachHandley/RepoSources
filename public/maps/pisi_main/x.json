@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "x",
-    "total_mappings": 113
+    "total_mappings": 114
   },
   "mappings": {
     "Xaw3d": "libxaw3d",
@@ -68,6 +68,7 @@
     "x11/library/xcb-util-renderutil": "xcb-util-renderutil",
     "x11/library/xcb-util-wm": "xcb-util-wm",
     "x11/misc/argyllcms": "argyll-cms",
+    "x11/misc/bumblebee": "bumblebee",
     "x11/misc/dmenu": "dmenu",
     "x11/misc/rofi": "rofi",
     "x11/misc/wmctrl": "wmctrl",

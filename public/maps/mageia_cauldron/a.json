@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "a",
-    "total_mappings": 193
+    "total_mappings": 192
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -36,7 +36,6 @@
     "aircrack-ng-devel": "aircrack-ng",
     "airspy": "airspy",
     "aldo": "aldo",
-    "alembic": "alembic",
     "allegro": "allegro",
     "allegro4": "allegro",
     "allegro4-jack-plugin": "allegro",

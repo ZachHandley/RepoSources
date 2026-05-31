@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "r",
-    "total_mappings": 127
+    "total_mappings": 133
   },
   "mappings": {
     "radvd": "radvd",
@@ -45,6 +45,8 @@
     "rpm-build": "rpm",
     "rpm-build-libs": "rpm",
     "rpm-cron": "rpm",
+    "rpm-debuginfo": "rpm",
+    "rpm-debugsource": "rpm",
     "rpm-devel": "rpm",
     "rpm-libs": "rpm",
     "rpm-plugin-audit": "rpm",
@@ -72,6 +74,8 @@
     "rsync-rrsync": "rsync",
     "rsyslog": "rsyslog",
     "rsyslog-crypto": "rsyslog",
+    "rsyslog-debuginfo": "rsyslog",
+    "rsyslog-debugsource": "rsyslog",
     "rsyslog-doc": "rsyslog",
     "rsyslog-elasticsearch": "rsyslog",
     "rsyslog-gnutls": "rsyslog",
@@ -91,7 +95,6 @@
     "rsyslog-relp": "rsyslog",
     "rsyslog-snmp": "rsyslog",
     "rsyslog-udpspoof": "rsyslog",
-    "rtla": "linux-headers@6.8",
     "ruby": "ruby",
     "ruby-bundled-gems": "ruby@3.4",
     "ruby-debuginfo": "ruby@3.4",
@@ -126,13 +129,16 @@
     "rust": "rust",
     "rust-analyzer": "rust",
     "rust-debugger-common": "rust",
+    "rust-debuginfo": "rust",
+    "rust-debugsource": "rust",
     "rust-doc": "rust",
     "rust-gdb": "rust",
     "rust-lldb": "rust",
     "rust-src": "rust",
     "rust-std-static": "rust",
+    "rust-std-static-wasm32-unknown-unknown": "rust",
+    "rust-std-static-wasm32-wasip1": "rust",
     "rust-toolset": "rust",
-    "rustfmt": "rust",
-    "rv": "linux-headers@6.8"
+    "rustfmt": "rust"
   }
 }

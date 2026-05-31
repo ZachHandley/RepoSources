@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "r",
-    "total_mappings": 28
+    "total_mappings": 27
   },
   "mappings": {
     "radare2": "radare2",
@@ -23,7 +23,6 @@
     "ruby3.4": "ruby@3.4",
     "ruby3.4-dev": "ruby@3.4",
     "ruby3.4-doc": "ruby@3.4",
-    "runc": "runc",
     "rust-all": "rust",
     "rust-analyzer": "rust",
     "rust-clippy": "rust",

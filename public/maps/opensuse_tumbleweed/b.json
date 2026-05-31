@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "b",
-    "total_mappings": 313
+    "total_mappings": 311
   },
   "mappings": {
     "Bear": "bear",
@@ -254,11 +254,6 @@
     "bpm-tools": "bpm-tools",
     "bpm-tools-debuginfo": "bpm-tools",
     "bpm-tools-debugsource": "bpm-tools",
-    "breezy": "breezy",
-    "breezy-bash-completion": "breezy",
-    "breezy-debuginfo": "breezy",
-    "breezy-debugsource": "breezy",
-    "breezy-lang": "breezy",
     "broot": "broot",
     "broot-debuginfo": "broot",
     "broot-debugsource": "broot",
@@ -294,6 +289,9 @@
     "bulk_extractor": "bulk_extractor",
     "bulk_extractor-debuginfo": "bulk_extractor",
     "bulk_extractor-debugsource": "bulk_extractor",
+    "bumblebee": "bumblebee",
+    "bumblebee-debuginfo": "bumblebee",
+    "bumblebee-debugsource": "bumblebee",
     "bup": "bup",
     "bup-debuginfo": "bup",
     "bup-debugsource": "bup",

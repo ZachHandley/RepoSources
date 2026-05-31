@@ -1,26 +1,31 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "i",
-    "total_mappings": 37
+    "total_mappings": 41
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
-    "icecast2": "icecast",
     "icu": "icu4c@78",
     "icu-devtools": "icu4c@78",
     "icu-doc": "icu4c@78",
     "idle-python3.14": "python@3.9",
     "idn": "libidn",
     "idn2": "libidn2",
-    "ietf2bibtex": "bibtexconv",
+    "idzebra": "zebra",
+    "idzebra-2.0": "zebra",
+    "idzebra-2.0-common": "zebra",
+    "idzebra-2.0-doc": "zebra",
+    "idzebra-2.0-examples": "zebra",
+    "idzebra-2.0-utils": "zebra",
     "imagemagick": "imagemagick@6",
     "imagemagick-7-common": "imagemagick@6",
     "imagemagick-7-doc": "imagemagick@6",
     "imagemagick-7.q16": "imagemagick@6",
     "imagemagick-7.q16hdri": "imagemagick@6",
+    "immich-go": "immich-go",
     "incus": "incus",
     "incus-agent": "incus",
     "incus-base": "incus",
@@ -40,7 +45,6 @@
     "inetutils-traceroute": "inetutils",
     "insighttoolkit5": "itk",
     "insighttoolkit5-examples": "itk",
-    "instaloader": "instaloader",
     "iredis": "iredis",
     "isl": "isl",
     "isort": "isort"

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "l",
-    "total_mappings": 460
+    "total_mappings": 461
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -306,6 +306,7 @@
     "librasterlite2": "librasterlite2",
     "libraw": "libraw",
     "librdkafka": "librdkafka",
+    "libredwg": "libredwg",
     "libreplaygain": "libreplaygain",
     "libresample": "libresample",
     "librest": "librest",

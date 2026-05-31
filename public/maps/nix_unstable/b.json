@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "b",
-    "total_mappings": 256
+    "total_mappings": 258
   },
   "mappings": {
     "BNFC": "bnfc",
@@ -229,6 +229,7 @@
     "bsc": "libbsc",
     "bsdiff": "bsdiff",
     "bstring": "bstring",
+    "btdu": "btdu",
     "btfs": "btfs",
     "btop": "btop",
     "btop-cuda": "btop",
@@ -246,6 +247,7 @@
     "bulk_extractor": "bulk_extractor",
     "bullet": "bullet",
     "bulletty": "bulletty",
+    "bumblebee": "bumblebee",
     "bump-my-version": "bump-my-version",
     "bumpp": "bumpp",
     "bundletool": "bundletool",

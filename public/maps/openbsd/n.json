@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "n",
-    "total_mappings": 338
+    "total_mappings": 339
   },
   "mappings": {
     "nagios": "nagios",
@@ -77,6 +77,7 @@
     "net/epic5": "epic5",
     "net/ettercap": "ettercap",
     "net/ezstream": "ezstream",
+    "net/fastnetmon": "fastnetmon",
     "net/flickcurl": "flickcurl",
     "net/flow-tools": "flow-tools",
     "net/flvstreamer": "flvstreamer",

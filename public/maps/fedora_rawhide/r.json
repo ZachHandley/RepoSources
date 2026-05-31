@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "r",
-    "total_mappings": 857
+    "total_mappings": 854
   },
   "mappings": {
     "R": "r",
@@ -681,9 +681,6 @@
     "rust-navi-debuginfo": "navi",
     "rust-navi-debugsource": "navi",
     "rust-navi-devel": "navi",
-    "rust-nu": "nushell",
-    "rust-nu-debuginfo": "nushell",
-    "rust-nu-debugsource": "nushell",
     "rust-oxipng": "oxipng",
     "rust-oxipng+binary-devel": "oxipng",
     "rust-oxipng+default-devel": "oxipng",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "c",
-    "total_mappings": 1181
+    "total_mappings": 1185
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -623,6 +623,10 @@
     "cppzmq-devel": "cppzmq",
     "cppzmq-devel-debuginfo": "cppzmq",
     "cppzmq-devel-debugsource": "cppzmq",
+    "cpr": "cpr",
+    "cpr-debuginfo": "cpr",
+    "cpr-debugsource": "cpr",
+    "cpr-devel": "cpr",
     "cpufetch": "cpufetch",
     "cpufetch-debuginfo": "cpufetch",
     "cpufetch-debugsource": "cpufetch",

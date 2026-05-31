@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "o",
     "total_mappings": 2
   },
   "mappings": {
-    "openexr": "openexr",
-    "openvpn": "openvpn"
+    "octave": "octave",
+    "openbabel": "open-babel"
   }
 }

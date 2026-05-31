@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "a",
-    "total_mappings": 1622
+    "total_mappings": 1623
   },
   "mappings": {
     "a52dec-git": "a52dec",
@@ -1624,6 +1624,7 @@
     "aws-sso-cli-bin": "aws-sso-cli",
     "aws-vault-git": "aws-vault",
     "aws2-wrap": "aws2-wrap",
+    "awscurl-git": "awscurl",
     "awslogs": "awslogs",
     "awsume": "awsume",
     "azd-cli": "azure-dev",

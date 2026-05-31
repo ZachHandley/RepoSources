@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "r",
-    "total_mappings": 267
+    "total_mappings": 268
   },
   "mappings": {
     "r-base": "r",
@@ -112,7 +112,8 @@
     "reuse": "reuse",
     "rex": "rex",
     "rfkill": "gnu-getopt",
-    "rfkill-modules-7.0.7+deb14-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.10+deb14-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.10+deb14-loong64-di": "linux-headers@6.8",
     "rgbds": "rgbds",
     "rgxg": "rgxg",
     "rhash": "rhash",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "d",
-    "total_mappings": 1388
+    "total_mappings": 1390
   },
   "mappings": {
     "d2": "d2",
@@ -201,6 +201,7 @@
     "databases/tokyocabinet": "tokyo-cabinet",
     "databases/unixODBC": "unixodbc",
     "databases/valkey": "valkey",
+    "databases/valkey8": "valkey",
     "databases/virtualpg": "virtualpg",
     "databases/weaviate": "weaviate",
     "databases/webdis": "webdis",
@@ -940,6 +941,7 @@
     "devel/phpunit8": "phpunit",
     "devel/phpunit9": "phpunit",
     "devel/physfs": "physfs",
+    "devel/pinact": "pinact",
     "devel/pipelight": "pipelight",
     "devel/pit": "pit",
     "devel/pkgconf": "pkgconf",

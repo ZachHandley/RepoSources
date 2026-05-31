@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "r",
-    "total_mappings": 872
+    "total_mappings": 873
   },
   "mappings": {
     "R": "r",
@@ -623,6 +623,7 @@
     "rust-diskonaut-debugsource": "diskonaut",
     "rust-doc": "rust",
     "rust-dua-cli": "dua-cli",
+    "rust-dua-cli+crossterm-devel": "dua-cli",
     "rust-dua-cli+crosstermion-devel": "dua-cli",
     "rust-dua-cli+default-devel": "dua-cli",
     "rust-dua-cli+open-devel": "dua-cli",

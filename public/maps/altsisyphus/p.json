@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "p",
-    "total_mappings": 1103
+    "total_mappings": 1106
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -197,6 +197,7 @@
     "pg_top-debuginfo": "pg_top",
     "pgbackrest": "pgbackrest",
     "pgbackrest-debuginfo": "pgbackrest",
+    "pgbadger": "pgbadger",
     "pgbouncer": "pgbouncer",
     "pgbouncer-debuginfo": "pgbouncer",
     "pgpdump": "pgpdump",
@@ -369,7 +370,6 @@
     "poppler-current": "poppler",
     "poppler-debuginfo": "poppler",
     "poppler134": "poppler",
-    "poppler151": "poppler",
     "portaudio2": "portaudio",
     "poster": "poster",
     "poster-debuginfo": "poster",
@@ -659,6 +659,8 @@
     "protobuf-javalite": "protobuf@33",
     "protobuf-parent": "protobuf@33",
     "protobuf25": "protobuf@33",
+    "protozero": "protozero",
+    "protozero-devel": "protozero",
     "proxychains": "proxychains-ng",
     "proxychains-ng": "proxychains-ng",
     "proxychains-ng-debuginfo": "proxychains-ng",
@@ -883,6 +885,7 @@
     "python3-module-librealsense": "librealsense",
     "python3-module-librealsense-debuginfo": "librealsense",
     "python3-module-librealsense-devel": "librealsense",
+    "python3-module-libsvm": "libsvm",
     "python3-module-libtorrent-rasterbar": "libtorrent-rasterbar",
     "python3-module-libtorrent-rasterbar-debuginfo": "libtorrent-rasterbar",
     "python3-module-libvirt": "libvirt-python",
@@ -932,6 +935,7 @@
     "python3-module-mupdf-debuginfo": "mupdf",
     "python3-module-mypy": "mypy",
     "python3-module-mypyc": "mypy",
+    "python3-module-mysqlsh": "mysql@8.4",
     "python3-module-nanobind": "nanobind",
     "python3-module-newt52": "newt",
     "python3-module-newt52-debuginfo": "newt",
@@ -1040,7 +1044,6 @@
     "python3-module-sqlparse-docs": "sqlparse",
     "python3-module-sqlparse-pickles": "sqlparse",
     "python3-module-supervisor": "supervisor",
-    "python3-module-svm": "libsvm",
     "python3-module-syslog-ng-debuggercli": "syslog-ng",
     "python3-module-tabulate": "python-tabulate",
     "python3-module-talloc": "talloc",

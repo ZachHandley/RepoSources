@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "o",
@@ -495,6 +495,7 @@
     "octave-htmldoc": "octave",
     "octave-info": "octave",
     "octave-libsvm": "libsvm",
+    "octave-libsvm-debuginfo": "libsvm",
     "octave-nlopt": "nlopt",
     "octave-nlopt_optimize": "nlopt",
     "octave-plplot": "plplot",
@@ -962,7 +963,6 @@
     "opa-zsh-completion": "opa",
     "opam": "opam",
     "opam-dbginfo": "opam",
-    "opam-debug": "opam",
     "opam-debuginfo": "opam",
     "opam-debugsource": "opam",
     "opam-devel": "opam",

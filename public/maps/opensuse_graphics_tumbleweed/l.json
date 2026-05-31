@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "opensuse_graphics_tumbleweed",
     "shard": "l",
-    "total_mappings": 227
+    "total_mappings": 225
   },
   "mappings": {
     "lensfun": "lensfun",
@@ -131,14 +131,12 @@
     "libjpeg62-turbo-debugsource": "jpeg-turbo",
     "libjpeg8": "jpeg-turbo",
     "libjpeg8-devel": "jpeg-turbo",
-    "libjpegxr0": "jxrlib",
     "libjxl": "jpeg-xl",
     "libjxl-debuginfo": "jpeg-xl",
     "libjxl-debugsource": "jpeg-xl",
     "libjxl-devel": "jpeg-xl",
     "libjxl-tools": "jpeg-xl",
     "libjxl0_11": "jpeg-xl",
-    "libjxrglue0": "jxrlib",
     "liblensfun1": "lensfun",
     "liblqr": "liblqr",
     "liblqr-1-0": "liblqr",

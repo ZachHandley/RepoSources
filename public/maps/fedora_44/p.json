@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "p",
-    "total_mappings": 1197
+    "total_mappings": 1199
   },
   "mappings": {
     "PDAL": "pdal",
@@ -958,6 +958,7 @@
     "python3-libfdt": "dtc",
     "python3-libfreenect": "libfreenect",
     "python3-libftdi": "libftdi",
+    "python3-libimobiledevice": "libimobiledevice",
     "python3-libiptcdata": "libiptcdata",
     "python3-libkml": "libkml",
     "python3-libknot": "knot",
@@ -1061,6 +1062,7 @@
     "python3-pycodestyle": "pycodestyle",
     "python3-pycryptosat": "cryptominisat",
     "python3-pyesedb": "libesedb",
+    "python3-pykdl": "orocos-kdl",
     "python3-pylint": "pylint",
     "python3-pyqt4-sip": "sip",
     "python3-pytest": "pytest",

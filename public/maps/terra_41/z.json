@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "terra_41",
     "shard": "z",
-    "total_mappings": 9
+    "total_mappings": 8
   },
   "mappings": {
     "zola": "zola",
@@ -14,7 +14,6 @@
     "zola-elvish-completion": "zola",
     "zola-fish-completion": "zola",
     "zola-zsh-completion": "zola",
-    "zrepl": "zrepl",
-    "zsh-autocomplete": "zsh-autocomplete"
+    "zrepl": "zrepl"
   }
 }

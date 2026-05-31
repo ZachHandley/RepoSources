@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "d",
-    "total_mappings": 597
+    "total_mappings": 598
   },
   "mappings": {
     "DevIL": "devil",
@@ -512,6 +512,7 @@
     "devel/x86_64-elf/binutils": "aarch64-elf-binutils",
     "devel/x86_64-elf/gcc": "gcc@14",
     "devel/xa": "xa",
+    "devel/xsimd": "xsimd",
     "devel/xtensa-elf/binutils": "aarch64-elf-binutils",
     "devel/yaml-cpp": "yaml-cpp",
     "devel/yarn": "yarn",

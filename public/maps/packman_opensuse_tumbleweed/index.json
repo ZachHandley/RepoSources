@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "packman_opensuse_tumbleweed",
     "shards": [
@@ -17,7 +17,6 @@
       "m",
       "n",
       "p",
-      "q",
       "r",
       "s",
       "t",
@@ -28,6 +27,6 @@
       "y",
       "z"
     ],
-    "total_mappings": 402
+    "total_mappings": 395
   }
 }

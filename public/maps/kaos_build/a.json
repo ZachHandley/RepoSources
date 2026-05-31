@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "a",
     "total_mappings": 1
   },
   "mappings": {
-    "aqbanking": "aqbanking"
+    "atkmm": "atkmm"
   }
 }

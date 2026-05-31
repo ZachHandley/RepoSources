@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "u",
-    "total_mappings": 169
+    "total_mappings": 170
   },
   "mappings": {
     "u-boot": "u-boot-tools",
@@ -158,6 +158,7 @@
     "uuid-dev": "gnu-getopt",
     "uuid-runtime": "gnu-getopt",
     "uuu": "uuu",
+    "uv": "uv",
     "uvicorn": "uvicorn",
     "uwsc": "ulfius",
     "uwsgi": "uwsgi",

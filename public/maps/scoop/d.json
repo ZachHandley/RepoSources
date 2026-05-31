@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "d",
-    "total_mappings": 58
+    "total_mappings": 59
   },
   "mappings": {
     "d2": "d2",
@@ -29,6 +29,7 @@
     "dhall": "dhall",
     "diff-pdf": "diff-pdf",
     "diff-so-fancy": "diff-so-fancy",
+    "diffnav": "diffnav",
     "difftastic": "difftastic",
     "diffutils": "diffutils",
     "digdag": "digdag",

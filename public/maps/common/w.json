@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "w",
-    "total_mappings": 1613
+    "total_mappings": 1615
   },
   "mappings": {
     "W3M": "w3m",
@@ -170,6 +170,7 @@
     "wasm-bindgen-git": "wasm-bindgen",
     "wasm-component-ld": "wasm-component-ld",
     "wasm-component-ld-dbg": "rust",
+    "wasm-component-ld-debuginfo": "wasm-component-ld",
     "wasm-component-ld-doc": "wasm-component-ld",
     "wasm-micro-runtime": "wasm-micro-runtime",
     "wasm-micro-runtime-git": "wasm-micro-runtime",
@@ -1324,6 +1325,7 @@
     "www/squid6": "squid",
     "www/squid7": "squid",
     "www/srt": "srt",
+    "www/superhtml": "superhtml",
     "www/surfraw": "surfraw",
     "www/tdom": "tdom",
     "www/tgpt": "tgpt",

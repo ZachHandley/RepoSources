@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_11",
     "shard": "x",
-    "total_mappings": 307
+    "total_mappings": 325
   },
   "mappings": {
     "x11proto-core-dev": "xorgproto",
@@ -201,6 +201,24 @@
     "xfs-modules-5.10.0-43-sh7751r-di": "linux-headers@6.8",
     "xfs-modules-5.10.0-43-sh7785lcr-di": "linux-headers@6.8",
     "xfs-modules-5.10.0-43-sparc64-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-4kc-malta-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-686-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-686-pae-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-alpha-generic-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-amd64-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-arm64-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-itanium-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-loongson-3-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-octeon-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-parisc-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-parisc64-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-powerpc-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-powerpc64-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-powerpc64le-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-s390x-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-sh7751r-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-sh7785lcr-di": "linux-headers@6.8",
+    "xfs-modules-5.10.0-44-sparc64-di": "linux-headers@6.8",
     "xfs-modules-5.10.0-6-4kc-malta-di": "linux-headers@6.8",
     "xfs-modules-5.10.0-6-5kc-malta-di": "linux-headers@6.8",
     "xfs-modules-5.10.0-6-686-di": "linux-headers@6.8",

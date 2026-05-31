@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "c",
-    "total_mappings": 62
+    "total_mappings": 61
   },
   "mappings": {
     "cargo": "rust",
@@ -34,8 +34,6 @@
     "clangd-20": "llvm@21",
     "cmark": "cmark",
     "composer": "composer",
-    "containerd": "containerd",
-    "containernetworking-plugins": "cni-plugins",
     "cosign": "cosign",
     "cracklib-runtime": "cracklib",
     "cracklib2": "cracklib",
@@ -68,6 +66,7 @@
     "crypto-modules-7.1-s390x-di": "linux-headers@6.8",
     "crypto-modules-7.1-sh7751r-di": "linux-headers@6.8",
     "crypto-modules-7.1-sparc64-di": "linux-headers@6.8",
-    "cubeb": "cubeb"
+    "cubeb": "cubeb",
+    "curl": "curl"
   }
 }

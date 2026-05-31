@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "a",
-    "total_mappings": 414
+    "total_mappings": 416
   },
   "mappings": {
     "ALPSCore": "alpscore",
@@ -256,6 +256,7 @@
     "atlas-toolkit": "atlas",
     "atool": "atool",
     "atuin": "atuin",
+    "atuin-server": "atuin-server",
     "aubio": "aubio",
     "audacious": "audacious",
     "audacious-core": "audacious",
@@ -420,6 +421,7 @@
     "aws-nuke": "aws-nuke",
     "aws-vault": "aws-vault",
     "axel": "axel",
-    "ayatana-ido": "ayatana-ido"
+    "ayatana-ido": "ayatana-ido",
+    "azure-cli": "azure-cli"
   }
 }

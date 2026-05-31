@@ -1,13 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "r",
-    "total_mappings": 2
+    "total_mappings": 6
   },
   "mappings": {
-    "rdfind": "rdfind",
-    "rtmpdump": "rtmpdump"
+    "rust": "rust",
+    "rust-aarch64-gnu": "rust",
+    "rust-aarch64-musl": "rust",
+    "rust-musl": "rust",
+    "rust-src": "rust",
+    "rust-wasm": "rust"
   }
 }

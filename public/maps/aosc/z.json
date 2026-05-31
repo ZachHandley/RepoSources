@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "z",
-    "total_mappings": 29
+    "total_mappings": 31
   },
   "mappings": {
     "z3": "z3",
@@ -35,6 +35,8 @@
     "zug": "zug",
     "zvbi": "zvbi",
     "zxing-cpp": "zxing-cpp",
+    "zycore-c": "zycore-c",
+    "zydis": "zydis",
     "zziplib": "libzzip"
   }
 }

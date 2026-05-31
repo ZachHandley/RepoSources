@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "m",
-    "total_mappings": 62
+    "total_mappings": 63
   },
   "mappings": {
     "Minuit2": "minuit2",
+    "m4ri": "m4ri",
     "magic_enum": "magic_enum",
     "makefile2graph": "makefile2graph",
     "mandown": "mandown",

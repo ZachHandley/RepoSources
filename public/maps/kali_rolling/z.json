@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "z",
@@ -34,6 +34,7 @@
     "zenity": "zenity",
     "zenity-common": "zenity",
     "zenmap": "nmap",
+    "zeroc-dsnode": "ice",
     "zeroc-glacier2": "ice",
     "zeroc-ice": "ice",
     "zeroc-ice-all-dev": "ice",
@@ -44,8 +45,7 @@
     "zeroc-icebox": "ice",
     "zeroc-icebridge": "ice",
     "zeroc-icegrid": "ice",
-    "zeroc-icegridgui": "ice",
-    "zeroc-icepatch2": "ice",
+    "zeroc-icestorm": "ice",
     "zeroinstall-injector": "zero-install",
     "zeromq3": "zeromq",
     "zfind": "zfind",

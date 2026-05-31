@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "a",
-    "total_mappings": 63
+    "total_mappings": 64
   },
   "mappings": {
     "ab-av1": "ab-av1",
@@ -13,6 +13,7 @@
     "actionlint": "actionlint",
     "activemq": "activemq",
     "age": "age",
+    "agent-browser": "agent-browser",
     "agg": "agg",
     "ahoy": "ahoy",
     "aichat": "aichat",

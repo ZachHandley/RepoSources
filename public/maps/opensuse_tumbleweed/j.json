@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "j",
-    "total_mappings": 252
+    "total_mappings": 248
   },
   "mappings": {
     "jack": "jack",
@@ -254,10 +254,6 @@
     "just-debuginfo": "just",
     "just-debugsource": "just",
     "just-fish-completion": "just",
-    "just-zsh-completion": "just",
-    "jxrlib": "jxrlib",
-    "jxrlib-debuginfo": "jxrlib",
-    "jxrlib-debugsource": "jxrlib",
-    "jxrlib-devel": "jxrlib"
+    "just-zsh-completion": "just"
   }
 }

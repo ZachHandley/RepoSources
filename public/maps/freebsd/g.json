@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "g",
-    "total_mappings": 757
+    "total_mappings": 755
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -56,6 +56,7 @@
     "games/gtypist": "gnu-typist",
     "games/instead": "instead",
     "games/klavaro": "klavaro",
+    "games/ladder": "ladder",
     "games/leela-zero": "leela-zero",
     "games/lgeneral": "lgeneral",
     "games/lgogdownloader": "lgogdownloader",
@@ -177,7 +178,6 @@
     "gh": "gh",
     "gh-bc": "bc-gh",
     "ghc": "ghc",
-    "ghc94": "ghc@9.8",
     "ghc96": "ghc@9.8",
     "ghc98": "ghc@9.8",
     "ghex": "ghex",
@@ -378,7 +378,6 @@
     "graphics/ImageMagick6": "imagemagick@6",
     "graphics/ImageMagick7": "imagemagick@6",
     "graphics/aalib": "aalib",
-    "graphics/alembic": "alembic",
     "graphics/ansilove": "ansilove",
     "graphics/apngasm": "apngasm",
     "graphics/argyllcms": "argyll-cms",
@@ -504,7 +503,6 @@
     "graphics/libiptcdata": "libiptcdata",
     "graphics/libjpeg-turbo": "jpeg-turbo",
     "graphics/libjxl": "jpeg-xl",
-    "graphics/libjxr": "jxrlib",
     "graphics/liblqr-1": "liblqr",
     "graphics/libmng": "libmng",
     "graphics/libmypaint": "libmypaint",

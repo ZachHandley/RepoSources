@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "c",
-    "total_mappings": 316
+    "total_mappings": 317
   },
   "mappings": {
     "CImg": "cimg",
@@ -165,6 +165,7 @@
     "cloog": "cloog",
     "cloudflare-speed-cli": "cloudflare-speed-cli",
     "cloudflared": "cloudflared",
+    "cloudmonkey": "cloudmonkey",
     "clpbar": "clpbar",
     "cmake": "cmake",
     "cmake-devel": "cmake",

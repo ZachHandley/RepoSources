@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "p",
-    "total_mappings": 1133
+    "total_mappings": 1136
   },
   "mappings": {
     "p11-kit-git": "p11-kit",
@@ -29,6 +29,8 @@
     "pam_u2f-git": "pam-u2f",
     "paml": "paml",
     "pan-git": "pan",
+    "panache": "panache",
+    "panache-bin": "panache",
     "pandoc-bin": "pandoc",
     "pandoc-crossref-bin": "pandoc-crossref",
     "pandoc-static-git": "pandoc",
@@ -657,6 +659,7 @@
     "pick-git": "pick",
     "picoc-git": "picoc",
     "picoclaw": "picoclaw",
+    "picoclaw-git": "picoclaw",
     "picocom-git": "picocom",
     "picotool": "picotool",
     "picotool-git": "picotool",

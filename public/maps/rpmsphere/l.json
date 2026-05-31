@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rpmsphere",
     "shard": "l",
-    "total_mappings": 77
+    "total_mappings": 82
   },
   "mappings": {
     "le": "le",
@@ -51,6 +51,11 @@
     "libr3-debuginfo": "r3",
     "libr3-debugsource": "r3",
     "libr3-devel": "r3",
+    "libredwg": "libredwg",
+    "libredwg-debuginfo": "libredwg",
+    "libredwg-debugsource": "libredwg",
+    "libredwg-devel": "libredwg",
+    "libredwg-python": "libredwg",
     "libressl": "libressl",
     "libressl-debuginfo": "libressl",
     "libressl-debugsource": "libressl",

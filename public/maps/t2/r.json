@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "r",
-    "total_mappings": 67
+    "total_mappings": 68
   },
   "mappings": {
     "r": "r",
@@ -20,6 +20,7 @@
     "rapidyaml": "rapidyaml",
     "rarian": "rarian",
     "rasqal": "rasqal",
+    "ratty": "ratty",
     "rav1e": "rav1e",
     "raylib": "raylib",
     "rc": "rc",

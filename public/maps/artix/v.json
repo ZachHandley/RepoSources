@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "v",
-    "total_mappings": 54
+    "total_mappings": 55
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -27,6 +27,7 @@
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
     "vis": "vis",
+    "vis-lexers": "vis",
     "vis-syntax-highlighting": "vis",
     "vmaf": "libvmaf",
     "vnstat": "vnstat",

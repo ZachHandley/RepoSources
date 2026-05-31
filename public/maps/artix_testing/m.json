@@ -1,12 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "m",
-    "total_mappings": 1
+    "total_mappings": 5
   },
   "mappings": {
-    "meson": "meson"
+    "mariadb": "mariadb",
+    "mariadb-clients": "mariadb@11.8",
+    "mariadb-libs": "mariadb@11.8",
+    "mariadb-mytop": "mariadb@11.8",
+    "mariadb-pam": "mariadb@11.8"
   }
 }

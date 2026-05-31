@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "r",
-    "total_mappings": 59
+    "total_mappings": 61
   },
   "mappings": {
     "r": "r",
@@ -21,6 +21,7 @@
     "rakudo-star": "rakudo-star",
     "rancher-cli": "rancher-cli",
     "rathole": "rathole",
+    "ratty": "ratty",
     "raylib": "raylib",
     "rclone": "rclone",
     "rclone-beta": "rclone",
@@ -61,6 +62,7 @@
     "rust-msvc-nightly": "rust",
     "rust-nightly": "rust",
     "rustic": "rustic",
+    "rustnet": "rustnet",
     "rustup": "rustup",
     "rustup-gnu": "rustup",
     "rustup-msvc": "rustup",

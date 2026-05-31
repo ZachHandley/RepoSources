@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "g",
-    "total_mappings": 150
+    "total_mappings": 158
   },
   "mappings": {
     "gawk": "gawk",
@@ -12,6 +12,15 @@
     "gcab": "gcab",
     "gcab-apidocs": "gcab",
     "gcc": "gcc@14",
+    "gcc-c++": "gcc@14",
+    "gcc-cpp": "gcc@14",
+    "gcc-d": "gcc@14",
+    "gcc-doc": "gcc@14",
+    "gcc-fortran": "gcc@14",
+    "gcc-go": "gcc@14",
+    "gcc-m2": "gcc@14",
+    "gcc-multilib": "gcc@14",
+    "gcc-multilib-devel": "gcc@14",
     "gcr": "gcr",
     "gcr-apidocs": "gcr",
     "gcr3": "gcr",
@@ -112,7 +121,6 @@
     "gpsbabel": "gpsbabel",
     "gpsbabel-debug": "gpsbabel",
     "gpsd": "gpsd",
-    "gpsd-debug": "gpsd",
     "gptfdisk": "gptfdisk",
     "gptfdisk-debug": "gptfdisk",
     "gputils": "gputils",

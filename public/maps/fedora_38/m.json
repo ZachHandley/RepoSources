@@ -1,15 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_38",
     "shard": "m",
-    "total_mappings": 1615
+    "total_mappings": 1618
   },
   "mappings": {
     "m4": "m4",
     "m4-debuginfo": "m4",
     "m4-debugsource": "m4",
+    "m4ri": "m4ri",
+    "m4ri-debuginfo": "m4ri",
+    "m4ri-debugsource": "m4ri",
+    "m4ri-devel": "m4ri",
+    "m4ri-static": "m4ri",
     "mac": "mac",
     "mac-debuginfo": "mac",
     "mac-debugsource": "mac",
@@ -665,7 +670,6 @@
     "mingw32-jimtcl": "jimtcl",
     "mingw32-json-glib": "json-glib",
     "mingw32-jsoncpp": "jsoncpp",
-    "mingw32-jxrlib": "jxrlib",
     "mingw32-lcms": "little-cms2",
     "mingw32-lcms-static": "little-cms2",
     "mingw32-lcms2": "little-cms2",
@@ -1058,7 +1062,6 @@
     "mingw64-jimtcl": "jimtcl",
     "mingw64-json-glib": "json-glib",
     "mingw64-jsoncpp": "jsoncpp",
-    "mingw64-jxrlib": "jxrlib",
     "mingw64-lcms": "little-cms2",
     "mingw64-lcms-static": "little-cms2",
     "mingw64-lcms2": "little-cms2",

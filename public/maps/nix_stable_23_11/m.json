@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "nix_stable_23_11",
     "shard": "m",
-    "total_mappings": 286
+    "total_mappings": 287
   },
   "mappings": {
     "MapProxy": "mapproxy",
     "m-cli": "m-cli",
+    "m4ri": "m4ri",
     "mac-robber": "mac-robber",
     "macchanger": "macchanger",
     "macchina": "macchina",

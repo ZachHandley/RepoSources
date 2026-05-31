@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_11",
     "shard": "j",
-    "total_mappings": 278
+    "total_mappings": 298
   },
   "mappings": {
     "jack-audio-connection-kit": "jack",
@@ -40,6 +40,7 @@
     "jffs2-modules-5.10.0-41-marvell-di": "linux-headers@6.8",
     "jffs2-modules-5.10.0-42-marvell-di": "linux-headers@6.8",
     "jffs2-modules-5.10.0-43-marvell-di": "linux-headers@6.8",
+    "jffs2-modules-5.10.0-44-marvell-di": "linux-headers@6.8",
     "jffs2-modules-5.10.0-6-marvell-di": "linux-headers@6.8",
     "jffs2-modules-5.10.0-8-marvell-di": "linux-headers@6.8",
     "jflex": "jflex",
@@ -197,6 +198,26 @@
     "jfs-modules-5.10.0-43-sh7751r-di": "linux-headers@6.8",
     "jfs-modules-5.10.0-43-sh7785lcr-di": "linux-headers@6.8",
     "jfs-modules-5.10.0-43-sparc64-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-4kc-malta-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-5kc-malta-di,xfs-modules-5.10.0-44-5kc-malta-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-686-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-686-pae-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-alpha-generic-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-amd64-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-arm64-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-armmp-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-itanium-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-loongson-3-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-marvell-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-parisc-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-parisc64-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-powerpc-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-powerpc64-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-powerpc64le-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-riscv64-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-sh7751r-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-sh7785lcr-di": "linux-headers@6.8",
+    "jfs-modules-5.10.0-44-sparc64-di": "linux-headers@6.8",
     "jfs-modules-5.10.0-6-4kc-malta-di": "linux-headers@6.8",
     "jfs-modules-5.10.0-6-5kc-malta-di": "linux-headers@6.8",
     "jfs-modules-5.10.0-6-686-di": "linux-headers@6.8",
@@ -282,7 +303,6 @@
     "julia-common": "julia",
     "julia-doc": "julia",
     "jupp": "jupp",
-    "jxrlib": "jxrlib",
     "jython": "jython",
     "jython-doc": "jython"
   }

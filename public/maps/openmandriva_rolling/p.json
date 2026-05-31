@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "p",
-    "total_mappings": 732
+    "total_mappings": 734
   },
   "mappings": {
     "p0f": "p0f",
@@ -203,6 +203,7 @@
     "perl-hamlib": "hamlib",
     "perl-libnet": "perl",
     "perl-libnetcfg": "perl",
+    "perl-libredwg": "libredwg",
     "perl-libs": "perl",
     "perl-open": "perl",
     "perl-parent": "perl",
@@ -617,6 +618,7 @@
     "python-libmount": "gnu-getopt",
     "python-libproxy": "libproxy",
     "python-libpst": "libpst",
+    "python-libredwg": "libredwg",
     "python-libselinux": "libselinux",
     "python-libsvm": "libsvm",
     "python-libtorrent-rasterbar": "libtorrent-rasterbar",

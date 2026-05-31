@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "x",
-    "total_mappings": 109
+    "total_mappings": 111
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -100,6 +100,8 @@
     "xsd-devel": "xsd",
     "xsel": "xsel",
     "xsel-dbginfo": "xsel",
+    "xsimd": "xsimd",
+    "xtl": "xtl",
     "xtrans": "xtrans",
     "xvidcore": "xvid",
     "xvidcore-dbginfo": "xvid",

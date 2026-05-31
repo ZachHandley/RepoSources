@@ -1,16 +1,26 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "l",
-    "total_mappings": 5
+    "total_mappings": 15
   },
   "mappings": {
+    "lib32-clang": "llvm@21",
     "lib32-fontconfig": "fontconfig",
-    "libgit2": "libgit2",
+    "lib32-llvm": "llvm@21",
+    "lib32-llvm-libs": "llvm@21",
+    "lib32-rust-libs": "rust",
+    "libclc": "libclc",
     "libntfs-3g": "ntfs-3g",
     "linux-api-headers": "linux-headers@6.8",
-    "lld": "lld@21"
+    "linux-lts515": "linux-headers@6.8",
+    "linux-lts515-docs": "linux-headers@6.8",
+    "linux-lts515-headers": "linux-headers@6.8",
+    "lld": "lld@21",
+    "lldb": "llvm@21",
+    "llvm": "llvm@21",
+    "llvm-libs": "llvm@21"
   }
 }

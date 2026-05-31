@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "g",
-    "total_mappings": 483
+    "total_mappings": 492
   },
   "mappings": {
     "gawk": "gawk",
@@ -22,8 +22,11 @@
     "gcab-debugsource": "gcab",
     "gcc": "gcc@14",
     "gcc-c++": "gcc@14",
+    "gcc-debuginfo": "gcc@14",
+    "gcc-debugsource": "gcc@14",
     "gcc-gdb-plugin": "gcc@14",
     "gcc-gfortran": "gcc@14",
+    "gcc-offload-nvptx": "gcc@14",
     "gcc-plugin-annobin": "gcc@14",
     "gcc-plugin-devel": "gcc@14",
     "gcc-toolset-12-gdb": "aarch64-elf-gdb",
@@ -48,6 +51,8 @@
     "gdal-devel": "gdal",
     "gdal-libs": "gdal",
     "gdb": "gdb",
+    "gdb-debuginfo": "aarch64-elf-gdb",
+    "gdb-debugsource": "aarch64-elf-gdb",
     "gdb-doc": "aarch64-elf-gdb",
     "gdb-gdbserver": "aarch64-elf-gdb",
     "gdb-headless": "aarch64-elf-gdb",
@@ -101,6 +106,8 @@
     "git-core-doc": "git",
     "git-credential-libsecret": "git",
     "git-daemon": "git",
+    "git-debuginfo": "git",
+    "git-debugsource": "git",
     "git-email": "git",
     "git-gui": "git-gui",
     "git-instaweb": "git",
@@ -353,6 +360,8 @@
     "glm-devel": "glm",
     "glm-doc": "glm",
     "glslang": "glslang",
+    "glslang-debuginfo": "glslang",
+    "glslang-debugsource": "glslang",
     "glslang-devel": "glslang",
     "glslc": "shaderc",
     "gmp": "gmp",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "w",
-    "total_mappings": 135
+    "total_mappings": 137
   },
   "mappings": {
     "w3m": "w3m",
@@ -16,6 +16,8 @@
     "wakeonlan": "wakeonlan",
     "waon": "waon",
     "waon-debuginfo": "waon",
+    "wasm-component-ld": "wasm-component-ld",
+    "wasm-component-ld-debuginfo": "wasm-component-ld",
     "wasmedge": "wasmedge",
     "wasmedge-debuginfo": "wasmedge",
     "wasmedge-devel": "wasmedge",

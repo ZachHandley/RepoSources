@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "x",
-    "total_mappings": 65
+    "total_mappings": 64
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -38,7 +38,6 @@
     "xkeyboard-config": "xkeyboard-config",
     "xkeyboard-config-devel": "xkeyboard-config",
     "xlsclients": "xlsclients",
-    "xlsclients-debug": "xlsclients",
     "xmlrpc-c": "xmlrpc-c",
     "xmlrpc-c-debug": "xmlrpc-c",
     "xmlsec1": "libxmlsec1",

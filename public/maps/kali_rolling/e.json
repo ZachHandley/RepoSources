@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "e",
-    "total_mappings": 197
+    "total_mappings": 200
   },
   "mappings": {
     "e2fsck-static": "e2fsprogs",
@@ -32,6 +32,7 @@
     "efl-doc": "efl",
     "efm-langserver": "efm-langserver",
     "egctl": "egctl",
+    "eglew-utils": "glew",
     "eigen3": "eigen@3",
     "ejabberd": "ejabberd",
     "eject": "gnu-getopt",
@@ -69,6 +70,7 @@
     "emscripten": "emscripten",
     "emscripten-doc": "emscripten",
     "enca": "enca",
+    "enchant": "enchant",
     "enchant-2": "enchant",
     "endlessh": "endlessh",
     "enet": "enet",
@@ -131,6 +133,7 @@
     "erofs-utils": "erofs-utils",
     "erofsfuse": "erofs-utils",
     "esbuild": "esbuild",
+    "esbuild-wasm": "esbuild",
     "eslint": "eslint",
     "espeak": "espeak",
     "espeak-data": "espeak",

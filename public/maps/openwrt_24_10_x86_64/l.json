@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "l",
-    "total_mappings": 611
+    "total_mappings": 612
   },
   "mappings": {
     "lame": "lame",
@@ -299,7 +299,8 @@
     "libnet-1.2.x": "libnet",
     "libnetfilter-conntrack3": "libnetfilter_conntrack",
     "libnetfilter-queue1": "libnetfilter-queue",
-    "libnetsnmp": "net-snmp",
+    "libnetsnmp-nossl": "net-snmp",
+    "libnetsnmp-ssl": "net-snmp",
     "libnettle8": "nettle@3",
     "libnewt": "newt",
     "libnfnetlink0": "libnfnetlink",

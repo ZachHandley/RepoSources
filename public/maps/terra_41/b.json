@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "terra_41",
     "shard": "b",
-    "total_mappings": 9
+    "total_mappings": 10
   },
   "mappings": {
     "bat-extras": "bat-extras",
@@ -12,6 +12,7 @@
     "binsider-debuginfo": "binsider",
     "binsider-debugsource": "binsider",
     "bitwarden-cli": "bitwarden-cli",
+    "btdu": "btdu",
     "bup": "bup",
     "bup-debuginfo": "bup",
     "bup-debugsource": "bup",

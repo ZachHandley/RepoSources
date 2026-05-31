@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_13",
     "shard": "r",
-    "total_mappings": 260
+    "total_mappings": 264
   },
   "mappings": {
     "r-base": "r",
@@ -115,6 +115,10 @@
     "rfkill-modules-6.12.86+deb13-loong64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.88+deb13-amd64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.88+deb13-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.90+deb13-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.90+deb13-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.90+deb13.1-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.90+deb13.1-loong64-di": "linux-headers@6.8",
     "rgxg": "rgxg",
     "rhash": "rhash",
     "rhino": "rhino",

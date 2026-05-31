@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "almalinux_9",
     "shard": "c",
-    "total_mappings": 140
+    "total_mappings": 144
   },
   "mappings": {
     "CUnit": "cunit",
@@ -113,6 +113,10 @@
     "cross-binutils-s390x": "aarch64-elf-binutils",
     "cross-gcc-aarch64": "gcc@14",
     "cross-gcc-c++-aarch64": "gcc@14",
+    "cross-gcc-c++-ppc64le": "gcc@14",
+    "cross-gcc-c++-s390x": "gcc@14",
+    "cross-gcc-ppc64le": "gcc@14",
+    "cross-gcc-s390x": "gcc@14",
     "crun": "crun",
     "crun-debuginfo": "crun",
     "crun-debugsource": "crun",

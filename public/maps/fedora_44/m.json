@@ -1,13 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "m",
-    "total_mappings": 1568
+    "total_mappings": 1572
   },
   "mappings": {
     "m4": "m4",
+    "m4ri": "m4ri",
+    "m4ri-devel": "m4ri",
+    "m4ri-static": "m4ri",
     "mac": "mac",
     "mac-devel": "mac",
     "mac-libs": "mac",
@@ -573,7 +576,6 @@
     "mingw32-json-c": "json-c",
     "mingw32-json-glib": "json-glib",
     "mingw32-jsoncpp": "jsoncpp",
-    "mingw32-jxrlib": "jxrlib",
     "mingw32-lcms": "little-cms2",
     "mingw32-lcms-static": "little-cms2",
     "mingw32-lcms2": "little-cms2",
@@ -718,6 +720,7 @@
     "mingw32-pixman": "pixman",
     "mingw32-pixman-static": "pixman",
     "mingw32-podofo": "podofo",
+    "mingw32-podofo-debuginfo": "podofo",
     "mingw32-poppler": "poppler",
     "mingw32-poppler-cpp": "poppler",
     "mingw32-poppler-debuginfo": "poppler",
@@ -1046,7 +1049,6 @@
     "mingw64-json-c": "json-c",
     "mingw64-json-glib": "json-glib",
     "mingw64-jsoncpp": "jsoncpp",
-    "mingw64-jxrlib": "jxrlib",
     "mingw64-lcms": "little-cms2",
     "mingw64-lcms-static": "little-cms2",
     "mingw64-lcms2": "little-cms2",
@@ -1190,6 +1192,7 @@
     "mingw64-pixman": "pixman",
     "mingw64-pixman-static": "pixman",
     "mingw64-podofo": "podofo",
+    "mingw64-podofo-debuginfo": "podofo",
     "mingw64-poppler": "poppler",
     "mingw64-poppler-cpp": "poppler",
     "mingw64-poppler-debuginfo": "poppler",
@@ -1477,6 +1480,7 @@
     "mp3gain": "mp3gain",
     "mpage": "mpage",
     "mpc": "mpc",
+    "mpd": "mpd",
     "mpdas": "mpdas",
     "mpdecimal": "mpdecimal",
     "mpdecimal++": "mpdecimal",

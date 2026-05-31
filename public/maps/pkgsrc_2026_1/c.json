@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "c",
-    "total_mappings": 342
+    "total_mappings": 343
   },
   "mappings": {
     "CLI11": "cli11",
@@ -20,6 +20,7 @@
     "cad/electric": "electric",
     "cad/gerbv": "gerbv",
     "cad/gplcver": "gplcver",
+    "cad/libredwg": "libredwg",
     "cad/ng-spice": "libngspice",
     "cad/nvc": "nvc",
     "cad/occt": "opencascade",

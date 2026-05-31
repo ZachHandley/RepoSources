@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "j",
-    "total_mappings": 197
+    "total_mappings": 196
   },
   "mappings": {
     "jack": "jack",
@@ -202,7 +202,6 @@
     "jthread-debugsource": "jthread",
     "judy": "judy",
     "just": "just",
-    "just-bash-completion": "just",
-    "jxrlib": "jxrlib"
+    "just-bash-completion": "just"
   }
 }

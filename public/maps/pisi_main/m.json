@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "m",
-    "total_mappings": 275
+    "total_mappings": 276
   },
   "mappings": {
     "m4": "m4",
+    "m4ri": "m4ri",
     "mac": "mac",
     "make": "make",
     "man-db": "man-db",

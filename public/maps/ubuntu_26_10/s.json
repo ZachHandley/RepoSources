@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "s",
-    "total_mappings": 488
+    "total_mappings": 489
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -320,6 +320,7 @@
     "sqlcipher": "sqlcipher",
     "sqlfluff": "sqlfluff",
     "sqlfluff-doc": "sqlfluff",
+    "sqlfmt": "sqlfmt",
     "sqlformat": "sqlparse",
     "sqlite-utils": "sqlite-utils",
     "sqlite3": "sqlite",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "r",
-    "total_mappings": 688
+    "total_mappings": 687
   },
   "mappings": {
     "R": "r",
@@ -502,14 +502,13 @@
     "rust-difftastic-debuginfo": "difftastic",
     "rust-difftastic-debugsource": "difftastic",
     "rust-dua-cli": "dua-cli",
-    "rust-dua-cli+crosstermion-devel": "dua-cli",
+    "rust-dua-cli+crossterm-devel": "dua-cli",
     "rust-dua-cli+default-devel": "dua-cli",
     "rust-dua-cli+open-devel": "dua-cli",
     "rust-dua-cli+trash-devel": "dua-cli",
     "rust-dua-cli+trash-move-devel": "dua-cli",
     "rust-dua-cli+tui-crossplatform-devel": "dua-cli",
     "rust-dua-cli+tui-devel": "dua-cli",
-    "rust-dua-cli+tui-react-devel": "dua-cli",
     "rust-dua-cli+unicode-segmentation-devel": "dua-cli",
     "rust-dua-cli+unicode-width-devel": "dua-cli",
     "rust-dua-cli-debuginfo": "dua-cli",

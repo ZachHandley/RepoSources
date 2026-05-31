@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "p",
-    "total_mappings": 713
+    "total_mappings": 711
   },
   "mappings": {
     "p0f": "p0f",
@@ -74,8 +74,6 @@
     "perl-OSSP-uuid": "ossp-uuid",
     "perl-SVN": "subversion",
     "perl-base": "perl",
-    "perl-debuginfo": "perl",
-    "perl-debugsource": "perl",
     "perl-devel": "perl",
     "perl-doc": "perl",
     "perl-ekg2": "ekg2",

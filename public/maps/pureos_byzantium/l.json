@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pureos_byzantium",
     "shard": "l",
-    "total_mappings": 6301
+    "total_mappings": 6300
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -2564,10 +2564,6 @@
     "libjwt-gnutls-dev": "libjwt",
     "libjwt-gnutls0": "libjwt",
     "libjwt0": "libjwt",
-    "libjxr-dbg": "jxrlib",
-    "libjxr-dev": "jxrlib",
-    "libjxr-tools": "jxrlib",
-    "libjxr0": "jxrlib",
     "libk5crypto3": "krb5",
     "libkadm5clnt-mit12": "krb5",
     "libkadm5clnt7-heimdal": "heimdal",
@@ -2851,6 +2847,9 @@
     "liblzo2-2": "lzo",
     "liblzo2-2-udeb": "lzo",
     "liblzo2-dev": "lzo",
+    "libm4ri": "m4ri",
+    "libm4ri-0.0.20200125": "m4ri",
+    "libm4ri-dev": "m4ri",
     "libmaa": "libmaa",
     "libmaa-dev": "libmaa",
     "libmaa4": "libmaa",

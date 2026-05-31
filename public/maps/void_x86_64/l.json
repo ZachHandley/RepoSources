@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "l",
-    "total_mappings": 1546
+    "total_mappings": 1549
   },
   "mappings": {
     "LGOGDownloader": "lgogdownloader",
@@ -1004,6 +1004,9 @@
     "librec-devel": "recutils",
     "librec1": "recutils",
     "librecode": "recode",
+    "libredwg": "libredwg",
+    "libredwg-devel": "libredwg",
+    "libredwg-tools": "libredwg",
     "libresvg-devel": "resvg",
     "libresvg0": "resvg",
     "librevenge": "librevenge",

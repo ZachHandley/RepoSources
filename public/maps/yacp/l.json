@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "l",
-    "total_mappings": 1721
+    "total_mappings": 1726
   },
   "mappings": {
     "ladspa-rubberband": "rubberband",
@@ -41,7 +41,7 @@
     "libCoin-devel": "coin3d",
     "libCoin80": "coin3d",
     "libCppUTest-devel": "cpputest",
-    "libCppUTest0": "cpputest",
+    "libCppUTest4": "cpputest",
     "libDLib-devel": "dlib",
     "libDLib1": "dlib",
     "libDromeAudio-devel": "dromeaudio",
@@ -708,7 +708,7 @@
     "libgnunettransportcommunicator0": "gnunet",
     "libgnunettransportcore0": "gnunet",
     "libgnunettransportmonitor0": "gnunet",
-    "libgnunetutil20": "gnunet",
+    "libgnunetutil22": "gnunet",
     "libgnunetvpn0": "gnunet",
     "libgrape-lite": "libgrape-lite",
     "libgrape-lite-devel": "libgrape-lite",
@@ -954,6 +954,8 @@
     "liblzf1": "liblzf",
     "liblzfse-devel": "lzfse",
     "liblzfse1": "lzfse",
+    "libm4ri-devel": "m4ri",
+    "libm4ri2": "m4ri",
     "libmapcraftercore-devel": "mapcrafter",
     "libmapcraftercore2": "mapcrafter",
     "libmarkdown-devel": "discount",
@@ -1105,7 +1107,7 @@
     "libopen62541-devel": "open62541",
     "libopen62541_1.4": "open62541",
     "libopencc-devel": "opencc",
-    "libopencc1.2": "opencc",
+    "libopencc1.3": "opencc",
     "libopencoarrays_mod-devel": "opencoarrays",
     "libopencoarrays_mod2": "opencoarrays",
     "libopencsg-devel": "opencsg",
@@ -1253,6 +1255,9 @@
     "libreadosm1": "readosm",
     "librec-devel": "recutils",
     "librec1": "recutils",
+    "libredwg": "libredwg",
+    "libredwg-devel": "libredwg",
+    "libredwg0": "libredwg",
     "libreflex-devel": "re-flex",
     "libreflex6": "re-flex",
     "libremctl-devel": "remctl",

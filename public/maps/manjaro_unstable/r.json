@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "r",
-    "total_mappings": 131
+    "total_mappings": 132
   },
   "mappings": {
     "r": "r",
     "rabbitmq": "rabbitmq",
-    "rabbitmqadmin": "rabbitmq",
+    "rabbitmqadmin": "rabbitmqadmin",
     "racket": "minimal-racket",
     "racket-minimal": "minimal-racket",
     "radamsa": "radamsa",
@@ -27,6 +27,7 @@
     "rasqal": "rasqal",
     "rathole": "rathole",
     "rattler-build": "rattler-build",
+    "ratty": "ratty",
     "rav1e": "rav1e",
     "raylib": "raylib",
     "rbenv": "rbenv",

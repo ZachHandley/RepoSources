@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "b",
-    "total_mappings": 300
+    "total_mappings": 301
   },
   "mappings": {
     "babeld": "babeld",
@@ -295,6 +295,7 @@
     "buildd": "sbuild",
     "buku": "buku",
     "bullet": "bullet",
+    "bumblebee": "bumblebee",
     "bumpversion": "bumpversion",
     "burp": "burp",
     "burrow": "burrow",

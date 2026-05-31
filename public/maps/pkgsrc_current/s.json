@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "s",
-    "total_mappings": 667
+    "total_mappings": 669
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -66,6 +66,7 @@
     "security/ca-certificates": "ca-certificates",
     "security/cargo-audit": "cargo-audit",
     "security/cargo-auditable": "cargo-auditable",
+    "security/cargo-deny": "cargo-deny",
     "security/cfssl": "cfssl",
     "security/chkrootkit": "chkrootkit",
     "security/clamav": "clamav",
@@ -167,6 +168,7 @@
     "security/opensc": "opensc",
     "security/openssh": "openssh",
     "security/openssl": "openssl@4",
+    "security/ory-hydra": "ory-hydra",
     "security/osv-scanner": "osv-scanner",
     "security/p0f": "p0f",
     "security/p11-kit": "p11-kit",

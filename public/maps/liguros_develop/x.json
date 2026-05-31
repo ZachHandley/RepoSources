@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "x",
-    "total_mappings": 117
+    "total_mappings": 118
   },
   "mappings": {
     "x11-apps/bdftopcf": "bdftopcf",
@@ -92,6 +92,7 @@
     "x11-libs/xcb-util-renderutil": "xcb-util-renderutil",
     "x11-libs/xcb-util-wm": "xcb-util-wm",
     "x11-libs/xtrans": "xtrans",
+    "x11-misc/bumblebee": "bumblebee",
     "x11-misc/dmenu": "dmenu",
     "x11-misc/grsync": "grsync",
     "x11-misc/icon-naming-utils": "icon-naming-utils",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "p",
-    "total_mappings": 764
+    "total_mappings": 763
   },
   "mappings": {
     "p0f": "p0f",
@@ -28,6 +28,7 @@
     "pam_u2f": "pam-u2f",
     "paml": "paml",
     "pan": "pan",
+    "panache": "panache",
     "pandoc": "pandoc",
     "pango": "pango",
     "pangomm": "pangomm",
@@ -289,9 +290,7 @@
     "podman-compose": "podman-compose",
     "podman-tui": "podman-tui",
     "podofo": "podofo",
-    "podofo_0_10": "podofo",
-    "podofo_0_9": "podofo",
-    "podofo_1_0": "podofo",
+    "podofo0": "podofo",
     "poetry": "poetry",
     "poke": "poke",
     "polkit": "polkit",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "a",
-    "total_mappings": 312
+    "total_mappings": 311
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -66,7 +66,6 @@
     "aldo": "aldo",
     "aldo-debuginfo": "aldo",
     "aldo-debugsource": "aldo",
-    "alembic": "alembic",
     "allegro": "allegro",
     "allegro-debuginfo": "allegro",
     "allegro-debugsource": "allegro",

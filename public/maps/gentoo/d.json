@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "d",
@@ -684,7 +684,7 @@
     "dev-python/pygobject": "pygobject3",
     "dev-python/pylint": "pylint",
     "dev-python/pyqt-builder": "pyqt-builder",
-    "dev-python/pyside": "pyside@2",
+    "dev-python/pyside": "pyside",
     "dev-python/pytest": "pytest",
     "dev-python/python-ly": "ly",
     "dev-python/qscintilla": "qscintilla2",

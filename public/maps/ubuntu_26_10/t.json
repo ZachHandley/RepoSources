@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "t",
-    "total_mappings": 355
+    "total_mappings": 357
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -229,6 +229,8 @@
     "tfk8s": "tfk8s",
     "tgif": "tgif",
     "thefuck": "thefuck",
+    "thorvg": "thorvg",
+    "thorvg-tools": "thorvg",
     "threadweaver": "threadweaver",
     "thrift": "thrift",
     "thrift-compiler": "thrift",

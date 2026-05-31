@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "alt_p10",
     "shard": "n",
-    "total_mappings": 251
+    "total_mappings": 253
   },
   "mappings": {
     "nDPI": "ndpi",
@@ -161,6 +161,8 @@
     "nginx-spnego-debuginfo": "nginx",
     "nginx-xslt": "nginx",
     "nginx-xslt-debuginfo": "nginx",
+    "nginx-zip": "nginx",
+    "nginx-zip-debuginfo": "nginx",
     "ngrep": "ngrep",
     "ngrep-debuginfo": "ngrep",
     "ngspice": "ngspice",

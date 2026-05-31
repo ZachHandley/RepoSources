@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "opensuse_graphics_tumbleweed",
     "shard": "j",
-    "total_mappings": 17
+    "total_mappings": 13
   },
   "mappings": {
     "jbig2dec": "jbig2dec",
@@ -19,10 +19,6 @@
     "jpeginfo-debugsource": "jpeginfo",
     "jpegoptim": "jpegoptim",
     "jpegoptim-debuginfo": "jpegoptim",
-    "jpegoptim-debugsource": "jpegoptim",
-    "jxrlib": "jxrlib",
-    "jxrlib-debuginfo": "jxrlib",
-    "jxrlib-debugsource": "jxrlib",
-    "jxrlib-devel": "jxrlib"
+    "jpegoptim-debugsource": "jpegoptim"
   }
 }

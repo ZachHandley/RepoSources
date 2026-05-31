@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_24_04",
     "shard": "o",
-    "total_mappings": 241
+    "total_mappings": 240
   },
   "mappings": {
     "oasis": "oasis",
@@ -152,7 +152,6 @@
     "openjdk-25-jre": "openjdk@25",
     "openjdk-25-jre-headless": "openjdk@25",
     "openjdk-25-jre-zero": "openjdk@25",
-    "openjdk-25-jvmci-jdk": "openjdk@25",
     "openjdk-25-source": "openjdk@25",
     "openjdk-25-testsupport": "openjdk@25",
     "openjdk-8": "openjdk@25",

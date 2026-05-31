@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "w",
-    "total_mappings": 144
+    "total_mappings": 145
   },
   "mappings": {
     "w3m": "w3m",
@@ -124,6 +124,7 @@
     "www/spawn-fcgi": "spawn-fcgi",
     "www/sqtop": "sqtop",
     "www/squid": "squid",
+    "www/superhtml": "superhtml",
     "www/surfraw": "surfraw",
     "www/tidy": "tidy-html5",
     "www/tinyproxy": "tinyproxy",

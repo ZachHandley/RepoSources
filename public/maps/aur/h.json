@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "h",
-    "total_mappings": 202
+    "total_mappings": 204
   },
   "mappings": {
     "h2": "h2",
@@ -90,6 +90,7 @@
     "helmsman-git": "helmsman",
     "help2man-git": "help2man",
     "hercules": "hercules",
+    "herdr-bin": "herdr",
     "hermes-agent": "hermes-agent",
     "hermes-agent-git": "hermes-agent",
     "hevi": "hevi",
@@ -130,6 +131,7 @@
     "hishtory-common-bin": "hishtory",
     "hishtory-server": "hishtory",
     "hishtory-server-bin": "hishtory",
+    "hive-bin": "hive",
     "hivemind-bin": "hivemind",
     "hivex-git": "hivex",
     "hk-bin": "hk",

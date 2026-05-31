@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "b",
-    "total_mappings": 41
+    "total_mappings": 42
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -43,6 +43,7 @@
     "btrfs-progs": "btrfs-progs",
     "bubblewrap": "bubblewrap",
     "bullet": "bullet",
+    "bumblebee": "bumblebee",
     "bup": "bup",
     "bvi": "bvi",
     "byacc": "byacc",

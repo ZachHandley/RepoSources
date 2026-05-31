@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "deepin_unstable",
     "shard": "b",
-    "total_mappings": 330
+    "total_mappings": 332
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -325,6 +325,8 @@
     "buildd": "sbuild",
     "buku": "buku",
     "bullet": "bullet",
+    "bumblebee": "bumblebee",
+    "bumblebee-nvidia": "bumblebee",
     "bumpversion": "bumpversion",
     "burp": "burp",
     "burrow": "burrow",

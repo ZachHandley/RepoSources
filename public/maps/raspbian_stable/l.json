@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "l",
-    "total_mappings": 7558
+    "total_mappings": 7560
   },
   "mappings": {
+    "ladder": "ladder",
     "ladspa-sdk": "ladspa-sdk",
     "lager": "lager",
     "lame": "lame",
@@ -3436,6 +3437,9 @@
     "liblzo2-2": "lzo",
     "liblzo2-2-udeb": "lzo",
     "liblzo2-dev": "lzo",
+    "libm4ri": "m4ri",
+    "libm4ri-0.0.20200125": "m4ri",
+    "libm4ri-dev": "m4ri",
     "libmaa": "libmaa",
     "libmaa-dev": "libmaa",
     "libmaa4": "libmaa",
@@ -6348,8 +6352,6 @@
     "libvalijson-dev": "valijson",
     "libvamp-hostsdk3t64": "vamp-plugin-sdk",
     "libvamp-sdk2t64": "vamp-plugin-sdk",
-    "libvarnishapi-dev": "varnish",
-    "libvarnishapi3": "varnish",
     "libvcdinfo-dev": "vcdimager",
     "libvcdinfo0": "vcdimager",
     "libvde-dev": "vde",

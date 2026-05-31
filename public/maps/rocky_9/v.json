@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "v",
-    "total_mappings": 51
+    "total_mappings": 59
   },
   "mappings": {
     "v8-12.4-devel": "node@24",
@@ -17,6 +17,8 @@
     "valadoc": "vala",
     "valadoc-devel": "vala",
     "valgrind": "valgrind",
+    "valgrind-debuginfo": "valgrind",
+    "valgrind-debugsource": "valgrind",
     "valgrind-devel": "valgrind",
     "valgrind-docs": "valgrind",
     "valgrind-gdb": "valgrind",
@@ -51,11 +53,17 @@
     "vte291-devel": "vte3",
     "vulkan-headers": "vulkan-headers",
     "vulkan-loader": "vulkan-loader",
+    "vulkan-loader-debuginfo": "vulkan-loader",
+    "vulkan-loader-debugsource": "vulkan-loader",
     "vulkan-loader-devel": "vulkan-loader",
     "vulkan-tools": "vulkan-tools",
+    "vulkan-tools-debuginfo": "vulkan-tools",
+    "vulkan-tools-debugsource": "vulkan-tools",
     "vulkan-utility-libraries": "vulkan-utility-libraries",
     "vulkan-utility-libraries-devel": "vulkan-utility-libraries",
     "vulkan-validation-layers": "vulkan-validationlayers",
+    "vulkan-validation-layers-debuginfo": "vulkan-validationlayers",
+    "vulkan-validation-layers-debugsource": "vulkan-validationlayers",
     "vulkan-volk": "vulkan-volk",
     "vulkan-volk-devel": "vulkan-volk"
   }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "j",
-    "total_mappings": 191
+    "total_mappings": 189
   },
   "mappings": {
     "jabba": "jabba",
@@ -37,7 +37,6 @@
     "java-15-openjdk": "openjdk@25",
     "java-16-openjdk": "openjdk@25",
     "java-berkeleydb": "berkeley-db@5",
-    "java-jxrlib-git": "jxrlib",
     "java-openjdk-bin": "openjdk@25",
     "java-service-wrapper": "java-service-wrapper",
     "java18-openjdk": "openjdk@25",
@@ -196,7 +195,6 @@
     "jupyterlab-git": "jupyterlab",
     "just-git": "just",
     "jvmtop": "jvmtop",
-    "jxl-oxide": "jxl-oxide",
-    "jxrlib-git": "jxrlib"
+    "jxl-oxide": "jxl-oxide"
   }
 }

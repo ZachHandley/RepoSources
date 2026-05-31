@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "b",
-    "total_mappings": 249
+    "total_mappings": 248
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -27,7 +27,6 @@
     "baresip-debugsource": "baresip",
     "baresip-devel": "baresip",
     "baresip-g722": "baresip",
-    "baresip-g726": "baresip",
     "baresip-gst": "baresip",
     "baresip-gtk": "baresip",
     "baresip-jack": "baresip",

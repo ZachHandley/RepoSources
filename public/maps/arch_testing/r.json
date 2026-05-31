@@ -1,12 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "r",
-    "total_mappings": 1
+    "total_mappings": 7
   },
   "mappings": {
-    "radicle": "radicle"
+    "rabbitmqadmin": "rabbitmqadmin",
+    "rust": "rust",
+    "rust-aarch64-gnu": "rust",
+    "rust-aarch64-musl": "rust",
+    "rust-musl": "rust",
+    "rust-src": "rust",
+    "rust-wasm": "rust"
   }
 }

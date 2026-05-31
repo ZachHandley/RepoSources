@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "l",
-    "total_mappings": 537
+    "total_mappings": 538
   },
   "mappings": {
     "libraries/Botan": "botan@2",
@@ -309,6 +309,7 @@
     "libraries/libquicktime": "libquicktime",
     "libraries/libr3": "r3",
     "libraries/libraqm": "libraqm",
+    "libraries/librdkafka": "librdkafka",
     "libraries/libreadline-java": "libreadline-java",
     "libraries/libreplaygain": "libreplaygain",
     "libraries/librime": "librime",

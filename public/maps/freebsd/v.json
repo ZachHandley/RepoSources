@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "v",
-    "total_mappings": 78
+    "total_mappings": 79
   },
   "mappings": {
     "v": "vlang",
@@ -15,6 +15,7 @@
     "valgrind": "valgrind",
     "valgrind-devel": "valgrind",
     "valkey": "valkey",
+    "valkey8": "valkey",
     "vamp-plugin-sdk": "vamp-plugin-sdk",
     "vampire": "vampire",
     "vapoursynth": "vapoursynth",

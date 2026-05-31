@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "d",
-    "total_mappings": 284
+    "total_mappings": 283
   },
   "mappings": {
     "Dafny": "dafny",
@@ -190,7 +190,6 @@
     "docker-language-server": "docker-language-server",
     "docker-ls": "docker-ls",
     "docker_25": "docker",
-    "docker_28": "docker",
     "docker_29": "docker",
     "dockerfile-language-server": "dockerfile-language-server",
     "dockerfmt": "dockerfmt",

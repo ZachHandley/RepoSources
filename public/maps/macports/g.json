@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "g",
-    "total_mappings": 742
+    "total_mappings": 741
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -529,7 +529,6 @@
     "graphics/jp2a": "jp2a",
     "graphics/jpeg": "jpeg",
     "graphics/jpegoptim": "jpegoptim",
-    "graphics/jxrlib": "jxrlib",
     "graphics/lcms": "little-cms2",
     "graphics/lcms2": "little-cms2",
     "graphics/lensfun": "lensfun",

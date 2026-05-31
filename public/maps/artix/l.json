@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "l",
-    "total_mappings": 745
+    "total_mappings": 746
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -597,6 +597,7 @@
     "libusb": "libusb",
     "libusb-compat": "libusb-compat",
     "libusbmuxd": "libusbmuxd",
+    "libusrsctp": "libusrsctp",
     "libutf8proc": "utf8proc",
     "libuv": "libuv",
     "libva": "libva",

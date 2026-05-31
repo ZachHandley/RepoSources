@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "m",
-    "total_mappings": 84
+    "total_mappings": 85
   },
   "mappings": {
     "m4": "m4",
@@ -50,6 +50,7 @@
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minizinc": "minizinc",
+    "mise": "mise",
     "mkp224o": "mkp224o",
     "mksh": "mksh",
     "mktorrent": "mktorrent",

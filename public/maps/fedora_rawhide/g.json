@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "g",
-    "total_mappings": 1963
+    "total_mappings": 1965
   },
   "mappings": {
     "GMT": "gmt",
@@ -1947,6 +1947,8 @@
     "guile30-devel": "guile",
     "gum": "gum",
     "gumbo-parser": "gumbo-parser",
+    "gumbo-parser-debuginfo": "gumbo-parser",
+    "gumbo-parser-debugsource": "gumbo-parser",
     "gumbo-parser-devel": "gumbo-parser",
     "gumbo-parser-python": "gumbo-parser",
     "gupnp": "gupnp",

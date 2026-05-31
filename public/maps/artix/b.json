@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "b",
-    "total_mappings": 62
+    "total_mappings": 63
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -66,6 +66,7 @@
     "bullet": "bullet",
     "bullet-docs": "bullet",
     "bullet-dp": "bullet",
+    "bumblebee": "bumblebee",
     "byacc": "byacc",
     "bzip2": "bzip2",
     "bzip3": "bzip3"

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "b",
-    "total_mappings": 310
+    "total_mappings": 312
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -302,6 +302,8 @@
     "buku": "buku",
     "bulk-extractor": "bulk_extractor",
     "bullet": "bullet",
+    "bumblebee": "bumblebee",
+    "bumblebee-nvidia": "bumblebee",
     "bumpversion": "bumpversion",
     "bup": "bup",
     "bup-doc": "bup",

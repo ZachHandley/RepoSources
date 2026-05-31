@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "deb_multimedia_unstable",
     "shard": "l",
-    "total_mappings": 293
+    "total_mappings": 294
   },
   "mappings": {
     "lame": "lame",
@@ -125,6 +125,7 @@
     "libextractor-plugin-rpm": "libextractor",
     "libextractor-plugin-thumbnailgtk": "libextractor",
     "libextractor-plugin-tiff": "libextractor",
+    "libextractor-plugin-vlc": "libextractor",
     "libextractor-plugins-all": "libextractor",
     "libextractor-plugins-misc": "libextractor",
     "libextractor3": "libextractor",

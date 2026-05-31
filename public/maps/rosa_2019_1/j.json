@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "j",
-    "total_mappings": 224
+    "total_mappings": 223
   },
   "mappings": {
     "jack": "jack",
@@ -227,7 +227,6 @@
     "jsonrpc-glib-debugsource": "jsonrpc-glib",
     "jthread": "jthread",
     "judy": "judy",
-    "jxrlib": "jxrlib",
     "jython": "jython",
     "jython-demo": "jython",
     "jython-javadoc": "jython"

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "s",
-    "total_mappings": 278
+    "total_mappings": 280
   },
   "mappings": {
     "SIMDe": "simde",
@@ -55,6 +55,7 @@
     "science/misc/imath": "imath",
     "science/misc/libcerf": "libcerf",
     "science/misc/libnova": "libnova",
+    "science/misc/m4ri": "m4ri",
     "science/misc/muparser": "muparser",
     "science/misc/ntl": "ntl",
     "science/misc/opencascade": "opencascade",
@@ -96,6 +97,7 @@
     "sfml": "sfml@2",
     "shaderc": "shaderc",
     "shared-mime-info": "shared-mime-info",
+    "simdjson": "simdjson",
     "simple-scan": "simple-scan",
     "sip": "sip",
     "slang": "s-lang",

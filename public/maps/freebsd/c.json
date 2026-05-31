@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "c",
-    "total_mappings": 387
+    "total_mappings": 389
   },
   "mappings": {
     "Carla": "carla",
@@ -24,6 +24,7 @@
     "cad/gerbv": "gerbv",
     "cad/gmsh": "gmsh",
     "cad/gplcver": "gplcver",
+    "cad/libredwg": "libredwg",
     "cad/ngspice_rework": "libngspice",
     "cad/nvc": "nvc",
     "cad/opencascade": "opencascade",
@@ -364,6 +365,7 @@
     "csfml": "csfml",
     "csmith": "csmith",
     "csound": "csound",
+    "cspice": "cspice",
     "csview": "csview",
     "csvlens": "csvlens",
     "csvq": "csvq",

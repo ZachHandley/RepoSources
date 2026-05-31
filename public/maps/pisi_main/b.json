@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "b",
-    "total_mappings": 23
+    "total_mappings": 24
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -28,6 +28,7 @@
     "btop": "btop",
     "btrfs-progs": "btrfs-progs",
     "bubblewrap": "bubblewrap",
+    "bumblebee": "bumblebee",
     "bzip2": "bzip2",
     "bzip3": "bzip3"
   }

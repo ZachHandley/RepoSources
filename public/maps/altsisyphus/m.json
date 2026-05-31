@@ -1,21 +1,28 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "m",
-    "total_mappings": 473
+    "total_mappings": 480
   },
   "mappings": {
     "Mesa": "mesa",
     "MySQL": "mysql@8.4",
     "MySQL-client": "mysql@8.4",
     "MySQL-client-debuginfo": "mysql@8.4",
+    "MySQL-router": "mysql@8.4",
+    "MySQL-router-debuginfo": "mysql@8.4",
     "MySQL-server": "mysql@8.4",
     "MySQL-server-debuginfo": "mysql@8.4",
     "MySQL-server-perl": "mysql@8.4",
+    "MySQL-shell": "mysql@8.4",
+    "MySQL-shell-debuginfo": "mysql@8.4",
+    "MySQL8.0": "mysql@8.4",
     "m4": "m4",
     "m4-debuginfo": "m4",
+    "m4ri": "m4ri",
+    "m4ri-doc": "m4ri",
     "mac": "mac",
     "mac-debuginfo": "mac",
     "macchanger": "macchanger",

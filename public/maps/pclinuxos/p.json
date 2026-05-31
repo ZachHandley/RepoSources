@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "p",
@@ -101,7 +101,7 @@
     "pv": "pv",
     "pwgen": "pwgen",
     "pymol": "pymol",
-    "pyside": "pyside@2",
+    "pyside": "pyside",
     "python": "python@3.14",
     "python-argcomplete": "python-argcomplete",
     "python-build": "python-build",
@@ -125,7 +125,7 @@
     "python-pybind11": "pybind11",
     "python-pycodestyle": "pycodestyle",
     "python-pyqt-builder": "pyqt-builder",
-    "python-pyside": "pyside@2",
+    "python-pyside": "pyside",
     "python-scipy": "scipy",
     "python-setuptools": "python-setuptools",
     "python-sip": "sip",

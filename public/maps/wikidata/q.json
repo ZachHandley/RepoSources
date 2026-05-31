@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "q",
-    "total_mappings": 1541
+    "total_mappings": 1543
   },
   "mappings": {
     "Q100531088": "texlab",
@@ -573,6 +573,7 @@
     "Q2311792": "splint",
     "Q2318908": "ghc@9.8",
     "Q2326689": "asio",
+    "Q2331162": "libredwg",
     "Q2345395": "ophcrack",
     "Q2351180": "gnu-prolog",
     "Q2355114": "streamripper",
@@ -692,6 +693,7 @@
     "Q28941666": "blogc",
     "Q28941676": "borgbackup",
     "Q28941683": "btrfs-progs",
+    "Q28941699": "bumblebee",
     "Q28956397": "minio",
     "Q28971478": "guetzli",
     "Q28974755": "catch2",

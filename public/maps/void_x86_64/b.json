@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "b",
-    "total_mappings": 135
+    "total_mappings": 137
   },
   "mappings": {
     "Bear": "bear",
@@ -121,6 +121,7 @@
     "bsdiff": "bsdiff",
     "bsdtar": "libarchive",
     "bsdunzip": "libarchive",
+    "btdu": "btdu",
     "btfs": "btfs",
     "btop": "btop",
     "btrfs-progs": "btrfs-progs",
@@ -129,6 +130,7 @@
     "buku": "buku",
     "bullet": "bullet",
     "bullet-devel": "bullet",
+    "bumblebee": "bumblebee",
     "bup": "bup",
     "burp2-client": "burp",
     "burp2-doc": "burp",

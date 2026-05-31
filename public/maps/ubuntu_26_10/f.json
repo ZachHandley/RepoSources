@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "f",
-    "total_mappings": 305
+    "total_mappings": 306
   },
   "mappings": {
     "f3": "f3",
@@ -154,6 +154,7 @@
     "form": "form",
     "form-doc": "form",
     "fortran-language-server": "fortran-language-server",
+    "fortran-stdlib": "fortran-stdlib",
     "fossil": "fossil",
     "foundry": "foundry",
     "foundry-common": "foundry",

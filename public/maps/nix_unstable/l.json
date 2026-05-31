@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "l",
-    "total_mappings": 991
+    "total_mappings": 990
   },
   "mappings": {
     "Lighthouse": "lighthouse",
@@ -447,6 +447,7 @@
     "librealsense-gui": "librealsense",
     "librealsenseWithCuda": "librealsense",
     "librealsenseWithoutCuda": "librealsense",
+    "libredwg": "libredwg",
     "libresample": "libresample",
     "librespot": "librespot",
     "libressl": "libressl",
@@ -647,8 +648,6 @@
     "libuvc": "libuvc",
     "libva": "libva",
     "libva-minimal": "libva",
-    "libva1": "libva",
-    "libva1-minimal": "libva",
     "libvdpau": "libvdpau",
     "libversion": "libversion",
     "libvirt": "libvirt",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "m",
-    "total_mappings": 1040
+    "total_mappings": 1041
   },
   "mappings": {
     "m4-git": "m4",
@@ -350,7 +350,6 @@
     "mingw-w64-json-c": "json-c",
     "mingw-w64-json-glib": "json-glib",
     "mingw-w64-jsoncpp": "jsoncpp",
-    "mingw-w64-jxrlib": "jxrlib",
     "mingw-w64-karchive": "karchive",
     "mingw-w64-kdoctools": "kdoctools",
     "mingw-w64-ki18n": "ki18n",
@@ -813,7 +812,7 @@
     "mips-elf-binutils": "aarch64-elf-binutils",
     "mips-elf-gcc": "gcc@14",
     "mips-linux-binutils-bin": "aarch64-elf-binutils",
-    "mips-linux-gnu-binutils": "aarch64-elf-binutils",
+    "mips-linux-gnu-binutils": "mips-linux-gnu-binutils",
     "mips64-elf-binutils": "aarch64-elf-binutils",
     "mips64-elf-gcc": "gcc@14",
     "mips64-elf-gcc-stage1": "gcc@14",
@@ -1016,6 +1015,8 @@
     "mupdf-git": "mupdf",
     "mupen64plus-git": "mupen64plus",
     "murex": "murex",
+    "musepack-git": "musepack",
+    "musepack-tools-git": "musepack",
     "musepack-tools-svn": "musepack",
     "musikcube": "musikcube",
     "musikcube-bin": "musikcube",

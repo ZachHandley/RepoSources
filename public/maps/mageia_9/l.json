@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "l",
-    "total_mappings": 5579
+    "total_mappings": 5575
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -2550,8 +2550,6 @@
     "libaio": "libaio",
     "libaio-debuginfo": "libaio",
     "libaio-debugsource": "libaio",
-    "libalembic-devel": "alembic",
-    "libalembic1.8": "alembic",
     "liballegro-devel": "allegro",
     "liballegro5.2": "allegro",
     "liballegro_acodec5.2": "allegro",
@@ -3570,8 +3568,6 @@
     "libjxl-tools": "jpeg-xl",
     "libjxl0.7": "jpeg-xl",
     "libjxl_threads0.7": "jpeg-xl",
-    "libjxr-devel": "jxrlib",
-    "libjxr0": "jxrlib",
     "libkate": "libkate",
     "libkate-debuginfo": "libkate",
     "libkate-debugsource": "libkate",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "m",
-    "total_mappings": 192
+    "total_mappings": 191
   },
   "mappings": {
     "m4": "m4",
@@ -24,7 +24,6 @@
     "man-db": "man-db",
     "man-db-dbginfo": "man-db",
     "mariadb": "mariadb",
-    "mariadb-bench": "mariadb@11.8",
     "mariadb-common": "mariadb@11.8",
     "mariadb-dbginfo": "mariadb@11.8",
     "mariadb-devel": "mariadb",

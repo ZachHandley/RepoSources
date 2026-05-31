@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "c",
-    "total_mappings": 206
+    "total_mappings": 209
   },
   "mappings": {
     "CGNS": "cgns",
@@ -139,6 +139,7 @@
     "comms/kermit": "c-kermit",
     "comms/lcdproc": "lcdproc",
     "comms/libhidapi": "hidapi",
+    "comms/liquid-dsp": "liquid-dsp",
     "comms/lrzsz": "lrzsz",
     "comms/minicom": "minicom",
     "comms/minimodem": "minimodem",
@@ -149,6 +150,8 @@
     "comms/sigrok/libsigrok": "libsigrok",
     "comms/sigrok/libsigrokdecode": "libsigrokdecode",
     "comms/sigrok/sigrok-cli": "sigrok-cli",
+    "comms/soapy-hackrf": "soapyhackrf",
+    "comms/soapysdr": "soapysdr",
     "comms/wy60": "wy60",
     "comms/x3270": "x3270",
     "composer": "composer",

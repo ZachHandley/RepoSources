@@ -1,16 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "m",
-    "total_mappings": 246
+    "total_mappings": 248
   },
   "mappings": {
     "MesaLib-devel": "mesa",
     "MoarVM": "moarvm",
     "MultiMarkdown": "multimarkdown",
     "m4": "m4",
+    "m4ri": "m4ri",
+    "m4ri-devel": "m4ri",
     "macchanger": "macchanger",
     "magic-wormhole": "magic-wormhole",
     "mairix": "mairix",

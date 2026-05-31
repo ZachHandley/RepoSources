@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "f",
-    "total_mappings": 310
+    "total_mappings": 309
   },
   "mappings": {
     "FAudio": "faudio",
@@ -312,7 +312,6 @@
     "fwknop-devel": "fwknop",
     "fwupd": "fwupd",
     "fwupd-devel": "fwupd",
-    "fwupd-plugin-flashrom": "fwupd",
     "fwupd-plugin-modem-manager": "fwupd",
     "fwupd-tests": "fwupd",
     "fyaml-utils": "libfyaml",

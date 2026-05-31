@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "m",
-    "total_mappings": 568
+    "total_mappings": 570
   },
   "mappings": {
     "MMTabBarView": "mmtabbarview",
@@ -13,6 +13,7 @@
     "MoarVM": "moarvm",
     "m1ddc": "m1ddc",
     "m4": "m4",
+    "m4ri": "m4ri",
     "m68k-elf-binutils": "m68k-elf-binutils",
     "m68k-elf-gcc": "m68k-elf-gcc",
     "mabel": "mabel",
@@ -193,6 +194,7 @@
     "math/libsvm": "libsvm",
     "math/libtommath": "libtommath",
     "math/lp_solve": "lp_solve",
+    "math/m4ri": "m4ri",
     "math/mallet": "mallet",
     "math/matio": "libmatio",
     "math/maxima": "maxima",

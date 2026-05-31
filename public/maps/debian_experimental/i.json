@@ -1,13 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "i",
-    "total_mappings": 30
+    "total_mappings": 35
   },
   "mappings": {
     "idle-python3.15": "python@3.9",
+    "incus": "incus",
+    "incus-agent": "incus",
+    "incus-base": "incus",
+    "incus-client": "incus",
+    "incus-extra": "incus",
     "input-modules-7.1-alpha-generic-di": "linux-headers@6.8",
     "input-modules-7.1-amd64-di": "linux-headers@6.8",
     "input-modules-7.1-arm64-di,input-modules-7.1-armmp-di": "linux-headers@6.8",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "d",
-    "total_mappings": 280
+    "total_mappings": 281
   },
   "mappings": {
     "Decker": "decker",
@@ -255,7 +255,8 @@
     "duc-debuginfo": "duc",
     "duckdb": "duckdb",
     "duckdb-debuginfo": "duckdb",
-    "duckdb-devel": "duckdb",
+    "duckdb-devel-static": "duckdb",
+    "duckdb-src": "duckdb",
     "duf": "duf",
     "duf-debuginfo": "duf",
     "duff": "duff",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "b",
-    "total_mappings": 145
+    "total_mappings": 151
   },
   "mappings": {
     "Box2D": "box2d",
@@ -71,6 +71,8 @@
     "blas-static": "lapack",
     "bluez": "bluez",
     "bluez-cups": "bluez",
+    "bluez-debuginfo": "bluez",
+    "bluez-debugsource": "bluez",
     "bluez-hid2hci": "bluez",
     "bluez-libs": "bluez",
     "bluez-libs-devel": "bluez",
@@ -139,6 +141,8 @@
     "bsdtar": "libarchive",
     "bubblewrap": "bubblewrap",
     "butane": "butane",
+    "butane-debuginfo": "butane",
+    "butane-debugsource": "butane",
     "butane-redistributable": "butane",
     "byacc": "byacc",
     "byacc-debuginfo": "byacc",
@@ -149,6 +153,8 @@
     "byteman-javadoc": "byteman",
     "byteman-rulecheck-maven-plugin": "byteman",
     "bzip2": "bzip2",
+    "bzip2-debuginfo": "bzip2",
+    "bzip2-debugsource": "bzip2",
     "bzip2-devel": "bzip2",
     "bzip2-libs": "bzip2",
     "bzip2-static": "bzip2"

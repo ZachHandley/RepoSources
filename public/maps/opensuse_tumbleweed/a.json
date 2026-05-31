@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "a",
-    "total_mappings": 537
+    "total_mappings": 535
   },
   "mappings": {
     "AppStream": "appstream",
@@ -265,8 +265,6 @@
     "apptainer-debuginfo": "apptainer",
     "apptainer-debugsource": "apptainer",
     "apptainer-leap": "apptainer",
-    "apptainer-sle15_7": "apptainer",
-    "apptainer-sle16": "apptainer",
     "apr": "apr",
     "apr-debuginfo": "apr",
     "apr-debugsource": "apr",

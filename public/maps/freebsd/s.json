@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "s",
-    "total_mappings": 1068
+    "total_mappings": 1069
   },
   "mappings": {
     "SCIP": "scip",
@@ -155,6 +155,7 @@
     "security/bitwarden-cli": "bitwarden-cli",
     "security/botan3": "botan@2",
     "security/bsdsfv": "bsdsfv",
+    "security/bumblebee": "bumblebee",
     "security/cargo-audit": "cargo-audit",
     "security/ccrypt": "ccrypt",
     "security/cdxgen": "cdxgen",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "slackware64_current",
     "shard": "l",
-    "total_mappings": 196
+    "total_mappings": 198
   },
   "mappings": {
     "LibRaw": "libraw",
@@ -59,6 +59,7 @@
     "libcanberra": "libcanberra",
     "libcap": "libcap",
     "libcap-ng": "libcap-ng",
+    "libcbor": "libcbor",
     "libcddb": "libcddb",
     "libcdio": "libcdio",
     "libcdio-paranoia": "libcdio-paranoia",
@@ -81,6 +82,7 @@
     "libevent": "libevent",
     "libexif": "libexif",
     "libffi": "libffi",
+    "libfido2": "libfido2",
     "libfontenc": "libfontenc",
     "libfyaml": "libfyaml",
     "libgccjit": "libgccjit",

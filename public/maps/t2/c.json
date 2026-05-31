@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "c",
-    "total_mappings": 109
+    "total_mappings": 110
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -87,6 +87,7 @@
     "containerd": "containerd",
     "coreutils": "coreutils",
     "corkscrew": "corkscrew",
+    "corrosion": "corrosion",
     "coturn": "coturn",
     "couchdb": "couchdb",
     "cowsay": "cowsay",

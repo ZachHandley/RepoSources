@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "l",
-    "total_mappings": 253
+    "total_mappings": 256
   },
   "mappings": {
     "lager": "lager",
@@ -31,6 +31,7 @@
     "libavif": "libavif",
     "libb2": "libb2",
     "libbluray": "libbluray",
+    "libbpf": "libbpf",
     "libbson": "mongo-c-driver@1",
     "libcanberra": "libcanberra",
     "libcap": "libcap",
@@ -145,6 +146,7 @@
     "libraqm": "libraqm",
     "libraw": "libraw",
     "librdkafka": "librdkafka",
+    "libredwg": "libredwg",
     "libressl": "libressl",
     "librsvg": "librsvg",
     "librsync": "librsync",
@@ -180,6 +182,7 @@
     "libtomcrypt": "libtomcrypt",
     "libtommath": "libtommath",
     "libtorrent": "libtorrent-rasterbar",
+    "libtwolame": "two-lame",
     "libu2f-server": "libu2f-server",
     "libudfread": "libudfread",
     "libudis86": "udis86",

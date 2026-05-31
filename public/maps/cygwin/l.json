@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "l",
-    "total_mappings": 2770
+    "total_mappings": 2769
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1374,7 +1374,6 @@
     "libicu63": "icu4c@78",
     "libicu67": "icu4c@78",
     "libicu68": "icu4c@78",
-    "libicu69": "icu4c@78",
     "libicu70": "icu4c@78",
     "libicu71": "icu4c@78",
     "libicu72": "icu4c@78",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "b",
-    "total_mappings": 188
+    "total_mappings": 191
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -182,6 +182,9 @@
     "buildapp": "buildapp",
     "buildd": "sbuild",
     "bullet": "bullet",
+    "bumblebee": "bumblebee",
+    "bumblebee-dbg": "bumblebee",
+    "bumblebee-nvidia": "bumblebee",
     "bup": "bup",
     "bup-doc": "bup",
     "burp": "burp",

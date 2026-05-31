@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "almalinux_9",
     "shard": "a",
-    "total_mappings": 144
+    "total_mappings": 147
   },
   "mappings": {
     "a52dec": "a52dec",
@@ -20,6 +20,9 @@
     "adwaita-gtk2-theme": "gnome-themes-extra",
     "adwaita-icon-theme": "adwaita-icon-theme",
     "adwaita-icon-theme-devel": "adwaita-icon-theme",
+    "aide": "aide",
+    "aide-debuginfo": "aide",
+    "aide-debugsource": "aide",
     "alsa-lib": "alsa-lib",
     "alsa-lib-debuginfo": "alsa-lib",
     "alsa-lib-debugsource": "alsa-lib",

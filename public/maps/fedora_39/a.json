@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "a",
-    "total_mappings": 540
+    "total_mappings": 535
   },
   "mappings": {
     "Agda": "agda",
@@ -118,11 +118,6 @@
     "aldo": "aldo",
     "aldo-debuginfo": "aldo",
     "aldo-debugsource": "aldo",
-    "alembic": "alembic",
-    "alembic-debuginfo": "alembic",
-    "alembic-debugsource": "alembic",
-    "alembic-devel": "alembic",
-    "alembic-libs": "alembic",
     "algol68g": "algol68g",
     "algol68g-debuginfo": "algol68g",
     "algol68g-debugsource": "algol68g",

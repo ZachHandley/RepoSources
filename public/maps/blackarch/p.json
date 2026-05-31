@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "p",
@@ -31,8 +31,8 @@
     "python-name-that-hash": "name-that-hash",
     "python-pgcli": "pgcli",
     "python-pillow6": "pillow",
-    "python-pyside": "pyside@2",
-    "python-pyside-common": "pyside@2",
+    "python-pyside": "pyside",
+    "python-pyside-common": "pyside",
     "python-qscintilla-qt4": "qscintilla2",
     "python-qscintilla-qt4-common": "qscintilla2",
     "python-semgrep": "semgrep",
@@ -57,7 +57,7 @@
     "python2-pillow": "pillow",
     "python2-pillow6": "pillow",
     "python2-pycodestyle": "pycodestyle",
-    "python2-pyside": "pyside@2",
+    "python2-pyside": "pyside",
     "python2-pytest": "pytest",
     "python2-qscintilla-qt4": "qscintilla2",
     "python2-scipy": "scipy",

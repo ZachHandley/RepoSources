@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "m",
-    "total_mappings": 111
+    "total_mappings": 101
   },
   "mappings": {
     "macipgw": "netatalk",
@@ -56,12 +56,10 @@
     "maxima-share": "maxima",
     "maxima-src": "maxima",
     "maxima-test": "maxima",
-    "mdds": "mdds",
+    "mbedtls": "mbedtls@3",
     "mdformat": "mdformat",
     "mecab": "mecab",
     "mecab-utils": "mecab",
-    "mediainfo": "media-info",
-    "mediainfo-gui": "media-info",
     "memcached": "memcached",
     "mender-cli": "mender-cli",
     "mercurial": "mercurial",
@@ -75,20 +73,14 @@
     "mesa-vulkan-drivers": "mesa",
     "metview": "metview",
     "metview-data": "metview",
-    "mg": "mg",
     "miller": "miller",
-    "mimalloc": "mimalloc",
     "mimic": "mimic",
     "mimic-dkms": "mimic",
     "miniflux": "miniflux",
     "minilzip": "lzlib",
-    "minizinc": "minizinc",
-    "mkvtoolnix": "mkvtoolnix",
-    "mkvtoolnix-gui": "mkvtoolnix",
-    "mle": "mle",
+    "miniserve": "miniserve",
     "mlir-22-tools": "llvm@21",
     "mmdb-bin": "libmaxminddb",
-    "modules": "modules",
     "mold": "mold",
     "mongo-c-driver": "mongo-c-driver@1",
     "mono": "mono",
@@ -108,15 +100,13 @@
     "mpg123": "mpg123",
     "mpich": "mpich",
     "mpich-doc": "mpich",
-    "msolve": "msolve",
-    "mstch": "mstch",
     "mtp-tools": "libmtp",
+    "mtr": "mtr",
+    "mtr-tiny": "mtr",
     "mxml": "libmxml",
-    "mycli": "mycli",
     "mydumper": "mydumper",
     "mydumper-doc": "mydumper",
     "mypy": "mypy",
-    "mypy-doc": "mypy",
-    "mysql++": "mysql++"
+    "mypy-doc": "mypy"
   }
 }

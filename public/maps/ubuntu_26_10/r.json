@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "r",
-    "total_mappings": 269
+    "total_mappings": 270
   },
   "mappings": {
     "r-base": "r",
@@ -45,6 +45,7 @@
     "rasterlite2-bin": "librasterlite2",
     "ratfor": "ratfor",
     "rav1e": "rav1e",
+    "raylib": "raylib",
     "rbenv": "rbenv",
     "rbldns": "djbdns",
     "rbw": "rbw",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_24_04",
     "shard": "b",
-    "total_mappings": 258
+    "total_mappings": 260
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -249,6 +249,8 @@
     "buildd": "sbuild",
     "buku": "buku",
     "bullet": "bullet",
+    "bumblebee": "bumblebee",
+    "bumblebee-nvidia": "bumblebee",
     "bumpversion": "bumpversion",
     "bup": "bup",
     "bup-doc": "bup",

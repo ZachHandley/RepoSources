@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "b",
-    "total_mappings": 197
+    "total_mappings": 203
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -46,7 +46,6 @@
     "baresip-debugsource": "baresip",
     "baresip-devel": "baresip",
     "baresip-g722": "baresip",
-    "baresip-g726": "baresip",
     "baresip-gst": "baresip",
     "baresip-gtk": "baresip",
     "baresip-jack": "baresip",
@@ -193,6 +192,13 @@
     "btrfs-progs-debuginfo": "btrfs-progs",
     "btrfs-progs-debugsource": "btrfs-progs",
     "btrfs-progs-devel": "btrfs-progs",
+    "bullet": "bullet",
+    "bullet-debuginfo": "bullet",
+    "bullet-debugsource": "bullet",
+    "bullet-devel": "bullet",
+    "bullet-devel-doc": "bullet",
+    "bullet-extras": "bullet",
+    "bullet-extras-devel": "bullet",
     "bumpversion": "bumpversion",
     "byobu": "byobu",
     "bzip3": "bzip3",

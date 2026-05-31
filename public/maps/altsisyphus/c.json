@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "c",
-    "total_mappings": 674
+    "total_mappings": 676
   },
   "mappings": {
     "CFR": "cfr-decompiler",
@@ -555,6 +555,8 @@
     "cowsay": "cowsay",
     "cowsay-offensive": "cowsay",
     "cowsay-soft": "cowsay",
+    "cozypkg": "cozypkg",
+    "cozypkg-debuginfo": "cozypkg",
     "cpio": "cpio",
     "cpio-debuginfo": "cpio",
     "cpio-static": "cpio",

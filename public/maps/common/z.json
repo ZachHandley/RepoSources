@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "z",
-    "total_mappings": 1066
+    "total_mappings": 1062
   },
   "mappings": {
     "Z shell": "zsh",
@@ -81,7 +81,6 @@
     "zabbix-agent2-debuginfo": "zabbix",
     "zabbix-agent2-openrc": "zabbix",
     "zabbix-agentd": "zabbix",
-    "zabbix-agentd-basic": "zabbix",
     "zabbix-agentd-gnutls": "zabbix",
     "zabbix-agentd-openssl": "zabbix",
     "zabbix-cli": "zabbix-cli",
@@ -101,7 +100,6 @@
     "zabbix-extra-wifi": "zabbix",
     "zabbix-frontend": "zabbix",
     "zabbix-frontend-php": "zabbix",
-    "zabbix-frontend-server": "zabbix",
     "zabbix-get": "zabbix",
     "zabbix-get-gnutls": "zabbix",
     "zabbix-get-openssl": "zabbix",
@@ -133,7 +131,6 @@
     "zabbix-phpfrontend-php8.4": "zabbix",
     "zabbix-phpfrontend-php8.5": "zabbix",
     "zabbix-proxy": "zabbix",
-    "zabbix-proxy-basic-sqlite": "zabbix",
     "zabbix-proxy-common": "zabbix",
     "zabbix-proxy-debuginfo": "zabbix",
     "zabbix-proxy-gnutls": "zabbix",
@@ -475,7 +472,6 @@
     "zh-ttf2pt1": "ttf2pt1",
     "zig": "zig",
     "zig (Install)": "zig@0.15",
-    "zig-0.16-bin": "zig@0.15",
     "zig-bin": "zig@0.15",
     "zig-checkinstall": "zig@0.15",
     "zig-dbginfo": "zig@0.15",

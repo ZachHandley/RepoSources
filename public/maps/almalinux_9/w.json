@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "almalinux_9",
     "shard": "w",
-    "total_mappings": 49
+    "total_mappings": 50
   },
   "mappings": {
     "wavpack": "wavpack",
@@ -41,6 +41,7 @@
     "wireplumber-debuginfo": "wireplumber",
     "wireplumber-debugsource": "wireplumber",
     "wireplumber-devel": "wireplumber",
+    "wireplumber-doc": "wireplumber",
     "wireplumber-libs": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-cli": "wireshark",

@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "l",
-    "total_mappings": 989
+    "total_mappings": 994
   },
   "mappings": {
     "lab": "lab",
+    "ladder": "ladder",
     "ladspa": "ladspa-sdk",
     "ladybug": "ladybug",
     "lager": "lager",
@@ -72,7 +73,6 @@
     "lang/gcc17-devel": "gcc@14",
     "lang/gforth": "gforth",
     "lang/ghc": "ghc@9.8",
-    "lang/ghc94": "ghc@9.8",
     "lang/ghc96": "ghc@9.8",
     "lang/ghc98": "ghc@9.8",
     "lang/gjs": "gjs",
@@ -113,6 +113,7 @@
     "lang/lua52": "lua@5.4",
     "lang/lua53": "lua@5.4",
     "lang/lua54": "lua@5.4",
+    "lang/lua55": "lua@5.4",
     "lang/luajit": "luajit",
     "lang/luajit-openresty": "luajit-openresty",
     "lang/malbolge": "malbolge",
@@ -577,6 +578,7 @@
     "libraw": "libraw",
     "librdkafka": "librdkafka",
     "libreadline-java": "libreadline-java",
+    "libredwg": "libredwg",
     "librespot": "librespot",
     "libressl": "libressl",
     "libressl-devel": "libressl",
@@ -974,6 +976,9 @@
     "lua54": "lua@5.4",
     "lua54-lpeg": "lpeg",
     "lua54-luarocks": "luarocks",
+    "lua55": "lua@5.4",
+    "lua55-lpeg": "lpeg",
+    "lua55-luarocks": "luarocks",
     "luajit": "luajit",
     "luajit-openresty": "luajit-openresty",
     "luit": "luit",

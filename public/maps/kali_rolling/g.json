@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "g",
-    "total_mappings": 1934
+    "total_mappings": 1932
   },
   "mappings": {
     "g++-12": "gcc@14",
@@ -766,8 +766,6 @@
     "gedit": "gedit",
     "gedit-common": "gedit",
     "gedit-dev": "gedit",
-    "geeqie": "geeqie",
-    "geeqie-common": "geeqie",
     "gegl": "gegl",
     "gemini-cli": "gemini-cli",
     "gemmi": "gemmi",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "x",
-    "total_mappings": 122
+    "total_mappings": 121
   },
   "mappings": {
     "x11proto-core-dev": "xorgproto",
@@ -91,7 +91,6 @@
     "xplanet": "xplanet",
     "xplanet-images": "xplanet",
     "xpmutils": "libxpm",
-    "xq": "xq",
     "xrootd": "xrootd",
     "xrootd-ceph-plugins": "xrootd",
     "xrootd-client": "xrootd",

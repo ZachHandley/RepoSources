@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "m",
-    "total_mappings": 170
+    "total_mappings": 172
   },
   "mappings": {
     "m4": "m4",
+    "m4ri": "m4ri",
     "macchanger": "macchanger",
     "macchina": "macchina",
     "mado": "mado",
@@ -49,6 +50,7 @@
     "maxima-sbcl": "maxima",
     "mbedtls": "mbedtls@3",
     "mbedtls2": "mbedtls@3",
+    "mbedtls3": "mbedtls@3",
     "mbelib": "mbelib",
     "mc": "midnight-commander",
     "mc-debug": "midnight-commander",

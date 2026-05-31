@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "b",
-    "total_mappings": 353
+    "total_mappings": 356
   },
   "mappings": {
     "babelfish": "babelfish",
@@ -321,6 +321,8 @@
     "bsdiff": "bsdiff",
     "bstring": "bstring",
     "btcli": "btcli",
+    "btdu": "btdu",
+    "btdu-bin": "btdu",
     "btfs-git": "btfs",
     "btllib": "btllib",
     "btop-git": "btop",
@@ -340,6 +342,7 @@
     "buku-git": "buku",
     "bullet-docs-git": "bullet",
     "bullet-git": "bullet",
+    "bumblebee-git": "bumblebee",
     "bundletool": "bundletool",
     "bundletool-git": "bundletool",
     "bunster": "bunster",

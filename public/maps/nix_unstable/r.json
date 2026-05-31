@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "r",
-    "total_mappings": 241
+    "total_mappings": 242
   },
   "mappings": {
     "R": "r",
@@ -37,6 +37,7 @@
     "ratchet": "ratchet",
     "rathole": "rathole",
     "rattler-build": "rattler-build",
+    "ratty": "ratty",
     "rav1e": "rav1e",
     "raylib": "raylib",
     "rbenv": "rbenv",

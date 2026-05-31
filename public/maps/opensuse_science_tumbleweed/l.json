@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "l",
-    "total_mappings": 309
+    "total_mappings": 314
   },
   "mappings": {
     "lammps": "lammps",
@@ -173,6 +173,11 @@
     "libldl-doc": "suite-sparse",
     "libldl3": "suite-sparse",
     "liblog4cpp5": "log4cpp",
+    "libm4ri": "m4ri",
+    "libm4ri-debuginfo": "m4ri",
+    "libm4ri-debugsource": "m4ri",
+    "libm4ri-devel": "m4ri",
+    "libm4ri2": "m4ri",
     "libmaeparser1": "maeparser",
     "libmatio-devel": "libmatio",
     "libmatio14": "libmatio",

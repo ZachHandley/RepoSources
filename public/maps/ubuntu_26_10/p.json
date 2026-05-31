@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "p",
-    "total_mappings": 823
+    "total_mappings": 825
   },
   "mappings": {
     "p0f": "p0f",
@@ -177,6 +177,7 @@
     "picard-tools": "picard-tools",
     "pick": "pick",
     "picocom": "picocom",
+    "picotool": "picotool",
     "pidcat": "pidcat",
     "pidgin": "pidgin",
     "pidgin-data": "pidgin",
@@ -377,6 +378,7 @@
     "proxytunnel": "proxytunnel",
     "prs": "prs",
     "ps2eps": "ps2eps",
+    "psftools": "psftools",
     "pskctool": "oath-toolkit",
     "psl": "libpsl",
     "psl-make-dafsa": "libpsl",
@@ -527,7 +529,6 @@
     "python3-adios2": "adios2",
     "python3-adios2-mpi": "adios2",
     "python3-adios2-serial": "adios2",
-    "python3-alembic": "alembic",
     "python3-antlr": "antlr",
     "python3-argcomplete": "python-argcomplete",
     "python3-aubio": "aubio",
@@ -766,6 +767,7 @@
     "python3-spexpy": "suite-sparse",
     "python3-spglib": "spglib",
     "python3-sphinxbase": "cmu-pocketsphinx",
+    "python3-sqlfmt": "sqlfmt",
     "python3-sqlparse": "sqlparse",
     "python3-streamlink": "streamlink",
     "python3-streamlink-doc": "streamlink",

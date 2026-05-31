@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "s",
-    "total_mappings": 261
+    "total_mappings": 264
   },
   "mappings": {
     "samba4-admin": "samba",
@@ -130,9 +130,12 @@
     "smartmontools-drivedb": "smartmontools",
     "sngrep": "sngrep",
     "snmp-mibs": "net-snmp",
-    "snmp-utils": "net-snmp",
-    "snmpd": "net-snmp",
-    "snmptrapd": "net-snmp",
+    "snmp-utils-nossl": "net-snmp",
+    "snmp-utils-ssl": "net-snmp",
+    "snmpd-nossl": "net-snmp",
+    "snmpd-ssl": "net-snmp",
+    "snmptrapd-nossl": "net-snmp",
+    "snmptrapd-ssl": "net-snmp",
     "snort3": "snort",
     "snowflake-broker": "snowflake",
     "snowflake-client": "snowflake",

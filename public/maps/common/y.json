@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "y",
-    "total_mappings": 360
+    "total_mappings": 361
   },
   "mappings": {
     "YAFC": "yafc",
@@ -45,6 +45,7 @@
     "yadm-man": "yadm",
     "yadm-zsh-completion": "yadm",
     "yadm-zshcomp": "yadm",
+    "yadmMinimal": "yadm",
     "yaegi": "yaegi",
     "yaf": "yaf",
     "yafc": "yafc",

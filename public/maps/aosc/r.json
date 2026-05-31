@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "r",
-    "total_mappings": 904
+    "total_mappings": 905
   },
   "mappings": {
     "r": "r",
@@ -853,6 +853,7 @@
     "runtime-scientific/libnova": "libnova",
     "runtime-scientific/libqalculate": "libqalculate",
     "runtime-scientific/libtommath": "libtommath",
+    "runtime-scientific/m4ri": "m4ri",
     "runtime-scientific/matio": "libmatio",
     "runtime-scientific/mpfi": "mpfi",
     "runtime-scientific/netcdf": "netcdf",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "p",
-    "total_mappings": 906
+    "total_mappings": 908
   },
   "mappings": {
     "p0f": "p0f",
@@ -678,6 +678,7 @@
     "python3-genometools": "genometools",
     "python3-gensio": "gensio",
     "python3-getdns": "getdns",
+    "python3-gexiv2": "gexiv2",
     "python3-gguf": "llama.cpp",
     "python3-gi": "pygobject3",
     "python3-gi-cairo": "pygobject3",
@@ -866,6 +867,7 @@
     "python3-uhd": "uhd",
     "python3-unbound": "unbound",
     "python3-unicorn": "unicorn",
+    "python3-uv-build": "uv",
     "python3-uvicorn": "uvicorn",
     "python3-virtualenv": "virtualenv",
     "python3-virtualenvwrapper": "virtualenvwrapper",

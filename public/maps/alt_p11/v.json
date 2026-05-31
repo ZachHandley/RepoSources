@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "v",
-    "total_mappings": 135
+    "total_mappings": 138
   },
   "mappings": {
     "vala": "vala",
@@ -53,7 +53,10 @@
     "vice": "vice",
     "vice-debuginfo": "vice",
     "victorialogs": "victorialogs",
+    "victorialogs-common": "victorialogs",
     "victorialogs-debuginfo": "victorialogs",
+    "victorialogs-vlagent": "victorialogs",
+    "victorialogs-vlagent-debuginfo": "victorialogs",
     "victoriametrics": "victoriametrics",
     "victoriametrics-common": "victoriametrics",
     "victoriametrics-debuginfo": "victoriametrics",

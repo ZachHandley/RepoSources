@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "l",
@@ -306,7 +306,7 @@
     "liblcms2-doc": "little-cms2",
     "liblilv-0-0": "lilv",
     "liblilv-0-devel": "lilv",
-    "libliveMedia117": "openrtsp",
+    "libliveMedia118": "openrtsp",
     "liblo": "liblo",
     "liblo-debuginfo": "liblo",
     "liblo-debugsource": "liblo",

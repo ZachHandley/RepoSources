@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "a",
-    "total_mappings": 157
+    "total_mappings": 156
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -39,7 +39,6 @@
     "aichat": "aichat",
     "aircrack-ng": "aircrack-ng",
     "airspy": "airspy",
-    "alembic": "alembic",
     "algernon": "algernon",
     "algol68g": "algol68g",
     "algol68g-doc": "algol68g",

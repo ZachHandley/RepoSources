@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "s",
-    "total_mappings": 599
+    "total_mappings": 598
   },
   "mappings": {
     "s-nail-git": "s-nail",
@@ -186,8 +186,7 @@
     "sherlock-git": "sherlock",
     "shibboleth-sp": "shibboleth-sp",
     "shimmy": "shimmy",
-    "shimmy-cpu": "shimmy",
-    "shimmy-gpu": "shimmy",
+    "shimmy-bin": "shimmy",
     "shmux": "shmux",
     "shntool": "shntool",
     "shtool": "shtool",

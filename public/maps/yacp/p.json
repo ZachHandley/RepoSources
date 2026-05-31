@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "p",
-    "total_mappings": 75
+    "total_mappings": 76
   },
   "mappings": {
     "PEGTL": "pegtl",
@@ -74,6 +74,7 @@
     "python39-lcm": "lcm",
     "python39-libesedb": "libesedb",
     "python39-libewf": "libewf",
+    "python39-libredwg": "libredwg",
     "python39-lilv": "lilv",
     "python39-log4cplus": "log4cplus",
     "python39-nanopb": "nanopb",

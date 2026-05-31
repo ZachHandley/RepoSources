@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "e",
-    "total_mappings": 175
+    "total_mappings": 176
   },
   "mappings": {
     "e2fsck-static": "e2fsprogs",
@@ -134,6 +134,7 @@
     "erofs-utils": "erofs-utils",
     "erofsfuse": "erofs-utils",
     "esbuild": "esbuild",
+    "esbuild-wasm": "esbuild",
     "eslint": "eslint",
     "espeak": "espeak",
     "espeak-data": "espeak",

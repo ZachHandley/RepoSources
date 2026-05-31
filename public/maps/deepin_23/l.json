@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-05-31T05:21:32Z",
     "source": "repology-dump",
     "distro": "deepin_23",
     "shard": "l",
-    "total_mappings": 5282
+    "total_mappings": 5278
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -2144,10 +2144,6 @@
     "libjxl-devtools": "jpeg-xl",
     "libjxl-tools": "jpeg-xl",
     "libjxl0.7": "jpeg-xl",
-    "libjxr-dbg": "jxrlib",
-    "libjxr-dev": "jxrlib",
-    "libjxr-tools": "jxrlib",
-    "libjxr0": "jxrlib",
     "libk5crypto3": "krb5",
     "libkadm5clnt-mit12": "krb5",
     "libkadm5clnt7-heimdal": "heimdal",
