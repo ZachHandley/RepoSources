@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-07T06:16:43Z",
+    "source": "repology-dump",
+    "distro": "nix_stable_26_05",
+    "shards": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h",
+      "i",
+      "j",
+      "k",
+      "l",
+      "m",
+      "n",
+      "o",
+      "p",
+      "q",
+      "r",
+      "s",
+      "t",
+      "u",
+      "v",
+      "w",
+      "x",
+      "y",
+      "z",
+      "_misc"
+    ],
+    "total_mappings": 7487
+  }
+}

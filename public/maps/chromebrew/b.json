@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "b",
-    "total_mappings": 32
+    "total_mappings": 34
   },
   "mappings": {
     "babl": "babl",
@@ -29,6 +29,7 @@
     "bitcoin_core": "bitcoin",
     "blueprint_compiler": "blueprint-compiler",
     "bmon": "bmon",
+    "bochs": "bochs",
     "boost": "boost",
     "broot": "broot",
     "brotli": "brotli",
@@ -36,6 +37,7 @@
     "btrfs_progs": "btrfs-progs",
     "bubblewrap": "bubblewrap",
     "bullet": "bullet",
+    "bun": "bun",
     "byobu": "byobu",
     "bzip2": "bzip2",
     "bzip3": "bzip3"

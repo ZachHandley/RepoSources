@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "w",
-    "total_mappings": 104
+    "total_mappings": 109
   },
   "mappings": {
     "w3m": "w3m",
@@ -95,6 +95,11 @@
     "wireshark": "wireshark",
     "wireshark-doc": "wireshark",
     "wireshark-man": "wireshark",
+    "wl-clipboard": "wl-clipboard",
+    "wl-clipboard-bashcomp": "wl-clipboard",
+    "wl-clipboard-fishcomp": "wl-clipboard",
+    "wl-clipboard-man": "wl-clipboard",
+    "wl-clipboard-zshcomp": "wl-clipboard",
     "woff2": "woff2",
     "woff2-devel": "woff2",
     "woff2-doc": "woff2",

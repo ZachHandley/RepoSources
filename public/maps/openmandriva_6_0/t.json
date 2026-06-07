@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_6_0",
     "shard": "t",
@@ -261,7 +261,7 @@
     "tinycdb": "tinycdb",
     "tinysparql": "tinysparql",
     "tinysparql-vala": "tinysparql",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tkinter": "python@3.9",
     "tkinter-apps": "python@3.9",

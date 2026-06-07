@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "g",
     "total_mappings": 2
   },
   "mappings": {
-    "gemini-cli": "gemini-cli",
-    "gitea-runner": "gitea-runner"
+    "gleam": "gleam",
+    "grafana": "grafana"
   }
 }

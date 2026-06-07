@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "c",
-    "total_mappings": 579
+    "total_mappings": 580
   },
   "mappings": {
     "c": "c",
@@ -20,6 +20,7 @@
     "cabocha": "cabocha",
     "caddy-cloudflare": "caddy",
     "caddy-cloudflare-l4": "caddy",
+    "caddy-custom": "caddy",
     "caddy-desec": "caddy",
     "caddy-dnspod": "caddy",
     "caddy-git": "caddy",
@@ -30,6 +31,7 @@
     "caddy-naiveproxy": "caddy",
     "caddy-naiveproxy-bin": "caddy",
     "caddy-naiveproxy-trojan": "caddy",
+    "caddy-ratelimit": "caddy",
     "caddy-trojan": "caddy",
     "cadical": "cadical",
     "cafeobj": "cafeobj",
@@ -306,7 +308,6 @@
     "cloud-nuke-bin": "cloud-nuke",
     "cloud-sql-proxy": "cloud-sql-proxy",
     "cloud-sql-proxy-bin": "cloud-sql-proxy",
-    "cloudflare-speed-cli-bin": "cloudflare-speed-cli",
     "cloudflare-wrangler": "cloudflare-wrangler",
     "cloudflared-bin": "cloudflared",
     "cloudflared-git": "cloudflared",

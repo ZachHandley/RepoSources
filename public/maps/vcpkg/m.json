@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "m",
-    "total_mappings": 41
+    "total_mappings": 42
   },
   "mappings": {
     "magic-enum": "magic_enum",
@@ -24,6 +24,7 @@
     "mimalloc": "mimalloc",
     "miniaudio": "miniaudio",
     "miniupnpc": "miniupnpc",
+    "miniz": "miniz",
     "minizip": "minizip",
     "minizip-ng": "minizip-ng",
     "mlpack": "mlpack",

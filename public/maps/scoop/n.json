@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "n",
-    "total_mappings": 53
+    "total_mappings": 54
   },
   "mappings": {
     "nali": "nali",
@@ -31,6 +31,7 @@
     "nicotine-plus": "nicotine-plus",
     "nim": "nim",
     "ninja": "ninja",
+    "nip4": "nip4",
     "nixpacks": "nixpacks",
     "nmap": "nmap",
     "nodejs": "node@24",

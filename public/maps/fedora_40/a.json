@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_40",
     "shard": "a",
@@ -181,7 +181,7 @@
     "angband-debuginfo": "angband",
     "angband-debugsource": "angband",
     "angband-doc": "angband",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-builder": "ansible-builder",
     "ansible-lint": "ansible-lint",
     "ansifilter": "ansifilter",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "m",
-    "total_mappings": 114
+    "total_mappings": 116
   },
   "mappings": {
     "misc/abduco": "abduco",
@@ -63,6 +63,7 @@
     "misc/utimer": "utimer",
     "misc/vttest": "vttest",
     "misc/with-readline": "with-readline",
+    "misc/wl-clipboard": "wl-clipboard",
     "misc/xapian-omega": "omega",
     "misc/xclip": "xclip",
     "misc/xdelta": "xdelta",
@@ -112,6 +113,7 @@
     "multimedia/tivodecode": "tivodecode",
     "multimedia/tsduck": "tsduck",
     "multimedia/vapoursynth": "vapoursynth",
+    "multimedia/vapoursynth-mvtools": "vapoursynth-mvtools",
     "multimedia/vcdimager": "vcdimager",
     "multimedia/vo-amrwbenc": "vo-amrwbenc",
     "multimedia/vvdec": "vvdec",

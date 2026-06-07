@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "r",
-    "total_mappings": 279
+    "total_mappings": 280
   },
   "mappings": {
     "r-mkl": "r",
@@ -207,7 +207,6 @@
     "rsgain-git": "rsgain",
     "rshijack-git": "rshijack",
     "rsync-git": "rsync",
-    "rsync-reflink": "rsync",
     "rsyncy-bin": "rsyncy",
     "rsyslog": "rsyslog",
     "rtags": "rtags",
@@ -239,6 +238,8 @@
     "runitor-bin": "runitor",
     "runitor-git": "runitor",
     "runme": "runme",
+    "rura-bin": "rura",
+    "rura-git": "rura",
     "rush": "rush",
     "rust-aarch64-gnu-git": "rust",
     "rust-aarch64-musl-git": "rust",

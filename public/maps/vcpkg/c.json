@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "c",
-    "total_mappings": 78
+    "total_mappings": 77
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -61,7 +61,6 @@
     "cpp-peglib": "cpp-peglib",
     "cppad": "cppad",
     "cppcms": "cppcms",
-    "cpprestsdk": "cpprestsdk",
     "cpptoml": "cpptoml",
     "cpptrace": "cpptrace",
     "cppunit": "cppunit",

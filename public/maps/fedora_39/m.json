@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "m",
-    "total_mappings": 1618
+    "total_mappings": 1627
   },
   "mappings": {
     "m4": "m4",
@@ -15,6 +15,11 @@
     "m4ri-debugsource": "m4ri",
     "m4ri-devel": "m4ri",
     "m4ri-static": "m4ri",
+    "m4rie": "m4rie",
+    "m4rie-debuginfo": "m4rie",
+    "m4rie-debugsource": "m4rie",
+    "m4rie-devel": "m4rie",
+    "m4rie-static": "m4rie",
     "mac": "mac",
     "mac-debuginfo": "mac",
     "mac-debugsource": "mac",
@@ -1344,6 +1349,10 @@
     "miniupnpc-debuginfo": "miniupnpc",
     "miniupnpc-debugsource": "miniupnpc",
     "miniupnpc-devel": "miniupnpc",
+    "miniz": "miniz",
+    "miniz-debuginfo": "miniz",
+    "miniz-debugsource": "miniz",
+    "miniz-devel": "miniz",
     "minizip-compat": "minizip",
     "minizip-compat-devel": "minizip",
     "minizip-ng": "minizip-ng",

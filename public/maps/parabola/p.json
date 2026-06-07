@@ -1,17 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "p",
-    "total_mappings": 338
+    "total_mappings": 336
   },
   "mappings": {
     "p0f": "p0f",
     "p11-kit": "p11-kit",
     "p11-kit-docs": "p11-kit",
-    "p7zip": "p7zip",
-    "p7zip-debug": "p7zip",
     "pacparser": "pacparser",
     "pam": "linux-pam",
     "pam-u2f": "pam-u2f",

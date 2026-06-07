@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "r",
-    "total_mappings": 905
+    "total_mappings": 907
   },
   "mappings": {
     "r": "r",
@@ -224,8 +224,8 @@
     "runtime-common/tbb": "tbb",
     "runtime-common/tclap": "tclap",
     "runtime-common/tevent": "tevent",
-    "runtime-common/tinyxml": "tinyxml",
-    "runtime-common/tinyxml2": "tinyxml",
+    "runtime-common/tinyxml": "tinyxml2",
+    "runtime-common/tinyxml2": "tinyxml2",
     "runtime-common/tl-expected": "tl-expected",
     "runtime-common/tllist": "tllist",
     "runtime-common/ucl": "ucl",
@@ -590,6 +590,7 @@
     "runtime-multimedia/sdl-gfx": "sdl_gfx",
     "runtime-multimedia/sdl12-compat": "sdl12-compat",
     "runtime-multimedia/sdl2": "sdl2",
+    "runtime-multimedia/sdl2-compat": "sdl2-compat",
     "runtime-multimedia/sdl2-gfx": "sdl2_gfx",
     "runtime-multimedia/sdl2-image": "sdl2_image",
     "runtime-multimedia/sdl2-mixer": "sdl2_mixer",
@@ -854,6 +855,7 @@
     "runtime-scientific/libqalculate": "libqalculate",
     "runtime-scientific/libtommath": "libtommath",
     "runtime-scientific/m4ri": "m4ri",
+    "runtime-scientific/m4rie": "m4rie",
     "runtime-scientific/matio": "libmatio",
     "runtime-scientific/mpfi": "mpfi",
     "runtime-scientific/netcdf": "netcdf",

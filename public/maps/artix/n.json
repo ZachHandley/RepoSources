@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "n",
-    "total_mappings": 70
+    "total_mappings": 71
   },
   "mappings": {
     "nano": "nano",
@@ -68,6 +68,7 @@
     "nss": "nss",
     "nsync": "nsync",
     "ntfs-3g": "ntfs-3g",
+    "ntfsprogs": "ntfs-3g",
     "ntp": "ntp",
     "nuget": "nuget",
     "numactl": "numactl",

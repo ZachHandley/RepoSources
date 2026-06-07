@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "r",
-    "total_mappings": 287
+    "total_mappings": 290
   },
   "mappings": {
     "R-base": "r",
@@ -278,6 +278,7 @@
     "rust-cargo-c": "cargo-c",
     "rust-cargo-c-debuginfo": "cargo-c",
     "rust-doc": "rust",
+    "rust-full": "rust",
     "rust-gdb": "rust",
     "rust-i686-unknown-linux-gnu-target": "rust",
     "rust-src": "rust",
@@ -288,6 +289,8 @@
     "rustfmt": "rust",
     "rustic": "rustic",
     "rustic-debuginfo": "rustic",
+    "rustup": "rustup",
+    "rustup-debuginfo": "rustup",
     "rv": "linux-headers@6.8",
     "rv-debuginfo": "linux-headers@6.8",
     "rxvt-unicode": "rxvt-unicode",

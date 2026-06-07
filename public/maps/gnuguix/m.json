@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "m",
-    "total_mappings": 153
+    "total_mappings": 155
   },
   "mappings": {
     "m4": "m4",
     "m4ri": "m4ri",
+    "m4rie": "m4rie",
     "macchanger": "macchanger",
     "macchina": "macchina",
     "maeparser": "maeparser",
@@ -87,6 +88,7 @@
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minixml": "libmxml",
+    "miniz": "miniz",
     "minizinc": "minizinc",
     "minizip": "minizip",
     "minizip-ng": "minizip-ng",

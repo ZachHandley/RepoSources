@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "l",
@@ -2335,9 +2335,9 @@
     "libtiff-devel": "libtiff",
     "libtiff6": "libtiff",
     "libtiff7": "libtiff",
-    "libtinyxml2-devel": "tinyxml",
-    "libtinyxml2_5": "tinyxml",
-    "libtinyxml2_6": "tinyxml",
+    "libtinyxml2-devel": "tinyxml2",
+    "libtinyxml2_5": "tinyxml2",
+    "libtinyxml2_6": "tinyxml2",
     "libtirpc": "libtirpc",
     "libtirpc-common": "libtirpc",
     "libtirpc-debuginfo": "libtirpc",

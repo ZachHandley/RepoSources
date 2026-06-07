@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "m",
-    "total_mappings": 165
+    "total_mappings": 167
   },
   "mappings": {
     "m4": "m4",
     "m4ri": "m4ri",
+    "m4rie": "m4rie",
     "mac": "mac",
     "macchanger": "macchanger",
     "macchina": "macchina",
@@ -102,6 +103,7 @@
     "miniserve": "miniserve",
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
+    "miniz": "miniz",
     "minizip": "minizip",
     "minizip-ng": "minizip-ng",
     "mise": "mise",

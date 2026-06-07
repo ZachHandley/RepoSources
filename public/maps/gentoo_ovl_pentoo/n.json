@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_pentoo",
     "shard": "n",
-    "total_mappings": 29
+    "total_mappings": 31
   },
   "mappings": {
     "net-analyzer/amass": "amass",
     "net-analyzer/bettercap": "bettercap",
     "net-analyzer/fierce": "fierce",
     "net-analyzer/gobuster": "gobuster",
+    "net-analyzer/katana": "katana",
     "net-analyzer/legba-bin": "legba",
     "net-analyzer/masscan": "masscan",
     "net-analyzer/massdns": "massdns",
@@ -18,6 +19,7 @@
     "net-analyzer/ncrack": "ncrack",
     "net-analyzer/nuclei": "nuclei",
     "net-analyzer/nuclei-bin": "nuclei",
+    "net-analyzer/pius": "pius",
     "net-analyzer/pwncat": "pwncat",
     "net-analyzer/s3scanner": "s3scanner",
     "net-analyzer/scamper": "scamper",

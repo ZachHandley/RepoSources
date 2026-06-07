@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "m",
-    "total_mappings": 349
+    "total_mappings": 352
   },
   "mappings": {
     "MHonArc": "mhonarc",
@@ -12,6 +12,7 @@
     "m1ddc": "m1ddc",
     "m4": "m4",
     "m4ri": "m4ri",
+    "m4rie": "m4rie",
     "mac-robber": "mac-robber",
     "macchanger": "macchanger",
     "macchina": "macchina",
@@ -82,7 +83,7 @@
     "massdns": "massdns",
     "massren": "massren",
     "mat2": "mat2",
-    "matcha": "matcha",
+    "matcha-rss-digest": "matcha",
     "matio": "libmatio",
     "matplotlib": "python-matplotlib",
     "matterbridge": "matterbridge",
@@ -199,10 +200,12 @@
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minixml": "libmxml",
+    "miniz": "miniz",
     "minizign": "minizign",
     "minizinc": "minizinc",
     "minizip": "minizip",
     "minizip-ng": "minizip-ng",
+    "minizip-ng-compat": "minizip-ng",
     "mise": "mise",
     "mist-cli": "mist-cli",
     "mistral-vibe": "mistral-vibe",

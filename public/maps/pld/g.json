@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "g",
-    "total_mappings": 180
+    "total_mappings": 179
   },
   "mappings": {
     "GLM": "glm",
@@ -130,7 +130,6 @@
     "grantlee": "grantlee",
     "grantlee-qt5": "grantlee",
     "graphene": "graphene",
-    "graphite2": "graphite2",
     "graphviz": "graphviz",
     "grep": "grep",
     "grepcidr": "grepcidr",

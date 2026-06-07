@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "f",
-    "total_mappings": 119
+    "total_mappings": 129
   },
   "mappings": {
     "f2fs-modules-6.18.31-alpha-generic-di": "linux-headers@6.8",
@@ -21,6 +21,9 @@
     "f2fs-modules-6.18.31-s390x-di": "linux-headers@6.8",
     "f2fs-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "f2fs-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "f2fs-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "f2fs-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "f2fs-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "faad": "faad2",
     "faad2": "faad2",
     "fakeroot": "fakeroot",
@@ -43,6 +46,9 @@
     "fat-modules-6.18.31-s390x-di": "linux-headers@6.8",
     "fat-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "fat-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "fat-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "fat-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "fat-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "fb-modules-6.18.31-alpha-generic-di": "linux-headers@6.8",
     "fb-modules-6.18.31-amd64-di": "linux-headers@6.8",
     "fb-modules-6.18.31-arm64-di": "linux-headers@6.8",
@@ -54,6 +60,9 @@
     "fb-modules-6.18.31-powerpc64le-di": "linux-headers@6.8",
     "fb-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "fb-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "fb-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "fb-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "fb-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "fdisk": "gnu-getopt",
     "fdisk-udeb": "gnu-getopt",
     "fdupes": "fdupes",
@@ -70,6 +79,7 @@
     "firewire-core-modules-6.18.31-powerpc64-di": "linux-headers@6.8",
     "firewire-core-modules-6.18.31-powerpc64le-di": "linux-headers@6.8",
     "firewire-core-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
+    "firewire-core-modules-6.18.32-amd64-di": "linux-headers@6.8",
     "fish": "fish",
     "fish-common": "fish",
     "fitsverify": "cfitsio",

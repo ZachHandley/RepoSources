@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "b",
-    "total_mappings": 358
+    "total_mappings": 357
   },
   "mappings": {
     "BibTool": "bib-tool",
@@ -98,6 +98,8 @@
     "beancount-doc": "beancount",
     "beanstalkd": "beanstalkd",
     "bear": "bear",
+    "bear-debuginfo": "bear",
+    "bear-debugsource": "bear",
     "beecrypt": "beecrypt",
     "beecrypt-apidocs": "beecrypt",
     "beecrypt-devel": "beecrypt",
@@ -285,9 +287,6 @@
     "botan": "botan@2",
     "botan-devel": "botan@2",
     "botan-doc": "botan@2",
-    "botan2": "botan@2",
-    "botan2-devel": "botan@2",
-    "botan2-doc": "botan@2",
     "botan3": "botan@2",
     "botan3-debuginfo": "botan@2",
     "botan3-debugsource": "botan@2",

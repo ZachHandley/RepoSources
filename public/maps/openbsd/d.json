@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "d",
-    "total_mappings": 598
+    "total_mappings": 599
   },
   "mappings": {
     "DevIL": "devil",
@@ -231,6 +231,7 @@
     "devel/git-crypt": "git-crypt",
     "devel/git-filter-repo": "git-filter-repo",
     "devel/git-lfs": "git-lfs",
+    "devel/git-tools": "git-tools",
     "devel/github-cli": "gh",
     "devel/glib2": "glib",
     "devel/glib2mm": "glibmm@2.66",

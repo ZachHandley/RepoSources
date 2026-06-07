@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "w",
-    "total_mappings": 170
+    "total_mappings": 175
   },
   "mappings": {
     "w3m": "w3m",
@@ -141,6 +141,11 @@
     "wireshark-common": "wireshark",
     "wireshark-dev": "wireshark",
     "wireshark-doc": "wireshark",
+    "wl-clipboard": "wl-clipboard",
+    "wl-clipboard-bash-completion": "wl-clipboard",
+    "wl-clipboard-doc": "wl-clipboard",
+    "wl-clipboard-fish-completion": "wl-clipboard",
+    "wl-clipboard-zsh-completion": "wl-clipboard",
     "wmctrl": "wmctrl",
     "wmctrl-doc": "wmctrl",
     "woff2": "woff2",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "w",
-    "total_mappings": 280
+    "total_mappings": 282
   },
   "mappings": {
     "WordNet": "wordnet",
@@ -62,6 +62,7 @@
     "wireshark": "wireshark",
     "wireshark-nox11": "wireshark",
     "witr": "witr",
+    "wl-clipboard": "wl-clipboard",
     "woff2": "woff2",
     "wolfssl": "wolfssl",
     "wordplay": "wordplay",
@@ -93,6 +94,7 @@
     "www/buku": "buku",
     "www/cadaver": "cadaver",
     "www/caddy": "caddy",
+    "www/caddy-custom": "caddy",
     "www/castget": "castget",
     "www/chawan": "chawan",
     "www/chisel": "chisel-tunnel",

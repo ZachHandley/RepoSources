@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "g",
-    "total_mappings": 177
+    "total_mappings": 174
   },
   "mappings": {
     "gammu": "gammu",
@@ -16,7 +16,6 @@
     "gcc": "gcc@14",
     "gcc-lib-base": "gcc@14",
     "gcc-lib-math": "gcc@14",
-    "gcc3": "gcc@14",
     "gcc49": "gcc@14",
     "gcc49-lib-base": "gcc@14",
     "gcc54": "gcc@14",
@@ -93,8 +92,6 @@
     "gnustep-make": "gnustep-make",
     "gnutls": "gnutls",
     "gnutls-dev": "gnutls",
-    "go": "go",
-    "go-sources": "go@1.25",
     "goaccess": "goaccess",
     "gobject-introspection": "gobject-introspection",
     "gobject-introspection-dev": "gobject-introspection",

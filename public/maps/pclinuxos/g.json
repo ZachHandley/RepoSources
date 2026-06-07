@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "g",
-    "total_mappings": 151
+    "total_mappings": 150
   },
   "mappings": {
     "gabedit": "gabedit",
@@ -113,7 +113,6 @@
     "grantlee": "grantlee",
     "graphene": "graphene",
     "graphicsmagick": "graphicsmagick",
-    "graphite2": "graphite2",
     "graphviz": "graphviz",
     "grep": "grep",
     "groff": "groff",

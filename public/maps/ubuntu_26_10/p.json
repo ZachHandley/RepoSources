@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "p",
-    "total_mappings": 825
+    "total_mappings": 822
   },
   "mappings": {
     "p0f": "p0f",
@@ -124,6 +124,7 @@
     "pgbadger": "pgbadger",
     "pgbouncer": "pgbouncer",
     "pgcli": "pgcli",
+    "pgcopydb": "pgcopydb",
     "pgdbf": "pgdbf",
     "pgformatter": "pgformatter",
     "pgloader": "pgloader",
@@ -137,7 +138,6 @@
     "php-google-protobuf": "protobuf@33",
     "php-mapscript-ng": "mapserver",
     "php-remctl": "remctl",
-    "php-thrift": "thrift",
     "php-zeroc-ice": "ice",
     "php8.5": "php@8.4",
     "php8.5-bcmath": "php@8.4",
@@ -190,7 +190,6 @@
     "pinentry-doc": "pinentry",
     "pinentry-fltk": "pinentry",
     "pinentry-gnome3": "pinentry",
-    "pinentry-gtk2": "pinentry",
     "pinentry-qt": "pinentry",
     "pinentry-tty": "pinentry",
     "pinfo": "pinfo",
@@ -371,6 +370,7 @@
     "protobuf-compiler": "protobuf@33",
     "protobuf-compiler-grpc": "grpc",
     "protobuf2": "protobuf@33",
+    "protoc-gen-doc": "protoc-gen-doc",
     "protozero": "protozero",
     "proxychains-ng": "proxychains-ng",
     "proxychains4": "proxychains-ng",
@@ -585,7 +585,6 @@
     "python3-dar": "dar",
     "python3-dartpy": "dartsim",
     "python3-datalad": "datalad",
-    "python3-dna-jellyfish": "jellyfish",
     "python3-ecasound": "ecasound",
     "python3-exactimage": "exact-image",
     "python3-eyed3": "eye-d3",
@@ -615,7 +614,6 @@
     "python3-gpg": "gpgmepy",
     "python3-gps": "gpsd",
     "python3-graph-tool": "graph-tool",
-    "python3-graphite2": "graphite2",
     "python3-grpcio": "grpc",
     "python3-gumbo": "gumbo-parser",
     "python3-gv": "graphviz",
@@ -778,7 +776,6 @@
     "python3-talloc": "samba",
     "python3-tdb": "samba",
     "python3-termbox": "termbox",
-    "python3-thrift": "thrift",
     "python3-tmuxp": "tmuxp",
     "python3-torch": "pytorch",
     "python3-translate": "translate-toolkit",

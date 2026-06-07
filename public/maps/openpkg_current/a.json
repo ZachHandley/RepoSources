@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "a",
@@ -19,7 +19,7 @@
     "alpine": "alpine",
     "analog": "analog",
     "anchor": "anchor",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansifilter": "ansifilter",
     "ant": "ant",
     "antiword": "antiword",

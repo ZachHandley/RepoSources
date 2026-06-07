@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "s",
-    "total_mappings": 251
+    "total_mappings": 252
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -41,6 +41,7 @@
     "sdcv": "sdcv",
     "sdedit": "sdedit",
     "sdl12-compat": "sdl12-compat",
+    "sdl2-compat": "sdl2-compat",
     "sdl2_gfx": "sdl2_gfx",
     "sdl2_image": "sdl2_image",
     "sdl2_mixer": "sdl2_mixer",

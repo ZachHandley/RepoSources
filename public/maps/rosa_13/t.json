@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "t",
@@ -309,10 +309,10 @@
     "tinysparql": "tinysparql",
     "tinysparql-debuginfo": "tinysparql",
     "tinysparql-debugsource": "tinysparql",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
-    "tinyxml2-debuginfo": "tinyxml",
-    "tinyxml2-debugsource": "tinyxml",
+    "tinyxml2-debuginfo": "tinyxml2",
+    "tinyxml2-debugsource": "tinyxml2",
     "tio": "tio",
     "tio-debuginfo": "tio",
     "tio-debugsource": "tio",

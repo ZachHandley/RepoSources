@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "z",
-    "total_mappings": 100
+    "total_mappings": 101
   },
   "mappings": {
     "z3": "z3",
@@ -45,6 +45,7 @@
     "zeroc-icestorm": "ice",
     "zeroinstall-injector": "zero-install",
     "zeromq3": "zeromq",
+    "zfind": "zfind",
     "zfp": "zfp",
     "zig0.14": "zig@0.15",
     "zig0.14-dev": "zig@0.15",

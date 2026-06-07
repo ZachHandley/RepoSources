@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "m",
-    "total_mappings": 115
+    "total_mappings": 116
   },
   "mappings": {
     "MHonArc": "mhonarc",
@@ -59,6 +59,7 @@
     "minio-mc": "minio-mc",
     "minipro": "minipro",
     "miniupnpc": "miniupnpc",
+    "miniz": "miniz",
     "minizip-ng": "minizip-ng",
     "mjpegtools": "mjpegtools",
     "mk-configure": "mk-configure",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "w",
-    "total_mappings": 145
+    "total_mappings": 147
   },
   "mappings": {
     "w3m": "w3m",
@@ -19,6 +19,7 @@
     "wayland/foot": "foot",
     "wayland/wayland": "wayland",
     "wayland/wayland-protocols": "wayland-protocols",
+    "wayland/wl-clipboard": "wl-clipboard",
     "wcalc": "w-calc",
     "wcslib": "wcslib",
     "wdiff": "wdiff",
@@ -39,6 +40,7 @@
     "wireguard-tools": "wireguard-tools",
     "wireplumber": "wireplumber",
     "wireshark": "wireshark",
+    "wl-clipboard": "wl-clipboard",
     "wmctrl": "wmctrl",
     "woff2": "woff2",
     "woob": "woob",

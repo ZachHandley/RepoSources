@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "t",
@@ -102,8 +102,8 @@
     "tinysparql": "tinysparql",
     "tinysparql-devel": "tinysparql",
     "tinysparql-doc": "tinysparql",
-    "tinyxml": "tinyxml",
-    "tinyxml-devel": "tinyxml",
+    "tinyxml": "tinyxml2",
+    "tinyxml-devel": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tinyxml2-devel": "tinyxml2",
     "tio": "tio",

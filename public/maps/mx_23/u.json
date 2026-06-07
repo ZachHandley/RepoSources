@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "mx_23",
     "shard": "u",
-    "total_mappings": 96
+    "total_mappings": 97
   },
   "mappings": {
     "udev": "systemd",
@@ -38,6 +38,7 @@
     "uinput-modules-6.12.38+1-powerpc-di": "linux-headers@6.8",
     "uinput-modules-6.12.38+1-powerpc64-di": "linux-headers@6.8",
     "uinput-modules-6.12.38+1-powerpc64le-di": "linux-headers@6.8",
+    "upx-ucl": "upx",
     "usb-modules-6.12.38+1-4kc-malta-di": "linux-headers@6.8",
     "usb-modules-6.12.38+1-5kc-malta-di": "linux-headers@6.8",
     "usb-modules-6.12.38+1-alpha-generic-di": "linux-headers@6.8",

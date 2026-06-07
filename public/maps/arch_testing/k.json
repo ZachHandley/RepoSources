@@ -1,20 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "k",
-    "total_mappings": 9
+    "total_mappings": 1
   },
   "mappings": {
-    "kube-apiserver": "kubernetes-cli@1.35",
-    "kube-controller-manager": "kubernetes-cli@1.35",
-    "kube-proxy": "kubernetes-cli@1.35",
-    "kube-scheduler": "kubernetes-cli@1.35",
-    "kubeadm": "kubernetes-cli@1.35",
-    "kubectl": "kubernetes-cli",
-    "kubelet": "kubernetes-cli@1.35",
-    "kubernetes": "kubernetes-cli@1.35",
-    "kubernetes-control-plane-common": "kubernetes-cli@1.35"
+    "kcpuid": "linux-headers@6.8"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "t",
-    "total_mappings": 303
+    "total_mappings": 304
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -49,6 +49,7 @@
     "tcptraceroute": "tcptraceroute",
     "tcsh": "tcsh",
     "tdb": "tdb",
+    "tdf": "tdf",
     "tdl": "telegram-downloader",
     "tdlib": "tdlib",
     "tea": "tea",
@@ -168,8 +169,8 @@
     "tinymist": "tinymist",
     "tinyproxy": "tinyproxy",
     "tinysparql": "tinysparql",
-    "tinyxml": "tinyxml",
-    "tinyxml-2": "tinyxml",
+    "tinyxml": "tinyxml2",
+    "tinyxml-2": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tippecanoe": "tippecanoe",

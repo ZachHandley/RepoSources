@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "t",
@@ -299,8 +299,8 @@
     "textproc/texi2html": "texi2html",
     "textproc/texi2mdoc": "texi2mdoc",
     "textproc/the_silver_searcher": "the_silver_searcher",
-    "textproc/tinyxml": "tinyxml",
-    "textproc/tinyxml2": "tinyxml",
+    "textproc/tinyxml": "tinyxml2",
+    "textproc/tinyxml2": "tinyxml2",
     "textproc/tomlplusplus": "tomlplusplus",
     "textproc/trdsql": "trdsql",
     "textproc/tre": "tre",
@@ -345,7 +345,7 @@
     "tinycdb": "tinycdb",
     "tinyproxy": "tinyproxy",
     "tinysparql": "tinysparql",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tkdiff": "tkdiff",
     "tl-expected": "tl-expected",

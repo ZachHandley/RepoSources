@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "m",
-    "total_mappings": 39
+    "total_mappings": 40
   },
   "mappings": {
     "m4": "m4",
@@ -27,6 +27,7 @@
     "miniaudio": "miniaudio",
     "minisat": "minisat",
     "miniupnpc": "miniupnpc",
+    "miniz": "miniz",
     "minizip": "minizip",
     "minizip-ng": "minizip-ng",
     "mlpack": "mlpack",

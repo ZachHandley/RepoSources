@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "a",
     "total_mappings": 1
   },
   "mappings": {
-    "atkmm": "atkmm"
+    "abseil-cpp": "abseil"
   }
 }

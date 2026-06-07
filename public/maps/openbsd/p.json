@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "p",
@@ -71,7 +71,6 @@
     "php-curl": "php@8.4",
     "php-dba": "php@8.4",
     "php-dbg": "php@8.4",
-    "php-embed": "php@8.4",
     "php-enchant": "php@8.4",
     "php-gd": "php@8.4",
     "php-gmp": "php@8.4",
@@ -120,6 +119,7 @@
     "plplot": "plplot",
     "plplot-c++": "plplot",
     "plplot-fortran": "plplot",
+    "plutosvg": "plutosvg",
     "plzip": "plzip",
     "pms": "pms",
     "png": "libpng",

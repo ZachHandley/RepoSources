@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "d",
-    "total_mappings": 451
+    "total_mappings": 452
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -298,8 +298,8 @@
     "dev-libs/sord": "sord",
     "dev-libs/spdlog": "spdlog",
     "dev-libs/stormlib": "stormlib",
-    "dev-libs/tinyxml": "tinyxml",
-    "dev-libs/tinyxml2": "tinyxml",
+    "dev-libs/tinyxml": "tinyxml2",
+    "dev-libs/tinyxml2": "tinyxml2",
     "dev-libs/tree-sitter": "tree-sitter@0.25",
     "dev-libs/ucommon": "ucommon",
     "dev-libs/udis86": "udis86",
@@ -444,6 +444,7 @@
     "dev-util/sassc": "sassc",
     "dev-util/shc": "shc",
     "dev-util/smake": "smake",
+    "dev-util/source-highlight": "source-highlight",
     "dev-util/treecc": "treecc",
     "dev-util/uncrustify": "uncrustify",
     "dev-util/unifdef": "unifdef",

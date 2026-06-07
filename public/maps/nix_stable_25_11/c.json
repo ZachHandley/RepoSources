@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "c",
-    "total_mappings": 437
+    "total_mappings": 438
   },
   "mappings": {
     "CUnit": "cunit",
@@ -71,6 +71,7 @@
     "cargo-release": "cargo-release",
     "cargo-run-bin": "cargo-run-bin",
     "cargo-shear": "cargo-shear",
+    "cargo-show-asm": "cargo-show-asm",
     "cargo-shuttle": "cargo-shuttle",
     "cargo-sort": "cargo-sort",
     "cargo-spellcheck": "cargo-spellcheck",

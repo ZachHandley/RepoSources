@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "l",
-    "total_mappings": 865
+    "total_mappings": 866
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -223,6 +223,7 @@
     "lib32-readline": "readline",
     "lib32-rust-libs": "rust",
     "lib32-sdl12-compat": "sdl12-compat",
+    "lib32-sdl2-compat": "sdl2-compat",
     "lib32-sdl2_image": "sdl2_image",
     "lib32-sdl2_mixer": "sdl2_mixer",
     "lib32-sdl2_ttf": "sdl2_ttf",

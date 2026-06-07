@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "a",
@@ -26,7 +26,7 @@
     "aircrack-ng": "aircrack-ng",
     "aircrack-ng-debug": "aircrack-ng",
     "angular-cli": "angular-cli",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "antiword": "antiword",
     "antiword-debug": "antiword",
     "antlr": "antlr",

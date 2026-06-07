@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "p",
-    "total_mappings": 1058
+    "total_mappings": 1063
   },
   "mappings": {
     "PDAL": "pdal",
@@ -445,6 +445,8 @@
     "pixiewps-debuginfo": "pixiewps",
     "pixiewps-debugsource": "pixiewps",
     "pixman": "pixman",
+    "pixman-debuginfo": "pixman",
+    "pixman-debugsource": "pixman",
     "pjproject": "pjproject",
     "pjsua": "pjproject",
     "pkcs11-helper": "pkcs11-helper",
@@ -832,6 +834,7 @@
     "python-sqlite3": "python@3.9",
     "python-sqlparse": "sqlparse",
     "python-tabulate": "python-tabulate",
+    "python-telegram-send": "telegram-send",
     "python-twine": "twine",
     "python-uvicorn": "uvicorn",
     "python-virtualenv": "virtualenv",
@@ -874,6 +877,7 @@
     "python3-cython0": "cython",
     "python3-debuginfo": "python@3.9",
     "python3-debugsource": "python@3.9",
+    "python3-dex": "libdex",
     "python3-dns-lexicon": "lexicon",
     "python3-docs": "python@3.9",
     "python3-dtc": "dtc",
@@ -1040,6 +1044,7 @@
     "python3-talloc": "talloc",
     "python3-tbb": "tbb",
     "python3-tdb": "tdb",
+    "python3-telegram-send": "telegram-send",
     "python3-tevent": "tevent",
     "python3-thrift": "thrift",
     "python3-twine": "twine",

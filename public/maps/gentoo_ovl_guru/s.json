@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "s",
-    "total_mappings": 46
+    "total_mappings": 47
   },
   "mappings": {
     "sci-electronics/bender": "bender",
@@ -24,6 +24,7 @@
     "sci-misc/llama-cpp": "llama.cpp",
     "sci-ml/aichat": "aichat",
     "sci-ml/ollama": "ollama",
+    "sci-ml/ollama-bin": "ollama",
     "sys-apps/bat-extras": "bat-extras",
     "sys-apps/colortail": "colortail",
     "sys-apps/dysk": "dysk",

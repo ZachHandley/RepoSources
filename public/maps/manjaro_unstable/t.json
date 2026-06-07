@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "t",
@@ -74,7 +74,7 @@
     "tinyproxy": "tinyproxy",
     "tinysparql": "tinysparql",
     "tinysparql-docs": "tinysparql",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tl-expected": "tl-expected",
     "tllist": "tllist",

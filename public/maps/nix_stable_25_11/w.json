@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "w",
-    "total_mappings": 129
+    "total_mappings": 130
   },
   "mappings": {
     "WiiUse": "wiiuse",
@@ -104,6 +104,7 @@
     "wireshark-qt": "wireshark",
     "wishlist": "wishlist",
     "witness": "witness",
+    "wl-clipboard": "wl-clipboard",
     "wla-dx": "wla-dx",
     "wllvm": "wllvm",
     "wmctrl": "wmctrl",

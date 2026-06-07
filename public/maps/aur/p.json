@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "p",
-    "total_mappings": 1136
+    "total_mappings": 1140
   },
   "mappings": {
     "p11-kit-git": "p11-kit",
@@ -724,6 +724,9 @@
     "pipewire-zeroconf-git": "pipewire",
     "pipgrip": "pipgrip",
     "pistache-git": "pistache",
+    "pitchfork": "pitchfork",
+    "pitchfork-bin": "pitchfork",
+    "pius-bin": "pius",
     "pixd": "pixd",
     "pixi-git": "pixi",
     "pixiewps-git": "pixiewps",
@@ -1105,6 +1108,7 @@
     "python-sphinx-git": "sphinx-doc",
     "python-sqlparse-git": "sqlparse",
     "python-tabulate-git": "python-tabulate",
+    "python-telegram-send": "telegram-send",
     "python-tensorflow-cuda-git": "libtensorflow",
     "python-tensorflow-git": "libtensorflow",
     "python-tensorflow-lite": "libtensorflow",

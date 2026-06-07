@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "n",
-    "total_mappings": 261
+    "total_mappings": 260
   },
   "mappings": {
     "naabu": "naabu",
@@ -92,7 +92,6 @@
     "netlistsvg-git": "netlistsvg",
     "netmask": "netmask",
     "netris-git": "netris",
-    "netscanner-bin": "netscanner",
     "netsurf-buildsystem-git": "netsurf-buildsystem",
     "nettle-git": "nettle@3",
     "nettle6": "nettle@3",

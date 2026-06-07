@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "l",
-    "total_mappings": 990
+    "total_mappings": 987
   },
   "mappings": {
     "Lighthouse": "lighthouse",
@@ -244,7 +244,6 @@
     "libgda": "libgda",
     "libgda5": "libgda",
     "libgda6": "libgda",
-    "libgdata": "libgdata",
     "libgdiplus": "mono-libgdiplus",
     "libgedit-amtk": "libgedit-amtk",
     "libgedit-gfls": "libgedit-gfls",
@@ -454,7 +453,6 @@
     "libressl_4_1": "libressl",
     "libressl_4_2": "libressl",
     "librest": "librest",
-    "librest_1_0": "librest",
     "libretls": "libretls",
     "libretro-mrboom": "mrboom",
     "libretro.mrboom": "mrboom",
@@ -466,7 +464,6 @@
     "librttopo": "librttopo",
     "libsForQt5.dxflib": "dxflib",
     "libsForQt5.grantlee": "grantlee",
-    "libsForQt5.mlt": "mlt",
     "libsForQt5.poppler": "poppler",
     "libsForQt5.qca": "qca",
     "libsForQt5.qca-qt5": "qca",

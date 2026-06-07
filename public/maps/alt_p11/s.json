@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "s",
-    "total_mappings": 520
+    "total_mappings": 522
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -337,6 +337,8 @@
     "sse2neon-devel": "sse2neon",
     "sshpass": "sshpass",
     "sshpass-debuginfo": "sshpass",
+    "sshs": "sshs",
+    "sshs-debuginfo": "sshs",
     "sslh": "sslh",
     "sslh-debuginfo": "sslh",
     "sslscan": "sslscan",

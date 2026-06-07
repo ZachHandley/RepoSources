@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "a",
@@ -149,9 +149,9 @@
     "ancient-debuginfo": "ancient",
     "ancient-debugsource": "ancient",
     "ancient-devel": "ancient",
-    "ansible": "ansible@12",
-    "ansible-11": "ansible@12",
-    "ansible-12": "ansible@12",
+    "ansible": "ansible@13",
+    "ansible-11": "ansible@13",
+    "ansible-12": "ansible@13",
     "ansible-builder": "ansible-builder",
     "ansible-cmdb": "ansible-cmdb",
     "ansible-creator": "ansible-creator",

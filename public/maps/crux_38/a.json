@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "crux_38",
     "shard": "a",
@@ -13,7 +13,7 @@
     "adwaita-icon-theme": "adwaita-icon-theme",
     "alsa-lib": "alsa-lib",
     "alsa-lib-32": "alsa-lib",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-language-server": "ansible-language-server",
     "ansible-lint": "ansible-lint",
     "aom": "aom",

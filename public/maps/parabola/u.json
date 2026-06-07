@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "u",
-    "total_mappings": 55
+    "total_mappings": 56
   },
   "mappings": {
+    "uboot-tools": "u-boot-tools",
     "uchardet": "uchardet",
     "ucommon": "ucommon",
     "uftp": "uftp",

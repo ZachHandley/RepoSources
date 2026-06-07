@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "m",
-    "total_mappings": 390
+    "total_mappings": 391
   },
   "mappings": {
     "MHonArc": "mhonarc",
@@ -81,8 +81,6 @@
     "md4c-debuginfo": "md4c",
     "md4c-debugsource": "md4c",
     "md5sha1sum": "md5sha1sum",
-    "md5sha1sum-debuginfo": "md5sha1sum",
-    "md5sha1sum-debugsource": "md5sha1sum",
     "mda-lv2": "mda-lv2",
     "mdds": "mdds",
     "mdds-devel": "mdds",
@@ -132,6 +130,9 @@
     "minised-debuginfo": "minised",
     "minised-debugsource": "minised",
     "miniupnpc": "miniupnpc",
+    "miniz": "miniz",
+    "miniz-debuginfo": "miniz",
+    "miniz-debugsource": "miniz",
     "minizip-ng": "minizip-ng",
     "mjpegtools": "mjpegtools",
     "mjpegtools-debuginfo": "mjpegtools",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "g",
-    "total_mappings": 680
+    "total_mappings": 685
   },
   "mappings": {
     "g++9-bin": "gcc@14",
@@ -119,6 +119,7 @@
     "gdc-git": "gcc@14",
     "gdc-static": "gcc@14",
     "gdcm-git": "gdcm",
+    "gdiff": "diffutils",
     "gdk-pixbuf": "gdk-pixbuf",
     "gdk-pixbuf2-docs-git": "gdk-pixbuf",
     "gdk-pixbuf2-git": "gdk-pixbuf",
@@ -201,6 +202,7 @@
     "ghc9.4-bin": "ghc@9.8",
     "ghc9.6-bin": "ghc@9.8",
     "ghc9.8-bin": "ghc@9.8",
+    "ghcid": "ghcid",
     "ghcup-hs-bin": "ghcup",
     "ghex-git": "ghex",
     "ghi": "ghi",
@@ -331,6 +333,7 @@
     "gitversion": "gitversion",
     "gitversion-bin": "gitversion",
     "gitwatch-git": "gitwatch",
+    "gixy-git": "gixy",
     "giza-git": "giza",
     "gjs-git": "gjs",
     "gkrellm": "gkrellm",
@@ -675,6 +678,8 @@
     "gut": "gut",
     "gut-bin": "gut",
     "gut-git": "gut",
+    "gvim-classic": "vim-classic",
+    "gvim-classic-git": "vim-classic",
     "gvim-git": "vim",
     "gvim-gtk2": "vim",
     "gwctl-bin": "gwctl",

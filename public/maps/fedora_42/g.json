@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_42",
     "shard": "g",
-    "total_mappings": 1309
+    "total_mappings": 1313
   },
   "mappings": {
     "GMT": "gmt",
@@ -247,6 +247,9 @@
     "ghc-doc": "ghc@9.8",
     "ghc-doc-index": "ghc@9.8",
     "ghc-filesystem": "ghc@9.8",
+    "ghc-ghcid": "ghcid",
+    "ghc-ghcid-devel": "ghcid",
+    "ghc-ghcid-prof": "ghcid",
     "ghc-hadolint": "hadolint",
     "ghc-hadolint-devel": "hadolint",
     "ghc-hadolint-prof": "hadolint",
@@ -519,6 +522,7 @@
     "ghc9.8-hadrian": "ghc@9.8",
     "ghc9.8-manual": "ghc@9.8",
     "ghc9.8-prof": "ghc@9.8",
+    "ghcid": "ghcid",
     "ghex": "ghex",
     "ghex-devel": "ghex",
     "ghex-libs": "ghex",

@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "u",
-    "total_mappings": 15
+    "total_mappings": 16
   },
   "mappings": {
     "uchardet": "uchardet",
+    "uhd": "uhd",
     "ulfius": "ulfius",
     "uncrustify": "uncrustify",
     "uni-algo": "uni-algo",

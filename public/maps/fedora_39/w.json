@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "w",
-    "total_mappings": 183
+    "total_mappings": 186
   },
   "mappings": {
     "w3m": "w3m",
@@ -134,6 +134,9 @@
     "wireshark-debuginfo": "wireshark",
     "wireshark-debugsource": "wireshark",
     "wireshark-devel": "wireshark",
+    "wl-clipboard": "wl-clipboard",
+    "wl-clipboard-debuginfo": "wl-clipboard",
+    "wl-clipboard-debugsource": "wl-clipboard",
     "wmbusmeters": "wmbusmeters",
     "wmbusmeters-debuginfo": "wmbusmeters",
     "wmbusmeters-debugsource": "wmbusmeters",

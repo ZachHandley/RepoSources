@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "t",
-    "total_mappings": 187
+    "total_mappings": 191
   },
   "mappings": {
     "taglib": "taglib",
@@ -131,6 +131,10 @@
     "tmux-sessionizer-doc": "tmux-sessionizer",
     "tokei": "tokei",
     "tokei-doc": "tokei",
+    "tomlplusplus": "tomlplusplus",
+    "tomlplusplus-devel": "tomlplusplus",
+    "tomlplusplus-devel-static": "tomlplusplus",
+    "tomlplusplus-doc": "tomlplusplus",
     "topgrade": "topgrade",
     "topgrade-bashcomp": "topgrade",
     "topgrade-fishcomp": "topgrade",

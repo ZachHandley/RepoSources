@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "t",
-    "total_mappings": 375
+    "total_mappings": 379
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -37,6 +37,7 @@
     "task-git": "task",
     "task-spooler": "task-spooler",
     "taskd-git": "taskd",
+    "taskflow": "taskflow",
     "taskflow-git": "taskflow",
     "taskline": "taskline",
     "taskopen": "taskopen",
@@ -57,6 +58,8 @@
     "tcptunnel-git": "tcptunnel",
     "tcsh-git": "tcsh",
     "tctl": "tctl",
+    "tdf": "tdf",
+    "tdf-git": "tdf",
     "tdl": "telegram-downloader",
     "tdl-bin": "telegram-downloader",
     "tdl-git": "telegram-downloader",
@@ -193,8 +196,8 @@
     "tiny-git": "tiny",
     "tinymist-git": "tinymist",
     "tinyproxy-git": "tinyproxy",
-    "tinyxml-git": "tinyxml",
-    "tinyxml2-git": "tinyxml",
+    "tinyxml-git": "tinyxml2",
+    "tinyxml2-git": "tinyxml2",
     "tio": "tio",
     "tio-git": "tio",
     "tippecanoe": "tippecanoe",
@@ -366,6 +369,7 @@
     "txr": "txr",
     "txr-git": "txr",
     "txt2tags-git": "txt2tags",
+    "ty-bin": "ty",
     "ty-git": "ty",
     "typedb": "typedb",
     "typescript-git": "typescript",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "p",
@@ -364,7 +364,6 @@
     "protobuf3": "protobuf@33",
     "protoc-gen-go-grpc": "protoc-gen-go-grpc",
     "protozero": "protozero",
-    "proxsuite": "proxsuite",
     "proxychains-ng": "proxychains-ng",
     "proxygen": "proxygen",
     "proxytunnel": "proxytunnel",
@@ -401,7 +400,7 @@
     "py310-sqlite3": "python@3.9",
     "py311-PyQt-builder": "pyqt-builder",
     "py311-acme": "certbot",
-    "py311-ansible": "ansible@12",
+    "py311-ansible": "ansible@13",
     "py311-ansible-lint": "ansible-lint",
     "py311-antlr4-python3-runtime": "antlr",
     "py311-argcomplete": "python-argcomplete",
@@ -451,6 +450,7 @@
     "py311-getmail6": "getmail6",
     "py311-gi-docgen": "gi-docgen",
     "py311-git-up": "pygitup",
+    "py311-gixy": "gixy",
     "py311-glances": "glances",
     "py311-gprof2dot": "gprof2dot",
     "py311-grip": "grip",

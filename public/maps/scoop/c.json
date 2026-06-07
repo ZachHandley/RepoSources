@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "c",
-    "total_mappings": 86
+    "total_mappings": 88
   },
   "mappings": {
     "c3": "c3c",
@@ -46,6 +46,7 @@
     "clamav": "clamav",
     "clingo": "clingo",
     "clipboard": "clipboard",
+    "cliproxyapi": "cliproxyapi",
     "cloc": "cloc",
     "cloud-nuke": "cloud-nuke",
     "cloud-sql-proxy": "cloud-sql-proxy",
@@ -53,6 +54,7 @@
     "cloudfoundry-cli": "cloudfoundry-cli",
     "cmake": "cmake",
     "cmctl": "cmctl",
+    "cni-plugins": "cni-plugins",
     "cobalt": "cobalt",
     "cocogitto": "cocogitto",
     "code-minimap": "code-minimap",

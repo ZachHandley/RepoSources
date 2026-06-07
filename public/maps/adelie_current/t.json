@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "adelie_current",
     "shard": "t",
@@ -49,7 +49,7 @@
     "tinycdb-dev": "tinycdb",
     "tinycdb-doc": "tinycdb",
     "tinyxml2": "tinyxml2",
-    "tinyxml2-dbg": "tinyxml",
+    "tinyxml2-dbg": "tinyxml2",
     "tinyxml2-dev": "tinyxml2",
     "tmux": "tmux",
     "tmux-dbg": "tmux",

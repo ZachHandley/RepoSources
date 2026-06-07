@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_5_0",
     "shard": "w",
-    "total_mappings": 135
+    "total_mappings": 138
   },
   "mappings": {
     "wavpack": "wavpack",
@@ -102,6 +102,9 @@
     "wireshark-debuginfo": "wireshark",
     "wireshark-debugsource": "wireshark",
     "wireshark-tools": "wireshark",
+    "wl-clipboard": "wl-clipboard",
+    "wl-clipboard-debuginfo": "wl-clipboard",
+    "wl-clipboard-debugsource": "wl-clipboard",
     "wmctrl": "wmctrl",
     "wmctrl-debuginfo": "wmctrl",
     "wmctrl-debugsource": "wmctrl",

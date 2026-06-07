@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "p",
@@ -1243,7 +1243,6 @@
     "python311-robotframework": "robot-framework",
     "python311-rpm": "rpm",
     "python311-ruff": "ruff",
-    "python311-scikit-image": "scikit-image",
     "python311-scipy": "scipy",
     "python311-setuptools": "python-setuptools",
     "python311-setuptools-wheel": "python-setuptools",
@@ -1488,6 +1487,7 @@
     "python314-avro": "avro-c",
     "python314-base": "python@3.9",
     "python314-black": "black",
+    "python314-bpython": "bpython",
     "python314-build": "python-build",
     "python314-caca": "libcaca",
     "python314-certbot": "certbot",

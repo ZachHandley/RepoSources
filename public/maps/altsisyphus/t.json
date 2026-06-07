@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "t",
-    "total_mappings": 284
+    "total_mappings": 287
   },
   "mappings": {
     "TiMidity++": "timidity",
@@ -65,6 +65,8 @@
     "tdb-utils": "tdb",
     "tdb-utils-debuginfo": "tdb",
     "tde2e-devel-static": "tdlib",
+    "tdf": "tdf",
+    "tdf-debuginfo": "tdf",
     "tdlib": "tdlib",
     "tdlib-debuginfo": "tdlib",
     "tdlib-devel": "tdlib",
@@ -75,6 +77,7 @@
     "teem-devel": "teem",
     "telegraf": "telegraf",
     "telegraf-debuginfo": "telegraf",
+    "telegram-send": "telegram-send",
     "teleport": "teleport",
     "teleport-admin": "teleport",
     "teleport-admin-debuginfo": "teleport",
@@ -157,9 +160,9 @@
     "tinysparql-debuginfo": "tinysparql",
     "tinysparql-devel": "tinysparql",
     "tinysparql-devel-doc": "tinysparql",
-    "tinyxml": "tinyxml",
-    "tinyxml-debuginfo": "tinyxml",
-    "tinyxml-devel": "tinyxml",
+    "tinyxml": "tinyxml2",
+    "tinyxml-debuginfo": "tinyxml2",
+    "tinyxml-devel": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tio-debuginfo": "tio",

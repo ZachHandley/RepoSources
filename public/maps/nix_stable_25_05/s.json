@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_05",
     "shard": "s",
-    "total_mappings": 490
+    "total_mappings": 492
   },
   "mappings": {
     "SDL": "sdl12-compat",
+    "SDL2": "sdl2-compat",
     "SDL2_gfx": "sdl2_gfx",
     "SDL2_image": "sdl2_image",
     "SDL2_mixer": "sdl2_mixer",
@@ -100,6 +101,7 @@
     "sd": "sd",
     "sdcc": "sdcc",
     "sdcv": "sdcv",
+    "sdl2-compat": "sdl2-compat",
     "sdl3": "sdl3",
     "sdl3-image": "sdl3_image",
     "sdl3-ttf": "sdl3_ttf",

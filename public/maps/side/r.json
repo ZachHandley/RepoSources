@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "r",
@@ -248,7 +248,7 @@
     "runtime/_base_/taglib": "taglib",
     "runtime/_base_/tcltk": "tcl-tk@8",
     "runtime/_base_/tiff": "libtiff",
-    "runtime/_base_/tinyxml2": "tinyxml",
+    "runtime/_base_/tinyxml2": "tinyxml2",
     "runtime/_base_/tmux": "tmux",
     "runtime/_base_/tree": "tree",
     "runtime/_base_/uchardet": "uchardet",

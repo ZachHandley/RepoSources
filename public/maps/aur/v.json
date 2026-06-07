@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "v",
-    "total_mappings": 157
+    "total_mappings": 162
   },
   "mappings": {
     "v": "v",
@@ -22,7 +22,6 @@
     "valabind-git": "valabind",
     "vale-git": "vale",
     "valgrind-git": "valgrind",
-    "validatornu": "vnu",
     "valijson-git": "valijson",
     "valkey-git": "valkey",
     "vampire": "vampire",
@@ -34,6 +33,7 @@
     "vapoursynth-plugin-bm3d-git": "vapoursynth-bm3d",
     "vapoursynth-plugin-descale-git": "vapoursynth-descale",
     "vapoursynth-plugin-imwri-git": "vapoursynth-imwri",
+    "vapoursynth-plugin-mvtools-git": "vapoursynth-mvtools",
     "vapoursynth-plugin-ocr-git": "vapoursynth-ocr",
     "varnish": "varnish",
     "vcfanno": "vcfanno",
@@ -75,6 +75,10 @@
     "viennacl": "viennacl",
     "vifm-git": "vifm",
     "vile": "vile",
+    "vim-classic": "vim-classic",
+    "vim-classic-git": "vim-classic",
+    "vim-classic-runtime": "vim-classic",
+    "vim-classic-runtime-git": "vim-classic",
     "vim-cli-git": "vim",
     "vim-cli-git-runtime": "vim",
     "vim-decasify-git": "decasify",
@@ -137,6 +141,7 @@
     "vsearch": "vsearch",
     "vsearch-bin": "vsearch",
     "vsftpd-git": "vsftpd",
+    "vtcode-bin": "vtcode",
     "vte-common-git": "vte3",
     "vte-docs-git": "vte3",
     "vte-git": "vte3",

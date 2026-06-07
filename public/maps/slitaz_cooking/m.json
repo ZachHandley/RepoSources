@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "m",
-    "total_mappings": 115
+    "total_mappings": 112
   },
   "mappings": {
     "m4": "m4",
@@ -56,8 +56,6 @@
     "mesa-dri-tdfx": "mesa",
     "mesa-dri-unichrome": "mesa",
     "mesa-dri-vmwgfx": "mesa",
-    "mesa-wayland": "mesa",
-    "mesa-wayland-dev": "mesa",
     "mesa7": "mesa",
     "meson": "meson",
     "mfoc": "mfoc",
@@ -81,14 +79,13 @@
     "mm-common": "mm-common",
     "mmv": "mmv",
     "moc": "moc",
-    "mono": "mono",
-    "mono-dev": "mono",
-    "mono-doc": "mono",
     "mosh": "mosh",
     "mp3gain": "mp3gain",
     "mp3info": "mp3info",
     "mp3val": "mp3val",
+    "mpc": "mpc",
     "mpc-library": "libmpc",
+    "mpd": "mpd",
     "mpfr": "mpfr",
     "mpfr-dev": "mpfr",
     "mpg123": "mpg123",

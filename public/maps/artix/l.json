@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "l",
-    "total_mappings": 746
+    "total_mappings": 747
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -459,6 +459,7 @@
     "libnsbmp": "libnsbmp",
     "libnsgif": "libnsgif",
     "libnsl": "libnsl",
+    "libntfs-3g": "ntfs-3g",
     "liboauth": "liboauth",
     "libobjc": "gcc@14",
     "libodfgen": "libodfgen",

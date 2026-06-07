@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "s",
-    "total_mappings": 489
+    "total_mappings": 482
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -94,6 +94,7 @@
     "sdcv": "sdcv",
     "sdl-ttf2.0": "sdl2_ttf",
     "sdl12-compat": "sdl12-compat",
+    "sdl2-compat": "sdl2-compat",
     "sdlfrotz": "frotz",
     "sdlgfx": "sdl_gfx",
     "sec": "sec",
@@ -130,10 +131,10 @@
     "shapelib": "shapelib",
     "shared-mime-info": "shared-mime-info",
     "shc": "shc",
+    "sheenbidi": "sheenbidi",
     "shellcheck": "shellcheck",
     "shellinabox": "shellinabox",
     "shelltestrunner": "shelltestrunner",
-    "sherlock": "sherlock",
     "shibboleth-sp": "shibboleth-sp",
     "shibboleth-sp-common": "shibboleth-sp",
     "shibboleth-sp-utils": "shibboleth-sp",
@@ -157,14 +158,6 @@
     "simutrans-data": "simutrans",
     "simutrans-makeobj": "simutrans",
     "since": "since",
-    "singular": "singular",
-    "singular-data": "singular",
-    "singular-dev-doc": "singular",
-    "singular-doc": "singular",
-    "singular-modules": "singular",
-    "singular-ui": "singular",
-    "singular-ui-emacs": "singular",
-    "singular-ui-xterm": "singular",
     "sip-tools": "sip",
     "sip6": "sip",
     "sip6-doc": "sip",

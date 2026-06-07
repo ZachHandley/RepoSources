@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "w",
-    "total_mappings": 137
+    "total_mappings": 139
   },
   "mappings": {
     "w3m": "w3m",
@@ -106,6 +106,8 @@
     "wireshark-qt-debuginfo": "wireshark",
     "witr": "witr",
     "witr-debuginfo": "witr",
+    "wl-clipboard": "wl-clipboard",
+    "wl-clipboard-debuginfo": "wl-clipboard",
     "wlfreerdp3": "freerdp",
     "wlfreerdp3-debuginfo": "freerdp",
     "wmctrl": "wmctrl",

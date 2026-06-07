@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "d",
-    "total_mappings": 327
+    "total_mappings": 329
   },
   "mappings": {
     "d2-bin": "d2",
@@ -333,6 +333,8 @@
     "dynomite": "dynomite",
     "dynomite-git": "dynomite",
     "dysk-git": "dysk",
+    "dz6": "dz6",
+    "dz6-bin": "dz6",
     "dzr": "dzr"
   }
 }

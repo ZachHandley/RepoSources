@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "g",
-    "total_mappings": 505
+    "total_mappings": 507
   },
   "mappings": {
     "g2o": "g2o",
@@ -99,6 +99,7 @@
     "ghc-binary": "ghc@9.8",
     "ghc-integer-simple": "ghc@9.8",
     "ghc-native-bignum": "ghc@9.8",
+    "ghcid": "ghcid",
     "ghcup": "ghcup",
     "ghex": "ghex",
     "ghidra": "ghidra",
@@ -196,6 +197,7 @@
     "gitui": "gitui",
     "gitup": "gitup",
     "gitweb": "git",
+    "gixy": "gixy",
     "gjs": "gjs",
     "gkrellm": "gkrellm",
     "gl2ps": "gl2ps",

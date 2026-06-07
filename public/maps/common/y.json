@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "y",
-    "total_mappings": 361
+    "total_mappings": 362
   },
   "mappings": {
     "YAFC": "yafc",
@@ -347,6 +347,7 @@
     "yubikey-manager-bash-completion": "ykman",
     "yubikey-manager-fish-completion": "ykman",
     "yubikey-manager-pyc": "ykman",
+    "yubikey-manager-udev": "ykman",
     "yubikey-manager-zsh-completion": "ykman",
     "yubikey-manager4": "ykman",
     "yubikey-personalization": "ykpers",

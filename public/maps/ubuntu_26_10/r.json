@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "r",
-    "total_mappings": 270
+    "total_mappings": 267
   },
   "mappings": {
     "r-base": "r",
@@ -36,8 +36,6 @@
     "rapidjson-dev": "rapidjson",
     "rapidjson-doc": "rapidjson",
     "rapidyaml": "rapidyaml",
-    "raptor2": "raptor",
-    "raptor2-utils": "raptor",
     "raqm": "libraqm",
     "rasqal": "rasqal",
     "rasqal-utils": "rasqal",
@@ -90,7 +88,6 @@
     "redland-utils": "redland",
     "redshift": "redshift",
     "redshift-gtk": "redshift",
-    "reflex": "reflex",
     "regina-rexx": "regina-rexx",
     "registry-tools": "samba",
     "remake": "remake",

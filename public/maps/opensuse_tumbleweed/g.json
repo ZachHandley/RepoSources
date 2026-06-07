@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "g",
-    "total_mappings": 1397
+    "total_mappings": 1399
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -565,6 +565,7 @@
     "girara-debuginfo": "girara",
     "girara-debugsource": "girara",
     "girara-devel": "girara",
+    "girara-devel-doc": "girara",
     "girepository-1_0": "gobject-introspection",
     "git": "git",
     "git-absorb": "git-absorb",
@@ -663,6 +664,7 @@
     "gjs": "gjs",
     "gjs-debuginfo": "gjs",
     "gjs-debugsource": "gjs",
+    "gjs-tests": "gjs",
     "gkrellm": "gkrellm",
     "gkrellm-debuginfo": "gkrellm",
     "gkrellm-debugsource": "gkrellm",

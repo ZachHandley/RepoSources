@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "centos_stream_10",
     "shard": "s",
-    "total_mappings": 213
+    "total_mappings": 217
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -68,6 +68,10 @@
     "sdl12-compat-debuginfo": "sdl12-compat",
     "sdl12-compat-debugsource": "sdl12-compat",
     "sdl12-compat-devel": "sdl12-compat",
+    "sdl2-compat": "sdl2-compat",
+    "sdl2-compat-debuginfo": "sdl2-compat",
+    "sdl2-compat-debugsource": "sdl2-compat",
+    "sdl2-compat-devel": "sdl2-compat",
     "sed": "gnu-sed",
     "sed-debuginfo": "gnu-sed",
     "sed-debugsource": "gnu-sed",

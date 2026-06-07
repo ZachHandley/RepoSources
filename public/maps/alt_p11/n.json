@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "n",
-    "total_mappings": 254
+    "total_mappings": 258
   },
   "mappings": {
     "nDPI": "ndpi",
@@ -88,6 +88,10 @@
     "ne": "ne",
     "ne-debuginfo": "ne",
     "ne-doc": "ne",
+    "nebula": "nebula",
+    "nebula-cert": "nebula",
+    "nebula-cert-debuginfo": "nebula",
+    "nebula-debuginfo": "nebula",
     "nedit": "nedit",
     "nedit-debuginfo": "nedit",
     "neko": "neko",

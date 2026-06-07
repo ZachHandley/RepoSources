@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
     "shard": "g",
-    "total_mappings": 627
+    "total_mappings": 626
   },
   "mappings": {
     "g++-4.7": "gcc@14",
@@ -527,7 +527,6 @@
     "graphicsmagick-dbg": "graphicsmagick",
     "graphicsmagick-imagemagick-compat": "graphicsmagick",
     "graphicsmagick-libmagick-dev-compat": "graphicsmagick",
-    "graphite2": "graphite2",
     "graphviz": "graphviz",
     "graphviz-dev": "graphviz",
     "graphviz-doc": "graphviz",

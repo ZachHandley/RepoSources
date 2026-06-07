@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "s",
-    "total_mappings": 72
+    "total_mappings": 73
   },
   "mappings": {
     "s2geometry": "s2geometry",
@@ -23,6 +23,7 @@
     "sdl3": "sdl3",
     "sdl3-image": "sdl3_image",
     "sdl3-mixer": "sdl3_mixer",
+    "sdl3-net": "sdl3_net",
     "sdl3-ttf": "sdl3_ttf",
     "seal": "seal",
     "secp256k1": "secp256k1",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "n",
-    "total_mappings": 289
+    "total_mappings": 291
   },
   "mappings": {
     "nDPI": "ndpi",
@@ -227,6 +227,8 @@
     "normalize-debuginfo": "normalize",
     "notation": "notation",
     "notation-debuginfo": "notation",
+    "notcurses": "notcurses",
+    "notcurses-debuginfo": "notcurses",
     "notify-send": "libnotify",
     "notify-send-debuginfo": "libnotify",
     "notmuch": "notmuch",

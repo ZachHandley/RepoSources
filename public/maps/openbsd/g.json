@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "g",
-    "total_mappings": 465
+    "total_mappings": 467
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -166,6 +166,7 @@
     "git-filter-repo": "git-filter-repo",
     "git-lfs": "git-lfs",
     "git-svn": "git-svn",
+    "git-tools": "git-tools",
     "git-x11": "git",
     "gitea": "gitea",
     "gitg": "gitg",
@@ -372,6 +373,7 @@
     "graphics/p5-Image-ExifTool": "exiftool",
     "graphics/pcl": "pcl",
     "graphics/pdfsandwich": "pdfsandwich",
+    "graphics/plutosvg": "plutosvg",
     "graphics/png": "libpng",
     "graphics/png2ico": "png2ico",
     "graphics/pngcheck": "pngcheck",

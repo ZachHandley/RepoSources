@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slackware64_15_0",
     "shard": "g",
-    "total_mappings": 68
+    "total_mappings": 67
   },
   "mappings": {
     "gawk": "gawk",
@@ -58,7 +58,6 @@
     "gptfdisk": "gptfdisk",
     "grantlee": "grantlee",
     "graphene": "graphene",
-    "graphite2": "graphite2",
     "grep": "grep",
     "groff": "groff",
     "gsettings-desktop-schemas": "gsettings-desktop-schemas",

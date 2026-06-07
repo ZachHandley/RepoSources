@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "l",
@@ -636,8 +636,8 @@
     "library/talloc": "talloc",
     "library/tdb": "tdb",
     "library/telegramdb": "tdlib",
-    "library/tinyxml": "tinyxml",
-    "library/tinyxml2": "tinyxml",
+    "library/tinyxml": "tinyxml2",
+    "library/tinyxml2": "tinyxml2",
     "library/tre": "tre",
     "library/tree-sitter": "tree-sitter@0.25",
     "library/uchardet": "uchardet",

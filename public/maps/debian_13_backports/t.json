@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "t",
-    "total_mappings": 16
+    "total_mappings": 17
   },
   "mappings": {
     "tbox": "tbox",
@@ -15,6 +15,7 @@
     "tinyproxy": "tinyproxy",
     "tinyproxy-bin": "tinyproxy",
     "tl-expected": "tl-expected",
+    "tmux": "tmux",
     "tor": "tor",
     "tor-geoipdb": "tor",
     "transmission": "transmission-cli",

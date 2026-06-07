@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "o",
-    "total_mappings": 292
+    "total_mappings": 297
   },
   "mappings": {
     "OpenSceneGraph": "open-scene-graph",
@@ -155,10 +155,15 @@
     "openexr30-common": "openexr",
     "openfortivpn": "openfortivpn",
     "openfortivpn-debuginfo": "openfortivpn",
+    "openfst": "openfst",
+    "openfst-tools": "openfst",
+    "openfst-tools-debuginfo": "openfst",
     "openjazz": "openjazz",
     "openjazz-debuginfo": "openjazz",
     "openjpeg-tools2.0": "openjpeg",
     "openjpeg-tools2.0-debuginfo": "openjpeg",
+    "openjph": "openjph",
+    "openjph-debuginfo": "openjph",
     "openldap": "openldap",
     "openldap-clients": "openldap",
     "openldap-clients-debuginfo": "openldap",

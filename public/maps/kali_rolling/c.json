@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "c",
@@ -41,6 +41,7 @@
     "cargo-binutils": "cargo-binutils",
     "cargo-c": "cargo-c",
     "cargo-doc": "rust",
+    "cargo-edit": "cargo-edit",
     "cargo-outdated": "cargo-outdated",
     "carton": "carton",
     "cassandra": "cassandra",
@@ -125,7 +126,6 @@
     "charon-cmd": "strongswan",
     "charon-systemd": "strongswan",
     "chawan": "chawan",
-    "chawan-doc": "chawan",
     "check": "check",
     "check-postgres": "check_postgres",
     "checkstyle": "checkstyle",

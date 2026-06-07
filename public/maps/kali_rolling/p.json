@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "p",
-    "total_mappings": 846
+    "total_mappings": 848
   },
   "mappings": {
     "p0f": "p0f",
@@ -203,6 +203,7 @@
     "picard-tools": "picard-tools",
     "pick": "pick",
     "picocom": "picocom",
+    "picotool": "picotool",
     "pidcat": "pidcat",
     "pidgin": "pidgin",
     "pidgin-data": "pidgin",
@@ -662,6 +663,7 @@
     "python3-lammps": "lammps",
     "python3-lasso": "lasso",
     "python3-ldb": "samba",
+    "python3-ldns": "ldns",
     "python3-ledger": "ledger",
     "python3-lensfun": "lensfun",
     "python3-lerc": "liblerc",

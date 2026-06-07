@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_10",
     "shard": "s",
-    "total_mappings": 494
+    "total_mappings": 495
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -94,6 +94,7 @@
     "sdcv": "sdcv",
     "sdl-ttf2.0": "sdl2_ttf",
     "sdl12-compat": "sdl12-compat",
+    "sdl2-compat": "sdl2-compat",
     "sdlfrotz": "frotz",
     "sdlgfx": "sdl_gfx",
     "sec": "sec",

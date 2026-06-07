@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "m",
-    "total_mappings": 704
+    "total_mappings": 707
   },
   "mappings": {
     "M4RI": "m4ri",
     "MMseqs2": "mmseqs2",
     "m4": "m4",
+    "m4rie": "m4rie",
     "mac": "mac",
     "mac-robber": "mac-robber",
     "macchanger": "macchanger",
@@ -88,6 +89,8 @@
     "mariadb114-server": "mariadb@11.8",
     "mariadb118-client": "mariadb@11.8",
     "mariadb118-server": "mariadb@11.8",
+    "mariadb123-client": "mariadb@11.8",
+    "mariadb123-server": "mariadb@11.8",
     "marisa-trie": "marisa",
     "markdown": "markdown",
     "marmite": "marmite",
@@ -190,6 +193,7 @@
     "math/lp_solve": "lp_solve",
     "math/ltl2ba": "ltl2ba",
     "math/m4ri": "m4ri",
+    "math/m4rie": "m4rie",
     "math/manifold": "manifold",
     "math/matio": "libmatio",
     "math/maxima": "maxima",
@@ -233,7 +237,6 @@
     "math/plplot": "plplot",
     "math/primecount": "primecount",
     "math/primesieve": "primesieve",
-    "math/proxsuite": "proxsuite",
     "math/py-matplotlib": "python-matplotlib",
     "math/py-numpy": "numpy",
     "math/py-or-tools": "or-tools",

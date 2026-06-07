@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "t",
-    "total_mappings": 73
+    "total_mappings": 74
   },
   "mappings": {
     "tabiew": "tabiew",
@@ -62,6 +62,7 @@
     "traefik": "traefik",
     "transmission": "transmission-cli",
     "transmission-cli": "transmission-cli",
+    "trdsql": "trdsql",
     "tre-command": "tre-command",
     "tree-sitter": "tree-sitter",
     "trippy": "trippy",

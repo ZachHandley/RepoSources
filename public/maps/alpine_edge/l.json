@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "l",
-    "total_mappings": 1886
+    "total_mappings": 1891
   },
   "mappings": {
     "lab": "lab",
@@ -438,6 +438,7 @@
     "libftdi1": "libftdi",
     "libftdi1-dev": "libftdi",
     "libftdi1-static": "libftdi",
+    "libftdi1-udev": "libftdi",
     "libfuzzy2": "ssdeep",
     "libfuzzy2-dev": "ssdeep",
     "libfyaml": "libfyaml",
@@ -679,6 +680,9 @@
     "libm4ri": "m4ri",
     "libm4ri-dev": "m4ri",
     "libm4ri-static": "m4ri",
+    "libm4rie": "m4rie",
+    "libm4rie-dev": "m4rie",
+    "libm4rie-static": "m4rie",
     "libmaa": "libmaa",
     "libmaa-dev": "libmaa",
     "libmaa-doc": "libmaa",
@@ -1868,6 +1872,7 @@
     "lvm2-lockd-openrc": "device-mapper",
     "lvm2-openrc": "device-mapper",
     "lvm2-static": "device-mapper",
+    "lvm2-udev": "device-mapper",
     "lynis": "lynis",
     "lynis-bash-completion": "lynis",
     "lynis-doc": "lynis",

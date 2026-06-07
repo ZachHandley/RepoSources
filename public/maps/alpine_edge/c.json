@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "c",
-    "total_mappings": 672
+    "total_mappings": 677
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -81,6 +81,8 @@
     "cargo-release": "cargo-release",
     "cargo-run-bin": "cargo-run-bin",
     "cargo-run-bin-doc": "cargo-run-bin",
+    "cargo-show-asm": "cargo-show-asm",
+    "cargo-show-asm-doc": "cargo-show-asm",
     "cargo-shuttle": "cargo-shuttle",
     "cargo-shuttle-bash-completion": "cargo-shuttle",
     "cargo-shuttle-doc": "cargo-shuttle",
@@ -515,6 +517,9 @@
     "containerd-openrc": "containerd",
     "containerd-stress": "containerd",
     "containerd-systemd": "containerd",
+    "copyparty": "copyparty",
+    "copyparty-doc": "copyparty",
+    "copyparty-pyc": "copyparty",
     "coqide-server": "rocq",
     "coredns": "coredns",
     "coredns-openrc": "coredns",

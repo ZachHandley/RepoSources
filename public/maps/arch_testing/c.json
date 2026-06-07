@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "c",
-    "total_mappings": 3
+    "total_mappings": 2
   },
   "mappings": {
-    "cri-tools": "cri-tools",
-    "crictl": "cri-tools",
-    "critest": "cri-tools"
+    "caddy": "caddy",
+    "cpupower": "linux-headers@6.8"
   }
 }

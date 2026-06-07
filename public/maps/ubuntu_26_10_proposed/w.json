@@ -1,33 +1,25 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "w",
-    "total_mappings": 33
+    "total_mappings": 24
   },
   "mappings": {
-    "waffle": "waffle",
-    "waffle-utils": "waffle",
     "wasi-libc": "wasi-libc",
     "wasm-bindgen": "wasm-bindgen",
     "wasm-pack": "wasm-pack",
     "wasm-tools": "wasm-tools",
-    "wcslib": "wcslib",
-    "wcslib-dev": "wcslib",
-    "wcslib-doc": "wcslib",
-    "wcslib-tools": "wcslib",
-    "webdis": "webdis",
     "webfs": "webfs",
+    "webhttrack": "httrack",
+    "webhttrack-common": "httrack",
     "webkit2gtk": "webkitgtk",
     "webkitgtk-webdriver": "webkitgtk",
     "webpack": "webpack",
-    "wego": "wego",
     "widelands": "widelands",
     "widelands-data": "widelands",
     "winbind": "samba",
-    "winpr-utils": "freerdp",
-    "winpr3-utils": "freerdp",
     "wireplumber": "wireplumber",
     "wireplumber-doc": "wireplumber",
     "wireplumber-system-services": "wireplumber",
@@ -36,8 +28,7 @@
     "wireshark-dev": "wireshark",
     "wireshark-doc": "wireshark",
     "witness": "witness",
-    "witr": "witr",
-    "wmbusmeters": "wmbusmeters",
+    "wl-clipboard": "wl-clipboard",
     "wxmaxima": "wxmaxima",
     "wxmaxima-doc": "wxmaxima"
   }

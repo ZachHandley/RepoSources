@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "v",
-    "total_mappings": 2
+    "total_mappings": 3
   },
   "mappings": {
-    "valgrind": "valgrind",
-    "vim": "vim"
+    "vulkan-headers": "vulkan-headers",
+    "vulkan-loader": "vulkan-loader",
+    "vulkan-tools": "vulkan-tools"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "r",
-    "total_mappings": 277
+    "total_mappings": 278
   },
   "mappings": {
     "r-base": "r",
@@ -255,6 +255,7 @@
     "rust-gping": "gping",
     "rust-hexyl": "hexyl",
     "rust-hyperfine": "hyperfine",
+    "rust-jaq": "jaq",
     "rust-just": "just",
     "rust-lldb": "rust",
     "rust-llvm": "rust",

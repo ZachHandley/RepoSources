@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "l",
-    "total_mappings": 485
+    "total_mappings": 487
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -175,6 +175,7 @@
     "libilbc": "libilbc",
     "libimagequant": "libimagequant",
     "libimobiledevice": "libimobiledevice",
+    "libimobiledevice-glue": "libimobiledevice-glue",
     "libinih": "inih",
     "libiptcdata": "libiptcdata",
     "libirecovery": "libirecovery",
@@ -329,6 +330,7 @@
     "libsvm": "libsvm",
     "libtar": "libtar",
     "libtasn1": "libtasn1",
+    "libtatsu": "libtatsu",
     "libtcod": "libtcod",
     "libtermkey": "libtermkey",
     "libtextstyle": "gettext",

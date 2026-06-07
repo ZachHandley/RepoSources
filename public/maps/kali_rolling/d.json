@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "d",
-    "total_mappings": 257
+    "total_mappings": 256
   },
   "mappings": {
     "daemon": "daemon",
@@ -31,8 +31,6 @@
     "dasm": "dasm",
     "datalad": "datalad",
     "datamash": "datamash",
-    "datasette": "datasette",
-    "datasette-doc": "datasette",
     "datatype99": "datatype99",
     "dateutils": "dateutils",
     "dav1d": "dav1d",
@@ -167,6 +165,7 @@
     "dnsmasq-base": "dnsmasq",
     "dnsmasq-base-lua": "dnsmasq",
     "dnsmasq-utils": "dnsmasq",
+    "dnsperf": "dnsperf",
     "dnstop": "dnstop",
     "dnstracer": "dnstracer",
     "dnstwist": "dnstwist",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "s",
-    "total_mappings": 109
+    "total_mappings": 110
   },
   "mappings": {
     "s2n-tls": "s2n",
@@ -18,6 +18,7 @@
     "screen": "screen",
     "sdl12-compat": "sdl12-compat",
     "sdl2": "sdl2",
+    "sdl2-compat": "sdl2-compat",
     "sdl2_gfx": "sdl2_gfx",
     "sdl2_image": "sdl2_image",
     "sdl2_mixer": "sdl2_mixer",

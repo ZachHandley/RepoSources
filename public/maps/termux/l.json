@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "l",
@@ -308,8 +308,8 @@
     "libtheora": "theora",
     "libtiff": "libtiff",
     "libtins": "libtins",
-    "libtinyxml": "tinyxml",
-    "libtinyxml2": "tinyxml",
+    "libtinyxml": "tinyxml2",
+    "libtinyxml2": "tinyxml2",
     "libtirpc": "libtirpc",
     "libtomcrypt": "libtomcrypt",
     "libtommath": "libtommath",

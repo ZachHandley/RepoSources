@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "b",
-    "total_mappings": 356
+    "total_mappings": 358
   },
   "mappings": {
     "babelfish": "babelfish",
@@ -343,6 +343,8 @@
     "bullet-docs-git": "bullet",
     "bullet-git": "bullet",
     "bumblebee-git": "bumblebee",
+    "bun-bin": "bun",
+    "bun-git": "bun",
     "bundletool": "bundletool",
     "bundletool-git": "bundletool",
     "bunster": "bunster",

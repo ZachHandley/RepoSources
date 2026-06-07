@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "v",
-    "total_mappings": 172
+    "total_mappings": 177
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -96,6 +96,11 @@
     "vile-common": "vile",
     "vile-doc": "vile",
     "vim": "vim",
+    "vim-classic": "vim-classic",
+    "vim-classic-common": "vim-classic",
+    "vim-classic-doc": "vim-classic",
+    "vim-classic-tutor": "vim-classic",
+    "vim-classic-xxd": "vim-classic",
     "vim-common": "vim",
     "vim-doc": "vim",
     "vim-tutor": "vim",

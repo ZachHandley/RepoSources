@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_6_0",
     "shard": "l",
-    "total_mappings": 6088
+    "total_mappings": 6090
   },
   "mappings": {
     "LimeSuite": "limesuite",
@@ -2560,6 +2560,8 @@
     "lib64microhttpd12": "libmicrohttpd",
     "lib64mikmod-devel": "libmikmod",
     "lib64mikmod3": "libmikmod",
+    "lib64miniz-devel": "miniz",
+    "lib64miniz2": "miniz",
     "lib64minizip-devel": "minizip",
     "lib64minizip-ng": "minizip-ng",
     "lib64minizip-ng-devel": "minizip-ng",
@@ -3899,10 +3901,10 @@
     "lib64tinysparql": "tinysparql",
     "lib64tinysparql-devel": "tinysparql",
     "lib64tinysparql-gir3.0": "tinysparql",
-    "lib64tinyxml-devel": "tinyxml",
-    "lib64tinyxml0": "tinyxml",
-    "lib64tinyxml2": "tinyxml",
-    "lib64tinyxml2-devel": "tinyxml",
+    "lib64tinyxml-devel": "tinyxml2",
+    "lib64tinyxml0": "tinyxml2",
+    "lib64tinyxml2": "tinyxml2",
+    "lib64tinyxml2-devel": "tinyxml2",
     "lib64tirpc": "libtirpc",
     "lib64tirpc-devel": "libtirpc",
     "lib64tirpc-static-devel": "libtirpc",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "mx_25_testing",
     "shard": "l",
-    "total_mappings": 84
+    "total_mappings": 88
   },
   "mappings": {
     "libaqbanking": "aqbanking",
@@ -13,6 +13,10 @@
     "libaqbanking44": "aqbanking",
     "libasio-dev": "asio",
     "libasio-doc": "asio",
+    "libaudcore6": "audacious",
+    "libaudgui6": "audacious",
+    "libaudqt4": "audacious",
+    "libaudtag3t64": "audacious",
     "libbabl-0.1-0": "babl",
     "libbabl-dev": "babl",
     "libbabl-doc": "babl",

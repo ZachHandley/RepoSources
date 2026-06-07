@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "e",
-    "total_mappings": 41
+    "total_mappings": 40
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -27,7 +27,6 @@
     "enchant": "enchant",
     "enchant2": "enchant",
     "enet": "enet",
-    "enigma": "enigma",
     "enscript": "enscript",
     "enter-tex": "enter-tex",
     "epeg": "epeg",

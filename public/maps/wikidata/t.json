@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "t",
-    "total_mappings": 48
+    "total_mappings": 47
   },
   "mappings": {
     "TRE": "tre",
-    "TUIOS": "tuios",
     "TagLib": "taglib",
     "Taplo": "taplo",
     "Tarantool": "tarantool",
@@ -29,7 +28,7 @@
     "TinTin++": "tintin",
     "Tiny C Compiler": "tcc",
     "TinySPARQL": "tinysparql",
-    "TinyXML": "tinyxml",
+    "TinyXML": "tinyxml2",
     "Tinyproxy": "tinyproxy",
     "Tokei": "tokei",
     "Tombi": "tombi",

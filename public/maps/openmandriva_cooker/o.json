@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "o",
-    "total_mappings": 189
+    "total_mappings": 195
   },
   "mappings": {
     "OpenColorIO": "opencolorio",
@@ -163,17 +163,23 @@
     "openssh-clients": "openssh",
     "openssh-server": "openssh",
     "openssl": "openssl@3",
-    "openssl-32": "openssl@4",
     "openssl-perl": "openssl@4",
     "openssl10": "openssl@4",
     "openssl10-debuginfo": "openssl@4",
     "openssl10-debugsource": "openssl@4",
+    "openssl3": "openssl@4",
+    "openssl3-perl": "openssl@4",
     "opensubdiv": "opensubdiv",
     "opensubdiv-debuginfo": "opensubdiv",
     "opensubdiv-debugsource": "opensubdiv",
     "opensubdiv-doc": "opensubdiv",
     "opentofu": "opentofu",
     "opentyrian": "open-tyrian",
+    "openvdb": "openvdb",
+    "openvdb-debuginfo": "openvdb",
+    "openvdb-debugsource": "openvdb",
+    "openvdb-nanovdb": "openvdb",
+    "openvdb-nanovdb-devel": "openvdb",
     "openvpn": "openvpn",
     "openvpn-devel": "openvpn",
     "oping": "liboping",

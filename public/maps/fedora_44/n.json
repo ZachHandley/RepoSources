@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "n",
-    "total_mappings": 342
+    "total_mappings": 345
   },
   "mappings": {
     "NLopt": "nlopt",
@@ -332,6 +332,9 @@
     "numpy": "numpy",
     "numpy-debuginfo": "numpy",
     "numpy-debugsource": "numpy",
+    "nushell": "nushell",
+    "nushell-debuginfo": "nushell",
+    "nushell-debugsource": "nushell",
     "nuspell": "nuspell",
     "nuspell-devel": "nuspell",
     "nut": "nut",

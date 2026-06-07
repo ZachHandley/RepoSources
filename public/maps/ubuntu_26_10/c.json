@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "c",
-    "total_mappings": 550
+    "total_mappings": 556
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -113,6 +113,7 @@
     "cgoban": "cgoban",
     "cgvg": "cgvg",
     "chafa": "chafa",
+    "changie": "changie",
     "chardet": "chardet",
     "charls": "charls",
     "charon-cmd": "strongswan",
@@ -127,6 +128,10 @@
     "chezscheme": "chezscheme",
     "chezscheme-dev": "chezscheme",
     "chezscheme-doc": "chezscheme",
+    "chibi-scheme": "chibi-scheme",
+    "chibi-scheme-common": "chibi-scheme",
+    "chibi-scheme-doc": "chibi-scheme",
+    "chibi-scheme-images": "chibi-scheme",
     "chicken": "chicken",
     "chicken-bin": "chicken",
     "chipmunk": "chipmunk-physics",
@@ -490,6 +495,7 @@
     "cpprest": "cpprestsdk",
     "cpptest": "cpptest",
     "cpptoml": "cpptoml",
+    "cpptrace": "cpptrace",
     "cppunit": "cppunit",
     "cpputest": "cpputest",
     "cppzmq": "cppzmq",

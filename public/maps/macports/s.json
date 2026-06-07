@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "s",
-    "total_mappings": 1028
+    "total_mappings": 1029
   },
   "mappings": {
     "SDL3": "sdl3",
     "SDL3_image": "sdl3_image",
     "SDL3_mixer": "sdl3_mixer",
+    "SDL3_net": "sdl3_net",
     "SDL3_ttf": "sdl3_ttf",
     "SoapyHackRF": "soapyhackrf",
     "SoapyRTLSDR": "soapyrtlsdr",

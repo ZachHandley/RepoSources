@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "x",
-    "total_mappings": 87
+    "total_mappings": 89
   },
   "mappings": {
     "x11proto-core-dev": "xorgproto",
@@ -59,6 +59,8 @@
     "xfs-modules-6.18.31-s390x-di": "linux-headers@6.8",
     "xfs-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "xfs-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "xfs-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "xfs-modules-6.18.32-arm64-di": "linux-headers@6.8",
     "xinput": "xinput",
     "xkb-data": "xkeyboard-config",
     "xkb-data-udeb": "xkeyboard-config",

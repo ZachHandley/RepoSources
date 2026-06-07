@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "l",
-    "total_mappings": 5575
+    "total_mappings": 5576
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -221,6 +221,7 @@
     "lib64bind9.18.33": "bind",
     "lib64bind9.18.39": "bind",
     "lib64bind9.18.47": "bind",
+    "lib64bind9.18.49": "bind",
     "lib64binio-devel": "libbinio",
     "lib64binio1": "libbinio",
     "lib64binutils-devel": "aarch64-elf-binutils",
@@ -2175,10 +2176,10 @@
     "lib64tiff-devel": "libtiff",
     "lib64tiff-static-devel": "libtiff",
     "lib64tiff6": "libtiff",
-    "lib64tinyxml-devel": "tinyxml",
-    "lib64tinyxml0": "tinyxml",
-    "lib64tinyxml2-devel": "tinyxml",
-    "lib64tinyxml2_9": "tinyxml",
+    "lib64tinyxml-devel": "tinyxml2",
+    "lib64tinyxml0": "tinyxml2",
+    "lib64tinyxml2-devel": "tinyxml2",
+    "lib64tinyxml2_9": "tinyxml2",
     "lib64tirpc-devel": "libtirpc",
     "lib64tirpc3": "libtirpc",
     "lib64tommath-devel": "libtommath",

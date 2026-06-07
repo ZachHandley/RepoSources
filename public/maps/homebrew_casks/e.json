@@ -1,14 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "homebrew_casks",
     "shard": "e",
-    "total_mappings": 3
+    "total_mappings": 5
   },
   "mappings": {
     "Emacs": "emacs",
+    "Enigma": "enigma",
     "emacs-app": "emacs",
-    "emacs-app@nightly": "emacs"
+    "emacs-app@nightly": "emacs",
+    "enigma-game": "enigma"
   }
 }

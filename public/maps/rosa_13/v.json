@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "v",
-    "total_mappings": 92
+    "total_mappings": 95
   },
   "mappings": {
     "vala": "vala",
@@ -24,6 +24,9 @@
     "vapoursynth-debugsource": "vapoursynth",
     "vapoursynth-doc": "vapoursynth",
     "vapoursynth-plugin-BM3D": "vapoursynth-bm3d",
+    "vapoursynth-plugin-mvtools": "vapoursynth-mvtools",
+    "vapoursynth-plugin-mvtools-debuginfo": "vapoursynth-mvtools",
+    "vapoursynth-plugin-mvtools-debugsource": "vapoursynth-mvtools",
     "vcdimager": "vcdimager",
     "vde2": "vde",
     "ved": "star",

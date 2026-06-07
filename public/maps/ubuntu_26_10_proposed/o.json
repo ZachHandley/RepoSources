@@ -1,14 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "o",
-    "total_mappings": 66
+    "total_mappings": 59
   },
   "mappings": {
-    "oath-toolkit": "oath-toolkit",
-    "oathtool": "oath-toolkit",
     "objfw": "objfw",
     "ocaml-dune": "dune",
     "ocaml-dune-source": "dune",
@@ -18,8 +16,6 @@
     "octave-common": "octave",
     "octave-dev": "octave",
     "octave-doc": "octave",
-    "octave-plplot": "plplot",
-    "odbc-postgresql": "psqlodbc",
     "odbcinst": "unixodbc",
     "ofarc": "objfw",
     "ofdns": "objfw",
@@ -69,9 +65,6 @@
     "openvdb": "openvdb",
     "openvpn": "openvpn",
     "opkssh": "opkssh",
-    "orcania": "orcania",
-    "osm2pgrouting": "osm2pgrouting",
-    "osrm-backend": "osrm-backend",
-    "osrm-backend-service": "osrm-backend"
+    "osm2pgrouting": "osm2pgrouting"
   }
 }

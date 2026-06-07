@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "trisquel_11_0",
     "shard": "w",
-    "total_mappings": 109
+    "total_mappings": 110
   },
   "mappings": {
     "w3m": "w3m",
@@ -82,6 +82,7 @@
     "wixl": "msitools",
     "wixl-data": "msitools",
     "wks2ods": "writerperfect",
+    "wl-clipboard": "wl-clipboard",
     "wmctrl": "wmctrl",
     "woff2": "woff2",
     "wolfssl": "wolfssl",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "p",
@@ -283,8 +283,8 @@
     "programming/misc/redland": "redland",
     "programming/misc/setconf": "setconf",
     "programming/misc/source-highlight": "source-highlight",
-    "programming/misc/tinyxml": "tinyxml",
-    "programming/misc/tinyxml2": "tinyxml",
+    "programming/misc/tinyxml": "tinyxml2",
+    "programming/misc/tinyxml2": "tinyxml2",
     "programming/misc/unixODBC": "unixodbc",
     "programming/misc/xapian-core": "xapian",
     "programming/misc/xerces-c": "xerces-c",

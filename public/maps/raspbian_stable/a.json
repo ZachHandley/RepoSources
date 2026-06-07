@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "a",
-    "total_mappings": 330
+    "total_mappings": 334
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -116,7 +116,7 @@
     "ancient": "ancient",
     "angband": "angband",
     "angband-data": "angband",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-lint": "ansible-lint",
     "ansifilter": "ansifilter",
     "ansifilter-gui": "ansifilter",
@@ -273,6 +273,10 @@
     "atomicparsley": "atomicparsley",
     "atool": "atool",
     "atop": "atop",
+    "ats-lang-anairiats": "ats2-postiats",
+    "ats-lang-anairiats-doc": "ats2-postiats",
+    "ats-lang-anairiats-examples": "ats2-postiats",
+    "ats2-lang": "ats2-postiats",
     "attr": "attr",
     "attr-udeb": "attr",
     "atuin": "atuin",

@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-07T06:16:43Z",
+    "source": "repology-dump",
+    "distro": "nix_stable_26_05",
+    "shard": "_misc",
+    "total_mappings": 12
+  },
+  "mappings": {
+    "0install-solver": "zero-install",
+    "3mux": "threemux",
+    "64tass": "tass64",
+    "6tunnel": "sixtunnel",
+    "7kaa": "seven-kingdoms",
+    "7zz": "sevenzip",
+    "_3mux": "threemux",
+    "_64tass": "tass64",
+    "_6tunnel": "sixtunnel",
+    "_7kaa": "seven-kingdoms",
+    "_7zz": "sevenzip",
+    "_7zz-rar": "sevenzip"
+  }
+}

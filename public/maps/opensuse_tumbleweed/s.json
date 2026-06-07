@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "s",
-    "total_mappings": 892
+    "total_mappings": 900
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -222,6 +222,10 @@
     "sdl12_compat-debuginfo": "sdl12-compat",
     "sdl12_compat-debugsource": "sdl12-compat",
     "sdl12_compat-devel": "sdl12-compat",
+    "sdl2-compat": "sdl2-compat",
+    "sdl2-compat-debuginfo": "sdl2-compat",
+    "sdl2-compat-debugsource": "sdl2-compat",
+    "sdl2-compat-devel": "sdl2-compat",
     "sdlpop": "sdlpop",
     "sdlpop-debuginfo": "sdlpop",
     "sdlpop-debugsource": "sdlpop",
@@ -290,13 +294,17 @@
     "shaderc-debugsource": "shaderc",
     "shaderc-devel": "shaderc",
     "shadowsocks-libev": "shadowsocks-libev",
+    "shadowsocks-libev-apparmor": "shadowsocks-libev",
     "shadowsocks-libev-debuginfo": "shadowsocks-libev",
     "shadowsocks-libev-debugsource": "shadowsocks-libev",
     "shadowsocks-libev-devel": "shadowsocks-libev",
     "shadowsocks-libev-doc": "shadowsocks-libev",
+    "shadowsocks-libev-selinux": "shadowsocks-libev",
     "shadowsocks-rust": "shadowsocks-rust",
+    "shadowsocks-rust-apparmor": "shadowsocks-rust",
     "shadowsocks-rust-debuginfo": "shadowsocks-rust",
     "shadowsocks-rust-debugsource": "shadowsocks-rust",
+    "shadowsocks-rust-selinux": "shadowsocks-rust",
     "shairport-sync": "shairport-sync",
     "shairport-sync-debuginfo": "shairport-sync",
     "shairport-sync-debugsource": "shairport-sync",

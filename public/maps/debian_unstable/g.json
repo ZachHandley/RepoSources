@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "g",
-    "total_mappings": 2038
+    "total_mappings": 2035
   },
   "mappings": {
     "g++-11": "gcc@14",
@@ -236,7 +236,6 @@
     "gcc-11-hppa64-linux-gnu": "gcc@14",
     "gcc-11-locales": "gcc@14",
     "gcc-11-multilib": "gcc@14",
-    "gcc-11-offload-amdgcn": "gcc@14",
     "gcc-11-offload-nvptx": "gcc@14",
     "gcc-11-plugin-dev": "gcc@14",
     "gcc-11-test-results": "gcc@14",
@@ -410,7 +409,6 @@
     "gcc-16-test-results": "gcc@14",
     "gcc-16-x86-64-linux-gnu": "gcc@14",
     "gcc-16-x86-64-linux-gnux32": "gcc@14",
-    "gccbrig-11": "gcc@14",
     "gccgo-11": "gcc@14",
     "gccgo-11-doc": "gcc@14",
     "gccgo-11-multilib": "gcc@14",
@@ -1214,7 +1212,6 @@
     "glulxe": "glulxe",
     "glyr": "glyr",
     "glyrc": "glyr",
-    "gm2-11": "gcc@14",
     "gm2-12": "gcc@14",
     "gm2-12-doc": "gcc@14",
     "gm2-13": "gcc@14",

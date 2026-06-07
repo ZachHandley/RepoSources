@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_5_0",
     "shard": "m",
-    "total_mappings": 433
+    "total_mappings": 436
   },
   "mappings": {
     "MHonArc": "mhonarc",
@@ -136,6 +136,9 @@
     "minised-debuginfo": "minised",
     "minised-debugsource": "minised",
     "miniupnpc": "miniupnpc",
+    "miniz": "miniz",
+    "miniz-debuginfo": "miniz",
+    "miniz-debugsource": "miniz",
     "minizip-ng": "minizip-ng",
     "minizip-ng-debuginfo": "minizip-ng",
     "minizip-ng-debugsource": "minizip-ng",

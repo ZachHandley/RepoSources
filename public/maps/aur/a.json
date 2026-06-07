@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "a",
-    "total_mappings": 1623
+    "total_mappings": 1624
   },
   "mappings": {
     "a52dec-git": "a52dec",
@@ -1518,6 +1518,7 @@
     "asf-plugin-steamtokendumper": "archi-steam-farm",
     "asio-git": "asio",
     "asm-lsp": "asm-lsp",
+    "asm6809": "asm6809",
     "asmfmt": "asmfmt",
     "asn-git": "asn",
     "asn1c": "asn1c",

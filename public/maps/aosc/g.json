@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "g",
-    "total_mappings": 162
+    "total_mappings": 164
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -16,7 +16,9 @@
     "gcc": "gcc@14",
     "gcc+32": "gcc@14",
     "gcc-13": "gcc@14",
+    "gcc-14": "gcc@14",
     "gcc-15": "gcc@14",
+    "gcc-16": "gcc@14",
     "gcc-runtime": "gcc@14",
     "gdal": "gdal",
     "gdb": "gdb",

@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "r",
-    "total_mappings": 27
+    "total_mappings": 25
   },
   "mappings": {
-    "radare2": "radare2",
     "redis": "redis",
     "redis-sentinel": "redis@8.2",
     "redis-server": "redis@8.2",
@@ -28,7 +27,6 @@
     "rust-clippy": "rust",
     "rust-doc": "rust",
     "rust-gdb": "rust",
-    "rust-jaq": "jaq",
     "rust-lldb": "rust",
     "rust-llvm": "rust",
     "rust-src": "rust",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04_backports",
     "shard": "l",
@@ -23,8 +23,8 @@
     "libseccomp": "libseccomp",
     "libseccomp-dev": "libseccomp",
     "libseccomp2": "libseccomp",
-    "libtinyxml2-2": "tinyxml",
-    "libtinyxml2-dev": "tinyxml",
+    "libtinyxml2-2": "tinyxml2",
+    "libtinyxml2-dev": "tinyxml2",
     "lmdb": "lmdb",
     "lmdb-dbg": "lmdb",
     "lmdb-doc": "lmdb",

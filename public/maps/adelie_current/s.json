@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "adelie_current",
     "shard": "s",
-    "total_mappings": 228
+    "total_mappings": 229
   },
   "mappings": {
     "s6": "s6",
@@ -83,6 +83,7 @@
     "sane-backend-pixma": "sane-backends",
     "sane-backend-plustek": "sane-backends",
     "sane-backend-plustek_pp": "sane-backends",
+    "sane-backend-qcam": "sane-backends",
     "sane-backend-ricoh": "sane-backends",
     "sane-backend-ricoh2": "sane-backends",
     "sane-backend-rts8891": "sane-backends",

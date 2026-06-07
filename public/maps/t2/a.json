@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "a",
-    "total_mappings": 75
+    "total_mappings": 76
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -32,7 +32,7 @@
     "allegro": "allegro",
     "alpine": "alpine",
     "alsa-lib": "alsa-lib",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "antiword": "antiword",
     "aoeui": "aoeui",
     "apache": "httpd",
@@ -81,6 +81,7 @@
     "avahi": "avahi",
     "avfs": "avfs",
     "avrdude": "avrdude",
-    "axel": "axel"
+    "axel": "axel",
+    "ayatana-ido": "ayatana-ido"
   }
 }

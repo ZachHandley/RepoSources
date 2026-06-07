@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openeuler_22_03_lts_sp1",
     "shard": "a",
@@ -39,8 +39,8 @@
     "alsa-lib-devel": "alsa-lib",
     "alsa-topology": "alsa-lib",
     "alsa-ucm": "alsa-lib",
-    "ansible": "ansible@12",
-    "ansible-help": "ansible@12",
+    "ansible": "ansible@13",
+    "ansible-help": "ansible@13",
     "ant": "ant",
     "ant-antlr": "ant@1.9",
     "ant-apache-bcel": "ant@1.9",

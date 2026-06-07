@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "v",
-    "total_mappings": 58
+    "total_mappings": 59
   },
   "mappings": {
     "v8": "v8",
@@ -21,6 +21,7 @@
     "varnish": "varnish",
     "vc": "vc",
     "vcdimager": "vcdimager",
+    "vde2": "vde",
     "vgabios": "qemu",
     "vice": "vice",
     "vice-gtk": "vice",

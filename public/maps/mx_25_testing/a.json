@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "mx_25_testing",
     "shard": "a",
-    "total_mappings": 2
+    "total_mappings": 4
   },
   "mappings": {
     "aqbanking-tools": "aqbanking",
-    "asio": "asio"
+    "asio": "asio",
+    "audacious": "audacious",
+    "audacious-dev": "audacious"
   }
 }

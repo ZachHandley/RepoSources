@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "g",
-    "total_mappings": 976
+    "total_mappings": 978
   },
   "mappings": {
     "GLEW": "glew",
@@ -193,6 +193,8 @@
     "gdb-debuginfo": "aarch64-elf-gdb",
     "gdb-light": "aarch64-elf-gdb",
     "gdb-light-debuginfo": "aarch64-elf-gdb",
+    "gdbgui": "gdbgui",
+    "gdbgui-docs": "gdbgui",
     "gdbm": "gdbm",
     "gdbm-debuginfo": "gdbm",
     "gdbm3": "gdbm",

@@ -1,12 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "terra_41",
     "shard": "t",
-    "total_mappings": 18
+    "total_mappings": 21
   },
   "mappings": {
+    "tdf": "tdf",
+    "tdf-debuginfo": "tdf",
+    "tdf-debugsource": "tdf",
     "tdlib-nightly": "tdlib",
     "tdlib-nightly-debuginfo": "tdlib",
     "tdlib-nightly-debugsource": "tdlib",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_games_tumbleweed",
     "shard": "l",
-    "total_mappings": 154
+    "total_mappings": 156
   },
   "mappings": {
     "lgeneral": "lgeneral",
@@ -51,6 +51,7 @@
     "libProducer1": "open-scene-graph",
     "libProducer1-devel": "open-scene-graph",
     "libSDL-1_2-0": "sdl12-compat",
+    "libSDL2-2_0-0": "sdl2-compat",
     "libSDL2_gfx-1_0-0": "sdl2_gfx",
     "libSDL2_gfx-devel": "sdl2_gfx",
     "libSDL2_image-2_0-0": "sdl2_image",
@@ -61,6 +62,7 @@
     "libSDL3-0": "sdl3",
     "libSDL3_image0": "sdl3_image",
     "libSDL3_mixer0": "sdl3_mixer",
+    "libSDL3_net0": "sdl3_net",
     "libSDL3_ttf0": "sdl3_ttf",
     "libSDL_gfx-devel": "sdl_gfx",
     "libSDL_gfx16": "sdl_gfx",

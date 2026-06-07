@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "deb_multimedia_unstable",
     "shard": "f",
-    "total_mappings": 19
+    "total_mappings": 18
   },
   "mappings": {
     "faac": "faac",
@@ -14,7 +14,6 @@
     "fdkaac-dmo": "fdk-aac-encoder",
     "ffmpeg": "ffmpeg@7",
     "ffmpeg-6-dmo": "ffmpeg@7",
-    "ffmpeg-7-dmo": "ffmpeg@7",
     "ffmpeg-dmo": "ffmpeg@7",
     "ffmpeg-doc": "ffmpeg@7",
     "ffmpegthumbnailer": "ffmpegthumbnailer",

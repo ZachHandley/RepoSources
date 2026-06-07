@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "l",
-    "total_mappings": 865
+    "total_mappings": 863
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -223,6 +223,7 @@
     "lib32-readline": "readline",
     "lib32-rust-libs": "rust",
     "lib32-sdl12-compat": "sdl12-compat",
+    "lib32-sdl2-compat": "sdl2-compat",
     "lib32-sdl2_image": "sdl2_image",
     "lib32-sdl2_mixer": "sdl2_mixer",
     "lib32-sdl2_ttf": "sdl2_ttf",
@@ -384,7 +385,6 @@
     "libgda6-mysql": "libgda",
     "libgda6-postgres": "libgda",
     "libgda6-sqlcipher": "libgda",
-    "libgdata": "libgdata",
     "libgdiplus": "mono-libgdiplus",
     "libgedit-amtk": "libgedit-amtk",
     "libgedit-gfls": "libgedit-gfls",
@@ -515,6 +515,7 @@
     "libnsbmp": "libnsbmp",
     "libnsgif": "libnsgif",
     "libnsl": "libnsl",
+    "libntfs-3g": "ntfs-3g",
     "liboauth": "liboauth",
     "libobjc": "gcc@14",
     "libodfgen": "libodfgen",
@@ -615,8 +616,6 @@
     "libsndfile": "libsndfile",
     "libsodium": "libsodium",
     "libsolv": "libsolv",
-    "libsoup": "libsoup@2",
-    "libsoup-docs": "libsoup@2",
     "libsoup3": "libsoup@2",
     "libsoup3-docs": "libsoup@2",
     "libsoxr": "libsoxr",
@@ -645,7 +644,6 @@
     "libtasn1": "libtasn1",
     "libtatsu": "libtatsu",
     "libtecla": "libtecla",
-    "libtermkey": "libtermkey",
     "libthai": "libthai",
     "libtheora": "theora",
     "libtiff": "libtiff",

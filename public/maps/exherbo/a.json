@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "a",
     "total_mappings": 246
   },
   "mappings": {
-    "app-admin/ansible": "ansible@12",
+    "app-admin/ansible": "ansible@13",
     "app-admin/augeas": "augeas",
     "app-admin/chrpath": "chrpath",
     "app-admin/lnav": "lnav",

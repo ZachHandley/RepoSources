@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alpine_3_18",
     "shard": "a",
@@ -161,10 +161,10 @@
     "alsa-lib-dev": "alsa-lib",
     "amfora": "amfora",
     "android-tools-zsh-completion": "zsh",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-lint": "ansible-lint",
     "ansible-lint-pyc": "ansible-lint",
-    "ansible-pyc": "ansible@12",
+    "ansible-pyc": "ansible@13",
     "antiword": "antiword",
     "aom": "aom",
     "aom-dev": "aom",

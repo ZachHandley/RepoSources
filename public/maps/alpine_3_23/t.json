@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alpine_3_23",
     "shard": "t",
@@ -223,8 +223,8 @@
     "tinysparql-doc": "tinysparql",
     "tinysparql-lang": "tinysparql",
     "tinysparql-systemd": "tinysparql",
-    "tinyxml": "tinyxml",
-    "tinyxml-dev": "tinyxml",
+    "tinyxml": "tinyxml2",
+    "tinyxml-dev": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tinyxml2-dev": "tinyxml2",
     "tio": "tio",

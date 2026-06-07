@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "g",
-    "total_mappings": 748
+    "total_mappings": 755
   },
   "mappings": {
     "g++": "gcc@14",
@@ -335,6 +335,11 @@
     "gitlab-runner": "gitlab-runner",
     "gitlab-runner-helper": "gitlab-runner",
     "gitlab-runner-openrc": "gitlab-runner",
+    "gitleaks": "gitleaks",
+    "gitleaks-bash-completion": "gitleaks",
+    "gitleaks-doc": "gitleaks",
+    "gitleaks-fish-completion": "gitleaks",
+    "gitleaks-zsh-completion": "gitleaks",
     "gitlint": "gitlint",
     "gitlint-pyc": "gitlint",
     "gitoxide": "gitoxide",
@@ -467,6 +472,7 @@
     "gnupg-keyboxd": "gnupg@1.4",
     "gnupg-lang": "gnupg@1.4",
     "gnupg-scdaemon": "gnupg@1.4",
+    "gnupg-scdaemon-udev": "gnupg@1.4",
     "gnupg-utils": "gnupg@1.4",
     "gnupg-wks-client": "gnupg@1.4",
     "gnuplot": "gnuplot",
@@ -741,6 +747,7 @@
     "gupnp-dev": "gupnp",
     "gupnp-doc": "gupnp",
     "gvim": "vim",
+    "gvim-classic": "vim-classic",
     "gvncviewer": "gtk-vnc",
     "gwenhywfar": "gwenhywfar",
     "gwenhywfar-dev": "gwenhywfar",

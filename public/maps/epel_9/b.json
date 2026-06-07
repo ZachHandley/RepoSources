@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "b",
-    "total_mappings": 248
+    "total_mappings": 253
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -231,6 +231,11 @@
     "bpftop": "bpftop",
     "bpftop-debuginfo": "bpftop",
     "bpftop-debugsource": "bpftop",
+    "bstring": "bstring",
+    "bstring-debuginfo": "bstring",
+    "bstring-debugsource": "bstring",
+    "bstring-devel": "bstring",
+    "bstring-doc": "bstring",
     "btop": "btop",
     "btop-debuginfo": "btop",
     "btop-debugsource": "btop",

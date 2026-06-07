@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "p",
-    "total_mappings": 417
+    "total_mappings": 419
   },
   "mappings": {
     "PDAL": "pdal",
@@ -84,6 +84,9 @@
     "pdns-debuginfo": "pdns",
     "pdns-debugsource": "pdns",
     "pdns-ixfrdist": "pdns",
+    "pdns-recursor": "pdnsrec",
+    "pdns-recursor-debuginfo": "pdnsrec",
+    "pdns-recursor-debugsource": "pdnsrec",
     "pdns-tools": "pdns",
     "perl-Collectd": "collectd",
     "perl-Image-ExifTool": "exiftool",
@@ -398,7 +401,6 @@
     "python3-uwsgidecorators": "uwsgi",
     "python3-vapoursynth": "vapoursynth",
     "python3-vdirsyncer": "vdirsyncer",
-    "python3-vici": "strongswan",
     "python3-virtualenv": "virtualenv",
     "python3-wxpython4": "wxpython",
     "python3-wxpython4-media": "wxpython",

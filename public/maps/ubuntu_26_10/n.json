@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "n",
-    "total_mappings": 196
+    "total_mappings": 195
   },
   "mappings": {
     "nacl": "nacl",
@@ -180,7 +180,6 @@
     "ntfs-3g-udeb": "ntfs-3g",
     "ntl": "ntl",
     "nudoku": "nudoku",
-    "nuitka": "nuitka",
     "num-utils": "num-utils",
     "numactl": "numactl",
     "numbat": "numbat",

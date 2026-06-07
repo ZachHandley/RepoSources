@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openeuler_24_09",
     "shard": "a",
@@ -46,9 +46,9 @@
     "amtterm": "amtterm",
     "amtterm-debuginfo": "amtterm",
     "amtterm-debugsource": "amtterm",
-    "ansible": "ansible@12",
-    "ansible-doc": "ansible@12",
-    "ansible-test": "ansible@12",
+    "ansible": "ansible@13",
+    "ansible-doc": "ansible@13",
+    "ansible-test": "ansible@13",
     "ant": "ant",
     "ant-antlr": "ant@1.9",
     "ant-apache-bcel": "ant@1.9",

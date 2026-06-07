@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "g",
-    "total_mappings": 580
+    "total_mappings": 584
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -283,6 +283,8 @@
     "gnome-autoar-debuginfo": "gnome-autoar",
     "gnome-autoar-debugsource": "gnome-autoar",
     "gnome-builder": "gnome-builder",
+    "gnome-builder-debuginfo": "gnome-builder",
+    "gnome-builder-debugsource": "gnome-builder",
     "gnome-latex": "enter-tex",
     "gnome-latex-debuginfo": "enter-tex",
     "gnome-latex-debugsource": "enter-tex",
@@ -522,6 +524,8 @@
     "gtksourceview4-debuginfo": "gtksourceview3",
     "gtksourceview4-debugsource": "gtksourceview3",
     "gtksourceview5": "gtksourceview5",
+    "gtksourceview5-debuginfo": "gtksourceview3",
+    "gtksourceview5-debugsource": "gtksourceview3",
     "gtksourceviewmm": "gtksourceviewmm3",
     "gtksourceviewmm-debuginfo": "gtksourceviewmm3",
     "gtksourceviewmm-debugsource": "gtksourceviewmm3",

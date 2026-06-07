@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "s",
@@ -18,7 +18,7 @@
     "system/aha": "aha",
     "system/aide": "aide",
     "system/ancient": "ancient",
-    "system/ansible": "ansible@12",
+    "system/ansible": "ansible@13",
     "system/ansifilter": "ansifilter",
     "system/apache-activemq": "activemq",
     "system/apache-cassandra": "cassandra",

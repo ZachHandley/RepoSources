@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "s",
-    "total_mappings": 1069
+    "total_mappings": 1073
   },
   "mappings": {
     "SCIP": "scip",
@@ -129,6 +129,7 @@
     "sdl2_ttf": "sdl2_ttf",
     "sdl3": "sdl3",
     "sdl3_image": "sdl3_image",
+    "sdl3_net": "sdl3_net",
     "sdl3_ttf": "sdl3_ttf",
     "sdl_gfx": "sdl_gfx",
     "sdlpop": "sdlpop",
@@ -363,6 +364,7 @@
     "security/py-certbot-dns-sakuracloud": "certbot",
     "security/py-certbot-nginx": "certbot",
     "security/py-fail2ban": "fail2ban",
+    "security/py-gixy": "gixy",
     "security/py-pwntools": "pwntools",
     "security/py-ssh-audit": "ssh-audit",
     "security/py-yubikey-manager": "ykman",
@@ -467,6 +469,7 @@
     "shells/dash": "dash-shell",
     "shells/elvish": "elvish",
     "shells/etsh": "etsh",
+    "shells/fd": "fdclone",
     "shells/fish": "fish",
     "shells/jailkit": "jailkit",
     "shells/ksh": "ksh93",
@@ -479,6 +482,7 @@
     "shells/oksh": "oksh",
     "shells/powershell": "powershell",
     "shells/rc": "rc",
+    "shells/rura": "rura",
     "shells/rush": "rush",
     "shells/sheldon": "sheldon",
     "shells/shellharden": "shellharden",
@@ -721,7 +725,7 @@
     "sysutils/afio": "afio",
     "sysutils/agedu": "agedu",
     "sysutils/alloy": "grafana-alloy",
-    "sysutils/ansible": "ansible@12",
+    "sysutils/ansible": "ansible@13",
     "sysutils/apachetop": "apachetop",
     "sysutils/apcupsd": "apcupsd",
     "sysutils/aptly": "aptly",

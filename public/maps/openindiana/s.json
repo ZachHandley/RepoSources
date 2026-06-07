@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "s",
@@ -141,7 +141,7 @@
     "system/library/mozilla-nss": "nss",
     "system/library/mozilla-nss/header-nss": "nss",
     "system/library/security/libgcrypt": "libgcrypt",
-    "system/management/ansible": "ansible@12",
+    "system/management/ansible": "ansible@13",
     "system/management/bmc-watchdog": "freeipmi",
     "system/management/freeipmi": "freeipmi",
     "system/management/ipmitool": "ipmitool",

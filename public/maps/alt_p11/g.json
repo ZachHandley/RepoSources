@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "g",
@@ -145,7 +145,7 @@
     "gda-control-center-debuginfo": "libgda",
     "gdal": "gdal",
     "gdal-debuginfo": "gdal",
-    "gdal-plugins": "gdal",
+    "gdal-doc": "gdal",
     "gdal-scripts": "gdal",
     "gdb": "gdb",
     "gdb-common": "aarch64-elf-gdb",

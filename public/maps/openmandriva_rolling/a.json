@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "a",
@@ -78,7 +78,7 @@
     "analog": "analog",
     "analog-debuginfo": "analog",
     "analog-debugsource": "analog",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ant": "ant",
     "ant-junit": "ant@1.9",
     "ant-lib": "ant@1.9",

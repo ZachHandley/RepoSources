@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "d",
-    "total_mappings": 1390
+    "total_mappings": 1392
   },
   "mappings": {
     "d2": "d2",
@@ -82,6 +82,8 @@
     "databases/mariadb114-server": "mariadb@11.8",
     "databases/mariadb118-client": "mariadb@11.8",
     "databases/mariadb118-server": "mariadb@11.8",
+    "databases/mariadb123-client": "mariadb@11.8",
+    "databases/mariadb123-server": "mariadb@11.8",
     "databases/mdbtools": "mdbtools",
     "databases/memcached": "memcached",
     "databases/metabase": "metabase",
@@ -1098,7 +1100,6 @@
     "devel/rust-cbindgen": "cbindgen",
     "devel/rust-script": "rust-script",
     "devel/rustup-init": "rustup",
-    "devel/rye": "rye",
     "devel/samurai": "samurai",
     "devel/sbt": "sbt",
     "devel/scc": "scc",
@@ -1396,6 +1397,7 @@
     "dyff": "dyff",
     "dynamips-community": "dynamips",
     "dynare": "dynare",
-    "dynomite": "dynomite"
+    "dynomite": "dynomite",
+    "dz6": "dz6"
   }
 }

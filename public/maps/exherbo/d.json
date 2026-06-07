@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "d",
-    "total_mappings": 524
+    "total_mappings": 525
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -336,8 +336,8 @@
     "dev-libs/tclap": "tclap",
     "dev-libs/template-glib": "template-glib",
     "dev-libs/tevent": "tevent",
-    "dev-libs/tinyxml": "tinyxml",
-    "dev-libs/tinyxml2": "tinyxml",
+    "dev-libs/tinyxml": "tinyxml2",
+    "dev-libs/tinyxml2": "tinyxml2",
     "dev-libs/tllist": "tllist",
     "dev-libs/toml11": "toml11",
     "dev-libs/tre": "tre",
@@ -368,6 +368,7 @@
     "dev-libs/zziplib": "libzzip",
     "dev-lua/busted": "busted",
     "dev-lua/lpeg": "lpeg",
+    "dev-node/bun-bin": "bun",
     "dev-node/node-semver": "semver",
     "dev-node/pnpm": "pnpm@10",
     "dev-node/yarn": "yarn",

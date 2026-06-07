@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "d",
-    "total_mappings": 283
+    "total_mappings": 284
   },
   "mappings": {
     "Dafny": "dafny",
@@ -156,6 +156,7 @@
     "djvu2pdf": "djvu2pdf",
     "djvulibre": "djvulibre",
     "dlib": "dlib",
+    "dlpack": "dlpack",
     "dmalloc": "dmalloc",
     "dmd": "dmd",
     "dmenu": "dmenu",

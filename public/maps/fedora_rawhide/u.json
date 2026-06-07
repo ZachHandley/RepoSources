@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "u",
-    "total_mappings": 218
+    "total_mappings": 220
   },
   "mappings": {
     "u2f-server": "libu2f-server",
@@ -130,6 +130,8 @@
     "uuidd": "gnu-getopt",
     "uulib-devel": "uudeview",
     "uutils-coreutils": "uutils-coreutils",
+    "uutils-coreutils-debuginfo": "uutils-coreutils",
+    "uutils-coreutils-debugsource": "uutils-coreutils",
     "uv": "uv",
     "uv-debuginfo": "uv",
     "uv-debugsource": "uv",

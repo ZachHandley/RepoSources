@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "d",
-    "total_mappings": 1143
+    "total_mappings": 1148
   },
   "mappings": {
     "d2": "d2",
@@ -71,6 +71,8 @@
     "databases/mariadb-10.9": "mariadb@11.8",
     "databases/mariadb-11.4": "mariadb@11.8",
     "databases/mariadb-11.8": "mariadb@11.8",
+    "databases/mariadb-12.3": "mariadb@11.8",
+    "databases/mariadb-devel": "mariadb@11.8",
     "databases/mdbtools": "mdbtools",
     "databases/metabase": "metabase",
     "databases/mongocli": "mongocli",
@@ -226,6 +228,7 @@
     "devel/PEGTL": "pegtl",
     "devel/SDL3": "sdl3",
     "devel/SDL3_image": "sdl3_image",
+    "devel/SDL3_net": "sdl3_net",
     "devel/SDL3_ttf": "sdl3_ttf",
     "devel/SourceKitten": "sourcekitten",
     "devel/abseil": "abseil",
@@ -303,6 +306,7 @@
     "devel/bsdmake": "bsdmake",
     "devel/buf": "buf",
     "devel/bullet": "bullet",
+    "devel/bun": "bun",
     "devel/byacc": "byacc",
     "devel/c4core": "c4core",
     "devel/capnproto": "capnp",
@@ -871,6 +875,7 @@
     "devel/readosm": "readosm",
     "devel/redo": "redo",
     "devel/remake": "remake",
+    "devel/replxx": "replxx",
     "devel/reposurgeon": "reposurgeon",
     "devel/reproc": "reproc",
     "devel/restish": "restish",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "c",
-    "total_mappings": 236
+    "total_mappings": 237
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -59,6 +59,7 @@
     "cargo-public-api": "cargo-public-api",
     "cargo-release": "cargo-release",
     "cargo-run-bin": "cargo-run-bin",
+    "cargo-show-asm": "cargo-show-asm",
     "cargo-shuttle": "cargo-shuttle",
     "cargo-sort": "cargo-sort",
     "cargo-spellcheck": "cargo-spellcheck",

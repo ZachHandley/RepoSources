@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_apps_tumbleweed",
     "shard": "l",
@@ -12,9 +12,9 @@
     "libadplug-debugsource": "adplug",
     "libadplug-devel": "adplug",
     "libadplug2_4-0": "adplug",
-    "libaudcore5": "audacious",
+    "libaudcore6": "audacious",
     "libaudgui6": "audacious",
-    "libaudqt3": "audacious",
+    "libaudqt4": "audacious",
     "libaudtag3": "audacious",
     "libcapnp-1_4_0": "capnp",
     "libcapnp-devel": "capnp",

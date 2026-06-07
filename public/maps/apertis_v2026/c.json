@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "c",
-    "total_mappings": 215
+    "total_mappings": 224
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -43,6 +43,9 @@
     "cdrom-core-modules-6.18.31-s390x-di": "linux-headers@6.8",
     "cdrom-core-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "cdrom-core-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "cdrom-core-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "cdrom-core-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "cdrom-core-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "cfitsio": "cfitsio",
     "cgif": "cgif",
     "chafa": "chafa",
@@ -188,6 +191,9 @@
     "crypto-dm-modules-6.18.31-s390x-di": "linux-headers@6.8",
     "crypto-dm-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "crypto-dm-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "crypto-dm-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "crypto-dm-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "crypto-dm-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "crypto-modules-6.18.31-alpha-generic-di": "linux-headers@6.8",
     "crypto-modules-6.18.31-amd64-di": "linux-headers@6.8",
     "crypto-modules-6.18.31-arm64-di": "linux-headers@6.8",
@@ -203,6 +209,9 @@
     "crypto-modules-6.18.31-s390x-di": "linux-headers@6.8",
     "crypto-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "crypto-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "crypto-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "crypto-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "crypto-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "cscope": "cscope",
     "ctdb": "samba",
     "cunit": "cunit",

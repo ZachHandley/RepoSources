@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "c",
-    "total_mappings": 58
+    "total_mappings": 59
   },
   "mappings": {
     "cargo-about": "cargo-about",
@@ -43,6 +43,7 @@
     "cargo-release": "cargo-release",
     "cargo-run-bin": "cargo-run-bin",
     "cargo-shear": "cargo-shear",
+    "cargo-show-asm": "cargo-show-asm",
     "cargo-shuttle": "cargo-shuttle",
     "cargo-sort": "cargo-sort",
     "cargo-spellcheck": "cargo-spellcheck",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "a",
-    "total_mappings": 994
+    "total_mappings": 997
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -35,7 +35,7 @@
     "alsa-lib": "alsa-lib",
     "alsa-lib+32": "alsa-lib",
     "android-simg2img": "simg2img",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "antiword": "antiword",
     "antlr4": "antlr",
     "antlr4-cpp-runtime": "antlr4-cpp-runtime",
@@ -45,7 +45,7 @@
     "apache-arrow": "apache-arrow",
     "apache-maven": "maven",
     "apcupsd": "apcupsd",
-    "app-admin/ansible": "ansible@12",
+    "app-admin/ansible": "ansible@13",
     "app-admin/apcupsd": "apcupsd",
     "app-admin/appstream": "appstream",
     "app-admin/appstream-glib": "appstream-glib",
@@ -209,7 +209,9 @@
     "app-devel/flex": "flex",
     "app-devel/gammaray": "gammaray",
     "app-devel/gcc-13": "gcc@14",
+    "app-devel/gcc-14": "gcc@14",
     "app-devel/gcc-15": "gcc@14",
+    "app-devel/gcc-16": "gcc@14",
     "app-devel/gdb": "aarch64-elf-gdb",
     "app-devel/gengetopt": "gengetopt",
     "app-devel/gettext": "gettext",
@@ -875,6 +877,7 @@
     "app-utils/which": "gnu-which",
     "app-utils/wimlib": "wimlib",
     "app-utils/witr": "witr",
+    "app-utils/wl-clipboard": "wl-clipboard",
     "app-utils/xclip": "xclip",
     "app-utils/xdelta": "xdelta",
     "app-utils/xdotool": "xdotool",

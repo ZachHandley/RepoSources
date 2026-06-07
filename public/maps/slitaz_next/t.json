@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
     "shard": "t",
@@ -45,8 +45,8 @@
     "timidity++": "timidity",
     "tintin++": "tintin",
     "tinyproxy": "tinyproxy",
-    "tinyxml": "tinyxml",
-    "tinyxml-dev": "tinyxml",
+    "tinyxml": "tinyxml2",
+    "tinyxml-dev": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tinyxml2-dev": "tinyxml2",
     "tmux": "tmux",

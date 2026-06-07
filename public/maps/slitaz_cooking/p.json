@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "p",
-    "total_mappings": 155
+    "total_mappings": 154
   },
   "mappings": {
     "p0f": "p0f",
@@ -25,7 +25,6 @@
     "pari": "pari",
     "pari-dev": "pari",
     "pass": "pass",
-    "passenger": "passenger",
     "patch": "gpatch",
     "patchelf": "patchelf",
     "pathfinder": "fox",

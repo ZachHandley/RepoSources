@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "w",
     "total_mappings": 1
   },
   "mappings": {
-    "wget": "wget"
+    "weechat": "weechat"
   }
 }

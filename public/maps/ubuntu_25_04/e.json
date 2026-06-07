@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_04",
     "shard": "e",
-    "total_mappings": 177
+    "total_mappings": 178
   },
   "mappings": {
     "e2fsck-static": "e2fsprogs",
@@ -44,6 +44,7 @@
     "elpa-ac-rtags": "rtags",
     "elpa-acl2": "acl2",
     "elpa-agda2-mode": "agda",
+    "elpa-ats2-mode": "ats2-postiats",
     "elpa-company-rtags": "rtags",
     "elpa-flycheck-rtags": "rtags",
     "elpa-fricas": "fricas",

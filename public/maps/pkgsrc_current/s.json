@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "s",
@@ -458,7 +458,7 @@
     "sysutils/acpica-utils": "acpica",
     "sysutils/agedu": "agedu",
     "sysutils/amtterm": "amtterm",
-    "sysutils/ansible": "ansible@12",
+    "sysutils/ansible": "ansible@13",
     "sysutils/ansible-lint": "ansible-lint",
     "sysutils/apcupsd": "apcupsd",
     "sysutils/attr": "attr",

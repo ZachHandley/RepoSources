@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "g",
-    "total_mappings": 755
+    "total_mappings": 754
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -668,7 +668,6 @@
     "graphics/tgif": "tgif",
     "graphics/tiff": "libtiff",
     "graphics/timg": "timg",
-    "graphics/tippecanoe": "tippecanoe",
     "graphics/ttygif": "ttygif",
     "graphics/ttyplot": "ttyplot",
     "graphics/unpaper": "unpaper",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "s",
-    "total_mappings": 598
+    "total_mappings": 600
   },
   "mappings": {
     "s-nail-git": "s-nail",
@@ -112,6 +112,7 @@
     "sdcv-git": "sdcv",
     "sdl12-compat-git": "sdl12-compat",
     "sdl2": "sdl2",
+    "sdl2-compat-git": "sdl2-compat",
     "sdl2-git": "sdl2",
     "sdl2_sound": "sdl2_sound",
     "sdl3-git": "sdl3",
@@ -577,6 +578,7 @@
     "swig40": "swig",
     "switch-lan-play": "switch-lan-play",
     "switch-lan-play-git": "switch-lan-play",
+    "sword-bin": "sword",
     "sword-svn": "sword",
     "swtpm-git": "swtpm",
     "sylpheed-lite": "sylpheed",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "h",
-    "total_mappings": 14
+    "total_mappings": 16
   },
   "mappings": {
     "haproxy": "haproxy",
@@ -17,6 +17,8 @@
     "hfs-modules-7.1-powerpc64-di": "linux-headers@6.8",
     "highway": "highway",
     "highway-doc": "highway",
+    "hwloc": "hwloc",
+    "hwloc-nox": "hwloc",
     "hyperv-daemons": "linux-headers@6.8",
     "hypervisor-modules-7.1-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-7.1-powerpc64le-di": "linux-headers@6.8",

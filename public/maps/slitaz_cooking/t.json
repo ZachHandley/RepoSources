@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "t",
@@ -42,7 +42,7 @@
     "tinc": "tinc",
     "tintin++": "tintin",
     "tinyproxy": "tinyproxy",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tmate": "tmate",
     "tmux": "tmux",
     "tmux-mem-cpu-load": "tmux-mem-cpu-load",

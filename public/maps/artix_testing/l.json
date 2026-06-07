@@ -1,20 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "l",
-    "total_mappings": 15
+    "total_mappings": 19
   },
   "mappings": {
     "lib32-clang": "llvm@21",
-    "lib32-fontconfig": "fontconfig",
+    "lib32-harfbuzz": "harfbuzz",
+    "lib32-harfbuzz-cairo": "harfbuzz",
+    "lib32-harfbuzz-icu": "harfbuzz",
     "lib32-llvm": "llvm@21",
     "lib32-llvm-libs": "llvm@21",
     "lib32-rust-libs": "rust",
     "libclc": "libclc",
-    "libntfs-3g": "ntfs-3g",
+    "linux": "linux-headers@6.8",
     "linux-api-headers": "linux-headers@6.8",
+    "linux-docs": "linux-headers@6.8",
+    "linux-headers": "linux-headers@6.8",
     "linux-lts515": "linux-headers@6.8",
     "linux-lts515-docs": "linux-headers@6.8",
     "linux-lts515-headers": "linux-headers@6.8",

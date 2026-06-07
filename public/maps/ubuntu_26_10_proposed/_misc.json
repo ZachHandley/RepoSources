@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "_misc",
-    "total_mappings": 5
+    "total_mappings": 4
   },
   "mappings": {
     "0install": "zero-install",
     "0install-core": "zero-install",
     "7zip": "sevenzip",
-    "7zip-rar": "sevenzip",
     "7zip-standalone": "sevenzip"
   }
 }

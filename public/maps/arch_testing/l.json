@@ -1,16 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "l",
-    "total_mappings": 5
+    "total_mappings": 3
   },
   "mappings": {
-    "lib32-fontconfig": "fontconfig",
-    "lib32-rust-libs": "rust",
     "libnpupnp": "libnpupnp",
-    "libntfs-3g": "ntfs-3g",
-    "linux-api-headers": "linux-headers@6.8"
+    "linux-tools": "linux-headers@6.8",
+    "linux-tools-meta": "linux-headers@6.8"
   }
 }

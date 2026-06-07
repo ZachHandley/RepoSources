@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "i",
-    "total_mappings": 127
+    "total_mappings": 129
   },
   "mappings": {
     "Imath": "imath",
@@ -133,6 +133,8 @@
     "iso-codes": "iso-codes",
     "iso-codes-devel": "iso-codes",
     "ispc": "ispc",
+    "ispc-debuginfo": "ispc",
+    "ispc-debugsource": "ispc",
     "itstool": "itstool"
   }
 }

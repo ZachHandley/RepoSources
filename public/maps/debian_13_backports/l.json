@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "l",
-    "total_mappings": 3375
+    "total_mappings": 3379
   },
   "mappings": {
     "ldb-tools": "samba",
@@ -55,6 +55,8 @@
     "libclaws-mail-dev": "claws-mail",
     "libclc-21": "llvm@21",
     "libclc-21-dev": "llvm@21",
+    "libcpptrace-dev": "cpptrace",
+    "libcpptrace1": "cpptrace",
     "libcpupower-dev": "linux-headers@6.8",
     "libcpupower1": "linux-headers@6.8",
     "libct4": "freetds",
@@ -144,6 +146,8 @@
     "libmapserver2t64": "mapserver",
     "libmdds-dev": "mdds",
     "libmdds-doc": "mdds",
+    "libmimalloc-dev": "mimalloc",
+    "libmimalloc3": "mimalloc",
     "libmlir-21": "llvm@21",
     "libmlir-21-dev": "llvm@21",
     "libmsgsl-dev": "cpp-gsl",

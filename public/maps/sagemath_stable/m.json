@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "sagemath_stable",
     "shard": "m",
-    "total_mappings": 9
+    "total_mappings": 10
   },
   "mappings": {
     "m4ri": "m4ri",
+    "m4rie": "m4rie",
     "matplotlib": "python-matplotlib",
     "maxima": "maxima",
     "meson": "meson",

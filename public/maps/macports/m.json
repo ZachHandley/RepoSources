@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "m",
-    "total_mappings": 570
+    "total_mappings": 573
   },
   "mappings": {
     "MMTabBarView": "mmtabbarview",
@@ -117,6 +117,9 @@
     "mariadb-11.4-server": "mariadb@11.8",
     "mariadb-11.8": "mariadb@11.8",
     "mariadb-11.8-server": "mariadb@11.8",
+    "mariadb-12.3": "mariadb@11.8",
+    "mariadb-12.3-server": "mariadb@11.8",
+    "mariadb-devel": "mariadb",
     "mariadb-server": "mariadb@11.8",
     "marisa-trie": "marisa",
     "marksman": "marksman",

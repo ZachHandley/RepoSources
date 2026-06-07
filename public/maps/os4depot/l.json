@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "l",
@@ -73,7 +73,7 @@
     "library/misc/libusb.lha": "libusb",
     "library/misc/sdl2.lha": "sdl2",
     "library/misc/sdl3.lha": "sdl3",
-    "library/xml/libtinyxml.lha": "tinyxml",
+    "library/xml/libtinyxml.lha": "tinyxml2",
     "library/xml/libxml2.lha": "libxml2",
     "libreadline.lha": "readline",
     "libreplaygain.lha": "libreplaygain",
@@ -98,7 +98,7 @@
     "libtar.lha": "libtar",
     "libtheora.lha": "theora",
     "libtiff.lha": "libtiff",
-    "libtinyxml.lha": "tinyxml",
+    "libtinyxml.lha": "tinyxml2",
     "libtommath.lha": "libtommath",
     "libtre.lha": "tre",
     "libungif.lha": "giflib",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "g",
-    "total_mappings": 741
+    "total_mappings": 742
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -409,6 +409,7 @@
     "gosec": "gosec",
     "gost": "gost",
     "got": "got",
+    "goto": "goto",
     "gotop": "gotop",
     "gource": "gource",
     "govulncheck": "govulncheck",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "r",
@@ -153,6 +153,7 @@
     "rubygem-travis": "travis",
     "ruff": "ruff",
     "runit": "runit",
+    "rura": "rura",
     "rush": "rush",
     "russian/gd": "gd",
     "rust": "rust",
@@ -169,7 +170,6 @@
     "rustypaste": "rustypaste",
     "rustypaste-cli": "rustypaste-cli",
     "rxvt-unicode": "rxvt-unicode",
-    "rye": "rye",
     "rzip": "rzip"
   }
 }

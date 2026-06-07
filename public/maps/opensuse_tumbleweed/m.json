@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "m",
-    "total_mappings": 758
+    "total_mappings": 759
   },
   "mappings": {
     "Mesa": "mesa",
@@ -129,9 +129,6 @@
     "markdown-oxide": "markdown-oxide",
     "markdown-oxide-debuginfo": "markdown-oxide",
     "markdown-oxide-debugsource": "markdown-oxide",
-    "matcha": "matcha",
-    "matcha-debuginfo": "matcha",
-    "matcha-debugsource": "matcha",
     "matio": "libmatio",
     "matio-debuginfo": "libmatio",
     "matio-debugsource": "libmatio",
@@ -444,6 +441,10 @@
     "miniupnpc": "miniupnpc",
     "miniupnpc-debuginfo": "miniupnpc",
     "miniupnpc-debugsource": "miniupnpc",
+    "miniz": "miniz",
+    "miniz-debuginfo": "miniz",
+    "miniz-debugsource": "miniz",
+    "miniz-devel": "miniz",
     "minizign": "minizign",
     "minizign-debuginfo": "minizign",
     "minizign-debugsource": "minizign",

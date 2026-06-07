@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "s",
-    "total_mappings": 98
+    "total_mappings": 99
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -93,6 +93,7 @@
     "supertux-debug": "supertux",
     "svt-av1": "svt-av1",
     "swag": "swag",
+    "swaks": "swaks",
     "swfmill": "swfmill",
     "swig": "swig",
     "swig3": "swig",

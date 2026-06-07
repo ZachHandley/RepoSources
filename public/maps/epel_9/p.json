@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "p",
-    "total_mappings": 547
+    "total_mappings": 546
   },
   "mappings": {
     "PDAL": "pdal",
@@ -520,7 +520,6 @@
     "python3-uwsgidecorators": "uwsgi",
     "python3-vapoursynth": "vapoursynth",
     "python3-vdirsyncer": "vdirsyncer",
-    "python3-vici": "strongswan",
     "python3-virtualenv": "virtualenv",
     "python3-vtk": "vtk",
     "python3-vtk-mpich": "vtk",

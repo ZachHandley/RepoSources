@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "l",
-    "total_mappings": 641
+    "total_mappings": 642
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -16,6 +16,7 @@
     "lang/abcl": "abcl",
     "lang/algol68g": "algol68g",
     "lang/asn1c": "asn1c",
+    "lang/ats2": "ats2-postiats",
     "lang/bigloo": "bigloo",
     "lang/camlp5": "camlp5",
     "lang/cbmbasic": "cbmbasic",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "g",
-    "total_mappings": 224
+    "total_mappings": 225
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -56,6 +56,7 @@
     "ghc": "ghc",
     "ghc-dhall": "dhall",
     "ghc-pandoc": "pandoc",
+    "ghcid": "ghcid",
     "ghex": "ghex",
     "ghostscript": "ghostscript",
     "giflib": "giflib",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "l",
-    "total_mappings": 326
+    "total_mappings": 329
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -313,6 +313,9 @@
     "llvm21_build": "llvm@21",
     "llvm21_dev": "llvm@21",
     "llvm21_lib": "llvm@21",
+    "llvm22_build": "llvm@21",
+    "llvm22_dev": "llvm@21",
+    "llvm22_lib": "llvm@21",
     "lm_sensors": "lm-sensors",
     "lmdb": "lmdb",
     "lnav": "lnav",

@@ -1,26 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "k",
-    "total_mappings": 17
+    "total_mappings": 6
   },
   "mappings": {
     "kallisto": "kallisto",
     "kallisto-examples": "kallisto",
-    "kcptun": "kcptun",
-    "khard": "khard",
     "kissat": "kissat",
-    "knot": "knot",
-    "knot-dnssecutils": "knot",
-    "knot-dnsutils": "knot",
-    "knot-doc": "knot",
-    "knot-exporter": "knot",
-    "knot-host": "knot",
-    "knot-keymgr": "knot",
-    "knot-module-dnstap": "knot",
-    "knot-module-geoip": "knot",
     "krita-gmic": "gmic",
     "ksh": "ksh93",
     "ksh93u+m": "ksh93"

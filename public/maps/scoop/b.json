@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "b",
-    "total_mappings": 41
+    "total_mappings": 44
   },
   "mappings": {
     "b2": "b2-tools",
@@ -30,6 +30,7 @@
     "bison": "bison",
     "bit": "bit-git",
     "bitwarden-cli": "bitwarden-cli",
+    "bob": "bob",
     "bochs": "bochs",
     "bom": "bom",
     "bombardier": "bombardier",
@@ -43,6 +44,8 @@
     "brotli": "brotli",
     "btop": "btop",
     "buf": "buf",
+    "buildkit": "buildkit",
+    "bun": "bun",
     "bundletool": "bundletool",
     "butane": "butane",
     "byacc": "byacc",

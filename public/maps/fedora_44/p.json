@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "p",
-    "total_mappings": 1199
+    "total_mappings": 1201
   },
   "mappings": {
     "PDAL": "pdal",
@@ -56,6 +56,8 @@
     "papers-previewer": "gnome-papers",
     "papers-thumbnailer": "gnome-papers",
     "papilo": "papilo",
+    "papilo-debuginfo": "papilo",
+    "papilo-debugsource": "papilo",
     "paps": "paps",
     "par": "par",
     "par2cmdline": "par2",

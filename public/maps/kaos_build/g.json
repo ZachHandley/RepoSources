@@ -1,15 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "g",
-    "total_mappings": 4
+    "total_mappings": 2
   },
   "mappings": {
-    "ghostscript": "ghostscript",
-    "gpgme": "gpgme",
-    "gpgmepp": "gpgmepp",
-    "groff": "groff"
+    "gdal": "gdal",
+    "gegl": "gegl"
   }
 }

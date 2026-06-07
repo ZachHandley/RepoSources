@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "c",
-    "total_mappings": 188
+    "total_mappings": 189
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -31,6 +31,7 @@
     "cargo-auditable": "cargo-auditable",
     "cargo-bloat": "cargo-bloat",
     "cargo-nextest": "cargo-nextest",
+    "cargo-show-asm": "cargo-show-asm",
     "carla": "carla",
     "castget": "castget",
     "castxml": "castxml",

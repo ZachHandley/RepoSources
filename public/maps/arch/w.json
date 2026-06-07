@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "w",
-    "total_mappings": 62
+    "total_mappings": 63
   },
   "mappings": {
     "w3m": "w3m",
@@ -51,6 +51,7 @@
     "wireshark-cli": "wireshark",
     "wireshark-qt": "wireshark",
     "wishlist": "wishlist",
+    "wl-clipboard": "wl-clipboard",
     "wmctrl": "wmctrl",
     "woff2": "woff2",
     "wolfssl": "wolfssl",

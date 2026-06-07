@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "w",
-    "total_mappings": 15
+    "total_mappings": 16
   },
   "mappings": {
     "wayland-apps/foot": "foot",
+    "wayland-apps/wl-clipboard": "wl-clipboard",
     "web-apps/cgit": "cgit",
     "web-apps/grafana": "grafana",
     "web-apps/logstash-bin": "logstash",

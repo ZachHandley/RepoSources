@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "t",
-    "total_mappings": 389
+    "total_mappings": 391
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -66,6 +66,7 @@
     "teem": "teem",
     "teem-apps": "teem",
     "teensy-loader-cli": "teensy_loader_cli",
+    "telegram-send": "telegram-send",
     "telnet": "inetutils",
     "telnetd": "inetutils",
     "template-glib": "template-glib",
@@ -290,7 +291,7 @@
     "tinyproxy": "tinyproxy",
     "tinyproxy-bin": "tinyproxy",
     "tinysparql": "tinysparql",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tippecanoe": "tippecanoe",
@@ -338,6 +339,7 @@
     "topydo": "topydo",
     "tor": "tor",
     "tor-geoipdb": "tor",
+    "torf-cli": "torf-cli",
     "torsocks": "torsocks",
     "tox": "tox",
     "toxcore-utils": "toxcore",

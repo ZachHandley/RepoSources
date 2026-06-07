@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pypi",
     "shard": "t",
-    "total_mappings": 18
+    "total_mappings": 19
   },
   "mappings": {
     "TextTest": "texttest",
     "tabulate": "python-tabulate",
     "tarsnapper": "tarsnapper",
+    "telegram-send": "telegram-send",
     "tensorflow": "libtensorflow",
     "tensorflow-cpu": "libtensorflow",
     "tensorflow-gpu": "libtensorflow",

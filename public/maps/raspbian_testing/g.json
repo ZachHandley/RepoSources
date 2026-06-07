@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "g",
-    "total_mappings": 2196
+    "total_mappings": 2198
   },
   "mappings": {
     "g++-10": "gcc@14",
@@ -2116,6 +2116,8 @@
     "groonga-doc": "groonga",
     "groonga-examples": "groonga",
     "groonga-munin-plugins": "groonga",
+    "groonga-plugin-h3": "groonga",
+    "groonga-plugin-language-model": "groonga",
     "groonga-plugin-suggest": "groonga",
     "groonga-server-common": "groonga",
     "groonga-server-gqtp": "groonga",

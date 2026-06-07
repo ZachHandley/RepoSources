@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "a",
@@ -14,7 +14,7 @@
     "app-accessibility/speech-tools": "speech-tools",
     "app-accessibility/sphinx2": "cmu-pocketsphinx",
     "app-admin/analog": "analog",
-    "app-admin/ansible": "ansible@12",
+    "app-admin/ansible": "ansible@13",
     "app-admin/ansible-lint": "ansible-lint",
     "app-admin/apache-tools": "httpd",
     "app-admin/apachetop": "apachetop",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "w",
@@ -42,7 +42,6 @@
     "wasm-bindgen-cli_0_2_99": "wasm-bindgen",
     "wasm-pack": "wasm-pack",
     "wasm-tools": "wasm-tools",
-    "wasm3": "wasm3",
     "wasmedge": "wasmedge",
     "wasmer": "wasmer",
     "wasmtime": "wasmtime",
@@ -111,6 +110,7 @@
     "wishlist": "wishlist",
     "witness": "witness",
     "witr": "witr",
+    "wl-clipboard": "wl-clipboard",
     "wla-dx": "wla-dx",
     "wllvm": "wllvm",
     "wmctrl": "wmctrl",

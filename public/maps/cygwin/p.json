@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "p",
-    "total_mappings": 372
+    "total_mappings": 374
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -216,6 +216,7 @@
     "python-packaging": "python-packaging",
     "python-pipx": "pipx",
     "python-pybind11": "pybind11",
+    "python-pycairo": "py3cairo",
     "python-pylint": "pylint",
     "python-pyqt-builder": "pyqt-builder",
     "python-pytest": "pytest",
@@ -275,6 +276,7 @@
     "python312-packaging": "python-packaging",
     "python312-pipx": "pipx",
     "python312-pybind11": "pybind11",
+    "python312-pycairo": "py3cairo",
     "python312-pytest": "pytest",
     "python312-setuptools": "python-setuptools",
     "python312-six": "six",

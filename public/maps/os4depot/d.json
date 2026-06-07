@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "d",
-    "total_mappings": 166
+    "total_mappings": 167
   },
   "mappings": {
     "dasm.lha": "dasm",
@@ -153,6 +153,7 @@
     "development/misc/autoconf.lha": "autoconf",
     "development/misc/automake.lha": "automake",
     "development/misc/m4.lha": "m4",
+    "development/misc/miniz.lha": "miniz",
     "development/utility/base64.lha": "base64",
     "development/utility/binutils.patch.bz2": "aarch64-elf-binutils",
     "development/utility/coreutils.lha": "coreutils",

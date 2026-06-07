@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "p",
@@ -65,7 +65,7 @@
     "python-Pillow": "pillow",
     "python-PyGObject": "pygobject3",
     "python-Sphinx": "sphinx-doc",
-    "python-ansible": "ansible@12",
+    "python-ansible": "ansible@13",
     "python-autopep8": "autopep8",
     "python-black": "black",
     "python-borgbackup": "borgbackup",

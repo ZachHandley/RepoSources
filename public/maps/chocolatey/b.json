@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "b",
-    "total_mappings": 63
+    "total_mappings": 65
   },
   "mappings": {
     "BIND Tools": "bind",
@@ -30,6 +30,7 @@
     "Briss": "briss",
     "Brogue": "brogue",
     "Buildozer": "buildozer",
+    "Bun": "bun",
     "bacula": "bacula-fd",
     "baidupcs-go": "baidupcs-go",
     "balena CLI (Install)": "balena-cli",
@@ -68,6 +69,7 @@
     "buildozer": "buildozer",
     "bulk-extractor": "bulk_extractor",
     "bulk_extractor": "bulk_extractor",
+    "bun": "bun",
     "bzip2": "bzip2",
     "bzip2 (Install)": "bzip2"
   }

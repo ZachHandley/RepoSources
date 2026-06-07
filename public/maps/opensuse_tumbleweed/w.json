@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "w",
-    "total_mappings": 216
+    "total_mappings": 222
   },
   "mappings": {
     "WebKitGTK-4.1-lang": "webkitgtk",
@@ -158,6 +158,12 @@
     "wireshark-devel": "wireshark",
     "wireshark-plugin-libvirt": "libvirt",
     "wireshark-ui-qt": "wireshark",
+    "wl-clipboard": "wl-clipboard",
+    "wl-clipboard-bash-completion": "wl-clipboard",
+    "wl-clipboard-debuginfo": "wl-clipboard",
+    "wl-clipboard-debugsource": "wl-clipboard",
+    "wl-clipboard-fish-completion": "wl-clipboard",
+    "wl-clipboard-zsh-completion": "wl-clipboard",
     "wmctrl": "wmctrl",
     "wmctrl-debuginfo": "wmctrl",
     "wmctrl-debugsource": "wmctrl",

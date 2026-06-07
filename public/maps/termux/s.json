@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "s",
-    "total_mappings": 109
+    "total_mappings": 110
   },
   "mappings": {
     "samba": "samba",
@@ -24,6 +24,7 @@
     "sd": "sd",
     "sdcv": "sdcv",
     "sdl2": "sdl2",
+    "sdl2-compat": "sdl2-compat",
     "sdl2-gfx": "sdl2_gfx",
     "sdl2-image": "sdl2_image",
     "sdl2-mixer": "sdl2_mixer",

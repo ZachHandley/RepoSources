@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "l",
-    "total_mappings": 526
+    "total_mappings": 527
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -229,6 +229,7 @@
     "liblqr": "liblqr",
     "libltc": "libltc",
     "libm4ri": "m4ri",
+    "libm4rie": "m4rie",
     "libmaa": "libmaa",
     "libmad": "mad",
     "libmatroska": "libmatroska",

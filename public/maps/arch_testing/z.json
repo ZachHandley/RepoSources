@@ -1,12 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "z",
-    "total_mappings": 1
+    "total_mappings": 8
   },
   "mappings": {
-    "znc": "znc"
+    "zabbix": "zabbix",
+    "zabbix-agent": "zabbix",
+    "zabbix-agent2": "zabbix",
+    "zabbix-common": "zabbix",
+    "zabbix-frontend-php": "zabbix",
+    "zabbix-proxy": "zabbix",
+    "zabbix-server": "zabbix",
+    "zabbix-web-service": "zabbix"
   }
 }

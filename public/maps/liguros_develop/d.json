@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "d",
-    "total_mappings": 1083
+    "total_mappings": 1086
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -244,6 +244,7 @@
     "dev-java/tomcat-servlet-api": "tomcat@10",
     "dev-lang/R": "r",
     "dev-lang/ammonite-repl-bin": "ammonite-repl",
+    "dev-lang/ats2": "ats2-postiats",
     "dev-lang/c3c": "c3c",
     "dev-lang/cc65": "cc65",
     "dev-lang/clojure": "clojure",
@@ -568,6 +569,7 @@
     "dev-libs/md4c": "md4c",
     "dev-libs/mimalloc": "mimalloc",
     "dev-libs/miniaudio": "miniaudio",
+    "dev-libs/miniz": "miniz",
     "dev-libs/modsecurity": "modsecurity",
     "dev-libs/mongo-c-driver": "mongo-c-driver@1",
     "dev-libs/mpc": "libmpc",
@@ -630,8 +632,8 @@
     "dev-libs/spdlog": "spdlog",
     "dev-libs/template-glib": "template-glib",
     "dev-libs/thrift": "thrift",
-    "dev-libs/tinyxml": "tinyxml",
-    "dev-libs/tinyxml2": "tinyxml",
+    "dev-libs/tinyxml": "tinyxml2",
+    "dev-libs/tinyxml2": "tinyxml2",
     "dev-libs/tllist": "tllist",
     "dev-libs/tre": "tre",
     "dev-libs/tree-sitter": "tree-sitter@0.25",
@@ -849,6 +851,7 @@
     "dev-util/byacc": "byacc",
     "dev-util/cargo-c": "cargo-c",
     "dev-util/cargo-nextest": "cargo-nextest",
+    "dev-util/cargo-show-asm": "cargo-show-asm",
     "dev-util/cbindgen": "cbindgen",
     "dev-util/ccache": "ccache",
     "dev-util/ccls": "ccls",

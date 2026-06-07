@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "stalix",
     "shard": "b",
-    "total_mappings": 582
+    "total_mappings": 583
   },
   "mappings": {
     "bin/7z": "sevenzip",
@@ -556,6 +556,7 @@
     "bin/whois": "whois",
     "bin/wireshark/gui": "wireshark",
     "bin/wireshark/tui": "wireshark",
+    "bin/wl/clipboard/ix": "wl-clipboard",
     "bin/wstunnel": "wstunnel",
     "bin/wtf": "wtfutil",
     "bin/wxrc": "wxwidgets@3.2",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pypi",
     "shard": "a",
@@ -11,7 +11,7 @@
     "Av1an-minimal": "av1an",
     "acme": "certbot",
     "aider-chat": "aider",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-lint": "ansible-lint",
     "antlr4-python2-runtime": "antlr",
     "antlr4-python3-runtime": "antlr",

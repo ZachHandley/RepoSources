@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "c",
-    "total_mappings": 520
+    "total_mappings": 521
   },
   "mappings": {
     "c-ares": "c-ares",
+    "c-ares-debuginfo": "c-ares",
     "cabextract": "cabextract",
     "cabextract-debuginfo": "cabextract",
     "cabextract-debugsource": "cabextract",
@@ -254,6 +255,7 @@
     "cross-aarch64-openmandriva-linux-gnu-kernel-headers": "linux-headers@6.8",
     "cross-aarch64-openmandriva-linux-gnu-kernel-rc-headers": "linux-headers@6.8",
     "cross-aarch64-openmandriva-linux-gnu-kernel5.15-headers": "linux-headers@6.8",
+    "cross-aarch64-openmandriva-linux-gnu-libc": "glibc@2.17",
     "cross-aarch64-openmandriva-linux-musl-binutils": "aarch64-elf-binutils",
     "cross-aarch64-openmandriva-linux-musl-gcc": "gcc@14",
     "cross-aarch64-openmandriva-linux-musl-gcc-offload-amdgcn-amdhsa": "gcc@14",
@@ -439,7 +441,6 @@
     "cross-x86_64-openmandriva-linux-android-kernel-headers": "linux-headers@6.8",
     "cross-x86_64-openmandriva-linux-android-kernel-rc-headers": "linux-headers@6.8",
     "cross-x86_64-openmandriva-linux-android-kernel5.15-headers": "linux-headers@6.8",
-    "cross-x86_64-openmandriva-linux-gnu-libc": "glibc@2.17",
     "cross-x86_64-openmandriva-linux-gnux32-binutils": "aarch64-elf-binutils",
     "cross-x86_64-openmandriva-linux-gnux32-gcc": "gcc@14",
     "cross-x86_64-openmandriva-linux-gnux32-gcc-offload-amdgcn-amdhsa": "gcc@14",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "l",
-    "total_mappings": 612
+    "total_mappings": 615
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -255,6 +255,7 @@
     "libheif-openh264": "libheif",
     "libheif-openjpeg": "libheif",
     "libheif-rav1e": "libheif",
+    "libheif-svtenc": "libheif",
     "libheif1": "libheif",
     "libid3-3_8-3": "id3lib",
     "libid3tag": "libid3tag",
@@ -306,7 +307,7 @@
     "liblcms2-doc": "little-cms2",
     "liblilv-0-0": "lilv",
     "liblilv-0-devel": "lilv",
-    "libliveMedia118": "openrtsp",
+    "libliveMedia119": "openrtsp",
     "liblo": "liblo",
     "liblo-debuginfo": "liblo",
     "liblo-debugsource": "liblo",
@@ -560,6 +561,7 @@
     "libvamp-sdk2": "vamp-plugin-sdk",
     "libvapoursynth-73": "vapoursynth",
     "libvapoursynth-script0": "vapoursynth",
+    "libvapoursynth4": "vapoursynth",
     "libvcdinfo0": "vcdimager",
     "libvidstab-devel": "libvidstab",
     "libvidstab1_2": "libvidstab",
@@ -579,6 +581,7 @@
     "libvpx-debugsource": "libvpx",
     "libvpx-devel": "libvpx",
     "libvpx12": "libvpx",
+    "libvsscript0": "vapoursynth",
     "libwavpack1": "wavpack",
     "libwebm": "libwebm",
     "libwebm-debuginfo": "libwebm",

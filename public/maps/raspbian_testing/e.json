@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "e",
-    "total_mappings": 213
+    "total_mappings": 215
   },
   "mappings": {
     "e2fsck-static": "e2fsprogs",
@@ -35,6 +35,7 @@
     "efl-doc": "efl",
     "efm-langserver": "efm-langserver",
     "egctl": "egctl",
+    "eglew-utils": "glew",
     "eigen2": "eigen@3",
     "eigen3": "eigen@3",
     "ejabberd": "ejabberd",
@@ -47,6 +48,7 @@
     "elpa-ac-rtags": "rtags",
     "elpa-acl2": "acl2",
     "elpa-agda2-mode": "agda",
+    "elpa-ats2-mode": "ats2-postiats",
     "elpa-company-rtags": "rtags",
     "elpa-flycheck-rtags": "rtags",
     "elpa-fricas": "fricas",

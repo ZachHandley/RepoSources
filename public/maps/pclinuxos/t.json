@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "t",
@@ -36,7 +36,7 @@
     "tintin": "tintin",
     "tinycdb": "tinycdb",
     "tinyproxy": "tinyproxy",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tmon": "linux-headers@6.8",
     "tmpwatch": "tmpwatch",

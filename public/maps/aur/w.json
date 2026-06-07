@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "w",
-    "total_mappings": 190
+    "total_mappings": 191
   },
   "mappings": {
     "wabt-git": "wabt",
@@ -123,6 +123,7 @@
     "witness": "witness",
     "witr": "witr",
     "witr-bin": "witr",
+    "wl-clipboard-git": "wl-clipboard",
     "wla-dx-git": "wla-dx",
     "wla_dx": "wla-dx",
     "wllvm-git": "wllvm",

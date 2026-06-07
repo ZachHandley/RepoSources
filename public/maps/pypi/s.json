@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pypi",
     "shard": "s",
-    "total_mappings": 22
+    "total_mappings": 23
   },
   "mappings": {
     "SCons": "scons",
@@ -28,6 +28,7 @@
     "sqlparse": "sqlparse",
     "ssh-audit": "ssh-audit",
     "sshuttle": "sshuttle",
+    "subversion": "subversion",
     "supervisor": "supervisor"
   }
 }

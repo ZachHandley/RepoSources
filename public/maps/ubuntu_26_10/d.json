@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "d",
-    "total_mappings": 257
+    "total_mappings": 258
   },
   "mappings": {
     "daemon": "daemon",
@@ -240,6 +240,7 @@
     "duc": "duc",
     "duc-nox": "duc",
     "duck": "duck",
+    "duckdb": "duckdb",
     "duf": "duf",
     "duff": "duff",
     "duktape": "duktape",

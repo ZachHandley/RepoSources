@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "v",
-    "total_mappings": 138
+    "total_mappings": 136
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -26,8 +26,6 @@
     "vamp-examples": "vamp-plugin-sdk",
     "vamp-plugin-sdk": "vamp-plugin-sdk",
     "vamp-plugin-sdk-doc": "vamp-plugin-sdk",
-    "varnish": "varnish",
-    "varnish-doc": "varnish",
     "vbindiff": "vbindiff",
     "vc": "vc",
     "vc-dev": "vc",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "c",
-    "total_mappings": 864
+    "total_mappings": 863
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -218,7 +218,6 @@
     "charon-cmd": "strongswan",
     "charon-systemd": "strongswan",
     "chawan": "chawan",
-    "chawan-doc": "chawan",
     "check": "check",
     "check-postgres": "check_postgres",
     "checkstyle": "checkstyle",

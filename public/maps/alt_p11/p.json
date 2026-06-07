@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "p",
-    "total_mappings": 1086
+    "total_mappings": 1083
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -21,10 +21,6 @@
     "p11-kit-server-debuginfo": "p11-kit",
     "p11-kit-trust": "p11-kit",
     "p11-kit-trust-debuginfo": "p11-kit",
-    "p7zip": "p7zip",
-    "p7zip-debuginfo": "p7zip",
-    "p7zip-devel": "p7zip",
-    "p7zip-standalone": "p7zip",
     "paho-c": "libpaho-mqtt",
     "paho-c-doc": "libpaho-mqtt",
     "pam": "linux-pam",
@@ -198,6 +194,7 @@
     "pg_top-debuginfo": "pg_top",
     "pgbackrest": "pgbackrest",
     "pgbackrest-debuginfo": "pgbackrest",
+    "pgbadger": "pgbadger",
     "pgbouncer": "pgbouncer",
     "pgbouncer-debuginfo": "pgbouncer",
     "pgpdump": "pgpdump",

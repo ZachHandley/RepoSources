@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "apertis_v2025",
     "shard": "r",
@@ -47,8 +47,8 @@
     "rfkill": "gnu-getopt",
     "rfkill-modules-6.12.86.1-amd64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.86.1-loong64-di": "linux-headers@6.8",
-    "rfkill-modules-6.12.88.1-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-6.12.88.1-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.90.2-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.90.2-loong64-di": "linux-headers@6.8",
     "rhash": "rhash",
     "rhino": "rhino",
     "rlfe": "readline",

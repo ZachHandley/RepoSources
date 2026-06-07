@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "d",
-    "total_mappings": 822
+    "total_mappings": 821
   },
   "mappings": {
     "dMagnetic": "dmagnetic",
@@ -139,7 +139,6 @@
     "databases/qt6-psql": "qt@5",
     "databases/redis": "redis@8.2",
     "databases/rrdtool": "rrdtool",
-    "databases/rrdtool12": "rrdtool",
     "databases/ruby-rrdtool": "rrdtool",
     "databases/shared-mime-info": "shared-mime-info",
     "databases/soci": "soci",

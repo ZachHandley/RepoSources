@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "wakemeops",
     "shard": "b",
-    "total_mappings": 3
+    "total_mappings": 4
   },
   "mappings": {
     "bat": "bat",
     "bitwarden-cli": "bitwarden-cli",
-    "bottom": "bottom"
+    "bottom": "bottom",
+    "bun": "bun"
   }
 }

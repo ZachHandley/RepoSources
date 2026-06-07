@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "s",
-    "total_mappings": 320
+    "total_mappings": 318
   },
   "mappings": {
     "SDL2_image": "sdl2_image",
@@ -185,8 +185,6 @@
     "spdlog-debuginfo": "spdlog",
     "spdlog-debugsource": "spdlog",
     "spdlog-devel": "spdlog",
-    "spirv-headers": "spirv-headers",
-    "spirv-headers-devel": "spirv-headers",
     "spirv-llvm15.0-translator": "spirv-llvm-translator",
     "spirv-llvm15.0-translator-debuginfo": "spirv-llvm-translator",
     "spirv-llvm15.0-translator-debugsource": "spirv-llvm-translator",

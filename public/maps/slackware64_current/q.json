@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slackware64_current",
     "shard": "q",
-    "total_mappings": 12
+    "total_mappings": 11
   },
   "mappings": {
-    "QScintilla": "qscintilla2",
     "qalculate-gtk": "qalculate-gtk",
     "qalculate-qt": "qalculate-qt",
     "qca": "qca",

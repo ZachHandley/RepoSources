@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_11",
     "shard": "t",
@@ -253,7 +253,7 @@
     "tinydns": "djbdns",
     "tinyproxy": "tinyproxy",
     "tinyproxy-bin": "tinyproxy",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tkmib": "net-snmp",

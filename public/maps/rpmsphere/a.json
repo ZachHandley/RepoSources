@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "rpmsphere",
     "shard": "a",
-    "total_mappings": 22
+    "total_mappings": 24
   },
   "mappings": {
     "afio": "afio",
@@ -22,6 +22,8 @@
     "arping-debugsource": "arping",
     "arpoison": "arpoison",
     "arpoison-debuginfo": "arpoison",
+    "ats2-lang": "ats2-postiats",
+    "ats2-lang-debuginfo": "ats2-postiats",
     "avfs": "avfs",
     "avfs-debuginfo": "avfs",
     "avfs-debugsource": "avfs",

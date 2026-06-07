@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "deepin_23",
     "shard": "w",
-    "total_mappings": 64
+    "total_mappings": 65
   },
   "mappings": {
     "w3m": "w3m",
@@ -53,6 +53,7 @@
     "wireshark-common": "wireshark",
     "wireshark-dev": "wireshark",
     "wireshark-doc": "wireshark",
+    "wl-clipboard": "wl-clipboard",
     "wmctrl": "wmctrl",
     "woff2": "woff2",
     "wpebackend-fdo": "wpebackend-fdo",

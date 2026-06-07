@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "i",
-    "total_mappings": 41
+    "total_mappings": 34
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -14,18 +14,11 @@
     "idle-python3.14": "python@3.9",
     "idn": "libidn",
     "idn2": "libidn2",
-    "idzebra": "zebra",
-    "idzebra-2.0": "zebra",
-    "idzebra-2.0-common": "zebra",
-    "idzebra-2.0-doc": "zebra",
-    "idzebra-2.0-examples": "zebra",
-    "idzebra-2.0-utils": "zebra",
     "imagemagick": "imagemagick@6",
     "imagemagick-7-common": "imagemagick@6",
     "imagemagick-7-doc": "imagemagick@6",
     "imagemagick-7.q16": "imagemagick@6",
     "imagemagick-7.q16hdri": "imagemagick@6",
-    "immich-go": "immich-go",
     "incus": "incus",
     "incus-agent": "incus",
     "incus-base": "incus",
@@ -45,7 +38,7 @@
     "inetutils-traceroute": "inetutils",
     "insighttoolkit5": "itk",
     "insighttoolkit5-examples": "itk",
-    "iredis": "iredis",
+    "iproute2": "iproute2",
     "isl": "isl",
     "isort": "isort"
   }

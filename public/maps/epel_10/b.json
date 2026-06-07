@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "b",
-    "total_mappings": 203
+    "total_mappings": 208
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -185,6 +185,11 @@
     "botan3-debugsource": "botan@2",
     "botan3-devel": "botan@2",
     "botan3-doc": "botan@2",
+    "bstring": "bstring",
+    "bstring-debuginfo": "bstring",
+    "bstring-debugsource": "bstring",
+    "bstring-devel": "bstring",
+    "bstring-doc": "bstring",
     "btop": "btop",
     "btop-debuginfo": "btop",
     "btop-debugsource": "btop",

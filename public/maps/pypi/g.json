@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pypi",
     "shard": "g",
-    "total_mappings": 18
+    "total_mappings": 19
   },
   "mappings": {
     "Glances": "glances",
@@ -20,6 +20,7 @@
     "git-review": "git-review",
     "git-revise": "git-revise",
     "git-up": "pygitup",
+    "gixy": "gixy",
     "gobject": "pygobject3",
     "gprof2dot": "gprof2dot",
     "graph-tool": "graph-tool",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "g",
-    "total_mappings": 544
+    "total_mappings": 546
   },
   "mappings": {
     "g-ls": "g-ls",
@@ -110,6 +110,7 @@
     "ghc": "ghc",
     "ghc-binary": "ghc@9.8",
     "ghc-native-bignum": "ghc@9.8",
+    "ghcid": "ghcid",
     "ghcup": "ghcup",
     "ghex": "ghex",
     "ghi": "ghi",
@@ -164,6 +165,7 @@
     "git-machete": "git-machete",
     "git-minimal": "git",
     "git-octopus": "git-octopus",
+    "git-pages": "git-pages",
     "git-pages-cli": "git-pages-cli",
     "git-pkgs": "git-pkgs",
     "git-quick-stats": "git-quick-stats",
@@ -220,6 +222,7 @@
     "gitui": "gitui",
     "gitup": "gitup",
     "gitweb": "git",
+    "gixy": "gixy",
     "giza": "giza",
     "gjs": "gjs",
     "gkrellm": "gkrellm",
@@ -445,7 +448,6 @@
     "graphene": "graphene",
     "graphicsmagick": "graphicsmagick",
     "graphicsmagick_q16": "graphicsmagick",
-    "graphite": "graphite2",
     "graphite2": "graphite2",
     "graphqurl": "graphqurl",
     "graphviz": "graphviz",

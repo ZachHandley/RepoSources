@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "o",
-    "total_mappings": 76
+    "total_mappings": 78
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -13,6 +13,8 @@
     "ocaml-docs": "ocaml@4",
     "ocaml-findlib": "ocaml-findlib",
     "ocaml-findlib-devel": "ocaml-findlib",
+    "ocaml-hivex": "hivex",
+    "ocaml-hivex-devel": "hivex",
     "ocaml-num": "ocaml-num",
     "ocaml-ocamldoc": "ocaml@4",
     "ocaml-runtime": "ocaml@4",

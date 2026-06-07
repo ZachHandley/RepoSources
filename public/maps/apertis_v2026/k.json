@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "k",
-    "total_mappings": 39
+    "total_mappings": 42
   },
   "mappings": {
     "kernel-image-6.18.31-alpha-generic-di": "linux-headers@6.8",
@@ -22,6 +22,9 @@
     "kernel-image-6.18.31-s390x-di": "linux-headers@6.8",
     "kernel-image-6.18.31-sh7751r-di": "linux-headers@6.8",
     "kernel-image-6.18.31-sparc64-di": "linux-headers@6.8",
+    "kernel-image-6.18.32-amd64-di": "linux-headers@6.8",
+    "kernel-image-6.18.32-arm64-di": "linux-headers@6.8",
+    "kernel-image-6.18.32-armmp-di": "linux-headers@6.8",
     "keyutils": "keyutils",
     "kf6-extra-cmake-modules": "extra-cmake-modules",
     "khronos-opencl-clhpp": "opencl-clhpp-headers",

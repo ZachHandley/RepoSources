@@ -1,15 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "b",
-    "total_mappings": 42
+    "total_mappings": 39
   },
   "mappings": {
     "babl": "babl",
+    "barman": "barman",
+    "barman-cli": "barman",
+    "barman-cli-cloud": "barman",
     "batik": "batik",
-    "bfs": "bfs",
     "bind9": "bind",
     "bind9-dev": "bind",
     "bind9-dnsutils": "bind",
@@ -34,10 +36,6 @@
     "borgbackup-is-borgbackup2": "borgbackup",
     "borgbackup2": "borgbackup",
     "borgbackup2-doc": "borgbackup",
-    "botan": "botan@2",
-    "botan3": "botan@2",
-    "bowtie2": "bowtie2",
-    "bowtie2-examples": "bowtie2",
     "bpftool": "linux-headers@6.8",
     "bpftop": "bpftop",
     "breezy": "breezy",
@@ -47,7 +45,6 @@
     "btrfs-progs": "btrfs-progs",
     "btrfs-progs-udeb": "btrfs-progs",
     "bubblewrap": "bubblewrap",
-    "bximage": "bochs",
-    "byobu": "byobu"
+    "bximage": "bochs"
   }
 }

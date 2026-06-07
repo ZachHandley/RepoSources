@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "c",
-    "total_mappings": 124
+    "total_mappings": 125
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -23,6 +23,7 @@
     "calculator": "fox",
     "calcurse": "calcurse",
     "cc65": "cc65",
+    "ccache": "ccache",
     "ccd2iso": "ccd2iso",
     "cd-discid": "cd-discid",
     "cdrdao": "cdrdao",
@@ -74,6 +75,7 @@
     "claws-mail-vcalendar": "claws-mail",
     "clisp": "clisp",
     "cmake": "cmake",
+    "cmake3": "cmake",
     "cmatrix": "cmatrix",
     "cmix": "cmix",
     "cmus": "cmus",
@@ -110,7 +112,6 @@
     "corkscrew": "corkscrew",
     "coturn": "coturn",
     "coturn-dev": "coturn",
-    "couchdb": "couchdb",
     "cpio": "cpio",
     "cppunit": "cppunit",
     "cppunit-dev": "cppunit",

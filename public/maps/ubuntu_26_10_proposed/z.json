@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "z",
-    "total_mappings": 9
+    "total_mappings": 8
   },
   "mappings": {
     "z3": "z3",
@@ -13,7 +13,6 @@
     "zenity-common": "zenity",
     "zenmap": "nmap",
     "zeroinstall-injector": "zero-install",
-    "zfind": "zfind",
     "zile": "zile",
     "zimfw": "zimfw"
   }

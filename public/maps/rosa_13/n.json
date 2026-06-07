@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "n",
-    "total_mappings": 257
+    "total_mappings": 261
   },
   "mappings": {
     "nacl": "nacl",
@@ -157,6 +157,8 @@
     "nftables-debuginfo": "nftables",
     "nftables-debugsource": "nftables",
     "nghttp2": "nghttp2",
+    "nghttp2-debuginfo": "libnghttp2",
+    "nghttp2-debugsource": "libnghttp2",
     "nginx": "nginx",
     "nginx-debuginfo": "nginx",
     "nginx-debugsource": "nginx",
@@ -247,6 +249,8 @@
     "nudoku-debugsource": "nudoku",
     "nuitka": "nuitka",
     "numactl": "numactl",
+    "numactl-debuginfo": "numactl",
+    "numactl-debugsource": "numactl",
     "nut": "nut",
     "nut-cgi": "nut",
     "nut-devel": "nut",

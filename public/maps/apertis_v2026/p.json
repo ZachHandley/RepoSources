@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "p",
-    "total_mappings": 325
+    "total_mappings": 332
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -39,6 +39,8 @@
     "pata-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "pata-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "pata-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "pata-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "pata-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "patch": "gpatch",
     "patchelf": "patchelf",
     "patchutils": "patchutils",
@@ -50,9 +52,11 @@
     "pcmcia-modules-6.18.31-amd64-di": "linux-headers@6.8",
     "pcmcia-modules-6.18.31-powerpc-di": "linux-headers@6.8",
     "pcmcia-modules-6.18.31-powerpc64-di": "linux-headers@6.8",
+    "pcmcia-modules-6.18.32-amd64-di": "linux-headers@6.8",
     "pcmcia-storage-modules-6.18.31-amd64-di": "linux-headers@6.8",
     "pcmcia-storage-modules-6.18.31-powerpc-di": "linux-headers@6.8",
     "pcmcia-storage-modules-6.18.31-powerpc64-di": "linux-headers@6.8",
+    "pcmcia-storage-modules-6.18.32-amd64-di": "linux-headers@6.8",
     "pcre2": "pcre2",
     "pcre2-utils": "pcre2",
     "pcsc-lite": "pcsc-lite",
@@ -135,6 +139,9 @@
     "ppp-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "ppp-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "ppp-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "ppp-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "ppp-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "ppp-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "pre-commit": "pre-commit",
     "procmail": "procmail",
     "procps": "procps",

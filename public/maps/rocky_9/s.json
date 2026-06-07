@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "s",
-    "total_mappings": 186
+    "total_mappings": 188
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -113,6 +113,8 @@
     "spirv-tools-libs": "spirv-tools",
     "sqlite": "sqlite",
     "sqlite-analyzer": "sqlite-analyzer",
+    "sqlite-debuginfo": "sqlite",
+    "sqlite-debugsource": "sqlite",
     "sqlite-devel": "sqlite",
     "sqlite-doc": "sqlite",
     "sqlite-libs": "sqlite",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "l",
-    "total_mappings": 774
+    "total_mappings": 770
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -248,8 +248,6 @@
     "libidn": "libidn",
     "libidn-dev": "libidn",
     "libidn-lang": "libidn",
-    "libimobiledevice": "libimobiledevice",
-    "libimobiledevice-dev": "libimobiledevice",
     "libiodbc": "libiodbc",
     "libiodbc-dev": "libiodbc",
     "libisofs": "libisofs",
@@ -375,8 +373,6 @@
     "libpurple-dev": "pidgin",
     "libqscintilla": "qscintilla2",
     "libqscintilla-dev": "qscintilla2",
-    "libquicktime": "libquicktime",
-    "libquicktime-dev": "libquicktime",
     "libqwt5-qt4": "qwt",
     "libqwt5-qt4-dev": "qwt",
     "libqwt6-qt4": "qwt",

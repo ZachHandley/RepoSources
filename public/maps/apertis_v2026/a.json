@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "a",
-    "total_mappings": 101
+    "total_mappings": 104
   },
   "mappings": {
     "aalib": "aalib",
@@ -85,6 +85,9 @@
     "ata-modules-6.18.31-powerpc64le-di": "linux-headers@6.8",
     "ata-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "ata-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "ata-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "ata-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "ata-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "atf": "atf",
     "atf-sh": "atf",
     "atkmm1.6": "atkmm@2.28",

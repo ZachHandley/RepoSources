@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "j",
-    "total_mappings": 189
+    "total_mappings": 191
   },
   "mappings": {
     "jabba": "jabba",
@@ -180,6 +180,7 @@
     "juicefs-bin": "juicefs",
     "juicefs-git": "juicefs",
     "juju": "juju",
+    "juju-bin": "juju",
     "jujutsu-git": "jj",
     "julia-beta-bin": "julia",
     "julia-bin": "julia",
@@ -195,6 +196,7 @@
     "jupyterlab-git": "jupyterlab",
     "just-git": "just",
     "jvmtop": "jvmtop",
+    "jwt-hack": "jwt-hack",
     "jxl-oxide": "jxl-oxide"
   }
 }

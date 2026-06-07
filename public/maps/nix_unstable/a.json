@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "a",
-    "total_mappings": 350
+    "total_mappings": 351
   },
   "mappings": {
     "Agda": "agda",
@@ -64,7 +64,6 @@
     "aflplusplus": "afl++",
     "afsctool": "afsctool",
     "aften": "aften",
-    "afuse": "afuse",
     "age": "age",
     "age-plugin-se": "age-plugin-se",
     "age-plugin-yubikey": "age-plugin-yubikey",
@@ -133,7 +132,7 @@
     "angband": "angband",
     "angle-grinder": "angle-grinder",
     "animdl": "animdl",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-builder": "ansible-builder",
     "ansible-cmdb": "ansible-cmdb",
     "ansible-language-server": "ansible-language-server",
@@ -275,8 +274,10 @@
     "atomicparsley": "atomicparsley",
     "atool": "atool",
     "atop": "atop",
+    "ats2": "ats2-postiats",
     "attr": "attr",
     "atuin": "atuin",
+    "aube": "aube",
     "aubio": "aubio",
     "audacious": "audacious",
     "audacious-bare": "audacious",

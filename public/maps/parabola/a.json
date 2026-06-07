@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "a",
-    "total_mappings": 165
+    "total_mappings": 164
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -57,7 +57,7 @@
     "ammonite": "ammonite-repl",
     "angband": "angband",
     "angle-grinder": "angle-grinder",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-creator": "ansible-creator",
     "ansible-lint": "ansible-lint",
     "ant": "ant",
@@ -100,7 +100,6 @@
     "armadillo-intel": "armadillo",
     "arp-scan": "arp-scan",
     "arpack": "arpack",
-    "arrayfire": "arrayfire",
     "arrow": "apache-arrow",
     "arss": "arss",
     "ascii": "ascii",

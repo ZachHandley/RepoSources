@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "a",
@@ -39,7 +39,7 @@
     "amfora": "amfora",
     "amtterm": "amtterm",
     "ancient": "ancient",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-cmdb": "ansible-cmdb",
     "ansifilter": "ansifilter",
     "ansilove": "ansilove",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "d",
-    "total_mappings": 987
+    "total_mappings": 992
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -115,6 +115,7 @@
     "dev-db/etcd": "etcd",
     "dev-db/freetds": "freetds",
     "dev-db/gqlplus": "gqlplus",
+    "dev-db/hypopg": "hypopg",
     "dev-db/influxdb": "influxdb@2",
     "dev-db/innotop": "innotop",
     "dev-db/kyotocabinet": "kyoto-cabinet",
@@ -162,6 +163,7 @@
     "dev-db/tinycdb": "tinycdb",
     "dev-db/tokyocabinet": "tokyo-cabinet",
     "dev-db/unixODBC": "unixodbc",
+    "dev-db/valkey": "valkey",
     "dev-debug/cgdb": "cgdb",
     "dev-debug/ddd": "ddd",
     "dev-debug/gdb": "aarch64-elf-gdb",
@@ -229,6 +231,7 @@
     "dev-lang/R": "r",
     "dev-lang/algol68g": "algol68g",
     "dev-lang/ammonite-repl-bin": "ammonite-repl",
+    "dev-lang/ats2": "ats2-postiats",
     "dev-lang/clojure": "clojure",
     "dev-lang/closure-compiler-bin": "closure-compiler",
     "dev-lang/coffee-script": "coffeescript",
@@ -536,6 +539,7 @@
     "dev-libs/md4c": "md4c",
     "dev-libs/mimalloc": "mimalloc",
     "dev-libs/miniaudio": "miniaudio",
+    "dev-libs/miniz": "miniz",
     "dev-libs/modsecurity": "modsecurity",
     "dev-libs/mongo-c-driver": "mongo-c-driver@1",
     "dev-libs/mpc": "libmpc",
@@ -594,8 +598,8 @@
     "dev-libs/spdlog": "spdlog",
     "dev-libs/template-glib": "template-glib",
     "dev-libs/thrift": "thrift",
-    "dev-libs/tinyxml": "tinyxml",
-    "dev-libs/tinyxml2": "tinyxml",
+    "dev-libs/tinyxml": "tinyxml2",
+    "dev-libs/tinyxml2": "tinyxml2",
     "dev-libs/tllist": "tllist",
     "dev-libs/tre": "tre",
     "dev-libs/tree-sitter": "tree-sitter@0.25",
@@ -656,6 +660,7 @@
     "dev-python/cython": "cython",
     "dev-python/dns-lexicon": "lexicon",
     "dev-python/eyed3": "eye-d3",
+    "dev-python/fastapi": "fastapi",
     "dev-python/flake8": "flake8",
     "dev-python/fonttools": "fonttools",
     "dev-python/git-review": "git-review",

@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "c",
-    "total_mappings": 915
+    "total_mappings": 917
   },
   "mappings": {
+    "caddy": "caddy",
     "cargo": "rust",
     "cargo-doc": "rust",
     "cdrom-core-modules-6.16.12+deb13-4kc-malta-di": "linux-headers@6.8",
@@ -356,6 +357,7 @@
     "cmake-qt-gui": "cmake",
     "cppcheck": "cppcheck",
     "cppcheck-gui": "cppcheck",
+    "cpptrace": "cpptrace",
     "crypto-dm-modules-6.16.12+deb13-4kc-malta-di": "linux-headers@6.8",
     "crypto-dm-modules-6.16.12+deb13-5kc-malta-di": "linux-headers@6.8",
     "crypto-dm-modules-6.16.12+deb13-alpha-generic-di": "linux-headers@6.8",

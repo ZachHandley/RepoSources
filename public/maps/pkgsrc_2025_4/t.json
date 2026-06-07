@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "t",
@@ -228,8 +228,8 @@
     "textproc/texi2html": "texi2html",
     "textproc/texi2mdoc": "texi2mdoc",
     "textproc/the_silver_searcher": "the_silver_searcher",
-    "textproc/tinyxml": "tinyxml",
-    "textproc/tinyxml2": "tinyxml",
+    "textproc/tinyxml": "tinyxml2",
+    "textproc/tinyxml2": "tinyxml2",
     "textproc/tokyodystopia": "tokyo-dystopia",
     "textproc/translate-shell": "translate-shell",
     "textproc/translate-toolkit": "translate-toolkit",
@@ -302,7 +302,7 @@
     "tinc": "tinc",
     "tinycdb": "tinycdb",
     "tinyproxy": "tinyproxy",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tkdiff": "tkdiff",

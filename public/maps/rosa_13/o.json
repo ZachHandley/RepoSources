@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "o",
-    "total_mappings": 206
+    "total_mappings": 208
   },
   "mappings": {
     "OpenColorIO": "opencolorio",
@@ -96,6 +96,8 @@
     "opencc-debugsource": "opencc",
     "opencl-headers": "opencl-headers",
     "openconnect": "openconnect",
+    "openconnect-debuginfo": "openconnect",
+    "openconnect-debugsource": "openconnect",
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
     "opencsg-devel": "opencsg",

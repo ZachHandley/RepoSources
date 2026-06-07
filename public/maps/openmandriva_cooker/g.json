@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "g",
-    "total_mappings": 406
+    "total_mappings": 408
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -133,6 +133,8 @@
     "gjs": "gjs",
     "gjs-tests": "gjs",
     "gkrellm": "gkrellm",
+    "gkrellm-devel": "gkrellm",
+    "gkrellm-server": "gkrellm",
     "gl2ps": "gl2ps",
     "gl2ps-debuginfo": "gl2ps",
     "gl2ps-debugsource": "gl2ps",

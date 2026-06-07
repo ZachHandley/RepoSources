@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_6",
     "shard": "t",
@@ -19,7 +19,7 @@
     "tig": "tig",
     "tinc": "tinc",
     "tinyproxy": "tinyproxy",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tmux": "tmux",

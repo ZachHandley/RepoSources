@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "devuan_4_0",
     "shard": "l",
-    "total_mappings": 6284
+    "total_mappings": 6287
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -2844,6 +2844,9 @@
     "libm4ri": "m4ri",
     "libm4ri-0.0.20200125": "m4ri",
     "libm4ri-dev": "m4ri",
+    "libm4rie": "m4rie",
+    "libm4rie-0.0.20200125": "m4rie",
+    "libm4rie-dev": "m4rie",
     "libmaa": "libmaa",
     "libmaa-dev": "libmaa",
     "libmaa4": "libmaa",
@@ -5009,12 +5012,12 @@
     "libtins": "libtins",
     "libtins-dev": "libtins",
     "libtins4.0": "libtins",
-    "libtinyxml-dev": "tinyxml",
-    "libtinyxml-doc": "tinyxml",
-    "libtinyxml2-8": "tinyxml",
-    "libtinyxml2-dev": "tinyxml",
-    "libtinyxml2.6.2v5": "tinyxml",
-    "libtinyxml2.6.2v5-dbg": "tinyxml",
+    "libtinyxml-dev": "tinyxml2",
+    "libtinyxml-doc": "tinyxml2",
+    "libtinyxml2-8": "tinyxml2",
+    "libtinyxml2-dev": "tinyxml2",
+    "libtinyxml2.6.2v5": "tinyxml2",
+    "libtinyxml2.6.2v5-dbg": "tinyxml2",
     "libtirpc": "libtirpc",
     "libtirpc-common": "libtirpc",
     "libtirpc-dev": "libtirpc",

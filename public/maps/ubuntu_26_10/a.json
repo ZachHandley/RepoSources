@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "a",
-    "total_mappings": 275
+    "total_mappings": 278
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -76,6 +76,8 @@
     "airspy": "airspy",
     "airspyhf": "airspyhf",
     "airspyone-host": "airspy",
+    "aklomp-base64": "aklomp-base64",
+    "aklomp-base64-tools": "aklomp-base64",
     "aldo": "aldo",
     "algol68g": "algol68g",
     "allegro4-doc": "allegro",
@@ -97,7 +99,7 @@
     "ancient": "ancient",
     "angband": "angband",
     "angband-data": "angband",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-lint": "ansible-lint",
     "ansifilter": "ansifilter",
     "ansifilter-gui": "ansifilter",
@@ -232,6 +234,7 @@
     "atomicparsley": "atomicparsley",
     "atool": "atool",
     "atop": "atop",
+    "ats2-lang": "ats2-postiats",
     "attr": "attr",
     "attr-udeb": "attr",
     "atuin": "atuin",

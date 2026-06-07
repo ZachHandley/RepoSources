@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shard": "a",
@@ -23,7 +23,7 @@
     "allegro": "allegro",
     "alsa-card-profiles": "pipewire",
     "alsa-lib": "alsa-lib",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ant": "ant",
     "ant-doc": "ant@1.9",
     "aom": "aom",

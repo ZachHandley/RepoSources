@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "c",
-    "total_mappings": 676
+    "total_mappings": 678
   },
   "mappings": {
     "CFR": "cfr-decompiler",
@@ -54,6 +54,8 @@
     "cargo-llvm-cov-debuginfo": "cargo-llvm-cov",
     "cargo-make": "cargo-make",
     "cargo-make-debuginfo": "cargo-make",
+    "cargo-show-asm": "cargo-show-asm",
+    "cargo-show-asm-debuginfo": "cargo-show-asm",
     "carla": "carla",
     "carla-debuginfo": "carla",
     "carla-devel": "carla",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "l",
@@ -486,8 +486,8 @@
     "libraries/tbb": "tbb",
     "libraries/tclap": "tclap",
     "libraries/template-glib": "template-glib",
-    "libraries/tinyxml": "tinyxml",
-    "libraries/tinyxml2": "tinyxml",
+    "libraries/tinyxml": "tinyxml2",
+    "libraries/tinyxml2": "tinyxml2",
     "libraries/tllist": "tllist",
     "libraries/tomcat-native": "tomcat-native",
     "libraries/toml11": "toml11",

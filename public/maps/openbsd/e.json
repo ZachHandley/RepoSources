@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "e",
-    "total_mappings": 101
+    "total_mappings": 102
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -47,6 +47,7 @@
     "editors/tweak": "tweak",
     "editors/vile": "vile",
     "editors/vim": "vim",
+    "editors/vim-classic": "vim-classic",
     "editors/vis": "vis",
     "editors/wordgrinder": "wordgrinder",
     "editors/zile": "zile",

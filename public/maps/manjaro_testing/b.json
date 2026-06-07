@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "b",
-    "total_mappings": 116
+    "total_mappings": 117
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -116,6 +116,7 @@
     "bullet-dp": "bullet",
     "bulletty": "bulletty",
     "bumblebee": "bumblebee",
+    "bun": "bun",
     "bup": "bup",
     "bupstash": "bupstash",
     "busted": "busted",

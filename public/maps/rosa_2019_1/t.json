@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "t",
@@ -297,10 +297,10 @@
     "tinc": "tinc",
     "tinycdb": "tinycdb",
     "tinyproxy": "tinyproxy",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
-    "tinyxml2-debuginfo": "tinyxml",
-    "tinyxml2-debugsource": "tinyxml",
+    "tinyxml2-debuginfo": "tinyxml2",
+    "tinyxml2-debugsource": "tinyxml2",
     "tio": "tio",
     "tkinter": "python@3.9",
     "tkinter3": "python@3.9",

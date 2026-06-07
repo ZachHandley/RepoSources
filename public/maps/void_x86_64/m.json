@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "m",
-    "total_mappings": 248
+    "total_mappings": 249
   },
   "mappings": {
     "MesaLib-devel": "mesa",
@@ -13,6 +13,8 @@
     "m4": "m4",
     "m4ri": "m4ri",
     "m4ri-devel": "m4ri",
+    "m4rie": "m4rie",
+    "m4rie-devel": "m4rie",
     "macchanger": "macchanger",
     "magic-wormhole": "magic-wormhole",
     "mairix": "mairix",
@@ -31,7 +33,6 @@
     "massdns": "massdns",
     "massren": "massren",
     "mat2": "mat2",
-    "matcha": "matcha",
     "matio": "libmatio",
     "matio-devel": "libmatio",
     "matterbridge": "matterbridge",

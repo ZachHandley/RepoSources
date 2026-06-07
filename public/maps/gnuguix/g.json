@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "g",
-    "total_mappings": 226
+    "total_mappings": 227
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -54,6 +54,7 @@
     "ghc-hledger": "hledger",
     "ghc-hpack": "hpack",
     "ghc-pandoc": "pandoc",
+    "ghcid": "ghcid",
     "ghex": "ghex",
     "ghostscript": "ghostscript",
     "ghostscript-with-cups": "ghostscript",

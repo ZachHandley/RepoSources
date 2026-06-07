@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_education_tumbleweed",
     "shard": "l",
@@ -44,7 +44,7 @@
     "libmaa-doc": "libmaa",
     "libmaa4": "libmaa",
     "libmuparser2_3_5": "muparser",
-    "libopenbabel7": "open-babel",
+    "libopenbabel8": "open-babel",
     "liborigin": "liborigin",
     "liborigin-debuginfo": "liborigin",
     "liborigin-debugsource": "liborigin",

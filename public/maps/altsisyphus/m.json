@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "m",
-    "total_mappings": 480
+    "total_mappings": 481
   },
   "mappings": {
     "Mesa": "mesa",
@@ -470,6 +470,7 @@
     "musepack": "musepack",
     "musepack-debuginfo": "musepack",
     "musikcube": "musikcube",
+    "musikcube-debuginfo": "musikcube",
     "mutt": "mutt",
     "mutt-Maxi": "mutt",
     "mutt-Maxi-debuginfo": "mutt",

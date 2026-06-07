@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "p",
     "total_mappings": 4
   },
   "mappings": {
-    "parallel": "parallel",
-    "pcsclite": "pcsc-lite",
-    "pipewire": "pipewire",
-    "pnpm": "pnpm@10"
+    "php": "php",
+    "poppler": "poppler",
+    "protobuf": "protobuf@33",
+    "protobuf-c": "protobuf-c"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "b",
-    "total_mappings": 156
+    "total_mappings": 162
   },
   "mappings": {
     "base-modules-6.18.31-alpha-generic-di": "linux-headers@6.8",
@@ -22,6 +22,9 @@
     "base-modules-6.18.31-s390x-di": "linux-headers@6.8",
     "base-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "base-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "base-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "base-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "base-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "bash": "bash",
     "bash-builtins": "bash",
     "bash-completion": "bash-completion@2",
@@ -157,6 +160,9 @@
     "btrfs-modules-6.18.31-s390x-di": "linux-headers@6.8",
     "btrfs-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "btrfs-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "btrfs-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "btrfs-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "btrfs-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "btrfs-progs": "btrfs-progs",
     "btrfs-progs-udeb": "btrfs-progs",
     "bubblewrap": "bubblewrap",

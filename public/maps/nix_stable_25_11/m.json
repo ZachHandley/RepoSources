@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "m",
-    "total_mappings": 321
+    "total_mappings": 324
   },
   "mappings": {
     "m-cli": "m-cli",
     "m1ddc": "m1ddc",
     "m4ri": "m4ri",
+    "m4rie": "m4rie",
     "mac-robber": "mac-robber",
     "macchanger": "macchanger",
     "macchina": "macchina",
@@ -76,6 +77,7 @@
     "massdns": "massdns",
     "massren": "massren",
     "mat2": "mat2",
+    "matcha-rss-digest": "matcha",
     "matio": "libmatio",
     "matterbridge": "matterbridge",
     "maturin": "maturin",
@@ -184,6 +186,7 @@
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minixml": "libmxml",
+    "miniz": "miniz",
     "minizign": "minizign",
     "minizinc": "minizinc",
     "minizip": "minizip",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "w",
-    "total_mappings": 33
+    "total_mappings": 34
   },
   "mappings": {
     "WordNet": "wordnet",
@@ -30,6 +30,7 @@
     "wimlib": "wimlib",
     "wireguard-tools": "wireguard-tools",
     "wireshark": "wireshark",
+    "wl-clipboard": "wl-clipboard",
     "wmctrl": "wmctrl",
     "woff2": "woff2",
     "wolfssl": "wolfssl",

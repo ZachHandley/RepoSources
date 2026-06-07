@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "a",
@@ -37,8 +37,8 @@
     "alembic-progs": "alembic",
     "alsa-lib": "alsa-lib",
     "alsa-lib-devel": "alsa-lib",
-    "ansible": "ansible@12",
-    "ansible-pycache": "ansible@12",
+    "ansible": "ansible@13",
+    "ansible-pycache": "ansible@13",
     "ansifilter": "ansifilter",
     "ansifilter-bashcomp": "ansifilter",
     "ansifilter-doc": "ansifilter",

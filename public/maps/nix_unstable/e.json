@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "e",
-    "total_mappings": 152
+    "total_mappings": 157
   },
   "mappings": {
     "e1s": "e1s",
@@ -20,6 +20,7 @@
     "ebook-tools": "ebook-tools",
     "ebook2cw": "ebook2cw",
     "ebook_tools": "ebook-tools",
+    "ec": "ec",
     "ecasound": "ecasound",
     "eccodes": "eccodes",
     "echidna": "echidna",
@@ -67,6 +68,10 @@
     "emacs30-gtk3": "emacs",
     "emacs30-nox": "emacs",
     "emacs30-pgtk": "emacs",
+    "emacs31": "emacs",
+    "emacs31-gtk3": "emacs",
+    "emacs31-nox": "emacs",
+    "emacs31-pgtk": "emacs",
     "emacsPackages.doxymacs": "doxymacs",
     "emacsPackages.dracula-theme": "emacs-dracula",
     "emacsPackages.erlang": "erlang@28",

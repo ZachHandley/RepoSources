@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "f",
-    "total_mappings": 186
+    "total_mappings": 185
   },
   "mappings": {
     "FAudio": "faudio",
@@ -141,7 +141,6 @@
     "freeciv-client-sdl": "freeciv",
     "freeciv-data": "freeciv",
     "freeciv-server": "freeciv",
-    "freedreno-tools": "mesa",
     "freeglut": "freeglut",
     "freeimage": "freeimage",
     "freeipmi": "freeipmi",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "j",
-    "total_mappings": 75
+    "total_mappings": 73
   },
   "mappings": {
     "jack-audio-connection-kit": "jack",
@@ -31,8 +31,6 @@
     "jed": "jed",
     "jed-common": "jed",
     "jello": "jello",
-    "jellyfish": "jellyfish",
-    "jellyfish-examples": "jellyfish",
     "jellyfish1": "jellyfish",
     "jemalloc": "jemalloc",
     "jenkins-job-builder": "jenkins-job-builder",

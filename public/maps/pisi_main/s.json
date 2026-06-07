@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "s",
-    "total_mappings": 280
+    "total_mappings": 281
   },
   "mappings": {
     "SIMDe": "simde",
@@ -56,6 +56,7 @@
     "science/misc/libcerf": "libcerf",
     "science/misc/libnova": "libnova",
     "science/misc/m4ri": "m4ri",
+    "science/misc/m4rie": "m4rie",
     "science/misc/muparser": "muparser",
     "science/misc/ntl": "ntl",
     "science/misc/opencascade": "opencascade",

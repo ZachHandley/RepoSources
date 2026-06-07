@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "s",
-    "total_mappings": 215
+    "total_mappings": 217
   },
   "mappings": {
     "s2n": "s2n",
@@ -44,6 +44,7 @@
     "sdl-gfx": "sdl_gfx",
     "sdl12-compat": "sdl12-compat",
     "sdl2": "sdl2",
+    "sdl2-compat": "sdl2-compat",
     "sdl2-gfx": "sdl2_gfx",
     "sdl2-image": "sdl2_image",
     "sdl2-mixer": "sdl2_mixer",
@@ -52,6 +53,7 @@
     "sdl3": "sdl3",
     "sdl3-gfx": "sdl2_gfx",
     "sdl3-image": "sdl3_image",
+    "sdl3-net": "sdl3_net",
     "sdl3-ttf": "sdl3_ttf",
     "sdlpop": "sdlpop",
     "sed": "gnu-sed",

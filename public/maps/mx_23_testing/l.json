@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "mx_23_testing",
     "shard": "l",
@@ -10,9 +10,9 @@
     "lager": "lager",
     "libasio-dev": "asio",
     "libasio-doc": "asio",
-    "libaudcore5": "audacious",
+    "libaudcore6": "audacious",
     "libaudgui6": "audacious",
-    "libaudqt3": "audacious",
+    "libaudqt4": "audacious",
     "libaudtag3": "audacious",
     "libavcodec-dev": "ffmpeg@7",
     "libavcodec-extra": "ffmpeg@7",

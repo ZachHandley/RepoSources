@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "s",
-    "total_mappings": 97
+    "total_mappings": 95
   },
   "mappings": {
-    "s3ql": "s3ql",
     "samba": "samba",
     "samba-common": "samba",
     "samba-dev": "samba",
@@ -67,7 +66,6 @@
     "speex-dev": "speex",
     "spidermonkey": "spidermonkey@115",
     "spidermonkey-dev": "spidermonkey@115",
-    "splint": "splint",
     "sqlite": "sqlite",
     "sqlite-dev": "sqlite",
     "squashfs": "squashfs",

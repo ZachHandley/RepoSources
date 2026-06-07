@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "t",
@@ -292,8 +292,8 @@
     "textproc/texi2html": "texi2html",
     "textproc/texinfo": "texinfo",
     "textproc/the_silver_searcher": "the_silver_searcher",
-    "textproc/tinyxml": "tinyxml",
-    "textproc/tinyxml2": "tinyxml",
+    "textproc/tinyxml": "tinyxml2",
+    "textproc/tinyxml2": "tinyxml2",
     "textproc/tnef": "tnef",
     "textproc/tombi": "tombi",
     "textproc/topfew": "topfew",
@@ -361,7 +361,7 @@
     "tintinxx": "tintin",
     "tinycdb": "tinycdb",
     "tinyproxy": "tinyproxy",
-    "tinyxml": "tinyxml",
+    "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tippecanoe": "tippecanoe",

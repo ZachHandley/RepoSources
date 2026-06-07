@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "b",
-    "total_mappings": 47
+    "total_mappings": 48
   },
   "mappings": {
     "BIND": "bind",
@@ -39,6 +39,7 @@
     "Breezy": "breezy",
     "Brotli": "brotli",
     "Bullet": "bullet",
+    "Bun": "bun",
     "Bup": "bup",
     "Burp": "burp",
     "Byobu": "byobu",

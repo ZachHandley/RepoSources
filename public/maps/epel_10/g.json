@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "g",
-    "total_mappings": 699
+    "total_mappings": 705
   },
   "mappings": {
     "GMT": "gmt",
@@ -168,6 +168,9 @@
     "ghc-doc": "ghc@9.8",
     "ghc-doc-index": "ghc@9.8",
     "ghc-filesystem": "ghc@9.8",
+    "ghc-ghcid": "ghcid",
+    "ghc-ghcid-devel": "ghcid",
+    "ghc-ghcid-prof": "ghcid",
     "ghc-hadrian": "ghc@9.8",
     "ghc-hlint": "hlint",
     "ghc-hlint-devel": "hlint",
@@ -452,6 +455,9 @@
     "ghc9.8-hadrian": "ghc@9.8",
     "ghc9.8-manual": "ghc@9.8",
     "ghc9.8-prof": "ghc@9.8",
+    "ghcid": "ghcid",
+    "ghcid-debuginfo": "ghcid",
+    "ghcid-debugsource": "ghcid",
     "gi-docgen": "gi-docgen",
     "gi-docgen-doc": "gi-docgen",
     "gi-docgen-fonts": "gi-docgen",

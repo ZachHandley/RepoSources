@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "adelie_current",
     "shard": "l",
-    "total_mappings": 843
+    "total_mappings": 844
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -459,6 +459,7 @@
     "libqrencode-dbg": "qrencode",
     "libqrencode-dev": "qrencode",
     "libqrencode-doc": "qrencode",
+    "libquadmath": "gcc@14",
     "libraw": "libraw",
     "libraw-dbg": "libraw",
     "libraw-dev": "libraw",

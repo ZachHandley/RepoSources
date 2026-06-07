@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "w",
-    "total_mappings": 53
+    "total_mappings": 56
   },
   "mappings": {
     "w3m": "w3m",
@@ -45,6 +45,9 @@
     "wget2-debugsource": "wget",
     "wget2-devel": "wget2",
     "wget2-libs": "wget",
+    "wl-clipboard": "wl-clipboard",
+    "wl-clipboard-debuginfo": "wl-clipboard",
+    "wl-clipboard-debugsource": "wl-clipboard",
     "wmctrl": "wmctrl",
     "wmctrl-debuginfo": "wmctrl",
     "wmctrl-debugsource": "wmctrl",

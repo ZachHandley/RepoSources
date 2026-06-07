@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "s",
-    "total_mappings": 143
+    "total_mappings": 144
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -31,6 +31,7 @@
     "scummvm": "scummvm",
     "sdcc": "sdcc",
     "sdl12-compat": "sdl12-compat",
+    "sdl2-compat": "sdl2-compat",
     "sed": "gnu-sed",
     "sentencepiece": "sentencepiece",
     "ser2net": "ser2net",

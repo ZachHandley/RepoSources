@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "h",
-    "total_mappings": 18
+    "total_mappings": 20
   },
   "mappings": {
     "handbrake": "handbrake",
@@ -19,6 +19,8 @@
     "help2man": "help2man",
     "hey": "hey",
     "htop": "htop",
+    "httrack": "httrack",
+    "httrack-doc": "httrack",
     "hunspell": "hunspell",
     "hunspell-tools": "hunspell",
     "hwatch": "hwatch",

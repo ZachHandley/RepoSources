@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "l",
-    "total_mappings": 314
+    "total_mappings": 319
   },
   "mappings": {
     "lammps": "lammps",
@@ -114,7 +114,7 @@
     "libfreexl1": "freexl",
     "libfst26": "openfst",
     "libgdal-drivers": "gdal",
-    "libgdal38": "gdal",
+    "libgdal39": "gdal",
     "libgecode51": "gecode",
     "libgemmi_cpp0": "gemmi",
     "libgeotiff5": "libgeotiff",
@@ -178,6 +178,11 @@
     "libm4ri-debugsource": "m4ri",
     "libm4ri-devel": "m4ri",
     "libm4ri2": "m4ri",
+    "libm4rie": "m4rie",
+    "libm4rie-debuginfo": "m4rie",
+    "libm4rie-debugsource": "m4rie",
+    "libm4rie-devel": "m4rie",
+    "libm4rie1": "m4rie",
     "libmaeparser1": "maeparser",
     "libmatio-devel": "libmatio",
     "libmatio14": "libmatio",
@@ -206,7 +211,7 @@
     "libomalloc-devel": "singular",
     "libomniORB4-3": "omniorb",
     "libomnithread4": "omniorb",
-    "libopenbabel7": "open-babel",
+    "libopenbabel8": "open-babel",
     "libopencascade-applicationframework7_9_3": "opencascade",
     "libopencascade-dataexchange7_9_3": "opencascade",
     "libopencascade-draw7_9_3": "opencascade",

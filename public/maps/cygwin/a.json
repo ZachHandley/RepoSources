@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "a",
@@ -30,8 +30,8 @@
     "aide": "aide",
     "aide-debuginfo": "aide",
     "algol68g": "algol68g",
-    "ansible": "ansible@12",
-    "ansible-doc": "ansible@12",
+    "ansible": "ansible@13",
+    "ansible-doc": "ansible@13",
     "antiword": "antiword",
     "aom": "aom",
     "aom-debuginfo": "aom",

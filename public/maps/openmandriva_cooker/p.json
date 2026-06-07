@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "p",
-    "total_mappings": 740
+    "total_mappings": 746
   },
   "mappings": {
     "p0f": "p0f",
@@ -37,6 +37,10 @@
     "parallel": "parallel",
     "pari": "pari",
     "pari-data": "pari",
+    "partio": "partio",
+    "partio-debuginfo": "partio",
+    "partio-debugsource": "partio",
+    "partio-doc": "partio",
     "pass": "pass",
     "passmenu": "pass",
     "passt": "passt",
@@ -661,8 +665,10 @@
     "python-opencv": "opencv",
     "python-openexr2": "openexr",
     "python-openmpi": "open-mpi",
+    "python-openvdb": "openvdb",
     "python-packaging": "python-packaging",
     "python-packaging-doc": "python-packaging",
+    "python-partio": "partio",
     "python-pdm": "pdm",
     "python-pip-bootstrap": "python@3.9",
     "python-pipx": "pipx",

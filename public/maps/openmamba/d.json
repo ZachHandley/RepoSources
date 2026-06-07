@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "d",
-    "total_mappings": 70
+    "total_mappings": 69
   },
   "mappings": {
     "dar": "dar",
@@ -68,7 +68,6 @@
     "dragonbox": "dragonbox",
     "dragonbox-devel": "dragonbox",
     "dtc": "dtc",
-    "dtc-debug": "dtc",
     "dub": "dub",
     "duktape": "duktape",
     "duktape-debug": "duktape",

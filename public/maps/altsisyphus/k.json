@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "k",
-    "total_mappings": 267
+    "total_mappings": 275
   },
   "mappings": {
     "k9s": "k9s",
@@ -241,6 +241,14 @@
     "kubernetes1.35-kubelet": "kubernetes-cli@1.35",
     "kubernetes1.35-master": "kubernetes-cli@1.35",
     "kubernetes1.35-node": "kubernetes-cli@1.35",
+    "kubernetes1.36": "kubernetes-cli@1.35",
+    "kubernetes1.36-client": "kubernetes-cli@1.35",
+    "kubernetes1.36-common": "kubernetes-cli@1.35",
+    "kubernetes1.36-crio": "kubernetes-cli@1.35",
+    "kubernetes1.36-kubeadm": "kubernetes-cli@1.35",
+    "kubernetes1.36-kubelet": "kubernetes-cli@1.35",
+    "kubernetes1.36-master": "kubernetes-cli@1.35",
+    "kubernetes1.36-node": "kubernetes-cli@1.35",
     "kubescape": "kubescape",
     "kubescape-debuginfo": "kubescape",
     "kubetui": "kubetui",

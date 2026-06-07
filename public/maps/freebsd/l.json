@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "l",
-    "total_mappings": 994
+    "total_mappings": 995
   },
   "mappings": {
     "lab": "lab",
@@ -18,6 +18,7 @@
     "lang/algol68g": "algol68g",
     "lang/asm-lsp": "asm-lsp",
     "lang/asn1c": "asn1c",
+    "lang/bun": "bun",
     "lang/c": "c",
     "lang/cbmbasic": "cbmbasic",
     "lang/ccl": "clozure-cl",

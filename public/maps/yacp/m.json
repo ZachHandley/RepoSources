@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "m",
-    "total_mappings": 63
+    "total_mappings": 65
   },
   "mappings": {
     "Minuit2": "minuit2",
     "m4ri": "m4ri",
+    "m4rie": "m4rie",
     "magic_enum": "magic_enum",
     "makefile2graph": "makefile2graph",
     "mandown": "mandown",
@@ -39,6 +40,7 @@
     "minisat": "minisat",
     "minised": "minised",
     "miniupnpc": "miniupnpc",
+    "miniz": "miniz",
     "mkp224o": "mkp224o",
     "mlogger": "mlogger",
     "mlpack": "mlpack",

@@ -1,14 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "p",
-    "total_mappings": 295
+    "total_mappings": 293
   },
   "mappings": {
-    "p7zip": "p7zip",
-    "p7zip-dbginfo": "p7zip",
     "pam": "linux-pam",
     "pam-32bit": "linux-pam",
     "pam-32bit-dbginfo": "linux-pam",

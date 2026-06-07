@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "u",
-    "total_mappings": 78
+    "total_mappings": 79
   },
   "mappings": {
     "uchardet": "uchardet",
@@ -84,6 +84,7 @@
     "util/shell/bashdb": "bashdb",
     "util/shell/dash": "dash-shell",
     "util/shell/fish": "fish",
+    "util/shell/wl-clipboard": "wl-clipboard",
     "util/shell/zsh": "zsh"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "l",
-    "total_mappings": 1726
+    "total_mappings": 1730
   },
   "mappings": {
     "ladspa-rubberband": "rubberband",
@@ -956,6 +956,8 @@
     "liblzfse1": "lzfse",
     "libm4ri-devel": "m4ri",
     "libm4ri2": "m4ri",
+    "libm4rie-devel": "m4rie",
+    "libm4rie1": "m4rie",
     "libmapcraftercore-devel": "mapcrafter",
     "libmapcraftercore2": "mapcrafter",
     "libmarkdown-devel": "discount",
@@ -998,6 +1000,8 @@
     "libminisat2": "minisat",
     "libminiupnpc-devel": "miniupnpc",
     "libminiupnpc21": "miniupnpc",
+    "libminiz-devel": "miniz",
+    "libminiz3": "miniz",
     "libmlt++7-devel": "mlt",
     "libmlt++7_7": "mlt",
     "libmlt7-devel": "mlt",
@@ -1478,8 +1482,8 @@
     "libtiledb2.11": "tiledb",
     "libtinysvm-devel": "tinysvm",
     "libtinysvm1": "tinysvm",
-    "libtinyxml-devel": "tinyxml",
-    "libtinyxml0": "tinyxml",
+    "libtinyxml-devel": "tinyxml2",
+    "libtinyxml0": "tinyxml2",
     "libtlx-devel": "tlx",
     "libtlx0.6": "tlx",
     "libtmx-devel": "tmx",

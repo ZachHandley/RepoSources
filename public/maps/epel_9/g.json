@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "g",
-    "total_mappings": 496
+    "total_mappings": 504
   },
   "mappings": {
     "GMT": "gmt",
@@ -173,6 +173,8 @@
     "ghc-dhall-json-devel": "dhall-json",
     "ghc-doc": "ghc@9.8",
     "ghc-doc-index": "ghc@9.8",
+    "ghc-ghcid": "ghcid",
+    "ghc-ghcid-devel": "ghcid",
     "ghc-hlint": "hlint",
     "ghc-hlint-devel": "hlint",
     "ghc-manual": "ghc@9.8",
@@ -239,6 +241,9 @@
     "ghc9.8-filesystem": "ghc@9.8",
     "ghc9.8-hadrian": "ghc@9.8",
     "ghc9.8-manual": "ghc@9.8",
+    "ghcid": "ghcid",
+    "ghcid-debuginfo": "ghcid",
+    "ghcid-debugsource": "ghcid",
     "gi-docgen": "gi-docgen",
     "gi-docgen-doc": "gi-docgen",
     "gi-docgen-fonts": "gi-docgen",
@@ -377,6 +382,9 @@
     "google-cpu_features-debuginfo": "cpu_features",
     "google-cpu_features-debugsource": "cpu_features",
     "google-cpu_features-devel": "cpu_features",
+    "goose": "block-goose-cli",
+    "goose-debuginfo": "block-goose-cli",
+    "goose-debugsource": "block-goose-cli",
     "govulncheck": "govulncheck",
     "govulncheck-debuginfo": "govulncheck",
     "govulncheck-debugsource": "govulncheck",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "m",
-    "total_mappings": 291
+    "total_mappings": 295
   },
   "mappings": {
     "mac-robber": "mac-robber",
@@ -175,6 +175,10 @@
     "miniupnpc-debuginfo": "miniupnpc",
     "miniupnpc-debugsource": "miniupnpc",
     "miniupnpc-devel": "miniupnpc",
+    "miniz": "miniz",
+    "miniz-debuginfo": "miniz",
+    "miniz-debugsource": "miniz",
+    "miniz-devel": "miniz",
     "minizip": "minizip-ng",
     "minizip-debuginfo": "minizip-ng",
     "minizip-debugsource": "minizip-ng",

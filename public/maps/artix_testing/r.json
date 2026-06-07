@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "r",
-    "total_mappings": 6
+    "total_mappings": 7
   },
   "mappings": {
+    "rio": "rio-terminal",
     "rust": "rust",
     "rust-aarch64-gnu": "rust",
     "rust-aarch64-musl": "rust",

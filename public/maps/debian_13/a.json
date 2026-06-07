@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "debian_13",
     "shard": "a",
-    "total_mappings": 577
+    "total_mappings": 578
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -204,7 +204,7 @@
     "ancient": "ancient",
     "angband": "angband",
     "angband-data": "angband",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-lint": "ansible-lint",
     "ansifilter": "ansifilter",
     "ansifilter-gui": "ansifilter",
@@ -532,6 +532,7 @@
     "atomicparsley": "atomicparsley",
     "atool": "atool",
     "atop": "atop",
+    "ats2-lang": "ats2-postiats",
     "attr": "attr",
     "attr-udeb": "attr",
     "atuin": "atuin",

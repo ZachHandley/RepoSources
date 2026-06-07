@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "g",
-    "total_mappings": 56
+    "total_mappings": 55
   },
   "mappings": {
     "game/action/myman.lha": "myman",
@@ -13,7 +13,6 @@
     "game/adventure/freedink.lha": "freedink",
     "game/adventure/frotz.lha": "frotz",
     "game/adventure/sdlpop.lha": "sdlpop",
-    "game/board/enigma.lha": "enigma",
     "game/board/gnugo.lha": "gnu-go",
     "game/fps/chocolate-doom.lha": "chocolate-doom",
     "game/misc/fred.lha": "fred",

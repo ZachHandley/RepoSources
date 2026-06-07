@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "t",
@@ -157,8 +157,8 @@
     "tinycdb": "tinycdb",
     "tinymist": "tinymist",
     "tinyproxy": "tinyproxy",
-    "tinyxml": "tinyxml",
-    "tinyxml-2": "tinyxml",
+    "tinyxml": "tinyxml2",
+    "tinyxml-2": "tinyxml2",
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tippecanoe": "tippecanoe",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "n",
-    "total_mappings": 277
+    "total_mappings": 281
   },
   "mappings": {
     "naabu": "naabu",
@@ -14,6 +14,10 @@
     "nagios-nrpe": "nrpe",
     "nagios-nrpe-plugin": "nrpe",
     "nagios-nrpe-server": "nrpe",
+    "nagios4": "nagios",
+    "nagios4-cgi": "nagios",
+    "nagios4-common": "nagios",
+    "nagios4-core": "nagios",
     "name-that-hash": "name-that-hash",
     "nano": "nano",
     "nano-tiny": "nano",

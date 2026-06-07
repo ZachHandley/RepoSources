@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "n",
-    "total_mappings": 68
+    "total_mappings": 69
   },
   "mappings": {
     "nagios": "nagios",
@@ -73,6 +73,7 @@
     "nuspell": "nuspell",
     "nut": "nut",
     "nvi": "nvi",
+    "nvtop": "nvtop",
     "nyx": "nyx",
     "nzbget": "nzbget"
   }

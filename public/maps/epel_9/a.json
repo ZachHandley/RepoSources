@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "a",
@@ -66,7 +66,7 @@
     "alpine": "alpine",
     "alpine-debuginfo": "alpine",
     "alpine-debugsource": "alpine",
-    "ansible": "ansible@12",
+    "ansible": "ansible@13",
     "ansible-lint": "ansible-lint",
     "ansifilter": "ansifilter",
     "ansifilter-gui": "ansifilter",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "j",
-    "total_mappings": 36
+    "total_mappings": 39
   },
   "mappings": {
     "jack-audio-connection-kit": "jack",
@@ -32,6 +32,9 @@
     "jfs-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "jfs-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "jfs-modules-6.18.31-sparc64-di": "linux-headers@6.8",
+    "jfs-modules-6.18.32-amd64-di": "linux-headers@6.8",
+    "jfs-modules-6.18.32-arm64-di": "linux-headers@6.8",
+    "jfs-modules-6.18.32-armmp-di": "linux-headers@6.8",
     "jimsh": "jimtcl",
     "jimtcl": "jimtcl",
     "jpeg-xl": "jpeg-xl",

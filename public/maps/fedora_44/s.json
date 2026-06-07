@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "s",
-    "total_mappings": 513
+    "total_mappings": 516
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -132,6 +132,9 @@
     "sdl12-compat": "sdl12-compat",
     "sdl12-compat-devel": "sdl12-compat",
     "sdl12-compat-static": "sdl12-compat",
+    "sdl2-compat": "sdl2-compat",
+    "sdl2-compat-devel": "sdl2-compat",
+    "sdl2-compat-static": "sdl2-compat",
     "sec": "sec",
     "sed": "gnu-sed",
     "sendemail": "sendemail",

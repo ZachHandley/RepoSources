@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "d",
-    "total_mappings": 66
+    "total_mappings": 65
   },
   "mappings": {
     "dar": "dar",
@@ -12,7 +12,6 @@
     "dar-lang": "dar",
     "darkstat": "darkstat",
     "dasm": "dasm",
-    "davmail": "davmail",
     "db": "berkeley-db@5",
     "db-dev": "berkeley-db@5",
     "dbus": "dbus",

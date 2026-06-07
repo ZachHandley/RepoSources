@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "t",
@@ -36,8 +36,8 @@
     "TinTin++": "tintin",
     "TinyCDB": "tinycdb",
     "TinyProxy": "tinyproxy",
-    "TinyXML": "tinyxml",
-    "TinyXML2": "tinyxml",
+    "TinyXML": "tinyxml2",
+    "TinyXML2": "tinyxml2",
     "Tmux": "tmux",
     "Tor": "tor",
     "Transmission": "transmission-cli",

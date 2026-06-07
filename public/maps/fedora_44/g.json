@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "g",
-    "total_mappings": 1818
+    "total_mappings": 1822
   },
   "mappings": {
     "GMT": "gmt",
@@ -397,6 +397,9 @@
     "ghc-ghci-devel": "ghc@9.8",
     "ghc-ghci-doc": "ghc@9.8",
     "ghc-ghci-prof": "ghc@9.8",
+    "ghc-ghcid": "ghcid",
+    "ghc-ghcid-devel": "ghcid",
+    "ghc-ghcid-doc": "ghcid",
     "ghc-gridtables": "pandoc",
     "ghc-gridtables-devel": "pandoc",
     "ghc-gridtables-doc": "pandoc",
@@ -1061,6 +1064,7 @@
     "ghc9.8-hadrian": "ghc@9.8",
     "ghc9.8-manual": "ghc@9.8",
     "ghc9.8-prof": "ghc@9.8",
+    "ghcid": "ghcid",
     "ghex": "ghex",
     "ghex-devel": "ghex",
     "ghex-libs": "ghex",

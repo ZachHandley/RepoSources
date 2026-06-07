@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-07T06:16:43Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_science",
     "shard": "d",
-    "total_mappings": 9
+    "total_mappings": 8
   },
   "mappings": {
     "default-jdk": "openjdk",
     "default-jre": "openjdk",
-    "dev-cpp/blitz": "blitz",
     "dev-libs/boost-compute": "boost@1.85",
     "dev-python/xgboost": "xgboost",
     "dev-util/makefile2graph": "makefile2graph",
