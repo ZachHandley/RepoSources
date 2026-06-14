@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pacstall",
     "shard": "n",
-    "total_mappings": 9
+    "total_mappings": 10
   },
   "mappings": {
     "nano": "nano",
@@ -15,6 +15,7 @@
     "nodejs-deb": "node@24",
     "nodejs-lts-deb": "node@24",
     "nuclei-bin": "nuclei",
+    "nuitka-git": "nuitka",
     "nushell-bin": "nushell"
   }
 }

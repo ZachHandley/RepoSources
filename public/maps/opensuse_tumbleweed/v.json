@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "v",
-    "total_mappings": 227
+    "total_mappings": 234
   },
   "mappings": {
     "Vc": "vc",
@@ -88,6 +88,13 @@
     "verilator-debugsource": "verilator",
     "verilator-devel": "verilator",
     "verilator-examples": "verilator",
+    "versitygw": "versitygw",
+    "versitygw-cli": "versitygw",
+    "versitygw-cli-bash-completion": "versitygw",
+    "versitygw-cli-fish-completion": "versitygw",
+    "versitygw-cli-zsh-completion": "versitygw",
+    "versitygw-debuginfo": "versitygw",
+    "versitygw-debugsource": "versitygw",
     "vexctl": "vexctl",
     "vexctl-debuginfo": "vexctl",
     "vexctl-debugsource": "vexctl",

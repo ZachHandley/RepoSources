@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "e",
-    "total_mappings": 242
+    "total_mappings": 245
   },
   "mappings": {
     "e1s": "e1s",
@@ -56,6 +56,9 @@
     "elfio-git": "elfio",
     "elfutils-git": "elfutils",
     "elfx86exts-git": "elfx86exts",
+    "elio": "elio",
+    "elio-bin": "elio",
+    "elio-git": "elio",
     "elixir-git": "elixir",
     "elixir-ls": "elixir-ls",
     "elixir-ls-git": "elixir-ls",

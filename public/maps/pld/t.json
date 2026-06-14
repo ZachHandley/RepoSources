@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "t",
-    "total_mappings": 69
+    "total_mappings": 70
   },
   "mappings": {
     "TiMidity++": "timidity",
@@ -74,6 +74,7 @@
     "twolame": "two-lame",
     "txt2man": "txt2man",
     "txt2tags": "txt2tags",
+    "typescript-language-server": "typescript-language-server",
     "typespeed": "typespeed",
     "tzdata": "tzdb"
   }

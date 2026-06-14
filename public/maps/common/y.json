@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "y",
-    "total_mappings": 362
+    "total_mappings": 361
   },
   "mappings": {
     "YAFC": "yafc",
@@ -78,7 +78,6 @@
     "yaml-cpp-0.3": "yaml-cpp",
     "yaml-cpp-0.3-debuginfo": "yaml-cpp",
     "yaml-cpp-0.3-debugsource": "yaml-cpp",
-    "yaml-cpp-0.7": "yaml-cpp",
     "yaml-cpp-dbg": "yaml-cpp",
     "yaml-cpp-dbginfo": "yaml-cpp",
     "yaml-cpp-debug": "yaml-cpp",

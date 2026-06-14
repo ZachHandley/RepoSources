@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "c",
-    "total_mappings": 390
+    "total_mappings": 391
   },
   "mappings": {
     "Carla": "carla",
@@ -284,6 +284,7 @@
     "compiler-rt": "llvm@21",
     "comrak": "comrak",
     "conan": "conan@1",
+    "concord": "concord",
     "concurrencykit": "concurrencykit",
     "concurrentqueue": "concurrentqueue",
     "conman": "conman",

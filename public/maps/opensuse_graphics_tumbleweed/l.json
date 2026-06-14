@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_graphics_tumbleweed",
     "shard": "l",
@@ -158,7 +158,7 @@
     "libopencsg1": "opencsg",
     "libopenjp2-7": "openjpeg",
     "libopenjpeg1": "openjpeg",
-    "libopenjph0_27": "openjph",
+    "libopenjph0_28": "openjph",
     "libopenslide-devel": "openslide",
     "libopenslide0": "openslide",
     "libopenvdb13_0": "openvdb",
@@ -198,7 +198,7 @@
     "libpng17-devel": "libpng",
     "libpng17-tools": "libpng",
     "libpodofo-devel": "podofo",
-    "libpodofo3": "podofo",
+    "libpodofo4": "podofo",
     "libpotrace0": "potrace",
     "libpsf0": "psftools",
     "libpystring0_0": "pystring",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "g",
-    "total_mappings": 1968
+    "total_mappings": 1970
   },
   "mappings": {
     "g++-12": "gcc@14",
@@ -1972,6 +1972,8 @@
     "gupnp-tools": "gupnp-tools",
     "gvncviewer": "gtk-vnc",
     "gwenhywfar-tools": "gwenhywfar",
+    "gwyddion": "gwyddion",
+    "gwyddion-common": "gwyddion",
     "gxml": "gxml",
     "gzip": "gzip",
     "gzrt": "gzrt"

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "a",
-    "total_mappings": 311
+    "total_mappings": 313
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -12,6 +12,8 @@
     "a52dec": "a52dec",
     "a52dec-debuginfo": "a52dec",
     "a52dec-debugsource": "a52dec",
+    "aalib": "aalib",
+    "aalib-progs": "aalib",
     "abcde": "abcde",
     "abcm2ps": "abcm2ps",
     "abcmidi": "abcmidi",

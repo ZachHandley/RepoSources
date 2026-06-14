@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "k",
-    "total_mappings": 66
+    "total_mappings": 67
   },
   "mappings": {
     "k3d": "k3d",
@@ -25,6 +25,7 @@
     "kernel-libc-headers": "linux-headers@6.8",
     "kew": "kew",
     "keychain": "keychain",
+    "keyd": "keyd",
     "keystone": "keystone",
     "keystone-devel": "keystone",
     "keystone-python3": "keystone",

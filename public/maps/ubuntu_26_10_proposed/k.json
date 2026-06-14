@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "k",
-    "total_mappings": 6
+    "total_mappings": 5
   },
   "mappings": {
     "kallisto": "kallisto",
     "kallisto-examples": "kallisto",
-    "kissat": "kissat",
     "krita-gmic": "gmic",
     "ksh": "ksh93",
     "ksh93u+m": "ksh93"

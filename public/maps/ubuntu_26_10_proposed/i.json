@@ -1,18 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "i",
-    "total_mappings": 34
+    "total_mappings": 32
   },
   "mappings": {
-    "i2c-tools": "i2c-tools",
     "icu": "icu4c@78",
     "icu-devtools": "icu4c@78",
     "icu-doc": "icu4c@78",
+    "idle-python3.13": "python@3.9",
     "idle-python3.14": "python@3.9",
-    "idn": "libidn",
     "idn2": "libidn2",
     "imagemagick": "imagemagick@6",
     "imagemagick-7-common": "imagemagick@6",
@@ -39,7 +38,6 @@
     "insighttoolkit5": "itk",
     "insighttoolkit5-examples": "itk",
     "iproute2": "iproute2",
-    "isl": "isl",
-    "isort": "isort"
+    "isl": "isl"
   }
 }

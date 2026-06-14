@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "m",
-    "total_mappings": 460
+    "total_mappings": 464
   },
   "mappings": {
     "Mesa": "mesa",
@@ -145,6 +145,8 @@
     "mcpp": "mcpp",
     "mcpp-debuginfo": "mcpp",
     "mcpp-doc": "mcpp",
+    "md-tui": "md-tui",
+    "md-tui-debuginfo": "md-tui",
     "md2html": "md4c",
     "md2html-debuginfo": "md4c",
     "mdbook": "mdbook",
@@ -233,6 +235,8 @@
     "mjpegtools-debuginfo": "mjpegtools",
     "mk-configure": "mk-configure",
     "mk-configure-doc": "mk-configure",
+    "mkcert": "mkcert",
+    "mkcert-debuginfo": "mkcert",
     "mkfontscale": "mkfontscale",
     "mkfontscale-debuginfo": "mkfontscale",
     "mkpasswd": "whois",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "v",
-    "total_mappings": 1260
+    "total_mappings": 1265
   },
   "mappings": {
     "V": "vlang",
@@ -92,7 +92,6 @@
     "v2ray-openrc": "v2ray",
     "v8": "v8",
     "v8-10.2-devel": "node@24",
-    "v8-10.8-devel": "node@24",
     "v8-11.3-devel": "node@24",
     "v8-11.6": "v8",
     "v8-12.4-devel": "node@24",
@@ -102,7 +101,6 @@
     "v8-314-debugsource": "v8",
     "v8-314-devel": "v8",
     "v8-8.3": "v8",
-    "v8-9.4-devel": "node@24",
     "v8-devel": "node@24",
     "va-driver-all": "libva",
     "vacuum": "vacuum",
@@ -363,6 +361,7 @@
     "vapoursynth-plugin-ocr-git": "vapoursynth-ocr",
     "vapoursynth-tools": "vapoursynth",
     "vapoursynth-tools-debuginfo": "vapoursynth",
+    "varlock-bin": "varlock",
     "varnish": "varnish",
     "varnish-cache": "varnish",
     "varnish-dbg": "varnish",
@@ -490,6 +489,12 @@
     "verovio-dev": "verovio",
     "verovio-libs": "verovio",
     "versitygw": "versitygw",
+    "versitygw-cli": "versitygw",
+    "versitygw-cli-bash-completion": "versitygw",
+    "versitygw-cli-fish-completion": "versitygw",
+    "versitygw-cli-zsh-completion": "versitygw",
+    "versitygw-debuginfo": "versitygw",
+    "versitygw-debugsource": "versitygw",
     "veryfasttree": "veryfasttree",
     "vespa-cli": "vespa-cli",
     "vexctl": "vexctl",

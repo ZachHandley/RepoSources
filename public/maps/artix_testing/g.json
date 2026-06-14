@@ -1,12 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "g",
-    "total_mappings": 1
+    "total_mappings": 5
   },
   "mappings": {
+    "gcc15": "gcc@14",
+    "gcc15-fortran": "gcc@14",
+    "gcc15-libs": "gcc@14",
+    "gdal": "gdal",
     "grafana": "grafana"
   }
 }

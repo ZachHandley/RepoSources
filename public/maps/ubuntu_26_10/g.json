@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "g",
-    "total_mappings": 1976
+    "total_mappings": 1978
   },
   "mappings": {
     "g++-11": "gcc@14",
@@ -1119,6 +1119,7 @@
     "git-imerge": "git-imerge",
     "git-lfs": "git-lfs",
     "git-man": "git",
+    "git-pages": "git-pages",
     "git-pages-cli": "git-pages-cli",
     "git-quick-stats": "git-quick-stats",
     "git-remote-gcrypt": "git-remote-gcrypt",
@@ -1441,6 +1442,7 @@
     "gnome-session-canberra": "libcanberra",
     "gnome-themes-extra": "gnome-themes-extra",
     "gnome-themes-extra-data": "gnome-themes-extra",
+    "gnu-apl": "gnu-apl",
     "gnu-coreutils": "coreutils",
     "gnu-which": "gnu-which",
     "gnuastro": "gnuastro",
@@ -1783,6 +1785,7 @@
     "golang-github-evanw-esbuild": "esbuild",
     "golang-github-evanw-esbuild-dev": "esbuild",
     "golang-github-git-lfs-git-lfs-dev": "git-lfs",
+    "golang-github-gitleaks-gitleaks-dev": "gitleaks",
     "golang-github-gittuf-gittuf-dev": "gittuf",
     "golang-github-google-go-containerregistry-dev": "crane",
     "golang-github-influxdb-influxdb-dev": "influxdb@2",
@@ -1790,7 +1793,6 @@
     "golang-github-jteeuwen-go-bindata-dev": "go-bindata",
     "golang-github-liamg-tml-dev": "tml",
     "golang-github-lxc-incus-dev": "incus",
-    "golang-github-magefile-mage-dev": "mage",
     "golang-github-miekg-mmark": "mmark",
     "golang-github-miekg-mmark-dev": "mmark",
     "golang-github-mmarkdown-mmark-dev": "mmark",

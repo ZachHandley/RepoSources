@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "mx_25_testing",
     "shard": "p",
-    "total_mappings": 20
+    "total_mappings": 24
   },
   "mappings": {
     "pan": "pan",
@@ -21,11 +21,15 @@
     "pipewire-tests": "pipewire",
     "pipewire-v4l2": "pipewire",
     "py7zr": "py7zr",
+    "pytest": "pytest",
+    "python-pytest-doc": "pytest",
     "python3-libtorrent": "libtorrent-rasterbar",
     "python3-libxml2": "libxml2",
     "python3-mlt": "mlt",
     "python3-onnxruntime": "onnxruntime",
     "python3-py7zr": "py7zr",
-    "python3-pyopencolorio": "opencolorio"
+    "python3-pyopencolorio": "opencolorio",
+    "python3-pytest": "pytest",
+    "python3-pytest-subtests": "pytest"
   }
 }

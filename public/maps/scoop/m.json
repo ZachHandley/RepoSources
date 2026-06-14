@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "m",
-    "total_mappings": 82
+    "total_mappings": 83
   },
   "mappings": {
     "m4": "m4",
@@ -54,6 +54,7 @@
     "mihomo": "mihomo",
     "mill": "mill",
     "miller": "miller",
+    "mimo-code": "mimo-code",
     "minify": "minify",
     "minikube": "minikube",
     "minio": "minio",

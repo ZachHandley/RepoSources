@@ -1,12 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "n",
-    "total_mappings": 1
+    "total_mappings": 4
   },
   "mappings": {
-    "netpbm": "netpbm"
+    "net-snmp": "net-snmp",
+    "nginx": "nginx",
+    "nss": "nss",
+    "ntp": "ntp"
   }
 }

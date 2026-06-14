@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-14T06:07:42Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_44",
+    "shard": "l",
+    "total_mappings": 16
+  },
+  "mappings": {
+    "libaacs": "libaacs",
+    "libaacs-devel": "libaacs",
+    "libaacs-utils": "libaacs",
+    "libavcodec-freeworld": "ffmpeg@7",
+    "libavdevice": "ffmpeg@7",
+    "libbdplus": "libbdplus",
+    "libbdplus-devel": "libbdplus",
+    "libde265": "libde265",
+    "libde265-devel": "libde265",
+    "libde265-examples": "libde265",
+    "libdvbcsa": "libdvbcsa",
+    "libdvbcsa-devel": "libdvbcsa",
+    "libdvdcss": "libdvdcss",
+    "libdvdcss-devel": "libdvdcss",
+    "librtmp": "rtmpdump",
+    "librtmp-devel": "rtmpdump"
+  }
+}

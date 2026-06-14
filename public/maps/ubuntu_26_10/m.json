@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "m",
-    "total_mappings": 372
+    "total_mappings": 371
   },
   "mappings": {
     "m4": "m4",
@@ -14,7 +14,6 @@
     "macipgw": "netatalk",
     "madplay": "madplay",
     "mafft": "mafft",
-    "mage": "mage",
     "magic-enum": "magic_enum",
     "magic-wormhole": "magic-wormhole",
     "mailcheck": "mailcheck",

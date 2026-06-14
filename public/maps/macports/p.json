@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "p",
-    "total_mappings": 984
+    "total_mappings": 985
   },
   "mappings": {
     "PEGTL": "pegtl",
@@ -352,6 +352,7 @@
     "pugixml": "pugixml",
     "pulseaudio": "pulseaudio",
     "pulumi": "pulumi",
+    "pup": "pup",
     "pure": "pure",
     "pure-ftpd": "pure-ftpd",
     "putty": "putty",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "a",
-    "total_mappings": 93
+    "total_mappings": 94
   },
   "mappings": {
     "app-accessibility/mimic1": "mimic",
@@ -50,6 +50,7 @@
     "app-misc/ghq": "ghq",
     "app-misc/glow": "glow",
     "app-misc/kanata": "kanata",
+    "app-misc/keyd": "keyd",
     "app-misc/lf": "lf",
     "app-misc/macchina": "macchina",
     "app-misc/navi": "navi",

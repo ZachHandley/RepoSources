@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "w",
-    "total_mappings": 38
+    "total_mappings": 39
   },
   "mappings": {
     "w3m": "w3m",
@@ -38,6 +38,7 @@
     "wpebackend-fdo": "wpebackend-fdo",
     "wput": "wput",
     "wrk": "wrk",
+    "wtype": "wtype",
     "wv": "wv",
     "wv2": "wv2",
     "wxbase": "wxwidgets@3.2",

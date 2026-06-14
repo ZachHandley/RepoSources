@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-14T06:07:42Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_44",
+    "shard": "c",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "cmus": "cmus",
+    "compat-ffmpeg4": "ffmpeg@7",
+    "compat-ffmpeg4-devel": "ffmpeg@7"
+  }
+}

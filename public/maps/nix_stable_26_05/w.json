@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "w",
-    "total_mappings": 139
+    "total_mappings": 140
   },
   "mappings": {
     "WiiUse": "wiiuse",
@@ -137,6 +137,7 @@
     "wtfis": "wtfis",
     "wtfutil": "wtfutil",
     "wthrr": "wthrr",
+    "wtype": "wtype",
     "wush": "wush",
     "wv": "wv",
     "wv2": "wv2",

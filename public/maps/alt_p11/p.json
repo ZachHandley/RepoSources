@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "p",
-    "total_mappings": 1083
+    "total_mappings": 1082
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -719,7 +719,6 @@
     "python-module-rpm-debuginfo": "rpm",
     "python-module-setuptools": "python-setuptools",
     "python-module-setuptools-docs": "python-setuptools",
-    "python-module-svm": "libsvm",
     "python-module-tre": "tre",
     "python-module-tre-debuginfo": "tre",
     "python-modules": "python@3.9",
@@ -869,6 +868,7 @@
     "python3-module-libmount-debuginfo": "gnu-getopt",
     "python3-module-libpst": "libpst",
     "python3-module-libpst-debuginfo": "libpst",
+    "python3-module-libsvm": "libsvm",
     "python3-module-libtorrent-rasterbar": "libtorrent-rasterbar",
     "python3-module-libtorrent-rasterbar-debuginfo": "libtorrent-rasterbar",
     "python3-module-libvirt": "libvirt-python",
@@ -1024,7 +1024,6 @@
     "python3-module-sqlparse-docs": "sqlparse",
     "python3-module-sqlparse-pickles": "sqlparse",
     "python3-module-supervisor": "supervisor",
-    "python3-module-svm": "libsvm",
     "python3-module-syslog-ng-debuggercli": "syslog-ng",
     "python3-module-tabulate": "python-tabulate",
     "python3-module-talloc": "talloc",

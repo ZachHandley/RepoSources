@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "w",
-    "total_mappings": 151
+    "total_mappings": 152
   },
   "mappings": {
     "WordNet": "wordnet",
@@ -124,6 +124,7 @@
     "www/passenger": "passenger",
     "www/php-fpm": "php@8.4",
     "www/privoxy": "privoxy",
+    "www/pup": "pup",
     "www/py-pelican": "pelican",
     "www/py-scrapy": "scrapy",
     "www/py-uvicorn": "uvicorn",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "p",
-    "total_mappings": 1140
+    "total_mappings": 1145
   },
   "mappings": {
     "p11-kit-git": "p11-kit",
@@ -98,6 +98,7 @@
     "pcsclite-git": "pcsc-lite",
     "pdal-git": "pdal",
     "pdf-diff-git": "pdf-diff",
+    "pdf.tocgen": "pdf.tocgen",
     "pdfcpu": "pdfcpu",
     "pdfcpu-bin": "pdfcpu",
     "pdfcrack-git": "pdfcrack",
@@ -747,6 +748,7 @@
     "planck": "planck",
     "platformio-git": "platformio",
     "playwright-cli": "playwright-cli",
+    "playwright-mcp": "playwright-mcp",
     "plenv": "plenv",
     "plod": "plod",
     "plog": "plog",
@@ -971,6 +973,9 @@
     "pumba-bin": "pumba",
     "pumba-git": "pumba",
     "punktf": "punktf",
+    "pup": "pup",
+    "pup-bin": "pup",
+    "pup-git": "pup",
     "pure": "pure",
     "pure-ftpd": "pure-ftpd",
     "pure-ftpd-db": "pure-ftpd",

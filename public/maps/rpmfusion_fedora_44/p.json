@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-14T06:07:42Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_44",
+    "shard": "p",
+    "total_mappings": 5
+  },
+  "mappings": {
+    "pipewire-codec-aptx": "pipewire",
+    "ppsspp": "ppsspp",
+    "ppsspp-data": "ppsspp",
+    "ppsspp-libs": "ppsspp",
+    "ppsspp-sdl": "ppsspp"
+  }
+}

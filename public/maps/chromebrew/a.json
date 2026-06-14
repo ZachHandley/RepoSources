@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "a",
-    "total_mappings": 61
+    "total_mappings": 62
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -65,6 +65,7 @@
     "autossh": "autossh",
     "avahi": "avahi",
     "aview": "aview",
+    "avisynthplus": "avisynthplus",
     "aws_shell": "aws-shell",
     "awscli": "awscli@1",
     "axel": "axel"

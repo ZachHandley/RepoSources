@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "h",
-    "total_mappings": 158
+    "total_mappings": 160
   },
   "mappings": {
     "hackbrowserdata": "hack-browser-data",
@@ -164,6 +164,8 @@
     "hypervkvpd-debuginfo": "linux-headers@6.8",
     "hypervvssd": "linux-headers@6.8",
     "hypervvssd-debuginfo": "linux-headers@6.8",
-    "hypre": "hypre"
+    "hypre": "hypre",
+    "hysteria": "hysteria",
+    "hysteria-debuginfo": "hysteria"
   }
 }

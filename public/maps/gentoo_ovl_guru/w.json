@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "w",
-    "total_mappings": 10
+    "total_mappings": 11
   },
   "mappings": {
     "www-apps/anubis": "anubis",
@@ -16,6 +16,7 @@
     "www-misc/dufs": "dufs",
     "www-misc/libkiwix": "libkiwix",
     "www-plugins/firefoxpwa": "firefoxpwa",
-    "www-servers/copyparty": "copyparty"
+    "www-servers/copyparty": "copyparty",
+    "www-servers/darkhttpd": "darkhttpd"
   }
 }

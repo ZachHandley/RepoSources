@@ -1,15 +1,28 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "p",
-    "total_mappings": 4
+    "total_mappings": 17
   },
   "mappings": {
+    "p11-kit": "p11-kit",
+    "pam": "linux-pam",
+    "pango": "pango",
+    "pcsclite": "pcsc-lite",
     "php": "php",
-    "poppler": "poppler",
-    "protobuf": "protobuf@33",
-    "protobuf-c": "protobuf-c"
+    "pipewire": "pipewire",
+    "pnpm": "pnpm@10",
+    "polkit": "polkit",
+    "postgis": "postgis",
+    "postgresql": "postgresql@18",
+    "postgresql-docs": "postgresql@18",
+    "postgresql-libs": "postgresql@18",
+    "procps-ng": "procps",
+    "pulseaudio": "pulseaudio",
+    "pygobject": "pygobject3",
+    "python3-gobject3": "pygobject3",
+    "python3-matplotlib": "python-matplotlib"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "fedora_42",
     "shard": "w",
-    "total_mappings": 107
+    "total_mappings": 108
   },
   "mappings": {
     "w3m": "w3m",
@@ -102,6 +102,7 @@
     "writerperfect-epub": "writerperfect",
     "wslay": "wslay",
     "wslay-devel": "wslay",
+    "wtype": "wtype",
     "wv": "wv",
     "wv-devel": "wv",
     "wxBase": "wxwidgets@3.2",

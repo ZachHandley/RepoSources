@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "k",
-    "total_mappings": 68
+    "total_mappings": 70
   },
   "mappings": {
     "k6": "k6",
@@ -28,6 +28,7 @@
     "kermit": "c-kermit",
     "kew": "kew",
     "keychain": "keychain",
+    "keyd": "keyd",
     "keydb": "keydb",
     "kf5-karchive": "karchive",
     "kf5-kdoctools": "kdoctools",
@@ -64,6 +65,7 @@
     "ksh": "ksh93",
     "ksh93": "ksh93",
     "kstart": "kstart",
+    "ktea": "ktea",
     "ktoblzcheck": "ktoblzcheck",
     "kube-apiserver": "kubernetes-cli@1.35",
     "kube-controller-manager": "kubernetes-cli@1.35",

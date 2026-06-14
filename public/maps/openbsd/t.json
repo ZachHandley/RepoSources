@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "t",
-    "total_mappings": 383
+    "total_mappings": 384
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -276,6 +276,7 @@
     "textproc/pinfo": "pinfo",
     "textproc/podofo": "podofo",
     "textproc/pugixml": "pugixml",
+    "textproc/pup": "pup",
     "textproc/py-black": "black",
     "textproc/py-markdown": "python-markdown",
     "textproc/py-snowballstemmer": "snowball",

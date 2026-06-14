@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "m",
-    "total_mappings": 453
+    "total_mappings": 454
   },
   "mappings": {
     "mail-client/aerc": "aerc",
@@ -431,6 +431,7 @@
     "media-sound/yewtube": "yewtube",
     "media-video/aravis": "aravis",
     "media-video/atomicparsley": "atomicparsley",
+    "media-video/avisynth+": "avisynthplus",
     "media-video/ccextractor": "ccextractor",
     "media-video/dirac": "dirac",
     "media-video/dvdauthor": "dvdauthor",

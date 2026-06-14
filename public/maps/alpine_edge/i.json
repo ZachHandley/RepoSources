@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "i",
-    "total_mappings": 214
+    "total_mappings": 205
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -104,15 +104,6 @@
     "include-what-you-use-dbg": "include-what-you-use",
     "include-what-you-use-doc": "include-what-you-use",
     "incus": "incus",
-    "incus-agent": "incus",
-    "incus-agent-openrc": "incus",
-    "incus-bash-completion": "incus",
-    "incus-client": "incus",
-    "incus-conversion": "incus",
-    "incus-openrc": "incus",
-    "incus-user": "incus",
-    "incus-user-openrc": "incus",
-    "incus-utils": "incus",
     "incus-vm": "incus",
     "indent": "gnu-indent",
     "indent-doc": "gnu-indent",

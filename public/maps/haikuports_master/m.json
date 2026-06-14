@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "m",
-    "total_mappings": 268
+    "total_mappings": 269
   },
   "mappings": {
     "mail-client/claws-mail": "claws-mail",
@@ -52,6 +52,7 @@
     "media-libs/allegro": "allegro",
     "media-libs/assimp": "assimp@5",
     "media-libs/aubio": "aubio",
+    "media-libs/avisynthplus": "avisynthplus",
     "media-libs/babl": "babl",
     "media-libs/chromaprint": "chromaprint",
     "media-libs/coin": "coin3d",

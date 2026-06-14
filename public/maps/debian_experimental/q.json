@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "q",
-    "total_mappings": 222
+    "total_mappings": 217
   },
   "mappings": {
     "qbs": "qbs",
@@ -66,7 +66,6 @@
     "qml-module-qtwebchannel": "qt@5",
     "qml-module-qtwebengine": "qt@5",
     "qml-module-qtwebsockets": "qt@5",
-    "qml-module-qtwebview": "qt@5",
     "qmlscene": "qt@5",
     "qt3d-assimpsceneimport-plugin": "qt@5",
     "qt3d-defaultgeometryloader-plugin": "qt@5",
@@ -217,10 +216,6 @@
     "qtwebsockets5-doc": "qt@5",
     "qtwebsockets5-doc-html": "qt@5",
     "qtwebsockets5-examples": "qt@5",
-    "qtwebview-opensource-src": "qt@5",
-    "qtwebview5-doc": "qt@5",
-    "qtwebview5-doc-html": "qt@5",
-    "qtwebview5-examples": "qt@5",
     "qtx11extras-opensource-src": "qt@5",
     "qtx11extras5-doc": "qt@5",
     "qtx11extras5-doc-html": "qt@5",

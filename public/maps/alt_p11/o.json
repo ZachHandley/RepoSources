@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "o",
-    "total_mappings": 297
+    "total_mappings": 299
   },
   "mappings": {
     "OpenSceneGraph": "open-scene-graph",
@@ -86,6 +86,8 @@
     "octave-devel": "octave",
     "octave-devel-debuginfo": "octave",
     "octave-doc": "octave",
+    "octave-libsvm": "libsvm",
+    "octave-libsvm-debuginfo": "libsvm",
     "ode": "ode",
     "ode-demos": "ode",
     "ode-demos-debuginfo": "ode",

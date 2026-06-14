@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shards": [
@@ -32,6 +32,6 @@
       "z",
       "_misc"
     ],
-    "total_mappings": 1954
+    "total_mappings": 1955
   }
 }

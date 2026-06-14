@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "l",
-    "total_mappings": 5628
+    "total_mappings": 5630
   },
   "mappings": {
     "LimeSuite": "limesuite",
@@ -2080,8 +2080,6 @@
     "lib64llvm22": "llvm@21",
     "lib64lm_sensors-devel": "lm-sensors",
     "lib64lm_sensors5": "lm-sensors",
-    "lib64lmdb-devel": "lmdb",
-    "lib64lmdb0": "lmdb",
     "lib64lo-devel": "liblo",
     "lib64lo7": "liblo",
     "lib64loadpng4.4": "allegro",
@@ -4711,6 +4709,8 @@
     "liblibndr-krb5pac0": "samba",
     "liblibndr-nbt0": "samba",
     "liblibndr-standard0": "samba",
+    "liblmdb-devel": "lmdb",
+    "liblmdb0": "lmdb",
     "liblo": "liblo",
     "liblo-debuginfo": "liblo",
     "liblo-debugsource": "liblo",
@@ -5370,6 +5370,8 @@
     "llvm22": "llvm@21",
     "lm_sensors": "lm-sensors",
     "lmdb": "lmdb",
+    "lmdb-debuginfo": "lmdb",
+    "lmdb-debugsource": "lmdb",
     "lnav": "lnav",
     "lndir": "lndir",
     "lndir-debuginfo": "lndir",

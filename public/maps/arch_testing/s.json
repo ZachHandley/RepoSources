@@ -1,12 +1,21 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "s",
-    "total_mappings": 1
+    "total_mappings": 10
   },
   "mappings": {
-    "skaffold": "skaffold"
+    "syslog-ng": "syslog-ng",
+    "syslog-ng-amqp": "syslog-ng",
+    "syslog-ng-geoip2": "syslog-ng",
+    "syslog-ng-kafka": "syslog-ng",
+    "syslog-ng-mongodb": "syslog-ng",
+    "syslog-ng-python": "syslog-ng",
+    "syslog-ng-redis": "syslog-ng",
+    "syslog-ng-smtp": "syslog-ng",
+    "syslog-ng-snmp": "syslog-ng",
+    "syslog-ng-sql": "syslog-ng"
   }
 }

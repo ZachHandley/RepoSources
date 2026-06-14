@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "w",
-    "total_mappings": 109
+    "total_mappings": 112
   },
   "mappings": {
     "w3m": "w3m",
@@ -112,6 +112,9 @@
     "wslay-devel-man": "wslay",
     "wslay-devel-static": "wslay",
     "wslay-doc": "wslay",
+    "wtype": "wtype",
+    "wtype-doc": "wtype",
+    "wtype-man": "wtype",
     "wxwidgets": "wxwidgets",
     "wxwidgets-devel": "wxwidgets",
     "wxwidgets-doc": "wxwidgets@3.2",

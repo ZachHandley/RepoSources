@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_05",
     "shard": "a",
-    "total_mappings": 336
+    "total_mappings": 337
   },
   "mappings": {
     "Agda": "agda",
@@ -303,6 +303,7 @@
     "avahi": "avahi",
     "avahi-compat": "avahi",
     "avfs": "avfs",
+    "avisynthplus": "avisynthplus",
     "avra": "avra",
     "avrdude": "avrdude",
     "avro-c": "avro-c",

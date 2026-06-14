@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "s",
-    "total_mappings": 600
+    "total_mappings": 605
   },
   "mappings": {
     "s-nail-git": "s-nail",
@@ -370,6 +370,7 @@
     "spacer-bin": "spacer",
     "spack": "spack",
     "spandsp-git": "spandsp",
+    "sparklines": "spark",
     "sparklines-git": "spark",
     "sparse-git": "sparse",
     "spatialite-gui": "spatialite-gui",
@@ -562,6 +563,8 @@
     "swfmill-git": "swfmill",
     "swftools": "swftools",
     "swftools-git": "swftools",
+    "swgp-go": "swgp-go",
+    "swgp-go-git": "swgp-go",
     "swi-prolog-devel": "swi-prolog",
     "swi-prolog-git": "swi-prolog",
     "swift-bin": "swift",
@@ -606,6 +609,8 @@
     "systemd-resolvconf-git": "systemd",
     "systemd-sysvcompat-git": "systemd",
     "systemd-tests-git": "systemd",
-    "systemd-ukify-git": "systemd"
+    "systemd-ukify-git": "systemd",
+    "syswatch": "syswatch",
+    "syswatch-bin": "syswatch"
   }
 }

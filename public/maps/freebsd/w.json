@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "w",
-    "total_mappings": 282
+    "total_mappings": 283
   },
   "mappings": {
     "WordNet": "wordnet",
@@ -79,6 +79,7 @@
     "wstunnel": "wstunnel",
     "wtf": "wtf",
     "wthrr": "wthrr",
+    "wtype": "wtype",
     "wush": "wush",
     "wv": "wv",
     "wv2": "wv2",

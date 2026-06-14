@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "p",
-    "total_mappings": 591
+    "total_mappings": 598
   },
   "mappings": {
     "PETSc": "petsc",
@@ -380,6 +380,7 @@
     "pugixml": "pugixml",
     "pulledpork": "pulledpork",
     "pulseaudio": "pulseaudio",
+    "pup": "pup",
     "pure-ftpd": "pure-ftpd",
     "purescript-language-server": "purescript-language-server",
     "putty": "putty",
@@ -579,6 +580,12 @@
     "py314-packaging": "python-packaging",
     "py314-setuptools": "python-setuptools",
     "py314-sqlite3": "python@3.9",
+    "py314t-build": "python-build",
+    "py314t-cython": "cython",
+    "py314t-gdbm": "python-gdbm@3.14",
+    "py314t-packaging": "python-packaging",
+    "py314t-setuptools": "python-setuptools",
+    "py314t-sqlite3": "python@3.9",
     "py315-build": "python-build",
     "py315-cython": "cython",
     "py315-gdbm": "python-gdbm@3.14",

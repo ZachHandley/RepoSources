@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "i",
-    "total_mappings": 25
+    "total_mappings": 26
   },
   "mappings": {
     "i2p": "i2p",
@@ -19,6 +19,7 @@
     "influxdb": "influxdb@2",
     "influxdb1": "influxdb@2",
     "influxdb2": "influxdb@2",
+    "infracost": "infracost",
     "inlyne": "inlyne",
     "innoextract": "innoextract",
     "intermodal": "intermodal",

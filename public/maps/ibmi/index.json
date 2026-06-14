@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ibmi",
     "shards": [
@@ -29,6 +29,6 @@
       "x",
       "z"
     ],
-    "total_mappings": 273
+    "total_mappings": 285
   }
 }

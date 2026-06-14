@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "g",
-    "total_mappings": 978
+    "total_mappings": 984
   },
   "mappings": {
     "GLEW": "glew",
@@ -249,6 +249,8 @@
     "gem-travis-devel": "travis",
     "gem-travis-doc": "travis",
     "gemini-cli": "gemini-cli",
+    "genact": "genact",
+    "genact-debuginfo": "genact",
     "gengetopt": "gengetopt",
     "gengetopt-debuginfo": "gengetopt",
     "geogram": "geogram",
@@ -615,6 +617,10 @@
     "gitleaks-debuginfo": "gitleaks",
     "gitlogue": "gitlogue",
     "gitlogue-debuginfo": "gitlogue",
+    "gitsign": "gitsign",
+    "gitsign-credential-cache": "gitsign",
+    "gitsign-credential-cache-debuginfo": "gitsign",
+    "gitsign-debuginfo": "gitsign",
     "gitu": "gitu",
     "gitui": "gitui",
     "gitui-debuginfo": "gitui",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "d",
-    "total_mappings": 992
+    "total_mappings": 991
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -606,7 +606,6 @@
     "dev-libs/tree-sitter-go": "tree-sitter-go",
     "dev-libs/tree-sitter-python": "tree-sitter-python",
     "dev-libs/tree-sitter-ruby": "tree-sitter-ruby",
-    "dev-libs/ucl": "ucl",
     "dev-libs/udis86": "udis86",
     "dev-libs/unibilium": "unibilium",
     "dev-libs/unittest++": "unittest-cpp",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "b",
-    "total_mappings": 355
+    "total_mappings": 353
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -205,8 +205,6 @@
     "bitlbee-devel": "bitlbee",
     "bitlbee-otr": "bitlbee",
     "bitlbee-otr-debuginfo": "bitlbee",
-    "bk": "bk",
-    "bk-debuginfo": "bk",
     "blahtexml": "blahtexml",
     "blahtexml-debuginfo": "blahtexml",
     "blas-man": "lapack",

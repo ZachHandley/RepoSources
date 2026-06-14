@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "k",
-    "total_mappings": 200
+    "total_mappings": 204
   },
   "mappings": {
+    "k0sctl": "k0sctl",
     "k2tf": "k2tf",
     "k3d": "k3d",
     "k3sup": "k3sup",
@@ -42,6 +43,7 @@
     "kcgi": "kcgi",
     "kconf": "kconf",
     "kcov": "kcov",
+    "kdash": "kdash",
     "kdePackages.appstream-qt": "appstream",
     "kdePackages.extra-cmake-modules": "extra-cmake-modules",
     "kdePackages.karchive": "karchive",
@@ -108,6 +110,7 @@
     "kermit": "c-kermit",
     "kew": "kew",
     "keychain": "keychain",
+    "keyd": "keyd",
     "keystone": "keystone",
     "keyutils": "keyutils",
     "khal": "khal",
@@ -172,6 +175,7 @@
     "kubectl-ai": "kubectl-ai",
     "kubectl-cnpg": "kubectl-cnpg",
     "kubectl-convert": "kubernetes-cli@1.35",
+    "kubectl-explore": "kubectl-explore",
     "kubectl-rook-ceph": "kubectl-rook-ceph",
     "kubectl-tree": "kubectl-tree",
     "kubectx": "kubectx",

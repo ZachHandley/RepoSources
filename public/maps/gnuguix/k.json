@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "k",
-    "total_mappings": 28
+    "total_mappings": 29
   },
   "mappings": {
     "kakoune": "kakoune",
@@ -17,6 +17,7 @@
     "kdoctools": "kdoctools",
     "keepkey-agent": "keepkey-agent",
     "keychain": "keychain",
+    "keyd": "keyd",
     "keyutils": "keyutils",
     "khal": "khal",
     "khard": "khard",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pureos_byzantium",
     "shard": "w",
-    "total_mappings": 107
+    "total_mappings": 108
   },
   "mappings": {
     "w3m": "w3m",
@@ -104,6 +104,7 @@
     "writerperfect": "writerperfect",
     "wrk": "wrk",
     "wslay": "wslay",
+    "wtype": "wtype",
     "wv": "wv",
     "wx-common": "wxwidgets@3.2",
     "wx3.0-doc": "wxwidgets@3.2",

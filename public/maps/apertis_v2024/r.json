@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "apertis_v2024",
     "shard": "r",
-    "total_mappings": 100
+    "total_mappings": 97
   },
   "mappings": {
     "r-base": "r",
@@ -45,9 +45,6 @@
     "registry-tools": "samba",
     "rename": "rename",
     "rfkill": "gnu-getopt",
-    "rfkill-modules-6.6.113-686-di": "linux-headers@6.8",
-    "rfkill-modules-6.6.113-686-pae-di": "linux-headers@6.8",
-    "rfkill-modules-6.6.113-amd64-di": "linux-headers@6.8",
     "rfkill-modules-6.6.141-686-di": "linux-headers@6.8",
     "rfkill-modules-6.6.141-686-pae-di": "linux-headers@6.8",
     "rfkill-modules-6.6.141-amd64-di": "linux-headers@6.8",

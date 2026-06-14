@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "l",
-    "total_mappings": 2676
+    "total_mappings": 2675
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -348,6 +348,8 @@
     "libavif": "libavif",
     "libavif-devel": "libavif",
     "libavif-tools": "libavif",
+    "libavisynthplus": "avisynthplus",
+    "libavisynthplus-devel": "avisynthplus",
     "libavrdude": "avrdude",
     "libavrdude-devel": "avrdude",
     "libavresample-ffmpeg4": "ffmpeg@7",
@@ -395,9 +397,6 @@
     "libboost": "boost@1.85",
     "libboost-devel": "boost@1.85",
     "libboost-tools": "boost@1.85",
-    "libboost176": "boost@1.85",
-    "libboost176-debug": "boost@1.85",
-    "libboost176-devel": "boost@1.85",
     "libboost183": "boost@1.85",
     "libboost183-debug": "boost@1.85",
     "libboost183-devel": "boost@1.85",
@@ -1525,6 +1524,7 @@
     "libmypaint": "libmypaint",
     "libmypaint-debug": "libmypaint",
     "libmypaint-devel": "libmypaint",
+    "libnanobind-devel": "nanobind",
     "libnatpmp": "libnatpmp",
     "libnatpmp-debug": "libnatpmp",
     "libnatpmp-devel": "libnatpmp",
@@ -2004,6 +2004,7 @@
     "librist-tools": "librist",
     "librnp": "rnp",
     "librnp-devel": "rnp",
+    "librobin-map-devel": "robin-map",
     "librpm": "rpm",
     "librpm-devel": "rpm",
     "librrd": "rrdtool",
@@ -2027,8 +2028,6 @@
     "librubberband-devel": "rubberband",
     "libruby": "ruby@3.4",
     "libruby-devel": "ruby@3.4",
-    "libruby27": "ruby@3.4",
-    "libruby27-devel": "ruby@3.4",
     "libruby32": "ruby@3.4",
     "libruby32-devel": "ruby@3.4",
     "librustc": "rust",

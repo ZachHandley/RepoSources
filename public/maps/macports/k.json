@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "k",
-    "total_mappings": 89
+    "total_mappings": 91
   },
   "mappings": {
+    "k0sctl": "k0sctl",
     "k2tf": "k2tf",
     "k3d": "k3d",
     "k3sup": "k3sup",
@@ -19,6 +20,7 @@
     "katana": "katana",
     "kcat": "kcat",
     "kcov": "kcov",
+    "kdash": "kdash",
     "kde-extra-cmake-modules": "extra-cmake-modules",
     "kde-extra-cmake-modules-devel": "extra-cmake-modules",
     "kde/kde-extra-cmake-modules": "extra-cmake-modules",

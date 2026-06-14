@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "k",
-    "total_mappings": 19
+    "total_mappings": 20
   },
   "mappings": {
     "k9s": "k9s",
@@ -13,6 +13,7 @@
     "kdoctools": "kdoctools",
     "kea": "kea",
     "keychain": "keychain",
+    "keyd": "keyd",
     "keyutils": "keyutils",
     "ki18n": "ki18n",
     "kmod": "kmod",

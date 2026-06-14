@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "u",
-    "total_mappings": 32
+    "total_mappings": 33
   },
   "mappings": {
     "ubuntu-virt": "qemu",
@@ -13,6 +13,7 @@
     "udis86": "udis86",
     "ulfius": "ulfius",
     "umoci": "umoci",
+    "unar": "unar",
     "unbound": "unbound",
     "unbound-anchor": "unbound",
     "unbound-host": "unbound",

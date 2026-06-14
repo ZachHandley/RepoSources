@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "q",
-    "total_mappings": 68
+    "total_mappings": 64
   },
   "mappings": {
     "qalculate-gtk": "qalculate-gtk",
@@ -28,7 +28,6 @@
     "qtbase": "qtbase",
     "qtcharts": "qtcharts",
     "qtconnectivity": "qtconnectivity",
-    "qtdatavis3d": "qtdatavis3d",
     "qtdeclarative": "qtdeclarative",
     "qtgamepad": "qt@5",
     "qtgraphicaleffects": "qt@5",
@@ -42,7 +41,6 @@
     "qtmultimedia": "qtmultimedia",
     "qtnetworkauth": "qtnetworkauth",
     "qtpositioning": "qtpositioning",
-    "qtpurchasing": "qt@5",
     "qtquick3d": "qtquick3d",
     "qtquick3dphysics": "qtquick3dphysics",
     "qtquickcontrols": "qt@5",
@@ -51,7 +49,6 @@
     "qtscript": "qt@5",
     "qtscxml": "qtscxml",
     "qtsensors": "qtsensors",
-    "qtserialbus": "qtserialbus",
     "qtserialport": "qtserialport",
     "qtshadertools": "qtshadertools",
     "qtspeech": "qtspeech",
@@ -62,7 +59,6 @@
     "qtwayland": "qtwayland",
     "qtwebchannel": "qtwebchannel",
     "qtwebengine": "qtwebengine",
-    "qtwebglplugin": "qt@5",
     "qtwebsockets": "qtwebsockets",
     "qtwebview": "qtwebview",
     "qtx11extras": "qt@5",

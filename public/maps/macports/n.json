@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "n",
-    "total_mappings": 474
+    "total_mappings": 475
   },
   "mappings": {
     "n": "n",
@@ -300,6 +300,7 @@
     "net/shellinabox": "shellinabox",
     "net/sipcalc": "sipcalc",
     "net/slurm": "slurm",
+    "net/sniffnet": "sniffnet",
     "net/snort": "snort",
     "net/snownews": "snownews",
     "net/socket_vmnet": "socket_vmnet",

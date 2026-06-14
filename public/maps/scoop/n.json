@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "n",
-    "total_mappings": 54
+    "total_mappings": 55
   },
   "mappings": {
     "nali": "nali",
@@ -23,6 +23,7 @@
     "neovim-qt": "neovim-qt",
     "nerdctl": "nerdctl",
     "nethack": "nethack",
+    "netwatch": "netwatch",
     "nextdns": "nextdns",
     "nexttrace": "nexttrace",
     "nfpm": "nfpm",

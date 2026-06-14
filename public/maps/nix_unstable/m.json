@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "m",
-    "total_mappings": 352
+    "total_mappings": 353
   },
   "mappings": {
     "MHonArc": "mhonarc",
@@ -106,6 +106,7 @@
     "mcp-proxy": "mcp-proxy",
     "mcphost": "mcphost",
     "mcpp": "mcpp",
+    "md-tui": "md-tui",
     "md4c": "md4c",
     "mda-lv2": "mda-lv2",
     "mda_lv2": "mda-lv2",

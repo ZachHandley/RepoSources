@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "t",
-    "total_mappings": 102
+    "total_mappings": 105
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -20,6 +20,9 @@
     "tcpreplay-debuginfo": "tcpreplay",
     "tcpreplay-debugsource": "tcpreplay",
     "terminator": "terminator",
+    "testdisk": "testdisk",
+    "testdisk-debuginfo": "testdisk",
+    "testdisk-debugsource": "testdisk",
     "testssl": "testssl",
     "thrift": "thrift",
     "thrift-debuginfo": "thrift",

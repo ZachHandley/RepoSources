@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "n",
-    "total_mappings": 426
+    "total_mappings": 427
   },
   "mappings": {
     "net-analyzer/2ping": "twoping",
@@ -50,6 +50,7 @@
     "net-analyzer/net-snmp": "net-snmp",
     "net-analyzer/netdata": "netdata",
     "net-analyzer/nethogs": "nethogs",
+    "net-analyzer/netwatch": "netwatch",
     "net-analyzer/nfdump": "nfdump",
     "net-analyzer/ngrep": "ngrep",
     "net-analyzer/nikto": "nikto",
@@ -86,6 +87,7 @@
     "net-analyzer/tracebox": "tracebox",
     "net-analyzer/trippy": "trippy",
     "net-analyzer/tsung": "tsung",
+    "net-analyzer/ttl": "ttl",
     "net-analyzer/vnstat": "vnstat",
     "net-analyzer/wireshark": "wireshark",
     "net-analyzer/wtfis": "wtfis",
@@ -363,7 +365,6 @@
     "net-misc/whois": "whois",
     "net-misc/wput": "wput",
     "net-misc/xmrig": "xmrig",
-    "net-misc/you-get": "you-get",
     "net-misc/yt-dlp": "yt-dlp",
     "net-misc/zssh": "zssh",
     "net-misc/zsync": "zsync",

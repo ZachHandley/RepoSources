@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "z",
-    "total_mappings": 130
+    "total_mappings": 132
   },
   "mappings": {
     "z3": "z3",
@@ -100,6 +100,8 @@
     "zlib-ng-devel-static": "zlib-ng",
     "zopfli": "zopfli",
     "zopfli-debuginfo": "zopfli",
+    "zot": "zot",
+    "zot-debuginfo": "zot",
     "zoxide": "zoxide",
     "zoxide-debuginfo": "zoxide",
     "zpaq": "zpaq",

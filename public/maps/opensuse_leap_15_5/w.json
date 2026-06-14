@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "w",
-    "total_mappings": 50
+    "total_mappings": 51
   },
   "mappings": {
     "w3m": "w3m",
@@ -46,6 +46,7 @@
     "writerperfect": "writerperfect",
     "wrk": "wrk",
     "wslay": "wslay",
+    "wtype": "wtype",
     "wumpus": "wumpus",
     "wv": "wv",
     "wv2": "wv2",

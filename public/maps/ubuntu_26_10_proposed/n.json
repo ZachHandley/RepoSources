@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "n",
-    "total_mappings": 43
+    "total_mappings": 51
   },
   "mappings": {
     "nanobind": "nanobind",
@@ -13,13 +13,8 @@
     "ncbi-blast+": "blast",
     "ncbi-blast+-legacy": "blast",
     "ndiff": "nmap",
-    "neomutt": "neomutt",
     "neon27": "neon",
     "net-snmp": "net-snmp",
-    "netatalk": "netatalk",
-    "netatalk-doc": "netatalk",
-    "netatalk-tests": "netatalk",
-    "netatalk-tools": "netatalk",
     "netcdf": "netcdf",
     "netcdf-bin": "netcdf",
     "netcdf-doc": "netcdf",
@@ -45,10 +40,23 @@
     "node-llhttp": "llhttp",
     "node-semver": "semver",
     "node-webpack": "webpack",
+    "node-wikibase-cli": "wikibase-cli",
     "node-yarnpkg": "yarn",
     "nodejs": "node@24",
     "nodejs-doc": "node@24",
     "nss": "nss",
-    "numpy": "numpy"
+    "numpy": "numpy",
+    "nut": "nut",
+    "nut-cgi": "nut",
+    "nut-client": "nut",
+    "nut-doc": "nut",
+    "nut-i2c": "nut",
+    "nut-ipmi": "nut",
+    "nut-modbus": "nut",
+    "nut-monitor": "nut",
+    "nut-powerman-pdu": "nut",
+    "nut-server": "nut",
+    "nut-snmp": "nut",
+    "nut-xml": "nut"
   }
 }

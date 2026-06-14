@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "z",
-    "total_mappings": 87
+    "total_mappings": 89
   },
   "mappings": {
     "z": "z",
@@ -44,6 +44,7 @@
     "zeek": "zeek",
     "zellij": "zellij",
     "zenity": "zenity",
+    "zeroclaw": "zeroclaw",
     "zfp": "zfp",
     "zh-bitchx": "bitchx",
     "zh-cconv": "cconv",
@@ -75,6 +76,7 @@
     "zoneinfo": "tzdb",
     "zookeeper": "zookeeper",
     "zopfli": "zopfli",
+    "zot": "zot",
     "zoxide": "zoxide",
     "zpaqfranz": "zpaqfranz",
     "zrepl": "zrepl",

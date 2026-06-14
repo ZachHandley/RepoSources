@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "c",
-    "total_mappings": 678
+    "total_mappings": 681
   },
   "mappings": {
     "CFR": "cfr-decompiler",
@@ -133,6 +133,7 @@
     "cgit": "cgit",
     "cgit-apache2": "cgit",
     "cgit-debuginfo": "cgit",
+    "cgit-nginx": "cgit",
     "cgns": "cgns",
     "cgns-debuginfo": "cgns",
     "cgoban": "cgoban",
@@ -182,6 +183,8 @@
     "chrony-debuginfo": "chrony",
     "chrpath": "chrpath",
     "chrpath-debuginfo": "chrpath",
+    "chunkah": "chunkah",
+    "chunkah-debuginfo": "chunkah",
     "cilium-cli": "cilium-cli",
     "cilium-cli-debuginfo": "cilium-cli",
     "cjson": "cjson",

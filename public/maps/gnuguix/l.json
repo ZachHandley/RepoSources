@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "l",
@@ -287,6 +287,7 @@
     "librsvg": "librsvg",
     "librsync": "librsync",
     "librttopo": "librttopo",
+    "libsais": "libsais",
     "libsamplerate": "libsamplerate",
     "libsass": "libsass",
     "libscfg": "libscfg",
@@ -343,7 +344,6 @@
     "libtool": "libtool",
     "libtorrent": "libtorrent-rakshasa",
     "libtorrent-rasterbar": "libtorrent-rasterbar",
-    "libtoxcore": "toxcore",
     "libu2f-server": "libu2f-server",
     "libucl": "libucl",
     "libudfread": "libudfread",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "p",
-    "total_mappings": 546
+    "total_mappings": 547
   },
   "mappings": {
     "PDAL": "pdal",
@@ -552,6 +552,7 @@
     "python3.13-setuptools-wheel": "python-setuptools",
     "python3.13-test": "python@3.9",
     "python3.13-tkinter": "python@3.9",
-    "python3.13-uwsgidecorators": "uwsgi"
+    "python3.13-uwsgidecorators": "uwsgi",
+    "python3.14-rpm": "rpm"
   }
 }

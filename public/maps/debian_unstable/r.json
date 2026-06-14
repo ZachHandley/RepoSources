@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "r",
-    "total_mappings": 278
+    "total_mappings": 282
   },
   "mappings": {
     "r-base": "r",
@@ -120,6 +120,10 @@
     "rfkill-modules-6.18.9+deb14-loong64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.10+deb14-amd64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.10+deb14-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.12+deb14-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.12+deb14-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.12+deb14.1-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.12+deb14.1-loong64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.4+deb14-loong64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.7+deb14-loong64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.9+deb14-loong64-di": "linux-headers@6.8",

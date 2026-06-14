@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "r",
-    "total_mappings": 176
+    "total_mappings": 178
   },
   "mappings": {
     "R": "r",
@@ -105,12 +105,14 @@
     "rlog": "rlog",
     "rlwrap": "rlwrap",
     "rmlint": "rmlint",
+    "rmux": "rmux",
     "roadrunner": "roadrunner",
     "roapi": "roapi",
     "robin-map": "robin-map",
     "robodoc": "robodoc",
     "robotfindskitten": "robotfindskitten",
     "rocksdb": "rocksdb",
+    "rocq": "rocq",
     "rofi": "rofi",
     "rogue": "rogue",
     "roll": "roll",

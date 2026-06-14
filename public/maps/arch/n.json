@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "n",
-    "total_mappings": 108
+    "total_mappings": 109
   },
   "mappings": {
     "nano": "nano",
@@ -48,6 +48,7 @@
     "netsurf-buildsystem": "netsurf-buildsystem",
     "nettle": "nettle@3",
     "nettle3": "nettle@3",
+    "netwatch": "netwatch",
     "newsboat": "newsboat",
     "nftables": "nftables",
     "nginx": "nginx",

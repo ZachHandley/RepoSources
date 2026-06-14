@@ -1,13 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "l",
-    "total_mappings": 3
+    "total_mappings": 7
   },
   "mappings": {
+    "lib32-nss": "nss",
+    "libayatana-indicator": "libayatana-indicator",
     "libnpupnp": "libnpupnp",
+    "libperconaserverclient": "percona-server@8.0",
+    "libphonenumber": "libphonenumber",
     "linux-tools": "linux-headers@6.8",
     "linux-tools-meta": "linux-headers@6.8"
   }

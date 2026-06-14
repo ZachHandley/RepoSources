@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "l",
-    "total_mappings": 7172
+    "total_mappings": 7182
   },
   "mappings": {
     "LibreSSL": "libressl",
@@ -5662,6 +5662,14 @@
     "libsuil": "suil",
     "libsuil-debuginfo": "suil",
     "libsuil-devel": "suil",
+    "libsuil-gtk2": "suil",
+    "libsuil-gtk2-debuginfo": "suil",
+    "libsuil-gtk3": "suil",
+    "libsuil-gtk3-debuginfo": "suil",
+    "libsuil-qt5": "suil",
+    "libsuil-qt5-debuginfo": "suil",
+    "libsuil-qt6": "suil",
+    "libsuil-qt6-debuginfo": "suil",
     "libsuitesparse": "suite-sparse",
     "libsuitesparse-devel": "suite-sparse",
     "libsuitesparse-tools": "suite-sparse",
@@ -5683,10 +5691,12 @@
     "libsvg1": "libsvg",
     "libsvg1-debuginfo": "libsvg",
     "libsvm": "libsvm",
-    "libsvm-debuginfo": "libsvm",
     "libsvm-devel": "libsvm",
+    "libsvm-java": "libsvm",
     "libsvm-tools": "libsvm",
     "libsvm-tools-debuginfo": "libsvm",
+    "libsvm4": "libsvm",
+    "libsvm4-debuginfo": "libsvm",
     "libsvt-av1": "svt-av1",
     "libsvt-av1-debuginfo": "svt-av1",
     "libsvt-av1-devel": "svt-av1",

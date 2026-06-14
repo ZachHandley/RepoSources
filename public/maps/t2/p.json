@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "p",
-    "total_mappings": 117
+    "total_mappings": 118
   },
   "mappings": {
     "p0f": "p0f",
@@ -35,6 +35,7 @@
     "pcsc-lite": "pcsc-lite",
     "pdftilecut": "pdftilecut",
     "pdftk": "pdftk-java",
+    "pdm": "pdm",
     "perceptualdiff": "perceptualdiff",
     "perf": "linux-headers@6.8",
     "perl": "perl",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "p",
-    "total_mappings": 746
+    "total_mappings": 745
   },
   "mappings": {
     "p0f": "p0f",
@@ -59,8 +59,6 @@
     "pcaudiolib": "pcaudiolib",
     "pciutils": "pciutils",
     "pcre": "pcre",
-    "pcre-debuginfo": "pcre",
-    "pcre-debugsource": "pcre",
     "pcre-doc": "pcre",
     "pcre2": "pcre2",
     "pcsc-lite": "pcsc-lite",
@@ -545,6 +543,7 @@
     "python-argcomplete": "python-argcomplete",
     "python-aubio": "aubio",
     "python-autopep8": "autopep8",
+    "python-autopep8-debuginfo": "autopep8",
     "python-b2": "b2-tools",
     "python-beecrypt": "beecrypt",
     "python-black": "black",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "i",
@@ -62,9 +62,9 @@
     "input-modules-6.18.31-powerpc64le-di": "linux-headers@6.8",
     "input-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "input-modules-6.18.31-sparc64-di": "linux-headers@6.8",
-    "input-modules-6.18.32-amd64-di": "linux-headers@6.8",
-    "input-modules-6.18.32-arm64-di": "linux-headers@6.8",
-    "input-modules-6.18.32-armmp-di": "linux-headers@6.8",
+    "input-modules-6.18.32+1-amd64-di": "linux-headers@6.8",
+    "input-modules-6.18.32+1-arm64-di": "linux-headers@6.8",
+    "input-modules-6.18.32+1-armmp-di": "linux-headers@6.8",
     "install-info": "texinfo",
     "intel-sdsi": "linux-headers@6.8",
     "intltool": "intltool",
@@ -96,9 +96,9 @@
     "isofs-modules-6.18.31-s390x-di": "linux-headers@6.8",
     "isofs-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "isofs-modules-6.18.31-sparc64-di": "linux-headers@6.8",
-    "isofs-modules-6.18.32-amd64-di": "linux-headers@6.8",
-    "isofs-modules-6.18.32-arm64-di": "linux-headers@6.8",
-    "isofs-modules-6.18.32-armmp-di": "linux-headers@6.8",
+    "isofs-modules-6.18.32+1-amd64-di": "linux-headers@6.8",
+    "isofs-modules-6.18.32+1-arm64-di": "linux-headers@6.8",
+    "isofs-modules-6.18.32+1-armmp-di": "linux-headers@6.8",
     "isort": "isort",
     "ispell": "ispell",
     "itstool": "itstool"

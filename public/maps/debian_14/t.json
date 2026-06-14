@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "t",
-    "total_mappings": 360
+    "total_mappings": 359
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -344,7 +344,6 @@
     "tree-sitter-go-src": "tree-sitter-go",
     "tree-sitter-ruby": "tree-sitter-ruby",
     "tree-sitter-ruby-src": "tree-sitter-ruby",
-    "trippy": "trippy",
     "trurl": "trurl",
     "tshark": "wireshark",
     "tsung": "tsung",

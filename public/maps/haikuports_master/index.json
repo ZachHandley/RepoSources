@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shards": [
@@ -15,6 +15,6 @@
       "w",
       "x"
     ],
-    "total_mappings": 1323
+    "total_mappings": 1326
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "s",
@@ -151,13 +151,13 @@
     "system/ipmitool": "ipmitool",
     "system/jdupes": "jdupes",
     "system/jenkins": "jenkins",
-    "system/jnv-bin": "jnv",
     "system/john": "john",
     "system/joyce": "joyce",
     "system/jq": "jq",
     "system/jshon": "jshon",
     "system/kafka": "kafka",
     "system/kapacitor": "kapacitor",
+    "system/keyd": "keyd",
     "system/kubectx": "kubectx",
     "system/kyotocabinet": "kyoto-cabinet",
     "system/lcdf-typetools": "lcdf-typetools",

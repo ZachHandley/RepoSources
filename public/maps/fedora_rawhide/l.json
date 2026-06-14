@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "l",
-    "total_mappings": 1829
+    "total_mappings": 1827
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -670,8 +670,6 @@
     "libgit2-devel": "libgit2",
     "libgit2-glib": "libgit2-glib",
     "libgit2-glib-devel": "libgit2-glib",
-    "libgit2_1.8": "libgit2@1.8",
-    "libgit2_1.8-devel": "libgit2@1.8",
     "libgm2": "gcc@14",
     "libgm2-static": "gcc@14",
     "libgnat": "gcc@14",

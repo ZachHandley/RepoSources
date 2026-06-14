@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "c",
-    "total_mappings": 752
+    "total_mappings": 753
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -389,6 +389,7 @@
     "corsix-th-data": "corsixth",
     "cosign": "cosign",
     "cotp": "cotp",
+    "coturn": "coturn",
     "cowsay": "cowsay",
     "cowsay-off": "cowsay",
     "cp2k": "cp2k",

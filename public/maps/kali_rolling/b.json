@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "b",
-    "total_mappings": 312
+    "total_mappings": 308
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -248,9 +248,6 @@
     "bootterm": "bootterm",
     "borgbackup": "borgbackup",
     "borgbackup-doc": "borgbackup",
-    "borgbackup-is-borgbackup2": "borgbackup",
-    "borgbackup2": "borgbackup",
-    "borgbackup2-doc": "borgbackup",
     "borgmatic": "borgmatic",
     "bossa": "bossa",
     "bossa-cli": "bossa",
@@ -307,7 +304,6 @@
     "bumpversion": "bumpversion",
     "bup": "bup",
     "bup-doc": "bup",
-    "burp": "burp",
     "burrow": "burrow",
     "bvi": "bvi",
     "bwa": "bwa",

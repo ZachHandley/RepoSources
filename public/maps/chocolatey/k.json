@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "k",
-    "total_mappings": 38
+    "total_mappings": 42
   },
   "mappings": {
+    "KDash": "kdash",
     "Kafka": "kafka",
     "Keyless Git signing using Sigstore": "gitsign",
     "Kind": "kind",
@@ -19,6 +20,8 @@
     "Kubo": "kubo",
     "Kustomize (Install)": "kustomize",
     "Kyma CLI - Install, Manage and Test Kyma": "kyma-cli",
+    "k0sctl": "k0sctl",
+    "k0sctl (Latest)": "k0sctl",
     "k3d": "k3d",
     "k3d (Stable)": "k3d",
     "k3sup": "k3sup",
@@ -31,6 +34,7 @@
     "kanata": "kanata",
     "kapp": "kapp",
     "kbld": "kbld",
+    "kdash": "kdash",
     "kind": "kind",
     "kpcli": "kpcli",
     "krew": "krew",

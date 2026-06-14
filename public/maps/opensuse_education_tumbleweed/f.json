@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_education_tumbleweed",
     "shard": "f",
-    "total_mappings": 15
+    "total_mappings": 14
   },
   "mappings": {
     "fftw3": "fftw",
     "fftw3-debuginfo": "fftw",
     "fftw3-debugsource": "fftw",
     "fftw3-devel": "fftw",
-    "fftw3-mpi-devel": "fftw",
     "fftw3-openmp-devel": "fftw",
     "fftw3-threads-devel": "fftw",
     "fpc": "fpc",

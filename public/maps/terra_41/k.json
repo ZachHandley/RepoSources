@@ -1,12 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "terra_41",
     "shard": "k",
-    "total_mappings": 2
+    "total_mappings": 5
   },
   "mappings": {
+    "keyd": "keyd",
+    "keyd-debuginfo": "keyd",
+    "keyd-debugsource": "keyd",
     "kondo": "kondo",
     "kotlin": "kotlin"
   }

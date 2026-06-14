@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alpine_3_18",
     "shard": "p",
-    "total_mappings": 707
+    "total_mappings": 709
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -535,6 +535,8 @@
     "pulseaudio-utils": "pulseaudio",
     "pulseaudio-zeroconf": "pulseaudio",
     "pulseaudio-zsh-completion": "pulseaudio",
+    "pup": "pup",
+    "pup-doc": "pup",
     "pure-ftpd": "pure-ftpd",
     "pure-ftpd-doc": "pure-ftpd",
     "pure-ftpd-openrc": "pure-ftpd",

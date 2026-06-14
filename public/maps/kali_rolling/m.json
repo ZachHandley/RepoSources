@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "m",
-    "total_mappings": 403
+    "total_mappings": 404
   },
   "mappings": {
     "m4": "m4",
@@ -147,6 +147,7 @@
     "mediainfo-gui": "media-info",
     "mednafen": "mednafen",
     "megatools": "megatools",
+    "meli": "meli",
     "melt": "mlt",
     "memcached": "memcached",
     "memtester": "memtester",

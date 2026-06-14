@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "l",
-    "total_mappings": 169
+    "total_mappings": 170
   },
   "mappings": {
     "LADSPA": "ladspa-sdk",
@@ -40,6 +40,7 @@
     "LilyPond": "lilypond",
     "Links": "links",
     "Linux PAM": "linux-pam",
+    "Linux kernel": "linux-headers@6.8",
     "Liquibase": "liquibase",
     "Little CMS": "little-cms2",
     "Logical Volume Manager": "device-mapper",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "b",
-    "total_mappings": 358
+    "total_mappings": 360
   },
   "mappings": {
     "babelfish": "babelfish",
@@ -212,7 +212,6 @@
     "bitwuzla": "bitwuzla",
     "bitwuzla-docs": "bitwuzla",
     "bitwuzla-git": "bitwuzla",
-    "bk-bin": "bk",
     "bkcrack": "bkcrack",
     "bkcrack-bin": "bkcrack",
     "bkcrack-git": "bkcrack",
@@ -311,6 +310,7 @@
     "bro": "zeek",
     "brogue": "brogue",
     "brogue-ce": "brogue",
+    "brogue-ce-curses": "brogue",
     "brogue-ce-git": "brogue",
     "broot-git": "broot",
     "brotli-git": "brotli",
@@ -328,6 +328,8 @@
     "btop-git": "btop",
     "btpd-git": "btpd",
     "btrfs-progs-git": "btrfs-progs",
+    "bttf": "bttf",
+    "bttf-bin": "bttf",
     "bubblewrap-git": "bubblewrap",
     "bubblewrap-suid-git": "bubblewrap",
     "buf-bin": "buf",

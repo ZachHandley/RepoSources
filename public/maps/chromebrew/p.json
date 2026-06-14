@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "p",
-    "total_mappings": 118
+    "total_mappings": 119
   },
   "mappings": {
     "p11kit": "p11-kit",
@@ -85,6 +85,7 @@
     "pthread_stubs": "libpthread-stubs",
     "pugixml": "pugixml",
     "pulseaudio": "pulseaudio",
+    "pup": "pup",
     "pupnp": "libupnp",
     "putty": "putty",
     "pv": "pv",
@@ -110,7 +111,6 @@
     "py3_pre_commit": "pre-commit",
     "py3_pspdfutils": "psutils",
     "py3_pybind11": "pybind11",
-    "py3_pycairo": "py3cairo",
     "py3_pygobject": "pygobject3",
     "py3_pylint": "pylint",
     "py3_pytest": "pytest",
@@ -121,6 +121,7 @@
     "py3_snowballstemmer": "snowball",
     "py3_twine": "twine",
     "py3_virtualenv": "virtualenv",
+    "py3cairo": "py3cairo",
     "pygobject2": "pygobject3",
     "pystring": "pystring",
     "python2": "python@3.9",

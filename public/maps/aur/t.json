@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "t",
-    "total_mappings": 379
+    "total_mappings": 381
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -335,6 +335,8 @@
     "ttf2eot": "ttf2eot",
     "ttfautohint": "ttfautohint",
     "ttfautohint-git": "ttfautohint",
+    "ttl": "ttl",
+    "ttl-bin": "ttl",
     "ttmath": "ttmath",
     "tty-clock": "tty-clock",
     "tty-clock-git": "tty-clock",

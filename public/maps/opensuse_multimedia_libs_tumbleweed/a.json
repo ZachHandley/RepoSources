@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "a",
-    "total_mappings": 24
+    "total_mappings": 28
   },
   "mappings": {
     "a52dec": "a52dec",
@@ -30,6 +30,10 @@
     "aubio-debugsource": "aubio",
     "aubio-docs": "aubio",
     "aubio-tools": "aubio",
-    "avif-tools": "libavif"
+    "avif-tools": "libavif",
+    "avisynthplus": "avisynthplus",
+    "avisynthplus-debuginfo": "avisynthplus",
+    "avisynthplus-debugsource": "avisynthplus",
+    "avisynthplus-devel": "avisynthplus"
   }
 }

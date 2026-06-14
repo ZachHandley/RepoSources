@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "b",
-    "total_mappings": 419
+    "total_mappings": 414
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -285,14 +285,10 @@
     "bomtool": "pkgconf",
     "bonnie++": "bonnie++",
     "boolector": "boolector",
-    "boost1.83": "boost@1.85",
     "boost1.90": "boost@1.85",
     "bootterm": "bootterm",
     "borgbackup": "borgbackup",
     "borgbackup-doc": "borgbackup",
-    "borgbackup-is-borgbackup2": "borgbackup",
-    "borgbackup2": "borgbackup",
-    "borgbackup2-doc": "borgbackup",
     "borgmatic": "borgmatic",
     "bossa": "bossa",
     "bossa-cli": "bossa",
@@ -414,7 +410,6 @@
     "bumpversion": "bumpversion",
     "bup": "bup",
     "bup-doc": "bup",
-    "burp": "burp",
     "burrow": "burrow",
     "bvi": "bvi",
     "bwa": "bwa",

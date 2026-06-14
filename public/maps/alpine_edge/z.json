@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "z",
-    "total_mappings": 130
+    "total_mappings": 138
   },
   "mappings": {
     "z": "z",
@@ -90,6 +90,14 @@
     "zopfli": "zopfli",
     "zopfli-dev": "zopfli",
     "zopfli-doc": "zopfli",
+    "zot": "zot",
+    "zot-cli": "zot",
+    "zot-cli-bash-completion": "zot",
+    "zot-cli-fish-completion": "zot",
+    "zot-cli-zsh-completion": "zot",
+    "zot-doc": "zot",
+    "zot-exporter": "zot",
+    "zot-openrc": "zot",
     "zoxide": "zoxide",
     "zoxide-bash-completion": "zoxide",
     "zoxide-doc": "zoxide",

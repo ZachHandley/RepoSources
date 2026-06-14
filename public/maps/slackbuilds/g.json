@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "g",
-    "total_mappings": 174
+    "total_mappings": 175
   },
   "mappings": {
     "games/7kaa": "seven-kingdoms",
+    "games/BrogueCE": "brogue",
     "games/CorsixTH": "corsixth",
     "games/advancescan": "advancescan",
     "games/angband": "angband",

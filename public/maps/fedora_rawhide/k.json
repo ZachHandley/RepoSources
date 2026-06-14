@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "k",
-    "total_mappings": 159
+    "total_mappings": 160
   },
   "mappings": {
     "k9s": "k9s",
@@ -48,6 +48,7 @@
     "kernel-modules-extra": "linux-headers@6.8",
     "kernel-modules-extra-matched": "linux-headers@6.8",
     "kernel-modules-internal": "linux-headers@6.8",
+    "kernel-selftests-internal": "linux-headers@6.8",
     "kernel-tools": "linux-headers@6.8",
     "kernel-tools-debuginfo": "linux-headers@6.8",
     "kernel-tools-libs": "linux-headers@6.8",

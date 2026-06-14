@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "y",
-    "total_mappings": 13
+    "total_mappings": 14
   },
   "mappings": {
     "yapf": "yapf",
@@ -19,6 +19,7 @@
     "yaws-mail": "yaws",
     "yaws-wiki": "yaws",
     "yaws-yapp": "yaws",
-    "ydiff": "ydiff"
+    "ydiff": "ydiff",
+    "yt-dlp": "yt-dlp"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "h",
-    "total_mappings": 120
+    "total_mappings": 121
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -108,6 +108,7 @@
     "hunspell": "hunspell",
     "hunspell-tools": "hunspell",
     "hut": "hut",
+    "hwatch": "hwatch",
     "hwloc": "hwloc",
     "hwloc-nox": "hwloc",
     "hx": "helix",

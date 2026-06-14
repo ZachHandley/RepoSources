@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "t",
-    "total_mappings": 450
+    "total_mappings": 451
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -406,6 +406,7 @@
     "ttfautohint-doc": "ttfautohint",
     "ttfautohint-gui": "ttfautohint",
     "ttfautohint-libs": "ttfautohint",
+    "ttl": "ttl",
     "tty-clock": "tty-clock",
     "tty-clock-doc": "tty-clock",
     "tty-share": "tty-share",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "q",
-    "total_mappings": 566
+    "total_mappings": 567
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -366,6 +366,7 @@
     "qt6-svg-doc": "qt@5",
     "qt6-svg-doc-dev": "qt@5",
     "qt6-svg-doc-html": "qt@5",
+    "qt6-svg-examples": "qt@5",
     "qt6-svg-plugins": "qt@5",
     "qt6-svg-private-dev": "qt@5",
     "qt6-tools": "qt@5",

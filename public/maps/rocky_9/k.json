@@ -1,14 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "k",
-    "total_mappings": 23
+    "total_mappings": 25
   },
   "mappings": {
     "kernel": "linux-headers@6.8",
+    "kernel-abi-stablelists": "linux-headers@6.8",
     "kernel-cross-headers": "linux-headers@6.8",
+    "kernel-doc": "linux-headers@6.8",
     "kernel-headers": "linux-headers@6.8",
     "keyutils": "keyutils",
     "keyutils-libs": "keyutils",

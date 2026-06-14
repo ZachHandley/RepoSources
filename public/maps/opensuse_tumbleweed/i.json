@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "i",
-    "total_mappings": 234
+    "total_mappings": 239
   },
   "mappings": {
     "ImageMagick": "imagemagick@6",
@@ -236,6 +236,11 @@
     "isync": "isync",
     "isync-debuginfo": "isync",
     "isync-debugsource": "isync",
+    "itpp": "itpp",
+    "itpp-debuginfo": "itpp",
+    "itpp-debugsource": "itpp",
+    "itpp-devel": "itpp",
+    "itpp-doc": "itpp",
     "itstool": "itstool",
     "ivykis": "ivykis",
     "ivykis-debuginfo": "ivykis",

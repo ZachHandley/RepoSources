@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "r",
-    "total_mappings": 907
+    "total_mappings": 908
   },
   "mappings": {
     "r": "r",
@@ -210,6 +210,7 @@
     "runtime-common/redland": "redland",
     "runtime-common/rlwrap": "rlwrap",
     "runtime-common/rrdtool": "rrdtool",
+    "runtime-common/scnlib": "scnlib",
     "runtime-common/serd": "serd",
     "runtime-common/simde": "simde",
     "runtime-common/simdutf": "simdutf",
@@ -244,7 +245,6 @@
     "runtime-common/yajl": "yajl",
     "runtime-common/yaml": "libyaml",
     "runtime-common/yaml-cpp": "yaml-cpp",
-    "runtime-common/yaml-cpp-0.7": "yaml-cpp",
     "runtime-common/zeromq": "zeromq",
     "runtime-common/zug": "zug",
     "runtime-common/zziplib": "libzzip",
@@ -507,6 +507,7 @@
     "runtime-multimedia/alsa-lib": "alsa-lib",
     "runtime-multimedia/aom": "aom",
     "runtime-multimedia/assimp": "assimp@5",
+    "runtime-multimedia/avisynthplus": "avisynthplus",
     "runtime-multimedia/bento4-xbmc": "bento4",
     "runtime-multimedia/chromaprint": "chromaprint",
     "runtime-multimedia/dav1d": "dav1d",

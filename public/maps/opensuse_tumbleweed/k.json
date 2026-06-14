@@ -1,12 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "k",
-    "total_mappings": 370
+    "total_mappings": 382
   },
   "mappings": {
+    "k0sctl": "k0sctl",
+    "k0sctl-bash-completion": "k0sctl",
+    "k0sctl-debuginfo": "k0sctl",
+    "k0sctl-debugsource": "k0sctl",
+    "k0sctl-fish-completion": "k0sctl",
+    "k0sctl-zsh-completion": "k0sctl",
     "k3sup": "k3sup",
     "k3sup-debuginfo": "k3sup",
     "k3sup-debugsource": "k3sup",
@@ -79,6 +85,9 @@
     "kew-debugsource": "kew",
     "kew-lang": "kew",
     "keychain": "keychain",
+    "keyd": "keyd",
+    "keyd-debuginfo": "keyd",
+    "keyd-debugsource": "keyd",
     "keyutils": "keyutils",
     "keyutils-debuginfo": "keyutils",
     "keyutils-debugsource": "keyutils",
@@ -215,6 +224,9 @@
     "kubectl-cnpg-debugsource": "kubectl-cnpg",
     "kubectl-cnpg-fish-completion": "kubectl-cnpg",
     "kubectl-cnpg-zsh-completion": "kubectl-cnpg",
+    "kubectl-explore": "kubectl-explore",
+    "kubectl-explore-debuginfo": "kubectl-explore",
+    "kubectl-explore-debugsource": "kubectl-explore",
     "kubectl-rook-ceph": "kubectl-rook-ceph",
     "kubectl-rook-ceph-debuginfo": "kubectl-rook-ceph",
     "kubectl-rook-ceph-debugsource": "kubectl-rook-ceph",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "g",
-    "total_mappings": 755
+    "total_mappings": 756
   },
   "mappings": {
     "g++": "gcc@14",
@@ -532,6 +532,7 @@
     "golangci-lint-zsh-completion": "golangci-lint",
     "gom": "gom",
     "gom-dev": "gom",
+    "gom-pyc": "gom",
     "gomplate": "gomplate",
     "google-authenticator": "google-authenticator-libpam",
     "google-authenticator-doc": "google-authenticator-libpam",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "a",
-    "total_mappings": 376
+    "total_mappings": 377
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -380,6 +380,7 @@
     "avro-java": "avro-c",
     "aws-nuke": "aws-nuke",
     "awscli": "awscli@1",
+    "axel": "axel",
     "axfrdns": "djbdns",
     "ayatana-ido": "ayatana-ido",
     "azure-cli": "azure-cli"

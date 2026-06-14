@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "c",
-    "total_mappings": 917
+    "total_mappings": 918
   },
   "mappings": {
     "caddy": "caddy",
@@ -355,6 +355,7 @@
     "cmake-data": "cmake",
     "cmake-doc": "cmake",
     "cmake-qt-gui": "cmake",
+    "cpp-httplib": "cpp-httplib",
     "cppcheck": "cppcheck",
     "cppcheck-gui": "cppcheck",
     "cpptrace": "cpptrace",

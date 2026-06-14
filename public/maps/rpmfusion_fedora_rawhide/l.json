@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "rpmfusion_fedora_rawhide",
     "shard": "l",
-    "total_mappings": 14
+    "total_mappings": 13
   },
   "mappings": {
     "libaacs": "libaacs",
@@ -16,7 +16,6 @@
     "libbdplus-devel": "libbdplus",
     "libde265": "libde265",
     "libde265-devel": "libde265",
-    "libde265-examples": "libde265",
     "libdvbcsa": "libdvbcsa",
     "libdvbcsa-devel": "libdvbcsa",
     "librtmp": "rtmpdump",

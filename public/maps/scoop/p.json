@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "p",
-    "total_mappings": 114
+    "total_mappings": 115
   },
   "mappings": {
     "pacmc": "pacmc",
@@ -95,6 +95,7 @@
     "pt": "the_platinum_searcher",
     "pueue": "pueue",
     "pulumi": "pulumi",
+    "pup": "pup",
     "purescript": "purescript",
     "putty": "putty",
     "pwsh": "powershell",

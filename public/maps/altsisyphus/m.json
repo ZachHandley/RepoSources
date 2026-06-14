@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "m",
-    "total_mappings": 481
+    "total_mappings": 485
   },
   "mappings": {
     "Mesa": "mesa",
@@ -161,6 +161,8 @@
     "mcpp": "mcpp",
     "mcpp-debuginfo": "mcpp",
     "mcpp-doc": "mcpp",
+    "md-tui": "md-tui",
+    "md-tui-debuginfo": "md-tui",
     "md2html": "md4c",
     "md2html-debuginfo": "md4c",
     "mdbook": "mdbook",
@@ -173,6 +175,8 @@
     "mdds-doc": "mdds",
     "mdf2iso": "mdf2iso",
     "mdf2iso-debuginfo": "mdf2iso",
+    "mdfried": "mdfried",
+    "mdfried-debuginfo": "mdfried",
     "mdk": "mdk",
     "mdk-debuginfo": "mdk",
     "mediainfo": "media-info",

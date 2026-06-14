@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "s",
-    "total_mappings": 84
+    "total_mappings": 85
   },
   "mappings": {
     "SDL2_sound": "sdl2_sound",
@@ -12,6 +12,7 @@
     "SQLiteCpp": "sqlitecpp",
     "SVT-VP9": "svt-vp9",
     "s2n": "s2n",
+    "safestringlib": "safestringlib",
     "sagittarius-scheme": "sagittarius-scheme",
     "samtools": "samtools",
     "samurai": "samurai",

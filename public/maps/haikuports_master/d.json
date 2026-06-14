@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "d",
-    "total_mappings": 452
+    "total_mappings": 454
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -445,6 +445,8 @@
     "dev-util/shc": "shc",
     "dev-util/smake": "smake",
     "dev-util/source-highlight": "source-highlight",
+    "dev-util/spirv-headers": "spirv-headers",
+    "dev-util/spirv-tools": "spirv-tools",
     "dev-util/treecc": "treecc",
     "dev-util/uncrustify": "uncrustify",
     "dev-util/unifdef": "unifdef",

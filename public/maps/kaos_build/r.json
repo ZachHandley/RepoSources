@@ -1,13 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "r",
-    "total_mappings": 2
+    "total_mappings": 6
   },
   "mappings": {
+    "redshift": "redshift",
     "rrdtool": "rrdtool",
-    "rust": "rust"
+    "rsync": "rsync",
+    "ruby": "ruby",
+    "ruby-docs": "ruby@3.4",
+    "runc": "runc"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "j",
-    "total_mappings": 149
+    "total_mappings": 150
   },
   "mappings": {
     "jack-audio-connection-kit": "jack",
@@ -15,6 +15,7 @@
     "jags": "jags",
     "jailkit": "jailkit",
     "jansson": "jansson",
+    "jaq": "jaq",
     "javacc": "javacc",
     "javacc-doc": "javacc",
     "jbig2": "jbig2enc",

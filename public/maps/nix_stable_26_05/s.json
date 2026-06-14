@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "s",
-    "total_mappings": 518
+    "total_mappings": 520
   },
   "mappings": {
     "SDL": "sdl12-compat",
@@ -36,6 +36,7 @@
     "sacad": "sacad",
     "sad": "sad",
     "safe-rm": "safe-rm",
+    "safestringlib": "safestringlib",
     "safety": "safety",
     "safety-cli": "safety",
     "sagittarius-scheme": "sagittarius-scheme",
@@ -495,6 +496,7 @@
     "swc": "swc",
     "swfmill": "swfmill",
     "swftools": "swftools",
+    "swgp-go": "swgp-go",
     "swi-prolog": "swi-prolog",
     "swi-prolog-gui": "swi-prolog",
     "swift-format": "swift-format",

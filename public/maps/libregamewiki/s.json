@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "libregamewiki",
     "shard": "s",
-    "total_mappings": 7
+    "total_mappings": 6
   },
   "mappings": {
     "SLASH'EM": "slashem",
@@ -12,7 +12,6 @@
     "Seven_Kingdoms:_Ancient_Adversaries": "seven-kingdoms",
     "Simon Tatham's Portable Puzzle Collection": "puzzles",
     "Simon_Tatham's_Portable_Puzzle_Collection": "puzzles",
-    "Stockfish": "stockfish",
     "SuperTux": "supertux"
   }
 }

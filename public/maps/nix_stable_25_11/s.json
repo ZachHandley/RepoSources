@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "s",
-    "total_mappings": 495
+    "total_mappings": 496
   },
   "mappings": {
     "SDL": "sdl12-compat",
@@ -36,6 +36,7 @@
     "sacad": "sacad",
     "sad": "sad",
     "safe-rm": "safe-rm",
+    "safestringlib": "safestringlib",
     "safety": "safety",
     "safety-cli": "safety",
     "sagittarius-scheme": "sagittarius-scheme",

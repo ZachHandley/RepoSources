@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "msys2_ucrt64",
     "shard": "m",
-    "total_mappings": 3015
+    "total_mappings": 3019
   },
   "mappings": {
     "mingw-w64-64tass": "tass64",
@@ -868,6 +868,7 @@
     "mingw-w64-onigmo": "onigmo",
     "mingw-w64-oniguruma": "oniguruma",
     "mingw-w64-onnx": "onnx",
+    "mingw-w64-onnxruntime": "onnxruntime",
     "mingw-w64-open62541": "open62541",
     "mingw-w64-openFPGALoader": "openfpgaloader",
     "mingw-w64-openal": "openal-soft",
@@ -2248,6 +2249,7 @@
     "mingw-w64-ucrt-x86_64-onigmo": "onigmo",
     "mingw-w64-ucrt-x86_64-oniguruma": "oniguruma",
     "mingw-w64-ucrt-x86_64-onnx": "onnx",
+    "mingw-w64-ucrt-x86_64-onnxruntime": "onnxruntime",
     "mingw-w64-ucrt-x86_64-open62541": "open62541",
     "mingw-w64-ucrt-x86_64-openFPGALoader": "openfpgaloader",
     "mingw-w64-ucrt-x86_64-openal": "openal-soft",
@@ -2395,6 +2397,7 @@
     "mingw-w64-ucrt-x86_64-python-mupdf": "mupdf",
     "mingw-w64-ucrt-x86_64-python-numpy": "numpy",
     "mingw-w64-ucrt-x86_64-python-onnx": "onnx",
+    "mingw-w64-ucrt-x86_64-python-onnxruntime": "onnxruntime",
     "mingw-w64-ucrt-x86_64-python-opencv": "opencv",
     "mingw-w64-ucrt-x86_64-python-packaging": "python-packaging",
     "mingw-w64-ucrt-x86_64-python-pillow": "pillow",
@@ -2411,6 +2414,7 @@
     "mingw-w64-ucrt-x86_64-python-qscintilla-qt5": "qscintilla2",
     "mingw-w64-ucrt-x86_64-python-qscintilla-qt6": "qscintilla2",
     "mingw-w64-ucrt-x86_64-python-ruff": "ruff",
+    "mingw-w64-ucrt-x86_64-python-s2geometry": "s2geometry",
     "mingw-w64-ucrt-x86_64-python-scikit-image": "scikit-image",
     "mingw-w64-ucrt-x86_64-python-scipy": "scipy",
     "mingw-w64-ucrt-x86_64-python-setuptools": "python-setuptools",

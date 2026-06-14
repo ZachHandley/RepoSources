@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "g",
-    "total_mappings": 9
+    "total_mappings": 10
   },
   "mappings": {
     "games-board/fairy-stockfish": "fairy-stockfish",
@@ -15,6 +15,7 @@
     "games-roguelike/cataclysm-dda": "cataclysm",
     "games-rpg/open-adventure": "open-adventure",
     "games-strategy/unciv-bin": "unciv",
-    "games-util/roll": "roll"
+    "games-util/roll": "roll",
+    "gui-apps/wtype": "wtype"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-14T06:07:42Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_44",
+    "shard": "s",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "SDLPoP": "sdlpop",
+    "stella": "stella",
+    "streamripper": "streamripper",
+    "swftools": "swftools"
+  }
+}

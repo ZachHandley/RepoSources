@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "s",
-    "total_mappings": 1073
+    "total_mappings": 1076
   },
   "mappings": {
     "SCIP": "scip",
@@ -759,6 +759,7 @@
     "sysutils/bpytop": "bpytop",
     "sysutils/brename": "brename",
     "sysutils/btop": "btop",
+    "sysutils/bttf": "bttf",
     "sysutils/bulk_extractor": "bulk_extractor",
     "sysutils/bupstash": "bupstash",
     "sysutils/burp": "burp",
@@ -883,6 +884,7 @@
     "sysutils/jvmtop": "jvmtop",
     "sysutils/k9s": "k9s",
     "sysutils/kapp": "kapp",
+    "sysutils/keyd": "keyd",
     "sysutils/kopia": "kopia",
     "sysutils/kops": "kops",
     "sysutils/kubectl": "kubernetes-cli@1.35",
@@ -1079,6 +1081,7 @@
     "sysutils/z": "z",
     "sysutils/zellij": "zellij",
     "sysutils/znapzend": "znapzend",
+    "sysutils/zot": "zot",
     "sysutils/zoxide": "zoxide"
   }
 }

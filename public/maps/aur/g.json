@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "g",
-    "total_mappings": 685
+    "total_mappings": 686
   },
   "mappings": {
     "g++9-bin": "gcc@14",
@@ -182,6 +182,7 @@
     "ggc-bin": "ggc",
     "ggc-git": "ggc",
     "ggh-git": "ggh",
+    "ggml": "ggml",
     "ggshield": "ggshield",
     "gh-ost": "gh-ost",
     "ghc-pristine": "ghc@9.8",

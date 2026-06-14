@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "m",
-    "total_mappings": 116
+    "total_mappings": 117
   },
   "mappings": {
     "misc/abduco": "abduco",
@@ -72,6 +72,7 @@
     "misc/ykpers": "ykpers",
     "misc/yubikey-manager": "ykman",
     "multimedia/AtomicParsley": "atomicparsley",
+    "multimedia/AviSynthPlus": "avisynthplus",
     "multimedia/HandBrake": "handbrake",
     "multimedia/abcMIDI": "abcmidi",
     "multimedia/aces_container": "aces_container",

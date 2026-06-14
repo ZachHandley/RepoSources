@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "l",
-    "total_mappings": 539
+    "total_mappings": 540
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -489,7 +489,7 @@
     "linux-kernel-6.10.8": "linux-headers@6.8",
     "linux-kernel-6.14.10": "linux-headers@6.8",
     "linux-kernel-6.14.9": "linux-headers@6.8",
-    "linux-kernel-6.18.32": "linux-headers@6.8",
+    "linux-kernel-7.0.12": "linux-headers@6.8",
     "linux-kernel-lts-6.12.28": "linux-headers@6.8",
     "linux-kernel-lts-6.12.31": "linux-headers@6.8",
     "linux-kernel-lts-6.12.32": "linux-headers@6.8",
@@ -510,6 +510,7 @@
     "llvm+32": "llvm@21",
     "llvm-20": "llvm@21",
     "llvm-21": "llvm@21",
+    "llvm-22": "llvm@21",
     "llvm-runtime": "llvm@21",
     "lm-sensors": "lm-sensors",
     "lm-sensors+32": "lm-sensors",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "l",
@@ -87,6 +87,7 @@
     "libavif-debugsource": "libavif",
     "libavif-devel": "libavif",
     "libavif16": "libavif",
+    "libavisynthplus10": "avisynthplus",
     "libavresample4_0": "ffmpeg@7",
     "libavutil56_70": "ffmpeg@7",
     "libavutil57": "ffmpeg@7",
@@ -214,7 +215,6 @@
     "libffms2-5": "ffms2",
     "libffms2-devel": "ffms2",
     "libfftw3-3": "fftw",
-    "libfftw3_mpi3": "fftw",
     "libfftw3_omp3": "fftw",
     "libfftw3_threads3": "fftw",
     "libfishsound": "libfishsound",

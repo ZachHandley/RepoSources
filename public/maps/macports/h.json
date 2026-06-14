@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "h",
-    "total_mappings": 114
+    "total_mappings": 115
   },
   "mappings": {
     "HandBrake": "handbrake",
@@ -55,6 +55,7 @@
     "helm-3.19": "helm@3",
     "helm-3.2": "helm@3",
     "helm-3.20": "helm@3",
+    "helm-3.21": "helm@3",
     "helm-3.3": "helm@3",
     "helm-3.4": "helm@3",
     "helm-3.5": "helm@3",

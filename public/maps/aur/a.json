@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "a",
-    "total_mappings": 1624
+    "total_mappings": 1631
   },
   "mappings": {
     "a52dec-git": "a52dec",
@@ -142,6 +142,7 @@
     "android-aarch64-alsa-lib": "alsa-lib",
     "android-aarch64-aom": "aom",
     "android-aarch64-argparse": "argparse",
+    "android-aarch64-avisynthplus": "avisynthplus",
     "android-aarch64-boost": "boost@1.85",
     "android-aarch64-brotli": "brotli",
     "android-aarch64-bzip2": "bzip2",
@@ -400,6 +401,7 @@
     "android-armv7a-eabi-alsa-lib": "alsa-lib",
     "android-armv7a-eabi-aom": "aom",
     "android-armv7a-eabi-argparse": "argparse",
+    "android-armv7a-eabi-avisynthplus": "avisynthplus",
     "android-armv7a-eabi-boost": "boost@1.85",
     "android-armv7a-eabi-brotli": "brotli",
     "android-armv7a-eabi-bzip2": "bzip2",
@@ -654,6 +656,7 @@
     "android-riscv64-alsa-lib": "alsa-lib",
     "android-riscv64-aom": "aom",
     "android-riscv64-argparse": "argparse",
+    "android-riscv64-avisynthplus": "avisynthplus",
     "android-riscv64-boost": "boost@1.85",
     "android-riscv64-brotli": "brotli",
     "android-riscv64-bzip2": "bzip2",
@@ -876,6 +879,7 @@
     "android-x86-64-alsa-lib": "alsa-lib",
     "android-x86-64-aom": "aom",
     "android-x86-64-argparse": "argparse",
+    "android-x86-64-avisynthplus": "avisynthplus",
     "android-x86-64-boost": "boost@1.85",
     "android-x86-64-brotli": "brotli",
     "android-x86-64-bzip2": "bzip2",
@@ -1131,6 +1135,7 @@
     "android-x86-alsa-lib": "alsa-lib",
     "android-x86-aom": "aom",
     "android-x86-argparse": "argparse",
+    "android-x86-avisynthplus": "avisynthplus",
     "android-x86-boost": "boost@1.85",
     "android-x86-brotli": "brotli",
     "android-x86-bzip2": "bzip2",
@@ -1593,6 +1598,8 @@
     "autotrace-git": "autotrace",
     "av1an-git": "av1an",
     "aview": "aview",
+    "avisynthplus-docs-git": "avisynthplus",
+    "avisynthplus-git": "avisynthplus",
     "avr-binutils-219": "aarch64-elf-binutils",
     "avr-binutils-220": "aarch64-elf-binutils",
     "avr-gcc-43": "gcc@14",

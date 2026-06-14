@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "x",
-    "total_mappings": 60
+    "total_mappings": 61
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -24,6 +24,7 @@
     "xcb-util-renderutil": "xcb-util-renderutil",
     "xcb-util-wm": "xcb-util-wm",
     "xclip": "xclip",
+    "xdelta3": "xdelta",
     "xdotool": "xdotool",
     "xerces-c": "xerces-c",
     "xkeyboard-config": "xkeyboard-config",

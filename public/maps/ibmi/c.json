@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ibmi",
     "shard": "c",
-    "total_mappings": 14
+    "total_mappings": 15
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -15,6 +15,7 @@
     "ccache": "ccache",
     "check": "check",
     "cmake": "cmake",
+    "cmake-rpm-macros": "cmake",
     "coreutils-gnu": "coreutils",
     "cpio-gnu": "cpio",
     "cups": "cups",

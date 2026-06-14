@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "a",
-    "total_mappings": 351
+    "total_mappings": 353
   },
   "mappings": {
     "Agda": "agda",
@@ -229,6 +229,7 @@
     "as-tree": "as-tree",
     "asak": "asak",
     "asc": "asc",
+    "asccli": "asccli",
     "ascii": "ascii",
     "asciidoc": "asciidoc",
     "asciidoc-full": "asciidoc",
@@ -312,6 +313,7 @@
     "avahi": "avahi",
     "avahi-compat": "avahi",
     "avfs": "avfs",
+    "avisynthplus": "avisynthplus",
     "avra": "avra",
     "avrdude": "avrdude",
     "avro": "avro-c",

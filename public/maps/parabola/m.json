@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "m",
-    "total_mappings": 176
+    "total_mappings": 177
   },
   "mappings": {
     "m4": "m4",
@@ -61,6 +61,7 @@
     "mcabber": "mcabber",
     "mcfly": "mcfly",
     "mcpp": "mcpp",
+    "md-tui": "md-tui",
     "md4c": "md4c",
     "md5deep": "md5deep",
     "mda.lv2": "mda-lv2",

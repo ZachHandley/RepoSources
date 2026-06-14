@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "tur",
     "shard": "o",
-    "total_mappings": 6
+    "total_mappings": 7
   },
   "mappings": {
     "octave": "octave",
     "oils": "oils-for-unix",
     "openjdk-11": "openjdk@25",
+    "openjdk-26": "openjdk@25",
     "openslide": "openslide",
     "openssl-1.1": "openssl@4",
     "oxipng": "oxipng"

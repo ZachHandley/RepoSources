@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "s",
-    "total_mappings": 281
+    "total_mappings": 282
   },
   "mappings": {
     "SIMDe": "simde",
@@ -131,6 +131,7 @@
     "startup-notification": "startup-notification",
     "strace": "strace",
     "stress": "stress",
+    "strip-nondeterminism": "strip-nondeterminism",
     "subversion": "subversion",
     "suil": "suil",
     "sundials": "sundials",

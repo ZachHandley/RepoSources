@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "w",
-    "total_mappings": 63
+    "total_mappings": 64
   },
   "mappings": {
     "w3m": "w3m",
@@ -65,6 +65,7 @@
     "wpebackend-fdo": "wpebackend-fdo",
     "wpebackend-fdo-docs": "wpebackend-fdo",
     "wrangler": "wrangler",
+    "wtype": "wtype",
     "wv": "wv",
     "wxwidgets": "wxwidgets",
     "wxwidgets-common": "wxwidgets@3.2",

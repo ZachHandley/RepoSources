@@ -1,13 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "k",
-    "total_mappings": 11
+    "total_mappings": 14
   },
   "mappings": {
     "kew": "kew",
+    "keyd": "keyd",
+    "keyd-debuginfo": "keyd",
+    "keyd-debugsource": "keyd",
     "kondo": "kondo",
     "kopia": "kopia",
     "kopia-ui": "kopia",

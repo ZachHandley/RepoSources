@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "l",
-    "total_mappings": 68
+    "total_mappings": 66
   },
   "mappings": {
     "lab": "lab",
@@ -42,9 +42,6 @@
     "llama.cpp-cpu": "llama.cpp",
     "llama.cpp-cu117": "llama.cpp",
     "llama.cpp-cu124": "llama.cpp",
-    "llama.cpp-hip-gfx1030": "llama.cpp",
-    "llama.cpp-hip-gfx1100": "llama.cpp",
-    "llama.cpp-hip-gfx1101": "llama.cpp",
     "llama.cpp-opencl": "llama.cpp",
     "llama.cpp-sycl": "llama.cpp",
     "llama.cpp-vulkan": "llama.cpp",
@@ -64,6 +61,7 @@
     "lua51": "lua@5.4",
     "lua52": "lua@5.4",
     "lua53": "lua@5.4",
+    "lua54": "lua@5.4",
     "luacheck": "luacheck",
     "luajit": "luajit",
     "luarocks": "luarocks",

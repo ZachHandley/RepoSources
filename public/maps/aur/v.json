@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "v",
-    "total_mappings": 162
+    "total_mappings": 163
   },
   "mappings": {
     "v": "v",
@@ -35,6 +35,7 @@
     "vapoursynth-plugin-imwri-git": "vapoursynth-imwri",
     "vapoursynth-plugin-mvtools-git": "vapoursynth-mvtools",
     "vapoursynth-plugin-ocr-git": "vapoursynth-ocr",
+    "varlock-bin": "varlock",
     "varnish": "varnish",
     "vcfanno": "vcfanno",
     "vcflib": "vcflib",

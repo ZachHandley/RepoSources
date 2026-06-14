@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "s",
-    "total_mappings": 134
+    "total_mappings": 135
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -55,6 +55,7 @@
     "simple-scan": "simple-scan",
     "sip": "sip",
     "skalibs": "skalibs",
+    "sl": "sl",
     "slang": "s-lang",
     "sleuthkit": "sleuthkit",
     "slirp4netns": "slirp4netns",

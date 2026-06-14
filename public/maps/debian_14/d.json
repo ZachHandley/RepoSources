@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "d",
-    "total_mappings": 304
+    "total_mappings": 307
   },
   "mappings": {
     "daemon": "daemon",
@@ -39,6 +39,8 @@
     "dasm": "dasm",
     "datalad": "datalad",
     "datamash": "datamash",
+    "datasette": "datasette",
+    "datasette-doc": "datasette",
     "datatype99": "datatype99",
     "dateutils": "dateutils",
     "dav1d": "dav1d",
@@ -286,6 +288,7 @@
     "dtdinst": "jing-trang",
     "dtrx": "dtrx",
     "du-dust": "dust",
+    "dua-cli": "dua-cli",
     "duc": "duc",
     "duc-nox": "duc",
     "duck": "duck",

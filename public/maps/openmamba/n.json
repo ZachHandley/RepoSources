@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "n",
-    "total_mappings": 53
+    "total_mappings": 54
   },
   "mappings": {
     "nagios": "nagios",
@@ -14,6 +14,7 @@
     "nagios-plugins-nrpe": "nrpe",
     "nagios-www": "nagios",
     "nano": "nano",
+    "nanobind": "nanobind",
     "nasm": "nasm",
     "nasm-doc": "nasm",
     "ncdu": "ncdu",

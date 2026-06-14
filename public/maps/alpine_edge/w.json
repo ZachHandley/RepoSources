@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "w",
-    "total_mappings": 175
+    "total_mappings": 178
   },
   "mappings": {
     "w3m": "w3m",
@@ -128,6 +128,7 @@
     "wireguard-tools-wg": "wireguard-tools",
     "wireguard-tools-wg-quick": "wireguard-tools",
     "wireplumber": "wireplumber",
+    "wireplumber-bash-completion": "wireplumber",
     "wireplumber-dbg": "wireplumber",
     "wireplumber-dev": "wireplumber",
     "wireplumber-doc": "wireplumber",
@@ -172,6 +173,8 @@
     "wslay-dev": "wslay",
     "wslay-doc": "wslay",
     "wtfutil": "wtfutil",
+    "wtype": "wtype",
+    "wtype-doc": "wtype",
     "wv": "wv",
     "wv-dev": "wv",
     "wv-doc": "wv",

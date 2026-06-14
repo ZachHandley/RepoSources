@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "v",
-    "total_mappings": 130
+    "total_mappings": 128
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -26,8 +26,6 @@
     "vamp-examples": "vamp-plugin-sdk",
     "vamp-plugin-sdk": "vamp-plugin-sdk",
     "vamp-plugin-sdk-doc": "vamp-plugin-sdk",
-    "varnish": "varnish",
-    "varnish-doc": "varnish",
     "vbindiff": "vbindiff",
     "vc": "vc",
     "vc-dev": "vc",

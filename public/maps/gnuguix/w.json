@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "w",
-    "total_mappings": 57
+    "total_mappings": 58
   },
   "mappings": {
     "w3m": "w3m",
@@ -60,6 +60,7 @@
     "wordnet": "wordnet",
     "wpebackend-fdo": "wpebackend-fdo",
     "wslay": "wslay",
+    "wtype": "wtype",
     "wv": "wv",
     "wwwoffle": "wwwoffle",
     "wxmaxima": "wxmaxima",

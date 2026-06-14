@@ -1,12 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alpine_3_19",
     "shard": "k",
-    "total_mappings": 133
+    "total_mappings": 141
   },
   "mappings": {
+    "k0sctl": "k0sctl",
+    "k0sctl-bash-completion": "k0sctl",
+    "k0sctl-fish-completion": "k0sctl",
+    "k0sctl-zsh-completion": "k0sctl",
     "k9s": "k9s",
     "k9s-bash-completion": "k9s",
     "k9s-fish-completion": "k9s",
@@ -47,6 +51,10 @@
     "kea-static": "kea",
     "keychain": "keychain",
     "keychain-doc": "keychain",
+    "keyd": "keyd",
+    "keyd-application-mapper": "keyd",
+    "keyd-doc": "keyd",
+    "keyd-openrc": "keyd",
     "keyutils": "keyutils",
     "keyutils-dev": "keyutils",
     "keyutils-doc": "keyutils",

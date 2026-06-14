@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "h",
-    "total_mappings": 2
+    "total_mappings": 1
   },
   "mappings": {
-    "haproxy": "haproxy",
     "hyperv": "linux-headers@6.8"
   }
 }

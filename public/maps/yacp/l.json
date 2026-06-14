@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "l",
-    "total_mappings": 1730
+    "total_mappings": 1732
   },
   "mappings": {
     "ladspa-rubberband": "rubberband",
@@ -1304,6 +1304,8 @@
     "librz0.7": "rizin",
     "libs2n-devel": "s2n",
     "libs2n1": "s2n",
+    "libsafestring-devel": "safestringlib",
+    "libsafestring1": "safestringlib",
     "libsagittarius-devel": "sagittarius-scheme",
     "libsagittarius0.9.8": "sagittarius-scheme",
     "libsais": "libsais",

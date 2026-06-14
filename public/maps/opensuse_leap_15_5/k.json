@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "k",
-    "total_mappings": 41
+    "total_mappings": 42
   },
   "mappings": {
     "k9s": "k9s",
@@ -22,6 +22,7 @@
     "kernel-syms": "linux-headers@6.8",
     "kernel-vanilla": "linux-headers@6.8",
     "keychain": "keychain",
+    "keyd": "keyd",
     "keyutils": "keyutils",
     "ki18n": "ki18n",
     "kim-api": "kim-api",

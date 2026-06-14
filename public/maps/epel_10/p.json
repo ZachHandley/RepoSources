@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "p",
-    "total_mappings": 419
+    "total_mappings": 422
   },
   "mappings": {
     "PDAL": "pdal",
@@ -112,6 +112,9 @@
     "pgbouncer": "pgbouncer",
     "pgbouncer-debuginfo": "pgbouncer",
     "pgbouncer-debugsource": "pgbouncer",
+    "pgrouting": "pgrouting",
+    "pgrouting-debuginfo": "pgrouting",
+    "pgrouting-debugsource": "pgrouting",
     "phoronix-test-suite": "phoronix-test-suite",
     "php-mapserver": "mapserver",
     "phpMyAdmin": "phpmyadmin",

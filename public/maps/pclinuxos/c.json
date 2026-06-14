@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "c",
-    "total_mappings": 78
+    "total_mappings": 79
   },
   "mappings": {
     "CImg": "cimg",
@@ -59,6 +59,7 @@
     "codec2": "codec2",
     "colordiff": "colordiff",
     "compiler-rt": "llvm@21",
+    "conduit": "conduit",
     "conmon": "conmon",
     "convmv": "convmv",
     "coreutils": "coreutils",

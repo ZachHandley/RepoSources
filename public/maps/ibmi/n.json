@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ibmi",
     "shard": "n",
-    "total_mappings": 17
+    "total_mappings": 18
   },
   "mappings": {
     "nano": "nano",
@@ -22,6 +22,7 @@
     "nodejs22": "node@24",
     "nodejs24": "node@24",
     "npth": "npth",
+    "npth-devel": "npth",
     "nspr": "nspr",
     "nss": "nss"
   }

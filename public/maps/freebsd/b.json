@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "b",
-    "total_mappings": 233
+    "total_mappings": 234
   },
   "mappings": {
     "Bento4": "bento4",
@@ -223,6 +223,7 @@
     "bstring": "bstring",
     "btllib": "btllib",
     "btop": "btop",
+    "bttf": "bttf",
     "buf": "buf",
     "build2": "build2",
     "buku": "buku",

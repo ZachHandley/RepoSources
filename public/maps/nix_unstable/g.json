@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "g",
-    "total_mappings": 546
+    "total_mappings": 547
   },
   "mappings": {
     "g-ls": "g-ls",
@@ -310,6 +310,7 @@
     "gnupg1": "gnupg@1.4",
     "gnupg1compat": "gnupg@1.4",
     "gnupg24": "gnupg@1.4",
+    "gnupgMinimal": "gnupg@1.4",
     "gnuplot": "gnuplot",
     "gnuplot_aquaterm": "gnuplot",
     "gnuplot_qt": "gnuplot",

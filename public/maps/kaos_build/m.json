@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "m",
-    "total_mappings": 2
+    "total_mappings": 3
   },
   "mappings": {
-    "mesa": "mesa",
-    "mpg123": "mpg123"
+    "man-db": "man-db",
+    "mariadb": "mariadb",
+    "mpd": "mpd"
   }
 }

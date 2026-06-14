@@ -1,34 +1,29 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "w",
-    "total_mappings": 24
+    "total_mappings": 19
   },
   "mappings": {
     "wasi-libc": "wasi-libc",
     "wasm-bindgen": "wasm-bindgen",
     "wasm-pack": "wasm-pack",
     "wasm-tools": "wasm-tools",
+    "wayland": "wayland",
     "webfs": "webfs",
-    "webhttrack": "httrack",
-    "webhttrack-common": "httrack",
     "webkit2gtk": "webkitgtk",
     "webkitgtk-webdriver": "webkitgtk",
     "webpack": "webpack",
     "widelands": "widelands",
     "widelands-data": "widelands",
     "winbind": "samba",
-    "wireplumber": "wireplumber",
-    "wireplumber-doc": "wireplumber",
-    "wireplumber-system-services": "wireplumber",
     "wireshark": "wireshark",
     "wireshark-common": "wireshark",
     "wireshark-dev": "wireshark",
     "wireshark-doc": "wireshark",
     "witness": "witness",
-    "wl-clipboard": "wl-clipboard",
     "wxmaxima": "wxmaxima",
     "wxmaxima-doc": "wxmaxima"
   }

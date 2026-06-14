@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "n",
-    "total_mappings": 260
+    "total_mappings": 261
   },
   "mappings": {
     "naabu": "naabu",
@@ -238,6 +238,7 @@
     "nudoku-git": "nudoku",
     "nuitka": "nuitka",
     "nuitka-git": "nuitka",
+    "nullclaw-bin": "nullclaw",
     "nuls": "nuls",
     "num-utils": "num-utils",
     "numactl-git": "numactl",

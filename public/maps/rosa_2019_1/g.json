@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "g",
-    "total_mappings": 494
+    "total_mappings": 496
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -115,6 +115,8 @@
     "gif2png-debuginfo": "gif2png",
     "gif2png-debugsource": "gif2png",
     "giflib": "giflib",
+    "giflib-debuginfo": "giflib",
+    "giflib-debugsource": "giflib",
     "giflib-progs": "giflib",
     "giflib4": "giflib",
     "gig": "libgig",

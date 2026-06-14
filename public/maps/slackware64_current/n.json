@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "slackware64_current",
     "shard": "n",
-    "total_mappings": 25
+    "total_mappings": 26
   },
   "mappings": {
     "nano": "nano",
@@ -19,6 +19,7 @@
     "nethack": "nethack",
     "netpbm": "netpbm",
     "nettle": "nettle@3",
+    "netwatch": "netwatch",
     "nftables": "nftables",
     "nghttp2": "nghttp2",
     "nghttp3": "libnghttp3",

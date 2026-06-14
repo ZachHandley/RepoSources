@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "p",
-    "total_mappings": 133
+    "total_mappings": 127
   },
   "mappings": {
     "parallel-hashmap": "parallel-hashmap",
@@ -34,10 +34,6 @@
     "perl-debug": "perl",
     "perl-doc": "perl",
     "perl-modules-5.42": "perl",
-    "petsc": "petsc",
-    "petsc-dev": "petsc",
-    "petsc3.25-doc": "petsc",
-    "petsc64-dev": "petsc",
     "php-google-protobuf": "protobuf@33",
     "php8.5": "php@8.4",
     "php8.5-bcmath": "php@8.4",
@@ -70,6 +66,7 @@
     "php8.5-xml": "php@8.4",
     "php8.5-xsl": "php@8.4",
     "php8.5-zip": "php@8.4",
+    "phpunit": "phpunit",
     "pmix": "pmix",
     "pnetcdf": "pnetcdf",
     "pnetcdf-bin": "pnetcdf",
@@ -114,9 +111,6 @@
     "protobuf-compiler-grpc": "grpc",
     "pupnp": "libupnp",
     "python-libewf": "libewf",
-    "python3-adios2": "adios2",
-    "python3-adios2-mpi": "adios2",
-    "python3-adios2-serial": "adios2",
     "python3-clang-20": "llvm@21",
     "python3-cracklib": "cracklib",
     "python3-grpcio": "grpc",

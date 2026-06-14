@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_22_04",
     "shard": "l",
-    "total_mappings": 6624
+    "total_mappings": 6626
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1760,6 +1760,7 @@
     "libfuzzy2": "ssdeep",
     "libfwupd-dev": "fwupd",
     "libfwupd2": "fwupd",
+    "libfwupd3": "fwupd",
     "libfwupdplugin-dev": "fwupd",
     "libfwupdplugin5": "fwupd",
     "libfyaml": "libfyaml",
@@ -6183,6 +6184,7 @@
     "libxmlb": "libxmlb",
     "libxmlb-dev": "libxmlb",
     "libxmlb-tests": "libxmlb",
+    "libxmlb-utils": "libxmlb",
     "libxmlb2": "libxmlb",
     "libxmlrpc-c++8-dev": "xmlrpc-c",
     "libxmlrpc-c++8v5": "xmlrpc-c",

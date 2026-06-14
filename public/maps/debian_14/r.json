@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "r",
-    "total_mappings": 270
+    "total_mappings": 272
   },
   "mappings": {
     "r-base": "r",
@@ -235,6 +235,7 @@
     "rust-cbindgen": "cbindgen",
     "rust-clippy": "rust",
     "rust-comrak": "comrak",
+    "rust-coreutils": "uutils-coreutils",
     "rust-cotp": "cotp",
     "rust-czkawka-cli": "czkawka",
     "rust-czkawka-core": "czkawka",
@@ -248,6 +249,7 @@
     "rust-git-absorb": "git-absorb",
     "rust-gping": "gping",
     "rust-hyperfine": "hyperfine",
+    "rust-jaq": "jaq",
     "rust-just": "just",
     "rust-lldb": "rust",
     "rust-llvm": "rust",

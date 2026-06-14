@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "l",
-    "total_mappings": 823
+    "total_mappings": 825
   },
   "mappings": {
     "LBFGSpp": "lbfgspp",
@@ -195,6 +195,7 @@
     "lang/ragel-devel": "ragel",
     "lang/rakudo": "rakudo",
     "lang/rhino": "rhino",
+    "lang/rocq": "rocq",
     "lang/ruby": "ruby@3.4",
     "lang/ruby-devel": "ruby@3.4",
     "lang/ruby186": "ruby@3.4",
@@ -741,6 +742,7 @@
     "llm/openspec": "openspec",
     "llm/pi-coding-agent": "pi-coding-agent",
     "llm/ramalama": "ramalama",
+    "llm/zot": "zot",
     "llmfit": "llmfit",
     "llvm-10": "llvm@21",
     "llvm-11": "llvm@21",

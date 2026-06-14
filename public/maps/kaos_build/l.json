@@ -1,20 +1,31 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "l",
-    "total_mappings": 9
+    "total_mappings": 20
   },
   "mappings": {
-    "libde265": "libde265",
-    "librsvg": "librsvg",
-    "linux": "linux-headers@6.8",
-    "linux-docs": "linux-headers@6.8",
-    "linux-headers": "linux-headers@6.8",
+    "ldns": "ldns",
+    "lensfun": "lensfun",
+    "less": "less",
+    "libcanberra": "libcanberra",
+    "libcroco": "libcroco",
+    "libcups": "cups",
+    "libffi": "libffi",
+    "libgudev": "libgudev",
+    "liblqr": "liblqr",
+    "libmms": "libmms",
+    "libusb": "libusb",
+    "lilv": "lilv",
+    "limine": "limine",
     "linux-next": "linux-headers@6.8",
     "linux-next-docs": "linux-headers@6.8",
     "linux-next-headers": "linux-headers@6.8",
-    "live-media": "openrtsp"
+    "live-media": "openrtsp",
+    "lm_sensors": "lm-sensors",
+    "logrotate": "logrotate",
+    "lvm2": "device-mapper"
   }
 }

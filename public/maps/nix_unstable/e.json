@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "e",
@@ -11,6 +11,7 @@
     "e2fsprogs": "e2fsprogs",
     "e2tools": "e2tools",
     "earthly": "earthly",
+    "eas-cli": "eas-cli",
     "easeprobe": "easeprobe",
     "eask-cli": "eask-cli",
     "easyeda2kicad": "easyeda2kicad",
@@ -84,7 +85,6 @@
     "empty": "empty",
     "emscripten": "emscripten",
     "enca": "enca",
-    "encfs": "encfs",
     "enchant": "enchant",
     "enchant_2": "enchant",
     "enchive": "enchive",

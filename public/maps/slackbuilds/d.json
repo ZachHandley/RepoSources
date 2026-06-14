@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "d",
-    "total_mappings": 386
+    "total_mappings": 388
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -29,6 +29,7 @@
     "desktop/tty-clock": "tty-clock",
     "desktop/ttyplot": "ttyplot",
     "desktop/wmctrl": "wmctrl",
+    "desktop/wtype": "wtype",
     "desktop/zenity": "zenity",
     "development/Bear": "bear",
     "development/CImg": "cimg",
@@ -294,6 +295,7 @@
     "development/polyml": "polyml",
     "development/portaudio": "portaudio",
     "development/pre-commit": "pre-commit",
+    "development/prek": "prek",
     "development/premake": "premake",
     "development/premake5": "premake",
     "development/protobuf3": "protobuf@33",

@@ -1,14 +1,26 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "z",
-    "total_mappings": 8
+    "total_mappings": 20
   },
   "mappings": {
     "z3": "z3",
+    "zabbix": "zabbix",
+    "zabbix-agent": "zabbix",
+    "zabbix-agent2": "zabbix",
     "zabbix-cli": "zabbix-cli",
+    "zabbix-frontend-php": "zabbix",
+    "zabbix-java-gateway": "zabbix",
+    "zabbix-proxy-mysql": "zabbix",
+    "zabbix-proxy-pgsql": "zabbix",
+    "zabbix-proxy-sqlite3": "zabbix",
+    "zabbix-sender": "zabbix",
+    "zabbix-server-mysql": "zabbix",
+    "zabbix-server-pgsql": "zabbix",
+    "zabbix-web-service": "zabbix",
     "zenity": "zenity",
     "zenity-common": "zenity",
     "zenmap": "nmap",

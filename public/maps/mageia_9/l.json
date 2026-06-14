@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "l",
-    "total_mappings": 5576
+    "total_mappings": 5582
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -1047,6 +1047,8 @@
     "lib64jcat1": "libjcat",
     "lib64jemalloc-devel": "jemalloc",
     "lib64jemalloc2": "jemalloc",
+    "lib64jq-devel": "jq",
+    "lib64jq1": "jq",
     "lib64json-c-devel": "json-c",
     "lib64json-c5": "json-c",
     "lib64jsoncpp-devel": "jsoncpp",
@@ -2460,6 +2462,8 @@
     "lib64xmlb-devel": "libxmlb",
     "lib64xmlb-gir2.0": "libxmlb",
     "lib64xmlb2": "libxmlb",
+    "lib64xmlrpc-c-devel": "xmlrpc-c",
+    "lib64xmlrpc-c3": "xmlrpc-c",
     "lib64xmlsec1-devel": "libxmlsec1",
     "lib64xmlsec1-gcrypt1": "libxmlsec1",
     "lib64xmlsec1-gnutls1": "libxmlsec1",
@@ -5331,6 +5335,8 @@
     "libxpm": "libxpm",
     "libxpm-debuginfo": "libxpm",
     "libxpm-debugsource": "libxpm",
+    "libxpm-devel": "libxpm",
+    "libxpm4": "libxpm",
     "libxpresent": "libxpresent",
     "libxpresent-debuginfo": "libxpresent",
     "libxpresent-debugsource": "libxpresent",

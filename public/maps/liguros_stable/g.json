@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "g",
-    "total_mappings": 107
+    "total_mappings": 108
   },
   "mappings": {
     "games-action/moon-buggy": "moon-buggy",
@@ -100,6 +100,7 @@
     "gui-apps/foot": "foot",
     "gui-apps/foot-terminfo": "foot",
     "gui-apps/wl-clipboard": "wl-clipboard",
+    "gui-apps/wtype": "wtype",
     "gui-libs/gtk": "gtk+",
     "gui-libs/gtksourceview": "gtksourceview3",
     "gui-libs/libadwaita": "libadwaita",

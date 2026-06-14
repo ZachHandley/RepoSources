@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_graphics_tumbleweed",
     "shard": "i",
-    "total_mappings": 28
+    "total_mappings": 27
   },
   "mappings": {
     "ImageMagick": "imagemagick@6",
     "ImageMagick-config-7-SUSE": "imagemagick@6",
-    "ImageMagick-config-7-upstream-limited": "imagemagick@6",
     "ImageMagick-debuginfo": "imagemagick@6",
     "ImageMagick-debugsource": "imagemagick@6",
     "ImageMagick-devel": "imagemagick@6",

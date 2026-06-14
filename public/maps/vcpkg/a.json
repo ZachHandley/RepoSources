@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "a",
-    "total_mappings": 56
+    "total_mappings": 57
   },
   "mappings": {
     "abseil": "abseil",
@@ -45,6 +45,7 @@
     "attr": "attr",
     "aubio": "aubio",
     "autodiff": "autodiff",
+    "avisynthplus": "avisynthplus",
     "avro-c": "avro-c",
     "avro-cpp": "avro-cpp",
     "aws-c-auth": "aws-c-auth",

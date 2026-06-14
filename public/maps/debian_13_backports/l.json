@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "l",
-    "total_mappings": 3379
+    "total_mappings": 3382
   },
   "mappings": {
     "ldb-tools": "samba",
@@ -55,6 +55,8 @@
     "libclaws-mail-dev": "claws-mail",
     "libclc-21": "llvm@21",
     "libclc-21-dev": "llvm@21",
+    "libcpp-httplib-dev": "cpp-httplib",
+    "libcpp-httplib0.41": "cpp-httplib",
     "libcpptrace-dev": "cpptrace",
     "libcpptrace1": "cpptrace",
     "libcpupower-dev": "linux-headers@6.8",
@@ -62,6 +64,7 @@
     "libct4": "freetds",
     "libcurl3t64-gnutls": "curl",
     "libcurl4-doc": "curl",
+    "libcurl4-gnutls": "curl",
     "libcurl4-gnutls-dev": "curl",
     "libcurl4-openssl-dev": "curl",
     "libcurl4t64": "curl",

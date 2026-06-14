@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "w",
-    "total_mappings": 34
+    "total_mappings": 35
   },
   "mappings": {
     "WordNet": "wordnet",
@@ -36,6 +36,7 @@
     "wolfssl": "wolfssl",
     "wpebackend-fdo": "wpebackend-fdo",
     "writerperfect": "writerperfect",
+    "wtype": "wtype",
     "wv": "wv",
     "wv2": "wv2",
     "wwwoffle": "wwwoffle",

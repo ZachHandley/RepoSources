@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "l",
-    "total_mappings": 7868
+    "total_mappings": 7867
   },
   "mappings": {
     "ladder": "ladder",
@@ -2933,7 +2933,6 @@
     "libhalide21-dev": "halide",
     "libhalide21-doc": "halide",
     "libhalideaot21-1": "halide",
-    "libhamlib++-dev": "hamlib",
     "libhamlib++4t64": "hamlib",
     "libhamlib-dev": "hamlib",
     "libhamlib-doc": "hamlib",
@@ -5526,6 +5525,7 @@
     "librust-cbindgen-dev": "cbindgen",
     "librust-comrak-dev": "comrak",
     "librust-czkawka-core-dev": "czkawka",
+    "librust-dua-cli-dev": "dua-cli",
     "librust-eza-dev": "eza",
     "librust-git-absorb-dev": "git-absorb",
     "librust-hexyl-dev": "hexyl",
@@ -6561,8 +6561,6 @@
     "libvalijson-dev": "valijson",
     "libvamp-hostsdk3t64": "vamp-plugin-sdk",
     "libvamp-sdk2t64": "vamp-plugin-sdk",
-    "libvarnishapi-dev": "varnish",
-    "libvarnishapi3": "varnish",
     "libvcdinfo-dev": "vcdimager",
     "libvcdinfo0": "vcdimager",
     "libvde-dev": "vde",
@@ -6683,6 +6681,8 @@
     "libvncserver": "libvncserver",
     "libvncserver-dev": "libvncserver",
     "libvncserver1": "libvncserver",
+    "libvnu-java": "vnu",
+    "libvnu-java-common": "vnu",
     "libvo-aacenc-dev": "libvo-aacenc",
     "libvo-aacenc0": "libvo-aacenc",
     "libvo-amrwbenc-dev": "vo-amrwbenc",
@@ -7383,7 +7383,6 @@
     "lighttpd-mod-openssl": "lighttpd",
     "lighttpd-mod-vhostdb-pgsql": "lighttpd",
     "lighttpd-mod-webdav": "lighttpd",
-    "lighttpd-mod-wolfssl": "lighttpd",
     "lighttpd-modules-dbi": "lighttpd",
     "lighttpd-modules-ldap": "lighttpd",
     "lighttpd-modules-lua": "lighttpd",

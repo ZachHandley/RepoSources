@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "z",
-    "total_mappings": 132
+    "total_mappings": 134
   },
   "mappings": {
     "z3": "z3",
@@ -101,6 +101,8 @@
     "zls-debuginfo": "zls",
     "zopfli": "zopfli",
     "zopfli-debuginfo": "zopfli",
+    "zot": "zot",
+    "zot-debuginfo": "zot",
     "zoxide": "zoxide",
     "zoxide-debuginfo": "zoxide",
     "zpaq": "zpaq",

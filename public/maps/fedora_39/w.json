@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "w",
-    "total_mappings": 186
+    "total_mappings": 189
   },
   "mappings": {
     "w3m": "w3m",
@@ -175,6 +175,9 @@
     "wslay-debuginfo": "wslay",
     "wslay-debugsource": "wslay",
     "wslay-devel": "wslay",
+    "wtype": "wtype",
+    "wtype-debuginfo": "wtype",
+    "wtype-debugsource": "wtype",
     "wv": "wv",
     "wv-debuginfo": "wv",
     "wv-debugsource": "wv",

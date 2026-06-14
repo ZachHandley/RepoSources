@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "s",
-    "total_mappings": 1029
+    "total_mappings": 1033
   },
   "mappings": {
     "SDL3": "sdl3",
@@ -434,6 +434,7 @@
     "snappy": "snappy",
     "snapraid": "snapraid",
     "sniffglue": "sniffglue",
+    "sniffnet": "sniffnet",
     "snobol4": "snobol4",
     "snooze": "snooze",
     "snort": "snort",
@@ -814,12 +815,14 @@
     "sysutils/jq": "jq",
     "sysutils/jump": "jump",
     "sysutils/just": "just",
+    "sysutils/k0sctl": "k0sctl",
     "sysutils/k2tf": "k2tf",
     "sysutils/k3d": "k3d",
     "sysutils/k3sup": "k3sup",
     "sysutils/k9s": "k9s",
     "sysutils/kaf": "kaf",
     "sysutils/kapp": "kapp",
+    "sysutils/kdash": "kdash",
     "sysutils/keychain": "keychain",
     "sysutils/killport": "killport",
     "sysutils/kind": "kind",
@@ -933,6 +936,7 @@
     "sysutils/rkhunter": "rkhunter",
     "sysutils/rlwrap": "rlwrap",
     "sysutils/rmlint": "rmlint",
+    "sysutils/rmux": "rmux",
     "sysutils/rpm": "rpm",
     "sysutils/rsnapshot": "rsnapshot",
     "sysutils/runit": "runit",

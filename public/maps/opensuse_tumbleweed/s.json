@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "s",
-    "total_mappings": 900
+    "total_mappings": 909
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -46,6 +46,10 @@
     "SDL3_mixer-debuginfo": "sdl3_mixer",
     "SDL3_mixer-debugsource": "sdl3_mixer",
     "SDL3_mixer-devel": "sdl3_mixer",
+    "SDL3_net": "sdl3_net",
+    "SDL3_net-debuginfo": "sdl3_net",
+    "SDL3_net-debugsource": "sdl3_net",
+    "SDL3_net-devel": "sdl3_net",
     "SDL3_ttf": "sdl3_ttf",
     "SDL3_ttf-debuginfo": "sdl3_ttf",
     "SDL3_ttf-debugsource": "sdl3_ttf",
@@ -848,6 +852,11 @@
     "sysbench": "sysbench",
     "sysbench-debuginfo": "sysbench",
     "sysbench-debugsource": "sysbench",
+    "sysdig": "sysdig",
+    "sysdig-bash-completion": "sysdig",
+    "sysdig-debuginfo": "sysdig",
+    "sysdig-debugsource": "sysdig",
+    "sysdig-zsh-completion": "sysdig",
     "syslog-ng": "syslog-ng",
     "syslog-ng-bigquery": "syslog-ng",
     "syslog-ng-bpf": "syslog-ng",

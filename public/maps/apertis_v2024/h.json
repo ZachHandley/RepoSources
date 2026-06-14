@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "apertis_v2024",
     "shard": "h",
-    "total_mappings": 43
+    "total_mappings": 38
   },
   "mappings": {
     "handy-1-examples": "libhandy",
@@ -24,9 +24,6 @@
     "heimdal-servers": "heimdal",
     "help2man": "help2man",
     "hevea": "hevea",
-    "hfs-modules-6.6.113-m68k-di": "linux-headers@6.8",
-    "hfs-modules-6.6.113-powerpc-di": "linux-headers@6.8",
-    "hfs-modules-6.6.113-powerpc64-di": "linux-headers@6.8",
     "hfs-modules-6.6.141-m68k-di": "linux-headers@6.8",
     "hfs-modules-6.6.141-powerpc-di": "linux-headers@6.8",
     "hfs-modules-6.6.141-powerpc64-di": "linux-headers@6.8",
@@ -46,8 +43,6 @@
     "hwloc": "hwloc",
     "hwloc-nox": "hwloc",
     "hyperv-daemons": "linux-headers@6.8",
-    "hypervisor-modules-6.6.113-powerpc64-di": "linux-headers@6.8",
-    "hypervisor-modules-6.6.113-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-6.6.141-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-6.6.141-powerpc64le-di": "linux-headers@6.8"
   }

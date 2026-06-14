@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "trisquel_11_0",
     "shard": "o",
-    "total_mappings": 249
+    "total_mappings": 248
   },
   "mappings": {
     "oasis": "oasis",
@@ -170,7 +170,6 @@
     "openjdk-25-jre": "openjdk@25",
     "openjdk-25-jre-headless": "openjdk@25",
     "openjdk-25-jre-zero": "openjdk@25",
-    "openjdk-25-jvmci-jdk": "openjdk@25",
     "openjdk-25-source": "openjdk@25",
     "openjdk-25-testsupport": "openjdk@25",
     "openjdk-8": "openjdk@25",

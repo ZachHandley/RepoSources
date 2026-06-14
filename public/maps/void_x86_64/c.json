@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "c",
-    "total_mappings": 299
+    "total_mappings": 301
   },
   "mappings": {
     "CImg": "cimg",
@@ -24,6 +24,8 @@
     "Chipmunk2D-devel": "chipmunk-physics",
     "Clipboard": "clipboard",
     "Clp": "clp",
+    "Criterion": "criterion",
+    "Criterion-devel": "criterion",
     "c": "c",
     "c-ares": "c-ares",
     "c-ares-devel": "c-ares",

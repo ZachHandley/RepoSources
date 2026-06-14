@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "l",
-    "total_mappings": 340
+    "total_mappings": 341
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -326,6 +326,7 @@
     "libzimg": "zimg",
     "libzip": "libzip",
     "lilv": "lilv",
+    "link-grammar": "link-grammar",
     "live555": "openrtsp",
     "llhttp": "llhttp",
     "llvm": "llvm@21",

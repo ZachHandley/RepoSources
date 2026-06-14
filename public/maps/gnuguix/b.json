@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "b",
-    "total_mappings": 91
+    "total_mappings": 92
   },
   "mappings": {
     "b2sum": "b2sum",
@@ -97,6 +97,7 @@
     "bwm-ng": "bwm-ng",
     "byacc": "byacc",
     "byobu": "byobu",
-    "bzip2": "bzip2"
+    "bzip2": "bzip2",
+    "bzip3": "bzip3"
   }
 }

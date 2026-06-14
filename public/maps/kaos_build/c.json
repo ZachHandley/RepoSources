@@ -1,12 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "c",
-    "total_mappings": 1
+    "total_mappings": 6
   },
   "mappings": {
-    "cairomm": "cairomm"
+    "cairo": "cairo",
+    "cbindgen": "cbindgen",
+    "clamav": "clamav",
+    "containerd": "containerd",
+    "cpupower": "linux-headers@6.8",
+    "cups": "cups"
   }
 }

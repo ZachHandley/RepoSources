@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "p",
-    "total_mappings": 934
+    "total_mappings": 936
   },
   "mappings": {
     "p0f": "p0f",
@@ -403,6 +403,8 @@
     "pulumi": "pulumi",
     "pulumi-bin": "pulumi",
     "pulumictl": "pulumictl",
+    "pup": "pup",
+    "pup-unstable": "pup",
     "pure-ftpd": "pure-ftpd",
     "purescript": "purescript",
     "putty": "putty",

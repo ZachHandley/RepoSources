@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "g",
-    "total_mappings": 227
+    "total_mappings": 228
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -82,6 +82,7 @@
     "git-interactive-rebase-tool": "git-interactive-rebase-tool",
     "git-lfs": "git-lfs",
     "git-minimal": "git",
+    "git-pages-cli": "git-pages-cli",
     "git-quick-stats": "git-quick-stats",
     "git-remote-gcrypt": "git-remote-gcrypt",
     "git-sizer": "git-sizer",

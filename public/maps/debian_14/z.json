@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "z",
-    "total_mappings": 102
+    "total_mappings": 100
   },
   "mappings": {
     "z3": "z3",
@@ -42,8 +42,6 @@
     "zeroc-icebox": "ice",
     "zeroc-icebridge": "ice",
     "zeroc-icegrid": "ice",
-    "zeroc-icegridgui": "ice",
-    "zeroc-icepatch2": "ice",
     "zeroc-icestorm": "ice",
     "zeroinstall-injector": "zero-install",
     "zeromq3": "zeromq",

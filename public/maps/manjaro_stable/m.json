@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "m",
-    "total_mappings": 167
+    "total_mappings": 168
   },
   "mappings": {
     "m4": "m4",
@@ -57,6 +57,7 @@
     "mcabber": "mcabber",
     "mcfly": "mcfly",
     "mcpp": "mcpp",
+    "md-tui": "md-tui",
     "md4c": "md4c",
     "mda.lv2": "mda-lv2",
     "mdbook": "mdbook",

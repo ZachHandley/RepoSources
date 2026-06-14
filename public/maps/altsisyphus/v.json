@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "v",
-    "total_mappings": 142
+    "total_mappings": 144
   },
   "mappings": {
     "vala": "vala",
@@ -104,6 +104,8 @@
     "virtualpg": "virtualpg",
     "virtualpg-debuginfo": "virtualpg",
     "virtualpg-devel": "virtualpg",
+    "viu": "viu",
+    "viu-debuginfo": "viu",
     "vmaf": "libvmaf",
     "vmaf-debuginfo": "libvmaf",
     "vmaf-models": "libvmaf",

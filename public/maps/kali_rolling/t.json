@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "t",
@@ -316,6 +316,7 @@
     "topydo": "topydo",
     "tor": "tor",
     "tor-geoipdb": "tor",
+    "torf-cli": "torf-cli",
     "torsocks": "torsocks",
     "tox": "tox",
     "toxcore-utils": "toxcore",
@@ -344,7 +345,6 @@
     "tree-sitter-go-src": "tree-sitter-go",
     "tree-sitter-ruby": "tree-sitter-ruby",
     "tree-sitter-ruby-src": "tree-sitter-ruby",
-    "trippy": "trippy",
     "trivy": "trivy",
     "truecrack": "truecrack",
     "trufflehog": "trufflehog",

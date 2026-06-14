@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "s",
-    "total_mappings": 148
+    "total_mappings": 151
   },
   "mappings": {
     "SDL2": "sdl2",
@@ -16,8 +16,11 @@
     "SDL2_ttf": "sdl2_ttf",
     "SDL3": "sdl3",
     "SDL3_image": "sdl3_image",
+    "SDL3_mixer": "sdl3_mixer",
+    "SDL3_net": "sdl3_net",
     "SDL3_ttf": "sdl3_ttf",
     "SDL_gfx": "sdl_gfx",
+    "SFCGAL": "sfcgal",
     "SFML": "sfml@2",
     "SFST": "sfst",
     "SPIRV-LLVM-Translator": "spirv-llvm-translator",

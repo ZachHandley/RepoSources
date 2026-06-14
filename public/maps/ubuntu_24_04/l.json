@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_24_04",
     "shard": "l",
-    "total_mappings": 7047
+    "total_mappings": 7048
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1952,6 +1952,7 @@
     "libfuzzy2": "ssdeep",
     "libfwupd-dev": "fwupd",
     "libfwupd2": "fwupd",
+    "libfwupd3": "fwupd",
     "libfyaml": "libfyaml",
     "libfyaml-dev": "libfyaml",
     "libfyaml-utils": "libfyaml",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "n",
-    "total_mappings": 261
+    "total_mappings": 264
   },
   "mappings": {
     "nacl": "nacl",
@@ -150,6 +150,9 @@
     "netpbm": "netpbm",
     "netstandard-targeting-pack-2.1": "dotnet@9",
     "nettle": "nettle@3",
+    "netwatch": "netwatch",
+    "netwatch-debuginfo": "netwatch",
+    "netwatch-debugsource": "netwatch",
     "nfdump": "nfdump",
     "nfdump-debuginfo": "nfdump",
     "nfdump-debugsource": "nfdump",

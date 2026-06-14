@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "k",
-    "total_mappings": 225
+    "total_mappings": 227
   },
   "mappings": {
     "k9s": "k9s",
@@ -40,6 +40,8 @@
     "kepubify-debuginfo": "kepubify",
     "kernel-source-sysdig": "sysdig",
     "keychain": "keychain",
+    "keyd": "keyd",
+    "keyd-debuginfo": "keyd",
     "keyutils": "keyutils",
     "keyutils-debuginfo": "keyutils",
     "kf5-karchive": "karchive",

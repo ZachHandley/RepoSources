@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "f",
     "total_mappings": 1
   },
   "mappings": {
-    "fontconfig": "fontconfig"
+    "fast_float": "fast_float"
   }
 }

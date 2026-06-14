@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "c",
-    "total_mappings": 349
+    "total_mappings": 351
   },
   "mappings": {
     "CLI11": "cli11",
@@ -46,6 +46,7 @@
     "cargo-cache": "cargo-cache",
     "cargo-deny": "cargo-deny",
     "cargo-edit": "cargo-edit",
+    "cargo-flamegraph": "cargo-flamegraph",
     "cargo-nextest": "cargo-nextest",
     "cargo-outdated": "cargo-outdated",
     "cargo-release": "cargo-release",
@@ -142,6 +143,7 @@
     "claws-mail": "claws-mail",
     "clearlooks-phenix-theme": "clearlooks-phenix",
     "clib": "clib",
+    "clickhouse-cpp": "clickhouse-cpp",
     "clisp": "clisp",
     "clisp-bdb": "clisp",
     "clisp-fastcgi": "clisp",

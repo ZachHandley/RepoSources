@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "a",
-    "total_mappings": 98
+    "total_mappings": 97
   },
   "mappings": {
     "A Better CD Encoder": "abcde",
@@ -68,7 +68,6 @@
     "Apache Xerces for C++ XML Parser": "xerces-c",
     "Apache ZooKeeper": "zookeeper",
     "ApacheTop": "apachetop",
-    "AppStream": "appstream",
     "Archive Manager": "file-roller",
     "Argon2": "argon2",
     "Artistic Style": "astyle",

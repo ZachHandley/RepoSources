@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "m",
-    "total_mappings": 1582
+    "total_mappings": 1584
   },
   "mappings": {
     "m4": "m4",
@@ -205,6 +205,7 @@
     "micro-debuginfo": "micro",
     "micro-debugsource": "micro",
     "micropython": "micropython",
+    "micropython-tools": "micropython",
     "migrate": "golang-migrate",
     "migrate-debuginfo": "golang-migrate",
     "migrate-debugsource": "golang-migrate",
@@ -1520,6 +1521,7 @@
     "mpv": "mpv",
     "mpv-devel": "mpv",
     "mpv-libs": "mpv",
+    "mpy-cross": "micropython",
     "mrtg": "mrtg",
     "mrtg-selinux": "mrtg",
     "mscgen": "mscgen",

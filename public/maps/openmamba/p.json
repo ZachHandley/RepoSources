@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "p",
-    "total_mappings": 305
+    "total_mappings": 303
   },
   "mappings": {
     "PyQt-builder": "pyqt-builder",
@@ -60,7 +60,6 @@
     "php-mysql": "php@8.4",
     "php-mysqli": "php@8.4",
     "php-odbc": "php@8.4",
-    "php-opcache": "php@8.4",
     "php-openssl": "php@8.4",
     "php-pdo": "php@8.4",
     "php-pgsql": "php@8.4",
@@ -176,7 +175,6 @@
     "python-black": "black",
     "python-black-py3": "black",
     "python-boost-py3": "boost@1.85",
-    "python-boost176-py3": "boost@1.85",
     "python-boost183-py3": "boost@1.85",
     "python-boost183-py310": "boost@1.85",
     "python-boost184-py3": "boost@1.85",

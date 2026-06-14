@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "k",
-    "total_mappings": 62
+    "total_mappings": 66
   },
   "mappings": {
     "k6": "k6",
@@ -32,6 +32,10 @@
     "kea-dinit": "kea",
     "kea-doc": "kea",
     "kea-pycache": "kea",
+    "keyd": "keyd",
+    "keyd-dinit": "keyd",
+    "keyd-doc": "keyd",
+    "keyd-man": "keyd",
     "keyutils": "keyutils",
     "keyutils-devel": "keyutils",
     "keyutils-devel-man": "keyutils",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "m",
-    "total_mappings": 116
+    "total_mappings": 118
   },
   "mappings": {
     "MHonArc": "mhonarc",
@@ -31,6 +31,7 @@
     "mc": "midnight-commander",
     "mcabber": "mcabber",
     "mcpp": "mcpp",
+    "md4c": "md4c",
     "md5deep": "md5deep",
     "mdbook": "mdbook",
     "mdbtools": "mdbtools",
@@ -122,6 +123,7 @@
     "mysql-connector-c++": "mysql-connector-c++",
     "mysql8.0": "mysql@8.4",
     "mysql8.4": "mysql@8.4",
+    "mysql9.7": "mysql@8.4",
     "mysqltuner": "mysqltuner"
   }
 }

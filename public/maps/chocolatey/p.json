@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "p",
-    "total_mappings": 144
+    "total_mappings": 146
   },
   "mappings": {
     "PDFCrack": "pdfcrack",
@@ -130,6 +130,8 @@
     "pulumictl": "pulumictl",
     "punktf": "punktf",
     "punktf (Install)": "punktf",
+    "pup": "pup",
+    "pup (Install)": "pup",
     "purescript": "purescript",
     "putty": "putty",
     "putty.install": "putty",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "c",
-    "total_mappings": 162
+    "total_mappings": 163
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -167,6 +167,7 @@
     "curl": "curl",
     "cvs": "cvs",
     "cvs-fast-export": "cvs-fast-export",
+    "cxxopts": "cxxopts",
     "cyrus-sasl": "cyrus-sasl",
     "czmq": "czmq"
   }

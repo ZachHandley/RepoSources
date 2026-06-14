@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "g",
-    "total_mappings": 2035
+    "total_mappings": 2036
   },
   "mappings": {
     "g++-11": "gcc@14",
@@ -1480,6 +1480,7 @@
     "gnome-session-canberra": "libcanberra",
     "gnome-themes-extra": "gnome-themes-extra",
     "gnome-themes-extra-data": "gnome-themes-extra",
+    "gnu-apl": "gnu-apl",
     "gnu-which": "gnu-which",
     "gnuastro": "gnuastro",
     "gnuchess": "gnu-chess",

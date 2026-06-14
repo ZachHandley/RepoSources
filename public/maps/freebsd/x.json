@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "x",
-    "total_mappings": 262
+    "total_mappings": 263
   },
   "mappings": {
     "x11-fonts/bdftopcf": "bdftopcf",
@@ -157,6 +157,7 @@
     "x11/startup-notification": "startup-notification",
     "x11/terminator": "terminator",
     "x11/wl-clipboard": "wl-clipboard",
+    "x11/wtype": "wtype",
     "x11/x3270": "x3270",
     "x11/xauth": "xauth",
     "x11/xbitmaps": "xbitmaps",

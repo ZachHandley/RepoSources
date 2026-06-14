@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "o",
-    "total_mappings": 90
+    "total_mappings": 92
   },
   "mappings": {
     "OpenColorIO1": "opencolorio",
@@ -58,6 +58,7 @@
     "office/misc/tesseract": "tesseract",
     "office/misc/texi2html": "texi2html",
     "office/misc/txt2man": "txt2man",
+    "office/misc/wv": "wv",
     "office/postscript/ghostscript": "ghostscript",
     "office/postscript/poppler": "poppler",
     "office/spellcheck/aspell": "aspell",
@@ -66,6 +67,7 @@
     "office/spellcheck/hspell": "hspell",
     "office/spellcheck/hunspell": "hunspell",
     "office/spellcheck/libvoikko": "libvoikko",
+    "office/spellcheck/link-grammar": "link-grammar",
     "office/spellcheck/nuspell": "nuspell",
     "office/zim": "zim",
     "omake": "omake",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "p",
-    "total_mappings": 946
+    "total_mappings": 949
   },
   "mappings": {
     "p0f": "p0f",
@@ -239,6 +239,7 @@
     "pkg-configUpstream": "pkg-config-wrapper",
     "pkgconf": "pkgconf",
     "pkgdiff": "pkgdiff",
+    "pkgsite": "pkgsite",
     "pkl": "pkl",
     "plakar": "plakar",
     "plantuml": "plantuml",
@@ -411,6 +412,8 @@
     "pulumi": "pulumi",
     "pulumi-bin": "pulumi",
     "pulumictl": "pulumictl",
+    "pup": "pup",
+    "pup-unstable": "pup",
     "pure-ftpd": "pure-ftpd",
     "purescript": "purescript",
     "putty": "putty",

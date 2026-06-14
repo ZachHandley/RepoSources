@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "a",
-    "total_mappings": 96
+    "total_mappings": 97
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -81,6 +81,7 @@
     "autopep8": "autopep8",
     "autossh": "autossh",
     "avahi": "avahi",
+    "avisynthplus": "avisynthplus",
     "aws-c-auth": "aws-c-auth",
     "aws-c-cal": "aws-c-cal",
     "aws-c-common": "aws-c-common",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "l",
-    "total_mappings": 863
+    "total_mappings": 865
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -335,6 +335,7 @@
     "libdeflate": "libdeflate",
     "libdex": "libdex",
     "libdex-docs": "libdex",
+    "libdicom": "libdicom",
     "libdiscid": "libdiscid",
     "libdmtx": "libdmtx",
     "libdnet": "libdnet",
@@ -761,6 +762,7 @@
     "lighttpd": "lighttpd",
     "lilv": "lilv",
     "lilv-docs": "lilv",
+    "lilv-tools": "lilv",
     "lilypond": "lilypond",
     "limesuite": "limesuite",
     "limine": "limine",

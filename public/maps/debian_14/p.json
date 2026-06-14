@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "p",
-    "total_mappings": 972
+    "total_mappings": 973
   },
   "mappings": {
     "p0f": "p0f",
@@ -584,6 +584,7 @@
     "pulseaudio-module-raop": "pulseaudio",
     "pulseaudio-module-zeroconf": "pulseaudio",
     "pulseaudio-utils": "pulseaudio",
+    "pup": "pup",
     "pupnp": "libupnp",
     "pushpin": "pushpin",
     "putty": "putty",

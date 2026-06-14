@@ -1,12 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "k",
-    "total_mappings": 1
+    "total_mappings": 4
   },
   "mappings": {
-    "krb5": "krb5"
+    "karchive": "karchive",
+    "kdoctools": "kdoctools",
+    "ki18n": "ki18n",
+    "ktexttemplate": "ktexttemplate"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "r",
-    "total_mappings": 280
+    "total_mappings": 283
   },
   "mappings": {
     "r-mkl": "r",
@@ -99,6 +99,7 @@
     "redshift-gtk-git": "redshift",
     "redstore": "redstore",
     "redu": "redu",
+    "redu-bin": "redu",
     "reflex": "reflex",
     "reg": "reg",
     "regal": "regal",
@@ -176,6 +177,8 @@
     "rmlint-git": "rmlint",
     "rmlint-shredder-git": "rmlint",
     "rmpc-git": "rmpc",
+    "rmux": "rmux",
+    "rmux-bin": "rmux",
     "rmw": "rmw",
     "rmw-git": "rmw",
     "rnp": "rnp",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "o",
-    "total_mappings": 184
+    "total_mappings": 187
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -106,6 +106,9 @@
     "openjdk-21": "openjdk@25",
     "openjdk-21-dbginfo": "openjdk@25",
     "openjdk-21-devel": "openjdk@25",
+    "openjdk-25": "openjdk@25",
+    "openjdk-25-dbginfo": "openjdk@25",
+    "openjdk-25-devel": "openjdk@25",
     "openjpeg": "openjpeg",
     "openjpeg-dbginfo": "openjpeg",
     "openjpeg-devel": "openjpeg",

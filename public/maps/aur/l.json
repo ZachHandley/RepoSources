@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "l",
-    "total_mappings": 1141
+    "total_mappings": 1142
   },
   "mappings": {
     "lab": "lab",
@@ -114,6 +114,7 @@
     "lib32-atkmm": "atkmm@2.28",
     "lib32-atkmm-2.36": "atkmm@2.28",
     "lib32-avahi": "avahi",
+    "lib32-avisynthplus": "avisynthplus",
     "lib32-babl": "babl",
     "lib32-benchmark": "google-benchmark",
     "lib32-blas": "lapack",
@@ -967,9 +968,9 @@
     "linux-mainline-headers": "linux-headers@6.8",
     "linux-next-git": "linux-headers@6.8",
     "linux-next-git-headers": "linux-headers@6.8",
-    "linux6.18.34-1-lts-bin": "linux-headers@6.8",
-    "linux6.18.34-1-lts-docs-bin": "linux-headers@6.8",
-    "linux6.18.34-1-lts-headers-bin": "linux-headers@6.8",
+    "linux6.18.35-1-lts-bin": "linux-headers@6.8",
+    "linux6.18.35-1-lts-docs-bin": "linux-headers@6.8",
+    "linux6.18.35-1-lts-headers-bin": "linux-headers@6.8",
     "liquibase": "liquibase",
     "liquid-dsp-git": "liquid-dsp",
     "liquidctl-git": "liquidctl",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "d",
-    "total_mappings": 599
+    "total_mappings": 597
   },
   "mappings": {
     "DevIL": "devil",
@@ -326,7 +326,6 @@
     "devel/libnfs": "libnfs",
     "devel/libnotify": "libnotify",
     "devel/libofx": "libofx",
-    "devel/liboil": "liboil",
     "devel/libowfat": "libowfat",
     "devel/libpeas": "libpeas@1",
     "devel/libpeas2": "libpeas@1",
@@ -352,7 +351,6 @@
     "devel/libyaml": "libyaml",
     "devel/libzen": "libzen",
     "devel/llvm/19": "llvm@21",
-    "devel/llvm/20": "llvm@21",
     "devel/llvm/21": "llvm@21",
     "devel/llvm/22": "llvm@21",
     "devel/log4c": "log4c",

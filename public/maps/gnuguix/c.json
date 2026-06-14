@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "c",
-    "total_mappings": 189
+    "total_mappings": 190
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -156,6 +156,7 @@
     "cppcheck": "cppcheck",
     "cppi": "cppi",
     "cpplint": "cpplint",
+    "cpptrace": "cpptrace",
     "cppunit": "cppunit",
     "cpputest": "cpputest",
     "cppzmq": "cppzmq",

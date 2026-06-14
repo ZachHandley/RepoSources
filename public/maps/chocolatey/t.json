@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "t",
-    "total_mappings": 101
+    "total_mappings": 103
   },
   "mappings": {
     "TBox": "tbox",
+    "TTL (Install)": "ttl",
     "Tailscale": "tailscale",
     "Taplo": "taplo",
     "Task - Build System for Go": "go-task",
@@ -104,6 +105,7 @@
     "trzsz ( trz / tsz )": "trzsz",
     "trzsz-ssh ( tssh )": "tssh",
     "tssh": "tssh",
+    "ttl": "ttl",
     "typescript": "typescript",
     "typos-lsp": "typos-lsp",
     "typst": "typst",

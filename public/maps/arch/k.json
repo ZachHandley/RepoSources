@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "k",
-    "total_mappings": 57
+    "total_mappings": 58
   },
   "mappings": {
     "k9s": "k9s",
@@ -21,6 +21,7 @@
     "kea-docs": "kea",
     "kew": "kew",
     "keychain": "keychain",
+    "keyd": "keyd",
     "keystone": "keystone",
     "keyutils": "keyutils",
     "khal": "khal",

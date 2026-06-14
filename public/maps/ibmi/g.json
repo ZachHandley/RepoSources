@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ibmi",
     "shard": "g",
-    "total_mappings": 19
+    "total_mappings": 20
   },
   "mappings": {
     "gawk": "gawk",
@@ -22,6 +22,7 @@
     "gmp-aix": "gmp",
     "gmp-devel": "gmp",
     "gnupg2": "gnupg",
+    "gnupg2-smime": "gnupg@1.4",
     "gperf": "gperf",
     "grep-gnu": "grep",
     "groff": "groff",

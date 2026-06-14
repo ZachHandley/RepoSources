@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "q",
-    "total_mappings": 6291
+    "total_mappings": 6289
   },
   "mappings": {
     "Q100531088": "texlab",
@@ -3081,8 +3081,6 @@
     "qt5-qtdeclarative-tests": "qt@5",
     "qt5-qtdiag": "qt@5",
     "qt5-qtdoc": "qt@5",
-    "qt5-qtdoc-debuginfo": "qt@5",
-    "qt5-qtdoc-debugsource": "qt@5",
     "qt5-qtgamepad": "qt@5",
     "qt5-qtgamepad-debug": "qt@5",
     "qt5-qtgamepad-debuginfo": "qt@5",

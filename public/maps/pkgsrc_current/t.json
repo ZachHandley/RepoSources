@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "t",
-    "total_mappings": 357
+    "total_mappings": 358
   },
   "mappings": {
     "TinySVM": "tinysvm",
@@ -354,6 +354,7 @@
     "trufflehog": "trufflehog",
     "ts": "task-spooler",
     "ttf2pt1": "ttf2pt1",
+    "ttl": "ttl",
     "tty-clock": "tty-clock",
     "ttyplot": "ttyplot",
     "ttyrec": "ttyrec",

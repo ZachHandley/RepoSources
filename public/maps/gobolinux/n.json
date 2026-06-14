@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "n",
-    "total_mappings": 46
+    "total_mappings": 47
   },
   "mappings": {
     "NCDU": "ncdu",
@@ -40,6 +40,7 @@
     "Nethogs": "nethogs",
     "Netpbm": "netpbm",
     "Nettle": "nettle@3",
+    "Netwatch": "netwatch",
     "NewLISP": "newlisp",
     "NewsBeuter": "newsboat",
     "Nftables": "nftables",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "p",
-    "total_mappings": 88
+    "total_mappings": 89
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -76,6 +76,7 @@
     "ptex": "ptex",
     "pueue": "pueue",
     "pulseaudio": "pulseaudio",
+    "pup": "pup",
     "pure-ftpd": "pure-ftpd",
     "putty": "putty",
     "pv": "pv",

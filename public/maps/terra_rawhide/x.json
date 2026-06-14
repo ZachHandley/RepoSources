@@ -1,18 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "x",
-    "total_mappings": 11
+    "total_mappings": 5
   },
   "mappings": {
-    "x265": "x265",
-    "x265-debuginfo": "x265",
-    "x265-debugsource": "x265",
-    "x265-devel": "x265",
-    "x265-libs": "x265",
-    "x265-libs-debuginfo": "x265",
     "xplr": "xplr",
     "xplr-debuginfo": "xplr",
     "xray": "xray",

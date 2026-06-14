@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "v",
-    "total_mappings": 48
+    "total_mappings": 49
   },
   "mappings": {
     "vala": "vala",
@@ -33,6 +33,7 @@
     "virtuoso-ose": "virtuoso",
     "vis": "vis",
     "visidata": "visidata",
+    "vit": "vit",
     "vitetris": "vitetris",
     "vivid": "vivid",
     "vlang": "vlang",

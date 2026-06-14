@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "a",
-    "total_mappings": 278
+    "total_mappings": 280
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -15,6 +15,7 @@
     "abcl": "abcl",
     "abcm2ps": "abcm2ps",
     "abcmidi": "abcmidi",
+    "abduco": "abduco",
     "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abigail-doc": "libabigail",
@@ -142,6 +143,7 @@
     "apcupsd-doc": "apcupsd",
     "apgdiff": "apgdiff",
     "apktool": "apktool",
+    "apl": "gnu-apl",
     "apng2gif": "apng2gif",
     "apngasm": "apngasm",
     "apophenia": "apophenia",

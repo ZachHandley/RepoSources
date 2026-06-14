@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_05",
     "shard": "e",
-    "total_mappings": 128
+    "total_mappings": 129
   },
   "mappings": {
     "e1s": "e1s",
     "e2fsprogs": "e2fsprogs",
     "e2tools": "e2tools",
     "earthly": "earthly",
+    "eas-cli": "eas-cli",
     "easeprobe": "easeprobe",
     "eask-cli": "eask-cli",
     "easyrpg-player": "easyrpg-player",

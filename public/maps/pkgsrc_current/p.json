@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "p",
-    "total_mappings": 384
+    "total_mappings": 385
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -268,6 +268,7 @@
     "pugixml": "pugixml",
     "pulledpork": "pulledpork",
     "pulseaudio": "pulseaudio",
+    "pup": "pup",
     "pure-ftpd": "pure-ftpd",
     "purescript": "purescript",
     "putty": "putty",

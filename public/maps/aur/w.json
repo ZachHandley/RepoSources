@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "w",
-    "total_mappings": 191
+    "total_mappings": 192
   },
   "mappings": {
     "wabt-git": "wabt",
@@ -63,7 +63,6 @@
     "webarchiver": "webarchiver",
     "webarchiver-bin": "webarchiver",
     "webdis": "webdis",
-    "webfs": "webfs",
     "webify": "webify",
     "webkit2gtk": "webkitgtk",
     "webkit2gtk-4.1-imgpaste": "webkitgtk",
@@ -170,9 +169,11 @@
     "wthrr": "wthrr",
     "wthrr-bin": "wthrr",
     "wthrr-git": "wthrr",
+    "wtype-git": "wtype",
     "wush": "wush",
     "wush-bin": "wush",
     "wwwoffle-svn": "wwwoffle",
+    "wx-cli-bin": "wx-cli",
     "wxbase": "wxwidgets@3.2",
     "wxbase-git": "wxwidgets@3.2",
     "wxbase2.8-light": "wxwidgets@3.2",

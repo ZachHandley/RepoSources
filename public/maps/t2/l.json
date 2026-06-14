@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "l",
-    "total_mappings": 448
+    "total_mappings": 449
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -270,6 +270,7 @@
     "libsdl2_ttf": "sdl2_ttf",
     "libsdl3": "sdl3",
     "libsdl3_image": "sdl3_image",
+    "libsdl3_net": "sdl3_net",
     "libsdl3_ttf": "sdl3_ttf",
     "libsdl_gfx": "sdl_gfx",
     "libseccomp": "libseccomp",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "z",
-    "total_mappings": 76
+    "total_mappings": 81
   },
   "mappings": {
     "zabbix7.0": "zabbix",
@@ -35,6 +35,11 @@
     "zbar-libs": "zbar",
     "zbar-qt": "zbar",
     "zbar-qt-devel": "zbar",
+    "zchunk": "zchunk",
+    "zchunk-debuginfo": "zchunk",
+    "zchunk-debugsource": "zchunk",
+    "zchunk-devel": "zchunk",
+    "zchunk-libs": "zchunk",
     "zeromq": "zeromq",
     "zeromq-debuginfo": "zeromq",
     "zeromq-debugsource": "zeromq",

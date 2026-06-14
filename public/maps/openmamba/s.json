@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "s",
-    "total_mappings": 99
+    "total_mappings": 97
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -90,13 +90,11 @@
     "subversion-devel": "subversion",
     "suil": "suil",
     "supertux": "supertux",
-    "supertux-debug": "supertux",
     "svt-av1": "svt-av1",
     "swag": "swag",
     "swaks": "swaks",
     "swfmill": "swfmill",
     "swig": "swig",
-    "swig3": "swig",
     "synergy": "synergy-core",
     "synergy-debug": "synergy-core",
     "synfig": "synfig",

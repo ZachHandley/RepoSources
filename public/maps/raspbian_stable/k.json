@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "k",
-    "total_mappings": 117
+    "total_mappings": 119
   },
   "mappings": {
     "kakoune": "kakoune",
@@ -53,6 +53,8 @@
     "kew": "kew",
     "key2odp": "writerperfect",
     "keychain": "keychain",
+    "keyd": "keyd",
+    "keyd-application-mapper": "keyd",
     "keyutils": "keyutils",
     "kf6-extra-cmake-modules": "extra-cmake-modules",
     "kf6-karchive": "karchive",

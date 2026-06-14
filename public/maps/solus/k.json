@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "k",
-    "total_mappings": 48
+    "total_mappings": 50
   },
   "mappings": {
     "kakoune": "kakoune",
@@ -24,6 +24,8 @@
     "kew": "kew",
     "kew-dbginfo": "kew",
     "keychain": "keychain",
+    "keyd": "keyd",
+    "keyd-dbginfo": "keyd",
     "keyutils": "keyutils",
     "keyutils-dbginfo": "keyutils",
     "keyutils-devel": "keyutils",

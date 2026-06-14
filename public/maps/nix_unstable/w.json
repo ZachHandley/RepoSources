@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "w",
-    "total_mappings": 138
+    "total_mappings": 140
   },
   "mappings": {
     "WiiUse": "wiiuse",
@@ -36,6 +36,7 @@
     "wasm-bindgen-cli_0_2_114": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_117": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_118": "wasm-bindgen",
+    "wasm-bindgen-cli_0_2_120": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_121": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_93": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_95": "wasm-bindgen",
@@ -136,6 +137,7 @@
     "wtfis": "wtfis",
     "wtfutil": "wtfutil",
     "wthrr": "wthrr",
+    "wtype": "wtype",
     "wush": "wush",
     "wv": "wv",
     "wv2": "wv2",

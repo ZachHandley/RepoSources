@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "w",
-    "total_mappings": 154
+    "total_mappings": 157
   },
   "mappings": {
     "WordNet": "wordnet",
@@ -20,6 +20,7 @@
     "wayland-protocols": "wayland-protocols",
     "wayland/foot": "foot",
     "wayland/wl-clipboard": "wl-clipboard",
+    "wayland/wtype": "wtype",
     "wcslib": "wcslib",
     "wdiff": "wdiff",
     "webkit-gtk": "webkitgtk",
@@ -48,6 +49,7 @@
     "wslay": "wslay",
     "wtf": "wtf",
     "wthrr": "wthrr",
+    "wtype": "wtype",
     "wv": "wv",
     "wv2": "wv2",
     "www/analog": "analog",
@@ -127,6 +129,7 @@
     "www/passenger": "passenger",
     "www/php-fpm": "php@8.4",
     "www/privoxy": "privoxy",
+    "www/pup": "pup",
     "www/py-pelican": "pelican",
     "www/py-scrapy": "scrapy",
     "www/py-uvicorn": "uvicorn",

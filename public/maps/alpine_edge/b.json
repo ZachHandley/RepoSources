@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "b",
-    "total_mappings": 412
+    "total_mappings": 413
   },
   "mappings": {
     "b2-tools": "b2-tools",
@@ -391,6 +391,7 @@
     "buku-bash-completion": "buku",
     "buku-doc": "buku",
     "buku-fish-completion": "buku",
+    "buku-pyc": "buku",
     "buku-zsh-completion": "buku",
     "bullet": "bullet",
     "bullet-dev": "bullet",

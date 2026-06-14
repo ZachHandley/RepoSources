@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "t",
-    "total_mappings": 801
+    "total_mappings": 804
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -640,6 +640,9 @@
     "tsung": "tsung",
     "tsung-debuginfo": "tsung",
     "tsung-debugsource": "tsung",
+    "ttl": "ttl",
+    "ttl-debuginfo": "ttl",
+    "ttl-debugsource": "ttl",
     "ttyd": "ttyd",
     "ttyd-debuginfo": "ttyd",
     "ttyd-debugsource": "ttyd",

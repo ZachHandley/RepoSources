@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "m",
-    "total_mappings": 707
+    "total_mappings": 709
   },
   "mappings": {
     "M4RI": "m4ri",
@@ -407,6 +407,7 @@
     "misc/hicolor-icon-theme": "hicolor-icon-theme",
     "misc/ipbt": "ipbt",
     "misc/iso-codes": "iso-codes",
+    "misc/ktea": "ktea",
     "misc/lesspipe": "lesspipe",
     "misc/lf": "lf",
     "misc/libeatmydata": "libeatmydata",
@@ -484,6 +485,7 @@
     "misc/xdelta3": "xdelta",
     "misc/xgboost": "xgboost",
     "misc/xplr": "xplr",
+    "misc/zeroclaw": "zeroclaw",
     "misc/zoneinfo": "tzdb",
     "mise": "mise",
     "mit-scheme": "mit-scheme",

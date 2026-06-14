@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "a",
-    "total_mappings": 104
+    "total_mappings": 107
   },
   "mappings": {
     "AppStream": "appstream",
     "Atari800": "atari800",
+    "AviSynthPlus": "avisynthplus",
     "a2ps": "a2ps",
     "a52dec": "a52dec",
     "aalib": "aalib",
@@ -72,6 +73,7 @@
     "aspectj": "aspectj",
     "aspell": "aspell",
     "assimp": "assimp@5",
+    "ast-grep": "ast-grep",
     "astyle": "astyle",
     "asymptote": "asymptote",
     "at-spi2-core": "at-spi2-core",
@@ -108,6 +110,7 @@
     "aws-c-sdkutils": "aws-c-sdkutils",
     "aws-checksums": "aws-checksums",
     "aws-crt-cpp": "aws-crt-cpp",
+    "aws-sdk-cpp": "aws-sdk-cpp",
     "awscli": "awscli@1",
     "axel": "axel",
     "ayatana-ido": "ayatana-ido"

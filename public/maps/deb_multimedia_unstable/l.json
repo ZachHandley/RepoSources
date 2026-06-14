@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "deb_multimedia_unstable",
     "shard": "l",
-    "total_mappings": 279
+    "total_mappings": 278
   },
   "mappings": {
     "lame": "lame",
@@ -26,9 +26,9 @@
     "libass-dmo": "libass",
     "libass9": "libass",
     "libaudcore6": "audacious",
-    "libaudgui6": "audacious",
+    "libaudgui7": "audacious",
     "libaudqt4": "audacious",
-    "libaudtag3t64": "audacious",
+    "libaudtag4": "audacious",
     "libavcodec-6-dev": "ffmpeg@7",
     "libavcodec-dev": "ffmpeg@7",
     "libavcodec60": "ffmpeg@7",
@@ -150,7 +150,6 @@
     "liblavplay-2.2-0t64": "mjpegtools",
     "liblivemedia-dev": "openrtsp",
     "liblivemedia-dmo": "openrtsp",
-    "liblivemedia118": "openrtsp",
     "liblivemedia119": "openrtsp",
     "libmac-dev": "mac",
     "libmac15": "mac",

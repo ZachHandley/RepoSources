@@ -1,16 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "j",
-    "total_mappings": 12
+    "total_mappings": 9
   },
   "mappings": {
     "jaq": "jaq",
-    "jed": "jed",
-    "jed-common": "jed",
-    "jemalloc": "jemalloc",
     "jetty12": "jetty",
     "jimsh": "jimtcl",
     "jimtcl": "jimtcl",

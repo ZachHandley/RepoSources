@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "p",
-    "total_mappings": 347
+    "total_mappings": 349
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -129,6 +129,7 @@
     "programming/library/catch2": "catch2",
     "programming/library/cbindgen": "cbindgen",
     "programming/library/cdk": "cdk",
+    "programming/library/corrosion": "corrosion",
     "programming/library/dcmtk": "dcmtk",
     "programming/library/double-conversion": "double-conversion",
     "programming/library/editorconfig-core-c": "editorconfig",
@@ -283,6 +284,7 @@
     "programming/misc/redland": "redland",
     "programming/misc/setconf": "setconf",
     "programming/misc/source-highlight": "source-highlight",
+    "programming/misc/strip-nondeterminism": "strip-nondeterminism",
     "programming/misc/tinyxml": "tinyxml2",
     "programming/misc/tinyxml2": "tinyxml2",
     "programming/misc/unixODBC": "unixodbc",

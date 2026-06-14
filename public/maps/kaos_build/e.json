@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "e",
-    "total_mappings": 1
+    "total_mappings": 3
   },
   "mappings": {
-    "expat": "expat"
+    "e2fsprogs": "e2fsprogs",
+    "emacs-nox": "emacs",
+    "extra-cmake-modules": "extra-cmake-modules"
   }
 }

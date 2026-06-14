@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_05",
     "shard": "c",
-    "total_mappings": 437
+    "total_mappings": 438
   },
   "mappings": {
     "CUnit": "cunit",
@@ -319,6 +319,7 @@
     "composer": "composer",
     "comrak": "comrak",
     "conan": "conan@1",
+    "concord": "concord",
     "confd": "confd",
     "conftest": "conftest",
     "conman": "conman",

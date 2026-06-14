@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "n",
-    "total_mappings": 79
+    "total_mappings": 85
   },
   "mappings": {
     "nanomsg": "nanomsg",
@@ -23,6 +23,14 @@
     "nbd-modules-7.1-s390x-di": "linux-headers@6.8",
     "nbd-modules-7.1-sh7751r-di": "linux-headers@6.8",
     "nbd-modules-7.1-sparc64-di": "linux-headers@6.8",
+    "ncurses": "ncurses",
+    "ncurses-base": "ncurses",
+    "ncurses-bin": "ncurses",
+    "ncurses-doc": "ncurses",
+    "ncurses-examples": "ncurses",
+    "ncurses-term": "ncurses",
+    "neovim": "neovim",
+    "neovim-runtime": "neovim",
     "nethogs": "nethogs",
     "nettle-bin": "nettle@3",
     "nettle4": "nettle@3",
@@ -82,8 +90,6 @@
     "nic-wireless-modules-7.1-riscv64-di": "linux-headers@6.8",
     "nlohmann-json3": "nlohmann-json",
     "nlohmann-json3-dev": "nlohmann-json",
-    "nodejs": "node@24",
-    "nodejs-doc": "node@24",
     "nscd": "glibc@2.17",
     "nzbget": "nzbget"
   }

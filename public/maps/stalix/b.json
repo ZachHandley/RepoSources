@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "stalix",
     "shard": "b",
-    "total_mappings": 583
+    "total_mappings": 584
   },
   "mappings": {
     "bin/7z": "sevenzip",
@@ -259,6 +259,7 @@
     "bin/kakoune": "kakoune",
     "bin/kakoune/unwrap": "kakoune",
     "bin/kernel/6/16": "linux-headers@6.8",
+    "bin/keyd": "keyd",
     "bin/kmod": "kmod",
     "bin/knot/resolver": "knot-resolver",
     "bin/lame": "lame",

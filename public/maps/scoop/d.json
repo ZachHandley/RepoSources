@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "d",
-    "total_mappings": 59
+    "total_mappings": 60
   },
   "mappings": {
     "d2": "d2",
@@ -65,6 +65,7 @@
     "dumbpipe": "dumbpipe",
     "dust": "dust",
     "dvc": "dvc",
-    "dyff": "dyff"
+    "dyff": "dyff",
+    "dz6": "dz6"
   }
 }

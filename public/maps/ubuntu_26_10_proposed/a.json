@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "a",
-    "total_mappings": 62
+    "total_mappings": 44
   },
   "mappings": {
-    "a2boot": "netatalk",
     "acl": "acl",
     "acl-udeb": "acl",
     "adios2": "adios2",
@@ -16,11 +15,9 @@
     "adios2-scripts": "adios2",
     "adios2-serial-bin": "adios2",
     "amazon-ecr-credential-helper": "docker-credential-helper-ecr",
+    "amqp-tools": "rabbitmq-c",
     "angband": "angband",
     "angband-data": "angband",
-    "ant": "ant",
-    "ant-doc": "ant@1.9",
-    "ant-optional": "ant@1.9",
     "apache-arrow": "apache-arrow",
     "apache2": "httpd",
     "apache2-bin": "httpd",
@@ -39,21 +36,13 @@
     "apt-utils": "apt",
     "aptly": "aptly",
     "aptly-api": "aptly",
-    "aqbanking-tools": "aqbanking",
     "arrow-tools": "apache-arrow",
-    "asio": "asio",
     "assimp": "assimp@5",
     "assimp-testmodels": "assimp@5",
     "assimp-utils": "assimp@5",
-    "assistant-qt6": "qt@5",
     "asymptote": "asymptote",
     "asymptote-doc": "asymptote",
     "asymptote-x11": "asymptote",
-    "at-spi2-common": "at-spi2-core",
-    "at-spi2-core": "at-spi2-core",
-    "at-spi2-core-udeb": "at-spi2-core",
-    "at-spi2-doc": "at-spi2-core",
-    "atalkd": "netatalk",
     "atkmm": "atkmm",
     "atuin": "atuin",
     "austin": "austin",
@@ -61,13 +50,6 @@
     "autoconf-doc": "autoconf",
     "automake": "automake",
     "autopep8": "autopep8",
-    "autopoint": "gettext",
-    "avahi": "avahi",
-    "avahi-autoipd": "avahi",
-    "avahi-daemon": "avahi",
-    "avahi-discover": "avahi",
-    "avahi-dnsconfd": "avahi",
-    "avahi-ui-utils": "avahi",
-    "avahi-utils": "avahi"
+    "autopoint": "gettext"
   }
 }

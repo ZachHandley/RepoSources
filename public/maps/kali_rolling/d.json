@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "d",
-    "total_mappings": 256
+    "total_mappings": 258
   },
   "mappings": {
     "daemon": "daemon",
@@ -31,6 +31,8 @@
     "dasm": "dasm",
     "datalad": "datalad",
     "datamash": "datamash",
+    "datasette": "datasette",
+    "datasette-doc": "datasette",
     "datatype99": "datatype99",
     "dateutils": "dateutils",
     "dav1d": "dav1d",

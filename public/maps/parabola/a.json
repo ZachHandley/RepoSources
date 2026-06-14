@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "a",
-    "total_mappings": 164
+    "total_mappings": 165
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -141,6 +141,7 @@
     "av1an": "av1an",
     "avahi": "avahi",
     "avfs": "avfs",
+    "avisynthplus": "avisynthplus",
     "avr-binutils": "aarch64-elf-binutils",
     "avr-gcc": "gcc@14",
     "avr-gdb": "aarch64-elf-gdb",

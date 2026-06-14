@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "t",
-    "total_mappings": 469
+    "total_mappings": 470
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -261,6 +261,7 @@
     "textproc/pict": "pict",
     "textproc/po4a": "po4a",
     "textproc/pugixml": "pugixml",
+    "textproc/pup": "pup",
     "textproc/py-autopep8": "autopep8",
     "textproc/py-csvkit": "csvkit",
     "textproc/py-gi-docgen": "gi-docgen",

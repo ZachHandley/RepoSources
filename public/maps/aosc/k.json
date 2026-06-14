@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "k",
-    "total_mappings": 15
+    "total_mappings": 16
   },
   "mappings": {
     "karchive": "karchive",
     "kdoctools": "kdoctools",
     "kernel-tools": "linux-headers@6.8",
+    "keyd": "keyd",
     "keyutils": "keyutils",
     "ki18n": "ki18n",
     "kind": "kind",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "b",
-    "total_mappings": 380
+    "total_mappings": 376
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -71,8 +71,6 @@
     "baresip-directfb-debuginfo": "baresip",
     "baresip-g722": "baresip",
     "baresip-g722-debuginfo": "baresip",
-    "baresip-g726": "baresip",
-    "baresip-g726-debuginfo": "baresip",
     "baresip-gst": "baresip",
     "baresip-gst-debuginfo": "baresip",
     "baresip-gtk": "baresip",
@@ -218,8 +216,6 @@
     "bitlbee-devel": "bitlbee",
     "bitlbee-otr": "bitlbee",
     "bitlbee-otr-debuginfo": "bitlbee",
-    "bk": "bk",
-    "bk-debuginfo": "bk",
     "blahtexml": "blahtexml",
     "blahtexml-debuginfo": "blahtexml",
     "blas-man": "lapack",

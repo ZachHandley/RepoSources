@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "h",
-    "total_mappings": 211
+    "total_mappings": 212
   },
   "mappings": {
     "h2": "h2",
@@ -137,6 +137,7 @@
     "helm-ls": "helm-ls",
     "helmfile": "helmfile",
     "helmfile-wrapped": "helmfile",
+    "helmify": "helmify",
     "helmsman": "helmsman",
     "help2man": "help2man",
     "hercules": "hercules",

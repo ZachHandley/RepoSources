@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "f",
-    "total_mappings": 118
+    "total_mappings": 117
   },
   "mappings": {
     "FAudio": "faudio",
@@ -100,7 +100,6 @@
     "fftw3-debuginfo": "fftw",
     "fftw3-debugsource": "fftw",
     "fftw3-devel": "fftw",
-    "fftw3-mpi-devel": "fftw",
     "fftw3-openmp-devel": "fftw",
     "fftw3-threads-devel": "fftw",
     "flac": "flac",

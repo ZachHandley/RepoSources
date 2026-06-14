@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "d",
-    "total_mappings": 268
+    "total_mappings": 267
   },
   "mappings": {
     "daemon": "daemon",
@@ -40,8 +40,6 @@
     "davix-dev": "davix",
     "davix-doc": "davix",
     "davix-tests": "davix",
-    "davmail": "davmail",
-    "davmail-server": "davmail",
     "db": "berkeley-db@5",
     "db4.7": "berkeley-db@5",
     "db4.7-util": "berkeley-db@5",
@@ -245,6 +243,7 @@
     "dtdinst": "jing-trang",
     "dtrx": "dtrx",
     "du-dust": "dust",
+    "dua-cli": "dua-cli",
     "dub": "dub",
     "duc": "duc",
     "duc-nox": "duc",

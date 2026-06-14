@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "m",
-    "total_mappings": 1041
+    "total_mappings": 1045
   },
   "mappings": {
     "m4-git": "m4",
@@ -210,6 +210,7 @@
     "mimic-git": "mimic",
     "mimic1": "mimic",
     "mimirtool-bin": "mimirtool",
+    "mimo-code-bin": "mimo-code",
     "mingw-w64-abseil-cpp": "abseil",
     "mingw-w64-adwaita-icon-theme": "adwaita-icon-theme",
     "mingw-w64-allegro-static-bin": "allegro",
@@ -220,6 +221,7 @@
     "mingw-w64-aspell": "aspell",
     "mingw-w64-assimp": "assimp@5",
     "mingw-w64-async++-git": "asyncplusplus",
+    "mingw-w64-avisynthplus": "avisynthplus",
     "mingw-w64-blas": "lapack",
     "mingw-w64-blosc": "c-blosc",
     "mingw-w64-boost": "boost@1.85",
@@ -486,6 +488,7 @@
     "mingw-w64-mesa": "mesa",
     "mingw-w64-mesa-git": "mesa",
     "mingw-w64-metis": "metis",
+    "mingw-w64-miniz": "miniz",
     "mingw-w64-minizip": "minizip",
     "mingw-w64-minizip-ng": "minizip-ng",
     "mingw-w64-mlpack": "mlpack",
@@ -964,6 +967,7 @@
     "mpv-light-pulse": "mpv",
     "mpv-tools": "mpv",
     "mpy-cross": "micropython",
+    "mq-bin": "mq",
     "mqttui-git": "mqttui",
     "mrbayes": "mrbayes",
     "mrbayes-beagle": "mrbayes",

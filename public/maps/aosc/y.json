@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "y",
-    "total_mappings": 18
+    "total_mappings": 17
   },
   "mappings": {
     "yajl": "yajl",
     "yaml": "libyaml",
     "yaml-cpp": "yaml-cpp",
-    "yaml-cpp-0.7": "yaml-cpp",
     "yara": "yara",
     "yarn": "yarn",
     "yasm": "yasm",

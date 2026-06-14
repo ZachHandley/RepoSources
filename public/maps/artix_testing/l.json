@@ -1,30 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "l",
-    "total_mappings": 19
+    "total_mappings": 9
   },
   "mappings": {
-    "lib32-clang": "llvm@21",
-    "lib32-harfbuzz": "harfbuzz",
-    "lib32-harfbuzz-cairo": "harfbuzz",
-    "lib32-harfbuzz-icu": "harfbuzz",
-    "lib32-llvm": "llvm@21",
-    "lib32-llvm-libs": "llvm@21",
-    "lib32-rust-libs": "rust",
+    "libaec": "libaec",
     "libclc": "libclc",
-    "linux": "linux-headers@6.8",
+    "librdkafka": "librdkafka",
+    "lilv": "lilv",
+    "lilv-docs": "lilv",
+    "lilv-tools": "lilv",
     "linux-api-headers": "linux-headers@6.8",
-    "linux-docs": "linux-headers@6.8",
-    "linux-headers": "linux-headers@6.8",
-    "linux-lts515": "linux-headers@6.8",
-    "linux-lts515-docs": "linux-headers@6.8",
-    "linux-lts515-headers": "linux-headers@6.8",
     "lld": "lld@21",
-    "lldb": "llvm@21",
-    "llvm": "llvm@21",
-    "llvm-libs": "llvm@21"
+    "lldb": "llvm@21"
   }
 }

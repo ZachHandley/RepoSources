@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "d",
-    "total_mappings": 284
+    "total_mappings": 285
   },
   "mappings": {
     "Dafny": "dafny",
@@ -203,6 +203,7 @@
     "doggo": "doggo",
     "doitlive": "doitlive",
     "dolt": "dolt",
+    "domain-check": "domain-check",
     "dooit": "dooit",
     "dopewars": "dopewars",
     "doppler": "doppler",

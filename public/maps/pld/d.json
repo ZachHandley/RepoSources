@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "d",
-    "total_mappings": 93
+    "total_mappings": 94
   },
   "mappings": {
     "DevIL": "devil",
@@ -61,6 +61,7 @@
     "djbdns": "djbdns",
     "djview4": "djview4",
     "djvulibre": "djvulibre",
+    "dmalloc": "dmalloc",
     "dmd": "dmd",
     "dmenu": "dmenu",
     "dmg2img": "dmg2img",

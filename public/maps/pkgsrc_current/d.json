@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "d",
-    "total_mappings": 821
+    "total_mappings": 823
   },
   "mappings": {
     "dMagnetic": "dmagnetic",
@@ -25,6 +25,7 @@
     "databases/apache-cassandra2": "cassandra",
     "databases/apache-solr": "solr@8.11",
     "databases/cdb": "cdb",
+    "databases/clickhouse-cpp": "clickhouse-cpp",
     "databases/clisp-bdb": "clisp",
     "databases/clisp-gdbm": "clisp",
     "databases/clisp-pgsql": "clisp",
@@ -254,6 +255,7 @@
     "devel/cargo-bloat": "cargo-bloat",
     "devel/cargo-c": "cargo-c",
     "devel/cargo-edit": "cargo-edit",
+    "devel/cargo-flamegraph": "cargo-flamegraph",
     "devel/cargo-nextest": "cargo-nextest",
     "devel/cargo-outdated": "cargo-outdated",
     "devel/cargo-release": "cargo-release",

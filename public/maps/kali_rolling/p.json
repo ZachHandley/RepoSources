@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "p",
-    "total_mappings": 848
+    "total_mappings": 849
   },
   "mappings": {
     "p0f": "p0f",
@@ -440,6 +440,7 @@
     "pulseaudio-module-raop": "pulseaudio",
     "pulseaudio-module-zeroconf": "pulseaudio",
     "pulseaudio-utils": "pulseaudio",
+    "pup": "pup",
     "pupnp": "libupnp",
     "pure-ftpd": "pure-ftpd",
     "pure-ftpd-common": "pure-ftpd",

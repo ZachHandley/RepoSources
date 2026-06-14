@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "b",
-    "total_mappings": 44
+    "total_mappings": 45
   },
   "mappings": {
     "b2": "b2-tools",
@@ -43,6 +43,7 @@
     "broot": "broot",
     "brotli": "brotli",
     "btop": "btop",
+    "bttf": "bttf",
     "buf": "buf",
     "buildkit": "buildkit",
     "bun": "bun",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "a",
-    "total_mappings": 708
+    "total_mappings": 709
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -419,6 +419,7 @@
     "app-misc/jo": "jo",
     "app-misc/jq": "jq",
     "app-misc/kanata": "kanata",
+    "app-misc/keyd": "keyd",
     "app-misc/khal": "khal",
     "app-misc/khard": "khard",
     "app-misc/klavaro": "klavaro",

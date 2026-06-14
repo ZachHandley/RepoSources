@@ -1,21 +1,22 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "x",
-    "total_mappings": 21
+    "total_mappings": 28
   },
   "mappings": {
     "xh": "xh",
-    "xjed": "jed",
     "xkb-data": "xkeyboard-config",
     "xkb-data-udeb": "xkeyboard-config",
     "xkeyboard-config": "xkeyboard-config",
     "xmaxima": "maxima",
+    "xnest": "xorg-server",
     "xonsh": "xonsh",
     "xonsh-doc": "xonsh",
-    "xpmutils": "libxpm",
+    "xorg-server": "xorg-server",
+    "xorg-server-source": "xorg-server",
     "xrootd": "xrootd",
     "xrootd-ceph-plugins": "xrootd",
     "xrootd-client": "xrootd",
@@ -26,7 +27,13 @@
     "xrootd-server": "xrootd",
     "xrootd-server-plugins": "xrootd",
     "xrootd-voms-plugins": "xrootd",
+    "xserver-common": "xorg-server",
+    "xserver-xephyr": "xorg-server",
+    "xserver-xorg-core": "xorg-server",
+    "xserver-xorg-core-udeb": "xorg-server",
+    "xserver-xorg-dev": "xorg-server",
+    "xserver-xorg-legacy": "xorg-server",
     "xterm": "xterm",
-    "xxd": "vim"
+    "xvfb": "xorg-server"
   }
 }

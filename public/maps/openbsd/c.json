@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "c",
-    "total_mappings": 209
+    "total_mappings": 208
   },
   "mappings": {
     "CGNS": "cgns",
@@ -51,7 +51,6 @@
     "cdrtools": "cdrtools",
     "cereal": "cereal",
     "certbot": "certbot",
-    "cfengine": "cfengine",
     "cfitsio": "cfitsio",
     "cflow": "cflow",
     "cfssl": "cfssl",

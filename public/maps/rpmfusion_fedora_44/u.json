@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-14T06:07:42Z",
+    "source": "repology-dump",
+    "distro": "rpmfusion_fedora_44",
+    "shard": "u",
+    "total_mappings": 3
+  },
+  "mappings": {
+    "uade": "uade",
+    "uade-devel": "uade",
+    "uade-mod2ogg": "uade"
+  }
+}

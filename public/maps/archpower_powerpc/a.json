@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "a",
-    "total_mappings": 80
+    "total_mappings": 81
   },
   "mappings": {
     "a52dec": "a52dec",
@@ -67,6 +67,7 @@
     "automake-1.16": "automake",
     "autopep8": "autopep8",
     "avahi": "avahi",
+    "avisynthplus": "avisynthplus",
     "aws-c-auth": "aws-c-auth",
     "aws-c-cal": "aws-c-cal",
     "aws-c-common": "aws-c-common",

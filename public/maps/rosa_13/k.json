@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "k",
-    "total_mappings": 72
+    "total_mappings": 75
   },
   "mappings": {
     "kalker": "kalker",
@@ -27,6 +27,9 @@
     "kernel-release-server-devel": "linux-headers@6.8",
     "kernel-release-source": "linux-headers@6.8",
     "keychain": "keychain",
+    "keyd": "keyd",
+    "keyd-debuginfo": "keyd",
+    "keyd-debugsource": "keyd",
     "keyutils": "keyutils",
     "kf6-karchive": "karchive",
     "kf6-karchive-debuginfo": "karchive",

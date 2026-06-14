@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "q",
-    "total_mappings": 287
+    "total_mappings": 288
   },
   "mappings": {
     "qalculate": "libqalculate",
@@ -41,6 +41,7 @@
     "qhull-debuginfo": "qhull",
     "qhull-debugsource": "qhull",
     "qhull-devel": "qhull",
+    "qphotorec": "testdisk",
     "qpid-proton": "qpid-proton",
     "qpid-proton-c": "qpid-proton",
     "qpid-proton-c-devel": "qpid-proton",

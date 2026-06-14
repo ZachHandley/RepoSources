@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T04:06:39Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "q",
     "total_mappings": 2
   },
   "mappings": {
-    "qt6-declarative": "qt@5",
-    "qt6-declarative-debug": "qt@5"
+    "qt6-base": "qt@5",
+    "qt6-base-debug": "qt@5"
   }
 }

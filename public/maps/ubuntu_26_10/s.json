@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "s",
-    "total_mappings": 482
+    "total_mappings": 480
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -174,7 +174,6 @@
     "skktools": "skktools",
     "skopeo": "skopeo",
     "sl": "sl",
-    "slang2": "s-lang",
     "slapd": "openldap",
     "slapd-contrib": "openldap",
     "slapi-dev": "openldap",
@@ -194,7 +193,6 @@
     "slowhttptest": "slowhttptest",
     "slrn": "slrn",
     "slrnpull": "slrn",
-    "slsh": "s-lang",
     "slurm": "slurm",
     "smartdns": "smartdns",
     "smartmontools": "smartmontools",

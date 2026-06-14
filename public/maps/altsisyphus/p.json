@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "p",
-    "total_mappings": 1106
+    "total_mappings": 1107
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -309,7 +309,6 @@
     "pkgconf-debuginfo": "pkgconf",
     "pkgdiff": "pkgdiff",
     "plantuml": "plantuml",
-    "plantuml-javadoc": "plantuml",
     "plotutils": "plotutils",
     "plotutils-debuginfo": "plotutils",
     "plow": "plow",
@@ -688,6 +687,8 @@
     "pulseaudio-system": "pulseaudio",
     "pulseaudio-utils": "pulseaudio",
     "pulseaudio-utils-debuginfo": "pulseaudio",
+    "pup": "pup",
+    "pup-debuginfo": "pup",
     "putty": "putty",
     "putty-debuginfo": "putty",
     "pv": "pv",

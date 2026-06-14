@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "msys2_clangarm64",
     "shard": "m",
-    "total_mappings": 2955
+    "total_mappings": 2956
   },
   "mappings": {
     "mingw-w64-64tass": "tass64",
@@ -1252,6 +1252,7 @@
     "mingw-w64-clang-aarch64-python-qscintilla-qt5": "qscintilla2",
     "mingw-w64-clang-aarch64-python-qscintilla-qt6": "qscintilla2",
     "mingw-w64-clang-aarch64-python-ruff": "ruff",
+    "mingw-w64-clang-aarch64-python-s2geometry": "s2geometry",
     "mingw-w64-clang-aarch64-python-scikit-image": "scikit-image",
     "mingw-w64-clang-aarch64-python-scipy": "scipy",
     "mingw-w64-clang-aarch64-python-setuptools": "python-setuptools",

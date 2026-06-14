@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-14T06:07:42Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "l",
-    "total_mappings": 6935
+    "total_mappings": 6932
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -346,6 +346,7 @@
     "libapache2-mod-php8.5": "php@8.4",
     "libapache2-mod-shib": "shibboleth-sp",
     "libapache2-mod-svn": "subversion",
+    "libapl-dev": "gnu-apl",
     "libapophenia2-dev": "apophenia",
     "libapophenia2t64": "apophenia",
     "libappstream-compose-dev": "appstream",
@@ -5287,11 +5288,6 @@
     "libsixel1": "libsixel",
     "libskarnet2.15": "skalibs",
     "libsl0t64-heimdal": "heimdal",
-    "libslang2": "s-lang",
-    "libslang2-dev": "s-lang",
-    "libslang2-modules": "s-lang",
-    "libslang2-pic": "s-lang",
-    "libslang2-udeb": "s-lang",
     "libsleef-dev": "sleef",
     "libsleef3": "sleef",
     "libslepc-complex-dev": "slepc",
@@ -6550,6 +6546,7 @@
     "libxres": "libxres",
     "libxres-dev": "libxres",
     "libxres1": "libxres",
+    "libxres1-udeb": "libxres",
     "libxrootd-client-dev": "xrootd",
     "libxrootd-dev": "xrootd",
     "libxrootd-private-dev": "xrootd",
