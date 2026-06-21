@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "q",
-    "total_mappings": 566
+    "total_mappings": 560
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -95,7 +95,6 @@
     "qml-module-qtquick-layouts": "qt@5",
     "qml-module-qtquick-localstorage": "qt@5",
     "qml-module-qtquick-particles2": "qt@5",
-    "qml-module-qtquick-pdf": "qt@5",
     "qml-module-qtquick-privatewidgets": "qt@5",
     "qml-module-qtquick-scene2d": "qt@5",
     "qml-module-qtquick-scene3d": "qt@5",
@@ -211,7 +210,6 @@
     "qt3d5-examples": "qt@5",
     "qt5-assistant": "qt@5",
     "qt5-gtk-platformtheme": "qt@5",
-    "qt5-image-formats-plugin-pdf": "qt@5",
     "qt5-image-formats-plugins": "qt@5",
     "qt5-qmake": "qt@5",
     "qt5-qmake-bin": "qt@5",
@@ -479,10 +477,6 @@
     "qtnetworkauth5-examples": "qt@5",
     "qtpaths6": "qt@5",
     "qtpaths6-bin": "qt@5",
-    "qtpdf5-dev": "qt@5",
-    "qtpdf5-doc": "qt@5",
-    "qtpdf5-doc-html": "qt@5",
-    "qtpdf5-examples": "qt@5",
     "qtpositioning5-dev": "qt@5",
     "qtquickcontrols-opensource-src": "qt@5",
     "qtquickcontrols2-5-dev": "qt@5",

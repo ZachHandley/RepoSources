@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "c",
-    "total_mappings": 679
+    "total_mappings": 680
   },
   "mappings": {
     "CFR": "cfr-decompiler",
@@ -589,14 +589,14 @@
     "cpio-static": "cpio",
     "cpio-static-debuginfo": "cpio",
     "cpp-httplib": "cpp-httplib",
-    "cpp10": "gcc@14",
-    "cpp10-debuginfo": "gcc@14",
-    "cpp11": "gcc@14",
-    "cpp11-debuginfo": "gcc@14",
-    "cpp12": "gcc@14",
-    "cpp12-debuginfo": "gcc@14",
-    "cpp13": "gcc@14",
-    "cpp13-debuginfo": "gcc@14",
+    "cpp10": "gcc@15",
+    "cpp10-debuginfo": "gcc@15",
+    "cpp11": "gcc@15",
+    "cpp11-debuginfo": "gcc@15",
+    "cpp12": "gcc@15",
+    "cpp12-debuginfo": "gcc@15",
+    "cpp13": "gcc@15",
+    "cpp13-debuginfo": "gcc@15",
     "cppcheck": "cppcheck",
     "cppcheck-debuginfo": "cppcheck",
     "cppcheck-gui": "cppcheck",
@@ -681,6 +681,7 @@
     "cvt-debuginfo": "libxcvt",
     "cxxopts": "cxxopts",
     "cxxopts-devel": "cxxopts",
+    "cyclonedx-cli": "cyclonedx-cli",
     "cyclonedx-gomod": "cyclonedx-gomod",
     "cyrus-sasl2": "cyrus-sasl",
     "cyrus-sasl2-debuginfo": "cyrus-sasl",

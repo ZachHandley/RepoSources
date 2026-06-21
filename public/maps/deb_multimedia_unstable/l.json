@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "deb_multimedia_unstable",
     "shard": "l",
-    "total_mappings": 278
+    "total_mappings": 280
   },
   "mappings": {
     "lame": "lame",
@@ -151,6 +151,7 @@
     "liblivemedia-dev": "openrtsp",
     "liblivemedia-dmo": "openrtsp",
     "liblivemedia119": "openrtsp",
+    "liblivemedia120": "openrtsp",
     "libmac-dev": "mac",
     "libmac15": "mac",
     "libmad-dmo": "mad",
@@ -254,6 +255,7 @@
     "libupnp-dev": "libupnp",
     "libupnp-doc": "libupnp",
     "libupnp20": "libupnp",
+    "libupnp22": "libupnp",
     "libusageenvironment3": "openrtsp",
     "libvamp-hostsdk3t64": "vamp-plugin-sdk",
     "libvamp-sdk2t64": "vamp-plugin-sdk",

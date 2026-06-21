@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "e",
-    "total_mappings": 166
+    "total_mappings": 167
   },
   "mappings": {
     "ETL": "etl",
@@ -58,6 +58,7 @@
     "editors/nedit": "nedit",
     "editors/neovim": "neovim",
     "editors/nvi": "nvi",
+    "editors/nvi2": "nvi2",
     "editors/poke": "poke",
     "editors/tweak": "tweak",
     "editors/vile": "vile",

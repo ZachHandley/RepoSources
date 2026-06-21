@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "a",
@@ -37,7 +37,7 @@
     "aria2": "aria2",
     "aribb24": "aribb24",
     "arm-none-eabi-binutils-cs": "aarch64-elf-binutils",
-    "arm-none-eabi-gcc-cs": "gcc@14",
+    "arm-none-eabi-gcc-cs": "gcc@15",
     "armadillo": "armadillo",
     "arp-scan": "arp-scan",
     "arpack": "arpack",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "s",
-    "total_mappings": 477
+    "total_mappings": 475
   },
   "mappings": {
     "SDL_gfx": "sdl_gfx",
@@ -76,9 +76,6 @@
     "sdl12-compat": "sdl12-compat",
     "sdl12-compat-debuginfo": "sdl12-compat",
     "sdl12-compat-debugsource": "sdl12-compat",
-    "sdl2": "sdl2",
-    "sdl2-debuginfo": "sdl2",
-    "sdl2-debugsource": "sdl2",
     "sdl2_gfx": "sdl2_gfx",
     "sdl2_gfx-debuginfo": "sdl2_gfx",
     "sdl2_gfx-debugsource": "sdl2_gfx",
@@ -297,6 +294,7 @@
     "sqlite3": "sqlite",
     "sqlite3-debuginfo": "sqlite",
     "sqlite3-debugsource": "sqlite",
+    "sqlite3-icu": "sqlite",
     "sqlite3-tcl": "sqlite",
     "sqlite3-tools": "sqlite",
     "sqlitecpp": "sqlitecpp",

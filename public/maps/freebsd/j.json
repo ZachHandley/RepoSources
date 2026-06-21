@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "j",
-    "total_mappings": 108
+    "total_mappings": 107
   },
   "mappings": {
     "Jellyfish": "jellyfish",
@@ -56,7 +56,6 @@
     "java/openjdk11": "openjdk@25",
     "java/openjdk17": "openjdk@25",
     "java/openjdk21": "openjdk@25",
-    "java/openjdk24": "openjdk@25",
     "java/openjdk25": "openjdk@25",
     "java/openjdk26": "openjdk@25",
     "java/openjdk8": "openjdk@25",

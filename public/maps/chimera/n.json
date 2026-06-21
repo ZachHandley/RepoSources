@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "n",
-    "total_mappings": 170
+    "total_mappings": 169
   },
   "mappings": {
     "nano": "nano",
@@ -148,7 +148,6 @@
     "nspr-devel-static": "nspr",
     "nss": "nss",
     "nss-devel": "nss",
-    "nss-devel-static": "nss",
     "ntfs-3g": "ntfs-3g",
     "ntfs-3g-devel": "ntfs-3g",
     "ntfs-3g-doc": "ntfs-3g",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "d",
-    "total_mappings": 1148
+    "total_mappings": 1146
   },
   "mappings": {
     "d2": "d2",
@@ -685,9 +685,6 @@
     "devel/libraqm": "libraqm",
     "devel/libretls": "libretls",
     "devel/librime": "librime",
-    "devel/libsdl2": "sdl2",
-    "devel/libsdl2-powerpc": "sdl2",
-    "devel/libsdl2-snowleopard": "sdl2",
     "devel/libsdl2_gfx": "sdl2_gfx",
     "devel/libsdl2_image": "sdl2_image",
     "devel/libsdl2_net": "sdl2_net",
@@ -1060,6 +1057,7 @@
     "diffstat": "diffstat",
     "difftastic": "difftastic",
     "diffutils": "diffutils",
+    "dillo": "dillo",
     "dirac": "dirac",
     "direnv": "direnv",
     "direwolf": "direwolf",

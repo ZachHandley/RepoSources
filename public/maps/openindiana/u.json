@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "u",
@@ -20,7 +20,7 @@
     "utilities/bat": "bat",
     "utilities/lsd": "lsd",
     "utilities/password-store": "pass",
-    "utilities/watch": "watch",
+    "utilities/watch": "procps",
     "utility/bash-completion": "bash-completion@2",
     "utility/gammu": "gammu",
     "utility/moreutils": "moreutils",

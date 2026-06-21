@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "r",
-    "total_mappings": 46
+    "total_mappings": 47
   },
   "mappings": {
     "R-base": "r",
@@ -35,6 +35,7 @@
     "rkhunter": "rkhunter",
     "rlog": "rlog",
     "rlwrap": "rlwrap",
+    "robin-map": "robin-map",
     "rofi": "rofi",
     "rpcsvc-proto": "rpcsvc-proto",
     "rpm": "rpm",

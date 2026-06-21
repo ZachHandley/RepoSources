@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "m",
@@ -237,7 +237,6 @@
     "media-libs/libraw": "libraw",
     "media-libs/libreplaygain": "libreplaygain",
     "media-libs/libsamplerate": "libsamplerate",
-    "media-libs/libsdl2": "sdl2",
     "media-libs/libsdl3": "sdl3",
     "media-libs/libsfml": "sfml@2",
     "media-libs/libshout": "libshout",
@@ -353,6 +352,7 @@
     "media-sound/abcm2ps": "abcm2ps",
     "media-sound/abcmidi": "abcmidi",
     "media-sound/audacious": "audacious",
+    "media-sound/beets": "beets",
     "media-sound/carla": "carla",
     "media-sound/cava": "cava",
     "media-sound/cd-discid": "cd-discid",

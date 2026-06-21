@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kde_neon_unstable",
     "shard": "l",
-    "total_mappings": 455
+    "total_mappings": 450
   },
   "mappings": {
     "lager": "lager",
@@ -410,11 +410,6 @@
     "librime-plugin-lua": "librime",
     "librime-plugin-octagram": "librime",
     "librime1": "librime",
-    "libsdl2": "sdl2",
-    "libsdl2-2.0-0": "sdl2",
-    "libsdl2-dev": "sdl2",
-    "libsdl2-doc": "sdl2",
-    "libsdl2-tests": "sdl2",
     "libsvtav1-dev": "svt-av1",
     "libsvtav1dec-dev": "svt-av1",
     "libsvtav1dec0": "svt-av1",

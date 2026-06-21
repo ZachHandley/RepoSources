@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "s",
@@ -29,7 +29,6 @@
     "scummvm": "scummvm",
     "sd": "sd",
     "sdcc": "sdcc",
-    "sdl2": "sdl2",
     "sdl2-image": "sdl2_image",
     "sdl2-mixer": "sdl2_mixer",
     "sdl2-ttf": "sdl2_ttf",
@@ -48,6 +47,7 @@
     "silicon": "silicon",
     "simutrans": "simutrans",
     "sing-box": "sing-box",
+    "siril": "siril",
     "skaffold": "skaffold",
     "skim": "sk",
     "sleek": "sleek",

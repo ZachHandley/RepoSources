@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "u",
-    "total_mappings": 24
+    "total_mappings": 25
   },
   "mappings": {
     "ucommon": "ucommon",
@@ -21,6 +21,7 @@
     "uniutils": "uniutils",
     "unpaper": "unpaper",
     "unshield": "unshield",
+    "unuran": "unuran",
     "unyaffs": "unyaffs",
     "uptimed": "uptimed",
     "urdfdom": "urdfdom",

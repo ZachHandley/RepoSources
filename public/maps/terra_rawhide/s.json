@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "s",
-    "total_mappings": 29
+    "total_mappings": 27
   },
   "mappings": {
     "ShivaVG": "shivavg",
@@ -13,8 +13,6 @@
     "ShivaVG-devel-debuginfo": "shivavg",
     "ShivaVG-static": "shivavg",
     "sass": "dart-sass",
-    "sccache": "sccache",
-    "sccache-debuginfo": "sccache",
     "scrcpy": "scrcpy",
     "scrcpy-bash-completion": "scrcpy",
     "scrcpy-debuginfo": "scrcpy",

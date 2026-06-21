@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "u",
-    "total_mappings": 22
+    "total_mappings": 23
   },
   "mappings": {
     "uchardet": "uchardet",
@@ -19,6 +19,7 @@
     "unittest-cpp": "unittest-cpp",
     "universal-ctags": "universal-ctags",
     "unixodbc": "unixodbc",
+    "unuran": "unuran",
     "unzip": "unzip",
     "uriparser": "uriparser",
     "usbutils": "usbutils",

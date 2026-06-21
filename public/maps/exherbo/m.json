@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "m",
-    "total_mappings": 273
+    "total_mappings": 274
   },
   "mappings": {
     "machine-learning/ollama": "ollama",
@@ -265,6 +265,7 @@
     "media-video/mkvtoolnix": "mkvtoolnix",
     "media-video/rav1e": "rav1e",
     "media-video/rtmpdump": "rtmpdump",
+    "media/beets": "beets",
     "media/dvdauthor": "dvdauthor",
     "media/dvdbackup": "dvdbackup",
     "media/ffmpeg": "ffmpeg@7",

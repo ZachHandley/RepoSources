@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "p",
-    "total_mappings": 1640
+    "total_mappings": 1641
   },
   "mappings": {
     "PDAL": "pdal",
@@ -510,7 +510,7 @@
     "poppler-qt5": "poppler-qt5",
     "poppler-qt5-debuginfo": "poppler",
     "poppler-qt5-debugsource": "poppler",
-    "poppler-qt6": "poppler",
+    "poppler-qt6": "poppler-qt6",
     "poppler-qt6-debuginfo": "poppler",
     "poppler-qt6-debugsource": "poppler",
     "poppler-tools": "poppler",
@@ -1059,6 +1059,7 @@
     "python3-lldb": "llvm@21",
     "python3-lldb15": "llvm@21",
     "python3-lldb18": "llvm@21",
+    "python3-lldb19": "llvm@21",
     "python3-lldb20": "llvm@21",
     "python3-lldb21": "llvm@21",
     "python3-lldb22": "llvm@21",

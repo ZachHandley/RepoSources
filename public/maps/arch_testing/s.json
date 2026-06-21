@@ -1,21 +1,23 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "s",
-    "total_mappings": 10
+    "total_mappings": 12
   },
   "mappings": {
-    "syslog-ng": "syslog-ng",
-    "syslog-ng-amqp": "syslog-ng",
-    "syslog-ng-geoip2": "syslog-ng",
-    "syslog-ng-kafka": "syslog-ng",
-    "syslog-ng-mongodb": "syslog-ng",
-    "syslog-ng-python": "syslog-ng",
-    "syslog-ng-redis": "syslog-ng",
-    "syslog-ng-smtp": "syslog-ng",
-    "syslog-ng-snmp": "syslog-ng",
-    "syslog-ng-sql": "syslog-ng"
+    "sbt": "sbt",
+    "sendme": "sendme",
+    "sentry-native": "sentry-native",
+    "shaderc": "shaderc",
+    "spirv-headers": "spirv-headers",
+    "spirv-tools": "spirv-tools",
+    "systemd": "systemd",
+    "systemd-libs": "systemd",
+    "systemd-resolvconf": "systemd",
+    "systemd-sysvcompat": "systemd",
+    "systemd-tests": "systemd",
+    "systemd-ukify": "systemd"
   }
 }

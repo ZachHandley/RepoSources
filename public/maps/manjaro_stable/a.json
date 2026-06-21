@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "a",
@@ -11,7 +11,7 @@
     "a52dec": "a52dec",
     "aalib": "aalib",
     "aarch64-linux-gnu-binutils": "aarch64-elf-binutils",
-    "aarch64-linux-gnu-gcc": "gcc@14",
+    "aarch64-linux-gnu-gcc": "gcc@15",
     "aarch64-linux-gnu-gdb": "aarch64-elf-gdb",
     "abcmidi": "abcmidi",
     "abduco": "abduco",
@@ -135,7 +135,7 @@
     "avfs": "avfs",
     "avisynthplus": "avisynthplus",
     "avr-binutils": "aarch64-elf-binutils",
-    "avr-gcc": "gcc@14",
+    "avr-gcc": "gcc@15",
     "avr-gdb": "aarch64-elf-gdb",
     "avrdude": "avrdude",
     "aws-c-auth": "aws-c-auth",

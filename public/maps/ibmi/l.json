@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ibmi",
     "shard": "l",
@@ -41,7 +41,7 @@
     "libcurl4": "curl",
     "libevent": "libevent",
     "libffi": "libffi",
-    "libgcc": "gcc@14",
+    "libgcc": "gcc@15",
     "libgcrypt": "libgcrypt",
     "libgcrypt-devel": "libgcrypt",
     "libgcrypt20": "libgcrypt",
@@ -77,7 +77,7 @@
     "libsodium": "libsodium",
     "libsqlite3-0": "sqlite",
     "libssh2": "libssh2",
-    "libstdcplusplus": "gcc@14",
+    "libstdcplusplus": "gcc@15",
     "libtasn1": "libtasn1",
     "libtasn1-6": "libtasn1",
     "libtasn1-devel": "libtasn1",

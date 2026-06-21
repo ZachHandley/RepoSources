@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "i",
-    "total_mappings": 141
+    "total_mappings": 144
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
     "i2p": "i2p",
     "i2pd": "i2pd",
+    "iSponsorBlockTV": "isponsorblocktv",
     "iam-policy-json-to-terraform": "iam-policy-json-to-terraform",
     "iamb": "iamb",
     "iamy": "iamy",
@@ -116,6 +117,7 @@
     "iodine": "iodine",
     "ioping": "ioping",
     "ios-webkit-debug-proxy": "ios-webkit-debug-proxy",
+    "ip2location": "ip2location",
     "ipatool": "ipatool",
     "ipbt": "ipbt",
     "iperf": "iperf3",
@@ -143,6 +145,7 @@
     "isort": "isort",
     "ispc": "ispc",
     "ispell": "ispell",
+    "isponsorblocktv": "isponsorblocktv",
     "istioctl": "istioctl",
     "isync": "isync",
     "itk": "itk",

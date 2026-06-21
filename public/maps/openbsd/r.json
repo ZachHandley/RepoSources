@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "r",
@@ -77,10 +77,10 @@
     "ruby": "ruby",
     "ruby33-ri_docs": "ruby@3.4",
     "ruby34-ri_docs": "ruby@3.4",
-    "ruby34-ronn": "ronn",
-    "ruby34-rrd": "rrdtool",
-    "ruby34-subversion": "subversion",
     "ruby40-ri_docs": "ruby@3.4",
+    "ruby40-ronn": "ronn",
+    "ruby40-rrd": "rrdtool",
+    "ruby40-subversion": "subversion",
     "ruff": "ruff",
     "runit": "runit",
     "rust": "rust",

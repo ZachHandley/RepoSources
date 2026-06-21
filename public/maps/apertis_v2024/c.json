@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "apertis_v2024",
     "shard": "c",
@@ -123,8 +123,8 @@
     "containernetworking-plugins": "cni-plugins",
     "coreutils": "coreutils",
     "cpio": "cpio",
-    "cpp-11": "gcc@14",
-    "cpp-12": "gcc@14",
+    "cpp-11": "gcc@15",
+    "cpp-12": "gcc@15",
     "cpp-httplib": "cpp-httplib",
     "cppcheck": "cppcheck",
     "cppcheck-gui": "cppcheck",

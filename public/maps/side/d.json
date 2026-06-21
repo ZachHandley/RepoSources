@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "d",
@@ -59,7 +59,7 @@
     "development/toolchain/flex": "flex",
     "development/toolchain/fmtlib": "fmt",
     "development/toolchain/fontforge": "fontforge",
-    "development/toolchain/gcc": "gcc@14",
+    "development/toolchain/gcc": "gcc@15",
     "development/toolchain/gdb": "aarch64-elf-gdb",
     "development/toolchain/git": "git",
     "development/toolchain/glpk": "glpk",

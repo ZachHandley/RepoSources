@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "r",
@@ -42,7 +42,7 @@
     "ripgrep": "ripgrep",
     "ripgrep-all": "ripgrep-all",
     "riscv64-linux-gnu-binutils": "aarch64-elf-binutils",
-    "riscv64-linux-gnu-gcc": "gcc@14",
+    "riscv64-linux-gnu-gcc": "gcc@15",
     "riscv64-linux-gnu-gdb": "aarch64-elf-gdb",
     "rkhunter": "rkhunter",
     "rlwrap": "rlwrap",

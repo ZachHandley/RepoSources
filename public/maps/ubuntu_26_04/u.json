@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "u",
-    "total_mappings": 123
+    "total_mappings": 124
   },
   "mappings": {
     "u-boot": "u-boot-tools",
@@ -82,6 +82,7 @@
     "unpaper": "unpaper",
     "unrtf": "unrtf",
     "unshield": "unshield",
+    "unuran": "unuran",
     "unyaffs": "unyaffs",
     "unzip": "unzip",
     "uptimed": "uptimed",

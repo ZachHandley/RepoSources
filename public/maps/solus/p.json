@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "p",
-    "total_mappings": 294
+    "total_mappings": 295
   },
   "mappings": {
     "pam": "linux-pam",
@@ -166,8 +166,8 @@
     "poppler-devel": "poppler",
     "poppler-qt5": "poppler-qt5",
     "poppler-qt5-devel": "poppler-qt5",
-    "poppler-qt6": "poppler",
-    "poppler-qt6-devel": "poppler",
+    "poppler-qt6": "poppler-qt6",
+    "poppler-qt6-devel": "poppler-qt6",
     "poppler-utils": "poppler",
     "popt": "popt",
     "popt-dbginfo": "popt",
@@ -276,6 +276,7 @@
     "python-pivy": "pivy",
     "python-pivy-dbginfo": "pivy",
     "python-poetry": "poetry",
+    "python-protobuf": "protobuf@33",
     "python-pytest": "pytest",
     "python-qscintilla-qt5": "qscintilla2",
     "python-qscintilla-qt6": "qscintilla2",

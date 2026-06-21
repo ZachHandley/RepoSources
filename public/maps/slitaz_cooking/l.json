@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "l",
-    "total_mappings": 770
+    "total_mappings": 768
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -82,7 +82,7 @@
     "libass-dev": "libass",
     "libassuan": "libassuan@2",
     "libassuan-dev": "libassuan@2",
-    "libatomic": "gcc@14",
+    "libatomic": "gcc@15",
     "libavif": "libavif",
     "libavif-dev": "libavif",
     "libbfd": "aarch64-elf-binutils",
@@ -217,7 +217,7 @@
     "libgdiplus-dev": "mono-libgdiplus",
     "libgee": "libgee",
     "libgee-dev": "libgee",
-    "libgfortran": "gcc@14",
+    "libgfortran": "gcc@15",
     "libgio": "glib",
     "libgio-dev": "glib",
     "libgiomm": "glibmm@2.66",
@@ -229,7 +229,7 @@
     "libgnt": "libgnt",
     "libgnt-dev": "libgnt",
     "libgnutls": "gnutls",
-    "libgomp": "gcc@14",
+    "libgomp": "gcc@15",
     "libgpg-error": "libgpg-error",
     "libgpg-error-dev": "libgpg-error",
     "libgpg-error-lang": "libgpg-error",
@@ -336,7 +336,7 @@
     "libnsl-dev": "libnsl",
     "libnxml": "libnxml",
     "libnxml-dev": "libnxml",
-    "libobjc": "gcc@14",
+    "libobjc": "gcc@15",
     "libofx": "libofx",
     "libofx-dev": "libofx",
     "libogg": "libogg",
@@ -392,8 +392,6 @@
     "libsasl-without-ldap": "cyrus-sasl",
     "libsdl-gfx": "sdl_gfx",
     "libsdl-gfx-dev": "sdl_gfx",
-    "libsdl2": "sdl2",
-    "libsdl2-dev": "sdl2",
     "libsdl2-image": "sdl2_image",
     "libsdl2-image-dev": "sdl2_image",
     "libsdl2-mixer": "sdl2_mixer",

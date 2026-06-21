@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "n",
-    "total_mappings": 475
+    "total_mappings": 476
   },
   "mappings": {
     "n": "n",
@@ -477,6 +477,7 @@
     "nut": "nut",
     "nvchecker": "nvchecker",
     "nvi": "nvi",
+    "nvi2": "nvi2",
     "nvimpager": "nvimpager",
     "nvm": "nvm",
     "nvtop": "nvtop",

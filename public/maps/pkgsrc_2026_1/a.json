@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "a",
@@ -344,7 +344,7 @@
     "avahi-ui": "avahi",
     "aview": "aview",
     "avr-binutils": "aarch64-elf-binutils",
-    "avr-gcc": "gcc@14",
+    "avr-gcc": "gcc@15",
     "avr-gdb": "aarch64-elf-gdb",
     "avrdude": "avrdude",
     "ayatana-ido": "ayatana-ido"

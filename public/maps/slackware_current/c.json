@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackware_current",
     "shard": "c",
-    "total_mappings": 29
+    "total_mappings": 30
   },
   "mappings": {
     "Cython": "cython",
@@ -26,6 +26,7 @@
     "cmark": "cmark",
     "cmark-gfm": "cmark-gfm",
     "coreutils": "coreutils",
+    "corrosion": "corrosion",
     "cpio": "cpio",
     "cracklib": "cracklib",
     "cryfs": "cryfs",

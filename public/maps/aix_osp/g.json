@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aix_osp",
     "shard": "g",
@@ -11,7 +11,7 @@
     "GraphicsMagick-Q8": "graphicsmagick",
     "gawk": "gawk",
     "gc": "bdw-gc",
-    "gcc": "gcc@14",
+    "gcc": "gcc@15",
     "gd": "gd",
     "gdb": "gdb",
     "gdbm": "gdbm",

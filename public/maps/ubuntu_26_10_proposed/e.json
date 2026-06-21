@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "e",
@@ -14,6 +14,7 @@
     "elfutils": "elfutils",
     "elixir": "elixir",
     "elixir-lang": "elixir",
+    "elpa-acl2": "acl2",
     "emacs": "emacs",
     "emacs-bin-common": "emacs",
     "emacs-common": "emacs",
@@ -74,7 +75,6 @@
     "evince-common": "evince",
     "evince-gtk3": "evince",
     "exactimage": "exact-image",
-    "expat": "expat",
     "expect": "expect",
     "extract": "libextractor"
   }

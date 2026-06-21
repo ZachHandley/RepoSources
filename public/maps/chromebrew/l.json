@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "l",
@@ -210,7 +210,7 @@
     "libspng": "libspng",
     "libssh": "libssh",
     "libssh2": "libssh2",
-    "libssp": "gcc@14",
+    "libssp": "gcc@15",
     "libstemmer": "snowball",
     "libstrophe": "libstrophe",
     "libtasn1": "libtasn1",

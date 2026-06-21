@@ -1,15 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "o",
-    "total_mappings": 106
+    "total_mappings": 107
   },
   "mappings": {
     "objfw": "objfw",
+    "ocaml": "ocaml@4",
+    "ocaml-base": "ocaml@4",
     "ocaml-dune": "dune",
     "ocaml-dune-source": "dune",
+    "ocaml-interp": "ocaml@4",
+    "ocaml-man": "ocaml@4",
+    "ocaml-source": "ocaml@4",
     "ocrmypdf": "ocrmypdf",
     "ocrmypdf-doc": "ocrmypdf",
     "octave": "octave",
@@ -93,12 +98,9 @@
     "openjdk-27-testsupport": "openjdk@25",
     "openjpeg-doc": "openjpeg",
     "openjpeg2": "openjpeg",
-    "openjph": "openjph",
-    "openjph-doc": "openjph",
-    "openjph-tools": "openjph",
     "openldap": "openldap",
-    "opensc": "opensc",
-    "opensc-pkcs11": "opensc",
+    "openslide": "openslide",
+    "openslide-tools": "openslide",
     "openssh": "openssh",
     "openssh-client": "openssh",
     "openssh-client-gssapi": "openssh",
@@ -111,7 +113,6 @@
     "openssl": "openssl@3",
     "openssl-provider-legacy": "openssl@4",
     "openvdb": "openvdb",
-    "openvpn": "openvpn",
     "osm2pgsql": "osm2pgsql"
   }
 }

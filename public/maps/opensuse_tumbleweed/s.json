@@ -1,15 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "s",
-    "total_mappings": 909
+    "total_mappings": 906
   },
   "mappings": {
-    "SDL2": "sdl2",
-    "SDL2-debuginfo": "sdl2",
-    "SDL2-debugsource": "sdl2",
     "SDL2_gfx": "sdl2_gfx",
     "SDL2_gfx-debuginfo": "sdl2_gfx",
     "SDL2_gfx-debugsource": "sdl2_gfx",

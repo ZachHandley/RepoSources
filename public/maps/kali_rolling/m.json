@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "m",
-    "total_mappings": 404
+    "total_mappings": 403
   },
   "mappings": {
     "m4": "m4",
@@ -212,7 +212,6 @@
     "minimodem": "minimodem",
     "minisat": "minisat",
     "minisat2": "minisat",
-    "miniserve": "miniserve",
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minix-modules-6.19.14+kali-sh7751r-di": "linux-headers@6.8",

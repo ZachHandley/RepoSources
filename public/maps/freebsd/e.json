@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "e",
-    "total_mappings": 179
+    "total_mappings": 180
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -53,6 +53,7 @@
     "editors/nedit": "nedit",
     "editors/neovim": "neovim",
     "editors/neovim-qt": "neovim-qt",
+    "editors/nvi2": "nvi2",
     "editors/orbiton": "orbiton",
     "editors/poke": "poke",
     "editors/tweak": "tweak",

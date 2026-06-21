@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "b",
-    "total_mappings": 241
+    "total_mappings": 243
   },
   "mappings": {
     "BNFC": "bnfc",
@@ -82,6 +82,8 @@
     "bedops": "bedops",
     "bedtools": "bedtools",
     "beecrypt": "beecrypt",
+    "beets": "beets",
+    "beets-minimal": "beets",
     "bench": "bench",
     "bender": "bender",
     "benthos": "benthos",

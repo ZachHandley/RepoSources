@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "c",
-    "total_mappings": 584
+    "total_mappings": 587
   },
   "mappings": {
     "c": "c",
@@ -382,6 +382,8 @@
     "codeberg-cli-git": "codeberg-cli",
     "codeburn": "codeburn",
     "codec2-git": "codec2",
+    "codename-goose": "block-goose-cli",
+    "codename-goose-bin": "block-goose-cli",
     "codequery": "codequery",
     "coder": "coder",
     "coder-bin": "coder",
@@ -431,9 +433,10 @@
     "consul-template-bin": "consul-template",
     "container-structure-test": "container-structure-test",
     "container-use-bin": "container-use",
+    "container2wasm-bin": "container2wasm",
+    "container2wasm-git": "container2wasm",
     "containerd-git": "containerd",
     "contentful-cli": "contentful-cli",
-    "controllermap": "sdl2",
     "convco": "convco",
     "convco-bin": "convco",
     "cookcli": "cookcli",
@@ -510,7 +513,7 @@
     "croc-git": "croc",
     "cronboard": "cronboard",
     "cross-mingw-w64-gdb": "aarch64-elf-gdb",
-    "cross-mipsel-linux-gnu-gcc49": "gcc@14",
+    "cross-mipsel-linux-gnu-gcc49": "gcc@15",
     "crosstool-ng-git": "crosstool-ng",
     "crow": "crow",
     "crow-git": "crow",

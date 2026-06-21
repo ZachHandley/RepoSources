@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "q",
-    "total_mappings": 316
+    "total_mappings": 317
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -276,6 +276,7 @@
     "qt6-qtvirtualkeyboard-dev": "qt@5",
     "qt6-qtwayland": "qt@5",
     "qt6-qtwayland-dev": "qt@5",
+    "qt6-qtwayland-private-dev": "qt@5",
     "qt6-qtwebchannel": "qt@5",
     "qt6-qtwebchannel-dev": "qt@5",
     "qt6-qtwebengine": "qt@5",

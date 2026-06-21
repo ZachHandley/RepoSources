@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "k",
-    "total_mappings": 88
+    "total_mappings": 87
   },
   "mappings": {
     "kakoune": "kakoune",
@@ -79,7 +79,6 @@
     "krb5-pkinit": "krb5",
     "krb5-user": "krb5",
     "krita-gmic": "gmic",
-    "ksh": "ksh93",
     "ksh93u+m": "ksh93",
     "kstart": "kstart",
     "kubecolor": "kubecolor",

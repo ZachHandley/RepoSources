@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "j",
-    "total_mappings": 15
+    "total_mappings": 16
   },
   "mappings": {
     "jflex": "jflex",
@@ -21,6 +21,7 @@
     "jfs-modules-7.1-s390x-di": "linux-headers@6.8",
     "jfs-modules-7.1-sh7751r-di": "linux-headers@6.8",
     "jfs-modules-7.1-sparc64-di": "linux-headers@6.8",
-    "jruby": "jruby"
+    "jruby": "jruby",
+    "jupyterlab": "jupyterlab"
   }
 }

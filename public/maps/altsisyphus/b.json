@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "b",
-    "total_mappings": 376
+    "total_mappings": 377
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -172,6 +172,7 @@
     "bear": "bear",
     "bear-debuginfo": "bear",
     "beecrypt": "beecrypt",
+    "beets": "beets",
     "bento4": "bento4",
     "bettercap": "bettercap",
     "bettercap-debuginfo": "bettercap",

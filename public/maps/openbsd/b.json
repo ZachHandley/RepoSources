@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "b",
-    "total_mappings": 84
+    "total_mappings": 85
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -33,6 +33,7 @@
     "bcal": "bcal",
     "bchunk": "bchunk",
     "bear": "bear",
+    "beets": "beets",
     "benchmarks/bonnie++": "bonnie++",
     "benchmarks/fio": "fio",
     "benchmarks/httperf": "httperf",

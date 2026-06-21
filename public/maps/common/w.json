@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "w",
-    "total_mappings": 1621
+    "total_mappings": 1620
   },
   "mappings": {
     "W3M": "w3m",
@@ -203,7 +203,6 @@
     "wasmtime-git": "wasmtime",
     "wasmtime-libs": "wasmtime",
     "watch": "watch",
-    "watch-git": "watch",
     "watcher": "watcher",
     "watchexec": "watchexec",
     "watchexec-bash-completion": "watchexec",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "epel_7",
     "shard": "c",
@@ -81,7 +81,7 @@
     "cproto": "cproto",
     "cpulimit": "cpulimit",
     "cross-binutils": "aarch64-elf-binutils",
-    "cross-gcc": "gcc@14",
+    "cross-gcc": "gcc@15",
     "cryptopp": "cryptopp",
     "curlftpfs": "curlftpfs",
     "cxxtest": "cxxtest",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "p",
-    "total_mappings": 17
+    "total_mappings": 19
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -20,9 +20,11 @@
     "postgresql-docs": "postgresql@18",
     "postgresql-libs": "postgresql@18",
     "procps-ng": "procps",
+    "pugixml": "pugixml",
     "pulseaudio": "pulseaudio",
     "pygobject": "pygobject3",
     "python3-gobject3": "pygobject3",
-    "python3-matplotlib": "python-matplotlib"
+    "python3-matplotlib": "python-matplotlib",
+    "python3-pylint": "pylint"
   }
 }

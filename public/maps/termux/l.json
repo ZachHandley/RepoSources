@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "l",
-    "total_mappings": 426
+    "total_mappings": 427
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -40,6 +40,7 @@
     "libayatana-appindicator": "libayatana-appindicator",
     "libayatana-indicator": "libayatana-indicator",
     "libblosc": "c-blosc",
+    "libblosc2": "c-blosc2",
     "libbluray": "libbluray",
     "libbs2b": "libbs2b",
     "libbsd": "libbsd",

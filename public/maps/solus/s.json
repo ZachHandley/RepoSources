@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "s",
-    "total_mappings": 314
+    "total_mappings": 308
   },
   "mappings": {
     "SFML": "sfml@2",
@@ -53,12 +53,6 @@
     "sdl-gfx-32bit-devel": "sdl_gfx",
     "sdl-gfx-dbginfo": "sdl_gfx",
     "sdl-gfx-devel": "sdl_gfx",
-    "sdl2": "sdl2",
-    "sdl2-32bit": "sdl2",
-    "sdl2-32bit-dbginfo": "sdl2",
-    "sdl2-32bit-devel": "sdl2",
-    "sdl2-dbginfo": "sdl2",
-    "sdl2-devel": "sdl2",
     "sdl2-gfx": "sdl2_gfx",
     "sdl2-gfx-32bit": "sdl2_gfx",
     "sdl2-gfx-32bit-dbginfo": "sdl2_gfx",

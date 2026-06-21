@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "k",
-    "total_mappings": 193
+    "total_mappings": 194
   },
   "mappings": {
     "k0sctl": "k0sctl",
@@ -57,6 +57,7 @@
     "kcov-git": "kcov",
     "kdash": "kdash",
     "kdash-bin": "kdash",
+    "kdash-git": "kdash",
     "kdoctools-git": "kdoctools",
     "kdoctools5": "kdoctools",
     "kea-git": "kea",

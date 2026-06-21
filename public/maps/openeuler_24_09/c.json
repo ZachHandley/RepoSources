@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openeuler_24_09",
     "shard": "c",
@@ -159,7 +159,7 @@
     "cpio-debuginfo": "cpio",
     "cpio-debugsource": "cpio",
     "cpio-help": "cpio",
-    "cpp": "gcc@14",
+    "cpp": "gcc@15",
     "cpp-gpgme": "gpgme",
     "cpp-httplib": "cpp-httplib",
     "cpp-httplib-debuginfo": "cpp-httplib",

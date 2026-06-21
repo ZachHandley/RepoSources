@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "w",
@@ -18,7 +18,6 @@
     "www-apps/hugo": "hugo",
     "www-apps/jackett-bin": "jackett",
     "www-apps/miniflux": "miniflux",
-    "www-apps/mycorrhiza": "mycorrhiza",
     "www-apps/ttyd": "ttyd",
     "www-apps/zola": "zola",
     "www-client/chawan": "chawan",
@@ -39,6 +38,7 @@
     "www-servers/apache": "httpd",
     "www-servers/caddy": "caddy",
     "www-servers/copyparty": "copyparty",
+    "www-servers/darkhttpd": "darkhttpd",
     "www-servers/kore": "kore",
     "www-servers/lighttpd": "lighttpd",
     "www-servers/mongrel2": "mongrel2",

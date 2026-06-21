@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "t",
-    "total_mappings": 313
+    "total_mappings": 314
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -169,6 +169,7 @@
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tippecanoe": "tippecanoe",
+    "tirith": "tirith",
     "tiv": "terminalimageviewer",
     "tivodecode": "tivodecode",
     "tkdiff": "tkdiff",

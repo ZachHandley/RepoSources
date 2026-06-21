@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "z",
-    "total_mappings": 167
+    "total_mappings": 172
   },
   "mappings": {
     "z3": "z3",
@@ -60,14 +60,19 @@
     "zig-debugsource": "zig@0.15",
     "zig-libs0.14": "zig@0.15",
     "zig-libs0.15": "zig@0.15",
+    "zig-libs0.16": "zig@0.15",
     "zig-rpm-macros0.14": "zig@0.15",
     "zig-rpm-macros0.15": "zig@0.15",
+    "zig-rpm-macros0.16": "zig@0.15",
     "zig0.14": "zig@0.15",
     "zig0.14-debuginfo": "zig@0.15",
     "zig0.14-debugsource": "zig@0.15",
     "zig0.15": "zig@0.15",
     "zig0.15-debuginfo": "zig@0.15",
     "zig0.15-debugsource": "zig@0.15",
+    "zig0.16": "zig@0.15",
+    "zig0.16-debuginfo": "zig@0.15",
+    "zig0.16-debugsource": "zig@0.15",
     "zile": "zile",
     "zile-debuginfo": "zile",
     "zile-debugsource": "zile",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "r",
@@ -94,11 +94,11 @@
     "ripgrep-all": "ripgrep-all",
     "ripmime": "ripmime",
     "riscv32-none-elf-binutils": "aarch64-elf-binutils",
-    "riscv64-linux-gcc-bootstrap": "gcc@14",
+    "riscv64-linux-gcc-bootstrap": "gcc@15",
     "riscv64-none-elf-binutils": "aarch64-elf-binutils",
-    "riscv64-none-elf-gcc": "gcc@14",
+    "riscv64-none-elf-gcc": "gcc@15",
     "riscv64-unknown-linux-gnu-binutils": "aarch64-elf-binutils",
-    "riscv64-unknown-linux-gnu-gcc": "gcc@14",
+    "riscv64-unknown-linux-gnu-gcc": "gcc@15",
     "rizin": "rizin",
     "rke": "rke",
     "rkhunter": "rkhunter",

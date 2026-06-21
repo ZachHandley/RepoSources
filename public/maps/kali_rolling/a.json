@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "a",
-    "total_mappings": 298
+    "total_mappings": 299
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -16,6 +16,7 @@
     "abcl": "abcl",
     "abcm2ps": "abcm2ps",
     "abcmidi": "abcmidi",
+    "abduco": "abduco",
     "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abigail-doc": "libabigail",
@@ -154,6 +155,7 @@
     "apcupsd-doc": "apcupsd",
     "apgdiff": "apgdiff",
     "apktool": "apktool",
+    "apl": "gnu-apl",
     "apng2gif": "apng2gif",
     "apngasm": "apngasm",
     "apophenia": "apophenia",
@@ -256,7 +258,6 @@
     "ats2-lang": "ats2-postiats",
     "attr": "attr",
     "attr-udeb": "attr",
-    "atuin": "atuin",
     "aubio": "aubio",
     "aubio-tools": "aubio",
     "audacious": "audacious",

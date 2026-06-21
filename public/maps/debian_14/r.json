@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "r",
-    "total_mappings": 272
+    "total_mappings": 271
   },
   "mappings": {
     "r-base": "r",
@@ -116,8 +116,8 @@
     "rfkill-modules-6.18.5+deb14-loong64-di": "linux-headers@6.8",
     "rfkill-modules-6.18.9+deb14-amd64-di": "linux-headers@6.8",
     "rfkill-modules-6.18.9+deb14-loong64-di": "linux-headers@6.8",
-    "rfkill-modules-7.0.10+deb14-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-7.0.10+deb14-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.12+deb14.1-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.12+deb14.1-loong64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.7+deb14-loong64-di": "linux-headers@6.8",
     "rgbds": "rgbds",
     "rgxg": "rgxg",
@@ -254,7 +254,6 @@
     "rust-lldb": "rust",
     "rust-llvm": "rust",
     "rust-lsd": "lsd",
-    "rust-miniserve": "miniserve",
     "rust-numbat-cli": "numbat",
     "rust-pastel": "pastel",
     "rust-procs": "procs",

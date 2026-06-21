@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "r",
-    "total_mappings": 386
+    "total_mappings": 382
   },
   "mappings": {
     "R": "r",
@@ -136,10 +136,6 @@
     "regal-fish-completion": "regal",
     "regal-zsh-completion": "regal",
     "regclient": "regclient",
-    "remake": "remake",
-    "remake-dev": "remake",
-    "remake-doc": "remake",
-    "remake-make": "remake",
     "remind": "remind",
     "remind-doc": "remind",
     "repo": "repo",

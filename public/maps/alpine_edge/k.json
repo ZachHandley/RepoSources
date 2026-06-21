@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "k",
-    "total_mappings": 240
+    "total_mappings": 241
   },
   "mappings": {
     "k0sctl": "k0sctl",
@@ -149,6 +149,7 @@
     "knot-resolver-mod-dnstap": "knot-resolver",
     "knot-resolver-mod-http": "knot-resolver",
     "knot-resolver-openrc": "knot-resolver",
+    "knot-systemd": "knot",
     "knot-utils": "knot",
     "ko": "ko",
     "ko-bash-completion": "ko",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "o",
-    "total_mappings": 380
+    "total_mappings": 383
   },
   "mappings": {
     "OpenCL-ICD-Loader": "opencl-icd-loader",
@@ -314,9 +314,12 @@
     "openssh-sk-dummy": "openssh",
     "openssl": "openssl@3",
     "openssl-devel": "openssl@3",
-    "openssl-devel-engine": "openssl@4",
     "openssl-libs": "openssl@4",
     "openssl-perl": "openssl@4",
+    "openssl3": "openssl@4",
+    "openssl3-devel": "openssl@4",
+    "openssl3-devel-engine": "openssl@4",
+    "openssl3-libs": "openssl@4",
     "opensubdiv": "opensubdiv",
     "opensubdiv-devel": "opensubdiv",
     "opentofu": "opentofu",

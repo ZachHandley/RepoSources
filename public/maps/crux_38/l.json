@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "crux_38",
     "shard": "l",
-    "total_mappings": 280
+    "total_mappings": 279
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -13,6 +13,7 @@
     "lcms2": "little-cms2",
     "lcms2-32": "little-cms2",
     "lensfun": "lensfun",
+    "leptonica": "leptonica",
     "less": "less",
     "lftp": "lftp",
     "libaacs": "libaacs",
@@ -177,8 +178,6 @@
     "libsamplerate": "libsamplerate",
     "libsamplerate-32": "libsamplerate",
     "libsass": "libsass",
-    "libsdl2": "sdl2",
-    "libsdl2-32": "sdl2",
     "libsdl2-compat": "sdl2-compat",
     "libsdl3": "sdl3",
     "libsdl3-32": "sdl3",

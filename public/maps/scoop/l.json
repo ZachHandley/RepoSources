@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "l",
-    "total_mappings": 66
+    "total_mappings": 67
   },
   "mappings": {
     "lab": "lab",
@@ -39,6 +39,7 @@
     "linkerd": "linkerd",
     "links": "links",
     "liquibase": "liquibase",
+    "liquidsoap": "liquidsoap",
     "llama.cpp-cpu": "llama.cpp",
     "llama.cpp-cu117": "llama.cpp",
     "llama.cpp-cu124": "llama.cpp",

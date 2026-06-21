@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "m",
@@ -68,10 +68,10 @@
     "mimic": "mimic",
     "mingw64-binutils": "aarch64-elf-binutils",
     "mingw64-cross-binutils": "aarch64-elf-binutils",
-    "mingw64-cross-gcc": "gcc@14",
-    "mingw64-cross-gcc-bootstrap": "gcc@14",
+    "mingw64-cross-gcc": "gcc@15",
+    "mingw64-cross-gcc-bootstrap": "gcc@15",
     "mingw64-cross-pkgconf": "pkgconf",
-    "mingw64-gcc": "gcc@14",
+    "mingw64-gcc": "gcc@15",
     "mingw64-gmp": "gmp",
     "mingw64-headers": "mingw-w64",
     "mingw64-mpc": "libmpc",

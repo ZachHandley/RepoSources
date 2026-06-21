@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "w",
@@ -46,7 +46,7 @@
     "wasmedge": "wasmedge",
     "wasmer": "wasmer",
     "wasmtime": "wasmtime",
-    "watch": "procps",
+    "watch": "watch",
     "watcher": "watcher",
     "watchexec": "watchexec",
     "watchman": "watchman",

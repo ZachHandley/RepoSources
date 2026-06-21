@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_3_20",
     "shard": "i",
@@ -15,7 +15,7 @@
     "i2pd-openrc": "i2pd",
     "i686-mingw-w64-binutils": "aarch64-elf-binutils",
     "i686-mingw-w64-crt": "mingw-w64",
-    "i686-mingw-w64-gcc": "gcc@14",
+    "i686-mingw-w64-gcc": "gcc@15",
     "i686-mingw-w64-headers": "mingw-w64",
     "i686-mingw-w64-winpthreads": "mingw-w64",
     "iamb": "iamb",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "d",
-    "total_mappings": 36
+    "total_mappings": 35
   },
   "mappings": {
     "darkstat": "darkstat",
@@ -39,7 +39,6 @@
     "dovecot2.3.21": "dovecot",
     "drill": "ldns",
     "dtc": "dtc",
-    "dufs": "dufs",
     "dump1090": "dump1090-fa",
     "dumpe2fs": "e2fsprogs",
     "dysk": "dysk"

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "g",
-    "total_mappings": 134
+    "total_mappings": 132
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -12,8 +12,8 @@
     "gauche": "gauche",
     "gauge": "gauge",
     "gawk": "gawk",
-    "gcc": "gcc@14",
-    "gcc45": "gcc@14",
+    "gcc": "gcc@15",
+    "gcc45": "gcc@15",
     "gdb": "gdb",
     "gdisk": "gptfdisk",
     "gdrive": "gdrive",
@@ -100,8 +100,6 @@
     "golangci-lint": "golangci-lint",
     "gomplate": "gomplate",
     "google-java-format": "google-java-format",
-    "goose": "block-goose-cli",
-    "goose-cli": "block-goose-cli",
     "gopass": "gopass",
     "gopass-jsonapi": "gopass-jsonapi",
     "gopass184": "gopass",

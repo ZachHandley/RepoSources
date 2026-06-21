@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "b",
-    "total_mappings": 117
+    "total_mappings": 118
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -34,6 +34,7 @@
     "bc": "bc",
     "bchunk": "bchunk",
     "bear": "bear",
+    "beets": "beets",
     "benchmark": "google-benchmark",
     "bettercap": "bettercap",
     "bfs": "bfs",

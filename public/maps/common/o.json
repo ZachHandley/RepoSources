@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "o",
-    "total_mappings": 2880
+    "total_mappings": 2877
   },
   "mappings": {
     "OCRmyPDF": "ocrmypdf",
@@ -1164,7 +1164,6 @@
     "openconnect-bashcomp": "openconnect",
     "openconnect-dbg": "openconnect",
     "openconnect-dbginfo": "openconnect",
-    "openconnect-debug": "openconnect",
     "openconnect-debuginfo": "openconnect",
     "openconnect-debugsource": "openconnect",
     "openconnect-dev": "openconnect",
@@ -1462,9 +1461,7 @@
     "openjdk-10-source": "openjdk@25",
     "openjdk-11": "openjdk@25",
     "openjdk-11-dbg": "openjdk@25",
-    "openjdk-11-dbginfo": "openjdk@25",
     "openjdk-11-demo": "openjdk@25",
-    "openjdk-11-devel": "openjdk@25",
     "openjdk-11-doc": "openjdk@25",
     "openjdk-11-jdk": "openjdk@25",
     "openjdk-11-jdk-headless": "openjdk@25",
@@ -1504,9 +1501,7 @@
     "openjdk-16-source": "openjdk@25",
     "openjdk-17": "openjdk@25",
     "openjdk-17-dbg": "openjdk@25",
-    "openjdk-17-dbginfo": "openjdk@25",
     "openjdk-17-demo": "openjdk@25",
-    "openjdk-17-devel": "openjdk@25",
     "openjdk-17-doc": "openjdk@25",
     "openjdk-17-jdk": "openjdk@25",
     "openjdk-17-jdk-headless": "openjdk@25",
@@ -2378,7 +2373,9 @@
     "openssl111": "openssl@4",
     "openssl111-debug": "openssl@4",
     "openssl3": "openssl@4",
+    "openssl3-32": "openssl@4",
     "openssl3-devel": "openssl@4",
+    "openssl3-devel-engine": "openssl@4",
     "openssl3-devel-man": "openssl@4",
     "openssl3-devel-static": "openssl@4",
     "openssl3-doc": "openssl@4",

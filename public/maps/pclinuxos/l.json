@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "l",
-    "total_mappings": 396
+    "total_mappings": 397
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -269,6 +269,7 @@
     "libspectre": "libspectre",
     "libspiro": "libspiro",
     "libspnav": "libspnav",
+    "libsquish": "libsquish",
     "libssh": "libssh",
     "libssh2": "libssh2",
     "libstatgrab": "libstatgrab",

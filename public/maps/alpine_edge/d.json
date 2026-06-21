@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "d",
-    "total_mappings": 398
+    "total_mappings": 399
   },
   "mappings": {
     "daemontools": "daemontools",
@@ -368,6 +368,7 @@
     "dum": "dum",
     "dump1090": "dump1090-fa",
     "dune": "dune",
+    "dune-build-info": "dune",
     "dune-configurator": "dune",
     "dune-doc": "dune",
     "dune-emacs": "dune",

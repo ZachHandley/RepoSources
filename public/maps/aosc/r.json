@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "r",
-    "total_mappings": 908
+    "total_mappings": 906
   },
   "mappings": {
     "r": "r",
@@ -590,7 +590,6 @@
     "runtime-multimedia/schroedinger": "schroedinger",
     "runtime-multimedia/sdl-gfx": "sdl_gfx",
     "runtime-multimedia/sdl12-compat": "sdl12-compat",
-    "runtime-multimedia/sdl2": "sdl2",
     "runtime-multimedia/sdl2-compat": "sdl2-compat",
     "runtime-multimedia/sdl2-gfx": "sdl2_gfx",
     "runtime-multimedia/sdl2-image": "sdl2_image",
@@ -679,7 +678,7 @@
     "runtime-optenv32/freetype+32": "freetype",
     "runtime-optenv32/fribidi+32": "fribidi",
     "runtime-optenv32/game-music-emu+32": "game-music-emu",
-    "runtime-optenv32/gcc+32": "gcc@14",
+    "runtime-optenv32/gcc+32": "gcc@15",
     "runtime-optenv32/gdbm+32": "gdbm",
     "runtime-optenv32/gdk-pixbuf+32": "gdk-pixbuf",
     "runtime-optenv32/giflib+32": "giflib",
@@ -795,7 +794,6 @@
     "runtime-optenv32/rtmpdump+32": "rtmpdump",
     "runtime-optenv32/rustc+32": "rust",
     "runtime-optenv32/schroedinger+32": "schroedinger",
-    "runtime-optenv32/sdl2+32": "sdl2",
     "runtime-optenv32/shared-mime-info+32": "shared-mime-info",
     "runtime-optenv32/smpeg+32": "smpeg",
     "runtime-optenv32/soundtouch+32": "sound-touch",

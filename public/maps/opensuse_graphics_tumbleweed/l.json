@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "opensuse_graphics_tumbleweed",
     "shard": "l",
@@ -158,7 +158,7 @@
     "libopencsg1": "opencsg",
     "libopenjp2-7": "openjpeg",
     "libopenjpeg1": "openjpeg",
-    "libopenjph0_28": "openjph",
+    "libopenjph0_29": "openjph",
     "libopenslide-devel": "openslide",
     "libopenslide0": "openslide",
     "libopenvdb13_0": "openvdb",

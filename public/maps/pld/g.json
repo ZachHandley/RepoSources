@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "g",
@@ -15,7 +15,7 @@
     "gawk": "gawk",
     "gc": "bdw-gc",
     "gcab": "gcab",
-    "gcc": "gcc@14",
+    "gcc": "gcc@15",
     "gcem": "gcem",
     "gcr": "gcr",
     "gcr4": "gcr",

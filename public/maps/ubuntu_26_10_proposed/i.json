@@ -1,17 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "i",
-    "total_mappings": 32
+    "total_mappings": 30
   },
   "mappings": {
-    "icu": "icu4c@78",
-    "icu-devtools": "icu4c@78",
-    "icu-doc": "icu4c@78",
-    "idle-python3.13": "python@3.9",
-    "idle-python3.14": "python@3.9",
+    "id3lib3.8.3": "id3lib",
     "idn2": "libidn2",
     "imagemagick": "imagemagick@6",
     "imagemagick-7-common": "imagemagick@6",
@@ -35,8 +31,10 @@
     "inetutils-telnetd": "inetutils",
     "inetutils-tools": "inetutils",
     "inetutils-traceroute": "inetutils",
+    "info": "texinfo",
     "insighttoolkit5": "itk",
     "insighttoolkit5-examples": "itk",
+    "install-info": "texinfo",
     "iproute2": "iproute2",
     "isl": "isl"
   }

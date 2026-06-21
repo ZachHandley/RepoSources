@@ -1,17 +1,40 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "g",
-    "total_mappings": 6
+    "total_mappings": 29
   },
   "mappings": {
-    "gcc15": "gcc@14",
-    "gcc15-fortran": "gcc@14",
-    "gcc15-libs": "gcc@14",
-    "grafana": "grafana",
-    "grpc": "grpc",
-    "grpc-cli": "grpc"
+    "glslang": "glslang",
+    "gradle": "gradle@8",
+    "gradle-doc": "gradle@8",
+    "gradle-src": "gradle@8",
+    "gst-devtools": "gstreamer",
+    "gst-devtools-libs": "gstreamer",
+    "gst-editing-services": "gstreamer",
+    "gst-libav": "gstreamer",
+    "gst-plugin-gtk": "gstreamer",
+    "gst-plugin-hip": "gstreamer",
+    "gst-plugin-msdk": "gstreamer",
+    "gst-plugin-onnx": "gstreamer",
+    "gst-plugin-opencv": "gstreamer",
+    "gst-plugin-qml6": "gstreamer",
+    "gst-plugin-qmlgl": "gstreamer",
+    "gst-plugin-qsv": "gstreamer",
+    "gst-plugin-va": "gstreamer",
+    "gst-plugin-wpe": "gstreamer",
+    "gst-plugin-wpe2": "gstreamer",
+    "gst-plugins-bad": "gstreamer",
+    "gst-plugins-bad-libs": "gstreamer",
+    "gst-plugins-base": "gstreamer",
+    "gst-plugins-base-libs": "gstreamer",
+    "gst-plugins-good": "gstreamer",
+    "gst-plugins-ugly": "gstreamer",
+    "gst-python": "gstreamer",
+    "gst-rtsp-server": "gstreamer",
+    "gstreamer": "gstreamer",
+    "gstreamer-docs": "gstreamer"
   }
 }

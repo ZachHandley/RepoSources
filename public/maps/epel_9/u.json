@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "u",
-    "total_mappings": 177
+    "total_mappings": 181
   },
   "mappings": {
     "uboot-tools": "u-boot-tools",
@@ -64,6 +64,10 @@
     "unpaper-debuginfo": "unpaper",
     "unpaper-debugsource": "unpaper",
     "unpaper-tests": "unpaper",
+    "unuran": "unuran",
+    "unuran-debuginfo": "unuran",
+    "unuran-debugsource": "unuran",
+    "unuran-devel": "unuran",
     "uptimed": "uptimed",
     "uptimed-debuginfo": "uptimed",
     "uptimed-debugsource": "uptimed",

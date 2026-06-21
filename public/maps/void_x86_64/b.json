@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "b",
-    "total_mappings": 137
+    "total_mappings": 138
   },
   "mappings": {
     "Bear": "bear",
@@ -47,6 +47,7 @@
     "bdftopcf": "bdftopcf",
     "beancount": "beancount",
     "beanstalkd": "beanstalkd",
+    "beets": "beets",
     "benchmark": "google-benchmark",
     "benchmark-devel": "google-benchmark",
     "bettercap": "bettercap",

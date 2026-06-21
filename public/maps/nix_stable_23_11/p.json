@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_23_11",
     "shard": "p",
-    "total_mappings": 858
+    "total_mappings": 859
   },
   "mappings": {
     "p0f": "p0f",
@@ -267,7 +267,7 @@
     "poppler-glib": "poppler",
     "poppler-min": "poppler",
     "poppler-qt5": "poppler-qt5",
-    "poppler-qt6": "poppler",
+    "poppler-qt6": "poppler-qt6",
     "poppler-utils": "poppler",
     "poppler_gi": "poppler",
     "poppler_min": "poppler",
@@ -377,6 +377,7 @@
     "purescript": "purescript",
     "putty": "putty",
     "pv": "pv",
+    "pv-migrate": "pv-migrate",
     "pwgen": "pwgen",
     "pwnat": "pwnat",
     "pwncat": "pwncat",

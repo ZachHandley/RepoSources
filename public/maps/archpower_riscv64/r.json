@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shard": "r",
@@ -36,7 +36,7 @@
     "ripgrep": "ripgrep",
     "ripgrep-all": "ripgrep-all",
     "riscv64-unknown-elf-binutils": "aarch64-elf-binutils",
-    "riscv64-unknown-elf-gcc": "gcc@14",
+    "riscv64-unknown-elf-gcc": "gcc@15",
     "robin-map": "robin-map",
     "rofi": "rofi",
     "rollup": "rollup",

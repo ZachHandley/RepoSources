@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "i",
-    "total_mappings": 113
+    "total_mappings": 114
   },
   "mappings": {
     "ImageMagick": "imagemagick@6",
@@ -18,9 +18,9 @@
     "i386-elf-gcc": "x86_64-elf-gcc",
     "i686-w64-mingw32-binutils": "aarch64-elf-binutils",
     "i686-w64-mingw32-crt": "mingw-w64",
-    "i686-w64-mingw32-gcc": "gcc@14",
-    "i686-w64-mingw32-gcc-bootstrap": "gcc@14",
-    "i686-w64-mingw32-gcc-nothreads": "gcc@14",
+    "i686-w64-mingw32-gcc": "gcc@15",
+    "i686-w64-mingw32-gcc-bootstrap": "gcc@15",
+    "i686-w64-mingw32-gcc-nothreads": "gcc@15",
     "i686-w64-mingw32-headers": "mingw-w64",
     "i686-w64-mingw32-widl": "mingw-w64",
     "i686-w64-mingw32-winpthreads": "mingw-w64",
@@ -62,6 +62,7 @@
     "imath": "imath",
     "img2pdf": "img2pdf",
     "imlib2": "imlib2",
+    "immich-go": "immich-go",
     "inadyn": "inadyn",
     "include-what-you-use": "include-what-you-use",
     "incus": "incus",

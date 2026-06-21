@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "b",
-    "total_mappings": 204
+    "total_mappings": 208
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -45,6 +45,10 @@
     "bdftopcf": "bdftopcf",
     "bdftopcf-doc": "bdftopcf",
     "bdftopcf-man": "bdftopcf",
+    "beets": "beets",
+    "beets-doc": "beets",
+    "beets-man": "beets",
+    "beets-pycache": "beets",
     "benchmark": "google-benchmark",
     "benchmark-devel": "google-benchmark",
     "benchmark-doc": "google-benchmark",

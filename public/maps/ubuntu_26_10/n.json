@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "n",
-    "total_mappings": 195
+    "total_mappings": 207
   },
   "mappings": {
     "nacl": "nacl",
@@ -187,6 +187,18 @@
     "numdiff": "numdiff",
     "numpy": "numpy",
     "nuspell": "nuspell",
+    "nut": "nut",
+    "nut-cgi": "nut",
+    "nut-client": "nut",
+    "nut-doc": "nut",
+    "nut-i2c": "nut",
+    "nut-ipmi": "nut",
+    "nut-modbus": "nut",
+    "nut-monitor": "nut",
+    "nut-powerman-pdu": "nut",
+    "nut-server": "nut",
+    "nut-snmp": "nut",
+    "nut-xml": "nut",
     "nutcracker": "nutcracker",
     "nuttcp": "nuttcp",
     "nvchecker": "nvchecker",

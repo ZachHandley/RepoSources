@@ -1,20 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "g",
     "total_mappings": 98
   },
   "mappings": {
-    "GCC": "gcc@14",
-    "GCC-Fortran": "gcc@14",
+    "GCC": "gcc@15",
+    "GCC-Fortran": "gcc@15",
     "GCL": "gcl",
     "GD": "gd",
     "GDAL": "gdal",
     "GDB": "aarch64-elf-gdb",
     "GDBM": "gdbm",
-    "GDC": "gcc@14",
+    "GDC": "gcc@15",
     "GDK-Pixbuf": "gdk-pixbuf",
     "GDL": "gdl",
     "GEOS": "geos",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "b",
-    "total_mappings": 311
+    "total_mappings": 312
   },
   "mappings": {
     "Bear": "bear",
@@ -99,6 +99,7 @@
     "bdftopcf": "bdftopcf",
     "bdftopcf-debuginfo": "bdftopcf",
     "bdftopcf-debugsource": "bdftopcf",
+    "beets": "beets",
     "benchdnn": "onednn",
     "benchmark": "google-benchmark",
     "benchmark-debuginfo": "google-benchmark",

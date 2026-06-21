@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "d",
-    "total_mappings": 2
+    "total_mappings": 3
   },
   "mappings": {
     "default-jdk": "openjdk",
-    "default-jre": "openjdk"
+    "default-jre": "openjdk",
+    "docker-buildx": "docker-buildx"
   }
 }

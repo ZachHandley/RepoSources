@@ -1,20 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackware_current",
     "shard": "g",
-    "total_mappings": 75
+    "total_mappings": 76
   },
   "mappings": {
     "gawk": "gawk",
     "gc": "bdw-gc",
-    "gcc": "gcc@14",
-    "gcc-g++": "gcc@14",
-    "gcc-gfortran": "gcc@14",
-    "gcc-gnat": "gcc@14",
-    "gcc-go": "gcc@14",
-    "gcc-objc": "gcc@14",
+    "gcc": "gcc@15",
+    "gcc-g++": "gcc@15",
+    "gcc-gfortran": "gcc@15",
+    "gcc-gnat": "gcc@15",
+    "gcc-go": "gcc@15",
+    "gcc-objc": "gcc@15",
     "gcr": "gcr",
     "gcr4": "gcr",
     "gd": "gd",
@@ -59,6 +59,7 @@
     "gpa": "gpa",
     "gperf": "gperf",
     "gpgme": "gpgme",
+    "gpgmepp": "gpgmepp",
     "gphoto2": "gphoto2",
     "gptfdisk": "gptfdisk",
     "grantlee": "grantlee",

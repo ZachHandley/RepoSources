@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "b",
-    "total_mappings": 191
+    "total_mappings": 193
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -75,6 +75,8 @@
     "beast-doc": "beast",
     "bedtools": "bedtools",
     "beecrypt": "beecrypt",
+    "beets": "beets",
+    "beets-doc": "beets",
     "bibclean": "bibclean",
     "biber": "biber",
     "bibtex2html": "bibtex2html",

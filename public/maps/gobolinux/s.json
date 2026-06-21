@@ -1,15 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "s",
-    "total_mappings": 82
+    "total_mappings": 80
   },
   "mappings": {
     "S3Backer": "s3-backer",
-    "SDL": "sdl2",
-    "SDL2": "sdl2",
     "SDL2_gfx": "sdl2_gfx",
     "SDL2_image": "sdl2_image",
     "SDL2_mixer": "sdl2_mixer",

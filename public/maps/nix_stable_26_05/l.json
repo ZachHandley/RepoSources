@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "l",
-    "total_mappings": 992
+    "total_mappings": 993
   },
   "mappings": {
     "Lighthouse": "lighthouse",
@@ -238,7 +238,7 @@
     "libftdi1": "libftdi",
     "libfyaml": "libfyaml",
     "libgbm": "mesa",
-    "libgcc": "gcc@14",
+    "libgcc": "gcc@15",
     "libgccjit": "libgccjit",
     "libgcrypt": "libgcrypt",
     "libgda": "libgda",
@@ -274,7 +274,7 @@
     "libhttpserver": "libhttpserver",
     "libhubbub": "libhubbub",
     "libhwy": "highway",
-    "libiberty": "gcc@14",
+    "libiberty": "gcc@15",
     "libical": "libical",
     "libice": "libice",
     "libicns": "libicns",
@@ -845,6 +845,7 @@
     "liquid-dsp": "liquid-dsp",
     "liquidctl": "liquidctl",
     "liquidprompt": "liquidprompt",
+    "liquidsoap": "liquidsoap",
     "lisette": "lisette",
     "lit": "lit",
     "litecli": "litecli",

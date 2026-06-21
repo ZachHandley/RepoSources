@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "v",
-    "total_mappings": 28
+    "total_mappings": 39
   },
   "mappings": {
     "vala": "vala",
@@ -17,7 +17,18 @@
     "varnish-doc": "varnish",
     "vera++": "vera++",
     "verilator": "verilator",
+    "vim": "vim",
+    "vim-common": "vim",
+    "vim-doc": "vim",
+    "vim-gtk3": "vim",
+    "vim-gui-common": "vim",
+    "vim-haproxy": "haproxy@2.8",
+    "vim-motif": "vim",
+    "vim-nox": "vim",
+    "vim-runtime": "vim",
+    "vim-tiny": "vim",
     "vips": "vips",
+    "virtualenv": "virtualenv",
     "visidata": "visidata",
     "visp": "visp",
     "visp-tools": "visp",

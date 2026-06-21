@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "b",
-    "total_mappings": 109
+    "total_mappings": 110
   },
   "mappings": {
     "BAD-PACKAGER-NO-COOKIE-FOR-YOU": "llvm@21",
@@ -39,6 +39,7 @@
     "bdwgc-32bit-devel": "bdw-gc",
     "bdwgc-dbginfo": "bdw-gc",
     "bdwgc-devel": "bdw-gc",
+    "beets": "beets",
     "biber": "biber",
     "biber-devel": "biber",
     "bibtool": "bib-tool",

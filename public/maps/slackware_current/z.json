@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackware_current",
     "shard": "z",
-    "total_mappings": 5
+    "total_mappings": 6
   },
   "mappings": {
+    "zint": "zint",
     "zlib": "zlib",
     "zsh": "zsh",
     "zstd": "zstd",

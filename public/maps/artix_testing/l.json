@@ -1,20 +1,39 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "l",
-    "total_mappings": 9
+    "total_mappings": 28
   },
   "mappings": {
-    "libaec": "libaec",
-    "libclc": "libclc",
-    "librdkafka": "librdkafka",
-    "lilv": "lilv",
-    "lilv-docs": "lilv",
-    "lilv-tools": "lilv",
+    "ldns": "ldns",
+    "lib32-libltdl": "libtool",
+    "lib32-libpipewire": "pipewire",
+    "lib32-mesa": "mesa",
+    "lib32-opencl-mesa": "mesa",
+    "lib32-pipewire": "pipewire",
+    "lib32-pipewire-jack": "pipewire",
+    "lib32-pipewire-v4l2": "pipewire",
+    "lib32-vulkan-asahi": "mesa",
+    "lib32-vulkan-broadcom": "mesa",
+    "lib32-vulkan-dzn": "mesa",
+    "lib32-vulkan-freedreno": "mesa",
+    "lib32-vulkan-gfxstream": "mesa",
+    "lib32-vulkan-intel": "mesa",
+    "lib32-vulkan-mesa-implicit-layers": "mesa",
+    "lib32-vulkan-mesa-layers": "mesa",
+    "lib32-vulkan-nouveau": "mesa",
+    "lib32-vulkan-panfrost": "mesa",
+    "lib32-vulkan-powervr": "mesa",
+    "lib32-vulkan-radeon": "mesa",
+    "lib32-vulkan-swrast": "mesa",
+    "lib32-vulkan-virtio": "mesa",
+    "libheif": "libheif",
+    "libpipewire": "pipewire",
+    "libplacebo": "libplacebo",
+    "libtool": "libtool",
     "linux-api-headers": "linux-headers@6.8",
-    "lld": "lld@21",
-    "lldb": "llvm@21"
+    "lsof": "lsof"
   }
 }

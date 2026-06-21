@@ -1,20 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "z",
-    "total_mappings": 89
+    "total_mappings": 86
   },
   "mappings": {
     "z": "z",
     "z3": "z3",
     "z80asm": "z80asm",
     "zabbix6-agent": "zabbix",
-    "zabbix6-frontend-php82": "zabbix",
-    "zabbix6-frontend-php83": "zabbix",
-    "zabbix6-frontend-php84": "zabbix",
-    "zabbix6-frontend-php85": "zabbix",
+    "zabbix6-frontend": "zabbix",
     "zabbix6-proxy": "zabbix",
     "zabbix6-server": "zabbix",
     "zabbix7-agent": "zabbix",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "p",
-    "total_mappings": 1189
+    "total_mappings": 1192
   },
   "mappings": {
     "p0f": "p0f",
@@ -688,8 +688,8 @@
     "poppler-qt": "poppler",
     "poppler-qt5": "poppler-qt5",
     "poppler-qt5-dev": "poppler-qt5",
-    "poppler-qt6": "poppler",
-    "poppler-qt6-dev": "poppler",
+    "poppler-qt6": "poppler-qt6",
+    "poppler-qt6-dev": "poppler-qt6",
     "poppler-utils": "poppler",
     "popt": "popt",
     "popt-dev": "popt",
@@ -768,6 +768,9 @@
     "privoxy-doc": "privoxy",
     "privoxy-openrc": "privoxy",
     "prjtrellis": "prjtrellis",
+    "procps-compat": "procps",
+    "procps-compat-dev": "procps",
+    "procps-compat-libs": "procps",
     "procps-ng": "procps",
     "procps-ng-dev": "procps",
     "procps-ng-doc": "procps",

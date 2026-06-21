@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "b",
-    "total_mappings": 48
+    "total_mappings": 49
   },
   "mappings": {
     "BIND": "bind",
@@ -16,6 +16,7 @@
     "Bareos": "bareos-client",
     "BaseX": "basex",
     "Bazel": "bazel@8",
+    "Beets": "beets",
     "Berkeley DB": "berkeley-db@5",
     "Berkeley Yacc": "byacc",
     "Biber": "biber",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "g",
-    "total_mappings": 164
+    "total_mappings": 165
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -13,13 +13,13 @@
     "gawk": "gawk",
     "gc": "bdw-gc",
     "gcab": "gcab",
-    "gcc": "gcc@14",
-    "gcc+32": "gcc@14",
-    "gcc-13": "gcc@14",
-    "gcc-14": "gcc@14",
-    "gcc-15": "gcc@14",
-    "gcc-16": "gcc@14",
-    "gcc-runtime": "gcc@14",
+    "gcc": "gcc@15",
+    "gcc+32": "gcc@15",
+    "gcc-13": "gcc@15",
+    "gcc-14": "gcc@15",
+    "gcc-15": "gcc@15",
+    "gcc-16": "gcc@15",
+    "gcc-runtime": "gcc@15",
     "gdal": "gdal",
     "gdb": "gdb",
     "gdbm": "gdbm",
@@ -152,6 +152,7 @@
     "gtk-update-icon-cache": "gtk+",
     "gtk-vnc": "gtk-vnc",
     "gtkglext": "gtkglext",
+    "gtkmm-2.4": "gtkmm",
     "gtkmm-3": "gtkmm",
     "gtkmm-4": "gtkmm",
     "gtksourceview-3": "gtksourceview3",

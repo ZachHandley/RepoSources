@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "amazon_1",
     "shard": "c",
@@ -24,7 +24,7 @@
     "compat-ImageMagick": "imagemagick@6",
     "compat-boost": "boost@1.85",
     "compat-expat1": "expat",
-    "compat-gcc-32": "gcc@14",
+    "compat-gcc-32": "gcc@15",
     "compat-gmp4": "gmp",
     "compat-iptables": "iptables",
     "compat-libcap1": "libcap",

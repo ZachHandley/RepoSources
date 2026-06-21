@@ -1,17 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openeuler_25_03",
     "shard": "s",
-    "total_mappings": 285
+    "total_mappings": 280
   },
   "mappings": {
-    "SDL2": "sdl2",
-    "SDL2-debuginfo": "sdl2",
-    "SDL2-debugsource": "sdl2",
-    "SDL2-devel": "sdl2",
-    "SDL2-static": "sdl2",
     "SuperLU": "superlu",
     "SuperLU-debuginfo": "superlu",
     "SuperLU-debugsource": "superlu",

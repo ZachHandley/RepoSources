@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "u",
-    "total_mappings": 206
+    "total_mappings": 207
   },
   "mappings": {
     "u-boot": "u-boot-tools",
@@ -102,6 +102,7 @@
     "unpaper": "unpaper",
     "unrtf": "unrtf",
     "unshield": "unshield",
+    "unuran": "unuran",
     "unyaffs": "unyaffs",
     "unzip": "unzip",
     "uptimed": "uptimed",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "i",
-    "total_mappings": 127
+    "total_mappings": 130
   },
   "mappings": {
     "Imath": "imath",
@@ -87,6 +87,9 @@
     "ioping": "ioping",
     "ioping-debuginfo": "ioping",
     "ioping-debugsource": "ioping",
+    "ip2location": "ip2location",
+    "ip2location-debuginfo": "ip2location",
+    "ip2location-debugsource": "ip2location",
     "iperf": "iperf3",
     "iperf-debuginfo": "iperf3",
     "iperf-debugsource": "iperf3",

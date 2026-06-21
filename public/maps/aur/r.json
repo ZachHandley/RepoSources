@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "r",
-    "total_mappings": 283
+    "total_mappings": 285
   },
   "mappings": {
     "r-mkl": "r",
@@ -92,6 +92,8 @@
     "redis": "redis",
     "redis-bin": "redis@8.2",
     "redis-git": "redis@8.2",
+    "redli": "redli",
+    "redli-bin": "redli",
     "redpen": "redpen",
     "redress": "redress",
     "redress-bin": "redress",
@@ -160,9 +162,9 @@
     "ripsecrets": "ripsecrets",
     "riscv-none-elf-binutils": "aarch64-elf-binutils",
     "riscv64-elf-binutils-git": "aarch64-elf-binutils",
-    "riscv64-linux-uclibc-gcc": "gcc@14",
+    "riscv64-linux-uclibc-gcc": "gcc@15",
     "riscv64-unknown-elf-binutils": "aarch64-elf-binutils",
-    "riscv64-unknown-elf-gcc": "gcc@14",
+    "riscv64-unknown-elf-gcc": "gcc@15",
     "risor-bin": "risor",
     "rizin-git": "rizin",
     "rke": "rke",

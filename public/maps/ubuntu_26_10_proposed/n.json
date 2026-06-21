@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "n",
-    "total_mappings": 51
+    "total_mappings": 36
   },
   "mappings": {
     "nanobind": "nanobind",
@@ -13,11 +13,8 @@
     "ncbi-blast+": "blast",
     "ncbi-blast+-legacy": "blast",
     "ndiff": "nmap",
-    "neon27": "neon",
-    "net-snmp": "net-snmp",
-    "netcdf": "netcdf",
-    "netcdf-bin": "netcdf",
-    "netcdf-doc": "netcdf",
+    "neovim": "neovim",
+    "neovim-runtime": "neovim",
     "nethogs": "nethogs",
     "netpbm": "netpbm",
     "netpbm-free": "netpbm",
@@ -45,18 +42,6 @@
     "nodejs": "node@24",
     "nodejs-doc": "node@24",
     "nss": "nss",
-    "numpy": "numpy",
-    "nut": "nut",
-    "nut-cgi": "nut",
-    "nut-client": "nut",
-    "nut-doc": "nut",
-    "nut-i2c": "nut",
-    "nut-ipmi": "nut",
-    "nut-modbus": "nut",
-    "nut-monitor": "nut",
-    "nut-powerman-pdu": "nut",
-    "nut-server": "nut",
-    "nut-snmp": "nut",
-    "nut-xml": "nut"
+    "numpy": "numpy"
   }
 }

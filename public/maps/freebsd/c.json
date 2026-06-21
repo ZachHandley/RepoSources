@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "c",
-    "total_mappings": 391
+    "total_mappings": 390
   },
   "mappings": {
     "Carla": "carla",
@@ -292,7 +292,6 @@
     "consul-template": "consul-template",
     "containerd": "containerd",
     "containernetworking-plugins": "cni-plugins",
-    "controllermap": "sdl2",
     "convco": "convco",
     "converters/ascii2binary": "ascii2binary",
     "converters/base64": "base64",

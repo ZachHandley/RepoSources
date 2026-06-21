@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "debian_12_backports",
     "shard": "c",
@@ -348,7 +348,7 @@
     "cmake-qt-gui": "cmake",
     "comerr-dev": "e2fsprogs",
     "cpl": "cpl",
-    "cpp-12": "gcc@14",
+    "cpp-12": "gcc@15",
     "crc-modules-6.5.0-0.deb12.4-5kc-malta-di": "linux-headers@6.8",
     "crc-modules-6.5.0-0.deb12.4-686-di": "linux-headers@6.8",
     "crc-modules-6.5.0-0.deb12.4-686-pae-di": "linux-headers@6.8",

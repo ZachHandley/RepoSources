@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "c",
@@ -338,9 +338,9 @@
     "cpl": "cpl",
     "cpm": "cpm",
     "cpmtools": "cpmtools",
-    "cpp-6": "gcc@14",
-    "cpp-7": "gcc@14",
-    "cpp-8": "gcc@14",
+    "cpp-6": "gcc@15",
+    "cpp-7": "gcc@15",
+    "cpp-8": "gcc@15",
     "cppad": "cppad",
     "cppcheck": "cppcheck",
     "cppcheck-gui": "cppcheck",

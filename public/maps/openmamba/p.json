@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "p",
-    "total_mappings": 303
+    "total_mappings": 305
   },
   "mappings": {
     "PyQt-builder": "pyqt-builder",
@@ -129,6 +129,8 @@
     "postgresql15-server": "postgresql@18",
     "potrace": "potrace",
     "procps-ng": "procps",
+    "procps-ng3": "procps",
+    "procps-ng3-debug": "procps",
     "proj": "proj",
     "protobuf": "protobuf@33",
     "protobuf-c": "protobuf-c",

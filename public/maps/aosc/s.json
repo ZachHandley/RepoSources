@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "s",
-    "total_mappings": 139
+    "total_mappings": 137
   },
   "mappings": {
     "samba": "samba",
@@ -27,8 +27,6 @@
     "sdcc": "sdcc",
     "sdl-gfx": "sdl_gfx",
     "sdl12-compat": "sdl12-compat",
-    "sdl2": "sdl2",
-    "sdl2+32": "sdl2",
     "sdl2-compat": "sdl2-compat",
     "sdl2-gfx": "sdl2_gfx",
     "sdl2-image": "sdl2_image",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "c",
@@ -281,9 +281,9 @@
     "crispy-doom": "crispy-doom",
     "croc": "croc",
     "cross-arm-none-eabi-binutils": "aarch64-elf-binutils",
-    "cross-arm-none-eabi-gcc": "gcc@14",
+    "cross-arm-none-eabi-gcc": "gcc@15",
     "cross-arm-none-eabi-gdb": "aarch64-elf-gdb",
-    "cross-bpf-gcc": "gcc@14",
+    "cross-bpf-gcc": "gcc@15",
     "crun": "crun",
     "cryfs": "cryfs",
     "crypto++": "cryptopp",

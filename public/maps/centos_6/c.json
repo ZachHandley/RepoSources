@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "centos_6",
     "shard": "c",
@@ -19,9 +19,9 @@
     "cmake": "cmake",
     "compat-db": "berkeley-db@5",
     "compat-expat1": "expat",
-    "compat-gcc-296": "gcc@14",
-    "compat-gcc-32": "gcc@14",
-    "compat-gcc-34": "gcc@14",
+    "compat-gcc-296": "gcc@15",
+    "compat-gcc-32": "gcc@15",
+    "compat-gcc-34": "gcc@15",
     "compat-glibc": "glibc@2.17",
     "compat-libcap1": "libcap",
     "compat-libxcb": "libxcb",

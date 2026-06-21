@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
     "shard": "h",
     "total_mappings": 22
   },
   "mappings": {
-    "h8300-gcc": "gcc@14",
-    "h8300-gcc3": "gcc@14",
+    "h8300-gcc": "gcc@15",
+    "h8300-gcc3": "gcc@15",
     "haproxy": "haproxy",
     "harfbuzz": "harfbuzz",
     "harfbuzz-dev": "harfbuzz",

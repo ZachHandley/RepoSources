@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "e",
-    "total_mappings": 215
+    "total_mappings": 213
   },
   "mappings": {
     "e2fsck-static": "e2fsprogs",
@@ -76,8 +76,6 @@
     "emacs24-non-dfsg": "emacs",
     "emacs25-common-non-dfsg": "emacs",
     "emacs25-non-dfsg": "emacs",
-    "embree": "embree",
-    "embree-tools": "embree",
     "emf2svg": "libemf2svg",
     "empty-expect": "empty",
     "emscripten": "emscripten",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "o",
-    "total_mappings": 94
+    "total_mappings": 95
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -89,6 +89,7 @@
     "or-tools": "or-tools",
     "orc": "orc",
     "orcania": "orcania",
+    "ormolu": "ormolu",
     "ortp": "ortp",
     "osc": "osc",
     "osinfo-db": "osinfo-db",

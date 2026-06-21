@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "p",
-    "total_mappings": 822
+    "total_mappings": 834
   },
   "mappings": {
     "p0f": "p0f",
@@ -693,6 +693,7 @@
     "python3-nox": "nox",
     "python3-numpy": "numpy",
     "python3-numpy-dev": "numpy",
+    "python3-nut": "nut",
     "python3-nvchecker": "nvchecker",
     "python3-olm": "libolm",
     "python3-onnx": "onnx",
@@ -804,6 +805,17 @@
     "python3-zfpy": "zfp",
     "python3-zookeeper": "zookeeper",
     "python3-zxing-cpp": "zxing-cpp",
+    "python3.13": "python@3.9",
+    "python3.13-dbg": "python@3.9",
+    "python3.13-dev": "python@3.9",
+    "python3.13-doc": "python@3.9",
+    "python3.13-examples": "python@3.9",
+    "python3.13-full": "python@3.9",
+    "python3.13-gdbm": "python@3.9",
+    "python3.13-minimal": "python@3.9",
+    "python3.13-nopie": "python@3.9",
+    "python3.13-tk": "python@3.9",
+    "python3.13-venv": "python@3.9",
     "python3.14": "python@3.9",
     "python3.14-dbg": "python@3.9",
     "python3.14-dev": "python@3.9",

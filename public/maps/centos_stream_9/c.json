@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "centos_stream_9",
     "shard": "c",
@@ -97,7 +97,7 @@
     "cpio": "cpio",
     "cpio-debuginfo": "cpio",
     "cpio-debugsource": "cpio",
-    "cpp": "gcc@14",
+    "cpp": "gcc@15",
     "cppunit": "cppunit",
     "cppunit-debuginfo": "cppunit",
     "cppunit-debugsource": "cppunit",

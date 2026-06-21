@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "p",
-    "total_mappings": 110
+    "total_mappings": 109
   },
   "mappings": {
     "pari": "pari",
@@ -78,7 +78,6 @@
     "python-scipy-debugsource": "scipy",
     "python3-GDAL": "gdal",
     "python3-adios2": "adios2",
-    "python3-arpack-ng": "arpack",
     "python3-bitwuzla": "bitwuzla",
     "python3-gmsh": "gmsh",
     "python3-lammps": "lammps",

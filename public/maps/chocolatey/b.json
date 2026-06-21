@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "b",
-    "total_mappings": 65
+    "total_mappings": 67
   },
   "mappings": {
     "BIND Tools": "bind",
@@ -13,6 +13,7 @@
     "Bat": "bat",
     "Batik": "batik",
     "Bazelisk": "bazelisk",
+    "Beets": "beets",
     "Biome": "biome",
     "Bit": "bit-git",
     "Bit (Install)": "bit",
@@ -41,6 +42,7 @@
     "bazel": "bazel@8",
     "bazel (Install)": "bazel@8",
     "bazelisk": "bazelisk",
+    "beets": "beets",
     "biber (Portable)": "biber",
     "biber.portable": "biber",
     "bind-toolsonly": "bind",

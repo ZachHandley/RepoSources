@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "x",
@@ -126,9 +126,9 @@
     "x86_64-linux-binutils": "aarch64-elf-binutils",
     "x86_64-w64-mingw32-binutils": "aarch64-elf-binutils",
     "x86_64-w64-mingw32-crt": "mingw-w64",
-    "x86_64-w64-mingw32-gcc": "gcc@14",
-    "x86_64-w64-mingw32-gcc-bootstrap": "gcc@14",
-    "x86_64-w64-mingw32-gcc-nothreads": "gcc@14",
+    "x86_64-w64-mingw32-gcc": "gcc@15",
+    "x86_64-w64-mingw32-gcc-bootstrap": "gcc@15",
+    "x86_64-w64-mingw32-gcc-nothreads": "gcc@15",
     "x86_64-w64-mingw32-headers": "mingw-w64",
     "x86_64-w64-mingw32-widl": "mingw-w64",
     "x86_64-w64-mingw32-winpthreads": "mingw-w64",

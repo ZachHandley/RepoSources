@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "n",
-    "total_mappings": 339
+    "total_mappings": 340
   },
   "mappings": {
     "nagios": "nagios",
@@ -342,6 +342,7 @@
     "nut-upower": "nut",
     "nut-xml": "nut",
     "nuttcp": "nuttcp",
+    "nvi": "nvi2",
     "nyancat": "nyancat",
     "nylon": "nylon",
     "nyx": "nyx",

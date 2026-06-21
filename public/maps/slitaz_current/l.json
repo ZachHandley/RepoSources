@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slitaz_current",
     "shard": "l",
-    "total_mappings": 521
+    "total_mappings": 519
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -66,7 +66,7 @@
     "libarchive-dev": "libarchive",
     "libassuan": "libassuan@2",
     "libassuan-dev": "libassuan@2",
-    "libatomic": "gcc@14",
+    "libatomic": "gcc@15",
     "libbfd": "aarch64-elf-binutils",
     "libbind": "bind",
     "libboost": "boost@1.85",
@@ -171,7 +171,7 @@
     "libgcrypt-dev": "libgcrypt",
     "libgd": "gd",
     "libgd-dev": "gd",
-    "libgfortran": "gcc@14",
+    "libgfortran": "gcc@15",
     "libgio": "glib",
     "libgio-dev": "glib",
     "libgiomm": "glibmm@2.66",
@@ -180,7 +180,7 @@
     "libglu-mesa": "mesa-glu",
     "libglu-mesa-dev": "mesa-glu",
     "libgnutls": "gnutls",
-    "libgomp": "gcc@14",
+    "libgomp": "gcc@15",
     "libgpg-error": "libgpg-error",
     "libgpg-error-dev": "libgpg-error",
     "libgphoto2": "libgphoto2",
@@ -240,7 +240,7 @@
     "libnotify-dev": "libnotify",
     "libnsl": "libnsl",
     "libnsl-dev": "libnsl",
-    "libobjc": "gcc@14",
+    "libobjc": "gcc@15",
     "libogg": "libogg",
     "libogg-dev": "libogg",
     "libopencl-mesa": "mesa",
@@ -270,8 +270,6 @@
     "libsasl-without-ldap": "cyrus-sasl",
     "libsdl-gfx": "sdl_gfx",
     "libsdl-gfx-dev": "sdl_gfx",
-    "libsdl2": "sdl2",
-    "libsdl2-dev": "sdl2",
     "libsecret": "libsecret",
     "libsecret-dev": "libsecret",
     "libshout": "libshout",

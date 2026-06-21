@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "n",
-    "total_mappings": 85
+    "total_mappings": 83
   },
   "mappings": {
     "nanomsg": "nanomsg",
@@ -29,8 +29,6 @@
     "ncurses-doc": "ncurses",
     "ncurses-examples": "ncurses",
     "ncurses-term": "ncurses",
-    "neovim": "neovim",
-    "neovim-runtime": "neovim",
     "nethogs": "nethogs",
     "nettle-bin": "nettle@3",
     "nettle4": "nettle@3",

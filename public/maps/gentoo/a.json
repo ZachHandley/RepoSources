@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "a",
-    "total_mappings": 624
+    "total_mappings": 625
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -500,6 +500,7 @@
     "app-text/blogc": "blogc",
     "app-text/cherrytree": "cherrytree",
     "app-text/cmark": "cmark",
+    "app-text/cmark-gfm": "cmark-gfm",
     "app-text/cmigemo": "cmigemo",
     "app-text/convertlit": "convertlit",
     "app-text/convmv": "convmv",

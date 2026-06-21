@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "p",
-    "total_mappings": 1107
+    "total_mappings": 1108
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -789,6 +789,7 @@
     "python3-module-avro": "avro-c",
     "python3-module-avro-tests": "avro-c",
     "python3-module-barman": "barman",
+    "python3-module-beetsplug": "beets",
     "python3-module-biosig": "biosig",
     "python3-module-biosig-debuginfo": "biosig",
     "python3-module-black": "black",

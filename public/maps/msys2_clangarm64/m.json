@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "msys2_clangarm64",
     "shard": "m",
-    "total_mappings": 2956
+    "total_mappings": 2954
   },
   "mappings": {
     "mingw-w64-64tass": "tass64",
     "mingw-w64-7zip": "sevenzip",
     "mingw-w64-FAudio": "faudio",
     "mingw-w64-OpenSceneGraph": "open-scene-graph",
-    "mingw-w64-SDL2": "sdl2",
     "mingw-w64-SDL2_gfx": "sdl2_gfx",
     "mingw-w64-SDL2_image": "sdl2_image",
     "mingw-w64-SDL2_mixer": "sdl2_mixer",
@@ -146,7 +145,6 @@
     "mingw-w64-clang-aarch64-7zip": "sevenzip",
     "mingw-w64-clang-aarch64-FAudio": "faudio",
     "mingw-w64-clang-aarch64-OpenSceneGraph": "open-scene-graph",
-    "mingw-w64-clang-aarch64-SDL2": "sdl2",
     "mingw-w64-clang-aarch64-SDL2_gfx": "sdl2_gfx",
     "mingw-w64-clang-aarch64-SDL2_image": "sdl2_image",
     "mingw-w64-clang-aarch64-SDL2_mixer": "sdl2_mixer",

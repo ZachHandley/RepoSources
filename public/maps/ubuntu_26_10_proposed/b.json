@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "b",
-    "total_mappings": 80
+    "total_mappings": 79
   },
   "mappings": {
-    "batik": "batik",
+    "beets": "beets",
+    "beets-doc": "beets",
+    "bfs": "bfs",
     "binutils": "binutils",
     "binutils-aarch64-linux-gnu": "aarch64-elf-binutils",
     "binutils-aarch64-linux-gnu-dbg": "aarch64-elf-binutils",
@@ -73,7 +75,6 @@
     "bochs-wx": "bochs",
     "bochs-x": "bochs",
     "bochsbios": "bochs",
-    "bolt-22": "llvm@21",
     "bootterm": "bootterm",
     "borgbackup-is-borgbackup2": "borgbackup",
     "borgbackup2": "borgbackup",
@@ -83,8 +84,6 @@
     "breezy": "breezy",
     "brz": "breezy",
     "brz-doc": "breezy",
-    "btrfs-progs": "btrfs-progs",
-    "btrfs-progs-udeb": "btrfs-progs",
     "bubblewrap": "bubblewrap",
     "bximage": "bochs"
   }

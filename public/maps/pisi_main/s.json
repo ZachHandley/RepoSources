@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "s",
@@ -256,7 +256,7 @@
     "system/devel/elfutils": "elfutils",
     "system/devel/flex": "flex",
     "system/devel/gc": "bdw-gc",
-    "system/devel/gcc": "gcc@14",
+    "system/devel/gcc": "gcc@15",
     "system/devel/glpk": "glpk",
     "system/devel/gmp": "gmp",
     "system/devel/gobject-introspection": "gobject-introspection",

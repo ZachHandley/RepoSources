@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "w",
-    "total_mappings": 164
+    "total_mappings": 165
   },
   "mappings": {
     "w3m": "w3m",
@@ -101,6 +101,7 @@
     "www/cpprestsdk": "cpprestsdk",
     "www/darkhttpd": "darkhttpd",
     "www/dart-sass": "dart-sass",
+    "www/dillo": "dillo",
     "www/doctl": "doctl",
     "www/dufs": "dufs",
     "www/edbrowse": "edbrowse",

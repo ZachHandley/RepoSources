@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "j",
-    "total_mappings": 73
+    "total_mappings": 74
   },
   "mappings": {
     "jack2": "jack",
@@ -79,6 +79,7 @@
     "jupyterlab": "jupyterlab",
     "just": "just",
     "jwt-cli": "jwt-cli",
+    "jwt-ui": "jwt-ui",
     "jython": "jython"
   }
 }

@@ -1,13 +1,27 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "mx_23",
     "shard": "w",
-    "total_mappings": 3
+    "total_mappings": 17
   },
   "mappings": {
     "wayland-protocols": "wayland-protocols",
+    "weechat": "weechat",
+    "weechat-core": "weechat",
+    "weechat-curses": "weechat",
+    "weechat-dev": "weechat",
+    "weechat-doc": "weechat",
+    "weechat-guile": "weechat",
+    "weechat-headless": "weechat",
+    "weechat-lua": "weechat",
+    "weechat-perl": "weechat",
+    "weechat-php": "weechat",
+    "weechat-plugins": "weechat",
+    "weechat-python": "weechat",
+    "weechat-ruby": "weechat",
+    "weechat-tcl": "weechat",
     "wireplumber": "wireplumber",
     "wireplumber-doc": "wireplumber"
   }

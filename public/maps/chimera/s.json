@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "s",
-    "total_mappings": 379
+    "total_mappings": 375
   },
   "mappings": {
     "sad": "sad",
@@ -73,14 +73,10 @@
     "sdl12-compat": "sdl12-compat",
     "sdl12-compat-devel": "sdl12-compat",
     "sdl12-compat-devel-static": "sdl12-compat",
-    "sdl2": "sdl2",
     "sdl2-compat": "sdl2-compat",
     "sdl2-compat-devel": "sdl2-compat",
     "sdl2-compat-devel-static": "sdl2-compat",
     "sdl2-compat-doc": "sdl2-compat",
-    "sdl2-devel": "sdl2",
-    "sdl2-devel-static": "sdl2",
-    "sdl2-doc": "sdl2",
     "sdl2_gfx": "sdl2_gfx",
     "sdl2_gfx-devel": "sdl2_gfx",
     "sdl2_gfx-devel-static": "sdl2_gfx",

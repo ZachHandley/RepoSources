@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "l",
-    "total_mappings": 273
+    "total_mappings": 271
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -174,8 +174,6 @@
     "libsamplerate": "libsamplerate",
     "libsamplerate-32": "libsamplerate",
     "libsass": "libsass",
-    "libsdl2": "sdl2",
-    "libsdl2-32": "sdl2",
     "libsdl3": "sdl3",
     "libsdl3-32": "sdl3",
     "libseccomp": "libseccomp",

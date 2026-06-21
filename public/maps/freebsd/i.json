@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "i",
-    "total_mappings": 108
+    "total_mappings": 109
   },
   "mappings": {
     "Ice": "ice",
@@ -20,10 +20,10 @@
     "i2c-tools": "i2c-tools",
     "i2pd": "i2pd",
     "i386-binutils": "aarch64-elf-binutils",
-    "i386-gcc12": "gcc@14",
-    "i386-gcc13": "gcc@14",
-    "i386-gcc14": "gcc@14",
-    "i386-gcc15": "gcc@14",
+    "i386-gcc12": "gcc@15",
+    "i386-gcc13": "gcc@15",
+    "i386-gcc14": "gcc@15",
+    "i386-gcc15": "gcc@15",
     "i386-rust-bootstrap": "rust",
     "iamb": "iamb",
     "iat": "iat",
@@ -78,6 +78,7 @@
     "iodine": "iodine",
     "ioping": "ioping",
     "iowow": "iowow",
+    "ip2location": "ip2location",
     "ipbt": "ipbt",
     "ipcalc": "ipcalc",
     "iperf": "iperf",

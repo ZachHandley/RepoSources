@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shard": "m",
@@ -8,9 +8,9 @@
   },
   "mappings": {
     "m4": "m4",
-    "m68k-unknown-linux-gnu-gcc": "gcc@14",
-    "m68k-unknown-linux-gnu-gcc-stage1": "gcc@14",
-    "m68k-unknown-linux-gnu-gcc-stage2": "gcc@14",
+    "m68k-unknown-linux-gnu-gcc": "gcc@15",
+    "m68k-unknown-linux-gnu-gcc-stage1": "gcc@15",
+    "m68k-unknown-linux-gnu-gcc-stage2": "gcc@15",
     "mac": "mac",
     "maeparser": "maeparser",
     "make": "make",

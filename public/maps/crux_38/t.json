@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "crux_38",
     "shard": "t",
-    "total_mappings": 30
+    "total_mappings": 31
   },
   "mappings": {
     "taglib": "taglib",
@@ -16,6 +16,7 @@
     "tdb": "tdb",
     "tea": "tea",
     "telegraf": "telegraf",
+    "tesseract": "tesseract",
     "tevent": "tevent",
     "texinfo": "texinfo",
     "texlab": "texlab",

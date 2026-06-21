@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "b",
-    "total_mappings": 360
+    "total_mappings": 361
   },
   "mappings": {
     "babelfish": "babelfish",
@@ -143,6 +143,7 @@
     "bed-bin": "bed",
     "bedops": "bedops",
     "bedtools": "bedtools",
+    "beets-git": "beets",
     "behaviortree-cpp-git": "behaviortree.cpp",
     "bench-bin": "bench",
     "benchmark-git": "google-benchmark",
@@ -300,7 +301,7 @@
     "boxes": "boxes",
     "boxes-git": "boxes",
     "bozohttpd": "bozohttpd",
-    "bpf-unknown-none-gcc": "gcc@14",
+    "bpf-unknown-none-gcc": "gcc@15",
     "bpm-tools": "bpm-tools",
     "bpytop-git": "bpytop",
     "brainfuck": "brainfuck",

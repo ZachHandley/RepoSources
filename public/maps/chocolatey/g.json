@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "g",
-    "total_mappings": 182
+    "total_mappings": 180
   },
   "mappings": {
     "GGShield": "ggshield",
@@ -69,7 +69,6 @@
     "GoReleaser": "goreleaser",
     "Golangci-lint": "golangci-lint",
     "Gomplate": "gomplate",
-    "Goose": "block-goose-cli",
     "Gossip - Nostr Client": "gossip",
     "Got Your Back (GYB)": "gyb",
     "Gource": "gource",
@@ -151,7 +150,6 @@
     "golang": "go",
     "golangci-lint": "golangci-lint",
     "gomplate": "gomplate",
-    "goose": "block-goose-cli",
     "gopass": "gopass",
     "gopass (Install)": "gopass",
     "gopass-jsonapi": "gopass-jsonapi",

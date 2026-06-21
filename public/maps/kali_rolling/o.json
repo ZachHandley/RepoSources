@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "o",
-    "total_mappings": 248
+    "total_mappings": 247
   },
   "mappings": {
     "oasis": "oasis",
@@ -162,7 +162,6 @@
     "openjdk-27-jre": "openjdk@25",
     "openjdk-27-jre-headless": "openjdk@25",
     "openjdk-27-jre-zero": "openjdk@25",
-    "openjdk-27-jvmci-jdk": "openjdk@25",
     "openjdk-27-source": "openjdk@25",
     "openjdk-27-testsupport": "openjdk@25",
     "openjpeg-doc": "openjpeg",

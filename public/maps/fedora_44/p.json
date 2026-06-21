@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "p",
-    "total_mappings": 1201
+    "total_mappings": 1203
   },
   "mappings": {
     "PDAL": "pdal",
@@ -484,8 +484,8 @@
     "poppler-glib-doc": "poppler",
     "poppler-qt5": "poppler-qt5",
     "poppler-qt5-devel": "poppler-qt5",
-    "poppler-qt6": "poppler",
-    "poppler-qt6-devel": "poppler",
+    "poppler-qt6": "poppler-qt6",
+    "poppler-qt6-devel": "poppler-qt6",
     "poppler-utils": "poppler",
     "popt": "popt",
     "popt-devel": "popt",
@@ -890,6 +890,7 @@
     "python3-fastapi+standard-no-fastapi-cloud-cli": "fastapi",
     "python3-file-magic": "file-formula",
     "python3-flake8": "flake8",
+    "python3-flann": "flann",
     "python3-flatbuffers": "flatbuffers",
     "python3-fonttools": "fonttools",
     "python3-fonttools+graphite": "fonttools",
@@ -989,6 +990,7 @@
     "python3-lsp-server": "python-lsp-server",
     "python3-lsp-server+all": "python-lsp-server",
     "python3-lttngust": "lttng-ust",
+    "python3-manifold3d": "manifold",
     "python3-mapserver": "mapserver",
     "python3-marisa": "marisa",
     "python3-markdown": "python-markdown",

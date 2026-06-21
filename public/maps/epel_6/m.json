@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "epel_6",
     "shard": "m",
@@ -27,7 +27,7 @@
     "mhonarc": "mhonarc",
     "mingw-binutils": "aarch64-elf-binutils",
     "mingw-crt": "mingw-w64",
-    "mingw-gcc": "gcc@14",
+    "mingw-gcc": "gcc@15",
     "mingw-headers": "mingw-w64",
     "mingw-winpthreads": "mingw-w64",
     "mingw-zlib": "minizip",

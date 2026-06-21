@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shard": "l",
@@ -35,7 +35,7 @@
     "libarchive": "libarchive",
     "libass": "libass",
     "libassuan": "libassuan@2",
-    "libatomic-static": "gcc@14",
+    "libatomic-static": "gcc@15",
     "libatomic_ops": "libatomic_ops",
     "libavif": "libavif",
     "libayatana-appindicator": "libayatana-appindicator",
@@ -425,7 +425,7 @@
     "lrzip": "lrzip",
     "lrzsz": "lrzsz",
     "lsof": "lsof",
-    "lto-dump": "gcc@14",
+    "lto-dump": "gcc@15",
     "lttng-ust": "lttng-ust",
     "lua": "lua",
     "lua51": "lua@5.4",

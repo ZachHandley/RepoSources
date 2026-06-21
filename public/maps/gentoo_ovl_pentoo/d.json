@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_pentoo",
     "shard": "d",
-    "total_mappings": 24
+    "total_mappings": 26
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -27,6 +27,8 @@
     "dev-util/ghidra": "ghidra",
     "dev-util/jadx-bin": "jadx",
     "dev-util/lief": "lief",
+    "dev-util/radare2": "radare2",
+    "dev-util/rizin": "rizin",
     "dev-util/semgrep-core-bin": "semgrep",
     "dev-util/valabind": "valabind",
     "dev-util/wabt": "wabt",

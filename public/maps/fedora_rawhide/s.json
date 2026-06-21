@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "s",
-    "total_mappings": 519
+    "total_mappings": 520
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -494,7 +494,6 @@
     "syslog-ng-python": "syslog-ng",
     "syslog-ng-python-modules": "syslog-ng",
     "syslog-ng-redis": "syslog-ng",
-    "syslog-ng-riemann": "syslog-ng",
     "syslog-ng-slog": "syslog-ng",
     "syslog-ng-smtp": "syslog-ng",
     "syslog-ng-snmp": "syslog-ng",
@@ -506,6 +505,8 @@
     "sysroot-i386-fc45-glibc": "glibc@2.17",
     "sysstat": "sysstat",
     "systemd": "systemd",
+    "systemd-boot": "systemd",
+    "systemd-boot-ia32": "systemd",
     "systemd-boot-unsigned": "systemd",
     "systemd-container": "systemd",
     "systemd-devel": "systemd",

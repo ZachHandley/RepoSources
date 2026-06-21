@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "mx_21_testing",
     "shard": "l",
-    "total_mappings": 446
+    "total_mappings": 441
   },
   "mappings": {
     "libaom-dev": "aom",
@@ -341,11 +341,6 @@
     "libsane-common": "sane-backends",
     "libsane-dev": "sane-backends",
     "libsane1": "sane-backends",
-    "libsdl2": "sdl2",
-    "libsdl2-2.0-0": "sdl2",
-    "libsdl2-dev": "sdl2",
-    "libsdl2-doc": "sdl2",
-    "libsdl2-tests": "sdl2",
     "libspa-0.2-bluetooth": "pipewire",
     "libspa-0.2-dev": "pipewire",
     "libspa-0.2-jack": "pipewire",

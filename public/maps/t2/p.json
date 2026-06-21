@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "p",
-    "total_mappings": 118
+    "total_mappings": 119
   },
   "mappings": {
     "p0f": "p0f",
@@ -124,6 +124,7 @@
     "python-tabulate": "python-tabulate",
     "python-virtualenv": "virtualenv",
     "python2": "python@3.9",
+    "pythran": "pythran",
     "pytorch": "pytorch"
   }
 }

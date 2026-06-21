@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "d",
-    "total_mappings": 991
+    "total_mappings": 992
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -745,6 +745,7 @@
     "dev-qt/qtspeech": "qt@5",
     "dev-qt/qtsql": "qt@5",
     "dev-qt/qtsvg": "qt@5",
+    "dev-qt/qttasktree": "qttasktree",
     "dev-qt/qttest": "qt@5",
     "dev-qt/qttools": "qt@5",
     "dev-qt/qttranslations": "qt@5",

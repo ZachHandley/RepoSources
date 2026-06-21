@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "h",
-    "total_mappings": 160
+    "total_mappings": 161
   },
   "mappings": {
     "hackbrowserdata": "hack-browser-data",
@@ -55,6 +55,7 @@
     "hdf5-netcdf-plugins": "netcdf",
     "hdf5-netcdf-plugins-debuginfo": "netcdf",
     "hdf5-tools": "hdf5@1.10",
+    "hdf5-tools-debuginfo": "hdf5@1.10",
     "heatshrink": "heatshrink",
     "heatshrink-debuginfo": "heatshrink",
     "heatshrink-devel": "heatshrink",

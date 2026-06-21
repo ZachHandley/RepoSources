@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "d",
-    "total_mappings": 329
+    "total_mappings": 331
   },
   "mappings": {
     "d2-bin": "d2",
@@ -61,6 +61,8 @@
     "dbus-git": "dbus",
     "dbus-nosystemd-git": "dbus",
     "dbus-selinux": "dbus",
+    "dbxcli": "dbxcli",
+    "dbxcli-bin": "dbxcli",
     "dc3dd": "dc3dd",
     "dcadec": "dcadec",
     "dcfldd": "dcfldd",
@@ -99,6 +101,7 @@
     "dejagnu-git": "deja-gnu",
     "deno-git": "deno",
     "deployer": "deployer",
+    "depsguard-bin": "depsguard",
     "desed": "desed",
     "desed-git": "desed",
     "desk": "desk",
@@ -196,7 +199,6 @@
     "docker-agent-bin": "docker-agent",
     "docker-buildx-git": "docker-buildx",
     "docker-clean-git": "docker-clean",
-    "docker-compose-bin": "docker-compose",
     "docker-compose-git": "docker-compose",
     "docker-compose-v1-bin": "docker-compose",
     "docker-debug": "docker-debug",
@@ -220,7 +222,7 @@
     "dooit-bin": "dooit",
     "dooit-git": "dooit",
     "dos2unix-git": "dos2unix",
-    "dosbox-gcc": "gcc@14",
+    "dosbox-gcc": "gcc@15",
     "dosbox-staging": "dosbox-staging",
     "dosbox-staging-bin": "dosbox-staging",
     "dosbox-staging-git": "dosbox-staging",

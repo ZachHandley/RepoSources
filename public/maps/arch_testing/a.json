@@ -1,14 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "a",
-    "total_mappings": 3
+    "total_mappings": 1
   },
   "mappings": {
-    "abseil-cpp": "abseil",
-    "apache-orc": "orc-tools",
-    "arrow": "apache-arrow"
+    "ansible": "ansible@13"
   }
 }

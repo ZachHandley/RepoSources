@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "h",
-    "total_mappings": 140
+    "total_mappings": 142
   },
   "mappings": {
     "HdrHistogram_c": "hdrhistogram_c",
@@ -123,6 +123,8 @@
     "httrack": "httrack",
     "httrack-devel": "httrack",
     "hugo": "hugo",
+    "hugo-debuginfo": "hugo",
+    "hugo-debugsource": "hugo",
     "hunspell": "hunspell",
     "hunspell-devel": "hunspell",
     "hunspell-filesystem": "hunspell",

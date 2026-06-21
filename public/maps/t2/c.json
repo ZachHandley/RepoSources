@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "c",
-    "total_mappings": 110
+    "total_mappings": 109
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -99,7 +99,6 @@
     "cpufeatures": "cpu_features",
     "cpufetch": "cpufetch",
     "cracklib": "cracklib",
-    "crm114": "crm114",
     "croc": "croc",
     "crypto++": "cryptopp",
     "cscope": "cscope",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "s",
@@ -16,7 +16,7 @@
     "scip": "scip",
     "scnlib": "scnlib",
     "scons": "scons",
-    "sdl": "sdl2",
+    "sdl": "sdl3",
     "sdl_image": "sdl2_image",
     "sdl_mixer": "sdl2_mixer",
     "sdl_net": "sdl2_net",

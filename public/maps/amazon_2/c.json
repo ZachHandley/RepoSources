@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "amazon_2",
     "shard": "c",
@@ -26,9 +26,9 @@
     "cmocka": "cmocka",
     "cni-plugins": "cni-plugins",
     "compat-db": "berkeley-db@5",
-    "compat-gcc-32": "gcc@14",
-    "compat-gcc-34": "gcc@14",
-    "compat-gcc-48": "gcc@14",
+    "compat-gcc-32": "gcc@15",
+    "compat-gcc-34": "gcc@15",
+    "compat-gcc-48": "gcc@15",
     "compat-glade315": "glade",
     "compat-glew": "glew",
     "compat-libcap1": "libcap",

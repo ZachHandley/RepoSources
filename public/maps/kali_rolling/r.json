@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "r",
@@ -230,6 +230,7 @@
     "rust-cbindgen": "cbindgen",
     "rust-clippy": "rust",
     "rust-comrak": "comrak",
+    "rust-coreutils": "uutils-coreutils",
     "rust-cotp": "cotp",
     "rust-czkawka-cli": "czkawka",
     "rust-czkawka-core": "czkawka",
@@ -248,7 +249,6 @@
     "rust-lldb": "rust",
     "rust-llvm": "rust",
     "rust-lsd": "lsd",
-    "rust-miniserve": "miniserve",
     "rust-numbat-cli": "numbat",
     "rust-pastel": "pastel",
     "rust-procs": "procs",

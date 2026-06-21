@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "b",
-    "total_mappings": 44
+    "total_mappings": 45
   },
   "mappings": {
     "bandwhich": "bandwhich",
@@ -28,6 +28,7 @@
     "binutils": "binutils",
     "bison": "bison",
     "bitcoin": "bitcoin",
+    "blake3": "blake3",
     "blosc": "c-blosc",
     "blosc-debug": "c-blosc",
     "blueprint-compiler": "blueprint-compiler",

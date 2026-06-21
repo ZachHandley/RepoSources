@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "n",
-    "total_mappings": 362
+    "total_mappings": 363
   },
   "mappings": {
     "nacl": "nacl",
@@ -367,6 +367,7 @@
     "nushell": "nushell",
     "nuspell": "nuspell",
     "nvi": "nvi",
+    "nvi2": "nvi2",
     "nyancat": "nyancat",
     "nyx": "nyx"
   }

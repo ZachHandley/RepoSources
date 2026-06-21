@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "side",
     "shard": "r",
-    "total_mappings": 341
+    "total_mappings": 340
   },
   "mappings": {
     "radicle": "radicle",
@@ -172,7 +172,6 @@
     "runtime/_base_/libreplaygain": "libreplaygain",
     "runtime/_base_/librsvg": "librsvg",
     "runtime/_base_/libsamplerate": "libsamplerate",
-    "runtime/_base_/libsdl2": "sdl2",
     "runtime/_base_/libsecret": "libsecret",
     "runtime/_base_/libsigc++": "libsigc++@2",
     "runtime/_base_/libsndfile": "libsndfile",

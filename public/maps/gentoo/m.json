@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "m",
-    "total_mappings": 434
+    "total_mappings": 435
   },
   "mappings": {
     "mail-client/aerc": "aerc",
@@ -342,6 +342,7 @@
     "media-sound/abcm2ps": "abcm2ps",
     "media-sound/abcmidi": "abcmidi",
     "media-sound/audacious": "audacious",
+    "media-sound/beets": "beets",
     "media-sound/cava": "cava",
     "media-sound/cd-discid": "cd-discid",
     "media-sound/chordii": "chordii",

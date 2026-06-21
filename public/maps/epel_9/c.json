@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "c",
@@ -390,10 +390,10 @@
     "cross-binutils-common": "aarch64-elf-binutils",
     "cross-binutils-debuginfo": "aarch64-elf-binutils",
     "cross-binutils-debugsource": "aarch64-elf-binutils",
-    "cross-gcc": "gcc@14",
-    "cross-gcc-common": "gcc@14",
-    "cross-gcc-debuginfo": "gcc@14",
-    "cross-gcc-debugsource": "gcc@14",
+    "cross-gcc": "gcc@15",
+    "cross-gcc-common": "gcc@15",
+    "cross-gcc-debuginfo": "gcc@15",
+    "cross-gcc-debugsource": "gcc@15",
     "cryfs": "cryfs",
     "cryfs-debuginfo": "cryfs",
     "cryfs-debugsource": "cryfs",

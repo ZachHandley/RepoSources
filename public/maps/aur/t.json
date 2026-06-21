@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "t",
-    "total_mappings": 381
+    "total_mappings": 387
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -201,6 +201,8 @@
     "tio": "tio",
     "tio-git": "tio",
     "tippecanoe": "tippecanoe",
+    "tirith": "tirith",
+    "tirith-bin": "tirith",
     "tkdiff": "tkdiff",
     "tkey-ssh-agent": "tkey-ssh-agent",
     "tkrzw-git": "tkrzw",
@@ -347,6 +349,7 @@
     "ttygif": "ttygif",
     "ttyplot": "ttyplot",
     "ttyplot-git": "ttyplot",
+    "tubeup": "tubeup",
     "tuc": "tuc",
     "tuc-bin": "tuc",
     "tuckr": "tuckr",
@@ -362,6 +365,9 @@
     "turso-git": "turso",
     "tut": "tut",
     "tut-bin": "tut",
+    "tuxedo": "tuxedo",
+    "tuxedo-bin": "tuxedo",
+    "tuxedo-git": "tuxedo",
     "tvnamer": "tvnamer",
     "twitch-cli": "twitch-cli",
     "twitch-cli-bin": "twitch-cli",

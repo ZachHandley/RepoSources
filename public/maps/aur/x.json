@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "x",
@@ -15,7 +15,7 @@
     "x3270-git": "x3270",
     "x86_64-elf-binutils": "x86_64-elf-binutils",
     "x86_64-elf-gcc": "x86_64-elf-gcc",
-    "x86_64-pc-freebsd13-gcc": "gcc@14",
+    "x86_64-pc-freebsd13-gcc": "gcc@15",
     "xapian-core-git": "xapian",
     "xapian-omega": "omega",
     "xaric": "xaric",

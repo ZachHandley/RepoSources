@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "tur",
     "shard": "b",
-    "total_mappings": 7
+    "total_mappings": 8
   },
   "mappings": {
     "bazel": "bazel@8",
     "bazel5": "bazel@8",
     "bazel6": "bazel@8",
     "bazel7": "bazel@8",
+    "beets": "beets",
     "bettercap": "bettercap",
     "biome": "biome",
     "box2d": "box2d"

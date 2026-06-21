@@ -1,12 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "fedora_40",
     "shard": "i",
-    "total_mappings": 214
+    "total_mappings": 220
   },
   "mappings": {
+    "IP2Location": "ip2location",
+    "IP2Location-data-sample": "ip2location",
+    "IP2Location-debuginfo": "ip2location",
+    "IP2Location-debugsource": "ip2location",
+    "IP2Location-devel": "ip2location",
+    "IP2Location-libs": "ip2location",
     "ImageMagick": "imagemagick@6",
     "ImageMagick-c++": "imagemagick@6",
     "ImageMagick-c++-devel": "imagemagick@6",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "p",
-    "total_mappings": 985
+    "total_mappings": 986
   },
   "mappings": {
     "PEGTL": "pegtl",
@@ -973,6 +973,7 @@
     "python/rdiff-backup": "rdiff-backup",
     "python/repo": "repo",
     "python/thefuck": "thefuck",
+    "python/tubeup": "tubeup",
     "python/twine": "twine",
     "python26": "python@3.9",
     "python27": "python@3.9",

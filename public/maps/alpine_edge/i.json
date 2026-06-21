@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "i",
-    "total_mappings": 205
+    "total_mappings": 208
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -18,7 +18,7 @@
     "i2util-doc": "i2util",
     "i686-mingw-w64-binutils": "aarch64-elf-binutils",
     "i686-mingw-w64-crt": "mingw-w64",
-    "i686-mingw-w64-gcc": "gcc@14",
+    "i686-mingw-w64-gcc": "gcc@15",
     "i686-mingw-w64-headers": "mingw-w64",
     "i686-mingw-w64-winpthreads": "mingw-w64",
     "iamb": "iamb",
@@ -141,6 +141,9 @@
     "iodine-doc": "iodine",
     "ioping": "ioping",
     "ioping-doc": "ioping",
+    "ip2location": "ip2location",
+    "ip2location-dev": "ip2location",
+    "ip2location-doc": "ip2location",
     "iperf": "iperf",
     "iperf-doc": "iperf",
     "iperf-openrc": "iperf",

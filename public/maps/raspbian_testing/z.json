@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "z",
@@ -31,6 +31,7 @@
     "zenity": "zenity",
     "zenity-common": "zenity",
     "zenmap": "nmap",
+    "zeroc-dsnode": "ice",
     "zeroc-glacier2": "ice",
     "zeroc-ice": "ice",
     "zeroc-ice-all-dev": "ice",
@@ -41,8 +42,7 @@
     "zeroc-icebox": "ice",
     "zeroc-icebridge": "ice",
     "zeroc-icegrid": "ice",
-    "zeroc-icegridgui": "ice",
-    "zeroc-icepatch2": "ice",
+    "zeroc-icestorm": "ice",
     "zeroinstall-injector": "zero-install",
     "zeromq3": "zeromq",
     "zfind": "zfind",

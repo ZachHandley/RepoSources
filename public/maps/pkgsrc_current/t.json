@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "t",
-    "total_mappings": 358
+    "total_mappings": 359
   },
   "mappings": {
     "TinySVM": "tinysvm",
@@ -311,6 +311,7 @@
     "tkdiff": "tkdiff",
     "tl-expected": "tl-expected",
     "tllist": "tllist",
+    "tload": "procps",
     "tlrc": "tlrc",
     "tlsx": "tlsx",
     "tmate": "tmate",

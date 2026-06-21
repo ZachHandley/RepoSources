@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "f",
-    "total_mappings": 310
+    "total_mappings": 312
   },
   "mappings": {
     "f3": "f3",
@@ -165,6 +165,8 @@
     "foremost": "foremost",
     "foremost-debuginfo": "foremost",
     "forgejo": "forgejo",
+    "forgejo-cli": "forgejo-cli",
+    "forgejo-cli-debuginfo": "forgejo-cli",
     "forgejo-debuginfo": "forgejo",
     "fossil": "fossil",
     "fossil-debuginfo": "fossil",

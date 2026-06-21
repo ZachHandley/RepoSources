@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "s",
@@ -120,7 +120,6 @@
     "sdcc": "sdcc",
     "sdcv": "sdcv",
     "sdl12-compat": "sdl12-compat",
-    "sdl2": "sdl2",
     "sdl2_gfx": "sdl2_gfx",
     "sdl2_image": "sdl2_image",
     "sdl2_mixer": "sdl2_mixer",
@@ -347,6 +346,7 @@
     "security/putty": "putty",
     "security/putty-nogtk": "putty",
     "security/py-acme": "certbot",
+    "security/py-badkeys": "badkeys",
     "security/py-certbot": "certbot",
     "security/py-certbot-apache": "certbot",
     "security/py-certbot-dns-cloudflare": "certbot",
@@ -807,7 +807,7 @@
     "sysutils/diskonaut": "diskonaut",
     "sysutils/diskus": "diskus",
     "sysutils/dmg2img": "dmg2img",
-    "sysutils/docker": "docker",
+    "sysutils/docker-buildx": "docker-buildx",
     "sysutils/docker-compose": "docker-compose",
     "sysutils/docker-machine": "docker-machine",
     "sysutils/doctl": "doctl",

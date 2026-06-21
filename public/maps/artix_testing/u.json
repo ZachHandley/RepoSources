@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "u",
-    "total_mappings": 1
+    "total_mappings": 3
   },
   "mappings": {
-    "usbip": "linux-headers@6.8"
+    "util-linux": "util-linux",
+    "util-linux-libs": "gnu-getopt",
+    "uv": "uv"
   }
 }

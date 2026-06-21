@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "c",
@@ -493,7 +493,7 @@
     "cpl": "cpl",
     "cpl-devel": "cpl",
     "cpmtools": "cpmtools",
-    "cpp": "gcc@14",
+    "cpp": "gcc@15",
     "cpp-httplib": "cpp-httplib",
     "cpp-httplib-devel": "cpp-httplib",
     "cppad": "cppad",
@@ -528,8 +528,8 @@
     "croc": "croc",
     "cross-binutils": "aarch64-elf-binutils",
     "cross-binutils-common": "aarch64-elf-binutils",
-    "cross-gcc": "gcc@14",
-    "cross-gcc-common": "gcc@14",
+    "cross-gcc": "gcc@15",
+    "cross-gcc-common": "gcc@15",
     "crun": "crun",
     "crun-krun": "crun",
     "crun-wasm": "crun",

@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "a",
-    "total_mappings": 284
+    "total_mappings": 285
   },
   "mappings": {
     "a2ps": "a2ps",
     "aalib": "aalib",
     "aamath": "aamath",
     "aarch64-none-elf-binutils": "aarch64-elf-binutils",
-    "aarch64-none-elf-gcc": "gcc@14",
+    "aarch64-none-elf-gcc": "gcc@15",
     "abcde": "abcde",
     "abcl": "abcl",
     "abook": "abook",
@@ -163,6 +163,7 @@
     "audio/adplay": "adplay",
     "audio/adplug": "adplug",
     "audio/audacious/player": "audacious",
+    "audio/beets": "beets",
     "audio/cd-discid": "cd-discid",
     "audio/chromaprint": "chromaprint",
     "audio/cmu-sphinx3": "cmu-pocketsphinx",
@@ -285,7 +286,7 @@
     "avahi-gui": "avahi",
     "avahi-libs": "avahi",
     "avr-binutils": "aarch64-elf-binutils",
-    "avr-gcc": "gcc@14",
+    "avr-gcc": "gcc@15",
     "avr-gdb": "aarch64-elf-gdb",
     "avr32-binutils": "aarch64-elf-binutils",
     "avrdude": "avrdude",

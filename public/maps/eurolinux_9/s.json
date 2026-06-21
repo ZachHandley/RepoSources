@@ -1,17 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "eurolinux_9",
     "shard": "s",
-    "total_mappings": 226
+    "total_mappings": 221
   },
   "mappings": {
-    "SDL2": "sdl2",
-    "SDL2-debuginfo": "sdl2",
-    "SDL2-debugsource": "sdl2",
-    "SDL2-devel": "sdl2",
-    "SDL2-static": "sdl2",
     "s-nail": "s-nail",
     "s-nail-debuginfo": "s-nail",
     "s-nail-debugsource": "s-nail",

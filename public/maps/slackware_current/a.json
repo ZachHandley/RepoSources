@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackware_current",
     "shard": "a",
-    "total_mappings": 23
+    "total_mappings": 24
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -13,6 +13,7 @@
     "abseil-cpp": "abseil",
     "acl": "acl",
     "adwaita-icon-theme": "adwaita-icon-theme",
+    "aha": "aha",
     "alpine": "alpine",
     "alsa-lib": "alsa-lib",
     "aom": "aom",

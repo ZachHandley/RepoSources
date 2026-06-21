@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T05:21:32Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "f",
-    "total_mappings": 1
+    "total_mappings": 3
   },
   "mappings": {
-    "fontconfig": "fontconfig"
+    "fceux": "fceux",
+    "ffmpeg": "ffmpeg@7",
+    "ffmpeg4.4": "ffmpeg@7"
   }
 }

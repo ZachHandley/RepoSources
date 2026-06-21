@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "c",
-    "total_mappings": 79
+    "total_mappings": 81
   },
   "mappings": {
     "CImg": "cimg",
@@ -33,6 +33,7 @@
     "cfv": "cfv",
     "cgal": "cgal",
     "chafa": "chafa",
+    "charls": "charls",
     "check": "check",
     "cherrytree": "cherrytree",
     "chkrootkit": "chkrootkit",
@@ -64,6 +65,7 @@
     "convmv": "convmv",
     "coreutils": "coreutils",
     "corkscrew": "corkscrew",
+    "corrosion": "corrosion",
     "couchdb": "couchdb",
     "cowsay": "cowsay",
     "cpio": "cpio",

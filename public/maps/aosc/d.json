@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "d",
-    "total_mappings": 134
+    "total_mappings": 135
   },
   "mappings": {
     "daemonize": "daemonize",
@@ -58,6 +58,7 @@
     "desktop-gnome/gtk-4": "gtk+",
     "desktop-gnome/gtk-vnc": "gtk-vnc",
     "desktop-gnome/gtkglext": "gtkglext",
+    "desktop-gnome/gtkmm-2.4": "gtkmm",
     "desktop-gnome/gtkmm-3": "gtkmm",
     "desktop-gnome/gtkmm-4": "gtkmm",
     "desktop-gnome/gtkspell": "gtkspell3",

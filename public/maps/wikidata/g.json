@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "g",
@@ -41,7 +41,7 @@
     "GNU Chess": "gnu-chess",
     "GNU Common Lisp": "gcl",
     "GNU Compact Disc Input and Control Library": "libcdio",
-    "GNU Compiler Collection": "gcc@14",
+    "GNU Compiler Collection": "gcc@15",
     "GNU Complexity": "gnu-complexity",
     "GNU Core Utilities": "coreutils",
     "GNU Cppi": "cppi",

@@ -1,16 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "g",
-    "total_mappings": 5
+    "total_mappings": 2
   },
   "mappings": {
-    "gcc15": "gcc@14",
-    "gcc15-fortran": "gcc@14",
-    "gcc15-libs": "gcc@14",
-    "gdal": "gdal",
-    "grafana": "grafana"
+    "glslang": "glslang",
+    "gst-plugin-pipewire": "pipewire"
   }
 }

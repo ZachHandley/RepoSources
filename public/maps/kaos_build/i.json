@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "i",
-    "total_mappings": 3
+    "total_mappings": 4
   },
   "mappings": {
     "icann-rdap": "icann-rdap",
     "inetutils": "inetutils",
+    "iproute2": "iproute2",
     "iptables": "iptables"
   }
 }

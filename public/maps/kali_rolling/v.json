@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "v",
-    "total_mappings": 128
+    "total_mappings": 135
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -102,6 +102,13 @@
     "vncsnapshot": "vncsnapshot",
     "vnstat": "vnstat",
     "vnstati": "vnstat",
+    "vnu": "vnu",
+    "vnu-client": "vnu",
+    "vnu-common": "vnu",
+    "vnu-jetty12": "vnu",
+    "vnu-jetty9": "vnu",
+    "vnu-server": "vnu",
+    "vnu-tomcat11": "vnu",
     "vo-aacenc": "libvo-aacenc",
     "vo-amrwbenc": "vo-amrwbenc",
     "volk": "volk",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "centos_7",
     "shard": "c",
@@ -20,9 +20,9 @@
     "compat-db": "berkeley-db@5",
     "compat-exiv2-023": "exiv2",
     "compat-exiv2-026": "exiv2",
-    "compat-gcc-32": "gcc@14",
-    "compat-gcc-34": "gcc@14",
-    "compat-gcc-44": "gcc@14",
+    "compat-gcc-32": "gcc@15",
+    "compat-gcc-34": "gcc@15",
+    "compat-gcc-44": "gcc@15",
     "compat-glade315": "glade",
     "compat-glew": "glew",
     "compat-glibc": "glibc@2.17",

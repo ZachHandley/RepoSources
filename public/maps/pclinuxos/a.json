@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "a",
@@ -80,7 +80,7 @@
     "avahi": "avahi",
     "avce00": "avce00",
     "avfs": "avfs",
-    "avr-gcc": "gcc@14",
+    "avr-gcc": "gcc@15",
     "avra": "avra",
     "avrdude": "avrdude",
     "axel": "axel",

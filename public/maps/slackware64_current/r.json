@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackware64_current",
     "shard": "r",
-    "total_mappings": 12
+    "total_mappings": 13
   },
   "mappings": {
+    "range-v3": "range-v3",
     "rcs": "rcs",
     "rdfind": "rdfind",
     "re2c": "re2c",

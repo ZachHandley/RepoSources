@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "p",
-    "total_mappings": 330
+    "total_mappings": 331
   },
   "mappings": {
     "p0f": "p0f",
@@ -76,6 +76,7 @@
     "pgcli": "pgcli",
     "pgformatter": "pgformatter",
     "pgpdump": "pgpdump",
+    "pgvector": "pgvector",
     "phodav": "phodav",
     "php": "php",
     "php-apache": "php@8.4",
@@ -153,7 +154,7 @@
     "poppler": "poppler",
     "poppler-glib": "poppler",
     "poppler-qt5": "poppler-qt5",
-    "poppler-qt6": "poppler",
+    "poppler-qt6": "poppler-qt6",
     "popt": "popt",
     "portaudio": "portaudio",
     "portmidi": "portmidi",

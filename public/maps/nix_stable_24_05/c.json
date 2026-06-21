@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "c",
-    "total_mappings": 415
+    "total_mappings": 417
   },
   "mappings": {
     "CUnit": "cunit",
@@ -314,6 +314,7 @@
     "conserver": "conserver",
     "console-bridge": "console_bridge",
     "consul-template": "consul-template",
+    "container2wasm": "container2wasm",
     "containerd": "containerd",
     "convco": "convco",
     "convertlit": "convertlit",
@@ -415,6 +416,7 @@
     "cxxopts": "cxxopts",
     "cxxtest": "cxxtest",
     "cyan": "cyan",
+    "cyclonedx-cli": "cyclonedx-cli",
     "cyclonedx-gomod": "cyclonedx-gomod",
     "cyclonedx-python": "cyclonedx-python",
     "cyme": "cyme",

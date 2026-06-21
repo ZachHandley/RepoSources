@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "m",
-    "total_mappings": 709
+    "total_mappings": 708
   },
   "mappings": {
     "M4RI": "m4ri",
@@ -264,6 +264,7 @@
     "math/symengine": "symengine",
     "math/ttmath": "ttmath",
     "math/units": "gnu-units",
+    "math/unuran": "unuran",
     "math/vampire": "vampire",
     "math/viennacl": "viennacl",
     "math/vowpal_wabbit": "vowpal-wabbit",
@@ -317,9 +318,6 @@
     "merve": "merve",
     "mesa-devel": "mesa",
     "mesa-dri": "mesa",
-    "mesa-gallium-va": "mesa",
-    "mesa-gallium-vdpau": "mesa",
-    "mesa-gallium-xa": "mesa",
     "mesa-libs": "mesa",
     "meson": "meson",
     "metabase": "metabase",
@@ -396,6 +394,7 @@
     "misc/getopt": "gnu-getopt",
     "misc/ggml": "ggml",
     "misc/gitlogue": "gitlogue",
+    "misc/gnu-watch": "procps",
     "misc/gobuster": "gobuster",
     "misc/gollama": "gollama",
     "misc/gpsim": "gpsim",

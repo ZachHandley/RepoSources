@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "g",
-    "total_mappings": 520
+    "total_mappings": 519
   },
   "mappings": {
     "g-ls": "g-ls",
@@ -36,8 +36,8 @@
     "gbenchmark": "google-benchmark",
     "gcab": "gcab",
     "gcalcli": "gcalcli",
-    "gcc": "gcc@14",
-    "gcc-unwrapped": "gcc@14",
+    "gcc": "gcc@15",
+    "gcc-unwrapped": "gcc@15",
     "gci": "gci",
     "gcl": "gcl",
     "gcli": "gcli",
@@ -359,7 +359,6 @@
     "google-authenticator-libpam": "google-authenticator-libpam",
     "google-java-format": "google-java-format",
     "goose": "goose",
-    "goose-cli": "block-goose-cli",
     "gopass": "gopass",
     "gopass-jsonapi": "gopass-jsonapi",
     "gopeed": "gopeed",

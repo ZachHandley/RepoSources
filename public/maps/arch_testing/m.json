@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "m",
-    "total_mappings": 3
+    "total_mappings": 2
   },
   "mappings": {
     "maturin": "maturin",
-    "meilisearch": "meilisearch",
-    "mosh": "mosh"
+    "meilisearch": "meilisearch"
   }
 }

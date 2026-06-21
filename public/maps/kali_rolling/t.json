@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "t",
-    "total_mappings": 363
+    "total_mappings": 364
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -12,6 +12,7 @@
     "ta-lib-dev": "ta-lib",
     "tabix": "htslib",
     "taglib": "taglib",
+    "tailscale": "tailscale",
     "tailspin": "tailspin",
     "taktuk": "taktuk",
     "tao-pegtl": "pegtl",

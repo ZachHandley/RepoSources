@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_23_11",
     "shard": "l",
-    "total_mappings": 996
+    "total_mappings": 997
   },
   "mappings": {
     "LASzip": "laszip",
@@ -246,7 +246,7 @@
     "libftdi1": "libftdi",
     "libfyaml": "libfyaml",
     "libgadu": "libgadu",
-    "libgcc": "gcc@14",
+    "libgcc": "gcc@15",
     "libgccjit": "libgccjit",
     "libgcrypt": "libgcrypt",
     "libgcrypt_1_8": "libgcrypt",
@@ -277,7 +277,7 @@
     "libhdhomerun": "libhdhomerun",
     "libheif": "libheif",
     "libhwy": "highway",
-    "libiberty": "gcc@14",
+    "libiberty": "gcc@15",
     "libical": "libical",
     "libicns": "libicns",
     "libiconv": "libiconv",
@@ -877,6 +877,7 @@
     "liquid-dsp": "liquid-dsp",
     "liquidctl": "liquidctl",
     "liquidprompt": "liquidprompt",
+    "liquidsoap": "liquidsoap",
     "lit": "lit",
     "litecli": "litecli",
     "litehtml": "litehtml",

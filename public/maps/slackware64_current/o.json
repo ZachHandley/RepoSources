@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackware64_current",
     "shard": "o",
-    "total_mappings": 19
+    "total_mappings": 20
   },
   "mappings": {
     "OpenCC": "opencc",
     "ocl-icd": "ocl-icd",
+    "olm": "libolm",
     "oniguruma": "oniguruma",
     "openal-soft": "openal-soft",
     "openblas": "openblas",

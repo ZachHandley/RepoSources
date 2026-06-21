@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "t",
-    "total_mappings": 287
+    "total_mappings": 288
   },
   "mappings": {
     "TiMidity++": "timidity",
@@ -166,6 +166,7 @@
     "tinyxml2": "tinyxml2",
     "tio": "tio",
     "tio-debuginfo": "tio",
+    "tirith": "tirith",
     "tiv": "terminalimageviewer",
     "tiv-debuginfo": "terminalimageviewer",
     "tkdiff": "tkdiff",

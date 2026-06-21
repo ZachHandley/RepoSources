@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "i",
@@ -18,7 +18,7 @@
     "i686-elf-binutils": "i686-elf-binutils",
     "i686-elf-binutils-bin": "aarch64-elf-binutils",
     "i686-elf-gcc": "i686-elf-gcc",
-    "i686-elf-gcc-bin": "gcc@14",
+    "i686-elf-gcc-bin": "gcc@15",
     "i686-elf-gdb": "aarch64-elf-gdb",
     "i686-linux-gnu-binutils": "aarch64-elf-binutils",
     "ia64-linux-gnu-binutils": "aarch64-elf-binutils",

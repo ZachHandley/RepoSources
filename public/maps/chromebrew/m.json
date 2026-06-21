@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "m",
-    "total_mappings": 78
+    "total_mappings": 79
   },
   "mappings": {
     "m4": "m4",
@@ -51,6 +51,7 @@
     "mp4v2": "mp4v2",
     "mpc": "libmpc",
     "mpdecimal": "mpdecimal",
+    "mpfi": "mpfi",
     "mpfr": "mpfr",
     "mpg123": "mpg123",
     "mpv": "mpv",

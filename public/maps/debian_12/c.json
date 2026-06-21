@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "debian_12",
     "shard": "c",
@@ -584,10 +584,10 @@
     "cpl": "cpl",
     "cpm": "cpm",
     "cpmtools": "cpmtools",
-    "cpp-11": "gcc@14",
-    "cpp-11-doc": "gcc@14",
-    "cpp-12": "gcc@14",
-    "cpp-12-doc": "gcc@14",
+    "cpp-11": "gcc@15",
+    "cpp-11-doc": "gcc@15",
+    "cpp-12": "gcc@15",
+    "cpp-12-doc": "gcc@15",
     "cpp-httplib": "cpp-httplib",
     "cppcheck": "cppcheck",
     "cppcheck-gui": "cppcheck",

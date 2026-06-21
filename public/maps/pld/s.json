@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "s",
-    "total_mappings": 151
+    "total_mappings": 149
   },
   "mappings": {
-    "SDL2": "sdl2",
     "SDL2_gfx": "sdl2_gfx",
     "SDL2_image": "sdl2_image",
     "SDL2_mixer": "sdl2_mixer",
@@ -38,7 +37,6 @@
     "sassc": "sassc",
     "saxon": "saxon",
     "sbcl": "sbcl",
-    "sblim-sfcc": "sblim-sfcc",
     "sc-im": "sc-im",
     "sc68": "sc68",
     "sccache": "sccache",

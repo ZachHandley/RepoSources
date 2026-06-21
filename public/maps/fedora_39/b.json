@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "b",
-    "total_mappings": 485
+    "total_mappings": 488
   },
   "mappings": {
     "BibTool": "bib-tool",
@@ -143,6 +143,9 @@
     "beecrypt-debuginfo": "beecrypt",
     "beecrypt-debugsource": "beecrypt",
     "beecrypt-devel": "beecrypt",
+    "beets": "beets",
+    "beets-doc": "beets",
+    "beets-plugins": "beets",
     "bench": "bench",
     "bench-debuginfo": "bench",
     "bench-debugsource": "bench",

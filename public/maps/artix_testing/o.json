@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-07T06:16:43Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "o",
-    "total_mappings": 1
+    "total_mappings": 2
   },
   "mappings": {
-    "openmp": "llvm@21"
+    "opencl-mesa": "mesa",
+    "openssl": "openssl@3"
   }
 }

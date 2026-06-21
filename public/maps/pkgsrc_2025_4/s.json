@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "s",
     "total_mappings": 658
   },
   "mappings": {
-    "SDL2": "sdl2",
     "SDL2_gfx": "sdl2_gfx",
     "SDL2_image": "sdl2_image",
     "SDL2_mixer": "sdl2_mixer",
@@ -635,6 +634,7 @@
     "sysutils/tarsnap-gui": "tarsnap-gui",
     "sysutils/tealdeer": "tealdeer",
     "sysutils/testdisk": "testdisk",
+    "sysutils/tload": "procps",
     "sysutils/tmux-mem-cpu-load": "tmux-mem-cpu-load",
     "sysutils/trash": "trash",
     "sysutils/tre-command": "tre-command",

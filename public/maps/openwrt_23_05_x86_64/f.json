@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openwrt_23_05_x86_64",
     "shard": "f",
@@ -82,7 +82,7 @@
     "feeds/packages/devel/delve": "delve",
     "feeds/packages/devel/diffutils": "diffutils",
     "feeds/packages/devel/flex": "flex",
-    "feeds/packages/devel/gcc": "gcc@14",
+    "feeds/packages/devel/gcc": "gcc@15",
     "feeds/packages/devel/gitlab-runner": "gitlab-runner",
     "feeds/packages/devel/libtool-bin": "libtool",
     "feeds/packages/devel/lpc21isp": "lpc21isp",

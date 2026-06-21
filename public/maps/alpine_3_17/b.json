@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_3_17",
     "shard": "b",
-    "total_mappings": 251
+    "total_mappings": 254
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -63,6 +63,9 @@
     "beanstalkd-doc": "beanstalkd",
     "bear": "bear",
     "bear-doc": "bear",
+    "beets": "beets",
+    "beets-doc": "beets",
+    "beets-zsh-completion": "beets",
     "benchmark": "google-benchmark",
     "benchmark-dev": "google-benchmark",
     "benchmark-doc": "google-benchmark",

@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "s",
-    "total_mappings": 4
+    "total_mappings": 3
   },
   "mappings": {
-    "sequoia-sq": "sequoia-sq",
-    "sequoia-sqv": "sequoia-sqv",
-    "squid": "squid",
-    "stoken": "stoken"
+    "shaderc": "shaderc",
+    "spirv-headers": "spirv-headers",
+    "spirv-tools": "spirv-tools"
   }
 }

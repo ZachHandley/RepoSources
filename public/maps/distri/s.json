@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "distri",
     "shard": "s",
-    "total_mappings": 12
+    "total_mappings": 11
   },
   "mappings": {
     "screen": "screen",
-    "sdl2": "sdl2",
     "sed": "gnu-sed",
     "shared-mime-info": "shared-mime-info",
     "silversearcher": "the_silver_searcher",

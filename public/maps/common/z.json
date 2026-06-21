@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "z",
-    "total_mappings": 1064
+    "total_mappings": 1065
   },
   "mappings": {
     "Z shell": "zsh",
@@ -35,7 +35,6 @@
     "Zip": "zip",
     "Zola": "zola",
     "Zopfli": "zopfli",
-    "Zork": "zork",
     "Zstandard": "zstd",
     "Zstd": "zstd",
     "Zsync": "zsync",
@@ -217,10 +216,7 @@
     "zabbix50.server-mysql": "zabbix",
     "zabbix50.web": "zabbix",
     "zabbix6-agent": "zabbix",
-    "zabbix6-frontend-php82": "zabbix",
-    "zabbix6-frontend-php83": "zabbix",
-    "zabbix6-frontend-php84": "zabbix",
-    "zabbix6-frontend-php85": "zabbix",
+    "zabbix6-frontend": "zabbix",
     "zabbix6-proxy": "zabbix",
     "zabbix6-server": "zabbix",
     "zabbix6.0": "zabbix",
@@ -477,6 +473,7 @@
     "zig-libs": "zig@0.15",
     "zig-libs0.14": "zig@0.15",
     "zig-libs0.15": "zig@0.15",
+    "zig-libs0.16": "zig@0.15",
     "zig-master": "zig@0.15",
     "zig-master-bin": "zig@0.15",
     "zig-master-bootstrap": "zig@0.15",
@@ -490,6 +487,7 @@
     "zig-rpm-macros": "zig@0.15",
     "zig-rpm-macros0.14": "zig@0.15",
     "zig-rpm-macros0.15": "zig@0.15",
+    "zig-rpm-macros0.16": "zig@0.15",
     "zig-zls": "zls",
     "zig0.10-bin": "zig@0.15",
     "zig0.11-bin": "zig@0.15",
@@ -506,6 +504,9 @@
     "zig0.15-debuginfo": "zig@0.15",
     "zig0.15-debugsource": "zig@0.15",
     "zig0.15-dev": "zig@0.15",
+    "zig0.16": "zig@0.15",
+    "zig0.16-debuginfo": "zig@0.15",
+    "zig0.16-debugsource": "zig@0.15",
     "zig0.2-bin": "zig@0.15",
     "zig0.3-bin": "zig@0.15",
     "zig0.4-bin": "zig@0.15",

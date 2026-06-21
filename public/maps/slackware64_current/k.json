@@ -1,20 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackware64_current",
     "shard": "k",
-    "total_mappings": 9
+    "total_mappings": 13
   },
   "mappings": {
     "karchive": "karchive",
+    "karchive5": "karchive",
     "kdoctools": "kdoctools",
+    "kdoctools5": "kdoctools",
     "kernel-headers": "linux-headers@6.8",
     "kernel-source": "linux-headers@6.8",
     "keyutils": "keyutils",
     "ki18n": "ki18n",
+    "ki18n5": "ki18n",
     "kmod": "kmod",
     "krb5": "krb5",
-    "ksh93": "ksh93"
+    "ksh93": "ksh93",
+    "ktexttemplate": "ktexttemplate"
   }
 }

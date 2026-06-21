@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "o",
-    "total_mappings": 157
+    "total_mappings": 156
   },
   "mappings": {
     "OpenHMD": "openhmd",
@@ -87,7 +87,6 @@
     "openjdk11": "openjdk@25",
     "openjdk17": "openjdk@25",
     "openjdk21": "openjdk@25",
-    "openjdk24": "openjdk@25",
     "openjdk25": "openjdk@25",
     "openjdk26": "openjdk@25",
     "openjdk8": "openjdk@25",

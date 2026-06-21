@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "n",
-    "total_mappings": 545
+    "total_mappings": 547
   },
   "mappings": {
     "nInvaders": "ninvaders",
@@ -249,6 +249,7 @@
     "net/ifstat": "ifstat",
     "net/ilbc": "libilbc",
     "net/iodine": "iodine",
+    "net/ip2location": "ip2location",
     "net/ipinfo-cli": "ipinfo",
     "net/ipsumdump": "ipsumdump",
     "net/jose": "jose",
@@ -544,6 +545,7 @@
     "nut-devel": "nut",
     "nuttcp": "nuttcp",
     "nvc": "nvc",
+    "nvi2": "nvi2",
     "nvimpager": "nvimpager",
     "nvtop": "nvtop",
     "nwchem": "nwchem",

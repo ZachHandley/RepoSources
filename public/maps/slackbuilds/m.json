@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "m",
-    "total_mappings": 117
+    "total_mappings": 118
   },
   "mappings": {
     "misc/abduco": "abduco",
@@ -77,6 +77,7 @@
     "multimedia/abcMIDI": "abcmidi",
     "multimedia/aces_container": "aces_container",
     "multimedia/aom": "aom",
+    "multimedia/beets": "beets",
     "multimedia/castget": "castget",
     "multimedia/ccextractor": "ccextractor",
     "multimedia/clamz": "clamz",

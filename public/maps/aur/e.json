@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "e",
@@ -123,7 +123,7 @@
     "epic5": "epic5",
     "epic5-git": "epic5",
     "epinio-bin": "epinio",
-    "epiphany-elf-gcc": "gcc@14",
+    "epiphany-elf-gcc": "gcc@15",
     "epr-git": "epr",
     "eprover": "eprover",
     "epstool": "epstool",

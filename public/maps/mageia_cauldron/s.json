@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "s",
-    "total_mappings": 242
+    "total_mappings": 241
   },
   "mappings": {
     "SDL_gfx": "sdl_gfx",
@@ -45,7 +45,6 @@
     "sdb": "sdb",
     "sdcc": "sdcc",
     "sdl12-compat": "sdl12-compat",
-    "sdl2": "sdl2",
     "sdl2_gfx": "sdl2_gfx",
     "sdl2_gfx-docs": "sdl2_gfx",
     "sdl2_image": "sdl2_image",

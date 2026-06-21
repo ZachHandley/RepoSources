@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_apps_tumbleweed",
     "shard": "b",
-    "total_mappings": 6
+    "total_mappings": 7
   },
   "mappings": {
     "bchunk": "bchunk",
     "bchunk-debuginfo": "bchunk",
     "bchunk-debugsource": "bchunk",
+    "beets": "beets",
     "bpm-tools": "bpm-tools",
     "bpm-tools-debuginfo": "bpm-tools",
     "bpm-tools-debugsource": "bpm-tools"

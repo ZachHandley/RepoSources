@@ -1,19 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "a",
-    "total_mappings": 23
+    "total_mappings": 20
   },
   "mappings": {
+    "abseil": "abseil",
     "affs-modules-7.1-m68k-di": "linux-headers@6.8",
     "affs-modules-7.1-powerpc-di": "linux-headers@6.8",
     "affs-modules-7.1-powerpc64-di": "linux-headers@6.8",
     "agent-transfer": "monkeysphere",
-    "aide": "aide",
-    "aide-common": "aide",
-    "aide-dynamic": "aide",
     "amazon-ecr-credential-helper": "docker-credential-helper-ecr",
     "antlr4-cpp-runtime": "antlr4-cpp-runtime",
     "arduino-cli": "arduino-cli",
@@ -28,7 +26,6 @@
     "ata-modules-7.1-powerpc-di": "linux-headers@6.8",
     "ata-modules-7.1-powerpc64-di,ata-modules-7.1-powerpc64le-di": "linux-headers@6.8",
     "ata-modules-7.1-riscv64-di": "linux-headers@6.8",
-    "ata-modules-7.1-sparc64-di": "linux-headers@6.8",
-    "autopoint": "gettext"
+    "ata-modules-7.1-sparc64-di": "linux-headers@6.8"
   }
 }

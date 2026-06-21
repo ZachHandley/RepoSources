@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "s",
-    "total_mappings": 47
+    "total_mappings": 46
   },
   "mappings": {
     "sassc": "sassc",
@@ -15,7 +15,6 @@
     "scons": "scons",
     "screen": "screen",
     "scrypt": "scrypt",
-    "sdl2": "sdl2",
     "sdl2_image": "sdl2_image",
     "sdl2_mixer": "sdl2_mixer",
     "sdl2_net": "sdl2_net",

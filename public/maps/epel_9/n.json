@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "n",
-    "total_mappings": 263
+    "total_mappings": 262
   },
   "mappings": {
     "nagios": "nagios",
@@ -217,7 +217,6 @@
     "node-exporter-debugsource": "node_exporter",
     "nodejs-devel": "node@24",
     "nodejs-epel": "node@24",
-    "nodejs-esbuild": "esbuild",
     "nodejs-svgo": "svgo",
     "notcurses": "notcurses",
     "notcurses-debuginfo": "notcurses",

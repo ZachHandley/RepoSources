@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackware64_current",
     "shard": "l",
-    "total_mappings": 198
+    "total_mappings": 200
   },
   "mappings": {
     "LibRaw": "libraw",
@@ -14,6 +14,7 @@
     "lcms": "little-cms2",
     "lcms2": "little-cms2",
     "lensfun": "lensfun",
+    "leptonica": "leptonica",
     "less": "less",
     "lftp": "lftp",
     "lhasa": "lhasa",
@@ -107,6 +108,7 @@
     "libjpeg-turbo": "jpeg-turbo",
     "libksba": "libksba",
     "libmad": "mad",
+    "libmaxminddb": "libmaxminddb",
     "libmng": "libmng",
     "libmnl": "libmnl",
     "libmtp": "libmtp",

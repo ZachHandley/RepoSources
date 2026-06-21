@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "a",
-    "total_mappings": 709
+    "total_mappings": 707
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -298,7 +298,6 @@
     "app-editors/jed": "jed",
     "app-editors/joe": "joe",
     "app-editors/jove": "jove",
-    "app-editors/jupp": "jupp",
     "app-editors/kakoune": "kakoune",
     "app-editors/mg": "mg",
     "app-editors/micro": "micro",
@@ -650,7 +649,6 @@
     "app-text/ocrad": "ocrad",
     "app-text/odt2txt": "odt2txt",
     "app-text/pandoc": "pandoc",
-    "app-text/pandoc-bin": "pandoc",
     "app-text/pandoc-crossref-bin": "pandoc-crossref",
     "app-text/papers": "gnome-papers",
     "app-text/paps": "paps",

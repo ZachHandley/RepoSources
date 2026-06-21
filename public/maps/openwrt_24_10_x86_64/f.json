@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "f",
-    "total_mappings": 741
+    "total_mappings": 740
   },
   "mappings": {
     "faad2": "faad2",
@@ -85,7 +85,7 @@
     "feeds/packages/devel/delve": "delve",
     "feeds/packages/devel/diffutils": "diffutils",
     "feeds/packages/devel/flex": "flex",
-    "feeds/packages/devel/gcc": "gcc@14",
+    "feeds/packages/devel/gcc": "gcc@15",
     "feeds/packages/devel/gitlab-runner": "gitlab-runner",
     "feeds/packages/devel/libtool-bin": "libtool",
     "feeds/packages/devel/lpc21isp": "lpc21isp",
@@ -356,7 +356,6 @@
     "feeds/packages/net/dnscrypt-proxy2": "dnscrypt-proxy",
     "feeds/packages/net/dnsdist": "dnsdist",
     "feeds/packages/net/dnstop": "dnstop",
-    "feeds/packages/net/dufs": "dufs",
     "feeds/packages/net/esniper": "esniper",
     "feeds/packages/net/fail2ban": "fail2ban",
     "feeds/packages/net/fastd": "fastd",
@@ -582,13 +581,13 @@
     "feeds/packages/utils/pigz": "pigz",
     "feeds/packages/utils/podman": "podman",
     "feeds/packages/utils/procps-ng": "procps",
+    "feeds/packages/utils/procps-ng3": "procps",
     "feeds/packages/utils/procs": "procs",
     "feeds/packages/utils/progress": "progress",
     "feeds/packages/utils/pv": "pv",
     "feeds/packages/utils/qemu": "qemu",
     "feeds/packages/utils/readsb": "readsb",
     "feeds/packages/utils/restic": "restic",
-    "feeds/packages/utils/ripgrep": "ripgrep",
     "feeds/packages/utils/rrdtool1": "rrdtool",
     "feeds/packages/utils/rtl_433": "rtl_433",
     "feeds/packages/utils/runc": "runc",

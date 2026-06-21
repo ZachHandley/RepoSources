@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "l",
-    "total_mappings": 478
+    "total_mappings": 479
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -38,7 +38,7 @@
     "lang/fpc": "fpc",
     "lang/gambit": "gambit-scheme",
     "lang/gawk": "gawk",
-    "lang/gcc/15": "gcc@14",
+    "lang/gcc/15": "gcc@15",
     "lang/gerbil": "gerbil-scheme",
     "lang/gforth": "gforth",
     "lang/ghc": "ghc@9.8",
@@ -159,6 +159,7 @@
     "libcdio": "libcdio",
     "libcdio-paranoia": "libcdio-paranoia",
     "libcerf": "libcerf",
+    "libchardet": "libchardet",
     "libcoap": "libcoap",
     "libconfig": "libconfig",
     "libconfuse": "confuse",

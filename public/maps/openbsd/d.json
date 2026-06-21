@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "d",
-    "total_mappings": 597
+    "total_mappings": 596
   },
   "mappings": {
     "DevIL": "devil",
@@ -94,7 +94,7 @@
     "devel/argp-standalone": "argp-standalone",
     "devel/argtable": "argtable",
     "devel/arm-none-eabi/binutils": "aarch64-elf-binutils",
-    "devel/arm-none-eabi/gcc": "gcc@14",
+    "devel/arm-none-eabi/gcc": "gcc@15",
     "devel/arm-none-eabi/gdb": "aarch64-elf-gdb",
     "devel/asio": "asio",
     "devel/asn1c": "asn1c",
@@ -136,7 +136,7 @@
     "devel/automake/1.9": "automake",
     "devel/autopep8": "autopep8",
     "devel/avr/binutils": "aarch64-elf-binutils",
-    "devel/avr/gcc": "gcc@14",
+    "devel/avr/gcc": "gcc@15",
     "devel/avr/gdb": "aarch64-elf-gdb",
     "devel/avr32/binutils": "aarch64-elf-binutils",
     "devel/avrdude": "avrdude",
@@ -376,7 +376,7 @@
     "devel/mpfr": "mpfr",
     "devel/msgpack": "msgpack",
     "devel/msgpack-cxx": "msgpack-cxx",
-    "devel/msp430/gcc": "gcc@14",
+    "devel/msp430/gcc": "gcc@15",
     "devel/mspdebug": "mspdebug",
     "devel/nasm": "nasm",
     "devel/ninja": "ninja",
@@ -455,7 +455,6 @@
     "devel/scons": "scons",
     "devel/sdcc": "sdcc",
     "devel/sdl-gfx": "sdl_gfx",
-    "devel/sdl2": "sdl2",
     "devel/sdl2-gfx": "sdl2_gfx",
     "devel/sdl2-image": "sdl2_image",
     "devel/sdl2-mixer": "sdl2_mixer",
@@ -509,7 +508,7 @@
     "devel/vineflower": "vineflower",
     "devel/vte3": "vte3",
     "devel/x86_64-elf/binutils": "aarch64-elf-binutils",
-    "devel/x86_64-elf/gcc": "gcc@14",
+    "devel/x86_64-elf/gcc": "gcc@15",
     "devel/xa": "xa",
     "devel/xsimd": "xsimd",
     "devel/xtensa-elf/binutils": "aarch64-elf-binutils",

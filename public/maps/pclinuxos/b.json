@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "b",
-    "total_mappings": 42
+    "total_mappings": 43
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -27,6 +27,7 @@
     "bitcoin": "bitcoin",
     "bitlbee": "bitlbee",
     "blastem": "blastem",
+    "blosc": "c-blosc",
     "blueprint-compiler": "blueprint-compiler",
     "bluez": "bluez",
     "bochs": "bochs",

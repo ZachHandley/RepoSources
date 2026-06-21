@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "d",
-    "total_mappings": 106
+    "total_mappings": 107
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -70,6 +70,7 @@
     "dev-util/bump-my-version": "bump-my-version",
     "dev-util/cargo-show-asm": "cargo-show-asm",
     "dev-util/dmg2img": "dmg2img",
+    "dev-util/docker-language-server": "docker-language-server",
     "dev-util/dockerfile-language-server": "dockerfile-language-server",
     "dev-util/exercism": "exercism",
     "dev-util/fortls": "fortls",

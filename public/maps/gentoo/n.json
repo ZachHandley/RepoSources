@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "n",
-    "total_mappings": 427
+    "total_mappings": 426
   },
   "mappings": {
     "net-analyzer/2ping": "twoping",
@@ -255,7 +255,6 @@
     "net-libs/wslay": "wslay",
     "net-libs/xrootd": "xrootd",
     "net-libs/zeromq": "zeromq",
-    "net-libs/zmqpp": "zmqpp",
     "net-mail/b4": "b4",
     "net-mail/dovecot": "dovecot",
     "net-mail/fetchmail": "fetchmail",

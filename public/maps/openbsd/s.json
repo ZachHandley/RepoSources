@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "s",
-    "total_mappings": 506
+    "total_mappings": 505
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -31,7 +31,6 @@
     "scummvm-tools": "scummvm-tools",
     "sdcc": "sdcc",
     "sdl-gfx": "sdl_gfx",
-    "sdl2": "sdl2",
     "sdl2-gfx": "sdl2_gfx",
     "sdl2-image": "sdl2_image",
     "sdl2-mixer": "sdl2_mixer",

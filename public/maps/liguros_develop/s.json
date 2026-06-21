@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "s",
-    "total_mappings": 477
+    "total_mappings": 478
   },
   "mappings": {
     "sci-astronomy/cdsclient": "cdsclient",
@@ -201,6 +201,7 @@
     "sci-mathematics/singular": "singular",
     "sci-mathematics/slepc": "slepc",
     "sci-mathematics/stp": "stp",
+    "sci-mathematics/unuran": "unuran",
     "sci-mathematics/vampire": "vampire",
     "sci-mathematics/wxmaxima": "wxmaxima",
     "sci-mathematics/yacas": "yacas",
@@ -211,6 +212,7 @@
     "sci-misc/ncview": "ncview",
     "sci-ml/aichat": "aichat",
     "sci-ml/ollama": "ollama",
+    "sci-ml/ollama-bin": "ollama",
     "sci-ml/oneDNN": "onednn",
     "sci-ml/onnx": "onnx",
     "sci-ml/pytorch": "pytorch",
@@ -372,7 +374,7 @@
     "sys-devel/crosstool-ng": "crosstool-ng",
     "sys-devel/distcc": "distcc",
     "sys-devel/flex": "flex",
-    "sys-devel/gcc": "gcc@14",
+    "sys-devel/gcc": "gcc@15",
     "sys-devel/gettext": "gettext",
     "sys-devel/icecream": "icecream",
     "sys-devel/m4": "m4",
@@ -398,7 +400,6 @@
     "sys-fs/e2fsprogs": "e2fsprogs",
     "sys-fs/e2tools": "e2tools",
     "sys-fs/erofs-utils": "erofs-utils",
-    "sys-fs/fatsort": "fatsort",
     "sys-fs/fswatch": "fswatch",
     "sys-fs/fuse": "libfuse@2",
     "sys-fs/fuse-common": "libfuse@2",

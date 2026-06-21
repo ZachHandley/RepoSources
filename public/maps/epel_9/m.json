@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "m",
-    "total_mappings": 295
+    "total_mappings": 290
   },
   "mappings": {
     "mac-robber": "mac-robber",
@@ -84,7 +84,6 @@
     "mimalloc-debuginfo": "mimalloc",
     "mimalloc-debugsource": "mimalloc",
     "mimalloc-devel": "mimalloc",
-    "mingw-SDL2": "sdl2",
     "mingw-glslang": "glslang",
     "mingw-lcms2": "little-cms2",
     "mingw-libgcrypt": "libgcrypt",
@@ -102,8 +101,6 @@
     "mingw-vulkan-tools": "vulkan-tools",
     "mingw-vulkan-validation-layers": "vulkan-validationlayers",
     "mingw32-FAudio": "faudio",
-    "mingw32-SDL2": "sdl2",
-    "mingw32-SDL2-static": "sdl2",
     "mingw32-glslang": "glslang",
     "mingw32-lcms2": "little-cms2",
     "mingw32-lcms2-static": "little-cms2",
@@ -133,8 +130,6 @@
     "mingw32-vulkan-tools": "vulkan-tools",
     "mingw32-vulkan-validation-layers": "vulkan-validationlayers",
     "mingw64-FAudio": "faudio",
-    "mingw64-SDL2": "sdl2",
-    "mingw64-SDL2-static": "sdl2",
     "mingw64-glslang": "glslang",
     "mingw64-lcms2": "little-cms2",
     "mingw64-lcms2-static": "little-cms2",

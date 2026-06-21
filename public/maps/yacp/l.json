@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "l",
-    "total_mappings": 1732
+    "total_mappings": 1734
   },
   "mappings": {
     "ladspa-rubberband": "rubberband",
@@ -369,7 +369,7 @@
     "libcryptominisat5-devel": "cryptominisat",
     "libcryptominisat5_5.11": "cryptominisat",
     "libcryptopp-devel": "cryptopp",
-    "libcryptopp8.5": "cryptopp",
+    "libcryptopp8.6": "cryptopp",
     "libcsmith-devel": "csmith",
     "libcsmith0": "csmith",
     "libcss_parser-devel": "htmlcxx",
@@ -1547,6 +1547,8 @@
     "libunicorn2": "unicorn",
     "libunshield-devel": "unshield",
     "libunshield1": "unshield",
+    "libunuran-devel": "unuran",
+    "libunuran16": "unuran",
     "libupnpp": "libupnpp",
     "libupnpp-devel": "libupnpp",
     "libupnpp17": "libupnpp",

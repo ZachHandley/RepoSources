@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_3_17",
     "shard": "p",
@@ -279,7 +279,7 @@
     "poppler-glib": "poppler",
     "poppler-qt5": "poppler-qt5",
     "poppler-qt5-dev": "poppler-qt5",
-    "poppler-qt6": "poppler",
+    "poppler-qt6": "poppler-qt6",
     "poppler-utils": "poppler",
     "popt": "popt",
     "popt-dev": "popt",

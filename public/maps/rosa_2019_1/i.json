@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "i",
-    "total_mappings": 106
+    "total_mappings": 107
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -71,6 +71,7 @@
     "iodine-common": "iodine",
     "iodine-server": "iodine",
     "ioping": "ioping",
+    "ip2location": "ip2location",
     "iperf": "iperf3",
     "ipmievd": "ipmitool",
     "ipmitool": "ipmitool",

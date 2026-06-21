@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "ptxdist",
     "shard": "s",
-    "total_mappings": 34
+    "total_mappings": 33
   },
   "mappings": {
     "samba": "samba",
     "screen": "screen",
-    "sdl2": "sdl2",
     "sdl2-image": "sdl2_image",
     "sdl2-mixer": "sdl2_mixer",
     "sdl2-net": "sdl2_net",

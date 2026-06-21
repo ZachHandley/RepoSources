@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "mx_21",
     "shard": "l",
-    "total_mappings": 832
+    "total_mappings": 827
   },
   "mappings": {
     "lame": "lame",
@@ -318,11 +318,6 @@
     "libqt6xml6": "qt@5",
     "librubberband-dev": "rubberband",
     "librubberband2": "rubberband",
-    "libsdl2": "sdl2",
-    "libsdl2-2.0-0": "sdl2",
-    "libsdl2-dev": "sdl2",
-    "libsdl2-doc": "sdl2",
-    "libsdl2-tests": "sdl2",
     "libspirv-cross-c-shared-dev": "spirv-cross",
     "libspirv-cross-c-shared0": "spirv-cross",
     "libssl-doc": "openssl@4",

@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "a",
-    "total_mappings": 165
+    "total_mappings": 164
   },
   "mappings": {
     "a2ps": "a2ps",
     "a52dec": "a52dec",
     "aalib": "aalib",
     "aarch64-linux-gnu-binutils": "aarch64-elf-binutils",
-    "aarch64-linux-gnu-gcc": "gcc@14",
+    "aarch64-linux-gnu-gcc": "gcc@15",
     "aarch64-linux-gnu-gdb": "aarch64-elf-gdb",
     "abcmidi": "abcmidi",
     "abduco": "abduco",
@@ -92,7 +92,6 @@
     "aria2": "aria2",
     "aribb24": "aribb24",
     "arm-linux-gnueabi-binutils": "aarch64-elf-binutils",
-    "arm-linux-gnueabi-gcc": "gcc@14",
     "arm-none-eabi-binutils": "arm-none-eabi-binutils",
     "arm-none-eabi-gcc": "arm-none-eabi-gcc",
     "arm-none-eabi-gdb": "arm-none-eabi-gdb",
@@ -143,7 +142,7 @@
     "avfs": "avfs",
     "avisynthplus": "avisynthplus",
     "avr-binutils": "aarch64-elf-binutils",
-    "avr-gcc": "gcc@14",
+    "avr-gcc": "gcc@15",
     "avr-gdb": "aarch64-elf-gdb",
     "avrdude": "avrdude",
     "aws-c-auth": "aws-c-auth",

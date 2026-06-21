@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "s",
-    "total_mappings": 99
+    "total_mappings": 98
   },
   "mappings": {
     "s5cmd": "s5cmd",
@@ -22,7 +22,6 @@
     "scotch": "scotch",
     "screen": "screen",
     "scs": "scs",
-    "sdl2": "sdl2",
     "sdl2-image": "sdl2_image",
     "sdl2-ttf": "sdl2_ttf",
     "seal": "seal",

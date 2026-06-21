@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "m",
-    "total_mappings": 322
+    "total_mappings": 323
   },
   "mappings": {
     "m4": "m4",
@@ -176,6 +176,7 @@
     "misc/ent": "ent",
     "misc/figlet": "figlet",
     "misc/findutils": "findutils",
+    "misc/gnuwatch": "procps",
     "misc/gpsd": "gpsd",
     "misc/libcpucycles": "libcpucycles",
     "misc/libdivecomputer": "libdivecomputer",
@@ -256,7 +257,7 @@
     "msgpack-cxx": "msgpack-cxx",
     "msktutil": "msktutil",
     "msmtp": "msmtp",
-    "msp430-gcc": "gcc@14",
+    "msp430-gcc": "gcc@15",
     "mspdebug": "mspdebug",
     "mtools": "mtools",
     "mtr": "mtr",

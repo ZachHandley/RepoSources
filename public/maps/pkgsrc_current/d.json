@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "d",
-    "total_mappings": 823
+    "total_mappings": 821
   },
   "mappings": {
     "dMagnetic": "dmagnetic",
@@ -183,8 +183,6 @@
     "devel/MoarVM": "moarvm",
     "devel/RBTools": "rbtools",
     "devel/RE-flex": "re-flex",
-    "devel/SDL2": "sdl2",
-    "devel/SDL2-legacy-darwin": "sdl2",
     "devel/SDL3": "sdl3",
     "devel/SDL_gfx": "sdl_gfx",
     "devel/abseil": "abseil",
@@ -435,7 +433,7 @@
     "devel/lemon": "lemon",
     "devel/libadwaita": "libadwaita",
     "devel/libantlr3c": "libantlr3c",
-    "devel/libatomic": "gcc@14",
+    "devel/libatomic": "gcc@15",
     "devel/libatomic_ops": "libatomic_ops",
     "devel/libbinio": "libbinio",
     "devel/libbsd": "libbsd",
@@ -475,7 +473,7 @@
     "devel/libgusb": "libgusb",
     "devel/libgweather": "libgweather",
     "devel/libhandy": "libhandy",
-    "devel/libiberty": "gcc@14",
+    "devel/libiberty": "gcc@15",
     "devel/libidn": "libidn",
     "devel/libidn2": "libidn2",
     "devel/libltdl": "libtool",

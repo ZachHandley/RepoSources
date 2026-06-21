@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "postmarketos_24.12",
     "shard": "l",
     "total_mappings": 2
   },
   "mappings": {
-    "libstdc++-dev-x86_64": "gcc@14",
+    "libstdc++-dev-x86_64": "gcc@15",
     "linux-next": "linux-headers@6.8"
   }
 }

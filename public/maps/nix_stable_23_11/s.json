@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "nix_stable_23_11",
     "shard": "s",
-    "total_mappings": 444
+    "total_mappings": 443
   },
   "mappings": {
-    "SDL2": "sdl2",
     "SDL2_gfx": "sdl2_gfx",
     "SDL2_image": "sdl2_image",
     "SDL2_image_2_0_5": "sdl2_image",

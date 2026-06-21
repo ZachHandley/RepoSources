@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "u",
-    "total_mappings": 146
+    "total_mappings": 150
   },
   "mappings": {
     "udunits2": "udunits",
@@ -47,6 +47,10 @@
     "unpaper-debuginfo": "unpaper",
     "unpaper-debugsource": "unpaper",
     "unpaper-tests": "unpaper",
+    "unuran": "unuran",
+    "unuran-debuginfo": "unuran",
+    "unuran-debugsource": "unuran",
+    "unuran-devel": "unuran",
     "urdfdom-headers": "urdfdom_headers",
     "urdfdom-headers-devel": "urdfdom_headers",
     "uriparser": "uriparser",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "kaos",
     "shard": "s",
-    "total_mappings": 54
+    "total_mappings": 53
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -16,7 +16,6 @@
     "scdoc": "scdoc",
     "schroedinger": "schroedinger",
     "scons": "scons",
-    "sdl2": "sdl2",
     "sdl3": "sdl3",
     "sdl_sound": "sdl2_sound",
     "sdl_ttf": "sdl3_ttf",

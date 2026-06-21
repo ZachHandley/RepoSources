@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "w",
-    "total_mappings": 24
+    "total_mappings": 23
   },
   "mappings": {
     "w3m": "w3m",
     "wasm3": "wasm3",
     "wasmer": "wasmer",
     "wasmtime": "wasmtime",
-    "watch": "watch",
     "watchexec": "watchexec",
     "watchman": "watchman",
     "wdiff": "wdiff",

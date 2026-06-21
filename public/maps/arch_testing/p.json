@@ -1,32 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "p",
-    "total_mappings": 21
+    "total_mappings": 5
   },
   "mappings": {
-    "percona-server": "percona-server",
-    "percona-server-clients": "percona-server@8.0",
-    "perf": "linux-headers@6.8",
-    "php-grpc": "grpc",
-    "php-legacy-grpc": "grpc",
-    "protobuf": "protobuf@33",
-    "protobuf-c": "protobuf-c",
-    "python-grpcio": "grpc",
-    "python-grpcio-tools": "grpc",
+    "python": "python@3.14",
+    "python-fastapi": "fastapi",
     "python-maturin": "maturin",
-    "python-onnx": "onnx",
-    "python-onnxruntime-cpu": "onnxruntime",
-    "python-onnxruntime-cuda": "onnxruntime",
-    "python-onnxruntime-opt-cuda": "onnxruntime",
-    "python-onnxruntime-opt-rocm": "onnxruntime",
-    "python-onnxruntime-rocm": "onnxruntime",
-    "python-opencv": "opencv",
-    "python-opencv-cuda": "opencv",
-    "python-protobuf": "protobuf@33",
-    "python-uv": "uv",
-    "python-uv-build": "uv"
+    "python-scipy": "scipy",
+    "python-tests": "python@3.9"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "o",
-    "total_mappings": 195
+    "total_mappings": 197
   },
   "mappings": {
     "OpenColorIO": "opencolorio",
@@ -163,11 +163,13 @@
     "openssh-clients": "openssh",
     "openssh-server": "openssh",
     "openssl": "openssl@3",
+    "openssl-32": "openssl@4",
     "openssl-perl": "openssl@4",
     "openssl10": "openssl@4",
     "openssl10-debuginfo": "openssl@4",
     "openssl10-debugsource": "openssl@4",
     "openssl3": "openssl@4",
+    "openssl3-32": "openssl@4",
     "openssl3-perl": "openssl@4",
     "opensubdiv": "opensubdiv",
     "opensubdiv-debuginfo": "opensubdiv",

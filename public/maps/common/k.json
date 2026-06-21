@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "k",
-    "total_mappings": 3393
+    "total_mappings": 3395
   },
   "mappings": {
     "KDash": "kdash",
@@ -194,6 +194,7 @@
     "kcpuid": "linux-headers@6.8",
     "kdash": "kdash",
     "kdash-bin": "kdash",
+    "kdash-git": "kdash",
     "kde-extra-cmake-modules": "extra-cmake-modules",
     "kde-extra-cmake-modules-devel": "extra-cmake-modules",
     "kde-frameworks/extra-cmake-modules": "extra-cmake-modules",
@@ -2730,6 +2731,7 @@
     "knot-resolver6-dev": "knot-resolver",
     "knot-resolver6-module-dnstap": "knot-resolver",
     "knot-resolver6-module-http": "knot-resolver",
+    "knot-systemd": "knot",
     "knot-tests": "knot",
     "knot-utils": "knot",
     "knot-utils-debuginfo": "knot",

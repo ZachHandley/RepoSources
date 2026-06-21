@@ -1,25 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-05-10T04:26:33Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "v",
-    "total_mappings": 14
+    "total_mappings": 7
   },
   "mappings": {
-    "vulkan-asahi": "mesa",
-    "vulkan-broadcom": "mesa",
-    "vulkan-dzn": "mesa",
-    "vulkan-freedreno": "mesa",
-    "vulkan-gfxstream": "mesa",
-    "vulkan-intel": "mesa",
-    "vulkan-mesa-implicit-layers": "mesa",
-    "vulkan-mesa-layers": "mesa",
-    "vulkan-nouveau": "mesa",
-    "vulkan-panfrost": "mesa",
-    "vulkan-powervr": "mesa",
-    "vulkan-radeon": "mesa",
-    "vulkan-swrast": "mesa",
-    "vulkan-virtio": "mesa"
+    "volk": "vulkan-volk",
+    "vulkan-headers": "vulkan-headers",
+    "vulkan-icd-loader": "vulkan-loader",
+    "vulkan-profiles": "vulkan-profiles",
+    "vulkan-tools": "vulkan-tools",
+    "vulkan-utility-libraries": "vulkan-utility-libraries",
+    "vulkan-validation-layers": "vulkan-validationlayers"
   }
 }

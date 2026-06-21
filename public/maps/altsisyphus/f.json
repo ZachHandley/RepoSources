@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "f",
-    "total_mappings": 337
+    "total_mappings": 336
   },
   "mappings": {
     "f3": "f3",
@@ -291,7 +291,6 @@
     "freexl-debuginfo": "freexl",
     "freexl-devel": "freexl",
     "frei0r-devel": "frei0r",
-    "frei0r-devel-doc": "frei0r",
     "frei0r-plugins": "frei0r",
     "frei0r-plugins-debuginfo": "frei0r",
     "frei0r-plugins-opencv": "frei0r",

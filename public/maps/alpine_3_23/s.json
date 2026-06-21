@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_3_23",
     "shard": "s",
-    "total_mappings": 686
+    "total_mappings": 682
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -198,13 +198,9 @@
     "sdl12-compat-dbg": "sdl12-compat",
     "sdl12-compat-dev": "sdl12-compat",
     "sdl12-compat-static": "sdl12-compat",
-    "sdl2": "sdl2",
     "sdl2-compat": "sdl2-compat",
     "sdl2-compat-dev": "sdl2-compat",
     "sdl2-compat-doc": "sdl2-compat",
-    "sdl2-dbg": "sdl2",
-    "sdl2-dev": "sdl2",
-    "sdl2-doc": "sdl2",
     "sdl2_gfx": "sdl2_gfx",
     "sdl2_gfx-dev": "sdl2_gfx",
     "sdl2_gfx-doc": "sdl2_gfx",

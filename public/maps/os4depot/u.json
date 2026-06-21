@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "u",
-    "total_mappings": 50
+    "total_mappings": 51
   },
   "mappings": {
     "uade.lha": "uade",
@@ -49,6 +49,7 @@
     "utility/shell/gnu-sed.lha": "gnu-sed",
     "utility/shell/gsar.lha": "gsar",
     "utility/text/convert/antiword.lha": "antiword",
+    "utility/text/convert/mupdf.zip": "mupdf",
     "utility/text/convert/pdftohtml.lha": "pdftohtml",
     "utility/text/convert/source-highlight.lha": "source-highlight",
     "utility/text/convert/unrtf.lha": "unrtf",

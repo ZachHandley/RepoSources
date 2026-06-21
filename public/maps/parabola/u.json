@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "u",
-    "total_mappings": 56
+    "total_mappings": 57
   },
   "mappings": {
     "uboot-tools": "u-boot-tools",
@@ -29,6 +29,7 @@
     "unpaper": "unpaper",
     "unrtf": "unrtf",
     "unshield": "unshield",
+    "unuran": "unuran",
     "unzip": "unzip",
     "unzip-debug": "unzip",
     "up": "up",

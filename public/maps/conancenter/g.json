@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "g",
@@ -8,7 +8,7 @@
   },
   "mappings": {
     "g3log": "g3log",
-    "gcc": "gcc@14",
+    "gcc": "gcc@15",
     "gcem": "gcem",
     "gdal": "gdal",
     "gdbm": "gdbm",
@@ -19,7 +19,7 @@
     "getdns": "getdns",
     "gettext": "gettext",
     "gflags": "gflags",
-    "gfortran": "gcc@14",
+    "gfortran": "gcc@15",
     "giflib": "giflib",
     "ginkgo": "ginkgo",
     "glaze": "glaze",

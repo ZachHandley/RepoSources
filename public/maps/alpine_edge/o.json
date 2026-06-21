@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "o",
-    "total_mappings": 382
+    "total_mappings": 383
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -36,6 +36,7 @@
     "ocaml-ocamlbuild": "ocamlbuild",
     "ocaml-ocamldoc": "ocaml@4",
     "ocaml-runtime": "ocaml@4",
+    "ocaml-xdg": "dune",
     "ocaml-zarith": "ocaml-zarith",
     "ocaml-zarith-doc": "ocaml-zarith",
     "ocaml5": "ocaml@4",

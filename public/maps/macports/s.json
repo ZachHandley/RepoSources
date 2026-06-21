@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "s",
@@ -1017,7 +1017,7 @@
     "sysutils/vmtouch": "vmtouch",
     "sysutils/vramsteg": "vramsteg",
     "sysutils/wait_on": "wait_on",
-    "sysutils/watch": "watch",
+    "sysutils/watch": "procps",
     "sysutils/watchexec": "watchexec",
     "sysutils/watchman": "watchman",
     "sysutils/wifi-password": "wifi-password",

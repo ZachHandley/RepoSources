@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "a",
@@ -110,7 +110,7 @@
     "arm-none-eabi-binutils": "arm-none-eabi-binutils",
     "arm-none-eabi-binutils-dbginfo": "aarch64-elf-binutils",
     "arm-none-eabi-gcc": "arm-none-eabi-gcc",
-    "arm-none-eabi-gcc-dbginfo": "gcc@14",
+    "arm-none-eabi-gcc-dbginfo": "gcc@15",
     "arp-scan": "arp-scan",
     "arp-scan-dbginfo": "arp-scan",
     "arpack": "arpack",
@@ -178,8 +178,8 @@
     "avahi-devel": "avahi",
     "avr-binutils": "aarch64-elf-binutils",
     "avr-binutils-dbginfo": "aarch64-elf-binutils",
-    "avr-gcc": "gcc@14",
-    "avr-gcc-dbginfo": "gcc@14",
+    "avr-gcc": "gcc@15",
+    "avr-gcc-dbginfo": "gcc@15",
     "avrdude": "avrdude",
     "avrdude-dbginfo": "avrdude",
     "avrdude-devel": "avrdude"

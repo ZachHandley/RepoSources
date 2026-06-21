@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "slackware_current",
     "shard": "e",
@@ -12,7 +12,7 @@
     "ebook-tools": "ebook-tools",
     "ed": "ed",
     "editorconfig-core-c": "editorconfig",
-    "eigen3": "eigen@3",
+    "eigen": "eigen@3",
     "elfutils": "elfutils",
     "emacs": "emacs",
     "enchant": "enchant",

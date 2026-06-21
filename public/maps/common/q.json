@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "q",
-    "total_mappings": 6289
+    "total_mappings": 6291
   },
   "mappings": {
     "Q100531088": "texlab",
@@ -445,8 +445,9 @@
     "Q1775686": "stockfish",
     "Q1778544": "mesa",
     "Q1779447": "synergy-core",
-    "Q178940": "gcc@14",
+    "Q178940": "gcc@15",
     "Q1792893": "baobab",
+    "Q18086580": "beets",
     "Q18150452": "fdk-aac",
     "Q18155039": "radare2",
     "Q18156989": "wordgrinder",
@@ -1286,6 +1287,7 @@
     "Q6554304": "link-grammar",
     "Q6555077": "linux-pam",
     "Q65554959": "google-authenticator-libpam",
+    "Q6557520": "liquidsoap",
     "Q65618849": "xinput",
     "Q65950548": "gallery-dl",
     "Q65964713": "neomutt",
@@ -1549,7 +1551,6 @@
     "QJSON": "qjson",
     "QPDF": "qpdf",
     "QScintilla": "qscintilla2",
-    "QTads": "qtads",
     "QWT": "qwt",
     "Qalculate-GTK": "qalculate-gtk",
     "Qbs": "qbs",
@@ -4822,6 +4823,7 @@
     "qt6-qtwayland-dev": "qt@5",
     "qt6-qtwayland-devel": "qt@5",
     "qt6-qtwayland-examples": "qt@5",
+    "qt6-qtwayland-private-dev": "qt@5",
     "qt6-qtwayland-tests": "qt@5",
     "qt6-qtwebchannel": "qt@5",
     "qt6-qtwebchannel-debuginfo": "qt@5",

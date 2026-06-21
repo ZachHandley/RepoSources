@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "l",
-    "total_mappings": 487
+    "total_mappings": 488
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -163,7 +163,7 @@
     "libhandy": "libhandy",
     "libharu": "libharu",
     "libheif": "libheif",
-    "libiberty": "gcc@14",
+    "libiberty": "gcc@15",
     "libical": "libical",
     "libice": "libice",
     "libicns": "libicns",
@@ -324,7 +324,7 @@
     "libssh": "libssh",
     "libssh2": "libssh2",
     "libstatgrab": "libstatgrab",
-    "libstdc++": "gcc@14",
+    "libstdc++": "gcc@15",
     "libstemmer": "snowball",
     "libstrophe": "libstrophe",
     "libsvgtiny": "libsvgtiny",
@@ -344,6 +344,7 @@
     "libtool": "libtool",
     "libtorrent": "libtorrent-rakshasa",
     "libtorrent-rasterbar": "libtorrent-rasterbar",
+    "libtpms": "libtpms",
     "libu2f-server": "libu2f-server",
     "libucl": "libucl",
     "libudfread": "libudfread",

@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "postmarketos_master",
     "shard": "g",
     "total_mappings": 4
   },
   "mappings": {
-    "g++-x86_64": "gcc@14",
-    "gcc-x86_64": "gcc@14",
-    "gcc4": "gcc@14",
-    "gcc6": "gcc@14"
+    "g++-x86_64": "gcc@15",
+    "gcc-x86_64": "gcc@15",
+    "gcc4": "gcc@15",
+    "gcc6": "gcc@15"
   }
 }

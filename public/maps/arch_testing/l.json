@@ -1,18 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "l",
-    "total_mappings": 7
+    "total_mappings": 9
   },
   "mappings": {
-    "lib32-nss": "nss",
-    "libayatana-indicator": "libayatana-indicator",
+    "lib32-spirv-tools": "spirv-tools",
+    "lib32-systemd": "systemd",
+    "lib32-vulkan-icd-loader": "vulkan-loader",
+    "lib32-vulkan-utility-libraries": "vulkan-utility-libraries",
+    "lib32-vulkan-validation-layers": "vulkan-validationlayers",
+    "libheif": "libheif",
     "libnpupnp": "libnpupnp",
-    "libperconaserverclient": "percona-server@8.0",
-    "libphonenumber": "libphonenumber",
-    "linux-tools": "linux-headers@6.8",
-    "linux-tools-meta": "linux-headers@6.8"
+    "libplacebo": "libplacebo",
+    "lsof": "lsof"
   }
 }

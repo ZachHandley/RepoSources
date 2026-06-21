@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "m",
@@ -232,9 +232,9 @@
     "mimic1-doc": "mimic",
     "mingw-w64-binutils": "aarch64-elf-binutils",
     "mingw-w64-crt": "mingw-w64",
-    "mingw-w64-gcc": "gcc@14",
-    "mingw-w64-gcc-base": "gcc@14",
-    "mingw-w64-gcc-ccache": "gcc@14",
+    "mingw-w64-gcc": "gcc@15",
+    "mingw-w64-gcc-base": "gcc@15",
+    "mingw-w64-gcc-ccache": "gcc@15",
     "mingw-w64-headers": "mingw-w64",
     "mingw-w64-headers-doc": "mingw-w64",
     "mingw-w64-libusb": "libusb",

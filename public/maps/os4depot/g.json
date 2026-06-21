@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "g",
@@ -35,7 +35,7 @@
     "game/strategy/freeciv-sdl.lha": "freeciv",
     "game/strategy/simutrans.lha": "simutrans",
     "game/strategy/widelands.lha": "widelands",
-    "gcc.patch.bz2": "gcc@14",
+    "gcc.patch.bz2": "gcc@15",
     "giflib.lha": "giflib",
     "glib.lha": "glib",
     "gnu-sed.lha": "gnu-sed",

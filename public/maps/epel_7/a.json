@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "epel_7",
     "shard": "a",
@@ -56,7 +56,7 @@
     "autojump": "autojump",
     "autossh": "autossh",
     "avr-binutils": "aarch64-elf-binutils",
-    "avr-gcc": "gcc@14",
+    "avr-gcc": "gcc@15",
     "avrdude": "avrdude",
     "axel": "axel"
   }

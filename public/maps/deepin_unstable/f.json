@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "deepin_unstable",
     "shard": "f",
@@ -233,7 +233,7 @@
     "firmware-b43legacy-installer": "b43-fwcutter",
     "fish": "fish",
     "fish-common": "fish",
-    "fixincludes": "gcc@14",
+    "fixincludes": "gcc@15",
     "fizsh": "fizsh",
     "flac": "flac",
     "flactag": "flactag",

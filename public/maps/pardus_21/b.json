@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "pardus_21",
     "shard": "b",
-    "total_mappings": 518
+    "total_mappings": 520
   },
   "mappings": {
     "b4": "b4",
@@ -72,6 +72,8 @@
     "bedops-doc": "bedops",
     "bedtools": "bedtools",
     "bedtools-test": "bedtools",
+    "beets": "beets",
+    "beets-doc": "beets",
     "benchmark": "google-benchmark",
     "bfs": "bfs",
     "bgpdump": "bgpdump",

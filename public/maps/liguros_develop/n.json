@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "n",
-    "total_mappings": 456
+    "total_mappings": 454
   },
   "mappings": {
     "net-analyzer/2ping": "twoping",
@@ -266,7 +266,6 @@
     "net-libs/xrootd": "xrootd",
     "net-libs/yder": "yder",
     "net-libs/zeromq": "zeromq",
-    "net-libs/zmqpp": "zmqpp",
     "net-mail/b4": "b4",
     "net-mail/dovecot": "dovecot",
     "net-mail/fetchmail": "fetchmail",
@@ -385,7 +384,6 @@
     "net-misc/wstunnel": "wstunnel",
     "net-misc/xh": "xh",
     "net-misc/xmrig": "xmrig",
-    "net-misc/you-get": "you-get",
     "net-misc/yt-dlp": "yt-dlp",
     "net-misc/zssh": "zssh",
     "net-misc/zsync": "zsync",

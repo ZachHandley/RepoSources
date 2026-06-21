@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "r",
-    "total_mappings": 269
+    "total_mappings": 271
   },
   "mappings": {
     "r-base": "r",
@@ -112,8 +112,8 @@
     "reuse": "reuse",
     "rex": "rex",
     "rfkill": "gnu-getopt",
-    "rfkill-modules-7.0.12+deb14.1-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-7.0.12+deb14.1-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.13+deb14-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.13+deb14-loong64-di": "linux-headers@6.8",
     "rgbds": "rgbds",
     "rgxg": "rgxg",
     "rhash": "rhash",
@@ -229,6 +229,7 @@
     "rust-cargo-edit": "cargo-edit",
     "rust-cargo-outdated": "cargo-outdated",
     "rust-cbindgen": "cbindgen",
+    "rust-choose": "choose-rust",
     "rust-clippy": "rust",
     "rust-comrak": "comrak",
     "rust-coreutils": "uutils-coreutils",
@@ -247,6 +248,7 @@
     "rust-hexyl": "hexyl",
     "rust-hyperfine": "hyperfine",
     "rust-jaq": "jaq",
+    "rust-jless": "jless",
     "rust-just": "just",
     "rust-lldb": "rust",
     "rust-llvm": "rust",

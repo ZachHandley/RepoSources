@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "b",
-    "total_mappings": 17
+    "total_mappings": 18
   },
   "mappings": {
     "bandit": "bandit",
@@ -16,6 +16,7 @@
     "benchmark": "google-benchmark",
     "binutils": "binutils",
     "bison": "bison",
+    "blake3": "blake3",
     "blaze": "blaze",
     "boost": "boost",
     "botan": "botan@2",

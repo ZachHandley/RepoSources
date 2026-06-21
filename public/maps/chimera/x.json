@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "x",
-    "total_mappings": 134
+    "total_mappings": 136
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -57,6 +57,8 @@
     "xcursorgen": "xcursorgen",
     "xcursorgen-doc": "xcursorgen",
     "xcursorgen-man": "xcursorgen",
+    "xdelta": "xdelta",
+    "xdelta-man": "xdelta",
     "xdotool": "xdotool",
     "xdotool-devel": "xdotool",
     "xdotool-doc": "xdotool",

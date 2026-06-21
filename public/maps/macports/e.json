@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "e",
-    "total_mappings": 139
+    "total_mappings": 140
   },
   "mappings": {
     "ETL": "etl",
@@ -54,6 +54,7 @@
     "editors/neovim": "neovim",
     "editors/neovim-qt": "neovim-qt",
     "editors/nvi": "nvi",
+    "editors/nvi2": "nvi2",
     "editors/orbiton": "orbiton",
     "editors/ox": "ox",
     "editors/vile": "vile",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-21T04:09:54Z",
     "source": "repology-dump",
     "distro": "msys2_msys2",
     "shard": "g",
@@ -9,8 +9,8 @@
   "mappings": {
     "gawk": "gawk",
     "gc": "bdw-gc",
-    "gcc": "gcc@14",
-    "gcc-libs": "gcc@14",
+    "gcc": "gcc@15",
+    "gcc-libs": "gcc@15",
     "gdb": "gdb",
     "gdb-multiarch": "aarch64-elf-gdb",
     "gdbm": "gdbm",
