@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "l",
@@ -59,6 +59,7 @@
     "leela-zero": "leela-zero",
     "leetcode-cli": "leetcode-cli",
     "leetgo": "leetgo",
+    "leetsolv": "leetsolv",
     "lefthook": "lefthook",
     "legba": "legba",
     "legit": "legit",
@@ -81,7 +82,6 @@
     "lexicon": "lexicon",
     "lexido": "lexido",
     "lf": "lf",
-    "lfe": "lfe",
     "lftp": "lftp",
     "lgogdownloader": "lgogdownloader",
     "lgogdownloader-gui": "lgogdownloader",
@@ -450,8 +450,8 @@
     "libresample": "libresample",
     "librespot": "librespot",
     "libressl": "libressl",
-    "libressl_4_1": "libressl",
     "libressl_4_2": "libressl",
+    "libressl_4_3": "libressl",
     "librest": "librest",
     "libretls": "libretls",
     "libretro-mrboom": "mrboom",

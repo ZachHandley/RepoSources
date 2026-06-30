@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "f",
-    "total_mappings": 116
+    "total_mappings": 114
   },
   "mappings": {
     "f3d": "f3d",
@@ -118,8 +118,6 @@
     "fuse3": "libfuse@2",
     "fvm": "fvm",
     "fwknop": "fwknop",
-    "fwupd": "fwupd",
-    "fwupd-docs": "fwupd",
     "fx": "fx",
     "fzf": "fzf",
     "fzy": "fzy"

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "j",
-    "total_mappings": 124
+    "total_mappings": 125
   },
   "mappings": {
     "JAGS": "jags",
@@ -128,6 +128,7 @@
     "jump": "jump",
     "jupp": "jupp",
     "just": "just",
+    "just-lsp": "just-lsp",
     "jwt-cli": "jwt-cli",
     "jwt-hack": "jwt-hack",
     "jython": "jython"

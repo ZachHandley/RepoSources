@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "d",
@@ -201,6 +201,7 @@
     "databases/tinycdb": "tinycdb",
     "databases/tkrzw": "tkrzw",
     "databases/tokyocabinet": "tokyo-cabinet",
+    "databases/turso": "turso",
     "databases/unixODBC": "unixodbc",
     "databases/valkey": "valkey",
     "databases/valkey8": "valkey",
@@ -283,7 +284,6 @@
     "deskutils/zk": "zk",
     "detox": "detox",
     "devel/aarch64-none-elf-gcc": "gcc@15",
-    "devel/abi-compliance-checker": "abi-compliance-checker",
     "devel/abseil": "abseil",
     "devel/acme": "acme",
     "devel/addlicense": "addlicense",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "n",
-    "total_mappings": 257
+    "total_mappings": 259
   },
   "mappings": {
     "nDPI": "ndpi",
@@ -147,6 +147,8 @@
     "nginx": "nginx",
     "nginx-accept_language": "nginx",
     "nginx-accept_language-debuginfo": "nginx",
+    "nginx-dav_ext": "nginx",
+    "nginx-dav_ext-debuginfo": "nginx",
     "nginx-debuginfo": "nginx",
     "nginx-geoip": "nginx",
     "nginx-geoip-debuginfo": "nginx",

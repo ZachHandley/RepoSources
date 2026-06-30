@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "a",
-    "total_mappings": 78
+    "total_mappings": 76
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -30,7 +30,6 @@
     "alpine": "alpine",
     "analog": "analog",
     "ant": "ant",
-    "antiword": "antiword",
     "antlr3": "antlr",
     "antlr3-C": "antlr",
     "aom": "aom",
@@ -74,7 +73,6 @@
     "automake": "automake",
     "automake1.4": "automake",
     "automake1.7": "automake",
-    "autopsy": "autopsy",
     "autossh": "autossh",
     "autotrace": "autotrace",
     "avahi": "avahi",

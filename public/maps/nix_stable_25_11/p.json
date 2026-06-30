@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "p",
@@ -431,9 +431,9 @@
     "pymol": "pymol",
     "pympress": "pympress",
     "pypy": "pypy",
-    "pypy3": "pypy3.10",
+    "pypy3": "pypy3.11",
     "pypy3.10": "pypy3.10",
-    "pypy3.11": "pypy",
+    "pypy3.11": "pypy3.11",
     "pypy310": "pypy",
     "pyrefly": "pyrefly",
     "pyright": "pyright",

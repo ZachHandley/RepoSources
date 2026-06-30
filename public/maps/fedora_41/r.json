@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_41",
     "shard": "r",
-    "total_mappings": 707
+    "total_mappings": 706
   },
   "mappings": {
     "R": "r",
@@ -59,7 +59,6 @@
     "rb_libtorrent-python3": "libtorrent-rasterbar",
     "rbenv": "rbenv",
     "rbw": "rbw",
-    "rc": "rc",
     "rclone": "rclone",
     "rclone-debuginfo": "rclone",
     "rclone-debugsource": "rclone",

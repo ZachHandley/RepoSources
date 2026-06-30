@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "u",
-    "total_mappings": 5
+    "total_mappings": 6
   },
   "mappings": {
     "ubertooth": "ubertooth",
     "udis86": "udis86",
     "uncover": "uncover",
     "urlview": "urlview",
-    "urx": "urx"
+    "urx": "urx",
+    "urx-debug": "urx"
   }
 }

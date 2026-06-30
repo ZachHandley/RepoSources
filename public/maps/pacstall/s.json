@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pacstall",
     "shard": "s",
-    "total_mappings": 11
+    "total_mappings": 12
   },
   "mappings": {
     "sbt-deb": "sbt",
     "scrcpy": "scrcpy",
     "sed": "gnu-sed",
+    "sesh-bin": "sesh",
     "setconf": "setconf",
     "shellcheck-bin": "shellcheck",
     "shellharden": "shellharden",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "r",
-    "total_mappings": 54
+    "total_mappings": 56
   },
   "mappings": {
     "range-v3": "range-v3",
@@ -44,6 +44,8 @@
     "rfkill-modules-6.19.8+deb13-loong64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.10+deb13-amd64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.10+deb13-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.12+deb13-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.12+deb13-loong64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.4+deb13-loong64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.7+deb13-loong64-di": "linux-headers@6.8",
     "rfkill-modules-7.0.9+deb13-loong64-di": "linux-headers@6.8",

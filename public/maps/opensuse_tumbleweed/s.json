@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "s",
-    "total_mappings": 906
+    "total_mappings": 910
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -614,6 +614,10 @@
     "splint": "splint",
     "splint-debuginfo": "splint",
     "splint-debugsource": "splint",
+    "spotbugs": "spotbugs",
+    "spotbugs-annotations": "spotbugs",
+    "spotbugs-ant": "spotbugs",
+    "spotbugs-javadoc": "spotbugs",
     "spotifyd": "spotifyd",
     "spotifyd-debuginfo": "spotifyd",
     "spotifyd-debugsource": "spotifyd",

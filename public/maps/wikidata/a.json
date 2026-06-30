@@ -1,21 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "a",
-    "total_mappings": 97
+    "total_mappings": 94
   },
   "mappings": {
     "A Better CD Encoder": "abcde",
     "AAlib": "aalib",
-    "ABI Compliance Checker": "abi-compliance-checker",
     "ANTLR": "antlr",
     "AWS Command Line Interface": "awscli@1",
     "AdvanceCOMP": "advancecomp",
     "Advanced Intrusion Detection Environment": "aide",
     "Advanced Linux Sound Architecture": "alsa-lib",
-    "Advanced Strategic Command": "asc",
     "Adwaita Icon Theme": "adwaita-icon-theme",
     "Agda": "agda",
     "Aircrack-ng": "aircrack-ng",
@@ -26,7 +24,6 @@
     "Angband": "angband",
     "Ansible": "ansible@13",
     "Anti-Grain Geometry": "libagg",
-    "Antiword": "antiword",
     "Anubis": "anubis",
     "Apache ActiveMQ": "activemq",
     "Apache Ant": "ant@1.9",

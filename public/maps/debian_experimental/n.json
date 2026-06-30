@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "n",
-    "total_mappings": 83
+    "total_mappings": 85
   },
   "mappings": {
+    "nanobind": "nanobind",
+    "nanobind-dev": "nanobind",
     "nanomsg": "nanomsg",
     "nanomsg-utils": "nanomsg",
     "nbd-modules-7.1-alpha-generic-di": "linux-headers@6.8",

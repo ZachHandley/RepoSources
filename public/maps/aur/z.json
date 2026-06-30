@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "z",
-    "total_mappings": 155
+    "total_mappings": 158
   },
   "mappings": {
     "z-git": "z",
@@ -151,10 +151,13 @@
     "zsxd": "zsxd",
     "zsxd-git": "zsxd",
     "zuban": "zuban",
+    "zuban-bin": "zuban",
     "zug-git": "zug",
     "zurl": "zurl",
     "zvbi-git": "zvbi",
     "zx": "zx",
+    "zxc": "zxc",
+    "zxc-bin": "zxc",
     "zxcc": "zxcc",
     "zxing-cpp-git": "zxing-cpp",
     "zxp": "zot",

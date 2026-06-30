@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "d",
-    "total_mappings": 232
+    "total_mappings": 242
   },
   "mappings": {
     "dasd-extra-modules-6.16.12+deb13-s390x-di": "linux-headers@6.8",
@@ -22,6 +22,7 @@
     "dasd-extra-modules-6.19.6+deb13-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-6.19.8+deb13-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-7.0.10+deb13-s390x-di": "linux-headers@6.8",
+    "dasd-extra-modules-7.0.12+deb13-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-7.0.4+deb13-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-7.0.7+deb13-s390x-di": "linux-headers@6.8",
     "dasd-extra-modules-7.0.9+deb13-s390x-di": "linux-headers@6.8",
@@ -39,6 +40,7 @@
     "dasd-modules-6.19.6+deb13-s390x-di,drm-core-modules-6.19.6+deb13-alpha-generic-di": "linux-headers@6.8",
     "dasd-modules-6.19.8+deb13-s390x-di,drm-core-modules-6.19.8+deb13-alpha-generic-di": "linux-headers@6.8",
     "dasd-modules-7.0.10+deb13-s390x-di,drm-core-modules-7.0.10+deb13-alpha-generic-di": "linux-headers@6.8",
+    "dasd-modules-7.0.12+deb13-s390x-di,drm-core-modules-7.0.12+deb13-alpha-generic-di": "linux-headers@6.8",
     "dasd-modules-7.0.4+deb13-s390x-di": "linux-headers@6.8",
     "dasd-modules-7.0.7+deb13-s390x-di": "linux-headers@6.8",
     "dasd-modules-7.0.9+deb13-s390x-di": "linux-headers@6.8",
@@ -215,6 +217,14 @@
     "drm-core-modules-7.0.10+deb13-powerpc64le-di": "linux-headers@6.8",
     "drm-core-modules-7.0.10+deb13-riscv64-di": "linux-headers@6.8",
     "drm-core-modules-7.0.10+deb13-sparc64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.12+deb13-amd64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.12+deb13-armmp-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.12+deb13-loong64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.12+deb13-powerpc-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.12+deb13-powerpc64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.12+deb13-powerpc64le-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.12+deb13-riscv64-di": "linux-headers@6.8",
+    "drm-core-modules-7.0.12+deb13-sparc64-di": "linux-headers@6.8",
     "drm-core-modules-7.0.4+deb13-alpha-generic-di": "linux-headers@6.8",
     "drm-core-modules-7.0.4+deb13-amd64-di": "linux-headers@6.8",
     "drm-core-modules-7.0.4+deb13-armmp-di": "linux-headers@6.8",

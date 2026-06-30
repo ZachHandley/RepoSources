@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "p",
-    "total_mappings": 498
+    "total_mappings": 488
   },
   "mappings": {
     "PyInstaller": "pyinstaller",
@@ -146,7 +146,6 @@
     "php8.1-ldap": "php@8.4",
     "php8.1-mysql": "php@8.4",
     "php8.1-odbc": "php@8.4",
-    "php8.1-pear": "php@8.4",
     "php8.1-pgsql": "php@8.4",
     "php8.1-phpdbg": "php@8.4",
     "php8.1-snmp": "php@8.4",
@@ -326,7 +325,6 @@
     "portmidi-devel": "portmidi",
     "posh": "posh",
     "postgis": "postgis",
-    "postgis-postgresql16": "postgis",
     "postgis-postgresql17": "postgis",
     "postgis-postgresql18": "postgis",
     "postgresql": "postgresql@18",
@@ -339,14 +337,6 @@
     "postgresql-plperl": "postgresql@18",
     "postgresql-plpython": "postgresql@18",
     "postgresql-pltcl": "postgresql@18",
-    "postgresql16": "postgresql@18",
-    "postgresql16-client": "postgresql@18",
-    "postgresql16-contrib": "postgresql@18",
-    "postgresql16-doc": "postgresql@18",
-    "postgresql16-libs-devel": "postgresql@18",
-    "postgresql16-plperl": "postgresql@18",
-    "postgresql16-plpython": "postgresql@18",
-    "postgresql16-pltcl": "postgresql@18",
     "postgresql17": "postgresql@18",
     "postgresql17-client": "postgresql@18",
     "postgresql17-contrib": "postgresql@18",

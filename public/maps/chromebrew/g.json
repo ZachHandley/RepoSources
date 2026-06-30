@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "g",
-    "total_mappings": 102
+    "total_mappings": 103
   },
   "mappings": {
     "gambit": "gambit-scheme",
@@ -37,6 +37,7 @@
     "git_lfs": "git-lfs",
     "github_cli": "gh",
     "github_release": "github-release",
+    "gitlab_runner": "gitlab-runner",
     "gjs": "gjs",
     "gl2ps": "gl2ps",
     "glab": "glab",

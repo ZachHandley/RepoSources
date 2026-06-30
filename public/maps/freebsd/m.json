@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "m",
-    "total_mappings": 708
+    "total_mappings": 711
   },
   "mappings": {
     "M4RI": "m4ri",
@@ -93,6 +93,7 @@
     "mariadb123-server": "mariadb@11.8",
     "marisa-trie": "marisa",
     "markdown": "markdown",
+    "markdown-oxide": "markdown-oxide",
     "marmite": "marmite",
     "masscan": "masscan",
     "math/GiNaC": "ginac",
@@ -224,6 +225,7 @@
     "math/openfst": "openfst",
     "math/openlibm": "openlibm",
     "math/openmesh": "open-mesh",
+    "math/openturns": "openturns",
     "math/or-tools": "or-tools",
     "math/osqp": "osqp",
     "math/pari": "pari",
@@ -266,6 +268,7 @@
     "math/units": "gnu-units",
     "math/unuran": "unuran",
     "math/vampire": "vampire",
+    "math/vdt": "vdt",
     "math/viennacl": "viennacl",
     "math/vowpal_wabbit": "vowpal-wabbit",
     "math/vtk9": "vtk",

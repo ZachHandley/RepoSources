@@ -1,18 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "s",
-    "total_mappings": 7
+    "total_mappings": 4
   },
   "mappings": {
-    "samba": "samba",
-    "sane": "sane-backends",
-    "sdl_sound": "sdl2_sound",
-    "smartmontools": "smartmontools",
-    "strace": "strace",
-    "subversion": "subversion",
-    "syslog-ng": "syslog-ng"
+    "sbcl": "sbcl",
+    "shared-mime-info": "shared-mime-info",
+    "sqlite": "sqlite",
+    "sqlite-doc": "sqlite"
   }
 }

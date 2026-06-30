@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_41",
     "shard": "p",
@@ -709,8 +709,8 @@
     "pypy3.10-devel": "pypy3.10",
     "pypy3.10-libs": "pypy",
     "pypy3.10-test": "pypy",
-    "pypy3.11": "pypy",
-    "pypy3.11-devel": "pypy",
+    "pypy3.11": "pypy3.11",
+    "pypy3.11-devel": "pypy3.11",
     "pypy3.11-libs": "pypy",
     "pypy3.11-test": "pypy",
     "pypy3.9": "pypy3.9",

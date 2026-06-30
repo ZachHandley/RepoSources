@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "p",
-    "total_mappings": 1204
+    "total_mappings": 1206
   },
   "mappings": {
     "PDAL": "pdal",
@@ -103,6 +103,10 @@
     "pciutils-devel": "pciutils",
     "pciutils-devel-static": "pciutils",
     "pciutils-libs": "pciutils",
+    "pcl": "pcl",
+    "pcl-devel": "pcl",
+    "pcl-doc": "pcl",
+    "pcl-tools": "pcl",
     "pcre2": "pcre2",
     "pcre2-devel": "pcre2",
     "pcre2-static": "pcre2",
@@ -591,7 +595,6 @@
     "procps-ng": "procps",
     "procps-ng-devel": "procps",
     "procps-ng-i18n": "procps",
-    "procs": "procs",
     "profanity": "profanity",
     "profanity-devel": "profanity",
     "profanity-doc": "profanity",
@@ -719,7 +722,6 @@
     "puzzles": "puzzles",
     "pv": "pv",
     "pwgen": "pwgen",
-    "pwsafe": "pwsafe",
     "pybind11": "pybind11",
     "pybind11-devel": "pybind11",
     "pycairo": "py3cairo",
@@ -736,8 +738,8 @@
     "pypy3.10-devel": "pypy3.10",
     "pypy3.10-libs": "pypy",
     "pypy3.10-test": "pypy",
-    "pypy3.11": "pypy",
-    "pypy3.11-devel": "pypy",
+    "pypy3.11": "pypy3.11",
+    "pypy3.11-devel": "pypy3.11",
     "pypy3.11-libs": "pypy",
     "pypy3.11-test": "pypy",
     "pystring": "pystring",

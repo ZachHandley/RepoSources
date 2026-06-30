@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "n",
-    "total_mappings": 9
+    "total_mappings": 11
   },
   "mappings": {
     "naabu": "naabu",
+    "naabu-debug": "naabu",
     "ncurses5-compat-libs": "ncurses",
     "ndpi": "ndpi",
     "needle": "needle",
@@ -15,6 +16,7 @@
     "nfcutils": "nfcutils",
     "nfdump": "nfdump",
     "nodejs-lts-gallium": "node@24",
-    "nuclei": "nuclei"
+    "nuclei": "nuclei",
+    "nuclei-debug": "nuclei"
   }
 }

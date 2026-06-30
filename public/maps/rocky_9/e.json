@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "e",
-    "total_mappings": 80
+    "total_mappings": 82
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -59,6 +59,8 @@
     "espeak-ng-doc": "espeak",
     "espeak-ng-vim": "espeak",
     "evince": "evince",
+    "evince-debuginfo": "evince",
+    "evince-debugsource": "evince",
     "evince-devel": "evince",
     "evince-dvi": "evince",
     "evince-libs": "evince",

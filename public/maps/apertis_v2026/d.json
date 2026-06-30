@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "d",
-    "total_mappings": 87
+    "total_mappings": 86
   },
   "mappings": {
     "dasd-extra-modules-6.18.31-s390x-di": "linux-headers@6.8",
@@ -36,7 +36,6 @@
     "desktop-file-utils": "desktop-file-utils",
     "device-tree-compiler": "dtc",
     "dfu-util": "dfu-util",
-    "dh-acc": "abi-compliance-checker",
     "dh-strip-nondeterminism": "strip-nondeterminism",
     "dialog": "dialog",
     "diffstat": "diffstat",
@@ -87,8 +86,8 @@
     "drm-core-modules-6.18.31-powerpc64le-di": "linux-headers@6.8",
     "drm-core-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "drm-core-modules-6.18.31-sparc64-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.32+1-amd64-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.32+1-armmp-di": "linux-headers@6.8",
+    "drm-core-modules-6.18.35-amd64-di": "linux-headers@6.8",
+    "drm-core-modules-6.18.35-armmp-di": "linux-headers@6.8",
     "dselect": "dpkg",
     "duktape": "duktape",
     "duktape-dev": "duktape",

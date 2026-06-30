@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "n",
-    "total_mappings": 355
+    "total_mappings": 361
   },
   "mappings": {
     "NumCpp": "numcpp",
@@ -266,6 +266,11 @@
     "nodejs24-debugsource": "node@24",
     "nodejs24-devel": "node@24",
     "nodejs24-docs": "node@24",
+    "nodejs26": "node@24",
+    "nodejs26-debuginfo": "node@24",
+    "nodejs26-debugsource": "node@24",
+    "nodejs26-devel": "node@24",
+    "nodejs26-docs": "node@24",
     "nomino": "nomino",
     "nomino-debuginfo": "nomino",
     "nomino-debugsource": "nomino",
@@ -285,6 +290,7 @@
     "notmuch-emacs": "notmuch",
     "nping": "nmap",
     "npm24": "node@24",
+    "npm26": "node@24",
     "npth": "npth",
     "npth-debuginfo": "npth",
     "npth-debugsource": "npth",

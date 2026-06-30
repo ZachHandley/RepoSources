@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "m",
-    "total_mappings": 759
+    "total_mappings": 763
   },
   "mappings": {
     "Mesa": "mesa",
@@ -158,6 +158,10 @@
     "mbedtls-2-debuginfo": "mbedtls@3",
     "mbedtls-2-debugsource": "mbedtls@3",
     "mbedtls-2-devel": "mbedtls@3",
+    "mbedtls-3": "mbedtls@3",
+    "mbedtls-3-debuginfo": "mbedtls@3",
+    "mbedtls-3-debugsource": "mbedtls@3",
+    "mbedtls-3-devel": "mbedtls@3",
     "mbedtls-debuginfo": "mbedtls@3",
     "mbedtls-debugsource": "mbedtls@3",
     "mbedtls-devel": "mbedtls@3",
@@ -270,6 +274,9 @@
     "micropython-debuginfo": "micropython",
     "micropython-debugsource": "micropython",
     "micropython-lib": "micropython",
+    "mihomo": "mihomo",
+    "mihomo-debuginfo": "mihomo",
+    "mihomo-debugsource": "mihomo",
     "miller": "miller",
     "miller-debuginfo": "miller",
     "miller-debugsource": "miller",
@@ -620,9 +627,6 @@
     "mpc-debuginfo": "libmpc",
     "mpc-debugsource": "libmpc",
     "mpc-devel": "libmpc",
-    "mpclient": "mpc",
-    "mpclient-debuginfo": "mpc",
-    "mpclient-debugsource": "mpc",
     "mpd": "mpd",
     "mpd-debuginfo": "mpd",
     "mpd-debugsource": "mpd",
@@ -735,7 +739,7 @@
     "mupdf": "mupdf",
     "mupdf-debuginfo": "mupdf",
     "mupdf-debugsource": "mupdf",
-    "mupdf-devel-static": "mupdf",
+    "mupdf-devel": "mupdf",
     "mupen64plus": "mupen64plus",
     "mupen64plus-debuginfo": "mupen64plus",
     "mupen64plus-debugsource": "mupen64plus",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "c",
-    "total_mappings": 340
+    "total_mappings": 339
   },
   "mappings": {
     "CLI11": "cli11",
@@ -64,7 +64,7 @@
     "cdk": "cdk",
     "cdlabelgen": "cdlabelgen",
     "cdrdao": "cdrdao",
-    "cdrtools": "cdrtools",
+    "cdrtools": "star",
     "centerim": "center-im",
     "centerim5": "center-im",
     "cfengine": "cfengine",
@@ -159,7 +159,6 @@
     "cmark": "cmark",
     "cmark-gfm": "cmark-gfm",
     "cmatrix": "cmatrix",
-    "cmdpack": "ecm",
     "cmigemo": "cmigemo",
     "cmocka": "cmocka",
     "cmockery2": "cmockery2",

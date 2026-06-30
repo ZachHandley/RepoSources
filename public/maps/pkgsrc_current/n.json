@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "n",
-    "total_mappings": 368
+    "total_mappings": 370
   },
   "mappings": {
     "nacl": "nacl",
@@ -143,6 +143,7 @@
     "net/k6": "k6",
     "net/kea": "kea",
     "net/knot": "knot",
+    "net/knot-resolver": "knot-resolver",
     "net/kubectl": "kubernetes-cli@1.35",
     "net/ldns": "ldns",
     "net/lft": "lft",
@@ -286,6 +287,7 @@
     "net/vnstat": "vnstat",
     "net/vnstati": "vnstat",
     "net/vsftpd": "vsftpd",
+    "net/vultr-cli": "vultr-cli",
     "net/websocketpp": "websocketpp",
     "net/wget": "wget",
     "net/wget2": "wget",

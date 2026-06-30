@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "t",
-    "total_mappings": 387
+    "total_mappings": 385
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -266,6 +266,7 @@
     "torsocks-git": "torsocks",
     "toxcore-c": "toxcore",
     "toxcore-git": "toxcore",
+    "tpack-bin": "tpack",
     "tpl-git": "tpl",
     "tpm": "tpm",
     "tracy": "tracy",
@@ -315,6 +316,7 @@
     "truffle": "truffle",
     "trufflehog": "trufflehog",
     "trufflehog-bin": "trufflehog",
+    "trufflehog-git": "trufflehog",
     "trurl-git": "trurl",
     "try": "try",
     "try-git": "try",
@@ -387,12 +389,8 @@
     "typioca-bin": "typioca",
     "typioca-git": "typioca",
     "typst-git": "typst",
-    "typstfmt": "typstfmt",
-    "typstfmt-bin": "typstfmt",
-    "typstfmt-git": "typstfmt",
     "typstyle-git": "typstyle",
     "typtea": "typtea",
-    "tz": "tz",
-    "tz-git": "tz"
+    "tz": "tz"
   }
 }

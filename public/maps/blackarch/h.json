@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "h",
-    "total_mappings": 6
+    "total_mappings": 7
   },
   "mappings": {
     "h2spec": "h2spec",
@@ -12,6 +12,7 @@
     "hamlib": "hamlib",
     "hashdeep": "md5deep",
     "httpry": "httpry",
-    "httpx": "httpx"
+    "httpx": "httpx",
+    "httpx-debug": "httpx"
   }
 }

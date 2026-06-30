@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "w",
-    "total_mappings": 32
+    "total_mappings": 33
   },
   "mappings": {
     "www-apache/passenger": "passenger",
@@ -30,6 +30,7 @@
     "www-misc/urlwatch": "urlwatch",
     "www-servers/apache": "httpd",
     "www-servers/caddy": "caddy",
+    "www-servers/civetweb": "civetweb",
     "www-servers/h2o": "h2o",
     "www-servers/kore": "kore",
     "www-servers/lighttpd": "lighttpd",

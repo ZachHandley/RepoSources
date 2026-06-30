@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "z",
-    "total_mappings": 128
+    "total_mappings": 129
   },
   "mappings": {
     "z3": "z3",
@@ -50,6 +50,7 @@
     "zabbix74.server-mysql": "zabbix",
     "zabbix74.server-pgsql": "zabbix",
     "zabbix74.web": "zabbix",
+    "zapp": "zapp",
     "zbar": "zbar",
     "zbctl": "zbctl",
     "zchunk": "zchunk",

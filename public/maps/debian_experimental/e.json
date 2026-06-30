@@ -1,14 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "e",
-    "total_mappings": 17
+    "total_mappings": 19
   },
   "mappings": {
     "eigen3": "eigen@3",
     "elpa-protobuf-mode": "protobuf@33",
+    "emscripten": "emscripten",
+    "emscripten-doc": "emscripten",
     "ewf-tools": "libewf",
     "ext4-modules-7.1-alpha-generic-di": "linux-headers@6.8",
     "ext4-modules-7.1-amd64-di": "linux-headers@6.8",

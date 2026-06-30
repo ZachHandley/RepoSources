@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "e",
-    "total_mappings": 200
+    "total_mappings": 198
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -21,7 +21,6 @@
     "ebook-tools-devel": "ebook-tools",
     "ecl": "ecl",
     "ecl-debuginfo": "ecl",
-    "ecm": "ecm",
     "ed": "ed",
     "ed-debuginfo": "ed",
     "edbrowse": "edbrowse",
@@ -189,7 +188,6 @@
     "exim-pgsql": "exim",
     "exim-sqlite": "exim",
     "exim-tools": "exim",
-    "exim-tools-debuginfo": "exim",
     "exiv2": "exiv2",
     "exiv2-debuginfo": "exiv2",
     "exosip": "libexosip",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "t",
-    "total_mappings": 470
+    "total_mappings": 472
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -73,7 +73,6 @@
     "textproc/align": "align",
     "textproc/angle-grinder": "angle-grinder",
     "textproc/ansifilter": "ansifilter",
-    "textproc/antiword": "antiword",
     "textproc/apache-solr": "solr@8.11",
     "textproc/asciidoc": "asciidoc",
     "textproc/asciinema": "asciinema",
@@ -227,6 +226,7 @@
     "textproc/lowdown": "lowdown",
     "textproc/mandoc": "mandoc",
     "textproc/markdown": "markdown",
+    "textproc/markdown-oxide": "markdown-oxide",
     "textproc/md4c": "md4c",
     "textproc/mdbook": "mdbook",
     "textproc/mdq": "mdq",
@@ -455,6 +455,7 @@
     "ttf2pt1": "ttf2pt1",
     "ttfautohint": "ttfautohint",
     "tth": "tth",
+    "ttl": "ttl",
     "ttmath": "ttmath",
     "tty-clock": "tty-clock",
     "tty-solitaire": "tty-solitaire",
@@ -466,6 +467,7 @@
     "tup": "tup",
     "turbostat": "linux-headers@6.8",
     "turnserver": "coturn",
+    "turso": "turso",
     "tweak": "tweak",
     "twm": "twm",
     "twolame": "two-lame",

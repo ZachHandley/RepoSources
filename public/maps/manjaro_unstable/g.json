@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "g",
-    "total_mappings": 297
+    "total_mappings": 300
   },
   "mappings": {
     "gammaray": "gammaray",
@@ -60,6 +60,9 @@
     "gexiv2-docs": "gexiv2",
     "gflags": "gflags",
     "gfold": "gfold",
+    "ggml": "ggml",
+    "ggml-rocm": "ggml",
+    "ggml-vulkan": "ggml",
     "ghc": "ghc",
     "ghc-libs": "ghc@9.8",
     "ghc-static": "ghc@9.8",

@@ -1,16 +1,21 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "p",
-    "total_mappings": 5
+    "total_mappings": 10
   },
   "mappings": {
-    "python": "python@3.14",
-    "python-fastapi": "fastapi",
-    "python-maturin": "maturin",
-    "python-scipy": "scipy",
-    "python-tests": "python@3.9"
+    "plantuml": "plantuml",
+    "podman": "podman",
+    "podman-docker": "podman",
+    "python-onnx": "onnx",
+    "python-onnxruntime-cpu": "onnxruntime",
+    "python-onnxruntime-cuda": "onnxruntime",
+    "python-onnxruntime-opt-cuda": "onnxruntime",
+    "python-onnxruntime-opt-rocm": "onnxruntime",
+    "python-onnxruntime-rocm": "onnxruntime",
+    "python-pivy": "pivy"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "apertis_v2023",
     "shard": "d",
-    "total_mappings": 70
+    "total_mappings": 69
   },
   "mappings": {
     "daq": "daq",
@@ -35,7 +35,6 @@
     "device-tree-compiler": "dtc",
     "devil": "devil",
     "dfu-util": "dfu-util",
-    "dh-acc": "abi-compliance-checker",
     "dh-strip-nondeterminism": "strip-nondeterminism",
     "dialog": "dialog",
     "diffstat": "diffstat",

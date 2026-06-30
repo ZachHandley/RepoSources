@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "a",
-    "total_mappings": 625
+    "total_mappings": 624
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -490,7 +490,6 @@
     "app-text/a2ps": "a2ps",
     "app-text/aha": "aha",
     "app-text/ansifilter": "ansifilter",
-    "app-text/antiword": "antiword",
     "app-text/asciidoc": "asciidoc",
     "app-text/aspell": "aspell",
     "app-text/barcode": "gnu-barcode",

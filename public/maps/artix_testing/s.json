@@ -1,14 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "s",
-    "total_mappings": 3
+    "total_mappings": 5
   },
   "mappings": {
-    "shaderc": "shaderc",
-    "spirv-headers": "spirv-headers",
-    "spirv-tools": "spirv-tools"
+    "sqlite": "sqlite",
+    "sqlite-analyzer": "sqlite-analyzer",
+    "sqlite-doc": "sqlite",
+    "sqlite-tcl": "sqlite",
+    "strace": "strace"
   }
 }

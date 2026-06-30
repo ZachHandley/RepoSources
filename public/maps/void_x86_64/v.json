@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "v",
@@ -98,6 +98,6 @@
     "vttest": "vttest",
     "vulkan-loader": "vulkan-loader",
     "vulkan-loader-devel": "vulkan-loader",
-    "vultr": "vultr"
+    "vultr-cli": "vultr-cli"
   }
 }

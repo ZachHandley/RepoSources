@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "w",
-    "total_mappings": 147
+    "total_mappings": 148
   },
   "mappings": {
     "w3m": "w3m",
@@ -64,6 +64,7 @@
     "www/buku": "buku",
     "www/caddy": "caddy",
     "www/cgit": "cgit",
+    "www/civetweb": "civetweb",
     "www/cntlm": "cntlm",
     "www/composer": "composer",
     "www/darkhttpd": "darkhttpd",

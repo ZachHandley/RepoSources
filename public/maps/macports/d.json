@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "d",
-    "total_mappings": 1146
+    "total_mappings": 1147
   },
   "mappings": {
     "d2": "d2",
@@ -494,7 +494,6 @@
     "devel/go-jsonnet": "go-jsonnet",
     "devel/go-migrate": "golang-migrate",
     "devel/go-task": "go-task",
-    "devel/gokart": "gokart",
     "devel/golangci-lint": "golangci-lint",
     "devel/golines": "golines",
     "devel/google-benchmark": "google-benchmark",
@@ -1009,8 +1008,10 @@
     "devel/wandio": "wandio",
     "devel/wangle": "wangle",
     "devel/wasm-pack": "wasm-pack",
+    "devel/wasm-tools": "wasm-tools",
     "devel/wasmedge": "wasmedge",
     "devel/wasmtime": "wasmtime",
+    "devel/watcher": "watcher",
     "devel/wayland": "wayland",
     "devel/web-ext": "web-ext",
     "devel/webify": "webify",

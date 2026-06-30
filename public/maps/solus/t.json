@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "t",
-    "total_mappings": 126
+    "total_mappings": 124
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -36,8 +36,6 @@
     "template-glib": "template-glib",
     "template-glib-dbginfo": "template-glib",
     "template-glib-devel": "template-glib",
-    "tensorflow": "libtensorflow",
-    "tensorflow-c-api": "libtensorflow",
     "terminator": "terminator",
     "tesseract": "tesseract",
     "tesseract-dbginfo": "tesseract",

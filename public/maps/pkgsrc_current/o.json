@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "o",
-    "total_mappings": 93
+    "total_mappings": 94
   },
   "mappings": {
     "OpenJPH": "openjph",
@@ -28,6 +28,7 @@
     "ode": "ode",
     "odt2txt": "odt2txt",
     "offlineimap": "offlineimap",
+    "offlineimap3": "offlineimap",
     "ogmtools": "ogmtools",
     "oh-my-posh": "oh-my-posh",
     "oksh": "oksh",

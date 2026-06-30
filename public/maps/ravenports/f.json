@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "f",
-    "total_mappings": 36
+    "total_mappings": 38
   },
   "mappings": {
     "faac": "faac",
     "faad2": "faad2",
     "fast_float": "fast_float",
     "feh": "feh",
+    "ferron": "ferron",
     "ffmpeg": "ffmpeg@7",
     "ffmpeg7": "ffmpeg@7",
     "fftw": "fftw",
@@ -27,6 +28,7 @@
     "fontconfig": "fontconfig",
     "fontforge": "fontforge",
     "forgejo": "forgejo",
+    "forgejo-cli": "forgejo-cli",
     "fossil": "fossil",
     "fox": "fox",
     "freealut": "freealut",

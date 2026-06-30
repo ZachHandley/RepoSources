@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "k",
-    "total_mappings": 227
+    "total_mappings": 234
   },
   "mappings": {
     "k9s": "k9s",
     "k9s-debuginfo": "k9s",
     "kafka": "kafka",
-    "kantiword": "antiword",
     "kapacitor": "kapacitor",
     "kapacitor-debuginfo": "kapacitor",
     "kea": "kea",
@@ -222,6 +221,14 @@
     "kubernetes1.35-kubelet": "kubernetes-cli@1.35",
     "kubernetes1.35-master": "kubernetes-cli@1.35",
     "kubernetes1.35-node": "kubernetes-cli@1.35",
+    "kubernetes1.36": "kubernetes-cli@1.35",
+    "kubernetes1.36-client": "kubernetes-cli@1.35",
+    "kubernetes1.36-common": "kubernetes-cli@1.35",
+    "kubernetes1.36-crio": "kubernetes-cli@1.35",
+    "kubernetes1.36-kubeadm": "kubernetes-cli@1.35",
+    "kubernetes1.36-kubelet": "kubernetes-cli@1.35",
+    "kubernetes1.36-master": "kubernetes-cli@1.35",
+    "kubernetes1.36-node": "kubernetes-cli@1.35",
     "kubo": "kubo",
     "kubo-debuginfo": "kubo",
     "kvazaar": "kvazaar",

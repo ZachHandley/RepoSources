@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "m",
-    "total_mappings": 573
+    "total_mappings": 574
   },
   "mappings": {
     "MMTabBarView": "mmtabbarview",
@@ -238,6 +238,7 @@
     "math/superlu": "superlu",
     "math/symengine": "symengine",
     "math/vampire": "vampire",
+    "math/vdt": "vdt",
     "math/viennacl": "viennacl",
     "math/vowpal_wabbit": "vowpal-wabbit",
     "math/wxMaxima": "wxmaxima",

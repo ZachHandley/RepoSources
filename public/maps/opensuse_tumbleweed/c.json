@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "c",
-    "total_mappings": 1186
+    "total_mappings": 1187
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -296,6 +296,10 @@
     "cilium-cli-debugsource": "cilium-cli",
     "cilium-cli-fish-completion": "cilium-cli",
     "cilium-cli-zsh-completion": "cilium-cli",
+    "civetweb": "civetweb",
+    "civetweb-debuginfo": "civetweb",
+    "civetweb-debugsource": "civetweb",
+    "civetweb-devel": "civetweb",
     "ck": "concurrencykit",
     "ck-debuginfo": "concurrencykit",
     "ck-debugsource": "concurrencykit",
@@ -1116,9 +1120,6 @@
     "ctlptl-debugsource": "ctlptl",
     "ctlptl-fish-completion": "ctlptl",
     "ctlptl-zsh-completion": "ctlptl",
-    "ctop": "ctop",
-    "ctop-debuginfo": "ctop",
-    "ctop-debugsource": "ctop",
     "ctre": "ctre",
     "ctre-debuginfo": "ctre",
     "ctre-debugsource": "ctre",

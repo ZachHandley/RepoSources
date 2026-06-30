@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "h",
-    "total_mappings": 109
+    "total_mappings": 110
   },
   "mappings": {
     "h2c": "h2c",
@@ -21,6 +21,7 @@
     "haproxy26": "haproxy@2.8",
     "haproxy28": "haproxy@2.8",
     "haproxy30": "haproxy@2.8",
+    "haproxy32": "haproxy@2.8",
     "haproxy33": "haproxy@2.8",
     "harfbuzz": "harfbuzz",
     "harfbuzz-cairo": "harfbuzz",

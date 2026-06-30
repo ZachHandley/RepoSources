@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "m",
-    "total_mappings": 155
+    "total_mappings": 156
   },
   "mappings": {
     "m4": "m4",
@@ -33,6 +33,7 @@
     "markdown": "markdown",
     "masscan": "masscan",
     "matio": "libmatio",
+    "matplotplusplus": "matplotplusplus",
     "matterbridge": "matterbridge",
     "maturin": "maturin",
     "maven": "maven",

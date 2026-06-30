@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "a",
-    "total_mappings": 299
+    "total_mappings": 295
   },
   "mappings": {
     "Agda": "agda",
@@ -19,7 +19,6 @@
     "abcmidi": "abcmidi",
     "abduco": "abduco",
     "abduco-unstable": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abook": "abook",
     "abpoa": "abpoa",
@@ -111,7 +110,6 @@
     "ant": "ant",
     "antidote": "antidote",
     "antigen": "antigen",
-    "antiword": "antiword",
     "antlr": "antlr",
     "antlr2": "antlr",
     "antlr3": "antlr",
@@ -190,7 +188,6 @@
     "as-tree": "as-tree",
     "as-tree-unstable": "as-tree",
     "asak": "asak",
-    "asc": "asc",
     "ascii": "ascii",
     "asciidoc": "asciidoc",
     "asciidoc-full": "asciidoc",
@@ -260,7 +257,6 @@
     "automake115x": "automake",
     "automake117x": "automake",
     "automysqlbackup": "automysqlbackup",
-    "autopsy": "autopsy",
     "autorestic": "autorestic",
     "autossh": "autossh",
     "autotrace": "autotrace",

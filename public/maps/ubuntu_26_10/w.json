@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "w",
-    "total_mappings": 120
+    "total_mappings": 122
   },
   "mappings": {
     "w3m": "w3m",
@@ -16,6 +16,8 @@
     "wal2json": "wal2json",
     "walldns": "djbdns",
     "wasi-libc": "wasi-libc",
+    "wasm-bindgen": "wasm-bindgen",
+    "wasm-pack": "wasm-pack",
     "wasmedge": "wasmedge",
     "watchman": "watchman",
     "wavpack": "wavpack",

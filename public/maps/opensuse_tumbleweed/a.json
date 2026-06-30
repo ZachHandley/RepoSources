@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "a",
-    "total_mappings": 536
+    "total_mappings": 535
   },
   "mappings": {
     "AppStream": "appstream",
@@ -34,7 +34,6 @@
     "abcm2ps": "abcm2ps",
     "abcm2ps-debuginfo": "abcm2ps",
     "abcm2ps-debugsource": "abcm2ps",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abook": "abook",
     "abook-debuginfo": "abook",

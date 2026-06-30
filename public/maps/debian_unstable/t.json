@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "t",
-    "total_mappings": 374
+    "total_mappings": 373
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -56,7 +56,6 @@
     "telnetd": "inetutils",
     "template-glib": "template-glib",
     "tensorflow": "libtensorflow",
-    "termbox": "termbox",
     "terminator": "terminator",
     "termrec": "termrec",
     "termshark": "termshark",

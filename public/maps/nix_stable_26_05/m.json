@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "m",
-    "total_mappings": 352
+    "total_mappings": 353
   },
   "mappings": {
     "MHonArc": "mhonarc",
@@ -182,6 +182,7 @@
     "millet": "millet",
     "mimalloc": "mimalloc",
     "mimic": "mimic",
+    "min": "min-lang",
     "mingw-w64": "mingw-w64",
     "miniaudio": "miniaudio",
     "minica": "minica",

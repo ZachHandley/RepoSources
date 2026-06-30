@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_pentoo",
     "shard": "n",
-    "total_mappings": 31
+    "total_mappings": 32
   },
   "mappings": {
     "net-analyzer/amass": "amass",
     "net-analyzer/bettercap": "bettercap",
+    "net-analyzer/feroxbuster": "feroxbuster",
     "net-analyzer/fierce": "fierce",
     "net-analyzer/gobuster": "gobuster",
     "net-analyzer/katana": "katana",

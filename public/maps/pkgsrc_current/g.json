@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "g",
-    "total_mappings": 542
+    "total_mappings": 540
   },
   "mappings": {
     "GMT": "gmt",
@@ -17,7 +17,6 @@
     "games/7kaa": "seven-kingdoms",
     "games/angband": "angband",
     "games/arx-libertatis": "arx-libertatis",
-    "games/asc": "asc",
     "games/asciiquarium": "asciiquarium",
     "games/bastet": "bastet",
     "games/cataclysm-dda": "cataclysm",
@@ -43,7 +42,6 @@
     "games/gnuchess": "gnu-chess",
     "games/gnuchess4": "gnu-chess",
     "games/gnugo": "gnu-go",
-    "games/greed": "greed",
     "games/klavaro": "klavaro",
     "games/lgeneral": "lgeneral",
     "games/lgogdownloader": "lgogdownloader",
@@ -345,6 +343,7 @@
     "graphics/gegl": "gegl",
     "graphics/geomview": "geomview",
     "graphics/gexiv2": "gexiv2",
+    "graphics/gexiv2-0.16": "gexiv2",
     "graphics/gif2png": "gif2png",
     "graphics/giflib": "giflib",
     "graphics/giflib-util": "giflib",
@@ -493,7 +492,6 @@
     "graphics/zxing-cpp": "zxing-cpp",
     "graphite2": "graphite2",
     "graphviz": "graphviz",
-    "greed": "greed",
     "grep": "grep",
     "groff": "groff",
     "gromacs": "gromacs",

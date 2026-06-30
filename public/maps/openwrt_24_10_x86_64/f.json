@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "f",
-    "total_mappings": 740
+    "total_mappings": 739
   },
   "mappings": {
     "faad2": "faad2",
@@ -67,7 +67,6 @@
     "feeds/base/package/utils/lua5.3": "lua@5.4",
     "feeds/base/package/utils/util-linux": "gnu-getopt",
     "feeds/packages/admin/atop": "atop",
-    "feeds/packages/admin/bottom": "bottom",
     "feeds/packages/admin/btop": "btop",
     "feeds/packages/admin/fluent-bit": "fluent-bit",
     "feeds/packages/admin/gkrellmd": "gkrellm",
@@ -511,7 +510,6 @@
     "feeds/packages/utils/dosfstools": "dosfstools",
     "feeds/packages/utils/dump1090": "dump1090-fa",
     "feeds/packages/utils/dysk": "dysk",
-    "feeds/packages/utils/eza": "eza",
     "feeds/packages/utils/findutils": "findutils",
     "feeds/packages/utils/fio": "fio",
     "feeds/packages/utils/fish": "fish",
@@ -588,6 +586,7 @@
     "feeds/packages/utils/qemu": "qemu",
     "feeds/packages/utils/readsb": "readsb",
     "feeds/packages/utils/restic": "restic",
+    "feeds/packages/utils/ripgrep": "ripgrep",
     "feeds/packages/utils/rrdtool1": "rrdtool",
     "feeds/packages/utils/rtl_433": "rtl_433",
     "feeds/packages/utils/runc": "runc",

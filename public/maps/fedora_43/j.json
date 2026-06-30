@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "j",
-    "total_mappings": 157
+    "total_mappings": 160
   },
   "mappings": {
     "Judy": "judy",
@@ -111,6 +111,9 @@
     "jetty-webapp": "jetty",
     "jetty-xml": "jetty",
     "jflex": "jflex",
+    "jfrog-cli": "jfrog-cli",
+    "jfrog-cli-debuginfo": "jfrog-cli",
+    "jfrog-cli-debugsource": "jfrog-cli",
     "jhead": "jhead",
     "jid": "jid",
     "jigdo": "jigdo",

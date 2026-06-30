@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "a",
-    "total_mappings": 91
+    "total_mappings": 90
   },
   "mappings": {
     "AtomicParsley": "atomicparsley",
@@ -32,7 +32,6 @@
     "algol68g": "algol68g",
     "ansible": "ansible@13",
     "ansible-doc": "ansible@13",
-    "antiword": "antiword",
     "aom": "aom",
     "aom-debuginfo": "aom",
     "apng2gif": "apng2gif",

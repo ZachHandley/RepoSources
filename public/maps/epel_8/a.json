@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "a",
-    "total_mappings": 61
+    "total_mappings": 60
   },
   "mappings": {
     "Agda": "agda",
@@ -12,7 +12,6 @@
     "abcMIDI": "abcmidi",
     "abcm2ps": "abcm2ps",
     "abduco": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abseil-cpp": "abseil",
     "ack": "ack",

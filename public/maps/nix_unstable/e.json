@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "e",
-    "total_mappings": 157
+    "total_mappings": 150
   },
   "mappings": {
     "e1s": "e1s",
@@ -53,11 +53,7 @@
     "elfio": "elfio",
     "elfutils": "elfutils",
     "elfx86exts": "elfx86exts",
-    "elixir": "elixir",
     "elixir-ls": "elixir-ls",
-    "elixir_1_17": "elixir",
-    "elixir_1_18": "elixir",
-    "elixir_1_19": "elixir",
     "elvis-erlang": "elvis",
     "elvish": "elvish",
     "emacs": "emacs",
@@ -118,13 +114,10 @@
     "erg": "erg",
     "erlang": "erlang@28",
     "erlang-language-platform": "erlang-language-platform",
-    "erlang_27": "erlang@28",
-    "erlang_28": "erlang@28",
     "erlfmt": "erlfmt",
     "erofs-utils": "erofs-utils",
     "errcheck": "errcheck",
     "esbuild": "esbuild",
-    "esbuild_netlify": "esbuild",
     "eslint": "eslint",
     "eslint_d": "eslint_d",
     "espeak": "espeak",

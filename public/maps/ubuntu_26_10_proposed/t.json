@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "t",
-    "total_mappings": 34
+    "total_mappings": 33
   },
   "mappings": {
     "tailspin": "tailspin",
+    "tar": "gnu-tar",
+    "tar-scripts": "gnu-tar",
     "tcl-expect": "expect",
     "tcl-expect-dev": "expect",
     "tdb-tools": "samba",
-    "telnet": "inetutils",
-    "telnetd": "inetutils",
-    "testdisk": "testdisk",
+    "tensorflow": "libtensorflow",
     "tex-fmt": "tex-fmt",
     "texinfo": "texinfo",
     "texinfo-lib": "texinfo",
@@ -22,16 +22,12 @@
     "tmpreaper": "tmpreaper",
     "tmux": "tmux",
     "tmuxp": "tmuxp",
-    "tnftp": "tnftp",
-    "todoman": "todoman",
     "todotxt-cli": "todo-txt",
     "tokei": "tokei",
     "tor": "tor",
     "tor-geoipdb": "tor",
     "tox": "tox",
     "tpm2daemon": "gnupg@1.4",
-    "translate-toolkit": "translate-toolkit",
-    "translate-toolkit-doc": "translate-toolkit",
     "tree-sitter": "tree-sitter",
     "tree-sitter-cli": "tree-sitter@0.25",
     "tree-sitter-go": "tree-sitter-go",
@@ -39,7 +35,10 @@
     "tree-sitter-ruby": "tree-sitter-ruby",
     "tree-sitter-ruby-src": "tree-sitter-ruby",
     "trippy": "trippy",
-    "tshark": "wireshark",
-    "tsung": "tsung"
+    "tsung": "tsung",
+    "twine": "twine",
+    "tzdata": "tzdb",
+    "tzdata-icu": "tzdb",
+    "tzdata-legacy": "tzdb"
   }
 }

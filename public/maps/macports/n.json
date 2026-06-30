@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "n",
-    "total_mappings": 476
+    "total_mappings": 477
   },
   "mappings": {
     "n": "n",
@@ -257,6 +257,7 @@
     "net/openiked": "openiked",
     "net/openssh": "openssh",
     "net/openvpn2": "openvpn",
+    "net/opkssh": "opkssh",
     "net/p0f": "p0f",
     "net/pacparser": "pacparser",
     "net/paho.mqtt.c": "libpaho-mqtt",

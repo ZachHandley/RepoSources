@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2025_4",
     "shard": "l",
-    "total_mappings": 639
+    "total_mappings": 640
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -257,6 +257,7 @@
     "libao": "libao",
     "libaom": "aom",
     "libarchive": "libarchive",
+    "libart": "libart",
     "libass": "libass",
     "libassuan": "libassuan@2",
     "libatomic": "gcc@15",

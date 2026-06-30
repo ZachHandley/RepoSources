@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "w",
-    "total_mappings": 165
+    "total_mappings": 167
   },
   "mappings": {
     "w3m": "w3m",
@@ -17,11 +17,13 @@
     "wasi-libc": "wasi-libc",
     "wasm-component-ld": "wasm-component-ld",
     "wasm-pack": "wasm-pack",
+    "wasm-tools": "wasm-tools",
     "wasm3": "wasm3",
     "wasmedge": "wasmedge",
     "wasmer": "wasmer",
     "wasmtime": "wasmtime",
     "watch": "watch",
+    "watcher": "watcher",
     "watchexec": "watchexec",
     "watchman": "watchman",
     "wavpack": "wavpack",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "g",
-    "total_mappings": 132
+    "total_mappings": 133
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -100,6 +100,7 @@
     "golangci-lint": "golangci-lint",
     "gomplate": "gomplate",
     "google-java-format": "google-java-format",
+    "goose-cli": "block-goose-cli",
     "gopass": "gopass",
     "gopass-jsonapi": "gopass-jsonapi",
     "gopass184": "gopass",

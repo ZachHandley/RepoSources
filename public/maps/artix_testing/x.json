@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "x",
     "total_mappings": 1
   },
   "mappings": {
-    "x265": "x265"
+    "xdelta3": "xdelta"
   }
 }

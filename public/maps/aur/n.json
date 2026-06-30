@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "n",
-    "total_mappings": 261
+    "total_mappings": 258
   },
   "mappings": {
     "naabu": "naabu",
@@ -181,9 +181,6 @@
     "nomad-pack-git": "nomad-pack",
     "nomino": "nomino",
     "nomino-bin": "nomino",
-    "nono-ai": "nono",
-    "nono-ai-bin": "nono",
-    "nono-ai-git": "nono",
     "nopoll": "nopoll",
     "nopoll-git": "nopoll",
     "normalize": "normalize",

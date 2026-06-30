@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "s",
@@ -60,7 +60,7 @@
     "schily": "star",
     "schily-debuginfo": "star",
     "schily-debugsource": "star",
-    "schily-tools": "cdrtools",
+    "schily-tools": "star",
     "schroedinger": "schroedinger",
     "scons": "scons",
     "scotch": "scotch",
@@ -134,7 +134,7 @@
     "slrn-debuginfo": "slrn",
     "slrn-debugsource": "slrn",
     "slrn-pull": "slrn",
-    "smake": "cdrtools",
+    "smake": "star",
     "smartmontools": "smartmontools",
     "smi-tools": "libsmi",
     "smpeg": "smpeg",

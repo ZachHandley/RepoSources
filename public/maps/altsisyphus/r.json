@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "r",
-    "total_mappings": 330
+    "total_mappings": 329
   },
   "mappings": {
     "R-base": "r",
@@ -189,7 +189,6 @@
     "rpm-macros-ladspa_sdk": "ladspa-sdk",
     "rpm-macros-llvm-common": "llvm@21",
     "rpm-macros-meson": "meson",
-    "rpm-macros-mk-configure": "mk-configure",
     "rpm-macros-ninja-build": "ninja",
     "rpm-macros-ocaml-version": "ocaml@4",
     "rpm-macros-pam0": "linux-pam",

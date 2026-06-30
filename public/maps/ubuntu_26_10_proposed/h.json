@@ -1,28 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "h",
-    "total_mappings": 17
+    "total_mappings": 5
   },
   "mappings": {
-    "handbrake": "handbrake",
-    "handbrake-cli": "handbrake",
-    "haproxy": "haproxy",
-    "haproxy-doc": "haproxy@2.8",
-    "heif-gdk-pixbuf": "libheif",
-    "heif-thumbnailer": "libheif",
-    "heif-view": "libheif",
     "help2man": "help2man",
-    "hunspell": "hunspell",
-    "hunspell-tools": "hunspell",
     "hwatch": "hwatch",
     "hwloc": "hwloc",
     "hwloc-contrib": "hwloc",
-    "hwloc-nox": "hwloc",
-    "hy": "hy",
-    "hy-doc": "hy",
-    "hypre": "hypre"
+    "hwloc-nox": "hwloc"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "epel_7",
     "shard": "a",
-    "total_mappings": 52
+    "total_mappings": 51
   },
   "mappings": {
     "Agda": "agda",
@@ -14,7 +14,6 @@
     "abcde": "abcde",
     "abcm2ps": "abcm2ps",
     "abduco": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abook": "abook",
     "ack": "ack",

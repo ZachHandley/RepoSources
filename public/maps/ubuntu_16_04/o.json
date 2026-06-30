@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
     "shard": "o",
-    "total_mappings": 178
+    "total_mappings": 181
   },
   "mappings": {
     "oasis": "oasis",
@@ -150,6 +150,9 @@
     "openssh-server-udeb": "openssh",
     "openssh-sftp-server": "openssh",
     "openssl": "openssl@3",
+    "openturns": "openturns",
+    "openturns-examples": "openturns",
+    "openturns-validation": "openturns",
     "opentyrian": "open-tyrian",
     "openvdb": "openvdb",
     "openvpn": "openvpn",

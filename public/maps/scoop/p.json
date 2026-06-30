@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "p",
@@ -105,7 +105,7 @@
     "pympress": "pympress",
     "pyoxidizer": "pyoxidizer",
     "pypy2": "pypy",
-    "pypy3": "pypy3.10",
+    "pypy3": "pypy3.11",
     "pyrefly": "pyrefly",
     "python": "python@3.14",
     "python-alpha": "python@3.9",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "s",
-    "total_mappings": 603
+    "total_mappings": 604
   },
   "mappings": {
     "s-nail-git": "s-nail",
@@ -264,6 +264,7 @@
     "slides": "slides",
     "slides-bin": "slides",
     "slides-git": "slides",
+    "slint-cpp-bin": "slint-cpp",
     "slirp4netns-git": "slirp4netns",
     "sloc": "sloc",
     "slrn": "slrn",
@@ -527,6 +528,7 @@
     "supermodel-bin": "supermodel",
     "supermodel-git": "supermodel",
     "superseedr": "superseedr",
+    "superseedr-bin": "superseedr",
     "supertux-git": "supertux",
     "supertux-old": "supertux",
     "surelog-git": "surelog",
@@ -593,7 +595,6 @@
     "synergy-1.6": "synergy-core",
     "synergy1-bin": "synergy-core",
     "synergy2-bin": "synergy-core",
-    "synergy3-beta-bin": "synergy-core",
     "synergy3-stable-bin": "synergy-core",
     "synfig-dev": "synfig",
     "synfig-git": "synfig",

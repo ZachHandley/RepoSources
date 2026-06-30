@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "h",
-    "total_mappings": 147
+    "total_mappings": 146
   },
   "mappings": {
     "HdrHistogram_c": "hdrhistogram_c",
@@ -110,7 +110,6 @@
     "html-xml-utils": "html-xml-utils",
     "htmlcxx": "htmlcxx",
     "htmlcxx-devel": "htmlcxx",
-    "htmltest": "htmltest",
     "htop": "htop",
     "htslib": "htslib",
     "htslib-devel": "htslib",

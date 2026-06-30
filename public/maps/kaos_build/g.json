@@ -1,28 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "g",
-    "total_mappings": 17
+    "total_mappings": 5
   },
   "mappings": {
     "gdk-pixbuf2": "gdk-pixbuf",
-    "gettext": "gettext",
-    "gist": "gist",
     "git": "git",
-    "glib-networking": "glib-networking",
     "glib2": "glib",
-    "glibc": "glibc",
-    "gobject-introspection": "gobject-introspection",
-    "gpsd": "gpsd",
-    "graphviz": "graphviz",
-    "gsettings-desktop-schemas": "gsettings-desktop-schemas",
-    "gstreamer": "gstreamer",
-    "gtk-update-icon-cache": "gtk+",
-    "gtk3": "gtk+",
-    "gtk4": "gtk4",
-    "gtkmm3": "gtkmm3",
-    "guile": "guile"
+    "glibmm": "glibmm",
+    "gpgme": "gpgme"
   }
 }

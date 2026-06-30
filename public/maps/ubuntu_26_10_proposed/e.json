@@ -1,20 +1,21 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "e",
-    "total_mappings": 70
+    "total_mappings": 67
   },
   "mappings": {
+    "e2fsck-static": "e2fsprogs",
+    "e2fsprogs": "e2fsprogs",
+    "e2fsprogs-l10n": "e2fsprogs",
+    "e2fsprogs-udeb": "e2fsprogs",
     "eccodes": "eccodes",
-    "efl": "efl",
-    "efl-doc": "efl",
     "eglew-utils": "glew",
-    "elfutils": "elfutils",
     "elixir": "elixir",
     "elixir-lang": "elixir",
-    "elpa-acl2": "acl2",
+    "elpa-protobuf-mode": "protobuf@33",
     "emacs": "emacs",
     "emacs-bin-common": "emacs",
     "emacs-common": "emacs",
@@ -71,11 +72,7 @@
     "etcd": "etcd",
     "etcd-client": "etcd",
     "etcd-server": "etcd",
-    "evince": "evince",
-    "evince-common": "evince",
-    "evince-gtk3": "evince",
-    "exactimage": "exact-image",
-    "expect": "expect",
-    "extract": "libextractor"
+    "expat": "expat",
+    "expect": "expect"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "a",
-    "total_mappings": 285
+    "total_mappings": 284
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -44,7 +44,6 @@
     "ansible-lint": "ansible-lint",
     "ansilove": "ansilove",
     "ansiweather": "ansiweather",
-    "antiword": "antiword",
     "anubis": "anubis",
     "aom": "aom",
     "ap2-subversion": "subversion",

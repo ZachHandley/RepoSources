@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "d",
-    "total_mappings": 821
+    "total_mappings": 820
   },
   "mappings": {
     "dMagnetic": "dmagnetic",
@@ -203,7 +203,6 @@
     "devel/appstream-glib": "appstream-glib",
     "devel/apr": "apr",
     "devel/apr-util": "apr-util",
-    "devel/argp": "argp-standalone",
     "devel/argtable": "argtable",
     "devel/asdf": "asdf",
     "devel/asio": "asio",

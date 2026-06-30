@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "l",
-    "total_mappings": 145
+    "total_mappings": 146
   },
   "mappings": {
     "lame": "lame",
@@ -26,6 +26,7 @@
     "lft": "lft",
     "lftp": "lftp",
     "libarchive": "libarchive",
+    "libart": "libart",
     "libassuan": "libassuan@2",
     "libatomicops": "libatomic_ops",
     "libbrotli": "brotli",

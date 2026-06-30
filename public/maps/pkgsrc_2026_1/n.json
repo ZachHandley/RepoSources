@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "n",
-    "total_mappings": 365
+    "total_mappings": 366
   },
   "mappings": {
     "nacl": "nacl",
@@ -284,6 +284,7 @@
     "net/vde": "vde",
     "net/vnstat": "vnstat",
     "net/vsftpd": "vsftpd",
+    "net/vultr-cli": "vultr-cli",
     "net/websocketpp": "websocketpp",
     "net/wget": "wget",
     "net/wget2": "wget",

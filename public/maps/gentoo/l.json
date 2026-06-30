@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "l",
@@ -10,7 +10,6 @@
     "llvm-core/clang": "llvm@21",
     "llvm-core/clang-common": "llvm@21",
     "llvm-core/flang": "llvm@21",
-    "llvm-core/libclc": "libclc",
     "llvm-core/lld": "llvm@21",
     "llvm-core/lldb": "llvm@21",
     "llvm-core/llvm": "llvm@21",
@@ -18,6 +17,7 @@
     "llvm-runtimes/clang-runtime": "llvm@21",
     "llvm-runtimes/compiler-rt": "llvm@21",
     "llvm-runtimes/compiler-rt-sanitizers": "llvm@21",
+    "llvm-runtimes/libclc": "libclc",
     "llvm-runtimes/libcxx": "llvm@21",
     "llvm-runtimes/libcxxabi": "llvm@21",
     "llvm-runtimes/libgcc": "llvm@21",

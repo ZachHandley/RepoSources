@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "g",
-    "total_mappings": 468
+    "total_mappings": 470
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -83,6 +83,7 @@
     "gbc": "bc",
     "gcab": "gcab",
     "gcc": "gcc@15",
+    "gcc-bootstrap": "gcc@15",
     "gcc-libs": "gcc@15",
     "gcem": "gcem",
     "gcpio": "cpio",
@@ -326,6 +327,7 @@
     "graphics/leptonica": "leptonica",
     "graphics/lerc": "liblerc",
     "graphics/libansilove": "libansilove",
+    "graphics/libart": "libart",
     "graphics/libavif": "libavif",
     "graphics/libcaca": "libcaca",
     "graphics/libdmtx": "libdmtx",

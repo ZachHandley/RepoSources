@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "n",
@@ -68,6 +68,7 @@
     "nerdctl": "nerdctl",
     "nerdfetch": "nerdfetch",
     "nerdfix": "nerdfix",
+    "nerdlog": "nerdlog",
     "nest": "nest",
     "nest-mpi": "nest",
     "nestopia": "nestopia-ue",
@@ -173,7 +174,6 @@
     "nom": "nom",
     "nomad-pack": "nomad-pack",
     "nomino": "nomino",
-    "nono": "nono",
     "normalize": "normalize",
     "noseyparker": "noseyparker",
     "notation": "notation",

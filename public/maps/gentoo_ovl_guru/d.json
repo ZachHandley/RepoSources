@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "d",
-    "total_mappings": 107
+    "total_mappings": 108
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -13,6 +13,7 @@
     "dev-build/fobis": "fobis",
     "dev-build/fpm": "fpm",
     "dev-build/fypp": "fypp",
+    "dev-build/osc": "osc",
     "dev-build/xmake": "xmake",
     "dev-cpp/cpprestsdk": "cpprestsdk",
     "dev-cpp/drogon": "drogon",
@@ -32,6 +33,7 @@
     "dev-embedded/fwup": "fwup",
     "dev-embedded/probe-rs-tools": "probe-rs-tools",
     "dev-java/jdtls-bin": "jdtls",
+    "dev-lang/bun-bin": "bun",
     "dev-lang/c3c": "c3c",
     "dev-lang/cc65": "cc65",
     "dev-lang/crystal-bin": "crystal",
@@ -88,7 +90,6 @@
     "dev-util/kubetail": "kubetail",
     "dev-util/lua-language-server": "lua-language-server",
     "dev-util/minify": "minify",
-    "dev-util/mise": "mise",
     "dev-util/neocmakelsp": "neocmakelsp",
     "dev-util/nvchecker": "nvchecker",
     "dev-util/ols": "ols",

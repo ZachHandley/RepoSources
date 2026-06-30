@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "d",
-    "total_mappings": 258
+    "total_mappings": 259
   },
   "mappings": {
     "daemon": "daemon",
@@ -29,6 +29,8 @@
     "dasm": "dasm",
     "datalad": "datalad",
     "datamash": "datamash",
+    "datasette": "datasette",
+    "datasette-doc": "datasette",
     "datatype99": "datatype99",
     "dateutils": "dateutils",
     "dav1d": "dav1d",
@@ -91,7 +93,6 @@
     "dfc": "dfc",
     "dfu-programmer": "dfu-programmer",
     "dfu-util": "dfu-util",
-    "dh-acc": "abi-compliance-checker",
     "dh-strip-nondeterminism": "strip-nondeterminism",
     "dhall": "dhall",
     "dhcpdump": "dhcpdump",

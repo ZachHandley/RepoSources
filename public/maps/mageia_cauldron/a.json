@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "a",
-    "total_mappings": 192
+    "total_mappings": 188
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -14,7 +14,6 @@
     "abcde": "abcde",
     "abcm2ps": "abcm2ps",
     "abcmidi": "abcmidi",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abseil-cpp": "abseil",
     "ack": "ack",
@@ -69,7 +68,6 @@
     "ant-swing": "ant@1.9",
     "ant-testutil": "ant@1.9",
     "ant-xz": "ant@1.9",
-    "antiword": "antiword",
     "antlr": "antlr",
     "antlr-C++": "antlr",
     "antlr-javadoc": "antlr",
@@ -147,8 +145,6 @@
     "arpack": "arpack",
     "arrow": "apache-arrow",
     "arx-libertatis": "arx-libertatis",
-    "asc": "asc",
-    "asc-data": "asc",
     "ascii": "ascii",
     "asciidoc": "asciidoc",
     "asciiquarium": "asciiquarium",

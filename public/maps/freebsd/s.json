@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "s",
-    "total_mappings": 1076
+    "total_mappings": 1075
   },
   "mappings": {
     "SCIP": "scip",
@@ -104,7 +104,7 @@
     "science/udunits": "udunits",
     "science/voro++": "voro++",
     "science/votca": "votca",
-    "scons-py311": "scons",
+    "scons-py312": "scons",
     "scotch": "scotch",
     "scrcpy": "scrcpy",
     "screen": "screen",
@@ -197,7 +197,6 @@
     "security/gnupg1": "gnupg@1.4",
     "security/gnupg25": "gnupg@1.4",
     "security/gnutls": "gnutls",
-    "security/gokart": "gokart",
     "security/gokey": "gokey",
     "security/gopass": "gopass",
     "security/gosec": "gosec",
@@ -481,7 +480,6 @@
     "shells/nushell": "nushell",
     "shells/oksh": "oksh",
     "shells/powershell": "powershell",
-    "shells/rc": "rc",
     "shells/rura": "rura",
     "shells/rush": "rush",
     "shells/sheldon": "sheldon",
@@ -980,6 +978,7 @@
     "sysutils/pwsafe": "pwsafe",
     "sysutils/py-ansible-lint": "ansible-lint",
     "sysutils/py-azure-cli": "azure-cli",
+    "sysutils/py-datalad": "datalad",
     "sysutils/py-diffoscope": "diffoscope",
     "sysutils/py-glances": "glances",
     "sysutils/py-rdiff-backup": "rdiff-backup",

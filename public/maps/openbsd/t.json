@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "t",
-    "total_mappings": 385
+    "total_mappings": 384
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -172,7 +172,6 @@
     "texi2html": "texi2html",
     "texi2mdoc": "texi2mdoc",
     "texinfo": "texinfo",
-    "textproc/antiword": "antiword",
     "textproc/arabica": "arabica",
     "textproc/asciidoc": "asciidoc",
     "textproc/asciidoctor": "asciidoctor",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alpine_3_19",
     "shard": "a",
-    "total_mappings": 765
+    "total_mappings": 763
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -18,7 +18,6 @@
     "abcde-doc": "abcde",
     "abduco": "abduco",
     "abduco-doc": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abook": "abook",
     "abook-doc": "abook",
     "abook-lang": "abook",
@@ -173,7 +172,6 @@
     "ansible-lint": "ansible-lint",
     "ansible-lint-pyc": "ansible-lint",
     "ansible-pyc": "ansible@13",
-    "antiword": "antiword",
     "aom": "aom",
     "aom-dev": "aom",
     "aom-doc": "aom",

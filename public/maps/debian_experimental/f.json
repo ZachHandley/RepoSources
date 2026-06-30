@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "f",
-    "total_mappings": 49
+    "total_mappings": 50
   },
   "mappings": {
     "f2fs-modules-7.1-alpha-generic-di": "linux-headers@6.8",
@@ -46,6 +46,7 @@
     "fb-modules-7.1-powerpc64le-di": "linux-headers@6.8",
     "fb-modules-7.1-riscv64-di": "linux-headers@6.8",
     "fb-modules-7.1-sparc64-di": "linux-headers@6.8",
+    "findutils": "findutils",
     "firewire-core-modules-7.1-amd64-di": "linux-headers@6.8",
     "firewire-core-modules-7.1-loong64-di": "linux-headers@6.8",
     "firewire-core-modules-7.1-powerpc-di": "linux-headers@6.8",

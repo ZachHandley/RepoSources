@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "l",
-    "total_mappings": 5838
+    "total_mappings": 5841
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -3240,6 +3240,9 @@
     "libopenslide0": "openslide",
     "libopenthreads-dev": "open-scene-graph",
     "libopenthreads14": "open-scene-graph",
+    "libopenturns-dbg": "openturns",
+    "libopenturns-dev": "openturns",
+    "libopenturns0.3": "openturns",
     "libopenvdb-dev": "openvdb",
     "libopenvdb-doc": "openvdb",
     "libopenvdb-tools": "openvdb",

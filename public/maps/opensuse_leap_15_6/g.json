@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "g",
-    "total_mappings": 249
+    "total_mappings": 248
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -164,7 +164,6 @@
     "goffice": "goffice",
     "goffice-0_8": "goffice",
     "gojq": "gojq",
-    "gokart": "gokart",
     "golangci-lint": "golangci-lint",
     "gom": "gom",
     "goocanvas": "goocanvas",

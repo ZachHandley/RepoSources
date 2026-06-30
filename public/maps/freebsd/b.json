@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "b",
@@ -211,7 +211,7 @@
     "bowtie2": "bowtie2",
     "boxes": "boxes",
     "bozohttpd": "bozohttpd",
-    "bpython-py311": "bpython",
+    "bpython-py312": "bpython",
     "bpytop": "bpytop",
     "brename": "brename",
     "brogue": "brogue",

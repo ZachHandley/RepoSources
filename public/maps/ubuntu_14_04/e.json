@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "e",
-    "total_mappings": 184
+    "total_mappings": 183
   },
   "mappings": {
     "e2fsck-static": "e2fsprogs",
@@ -27,7 +27,6 @@
     "ecatools": "ecasound",
     "ecl": "ecl",
     "ecl-doc": "ecl",
-    "ecm": "ecm",
     "ed": "ed",
     "edisplay": "exact-image",
     "eigen2": "eigen@3",

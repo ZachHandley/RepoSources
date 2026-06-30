@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "l",
-    "total_mappings": 1891
+    "total_mappings": 1894
   },
   "mappings": {
     "lab": "lab",
@@ -238,6 +238,8 @@
     "libchewing-dev": "libchewing",
     "libchewing-tools": "libchewing",
     "libchewing-tools-doc": "libchewing",
+    "libcivetweb": "civetweb",
+    "libcivetweb-cpp": "civetweb",
     "libclc": "libclc",
     "libclc-dev": "libclc",
     "libcmark": "cmark",
@@ -1628,6 +1630,7 @@
     "liquid-dsp-dev": "liquid-dsp",
     "liquidctl": "liquidctl",
     "liquidctl-doc": "liquidctl",
+    "liquidctl-openrc": "liquidctl",
     "liquidctl-pyc": "liquidctl",
     "liquidctl-udev": "liquidctl",
     "litecli": "litecli",

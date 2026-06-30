@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "c",
@@ -35,7 +35,7 @@
     "Clazy": "clazy",
     "Clojure": "clojure",
     "Coccinelle": "coccinelle",
-    "Codec2": "codec2",
+    "Codec 2": "codec2",
     "CoffeeScript": "coffeescript",
     "Coin3D": "coin3d",
     "Common UNIX Printing System": "cups",
@@ -62,7 +62,7 @@
     "cdb": "cdb",
     "cdiff": "ydiff",
     "cdrdao": "cdrdao",
-    "cdrtools": "cdrtools",
+    "cdrtools": "star",
     "certbot": "certbot",
     "cgdb": "cgdb",
     "cgit": "cgit",

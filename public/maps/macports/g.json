@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "g",
-    "total_mappings": 743
+    "total_mappings": 741
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -34,7 +34,6 @@
     "games/gnuchess": "gnu-chess",
     "games/gnugo": "gnu-go",
     "games/gnushogi": "gnu-shogi",
-    "games/greed": "greed",
     "games/gti": "gti",
     "games/gtypist": "gnu-typist",
     "games/jnethack": "jnethack",
@@ -387,7 +386,6 @@
     "goffice": "goffice",
     "goffice08": "goffice",
     "gojq": "gojq",
-    "gokart": "gokart",
     "gokey": "gokey",
     "goku": "goku",
     "golangci-lint": "golangci-lint",
@@ -564,6 +562,7 @@
     "graphics/librsvg-devel": "librsvg",
     "graphics/libsixel": "libsixel",
     "graphics/libspiro": "libspiro",
+    "graphics/libspng": "libspng",
     "graphics/libsvg": "libsvg",
     "graphics/libsvg-cairo": "libsvg-cairo",
     "graphics/libvisio-0.1": "libvisio",
@@ -674,7 +673,6 @@
     "graphviz-gui-devel": "graphviz",
     "gravity": "gravity",
     "grc": "grc",
-    "greed": "greed",
     "grep": "grep",
     "grepcidr": "grepcidr",
     "grex": "grex",

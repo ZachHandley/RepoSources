@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "a",
-    "total_mappings": 280
+    "total_mappings": 275
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -16,7 +16,6 @@
     "abcm2ps": "abcm2ps",
     "abcmidi": "abcmidi",
     "abduco": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abigail-doc": "libabigail",
     "abigail-tools": "libabigail",
@@ -101,7 +100,6 @@
     "angband": "angband",
     "angband-data": "angband",
     "ansible": "ansible@13",
-    "ansible-lint": "ansible-lint",
     "ansifilter": "ansifilter",
     "ansifilter-gui": "ansifilter",
     "ansilove": "ansilove",
@@ -110,7 +108,6 @@
     "ant-contrib": "ant-contrib",
     "ant-doc": "ant@1.9",
     "ant-optional": "ant@1.9",
-    "antiword": "antiword",
     "antlr": "antlr",
     "antlr-doc": "antlr",
     "antlr3": "antlr",
@@ -191,8 +188,6 @@
     "arpack": "arpack",
     "arping": "arping",
     "arrow-tools": "apache-arrow",
-    "asc": "asc",
-    "asc-data": "asc",
     "ascii": "ascii",
     "ascii2binary": "ascii2binary",
     "asciidoc": "asciidoc",
@@ -232,6 +227,7 @@
     "atari800": "atari800",
     "atf": "atf",
     "atf-sh": "atf",
+    "atkmm": "atkmm",
     "atkmm1.6": "atkmm@2.28",
     "atomicparsley": "atomicparsley",
     "atool": "atool",
@@ -264,7 +260,6 @@
     "automysqlbackup": "automysqlbackup",
     "autopep8": "autopep8",
     "autopoint": "gettext",
-    "autopsy": "autopsy",
     "autossh": "autossh",
     "avahi": "avahi",
     "avahi-autoipd": "avahi",

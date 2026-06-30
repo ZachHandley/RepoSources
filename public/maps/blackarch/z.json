@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "z",
-    "total_mappings": 1
+    "total_mappings": 2
   },
   "mappings": {
-    "zeek": "zeek"
+    "zeek": "zeek",
+    "zeek-debug": "zeek"
   }
 }

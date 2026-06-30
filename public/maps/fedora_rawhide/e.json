@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "e",
-    "total_mappings": 179
+    "total_mappings": 178
   },
   "mappings": {
     "E": "eprover",
@@ -106,7 +106,6 @@
     "erlang-diameter": "erlang@28",
     "erlang-edoc": "erlang@28",
     "erlang-eldap": "erlang@28",
-    "erlang-erl_docgen": "erlang@28",
     "erlang-erl_interface": "erlang@28",
     "erlang-erts": "erlang@28",
     "erlang-et": "erlang@28",

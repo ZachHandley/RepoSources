@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "t",
-    "total_mappings": 101
+    "total_mappings": 102
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -101,6 +101,7 @@
     "tup": "tup",
     "turbostat": "linux-headers@6.8",
     "twolame": "two-lame",
+    "twtxt": "twtxt",
     "txr": "txr",
     "txt2man": "txt2man",
     "txt2tags": "txt2tags",

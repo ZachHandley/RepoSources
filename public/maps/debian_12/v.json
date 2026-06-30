@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_12",
     "shard": "v",
-    "total_mappings": 126
+    "total_mappings": 127
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -40,6 +40,7 @@
     "vdirsyncer": "vdirsyncer",
     "vdirsyncer-doc": "vdirsyncer",
     "vdpau-driver-all": "libvdpau",
+    "vdt": "vdt",
     "veccore": "veccore",
     "veccore-dev": "veccore",
     "vectorscan": "vectorscan",

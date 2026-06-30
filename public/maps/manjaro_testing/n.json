@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "n",
-    "total_mappings": 108
+    "total_mappings": 109
   },
   "mappings": {
     "nano": "nano",
@@ -101,6 +101,7 @@
     "nss": "nss",
     "nsync": "nsync",
     "ntfs-3g": "ntfs-3g",
+    "ntfsprogs": "ntfs-3g",
     "ntl": "ntl",
     "ntp": "ntp",
     "nuget": "nuget",

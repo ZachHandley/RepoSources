@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "c",
-    "total_mappings": 109
+    "total_mappings": 108
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -32,11 +32,10 @@
     "cd-discid": "cd-discid",
     "cdlabelgen": "cdlabelgen",
     "cdrdao": "cdrdao",
-    "cdrtools": "cdrtools",
+    "cdrtools": "star",
     "cereal": "cereal",
     "ceres-solver": "ceres-solver",
     "certbot": "certbot",
-    "cf": "cf",
     "cfengine": "cfengine",
     "cflow": "cflow",
     "cgal": "cgal",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "a",
-    "total_mappings": 380
+    "total_mappings": 375
   },
   "mappings": {
     "AFLplusplus": "afl++",
@@ -35,7 +35,6 @@
     "abcmidi-debuginfo": "abcmidi",
     "abduco": "abduco",
     "abduco-debuginfo": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abigail-tools": "libabigail",
     "abigail-tools-debuginfo": "libabigail",
@@ -125,8 +124,6 @@
     "ant-xz": "ant@1.9",
     "ant1.9": "ant@1.9",
     "ant1.9-lib": "ant@1.9",
-    "antiword": "antiword",
-    "antiword-debuginfo": "antiword",
     "antlr": "antlr",
     "antlr-C++": "antlr",
     "antlr-javadoc": "antlr",
@@ -271,8 +268,6 @@
     "arrow-devel": "apache-arrow",
     "arrow-flight-glib-doc": "apache-arrow",
     "arrow-glib-doc": "apache-arrow",
-    "asc": "asc",
-    "asc-debuginfo": "asc",
     "ascii": "ascii",
     "ascii-debuginfo": "ascii",
     "asciidoc": "asciidoc",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "i",
-    "total_mappings": 26
+    "total_mappings": 27
   },
   "mappings": {
     "i2p": "i2p",
@@ -13,6 +13,7 @@
     "icecast": "icecast",
     "identme": "identme",
     "igrep": "igrep",
+    "igv": "igv",
     "imagemagick": "imagemagick@6",
     "imagemagick-ffmpeg": "imagemagick@6",
     "imagemagick-lean": "imagemagick@6",

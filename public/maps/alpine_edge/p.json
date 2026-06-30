@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "p",
-    "total_mappings": 1192
+    "total_mappings": 1198
   },
   "mappings": {
     "p0f": "p0f",
@@ -14,6 +14,7 @@
     "p11-kit-doc": "p11-kit",
     "p11-kit-server": "p11-kit",
     "p11-kit-trust": "p11-kit",
+    "p11-kit-zsh-completion": "p11-kit",
     "pacparser": "pacparser",
     "pacparser-dev": "pacparser",
     "pacparser-doc": "pacparser",
@@ -796,6 +797,7 @@
     "proftpd-mod_exec": "proftpd",
     "proftpd-mod_facl": "proftpd",
     "proftpd-mod_geoip": "proftpd",
+    "proftpd-mod_geoip2": "proftpd",
     "proftpd-mod_ifsession": "proftpd",
     "proftpd-mod_ifversion": "proftpd",
     "proftpd-mod_lang": "proftpd",
@@ -803,6 +805,9 @@
     "proftpd-mod_load": "proftpd",
     "proftpd-mod_log_forensic": "proftpd",
     "proftpd-mod_memcache": "proftpd",
+    "proftpd-mod_prometheus": "proftpd",
+    "proftpd-mod_proxy": "proftpd",
+    "proftpd-mod_proxy_protocol": "proftpd",
     "proftpd-mod_qos": "proftpd",
     "proftpd-mod_quotatab": "proftpd",
     "proftpd-mod_quotatab_file": "proftpd",
@@ -826,6 +831,7 @@
     "proftpd-mod_sql_postgres": "proftpd",
     "proftpd-mod_sql_sqlite": "proftpd",
     "proftpd-mod_statcache": "proftpd",
+    "proftpd-mod_statsd": "proftpd",
     "proftpd-mod_tls": "proftpd",
     "proftpd-mod_tls_fscache": "proftpd",
     "proftpd-mod_tls_memcache": "proftpd",
@@ -1180,8 +1186,8 @@
     "pypy-bootstrap": "pypy",
     "pypy-dev": "pypy",
     "pypy-tkinter": "pypy",
-    "pypy3": "pypy3.10",
-    "pypy3-dev": "pypy3.10",
+    "pypy3": "pypy3.11",
+    "pypy3-dev": "pypy3.11",
     "pypy3-pyc": "pypy",
     "pypy3-tests": "pypy",
     "pypy3-tkinter": "pypy",

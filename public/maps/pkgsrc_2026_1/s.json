@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "s",
-    "total_mappings": 661
+    "total_mappings": 660
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -473,7 +473,7 @@
     "sysutils/cargo-cache": "cargo-cache",
     "sysutils/ccd2iso": "ccd2iso",
     "sysutils/cdrdao": "cdrdao",
-    "sysutils/cdrtools": "cdrtools",
+    "sysutils/cdrtools": "star",
     "sysutils/cfengine3": "cfengine",
     "sysutils/collectd": "collectd",
     "sysutils/collectd-amqp": "collectd",
@@ -651,7 +651,6 @@
     "sysutils/vcdimager": "vcdimager",
     "sysutils/vifm": "vifm",
     "sysutils/vip": "vip",
-    "sysutils/vultr": "vultr",
     "sysutils/watchman": "watchman",
     "sysutils/wimlib": "wimlib",
     "sysutils/xdg-ninja": "xdg-ninja",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pureos_byzantium",
     "shard": "g",
-    "total_mappings": 601
+    "total_mappings": 600
   },
   "mappings": {
     "g++-10": "gcc@15",
@@ -514,7 +514,6 @@
     "graphviz": "graphviz",
     "graphviz-doc": "graphviz",
     "grc": "grc",
-    "greed": "greed",
     "grep": "grep",
     "grepcidr": "grepcidr",
     "groff": "groff",

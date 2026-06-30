@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "m",
-    "total_mappings": 371
+    "total_mappings": 370
   },
   "mappings": {
     "m4": "m4",
@@ -296,7 +296,6 @@
     "mpack": "mpack",
     "mpc": "mpc",
     "mpclib3": "libmpc",
-    "mpd": "mpd",
     "mpdas": "mpdas",
     "mpdecimal": "mpdecimal",
     "mpdscribble": "mpdscribble",

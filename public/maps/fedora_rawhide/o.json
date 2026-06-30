@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "o",
-    "total_mappings": 383
+    "total_mappings": 382
   },
   "mappings": {
     "OpenCL-ICD-Loader": "opencl-icd-loader",
@@ -331,8 +331,7 @@
     "openvdb-nanovdb": "openvdb",
     "openvdb-nanovdb-devel": "openvdb",
     "openvino": "openvino",
-    "openvino-devel": "openvino",
-    "openvino-plugins": "openvino",
+    "openvino-samples": "openvino",
     "openvpn": "openvpn",
     "openvpn-devel": "openvpn",
     "ophcrack": "ophcrack",

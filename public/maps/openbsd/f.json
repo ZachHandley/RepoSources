@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "f",
-    "total_mappings": 96
+    "total_mappings": 94
   },
   "mappings": {
     "f3": "f3",
@@ -48,8 +48,6 @@
     "flac": "flac",
     "flac123": "flac123",
     "flake8": "flake8",
-    "flang": "flang",
-    "flang-driver": "llvm@21",
     "flann": "flann",
     "flashrom": "flashrom",
     "flatbuffers": "flatbuffers",

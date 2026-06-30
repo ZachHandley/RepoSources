@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pacstall",
     "shard": "a",
-    "total_mappings": 5
+    "total_mappings": 6
   },
   "mappings": {
+    "age-plugin-yubikey": "age-plugin-yubikey",
     "amfora-bin": "amfora",
     "apptainer-deb": "apptainer",
     "arduino-cli-bin": "arduino-cli",

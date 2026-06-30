@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alpine_3_22",
     "shard": "p",
-    "total_mappings": 903
+    "total_mappings": 904
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -12,6 +12,7 @@
     "p11-kit-doc": "p11-kit",
     "p11-kit-server": "p11-kit",
     "p11-kit-trust": "p11-kit",
+    "p11-kit-zsh-completion": "p11-kit",
     "paho-mqtt-c": "libpaho-mqtt",
     "paho-mqtt-c-dev": "libpaho-mqtt",
     "paho-mqtt-c-doc": "libpaho-mqtt",

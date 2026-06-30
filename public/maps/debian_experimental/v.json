@@ -1,13 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "v",
-    "total_mappings": 2
+    "total_mappings": 5
   },
   "mappings": {
     "vim-haproxy": "haproxy@2.8",
+    "vtk9": "vtk",
+    "vtk9-doc": "vtk",
+    "vtk9-examples": "vtk",
     "vuls": "vuls"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "l",
-    "total_mappings": 749
+    "total_mappings": 752
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -380,6 +380,7 @@
     "libheif": "libheif",
     "libhubbub": "libhubbub",
     "libical": "libical",
+    "libical-docs": "libical",
     "libice": "libice",
     "libiconv": "libiconv",
     "libid3tag": "libid3tag",
@@ -426,6 +427,7 @@
     "libmms": "libmms",
     "libmng": "libmng",
     "libmnl": "libmnl",
+    "libmodbus": "libmodbus",
     "libmodplug": "libmodplug",
     "libmp4v2": "mp4v2",
     "libmpc": "libmpc",
@@ -481,6 +483,7 @@
     "libpano13": "libpano",
     "libpaper": "libpaper",
     "libparserutils": "libparserutils",
+    "libpathrs": "libpathrs",
     "libpcap": "libpcap",
     "libpciaccess": "libpciaccess",
     "libpeas": "libpeas@1",

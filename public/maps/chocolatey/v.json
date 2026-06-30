@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "v",
-    "total_mappings": 37
+    "total_mappings": 41
   },
   "mappings": {
     "V2Ray Core": "v2ray",
@@ -20,6 +20,7 @@
     "Vim Tux": "vim",
     "Vim Tux (Install)": "vim",
     "Vim Tux (Portable)": "vim",
+    "Vultr CLI": "vultr-cli",
     "v2ray": "v2ray",
     "vale": "vale",
     "velero": "velero",
@@ -43,6 +44,9 @@
     "volta": "volta",
     "volta (Install)": "volta",
     "vscli": "vscli",
-    "vscli (Install)": "vscli"
+    "vscli (Install)": "vscli",
+    "vultr-cli": "vultr-cli",
+    "vultr-cli (Portable)": "vultr-cli",
+    "vultr-cli.portable": "vultr-cli"
   }
 }

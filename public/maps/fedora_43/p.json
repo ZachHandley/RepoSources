@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "p",
-    "total_mappings": 1201
+    "total_mappings": 1202
   },
   "mappings": {
     "PDAL": "pdal",
@@ -742,8 +742,8 @@
     "pypy3.10-devel": "pypy3.10",
     "pypy3.10-libs": "pypy",
     "pypy3.10-test": "pypy",
-    "pypy3.11": "pypy",
-    "pypy3.11-devel": "pypy",
+    "pypy3.11": "pypy3.11",
+    "pypy3.11-devel": "pypy3.11",
     "pypy3.11-libs": "pypy",
     "pypy3.11-test": "pypy",
     "pystring": "pystring",
@@ -1114,6 +1114,7 @@
     "python3-sqlparse": "sqlparse",
     "python3-stp": "stp",
     "python3-subversion": "subversion",
+    "python3-swig": "swig",
     "python3-sword": "sword",
     "python3-tabulate": "python-tabulate",
     "python3-tabulate+widechars": "python-tabulate",

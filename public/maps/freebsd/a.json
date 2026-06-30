@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "a",
-    "total_mappings": 498
+    "total_mappings": 494
   },
   "mappings": {
     "ALPSCore": "alpscore",
@@ -25,7 +25,6 @@
     "abcl": "abcl",
     "abcm2ps": "abcm2ps",
     "abduco": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abook": "abook",
     "abseil": "abseil",
     "abyss": "abyss",
@@ -93,11 +92,9 @@
     "ansifilter": "ansifilter",
     "ansilove": "ansilove",
     "ansiweather": "ansiweather",
-    "antiword": "antiword",
     "antlr": "antlr",
     "antlr3": "antlr",
     "antlr4": "antlr",
-    "aoe": "aoe",
     "aom": "aom",
     "apache-ant": "ant@1.9",
     "apache-orc": "orc-tools",
@@ -127,7 +124,6 @@
     "archivers/c-blosc": "c-blosc",
     "archivers/c-blosc2": "c-blosc2",
     "archivers/cabextract": "cabextract",
-    "archivers/cmdpack": "ecm",
     "archivers/dpkg": "dpkg",
     "archivers/draco": "draco",
     "archivers/fastjar": "fastjar",

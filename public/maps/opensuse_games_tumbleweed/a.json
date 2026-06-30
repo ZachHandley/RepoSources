@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_games_tumbleweed",
     "shard": "a",
-    "total_mappings": 20
+    "total_mappings": 16
   },
   "mappings": {
     "allegro": "allegro",
@@ -19,10 +19,6 @@
     "angband": "angband",
     "angband-debuginfo": "angband",
     "angband-debugsource": "angband",
-    "asc": "asc",
-    "asc-debuginfo": "asc",
-    "asc-debugsource": "asc",
-    "asc-music": "asc",
     "assimp": "assimp@5",
     "assimp-debuginfo": "assimp@5",
     "assimp-debugsource": "assimp@5",

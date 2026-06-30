@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pardus_21",
     "shard": "l",
-    "total_mappings": 8354
+    "total_mappings": 8356
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -871,6 +871,8 @@
     "libchromaprint-dev": "chromaprint",
     "libchromaprint-tools": "chromaprint",
     "libchromaprint1": "chromaprint",
+    "libcivetweb-dev": "civetweb",
+    "libcivetweb1": "civetweb",
     "libcjson-dev": "cjson",
     "libcjson1": "cjson",
     "libck-dev": "concurrencykit",

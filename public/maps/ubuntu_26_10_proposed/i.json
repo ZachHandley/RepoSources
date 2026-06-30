@@ -1,41 +1,25 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "i",
-    "total_mappings": 30
+    "total_mappings": 14
   },
   "mappings": {
     "id3lib3.8.3": "id3lib",
-    "idn2": "libidn2",
-    "imagemagick": "imagemagick@6",
-    "imagemagick-7-common": "imagemagick@6",
-    "imagemagick-7-doc": "imagemagick@6",
-    "imagemagick-7.q16": "imagemagick@6",
-    "imagemagick-7.q16hdri": "imagemagick@6",
     "incus": "incus",
     "incus-agent": "incus",
     "incus-base": "incus",
     "incus-client": "incus",
     "incus-extra": "incus",
-    "inetutils": "inetutils",
-    "inetutils-ftp": "inetutils",
-    "inetutils-ftpd": "inetutils",
-    "inetutils-inetd": "inetutils",
-    "inetutils-ping": "inetutils",
-    "inetutils-syslogd": "inetutils",
-    "inetutils-talk": "inetutils",
-    "inetutils-talkd": "inetutils",
-    "inetutils-telnet": "inetutils",
-    "inetutils-telnetd": "inetutils",
-    "inetutils-tools": "inetutils",
-    "inetutils-traceroute": "inetutils",
     "info": "texinfo",
     "insighttoolkit5": "itk",
     "insighttoolkit5-examples": "itk",
     "install-info": "texinfo",
     "iproute2": "iproute2",
-    "isl": "isl"
+    "isc-kea": "kea",
+    "isl": "isl",
+    "isort": "isort"
   }
 }

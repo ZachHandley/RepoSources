@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "k",
-    "total_mappings": 277
+    "total_mappings": 283
   },
   "mappings": {
     "k9s": "k9s",
@@ -12,7 +12,6 @@
     "kafka": "kafka",
     "kakoune": "kakoune",
     "kakoune-debuginfo": "kakoune",
-    "kantiword": "antiword",
     "kapacitor": "kapacitor",
     "kapacitor-debuginfo": "kapacitor",
     "katana": "katana",
@@ -109,6 +108,13 @@
     "kopia": "kopia",
     "kopia-debuginfo": "kopia",
     "kotlin": "kotlin",
+    "kotlin-compiler": "kotlin",
+    "kotlin-gradle-plugin": "kotlin",
+    "kotlin-maven": "kotlin",
+    "kotlin-plugins": "kotlin",
+    "kotlin-reflect": "kotlin",
+    "kotlin-stdlib": "kotlin",
+    "kotlin-test": "kotlin",
     "kpcli": "kpcli",
     "krb5": "krb5",
     "krb5-doc": "krb5",

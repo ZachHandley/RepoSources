@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "p",
-    "total_mappings": 1083
+    "total_mappings": 1082
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -366,7 +366,6 @@
     "poppler": "poppler",
     "poppler-current": "poppler",
     "poppler-debuginfo": "poppler",
-    "poppler151": "poppler",
     "portaudio2": "portaudio",
     "poster": "poster",
     "poster-debuginfo": "poster",

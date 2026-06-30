@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "g",
-    "total_mappings": 702
+    "total_mappings": 708
   },
   "mappings": {
     "GMT": "gmt",
@@ -603,6 +603,12 @@
     "gperftools-debugsource": "gperftools",
     "gperftools-devel": "gperftools",
     "gperftools-libs": "gperftools",
+    "gpgme2": "gpgme",
+    "gpgme2-debuginfo": "gpgme",
+    "gpgme2-debugsource": "gpgme",
+    "gpgme2-devel": "gpgme",
+    "gpgme2pp": "gpgme",
+    "gpgme2pp-devel": "gpgme",
     "gpsbabel": "gpsbabel",
     "gpsbabel-debuginfo": "gpsbabel",
     "gpsbabel-debugsource": "gpsbabel",

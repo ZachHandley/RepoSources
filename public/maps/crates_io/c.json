@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "c",
-    "total_mappings": 59
+    "total_mappings": 58
   },
   "mappings": {
     "cargo-about": "cargo-about",
@@ -27,7 +27,6 @@
     "cargo-docset": "cargo-docset",
     "cargo-edit": "cargo-edit",
     "cargo-expand": "cargo-expand",
-    "cargo-flamegraph": "cargo-flamegraph",
     "cargo-fuzz": "cargo-fuzz",
     "cargo-geiger": "cargo-geiger",
     "cargo-generate": "cargo-generate",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_24_04",
     "shard": "l",
-    "total_mappings": 7048
+    "total_mappings": 7054
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -1055,6 +1055,8 @@
     "libchromaprint1": "chromaprint",
     "libcimcclient0": "sblim-sfcc",
     "libcimcclient0-dev": "sblim-sfcc",
+    "libcivetweb-dev": "civetweb",
+    "libcivetweb1": "civetweb",
     "libcjson-dev": "cjson",
     "libcjson1": "cjson",
     "libck-dev": "concurrencykit",
@@ -4186,6 +4188,8 @@
     "libopenslide0": "openslide",
     "libopenthreads-dev": "open-scene-graph",
     "libopenthreads21": "open-scene-graph",
+    "libopenturns-dev": "openturns",
+    "libopenturns0.22": "openturns",
     "libopenvdb-ax-dev": "openvdb",
     "libopenvdb-ax-tools": "openvdb",
     "libopenvdb-ax10.0t64": "openvdb",
@@ -6042,6 +6046,8 @@
     "libvdpau-dev": "libvdpau",
     "libvdpau-doc": "libvdpau",
     "libvdpau1": "libvdpau",
+    "libvdt-dev": "vdt",
+    "libvdt0.4": "vdt",
     "libvectorscan-dev": "vectorscan",
     "libvectorscan5": "vectorscan",
     "libvidstab": "libvidstab",

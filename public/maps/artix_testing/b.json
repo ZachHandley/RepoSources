@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "b",
-    "total_mappings": 2
+    "total_mappings": 1
   },
   "mappings": {
-    "bash": "bash",
     "bind": "bind"
   }
 }

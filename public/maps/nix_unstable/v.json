@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "v",
-    "total_mappings": 123
+    "total_mappings": 122
   },
   "mappings": {
     "Vc": "vc",
@@ -70,7 +70,6 @@
     "vimPlugins.nvzone-volt": "volt",
     "vimPlugins.teamtype": "teamtype",
     "vimpager": "vimpager",
-    "vimpc": "vimpc",
     "vips": "vips",
     "vips_8_17": "vips",
     "vipsdisp": "vipsdisp",
@@ -127,7 +126,7 @@
     "vulkan-validation-layers": "vulkan-validationlayers",
     "vulkan-volk": "vulkan-volk",
     "vuls": "vuls",
-    "vultr": "vultr",
+    "vultr-cli": "vultr-cli",
     "vunnel": "vunnel",
     "vvenc": "vvenc"
   }

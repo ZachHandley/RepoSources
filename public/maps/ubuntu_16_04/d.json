@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
     "shard": "d",
-    "total_mappings": 198
+    "total_mappings": 197
   },
   "mappings": {
     "daemon": "daemon",
@@ -70,7 +70,6 @@
     "dfc": "dfc",
     "dfu-programmer": "dfu-programmer",
     "dfu-util": "dfu-util",
-    "dh-acc": "abi-compliance-checker",
     "dh-strip-nondeterminism": "strip-nondeterminism",
     "dhcpdump": "dhcpdump",
     "dhcping": "dhcping",

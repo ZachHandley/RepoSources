@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_18_04",
     "shard": "p",
-    "total_mappings": 859
+    "total_mappings": 861
   },
   "mappings": {
     "p0f": "p0f",
@@ -558,6 +558,7 @@
     "python-openbabel": "open-babel",
     "python-opencv": "opencv",
     "python-openimageio": "openimageio",
+    "python-openturns": "openturns",
     "python-openvdb": "openvdb",
     "python-ow": "owfs",
     "python-ownet": "owfs",
@@ -771,6 +772,7 @@
     "python3-numpy": "numpy",
     "python3-numpy-dbg": "numpy",
     "python3-opencv": "opencv",
+    "python3-openturns": "openturns",
     "python3-packaging": "python-packaging",
     "python3-pacparser": "pacparser",
     "python3-pil": "pillow",

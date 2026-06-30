@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "b",
-    "total_mappings": 41
+    "total_mappings": 42
   },
   "mappings": {
     "base-modules-7.1-alpha-generic-di": "linux-headers@6.8",
@@ -23,6 +23,7 @@
     "base-modules-7.1-sh7751r-di": "linux-headers@6.8",
     "base-modules-7.1-sparc64-di": "linux-headers@6.8",
     "benchmark": "google-benchmark",
+    "binaryen": "binaryen",
     "bind9": "bind",
     "bind9-dev": "bind",
     "bind9-dnsutils": "bind",

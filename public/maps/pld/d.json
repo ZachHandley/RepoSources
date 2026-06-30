@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "d",
-    "total_mappings": 94
+    "total_mappings": 93
   },
   "mappings": {
     "DevIL": "devil",
@@ -70,7 +70,6 @@
     "dnstop": "dnstop",
     "dnstracer": "dnstracer",
     "docbook-style-xsl": "docbook-xsl",
-    "docbook-style-xsl-ns": "docbook-xsl",
     "docbook2X": "docbook2x",
     "docker-buildx": "docker-buildx",
     "docker-compose": "docker-compose",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "r",
-    "total_mappings": 266
+    "total_mappings": 267
   },
   "mappings": {
     "r-base": "r",
@@ -245,6 +245,7 @@
     "rust-gping": "gping",
     "rust-hexyl": "hexyl",
     "rust-hyperfine": "hyperfine",
+    "rust-jaq": "jaq",
     "rust-just": "just",
     "rust-librsvg": "librsvg",
     "rust-lsd": "lsd",

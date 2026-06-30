@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_05",
     "shard": "m",
-    "total_mappings": 315
+    "total_mappings": 316
   },
   "mappings": {
     "m-cli": "m-cli",
@@ -158,6 +158,7 @@
     "millet": "millet",
     "mimalloc": "mimalloc",
     "mimic": "mimic",
+    "min": "min-lang",
     "miniaudio": "miniaudio",
     "minica": "minica",
     "minicom": "minicom",

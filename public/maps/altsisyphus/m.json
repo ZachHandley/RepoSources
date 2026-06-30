@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "m",
-    "total_mappings": 485
+    "total_mappings": 483
   },
   "mappings": {
     "Mesa": "mesa",
@@ -255,8 +255,6 @@
     "mise-debuginfo": "mise",
     "mjpegtools": "mjpegtools",
     "mjpegtools-debuginfo": "mjpegtools",
-    "mk-configure": "mk-configure",
-    "mk-configure-doc": "mk-configure",
     "mkcert": "mkcert",
     "mkcert-debuginfo": "mkcert",
     "mkfontscale": "mkfontscale",

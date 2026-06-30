@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_14",
     "shard": "o",
-    "total_mappings": 236
+    "total_mappings": 239
   },
   "mappings": {
     "oasis": "oasis",
@@ -198,6 +198,8 @@
     "opensubdiv-tools": "opensubdiv",
     "opentelemetry-cpp": "opentelemetry-cpp",
     "opentelemetry-cpp-dev": "opentelemetry-cpp",
+    "openturns": "openturns",
+    "openturns-common": "openturns",
     "opentyrian": "open-tyrian",
     "openvdb": "openvdb",
     "openvpn": "openvpn",
@@ -226,6 +228,7 @@
     "osmosis": "osmosis",
     "osmpbf": "osm-pbf",
     "osmpbf-bin": "osm-pbf",
+    "ospray": "ospray",
     "osrm-backend": "osrm-backend",
     "osrm-backend-service": "osrm-backend",
     "osslsigncode": "osslsigncode",

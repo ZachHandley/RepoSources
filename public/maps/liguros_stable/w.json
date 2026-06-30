@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "w",
-    "total_mappings": 41
+    "total_mappings": 42
   },
   "mappings": {
     "www-apache/passenger": "passenger",
@@ -38,6 +38,7 @@
     "www-plugins/firefoxpwa": "firefoxpwa",
     "www-servers/apache": "httpd",
     "www-servers/caddy": "caddy",
+    "www-servers/civetweb": "civetweb",
     "www-servers/h2o": "h2o",
     "www-servers/kore": "kore",
     "www-servers/lighttpd": "lighttpd",

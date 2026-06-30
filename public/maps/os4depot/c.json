@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "c",
-    "total_mappings": 13
+    "total_mappings": 12
   },
   "mappings": {
     "cabextract.lha": "cabextract",
@@ -15,7 +15,6 @@
     "cksfv.lha": "cksfv",
     "claws-mail.lha": "claws-mail",
     "cmake.lha": "cmake",
-    "cmdpack.lha": "ecm",
     "colorit.lha": "dict",
     "coreutils.lha": "coreutils",
     "cppcheck.lha": "cppcheck",

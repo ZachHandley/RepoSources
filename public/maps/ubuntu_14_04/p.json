@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "p",
-    "total_mappings": 640
+    "total_mappings": 642
   },
   "mappings": {
     "p0f": "p0f",
@@ -452,6 +452,8 @@
     "python-openbabel": "open-babel",
     "python-opencc": "opencc",
     "python-opencv": "opencv",
+    "python-openturns": "openturns",
+    "python-openturns-dev": "openturns",
     "python-osmgpsmap": "osm-gps-map",
     "python-ow": "owfs",
     "python-ownet": "owfs",

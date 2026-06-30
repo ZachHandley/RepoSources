@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_pentoo",
     "shards": [
@@ -10,6 +10,6 @@
       "n",
       "s"
     ],
-    "total_mappings": 75
+    "total_mappings": 76
   }
 }

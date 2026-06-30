@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "l",
-    "total_mappings": 7567
+    "total_mappings": 7573
   },
   "mappings": {
     "ladder": "ladder",
@@ -1087,6 +1087,8 @@
     "libcityhash-dbg": "cityhash",
     "libcityhash-dev": "cityhash",
     "libcityhash0": "cityhash",
+    "libcivetweb-dev": "civetweb",
+    "libcivetweb1": "civetweb",
     "libcjson-dev": "cjson",
     "libcjson1": "cjson",
     "libck-dev": "concurrencykit",
@@ -4418,6 +4420,8 @@
     "libopenslide0": "openslide",
     "libopenthreads-dev": "open-scene-graph",
     "libopenthreads21": "open-scene-graph",
+    "libopenturns-dev": "openturns",
+    "libopenturns0.25": "openturns",
     "libopenvdb-ax-dev": "openvdb",
     "libopenvdb-ax-tools": "openvdb",
     "libopenvdb-ax10.0t64": "openvdb",
@@ -6364,6 +6368,8 @@
     "libvdpau-dev": "libvdpau",
     "libvdpau-doc": "libvdpau",
     "libvdpau1": "libvdpau",
+    "libvdt-dev": "vdt",
+    "libvdt0.4": "vdt",
     "libvectorscan-dev": "vectorscan",
     "libvectorscan5": "vectorscan",
     "libvidstab": "libvidstab",

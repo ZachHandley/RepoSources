@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "a",
-    "total_mappings": 34
+    "total_mappings": 33
   },
   "mappings": {
     "aalib.lha": "aalib",
@@ -14,7 +14,6 @@
     "aldo.lha": "aldo",
     "analog.lha": "analog",
     "angband.lha": "angband",
-    "antiword.lha": "antiword",
     "apache.lha": "httpd",
     "audacious.lha": "audacious",
     "audio/convert/faac.lha": "faac",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "k",
-    "total_mappings": 34
+    "total_mappings": 35
   },
   "mappings": {
     "k6": "k6",
@@ -31,6 +31,7 @@
     "kibi": "kibi",
     "klavaro": "klavaro",
     "knot": "knot",
+    "knot-resolver": "knot-resolver",
     "kona": "kona",
     "kore": "kore",
     "kotlin": "kotlin",

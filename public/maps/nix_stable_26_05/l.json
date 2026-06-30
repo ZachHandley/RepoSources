@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "l",
-    "total_mappings": 993
+    "total_mappings": 1000
   },
   "mappings": {
     "Lighthouse": "lighthouse",
@@ -451,8 +451,8 @@
     "libresample": "libresample",
     "librespot": "librespot",
     "libressl": "libressl",
-    "libressl_4_1": "libressl",
     "libressl_4_2": "libressl",
+    "libressl_4_3": "libressl",
     "librest": "librest",
     "librest_1_0": "librest",
     "libretls": "libretls",
@@ -777,6 +777,7 @@
     "linuxKernel.kernels.linux_6_18": "linux-headers@6.8",
     "linuxKernel.kernels.linux_6_6": "linux-headers@6.8",
     "linuxKernel.kernels.linux_7_0": "linux-headers@6.8",
+    "linuxKernel.kernels.linux_7_1": "linux-headers@6.8",
     "linuxKernel.kernels.linux_default": "linux-headers@6.8",
     "linuxKernel.kernels.linux_latest": "linux-headers@6.8",
     "linuxKernel.kernels.linux_testing": "linux-headers@6.8",
@@ -822,6 +823,12 @@
     "linuxKernel.packages.linux_7_0.tmon": "linux-headers@6.8",
     "linuxKernel.packages.linux_7_0.turbostat": "linux-headers@6.8",
     "linuxKernel.packages.linux_7_0.usbip": "linux-headers@6.8",
+    "linuxKernel.packages.linux_7_1.cpupower": "linux-headers@6.8",
+    "linuxKernel.packages.linux_7_1.kernel": "linux-headers@6.8",
+    "linuxKernel.packages.linux_7_1.sysdig": "sysdig",
+    "linuxKernel.packages.linux_7_1.tmon": "linux-headers@6.8",
+    "linuxKernel.packages.linux_7_1.turbostat": "linux-headers@6.8",
+    "linuxKernel.packages.linux_7_1.usbip": "linux-headers@6.8",
     "linuxKernel.packages.linux_xanmod.cpupower": "linux-headers@6.8",
     "linuxKernel.packages.linux_xanmod.sysdig": "sysdig",
     "linuxKernel.packages.linux_xanmod.tmon": "linux-headers@6.8",

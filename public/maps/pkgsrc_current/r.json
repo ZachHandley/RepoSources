@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "r",
-    "total_mappings": 97
+    "total_mappings": 98
   },
   "mappings": {
     "R": "r",
@@ -45,6 +45,7 @@
     "rename": "rename",
     "renameutils": "renameutils",
     "reposurgeon": "reposurgeon",
+    "resterm": "resterm",
     "restic": "restic",
     "restish": "restish",
     "resvg": "resvg",

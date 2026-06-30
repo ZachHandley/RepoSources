@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "a",
-    "total_mappings": 62
+    "total_mappings": 61
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -28,7 +28,6 @@
     "ansible": "ansible@13",
     "ansifilter": "ansifilter",
     "ant": "ant",
-    "antiword": "antiword",
     "antlr4": "antlr",
     "apktool": "apktool",
     "apng2gif": "apng2gif",

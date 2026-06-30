@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "c",
-    "total_mappings": 87
+    "total_mappings": 88
   },
   "mappings": {
     "CGAL": "cgal",
@@ -40,6 +40,7 @@
     "chipmunk": "chipmunk-physics",
     "cidrmerge": "cidrmerge",
     "cityhash": "cityhash",
+    "civetweb": "civetweb",
     "cjson": "cjson",
     "cksfv": "cksfv",
     "clBLAS": "clblas",

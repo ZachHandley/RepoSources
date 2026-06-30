@@ -1,21 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "z",
-    "total_mappings": 10
+    "total_mappings": 4
   },
   "mappings": {
-    "z3": "z3",
     "zabbix-cli": "zabbix-cli",
-    "zenmap": "nmap",
     "zeroinstall-injector": "zero-install",
     "zile": "zile",
-    "zimfw": "zimfw",
-    "zlib": "zlib",
-    "zlib1g": "minizip",
-    "zlib1g-dev": "minizip",
-    "zlib1g-udeb": "minizip"
+    "zimfw": "zimfw"
   }
 }

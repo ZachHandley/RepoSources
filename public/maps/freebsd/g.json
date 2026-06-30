@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "g",
-    "total_mappings": 751
+    "total_mappings": 747
   },
   "mappings": {
     "GiNaC": "ginac",
@@ -27,7 +27,6 @@
     "games/brogue": "brogue",
     "games/cataclysm-dda": "cataclysm",
     "games/cdogs-sdl": "cdogs-sdl",
-    "games/cgoban": "cgoban",
     "games/chocolate-doom": "chocolate-doom",
     "games/cmatrix": "cmatrix",
     "games/colorcode": "color-code",
@@ -51,7 +50,6 @@
     "games/gnuchess": "gnu-chess",
     "games/gnugo": "gnu-go",
     "games/gnushogi": "gnu-shogi",
-    "games/greed": "greed",
     "games/gti": "gti",
     "games/gtypist": "gnu-typist",
     "games/instead": "instead",
@@ -314,7 +312,6 @@
     "goffice": "goffice",
     "gohugo": "hugo",
     "gojq": "gojq",
-    "gokart": "gokart",
     "gokey": "gokey",
     "golangci-lint": "golangci-lint",
     "gollama": "gollama",
@@ -692,7 +689,6 @@
     "graphite2": "graphite2",
     "graphviz": "graphviz",
     "grc": "grc",
-    "greed-game": "greed",
     "grepcidr": "grepcidr",
     "grepip": "grepip",
     "grex": "grex",

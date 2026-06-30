@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "g",
-    "total_mappings": 983
+    "total_mappings": 981
   },
   "mappings": {
     "GLEW": "glew",
@@ -886,8 +886,6 @@
     "graphviz-smyrna-debuginfo": "graphviz",
     "graphviz-tcl": "graphviz",
     "graphviz-tcl-debuginfo": "graphviz",
-    "greed": "greed",
-    "greed-debuginfo": "greed",
     "grep": "grep",
     "grep-debuginfo": "grep",
     "grex": "grex",

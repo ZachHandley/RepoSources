@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "d",
-    "total_mappings": 251
+    "total_mappings": 250
   },
   "mappings": {
     "DevIL": "devil",
@@ -251,7 +251,6 @@
     "duplicity-debuginfo": "duplicity",
     "duplicity-debugsource": "duplicity",
     "duply": "duply",
-    "dutree": "dutree",
     "dvd+rw-tools": "dvd+rw-tools",
     "dvdauthor": "dvdauthor",
     "dvdbackup": "dvdbackup",

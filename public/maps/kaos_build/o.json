@@ -1,15 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "o",
-    "total_mappings": 4
+    "total_mappings": 1
   },
   "mappings": {
-    "ocaml": "ocaml@4",
-    "openconnect": "openconnect",
-    "openssh": "openssh",
-    "openvpn": "openvpn"
+    "opencc": "opencc"
   }
 }

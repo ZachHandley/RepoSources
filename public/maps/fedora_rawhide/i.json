@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "i",
-    "total_mappings": 137
+    "total_mappings": 136
   },
   "mappings": {
     "IP2Location": "ip2location",
@@ -90,7 +90,6 @@
     "inotify-tools": "inotify-tools",
     "inotify-tools-devel": "inotify-tools",
     "inpionata-fonts": "pioneer",
-    "intel-npu-compiler": "openvino",
     "intltool": "intltool",
     "inxi": "inxi",
     "iodine": "iodine",

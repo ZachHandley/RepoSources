@@ -1,16 +1,22 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "k",
-    "total_mappings": 5
+    "total_mappings": 11
   },
   "mappings": {
     "kallisto": "kallisto",
     "kallisto-examples": "kallisto",
-    "ki18n": "ki18n",
-    "krita-gmic": "gmic",
-    "ksh93u+m": "ksh93"
+    "kea": "kea",
+    "kea-admin": "kea",
+    "kea-common": "kea",
+    "kea-ctrl-agent": "kea",
+    "kea-dev": "kea",
+    "kea-dhcp-ddns-server": "kea",
+    "kea-dhcp4-server": "kea",
+    "kea-dhcp6-server": "kea",
+    "kea-doc": "kea"
   }
 }

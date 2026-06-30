@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "a",
-    "total_mappings": 418
+    "total_mappings": 415
   },
   "mappings": {
     "ALPSCore": "alpscore",
@@ -74,7 +74,6 @@
     "ansifilter": "ansifilter",
     "ant-contrib": "ant-contrib",
     "antigraingeometry": "libagg",
-    "antiword": "antiword",
     "antlr": "antlr",
     "antlr3": "antlr",
     "antlr4-cpp-runtime": "antlr4-cpp-runtime",
@@ -151,7 +150,6 @@
     "archivers/deark": "deark",
     "archivers/draco": "draco",
     "archivers/dtrx": "dtrx",
-    "archivers/ecm": "ecm",
     "archivers/fastjar": "fastjar",
     "archivers/gnutar": "gnu-tar",
     "archivers/gzip": "gzip",
@@ -409,7 +407,6 @@
     "automake": "automake",
     "automake115": "automake",
     "automake17": "automake",
-    "autopsy": "autopsy",
     "autorestic": "autorestic",
     "autossh": "autossh",
     "autotrace": "autotrace",

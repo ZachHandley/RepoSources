@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "a",
-    "total_mappings": 920
+    "total_mappings": 919
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -19,7 +19,6 @@
     "abcl": "abcl",
     "abduco": "abduco",
     "abduco-doc": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abnfgen": "abnfgen",
     "abnfgen-doc": "abnfgen",
@@ -211,7 +210,6 @@
     "ansifilter-doc": "ansifilter",
     "ansifilter-fish-completion": "ansifilter",
     "ansifilter-zsh-completion": "ansifilter",
-    "antiword": "antiword",
     "anubis": "anubis",
     "anubis-doc": "anubis",
     "anubis-openrc": "anubis",
@@ -457,6 +455,7 @@
     "avahi-ui-dev": "avahi",
     "avahi-ui-gtk3": "avahi",
     "avahi-ui-tools": "avahi",
+    "avahi-unbound": "avahi",
     "avfs": "avfs",
     "avfs-dev": "avfs",
     "avfs-libs": "avfs",

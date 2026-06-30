@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "a",
-    "total_mappings": 359
+    "total_mappings": 375
   },
   "mappings": {
     "affs-modules-6.16.12+deb13-4kc-malta-di": "linux-headers@6.8",
@@ -88,6 +88,9 @@
     "affs-modules-7.0.10+deb13-m68k-di": "linux-headers@6.8",
     "affs-modules-7.0.10+deb13-powerpc-di": "linux-headers@6.8",
     "affs-modules-7.0.10+deb13-powerpc64-di": "linux-headers@6.8",
+    "affs-modules-7.0.12+deb13-m68k-di": "linux-headers@6.8",
+    "affs-modules-7.0.12+deb13-powerpc-di": "linux-headers@6.8",
+    "affs-modules-7.0.12+deb13-powerpc64-di": "linux-headers@6.8",
     "affs-modules-7.0.4+deb13-m68k-di,affs-modules-7.0.4+deb13-powerpc-di": "linux-headers@6.8",
     "affs-modules-7.0.4+deb13-powerpc64-di": "linux-headers@6.8",
     "affs-modules-7.0.7+deb13-m68k-di,affs-modules-7.0.7+deb13-powerpc-di": "linux-headers@6.8",
@@ -327,6 +330,19 @@
     "ata-modules-7.0.10+deb13-powerpc64le-di": "linux-headers@6.8",
     "ata-modules-7.0.10+deb13-riscv64-di": "linux-headers@6.8",
     "ata-modules-7.0.10+deb13-sparc64-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-alpha-generic-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-amd64-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-arm64-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-armmp-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-loong64-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-m68k-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-parisc-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-parisc64-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-powerpc-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-powerpc64-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-powerpc64le-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-riscv64-di": "linux-headers@6.8",
+    "ata-modules-7.0.12+deb13-sparc64-di": "linux-headers@6.8",
     "ata-modules-7.0.4+deb13-alpha-generic-di": "linux-headers@6.8",
     "ata-modules-7.0.4+deb13-amd64-di": "linux-headers@6.8",
     "ata-modules-7.0.4+deb13-arm64-di": "linux-headers@6.8",

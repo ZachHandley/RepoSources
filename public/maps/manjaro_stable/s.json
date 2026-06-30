@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "s",
-    "total_mappings": 252
+    "total_mappings": 253
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -12,6 +12,7 @@
     "s3cmd": "s3cmd",
     "s3fs-fuse": "s3fs",
     "sad": "sad",
+    "safeint": "safeint",
     "samba": "samba",
     "samply": "samply",
     "samurai": "samurai",

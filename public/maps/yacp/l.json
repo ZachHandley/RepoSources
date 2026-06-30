@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "l",
-    "total_mappings": 1734
+    "total_mappings": 1736
   },
   "mappings": {
     "ladspa-rubberband": "rubberband",
@@ -299,6 +299,10 @@
     "libchipmunk7": "chipmunk-physics",
     "libcityhash-devel": "cityhash",
     "libcityhash0": "cityhash",
+    "libcivetweb-cpp-devel": "civetweb",
+    "libcivetweb-cpp1.16.0": "civetweb",
+    "libcivetweb-devel": "civetweb",
+    "libcivetweb1.16.0": "civetweb",
     "libcjson-devel": "cjson",
     "libcjson1": "cjson",
     "libcjson_utils-devel": "cjson",
@@ -527,8 +531,6 @@
     "libfabric1": "libfabric",
     "libfann-devel": "fann",
     "libfann2": "fann",
-    "libfastbit-devel": "fastbit",
-    "libfastbit1": "fastbit",
     "libfcft-devel": "fcft",
     "libfcft4": "fcft",
     "libfcl-devel": "fcl",

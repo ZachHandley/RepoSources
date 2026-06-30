@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "n",
-    "total_mappings": 258
+    "total_mappings": 260
   },
   "mappings": {
     "network/2ping": "twoping",
@@ -70,6 +70,7 @@
     "network/fail2ban": "fail2ban",
     "network/fcgiwrap": "fcgiwrap",
     "network/felinks": "felinks",
+    "network/feroxbuster": "feroxbuster",
     "network/ffuf": "ffuf",
     "network/flvstreamer": "flvstreamer",
     "network/fping": "fping",
@@ -110,6 +111,7 @@
     "network/landrun": "landrun",
     "network/ldapvi": "ldapvi",
     "network/libdnet": "libdnet",
+    "network/libhdhomerun": "libhdhomerun",
     "network/libident": "libident",
     "network/libiscsi": "libiscsi",
     "network/libmaxminddb": "libmaxminddb",

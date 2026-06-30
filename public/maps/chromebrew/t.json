@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "t",
-    "total_mappings": 41
+    "total_mappings": 40
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -25,7 +25,6 @@
     "tex_fmt": "tex-fmt",
     "texinfo": "texinfo",
     "texlive": "texlive",
-    "textract": "textract",
     "thefuck": "thefuck",
     "tidy": "tidy-html5",
     "tig": "tig",

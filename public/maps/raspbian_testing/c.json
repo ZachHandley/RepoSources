@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "c",
-    "total_mappings": 610
+    "total_mappings": 612
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -137,6 +137,7 @@
     "chkrootkit": "chkrootkit",
     "chmlib": "chmlib",
     "chocolate-doom": "chocolate-doom",
+    "choose": "choose-rust",
     "chromaprint": "chromaprint",
     "chrony": "chrony",
     "chrpath": "chrpath",
@@ -148,6 +149,7 @@
     "cimg-doc": "cimg",
     "cimg-examples": "cimg",
     "cityhash": "cityhash",
+    "civetweb": "civetweb",
     "cjson": "cjson",
     "ck": "concurrencykit",
     "ckermit": "c-kermit",
@@ -242,6 +244,7 @@
     "clhep": "clhep",
     "clhep-doc": "clhep",
     "cli11": "cli11",
+    "cli53": "cli53",
     "clifm": "clifm",
     "clinfo": "clinfo",
     "clisp": "clisp",
@@ -277,7 +280,6 @@
     "cmark-gfm": "cmark-gfm",
     "cmatrix": "cmatrix",
     "cmatrix-xfont": "cmatrix",
-    "cmdpack": "ecm",
     "cmigemo": "cmigemo",
     "cmigemo-common": "cmigemo",
     "cminpack": "cminpack",

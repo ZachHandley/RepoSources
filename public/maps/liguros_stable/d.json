@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "d",
-    "total_mappings": 1079
+    "total_mappings": 1078
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -839,7 +839,6 @@
     "dev-tex/tectonic": "tectonic",
     "dev-tex/tth": "tth",
     "dev-util/FlameGraph": "flamegraph",
-    "dev-util/abi-compliance-checker": "abi-compliance-checker",
     "dev-util/abi-dumper": "abi-dumper",
     "dev-util/act": "act",
     "dev-util/addlicense": "addlicense",

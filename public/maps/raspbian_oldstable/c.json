@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "raspbian_oldstable",
     "shard": "c",
@@ -164,6 +164,7 @@
     "cimg-doc": "cimg",
     "cimg-examples": "cimg",
     "cityhash": "cityhash",
+    "civetweb": "civetweb",
     "cjson": "cjson",
     "ck": "concurrencykit",
     "ckermit": "c-kermit",
@@ -301,7 +302,6 @@
     "cmark-gfm": "cmark-gfm",
     "cmatrix": "cmatrix",
     "cmatrix-xfont": "cmatrix",
-    "cmdpack": "ecm",
     "cmigemo": "cmigemo",
     "cmigemo-common": "cmigemo",
     "cminpack": "cminpack",

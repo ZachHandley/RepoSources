@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "y",
-    "total_mappings": 361
+    "total_mappings": 365
   },
   "mappings": {
     "YAFC": "yafc",
@@ -193,16 +193,20 @@
     "yaze-ag": "yaze-ag",
     "yazi": "yazi",
     "yazi-bash-completion": "yazi",
+    "yazi-bashcomp": "yazi",
     "yazi-cli": "yazi",
     "yazi-dbginfo": "yazi",
     "yazi-debuginfo": "yazi",
     "yazi-debugsource": "yazi",
     "yazi-doc": "yazi",
     "yazi-fish-completion": "yazi",
+    "yazi-fishcomp": "yazi",
     "yazi-fm": "yazi",
     "yazi-git": "yazi",
+    "yazi-nucomp": "yazi",
     "yazi-unwrapped": "yazi",
     "yazi-zsh-completion": "yazi",
+    "yazi-zshcomp": "yazi",
     "yazpp": "yazpp",
     "yazpp-debuginfo": "yazpp",
     "yazpp-debugsource": "yazpp",

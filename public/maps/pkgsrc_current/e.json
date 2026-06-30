@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "e",
-    "total_mappings": 167
+    "total_mappings": 166
   },
   "mappings": {
     "ETL": "etl",
@@ -99,7 +99,6 @@
     "emulators/atari800": "atari800",
     "emulators/blastem": "blastem",
     "emulators/bochs": "bochs",
-    "emulators/cmdpack": "ecm",
     "emulators/dosbox-staging": "dosbox-staging",
     "emulators/dosbox-x": "dosbox-x",
     "emulators/dps8m": "dps8m",

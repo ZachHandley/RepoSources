@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "g",
-    "total_mappings": 180
+    "total_mappings": 181
   },
   "mappings": {
     "GGShield": "ggshield",
@@ -156,6 +156,7 @@
     "gopass-jsonapi (Install)": "gopass-jsonapi",
     "goreleaser": "goreleaser",
     "goreman": "goreman",
+    "goshs": "goshs",
     "gossip": "gossip",
     "gotop": "gotop",
     "gource": "gource",

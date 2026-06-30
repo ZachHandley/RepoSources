@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "g",
-    "total_mappings": 158
+    "total_mappings": 160
   },
   "mappings": {
     "gawk": "gawk",
@@ -87,6 +87,8 @@
     "glslang": "glslang",
     "glu": "mesa-glu",
     "glu-debug": "mesa-glu",
+    "gmic": "gmic",
+    "gmic-gimp": "gmic",
     "gmock": "googletest",
     "gnome-autoar": "gnome-autoar",
     "gnome-autoar-debug": "gnome-autoar",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "z",
-    "total_mappings": 1065
+    "total_mappings": 1069
   },
   "mappings": {
     "Z shell": "zsh",
@@ -307,6 +307,7 @@
     "zabbix74.server-mysql": "zabbix",
     "zabbix74.server-pgsql": "zabbix",
     "zabbix74.web": "zabbix",
+    "zapp": "zapp",
     "zarith": "ocaml-zarith",
     "zart": "gmic",
     "zb": "zot",
@@ -349,6 +350,7 @@
     "zeek-btest-data": "zeek",
     "zeek-common": "zeek",
     "zeek-core": "zeek",
+    "zeek-debug": "zeek",
     "zeek-debuginfo": "zeek",
     "zeek-debugsource": "zeek",
     "zeek-dev": "zeek",
@@ -1002,6 +1004,7 @@
     "zsync-debuginfo": "zsync",
     "zsync-debugsource": "zsync",
     "zuban": "zuban",
+    "zuban-bin": "zuban",
     "zug": "zug",
     "zug-debuginfo": "zug",
     "zug-debugsource": "zug",
@@ -1020,6 +1023,7 @@
     "zvbi-lang": "zvbi",
     "zx": "zx",
     "zxc": "zxc",
+    "zxc-bin": "zxc",
     "zxc-debuginfo": "zxc",
     "zxc-dev": "zxc",
     "zxcc": "zxcc",

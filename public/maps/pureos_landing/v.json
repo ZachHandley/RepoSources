@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pureos_landing",
     "shard": "v",
-    "total_mappings": 130
+    "total_mappings": 131
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -43,6 +43,7 @@
     "vdirsyncer": "vdirsyncer",
     "vdirsyncer-doc": "vdirsyncer",
     "vdpau-driver-all": "libvdpau",
+    "vdt": "vdt",
     "veccore": "veccore",
     "veccore-dev": "veccore",
     "vectorscan": "vectorscan",

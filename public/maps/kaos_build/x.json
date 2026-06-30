@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T04:06:03Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "x",
     "total_mappings": 1
   },
   "mappings": {
-    "xsimd": "xsimd"
+    "xorg-server": "xorg-server"
   }
 }

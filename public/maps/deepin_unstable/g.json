@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "deepin_unstable",
     "shard": "g",
-    "total_mappings": 579
+    "total_mappings": 578
   },
   "mappings": {
     "g++-7": "gcc@15",
@@ -489,7 +489,6 @@
     "graphviz": "graphviz",
     "graphviz-doc": "graphviz",
     "grc": "grc",
-    "greed": "greed",
     "grep": "grep",
     "grepcidr": "grepcidr",
     "grip": "grip",

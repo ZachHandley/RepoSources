@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "o",
-    "total_mappings": 75
+    "total_mappings": 74
   },
   "mappings": {
     "office/BibTool": "bib-tool",
@@ -13,7 +13,6 @@
     "office/LaTeXML": "latexml",
     "office/LanguageTool": "languagetool",
     "office/abook": "abook",
-    "office/antiword": "antiword",
     "office/asymptote": "asymptote",
     "office/bibclean": "bibclean",
     "office/bibtex2html": "bibtex2html",

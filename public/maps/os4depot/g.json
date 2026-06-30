@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "g",
-    "total_mappings": 55
+    "total_mappings": 53
   },
   "mappings": {
     "game/action/myman.lha": "myman",
@@ -21,7 +21,6 @@
     "game/platform/openjazz.lha": "openjazz",
     "game/platform/supertux.lha": "supertux",
     "game/puzzle/colorit.lha": "dict",
-    "game/puzzle/greed.lha": "greed",
     "game/puzzle/npush.lha": "npush",
     "game/roleplaying/angband.lha": "angband",
     "game/roleplaying/exult.lha": "exult",
@@ -58,7 +57,6 @@
     "graphics/raytrace/povray.lha": "povray",
     "graphics/viewer/aview.lha": "aview",
     "graphics/viewer/poppler.lha": "poppler",
-    "greed.lha": "greed",
     "gsar.lha": "gsar",
     "gstreamer.lha": "gstreamer",
     "gzrt.lha": "gzrt"

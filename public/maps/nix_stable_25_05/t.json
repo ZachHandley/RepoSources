@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_05",
     "shard": "t",
-    "total_mappings": 302
+    "total_mappings": 301
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -305,7 +305,6 @@
     "typioca": "typioca",
     "typos-lsp": "typos-lsp",
     "typst": "typst",
-    "typstfmt": "typstfmt",
     "typstyle": "typstyle",
     "tz": "tz",
     "tzdata": "tzdb"

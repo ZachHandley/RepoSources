@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "d",
@@ -146,6 +146,7 @@
     "development/ex-vi": "ex-vi",
     "development/flawfinder": "flawfinder",
     "development/forgejo": "forgejo",
+    "development/forgejo-cli": "forgejo-cli",
     "development/fortls": "fortls",
     "development/fossil": "fossil",
     "development/fpc": "fpc",
@@ -316,7 +317,6 @@
     "development/ragel": "ragel",
     "development/rarian": "rarian",
     "development/ratfor": "ratfor",
-    "development/rc": "rc",
     "development/rebar3": "rebar3",
     "development/recutils": "recutils",
     "development/redo": "redo",

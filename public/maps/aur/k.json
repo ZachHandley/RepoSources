@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "k",
-    "total_mappings": 194
+    "total_mappings": 193
   },
   "mappings": {
     "k0sctl": "k0sctl",
@@ -72,7 +72,6 @@
     "keydb": "keydb",
     "keystone-git": "keystone",
     "keyutils-git": "keyutils",
-    "kfr": "kfr",
     "khal-git": "khal",
     "khard-git": "khard",
     "ki-shell-bin": "ki",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "p",
@@ -459,8 +459,8 @@
     "pypy-six": "six",
     "pypy-sqlparse": "sqlparse",
     "pypy-tk": "pypy",
-    "pypy3": "pypy3.10",
-    "pypy3-dev": "pypy3.10",
+    "pypy3": "pypy3.11",
+    "pypy3-dev": "pypy3.11",
     "pypy3-doc": "pypy",
     "pypy3-lib": "pypy",
     "pypy3-lib-testsuite": "pypy",

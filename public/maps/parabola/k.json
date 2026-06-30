@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "k",
@@ -14,7 +14,6 @@
     "karchive5": "karchive",
     "kbt": "kbt",
     "kcov": "kcov",
-    "kcptun": "kcptun",
     "kcpuid": "linux-headers@6.8",
     "kdoctools": "kdoctools",
     "kea": "kea",
@@ -24,6 +23,7 @@
     "keyd": "keyd",
     "keystone": "keystone",
     "keyutils": "keyutils",
+    "kfr": "kfr",
     "khal": "khal",
     "khard": "khard",
     "ki18n": "ki18n",

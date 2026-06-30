@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "l",
-    "total_mappings": 7189
+    "total_mappings": 7191
   },
   "mappings": {
     "LibreSSL": "libressl",
@@ -4374,12 +4374,8 @@
     "libpoppler-qt6-devel": "poppler",
     "libpoppler1-qt5": "poppler",
     "libpoppler1-qt5-debuginfo": "poppler",
-    "libpoppler151": "poppler",
-    "libpoppler151-debuginfo": "poppler",
     "libpoppler156": "poppler",
     "libpoppler156-debuginfo": "poppler",
-    "libpoppler2-cpp": "poppler",
-    "libpoppler2-cpp-debuginfo": "poppler",
     "libpoppler3-cpp": "poppler",
     "libpoppler3-cpp-debuginfo": "poppler",
     "libpoppler3-qt6": "poppler",
@@ -5941,6 +5937,12 @@
     "libudunits-devel": "udunits",
     "libuhd": "uhd",
     "libuhd-debuginfo": "uhd",
+    "libultrahdr": "libultrahdr",
+    "libultrahdr-devel": "libultrahdr",
+    "libultrahdr-tools": "libultrahdr",
+    "libultrahdr-tools-debuginfo": "libultrahdr",
+    "libultrahdr1": "libultrahdr",
+    "libultrahdr1-debuginfo": "libultrahdr",
     "libumfpack6": "suite-sparse",
     "libumfpack6-debuginfo": "suite-sparse",
     "libumockdev": "umockdev",

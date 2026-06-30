@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "p",
-    "total_mappings": 109
+    "total_mappings": 111
   },
   "mappings": {
     "pari": "pari",
@@ -76,7 +76,6 @@
     "python-scipy": "scipy",
     "python-scipy-debuginfo": "scipy",
     "python-scipy-debugsource": "scipy",
-    "python3-GDAL": "gdal",
     "python3-adios2": "adios2",
     "python3-bitwuzla": "bitwuzla",
     "python3-gmsh": "gmsh",
@@ -89,6 +88,7 @@
     "python3-spglib": "spglib",
     "python3-vtk": "vtk",
     "python3-vtk-openmpi4": "vtk",
+    "python311-GDAL": "gdal",
     "python311-gemmi": "gemmi",
     "python311-nlopt": "nlopt",
     "python311-opencv": "opencv",
@@ -97,6 +97,7 @@
     "python311-pyarrow": "apache-arrow",
     "python311-pyarrow-devel": "apache-arrow",
     "python311-scipy": "scipy",
+    "python313-GDAL": "gdal",
     "python313-gemmi": "gemmi",
     "python313-nlopt": "nlopt",
     "python313-opencv": "opencv",
@@ -107,6 +108,7 @@
     "python313-pyarrow-devel": "apache-arrow",
     "python313-scipy": "scipy",
     "python313-svm": "libsvm",
+    "python314-GDAL": "gdal",
     "python314-gemmi": "gemmi",
     "python314-nlopt": "nlopt",
     "python314-opencv": "opencv",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "f",
-    "total_mappings": 327
+    "total_mappings": 328
   },
   "mappings": {
     "f2": "f2",
@@ -249,6 +249,7 @@
     "form-bin": "form",
     "form-git": "form",
     "fortio-bin": "fortio",
+    "fortitude": "fortitude",
     "fortitude-bin": "fortitude",
     "fortls": "fortls",
     "fortran-language-server": "fortran-language-server",

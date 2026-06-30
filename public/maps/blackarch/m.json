@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "m",
-    "total_mappings": 10
+    "total_mappings": 11
   },
   "mappings": {
     "mac-robber": "mac-robber",
     "maigret": "maigret",
     "mapcidr": "mapcidr",
+    "mapcidr-debug": "mapcidr",
     "massdns": "massdns",
     "mbelib": "mbelib",
     "mdbtools": "mdbtools",

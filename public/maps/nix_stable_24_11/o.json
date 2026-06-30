@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "o",
-    "total_mappings": 179
+    "total_mappings": 180
   },
   "mappings": {
     "oak": "oak",
@@ -134,6 +134,7 @@
     "opentimestamps-client": "opentimestamps-client",
     "opentofu": "opentofu",
     "opentsdb": "opentsdb",
+    "openturns": "openturns",
     "opentyrian": "open-tyrian",
     "openvdb": "openvdb",
     "openvdb_11": "openvdb",

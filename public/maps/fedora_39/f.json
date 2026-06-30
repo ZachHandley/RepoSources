@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "f",
-    "total_mappings": 452
+    "total_mappings": 448
   },
   "mappings": {
     "FAudio": "faudio",
@@ -38,10 +38,6 @@
     "fann-devel": "fann",
     "fast_float": "fast_float",
     "fast_float-devel": "fast_float",
-    "fastbit": "fastbit",
-    "fastbit-debuginfo": "fastbit",
-    "fastbit-debugsource": "fastbit",
-    "fastbit-devel": "fastbit",
     "fastd": "fastd",
     "fastd-debuginfo": "fastd",
     "fastd-debugsource": "fastd",

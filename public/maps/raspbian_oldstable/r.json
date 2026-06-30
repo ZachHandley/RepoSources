@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "raspbian_oldstable",
     "shard": "r",
-    "total_mappings": 243
+    "total_mappings": 242
   },
   "mappings": {
     "r-base": "r",
@@ -47,7 +47,6 @@
     "rav1e": "rav1e",
     "rbenv": "rbenv",
     "rbldns": "djbdns",
-    "rc": "rc",
     "rclone": "rclone",
     "rcm": "rcm",
     "rcs": "rcs",

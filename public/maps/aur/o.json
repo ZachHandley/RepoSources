@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "o",
-    "total_mappings": 295
+    "total_mappings": 296
   },
   "mappings": {
     "oasis": "oasis",
@@ -218,6 +218,7 @@
     "opentofu-provider-libvirt": "terraform-provider-libvirt",
     "opentofu-provider-libvirt-git": "terraform-provider-libvirt",
     "opentsdb": "opentsdb",
+    "openturns": "openturns",
     "opentyrian": "open-tyrian",
     "opentyrian-git": "open-tyrian",
     "openvdb10": "openvdb",

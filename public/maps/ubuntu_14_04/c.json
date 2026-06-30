@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "c",
-    "total_mappings": 328
+    "total_mappings": 327
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -199,7 +199,6 @@
     "cmake3-qt-gui": "cmake",
     "cmatrix": "cmatrix",
     "cmatrix-xfont": "cmatrix",
-    "cmdpack": "ecm",
     "cmigemo": "cmigemo",
     "cmigemo-common": "cmigemo",
     "cminpack": "cminpack",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "a",
-    "total_mappings": 157
+    "total_mappings": 155
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -15,7 +15,6 @@
     "aarch64-linux-gnu-gdb": "aarch64-elf-gdb",
     "abcmidi": "abcmidi",
     "abduco": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abseil-cpp": "abseil",
     "acl": "acl",
@@ -59,7 +58,6 @@
     "ansible-lint": "ansible-lint",
     "ant": "ant",
     "ant-doc": "ant@1.9",
-    "antiword": "antiword",
     "antlr4": "antlr",
     "antlr4-runtime": "antlr",
     "anubis": "anubis",

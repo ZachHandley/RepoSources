@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "g",
-    "total_mappings": 1290
+    "total_mappings": 1296
   },
   "mappings": {
     "GMT": "gmt",
@@ -997,7 +997,6 @@
     "golang-github-filosottile-mkcert-devel": "mkcert",
     "golang-github-google-gops-devel": "gops",
     "golang-github-hickford-git-credential-oauth-devel": "git-credential-oauth",
-    "golang-github-jamesclonk-vultr-devel": "vultr",
     "golang-github-jstemmer-gotags-devel": "gotags",
     "golang-github-migrate-4-devel": "golang-migrate",
     "golang-github-pressly-goose": "goose",
@@ -1066,6 +1065,10 @@
     "gperftools-libs": "gperftools",
     "gpgme": "gpgme",
     "gpgme-devel": "gpgme",
+    "gpgme2": "gpgme",
+    "gpgme2-devel": "gpgme",
+    "gpgme2pp": "gpgme",
+    "gpgme2pp-devel": "gpgme",
     "gpgmepp": "gpgme",
     "gpgmepp-devel": "gpgme",
     "gphoto2": "gphoto2",
@@ -1169,6 +1172,9 @@
     "grpcurl-debuginfo": "grpcurl",
     "grpcurl-debugsource": "grpcurl",
     "grsync": "grsync",
+    "grype": "grype",
+    "grype-debuginfo": "grype",
+    "grype-debugsource": "grype",
     "gsettings-desktop-schemas": "gsettings-desktop-schemas",
     "gsettings-desktop-schemas-devel": "gsettings-desktop-schemas",
     "gsi-openssh": "openssh",

@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "d",
-    "total_mappings": 19
+    "total_mappings": 21
   },
   "mappings": {
     "dalfox": "dalfox",
+    "dalfox-debug": "dalfox",
     "dc3dd": "dc3dd",
     "dcfldd": "dcfldd",
     "default-jdk": "openjdk",
@@ -24,6 +25,7 @@
     "dnstracer": "dnstracer",
     "dnstwist": "dnstwist",
     "dnsx": "dnsx",
+    "dnsx-debug": "dnsx",
     "dump1090": "dump1090-fa",
     "dwarf": "dwarf"
   }

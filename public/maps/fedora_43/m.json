@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "m",
-    "total_mappings": 1530
+    "total_mappings": 1532
   },
   "mappings": {
     "m4": "m4",
@@ -434,6 +434,7 @@
     "mingw32-OpenSceneGraph": "open-scene-graph",
     "mingw32-OpenSceneGraph-tools": "open-scene-graph",
     "mingw32-SDL2_image": "sdl2_image",
+    "mingw32-SDL2_image-debuginfo": "sdl2_image",
     "mingw32-SDL2_mixer": "sdl2_mixer",
     "mingw32-SDL2_ttf": "sdl2_ttf",
     "mingw32-SDL3": "sdl3",
@@ -880,6 +881,7 @@
     "mingw64-OpenSceneGraph": "open-scene-graph",
     "mingw64-OpenSceneGraph-tools": "open-scene-graph",
     "mingw64-SDL2_image": "sdl2_image",
+    "mingw64-SDL2_image-debuginfo": "sdl2_image",
     "mingw64-SDL2_mixer": "sdl2_mixer",
     "mingw64-SDL2_ttf": "sdl2_ttf",
     "mingw64-SDL3": "sdl3",

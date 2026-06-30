@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "g",
-    "total_mappings": 690
+    "total_mappings": 691
   },
   "mappings": {
     "g++9-bin": "gcc@15",
@@ -183,6 +183,7 @@
     "ggc-git": "ggc",
     "ggh-git": "ggh",
     "ggml": "ggml",
+    "ggml-src": "ggml",
     "ggshield": "ggshield",
     "gh-ost": "gh-ost",
     "ghc-pristine": "ghc@9.8",
@@ -219,6 +220,7 @@
     "gibo": "gibo",
     "gibo-bin": "gibo",
     "gickup": "gickup",
+    "gickup-bin": "gickup",
     "gifify": "gifify",
     "giflib-git": "giflib",
     "giflib4": "giflib",
@@ -298,6 +300,7 @@
     "git-workspace": "git-workspace",
     "git-xargs": "git-xargs",
     "git-xargs-git": "git-xargs",
+    "git-xet": "git-xet",
     "git-xet-bin": "git-xet",
     "gitbatch": "gitbatch",
     "gitbatch-bin": "gitbatch",
@@ -464,7 +467,6 @@
     "gogcli": "gogcli",
     "gojq": "gojq",
     "gojq-bin": "gojq",
-    "gokart": "gokart",
     "gokey-git": "gokey",
     "goku": "goku",
     "goku-bin": "goku",
@@ -583,7 +585,6 @@
     "graphql-cli": "graphql-cli",
     "graphqurl": "graphqurl",
     "grayskull": "grayskull",
-    "greed": "greed",
     "grep-git": "grep",
     "grepcidr": "grepcidr",
     "grin": "grin",

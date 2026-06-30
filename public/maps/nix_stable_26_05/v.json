@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "v",
@@ -128,7 +128,7 @@
     "vulkan-validation-layers": "vulkan-validationlayers",
     "vulkan-volk": "vulkan-volk",
     "vuls": "vuls",
-    "vultr": "vultr",
+    "vultr-cli": "vultr-cli",
     "vunnel": "vunnel",
     "vvenc": "vvenc"
   }

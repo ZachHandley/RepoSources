@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pureos_landing",
     "shard": "c",
-    "total_mappings": 521
+    "total_mappings": 522
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -151,6 +151,7 @@
     "cimg-dev": "cimg",
     "cimg-doc": "cimg",
     "cimg-examples": "cimg",
+    "civetweb": "civetweb",
     "cjson": "cjson",
     "ck": "concurrencykit",
     "ckermit": "c-kermit",

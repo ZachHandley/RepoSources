@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T06:07:42Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "o",
-    "total_mappings": 12
+    "total_mappings": 9
   },
   "mappings": {
     "onnx": "onnx",
@@ -14,10 +14,7 @@
     "onnxruntime-opt-cuda": "onnxruntime",
     "onnxruntime-opt-rocm": "onnxruntime",
     "onnxruntime-rocm": "onnxruntime",
-    "opencv": "opencv",
-    "opencv-cuda": "opencv",
-    "opencv-samples": "opencv",
-    "openmpi": "open-mpi",
-    "openmpi-docs": "open-mpi"
+    "openmp": "llvm@21",
+    "opentofu": "opentofu"
   }
 }

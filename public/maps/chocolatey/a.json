@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "a",
-    "total_mappings": 108
+    "total_mappings": 106
   },
   "mappings": {
     "AESCrypt": "aescrypt-packetizer",
@@ -51,7 +51,6 @@
     "Audacious": "audacious",
     "Austin (Install)": "austin",
     "AutoRest": "autorest",
-    "Autopsy\u00ae": "autopsy",
     "AviSynth+ (Install)": "avisynthplus",
     "Axel Download Accelerator": "axel",
     "Azure CLI": "azure-cli",
@@ -101,7 +100,6 @@
     "audacious": "audacious",
     "auditbeat": "auditbeat",
     "austin": "austin",
-    "autopsy": "autopsy",
     "avisynthplus": "avisynthplus",
     "avrdude": "avrdude",
     "awk": "gawk",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "m",
-    "total_mappings": 268
+    "total_mappings": 269
   },
   "mappings": {
     "mail-client/claws-mail": "claws-mail",
@@ -163,6 +163,7 @@
     "media-libs/libsamplerate": "libsamplerate",
     "media-libs/libsdl3": "sdl3",
     "media-libs/libshout": "libshout",
+    "media-libs/libshumate": "libshumate",
     "media-libs/libsidplayfp": "libsidplayfp",
     "media-libs/libsndfile": "libsndfile",
     "media-libs/libsoundtouch": "sound-touch",

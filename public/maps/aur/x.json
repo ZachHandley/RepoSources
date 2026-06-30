@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "x",
-    "total_mappings": 98
+    "total_mappings": 96
   },
   "mappings": {
     "x-cmd": "x-cmd",
@@ -90,10 +90,8 @@
     "xsel-git": "xsel",
     "xsv-git": "xsv",
     "xtensa-elf-binutils": "aarch64-elf-binutils",
-    "xtensor": "xtensor",
     "xterm-git": "xterm",
     "xtermcontrol": "xtermcontrol",
-    "xtl": "xtl",
     "xtrabackup80": "percona-xtrabackup@8.0",
     "xurls": "xurls",
     "xvidcore-svn": "xvid",

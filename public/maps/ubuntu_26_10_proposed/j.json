@@ -1,18 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "j",
-    "total_mappings": 9
+    "total_mappings": 8
   },
   "mappings": {
-    "jaq": "jaq",
+    "jansson": "jansson",
     "jetty12": "jetty",
     "jimsh": "jimtcl",
     "jimtcl": "jimtcl",
-    "jpeg-xl": "jpeg-xl",
-    "jpeg-xl-doc": "jpeg-xl",
+    "json-c": "json-c",
     "jujutsu": "jj",
     "jupyterlab": "jupyterlab",
     "just": "just"

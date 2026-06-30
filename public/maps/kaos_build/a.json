@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "a",
-    "total_mappings": 6
+    "total_mappings": 5
   },
   "mappings": {
-    "alsa-lib": "alsa-lib",
-    "apache": "httpd",
-    "appstream": "appstream",
-    "asciidoctor": "asciidoctor",
+    "a2ps": "a2ps",
+    "acl": "acl",
     "at-spi2-core": "at-spi2-core",
+    "attr": "attr",
     "avahi": "avahi"
   }
 }

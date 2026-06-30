@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "f",
-    "total_mappings": 35
+    "total_mappings": 34
   },
   "mappings": {
     "FLIF": "flif",
@@ -13,7 +13,6 @@
     "faad2": "faad2",
     "fann": "fann",
     "fast_float": "fast_float",
-    "fastbit": "fastbit",
     "fastgron": "fastgron",
     "fastjar": "fastjar",
     "fastme": "fastme",

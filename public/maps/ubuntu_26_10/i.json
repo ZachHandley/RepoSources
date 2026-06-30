@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "i",
-    "total_mappings": 150
+    "total_mappings": 149
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -33,7 +33,6 @@
     "id3tool": "id3tool",
     "id3v2": "id3v2",
     "ideviceinstaller": "ideviceinstaller",
-    "idle-python3.13": "python@3.9",
     "idle-python3.14": "python@3.9",
     "idle-python3.15": "python@3.9",
     "idn": "libidn",

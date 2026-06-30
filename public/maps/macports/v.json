@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "v",
-    "total_mappings": 76
+    "total_mappings": 77
   },
   "mappings": {
     "Vc": "vc",
@@ -30,6 +30,7 @@
     "vcsh": "vcsh",
     "vde2": "vde",
     "vde2-devel": "vde",
+    "vdt": "vdt",
     "vecLibFort": "veclibfort",
     "vectorscan": "vectorscan",
     "vegeta": "vegeta",

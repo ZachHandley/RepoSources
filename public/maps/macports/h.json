@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "h",
-    "total_mappings": 115
+    "total_mappings": 114
   },
   "mappings": {
     "HandBrake": "handbrake",
@@ -25,7 +25,6 @@
     "hashcat": "hashcat",
     "haskell-language-server": "haskell-language-server",
     "hatari": "hatari",
-    "hatch": "hatch",
     "havener": "havener",
     "hck": "hck",
     "hcl2json": "hcl2json",

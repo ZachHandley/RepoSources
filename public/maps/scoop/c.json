@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "c",
@@ -25,7 +25,7 @@
     "ccextractor": "ccextractor",
     "ccl": "clozure-cl",
     "cdogs-sdl": "cdogs-sdl",
-    "cdrtools": "cdrtools",
+    "cdrtools": "star",
     "certigo": "certigo",
     "certstrap": "certstrap",
     "cfr": "cfr-decompiler",

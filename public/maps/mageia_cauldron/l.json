@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "l",
@@ -161,8 +161,6 @@
     "lib64botan3_10": "botan@2",
     "lib64box2d-devel": "box2d",
     "lib64box2d2": "box2d",
-    "lib64bpf-devel": "linux-headers@6.8",
-    "lib64bpf1": "linux-headers@6.8",
     "lib64bs2b-devel": "libbs2b",
     "lib64bs2b0": "libbs2b",
     "lib64bson-devel": "mongo-c-driver@1",
@@ -2177,6 +2175,8 @@
     "libboost_wserialization1.89.0": "boost@1.85",
     "libbotan2-devel": "botan@2",
     "libbotan2_19": "botan@2",
+    "libbpf-devel": "linux-headers@6.8",
+    "libbpf1": "linux-headers@6.8",
     "libbrotli-devel": "brotli",
     "libbrotlicommon1": "brotli",
     "libbrotlidec1": "brotli",

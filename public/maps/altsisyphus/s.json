@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "s",
-    "total_mappings": 559
+    "total_mappings": 563
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -367,6 +367,8 @@
     "ssdeep-debuginfo": "ssdeep",
     "sse2neon": "sse2neon",
     "sse2neon-devel": "sse2neon",
+    "sshguard": "sshguard",
+    "sshguard-debuginfo": "sshguard",
     "sshpass": "sshpass",
     "sshpass-debuginfo": "sshpass",
     "sshs": "sshs",
@@ -392,6 +394,8 @@
     "staticcheck-debuginfo": "staticcheck",
     "stella": "stella",
     "stella-debuginfo": "stella",
+    "stencil": "stencil",
+    "stencil-debuginfo": "stencil",
     "stgit": "stgit",
     "stgit-debuginfo": "stgit",
     "stk": "stk",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "a",
-    "total_mappings": 94
+    "total_mappings": 92
   },
   "mappings": {
     "app-accessibility/mimic1": "mimic",
@@ -15,7 +15,6 @@
     "app-admin/dotbot": "dotbot",
     "app-admin/git-credential-oauth": "git-credential-oauth",
     "app-admin/overmind": "overmind",
-    "app-admin/pulumi-bin": "pulumi",
     "app-admin/rbw": "rbw",
     "app-admin/talosctl-bin": "talosctl",
     "app-admin/terragrunt-bin": "terragrunt",
@@ -85,7 +84,6 @@
     "app-shells/zsh-autosuggestions": "zsh-autosuggestions",
     "app-shells/zsh-history-substring-search": "zsh-history-substring-search",
     "app-text/OCRmyPDF": "ocrmypdf",
-    "app-text/cmark-gfm": "cmark-gfm",
     "app-text/code-minimap": "code-minimap",
     "app-text/dooit": "dooit",
     "app-text/ford": "ford",

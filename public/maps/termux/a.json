@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "a",
-    "total_mappings": 64
+    "total_mappings": 63
   },
   "mappings": {
     "aalib": "aalib",
@@ -29,7 +29,6 @@
     "angle-grinder": "angle-grinder",
     "ansifilter": "ansifilter",
     "ant": "ant",
-    "antiword": "antiword",
     "apache-orc": "orc-tools",
     "apache2": "httpd",
     "apkeep": "apkeep",

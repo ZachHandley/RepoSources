@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "a",
-    "total_mappings": 535
+    "total_mappings": 528
   },
   "mappings": {
     "Agda": "agda",
@@ -36,7 +36,6 @@
     "abduco": "abduco",
     "abduco-debuginfo": "abduco",
     "abduco-debugsource": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abook": "abook",
     "abook-debuginfo": "abook",
@@ -205,9 +204,6 @@
     "ant-swing": "ant@1.9",
     "ant-testutil": "ant@1.9",
     "ant-xz": "ant@1.9",
-    "antiword": "antiword",
-    "antiword-debuginfo": "antiword",
-    "antiword-debugsource": "antiword",
     "antlr": "antlr",
     "antlr-C++": "antlr",
     "antlr-javadoc": "antlr",
@@ -331,9 +327,6 @@
     "arx-libertatis-debuginfo": "arx-libertatis",
     "arx-libertatis-debugsource": "arx-libertatis",
     "arx-libertatis-devel": "arx-libertatis",
-    "asc": "asc",
-    "asc-debuginfo": "asc",
-    "asc-debugsource": "asc",
     "ascii": "ascii",
     "ascii-debuginfo": "ascii",
     "ascii-debugsource": "ascii",

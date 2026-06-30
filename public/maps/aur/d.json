@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "d",
-    "total_mappings": 331
+    "total_mappings": 332
   },
   "mappings": {
     "d2-bin": "d2",
@@ -143,6 +143,7 @@
     "difi-bin": "difi",
     "digdag-bin": "digdag",
     "digitemp": "digitemp",
+    "digitemp-git": "digitemp",
     "dillo-git": "dillo",
     "dipc": "dipc",
     "dirac": "dirac",
@@ -194,7 +195,6 @@
     "dnsx-bin": "dnsx",
     "docbook-xsl-ns": "docbook-xsl",
     "docfx": "docfx",
-    "docfx-git": "docfx",
     "dockcheck": "dockcheck",
     "docker-agent-bin": "docker-agent",
     "docker-buildx-git": "docker-buildx",
@@ -221,6 +221,7 @@
     "dooit": "dooit",
     "dooit-bin": "dooit",
     "dooit-git": "dooit",
+    "dory-git": "dory",
     "dos2unix-git": "dos2unix",
     "dosbox-gcc": "gcc@15",
     "dosbox-staging": "dosbox-staging",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "n",
-    "total_mappings": 547
+    "total_mappings": 548
   },
   "mappings": {
     "nInvaders": "ninvaders",
@@ -166,7 +166,6 @@
     "net-snmp": "net-snmp",
     "net/6tunnel": "sixtunnel",
     "net/activemq": "activemq",
-    "net/aoe": "aoe",
     "net/arp-scan": "arp-scan",
     "net/arping": "arping",
     "net/arpoison": "arpoison",
@@ -240,6 +239,7 @@
     "net/haproxy26": "haproxy@2.8",
     "net/haproxy28": "haproxy@2.8",
     "net/haproxy30": "haproxy@2.8",
+    "net/haproxy32": "haproxy@2.8",
     "net/haproxy33": "haproxy@2.8",
     "net/hblock": "hblock",
     "net/htpdate": "htpdate",
@@ -423,6 +423,7 @@
     "net/torsocks": "torsocks",
     "net/traefik": "traefik",
     "net/trippy": "trippy",
+    "net/ttl": "ttl",
     "net/turnserver": "coturn",
     "net/udptunnel": "udptunnel",
     "net/unison": "unison",
@@ -536,7 +537,7 @@
     "ntopng": "ntopng",
     "ntp": "ntp",
     "nuclei": "nuclei",
-    "nuitka-py311": "nuitka",
+    "nuitka-py312": "nuitka",
     "numbat": "numbat",
     "numdiff": "numdiff",
     "nushell": "nushell",

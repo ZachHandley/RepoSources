@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "p",
-    "total_mappings": 1149
+    "total_mappings": 1150
   },
   "mappings": {
     "p11-kit-git": "p11-kit",
@@ -662,6 +662,7 @@
     "picoclaw-git": "picoclaw",
     "picocom-git": "picocom",
     "picotool": "picotool",
+    "picotool-bin": "picotool",
     "picotool-git": "picotool",
     "pict-git": "pict",
     "pidcat": "pidcat",

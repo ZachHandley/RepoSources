@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "o",
-    "total_mappings": 182
+    "total_mappings": 183
   },
   "mappings": {
     "OpenBLAS": "openblas",
@@ -162,6 +162,7 @@
     "openvpn2": "openvpn",
     "operator-sdk": "operator-sdk",
     "ophcrack": "ophcrack",
+    "opkssh": "opkssh",
     "optipng": "optipng",
     "opus-tools": "opus-tools",
     "opusfile": "opusfile",

@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "deb_multimedia_unstable",
     "shard": "p",
-    "total_mappings": 6
+    "total_mappings": 7
   },
   "mappings": {
     "pcre3-dmo": "pcre",
     "pcregrep": "pcre",
     "perlmagick": "imagemagick@6",
     "pupnp-dmo": "libupnp",
+    "python3-manifold": "manifold",
     "python3-mlt7": "mlt",
     "python3-vmaf": "libvmaf"
   }

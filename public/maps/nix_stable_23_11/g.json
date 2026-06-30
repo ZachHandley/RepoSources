@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_23_11",
     "shard": "g",
-    "total_mappings": 490
+    "total_mappings": 489
   },
   "mappings": {
     "g2o": "g2o",
@@ -331,7 +331,6 @@
     "goffice": "goffice",
     "gofumpt": "gofumpt",
     "gojq": "gojq",
-    "gokart": "gokart",
     "goku": "goku",
     "golangci-lint": "golangci-lint",
     "golangci-lint-langserver": "golangci-lint-langserver",

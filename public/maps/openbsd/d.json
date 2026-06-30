@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "d",
-    "total_mappings": 596
+    "total_mappings": 597
   },
   "mappings": {
     "DevIL": "devil",
@@ -176,6 +176,7 @@
     "devel/cmockery": "cmockery",
     "devel/coccinelle": "coccinelle",
     "devel/colordiff": "colordiff",
+    "devel/corrosion": "corrosion",
     "devel/cppcheck": "cppcheck",
     "devel/cpptest": "cpptest",
     "devel/cppunit": "cppunit",

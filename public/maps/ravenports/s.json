@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "s",
-    "total_mappings": 46
+    "total_mappings": 48
   },
   "mappings": {
     "sassc": "sassc",
@@ -25,6 +25,7 @@
     "sfcgal": "sfcgal",
     "sfml": "sfml@2",
     "sftpgo": "sftpgo",
+    "shaderc": "shaderc",
     "shadowsocks-libev": "shadowsocks-libev",
     "shadowsocks-rust": "shadowsocks-rust",
     "shared-mime-info": "shared-mime-info",
@@ -42,6 +43,7 @@
     "spdlog": "spdlog",
     "speex": "speex",
     "speexdsp": "speexdsp",
+    "spirv-headers": "spirv-headers",
     "spirv-llvm-translator": "spirv-llvm-translator",
     "spirv-tools": "spirv-tools",
     "sqlite": "sqlite",

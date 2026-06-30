@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "s",
-    "total_mappings": 217
+    "total_mappings": 219
   },
   "mappings": {
     "s2n": "s2n",
@@ -95,7 +95,6 @@
     "skalibs": "skalibs",
     "skim": "sk",
     "skopeo": "skopeo",
-    "skymaker": "skymaker",
     "sl": "sl",
     "slang": "s-lang",
     "sleef": "sleef",
@@ -160,6 +159,7 @@
     "spotifyd": "spotifyd",
     "sqlcipher": "sqlcipher",
     "sqlite": "sqlite",
+    "sqlitecpp": "sqlitecpp",
     "sqliteodbc": "sqliteodbc",
     "squashfs-tools": "squashfs",
     "squashfuse": "squashfuse",
@@ -200,8 +200,10 @@
     "suitesparse": "suite-sparse",
     "suitesparse-config": "suite-sparse",
     "sundials": "sundials",
+    "superhtml": "superhtml",
     "superlu": "superlu",
     "supertux": "supertux",
+    "surelog": "surelog",
     "surfraw": "surfraw",
     "svt-av1": "svt-av1",
     "svt-vp9": "svt-vp9",

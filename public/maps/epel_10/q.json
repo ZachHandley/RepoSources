@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "q",
-    "total_mappings": 288
+    "total_mappings": 291
   },
   "mappings": {
     "qalculate": "libqalculate",
@@ -37,6 +37,9 @@
     "qca-qt6-ossl": "qca",
     "qca-qt6-pkcs11": "qca",
     "qca-qt6-softstore": "qca",
+    "qgpgme2-common-devel": "gpgme",
+    "qgpgme2-qt6": "gpgme",
+    "qgpgme2-qt6-devel": "gpgme",
     "qhull": "qhull",
     "qhull-debuginfo": "qhull",
     "qhull-debugsource": "qhull",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "l",
-    "total_mappings": 538
+    "total_mappings": 539
   },
   "mappings": {
     "libraries/Botan": "botan@2",
@@ -328,6 +328,7 @@
     "libraries/libsmi": "libsmi",
     "libraries/libsoup3": "libsoup@2",
     "libraries/libspiro": "libspiro",
+    "libraries/libspnav": "libspnav",
     "libraries/libspng": "libspng",
     "libraries/libstatgrab": "libstatgrab",
     "libraries/libstrophe": "libstrophe",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "u",
-    "total_mappings": 88
+    "total_mappings": 92
   },
   "mappings": {
     "uade": "uade",
@@ -14,6 +14,9 @@
     "ucg-git": "ucg",
     "uchardet-git": "uchardet",
     "ucl": "ucl",
+    "ucloud": "ucloud",
+    "ucloud-bin": "ucloud",
+    "ucloud-git": "ucloud",
     "ucommon": "ucommon",
     "ucon64": "ucon64",
     "udis86": "udis86",
@@ -75,6 +78,7 @@
     "urlwatch-git": "urlwatch",
     "urweb": "urweb",
     "urweb-git": "urweb",
+    "urx": "urx",
     "usbredir-git": "usbredir",
     "usbutils-git": "usbutils",
     "utf8cpp-git": "utf8cpp",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "epel_6",
     "shard": "a",
-    "total_mappings": 40
+    "total_mappings": 38
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -12,7 +12,6 @@
     "aalib": "aalib",
     "abcde": "abcde",
     "abduco": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abook": "abook",
     "activemq-cpp": "activemq-cpp",
@@ -25,7 +24,6 @@
     "ansible": "ansible@13",
     "ansible-lint": "ansible-lint",
     "ansifilter": "ansifilter",
-    "antiword": "antiword",
     "apache-ivy": "ivy",
     "apachetop": "apachetop",
     "aqbanking": "aqbanking",

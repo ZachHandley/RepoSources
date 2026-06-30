@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shards": [
@@ -9,19 +9,16 @@
       "c",
       "d",
       "e",
-      "f",
       "g",
       "h",
-      "j",
       "l",
-      "m",
-      "n",
+      "o",
       "p",
+      "r",
       "s",
       "t",
-      "v",
       "x"
     ],
-    "total_mappings": 79
+    "total_mappings": 58
   }
 }

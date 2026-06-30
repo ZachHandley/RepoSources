@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "a",
-    "total_mappings": 413
+    "total_mappings": 409
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -23,7 +23,6 @@
     "abcmidi-debuginfo": "abcmidi",
     "abcmidi-debugsource": "abcmidi",
     "abduco": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abook": "abook",
     "abseil-cpp": "abseil",
@@ -322,8 +321,6 @@
     "arx-libertatis": "arx-libertatis",
     "arx-libertatis-debuginfo": "arx-libertatis",
     "arx-libertatis-debugsource": "arx-libertatis",
-    "asc": "asc",
-    "asc-data": "asc",
     "ascii": "ascii",
     "asciidoc": "asciidoc",
     "asciinema": "asciinema",
@@ -390,7 +387,6 @@
     "automake": "automake",
     "automake1.4": "automake",
     "automake1.7": "automake",
-    "autopsy": "autopsy",
     "autossh": "autossh",
     "autotrace": "autotrace",
     "autotrace-debuginfo": "autotrace",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "s",
-    "total_mappings": 241
+    "total_mappings": 240
   },
   "mappings": {
     "SDL_gfx": "sdl_gfx",
@@ -82,7 +82,6 @@
     "sipsak": "sipsak",
     "siril": "siril",
     "skopeo": "skopeo",
-    "skymaker": "skymaker",
     "slang": "s-lang",
     "slang-doc": "s-lang",
     "slang-slsh": "s-lang",

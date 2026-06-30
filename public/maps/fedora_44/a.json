@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "a",
-    "total_mappings": 346
+    "total_mappings": 343
   },
   "mappings": {
     "Agda": "agda",
@@ -20,7 +20,6 @@
     "abcm2ps": "abcm2ps",
     "abcm2ps-doc": "abcm2ps",
     "abduco": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abook": "abook",
     "abseil-cpp": "abseil",
@@ -146,7 +145,6 @@
     "ant-swing": "ant@1.9",
     "ant-testutil": "ant@1.9",
     "ant-xz": "ant@1.9",
-    "antiword": "antiword",
     "antlr": "antlr",
     "antlr-C++": "antlr",
     "antlr-manual": "antlr",
@@ -226,7 +224,6 @@
     "arpack-static": "arpack",
     "arx-libertatis": "arx-libertatis",
     "arx-libertatis-devel": "arx-libertatis",
-    "asc": "asc",
     "ascii": "ascii",
     "asciidoc": "asciidoc",
     "asciidoc-doc": "asciidoc",

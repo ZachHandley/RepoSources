@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openmandriva_rolling",
     "shard": "a",
-    "total_mappings": 311
+    "total_mappings": 309
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -15,7 +15,6 @@
     "abcde": "abcde",
     "abcm2ps": "abcm2ps",
     "abcmidi": "abcmidi",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abook": "abook",
     "abook-debuginfo": "abook",
     "abook-debugsource": "abook",
@@ -302,7 +301,6 @@
     "automake": "automake",
     "automake1.4": "automake",
     "automake1.7": "automake",
-    "autopsy": "autopsy",
     "autossh": "autossh",
     "autotrace": "autotrace",
     "avahi": "avahi",

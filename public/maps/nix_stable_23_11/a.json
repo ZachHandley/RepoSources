@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_23_11",
     "shard": "a",
-    "total_mappings": 278
+    "total_mappings": 275
   },
   "mappings": {
     "Agda": "agda",
@@ -18,7 +18,6 @@
     "abcm2ps": "abcm2ps",
     "abcmidi": "abcmidi",
     "abduco": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abook": "abook",
     "abseil-cpp": "abseil",
@@ -96,7 +95,6 @@
     "ant": "ant",
     "antidote": "antidote",
     "antigen": "antigen",
-    "antiword": "antiword",
     "antlr": "antlr",
     "antlr2": "antlr",
     "antlr3": "antlr",
@@ -177,7 +175,6 @@
     "arxiv-latex-cleaner": "arxiv_latex_cleaner",
     "as-tree": "as-tree",
     "as-tree-unstable": "as-tree",
-    "asc": "asc",
     "ascii": "ascii",
     "asciidoc": "asciidoc",
     "asciidoc-full": "asciidoc",

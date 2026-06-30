@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "t",
-    "total_mappings": 330
+    "total_mappings": 328
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -233,7 +233,6 @@
     "texlive-latexmk": "texlive",
     "thc-hydra": "hydra",
     "the_silver_searcher": "the_silver_searcher",
-    "thefuck": "thefuck",
     "thrift": "thrift",
     "thrift-devel": "thrift",
     "tidy5": "tidy-html5",
@@ -332,7 +331,6 @@
     "typioca": "typioca",
     "typos-lsp": "typos-lsp",
     "typst": "typst",
-    "typstfmt": "typstfmt",
     "typstyle": "typstyle",
     "typtea": "typtea",
     "tzdata": "tzdb",

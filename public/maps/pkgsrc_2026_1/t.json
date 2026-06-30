@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "t",
-    "total_mappings": 354
+    "total_mappings": 353
   },
   "mappings": {
     "TinySVM": "tinysvm",
@@ -50,7 +50,6 @@
     "textproc/aha": "aha",
     "textproc/angle-grinder": "angle-grinder",
     "textproc/ansifilter": "ansifilter",
-    "textproc/antiword": "antiword",
     "textproc/asciidoc": "asciidoc",
     "textproc/aspell": "aspell",
     "textproc/bat": "bat",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "k",
-    "total_mappings": 18
+    "total_mappings": 19
   },
   "mappings": {
     "k9s": "k9s",
@@ -15,6 +15,7 @@
     "kf6-karchive": "karchive",
     "kf6-kdoctools": "kdoctools",
     "kf6-ki18n": "ki18n",
+    "kf6-ktexttemplate": "grantlee",
     "kf6-threadweaver": "threadweaver",
     "kibi": "kibi",
     "knockd": "knock",

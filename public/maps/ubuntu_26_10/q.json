@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "q",
-    "total_mappings": 562
+    "total_mappings": 564
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -479,6 +479,8 @@
     "qtnetworkauth5-doc": "qt@5",
     "qtnetworkauth5-doc-html": "qt@5",
     "qtnetworkauth5-examples": "qt@5",
+    "qtpaths6": "qt@5",
+    "qtpaths6-bin": "qt@5",
     "qtpositioning5-dev": "qt@5",
     "qtquickcontrols-opensource-src": "qt@5",
     "qtquickcontrols2-5-dev": "qt@5",

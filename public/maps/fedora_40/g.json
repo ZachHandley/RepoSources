@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_40",
     "shard": "g",
@@ -1014,7 +1014,6 @@
     "golang-github-hetznercloud-cli-devel": "hcloud",
     "golang-github-hickford-git-credential-oauth-devel": "git-credential-oauth",
     "golang-github-itchyny-gojq-devel": "gojq",
-    "golang-github-jamesclonk-vultr-devel": "vultr",
     "golang-github-jpillora-chisel-devel": "chisel-tunnel",
     "golang-github-jstemmer-gotags-devel": "gotags",
     "golang-github-mbrt-gmailctl-devel": "gmailctl",
@@ -1039,6 +1038,7 @@
     "golang-github-slackhq-nebula-devel": "nebula",
     "golang-github-tomnomnom-gron-devel": "gron",
     "golang-github-vrothberg-vgrep-devel": "vgrep",
+    "golang-github-vultr-cli-devel": "vultr-cli",
     "golang-github-wjdp-htmltest-devel": "htmltest",
     "golang-github-zmap-zlint-3": "zlint",
     "golang-github-zmap-zlint-3-debuginfo": "zlint",

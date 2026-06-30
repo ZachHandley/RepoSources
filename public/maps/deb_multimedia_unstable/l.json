@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "deb_multimedia_unstable",
     "shard": "l",
-    "total_mappings": 280
+    "total_mappings": 284
   },
   "mappings": {
     "lame": "lame",
@@ -74,6 +74,8 @@
     "libcec7": "libcec",
     "libchromaprint-dev": "chromaprint",
     "libchromaprint1": "chromaprint",
+    "libclipper2-2": "clipper2",
+    "libclipper2-dev": "clipper2",
     "libcue-dev": "libcue",
     "libcue-dmo": "libcue",
     "libcue2": "libcue",
@@ -150,7 +152,6 @@
     "liblavplay-2.2-0t64": "mjpegtools",
     "liblivemedia-dev": "openrtsp",
     "liblivemedia-dmo": "openrtsp",
-    "liblivemedia119": "openrtsp",
     "liblivemedia120": "openrtsp",
     "libmac-dev": "mac",
     "libmac15": "mac",
@@ -178,6 +179,8 @@
     "libmagickwand-7.q16hdri-10": "imagemagick@6",
     "libmagickwand-7.q16hdri-dev": "imagemagick@6",
     "libmagickwand-dev": "imagemagick@6",
+    "libmanifold-dev": "manifold",
+    "libmanifold3": "manifold",
     "libmatroska-dev": "libmatroska",
     "libmatroska-dmo": "libmatroska",
     "libmatroska7": "libmatroska",
@@ -199,6 +202,8 @@
     "libmp4v2-dev": "mp4v2",
     "libmpeg2encpp-2.2-0t64": "mjpegtools",
     "libmplex2-2.2-0t64": "mjpegtools",
+    "libmpv-dev": "mpv",
+    "libmpv2": "mpv",
     "libmypaint-common": "libmypaint",
     "libmypaint-dev": "libmypaint",
     "libmypaint-dmo": "libmypaint",
@@ -254,7 +259,6 @@
     "libudfread3": "libudfread",
     "libupnp-dev": "libupnp",
     "libupnp-doc": "libupnp",
-    "libupnp20": "libupnp",
     "libupnp22": "libupnp",
     "libusageenvironment3": "openrtsp",
     "libvamp-hostsdk3t64": "vamp-plugin-sdk",

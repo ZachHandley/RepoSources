@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "a",
-    "total_mappings": 32
+    "total_mappings": 31
   },
   "mappings": {
     "a52dec": "a52dec",
@@ -13,7 +13,6 @@
     "adwaita-icon-theme": "adwaita-icon-theme",
     "alpine": "alpine",
     "alsa-lib": "alsa-lib",
-    "antiword": "antiword",
     "aom": "aom",
     "apache": "httpd",
     "appstream": "appstream",

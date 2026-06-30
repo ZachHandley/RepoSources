@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "d",
-    "total_mappings": 226
+    "total_mappings": 228
   },
   "mappings": {
     "DirectX-Headers": "directx-headers",
@@ -217,6 +217,8 @@
     "dtc": "dtc",
     "duf": "duf",
     "duktape": "duktape",
+    "duktape-debuginfo": "duktape",
+    "duktape-debugsource": "duktape",
     "dumb": "dumb",
     "dumb-debuginfo": "dumb",
     "dumb-debugsource": "dumb",

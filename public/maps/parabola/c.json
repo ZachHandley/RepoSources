@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "c",
-    "total_mappings": 243
+    "total_mappings": 246
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -89,6 +89,7 @@
     "cdrdao": "cdrdao",
     "cereal": "cereal",
     "ceres-solver": "ceres-solver",
+    "cern-vdt": "vdt",
     "certbot": "certbot",
     "certbot-apache": "certbot",
     "certbot-dns-cloudflare": "certbot",
@@ -182,6 +183,7 @@
     "committed": "committed",
     "compiler-rt": "llvm@21",
     "composer": "composer",
+    "concurrentqueue": "concurrentqueue",
     "confuse": "confuse",
     "conmon": "conmon",
     "consul-template": "consul-template",
@@ -202,6 +204,7 @@
     "cowsay": "cowsay",
     "cpanminus": "cpanminus",
     "cpio": "cpio",
+    "cpp-httplib": "cpp-httplib",
     "cppcheck": "cppcheck",
     "cpptest": "cpptest",
     "cpptrace": "cpptrace",

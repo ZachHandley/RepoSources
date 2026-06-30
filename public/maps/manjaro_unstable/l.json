@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "l",
-    "total_mappings": 868
+    "total_mappings": 873
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -313,6 +313,7 @@
     "libchardet": "libchardet",
     "libchewing": "libchewing",
     "libclc": "libclc",
+    "libcoap": "libcoap",
     "libconfig": "libconfig",
     "libcpuid": "libcpuid",
     "libcss": "libcss",
@@ -426,7 +427,9 @@
     "libharu": "libharu",
     "libheif": "libheif",
     "libhubbub": "libhubbub",
+    "libhwasan": "gcc@15",
     "libical": "libical",
+    "libical-docs": "libical",
     "libice": "libice",
     "libicns": "libicns",
     "libiconv": "libiconv",
@@ -786,6 +789,8 @@
     "linux70-headers": "linux-headers@6.8",
     "linux71": "linux-headers@6.8",
     "linux71-headers": "linux-headers@6.8",
+    "linux72": "linux-headers@6.8",
+    "linux72-headers": "linux-headers@6.8",
     "liquid-dsp": "liquid-dsp",
     "liquid-dsp-sse4.1": "liquid-dsp",
     "liquidctl": "liquidctl",

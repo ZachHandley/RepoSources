@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "s",
-    "total_mappings": 34
+    "total_mappings": 35
   },
   "mappings": {
     "s3scanner": "s3scanner",
@@ -38,6 +38,7 @@
     "ssllabs-scan": "ssllabs-scan",
     "sslsplit": "sslsplit",
     "subfinder": "subfinder",
+    "subfinder-debug": "subfinder",
     "suricata": "suricata",
     "swftools": "swftools",
     "synscan": "synscan"

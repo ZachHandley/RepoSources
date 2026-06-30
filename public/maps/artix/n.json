@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "n",
-    "total_mappings": 71
+    "total_mappings": 72
   },
   "mappings": {
     "nano": "nano",
@@ -74,6 +74,7 @@
     "numactl": "numactl",
     "nushell": "nushell",
     "nuspell": "nuspell",
+    "nut": "nut",
     "nvchecker": "nvchecker",
     "nvm": "nvm",
     "nvtop": "nvtop",

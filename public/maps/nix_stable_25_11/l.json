@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "l",
-    "total_mappings": 923
+    "total_mappings": 928
   },
   "mappings": {
     "LanguageTool": "languagetool",
@@ -729,7 +729,7 @@
     "linuxKernel.kernels.linux_6_18": "linux-headers@6.8",
     "linuxKernel.kernels.linux_6_6": "linux-headers@6.8",
     "linuxKernel.kernels.linux_7_0": "linux-headers@6.8",
-    "linuxKernel.kernels.linux_testing": "linux-headers@6.8",
+    "linuxKernel.kernels.linux_7_1": "linux-headers@6.8",
     "linuxKernel.packages.linux_5_10.cpupower": "linux-headers@6.8",
     "linuxKernel.packages.linux_5_10.sysdig": "sysdig",
     "linuxKernel.packages.linux_5_10.tmon": "linux-headers@6.8",
@@ -769,6 +769,11 @@
     "linuxKernel.packages.linux_7_0.tmon": "linux-headers@6.8",
     "linuxKernel.packages.linux_7_0.turbostat": "linux-headers@6.8",
     "linuxKernel.packages.linux_7_0.usbip": "linux-headers@6.8",
+    "linuxKernel.packages.linux_7_1.cpupower": "linux-headers@6.8",
+    "linuxKernel.packages.linux_7_1.sysdig": "sysdig",
+    "linuxKernel.packages.linux_7_1.tmon": "linux-headers@6.8",
+    "linuxKernel.packages.linux_7_1.turbostat": "linux-headers@6.8",
+    "linuxKernel.packages.linux_7_1.usbip": "linux-headers@6.8",
     "linuxKernel.packages.linux_hardened.cpupower": "linux-headers@6.8",
     "linuxKernel.packages.linux_hardened.sysdig": "sysdig",
     "linuxKernel.packages.linux_hardened.tmon": "linux-headers@6.8",

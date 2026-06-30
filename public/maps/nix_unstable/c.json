@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "c",
-    "total_mappings": 461
+    "total_mappings": 463
   },
   "mappings": {
     "CUnit": "cunit",
@@ -22,6 +22,7 @@
     "caddy": "caddy",
     "cadical": "cadical",
     "cadical_2": "cadical",
+    "cai": "cai",
     "cairo": "cairo",
     "cairomm": "cairomm",
     "cairomm_1_16": "cairomm@1.14",
@@ -114,6 +115,7 @@
     "cconv": "cconv",
     "ccrypt": "ccrypt",
     "cctz": "cctz",
+    "ccusage": "ccusage",
     "cd-discid": "cd-discid",
     "cdb": "cdb",
     "cddiscid": "cd-discid",
@@ -205,6 +207,7 @@
     "cimg": "cimg",
     "circleci-cli": "circleci",
     "circumflex": "circumflex",
+    "civetweb": "civetweb",
     "cjdns": "cjdns",
     "cjson": "cjson",
     "ck": "concurrencykit",
@@ -224,7 +227,6 @@
     "clang_21": "llvm@21",
     "clang_22": "llvm@21",
     "clang_multi": "llvm@21",
-    "classads": "classads",
     "claude-code-router": "claude-code-router",
     "claws-mail": "claws-mail",
     "clazy": "clazy",

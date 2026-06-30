@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "a",
-    "total_mappings": 104
+    "total_mappings": 105
   },
   "mappings": {
     "aalib": "aalib",
-    "abi-compliance-checker": "abi-compliance-checker",
+    "abigail-doc": "libabigail",
+    "abigail-tools": "libabigail",
     "abseil": "abseil",
     "acl": "acl",
     "acl-udeb": "acl",
@@ -85,9 +86,9 @@
     "ata-modules-6.18.31-powerpc64le-di": "linux-headers@6.8",
     "ata-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "ata-modules-6.18.31-sparc64-di": "linux-headers@6.8",
-    "ata-modules-6.18.32+1-amd64-di": "linux-headers@6.8",
-    "ata-modules-6.18.32+1-arm64-di": "linux-headers@6.8",
-    "ata-modules-6.18.32+1-armmp-di": "linux-headers@6.8",
+    "ata-modules-6.18.35-amd64-di": "linux-headers@6.8",
+    "ata-modules-6.18.35-arm64-di": "linux-headers@6.8",
+    "ata-modules-6.18.35-armmp-di": "linux-headers@6.8",
     "atf": "atf",
     "atf-sh": "atf",
     "atkmm1.6": "atkmm@2.28",

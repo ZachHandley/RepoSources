@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "l",
-    "total_mappings": 5583
+    "total_mappings": 5589
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -1149,6 +1149,8 @@
     "lib64lua5.1-devel": "lua@5.4",
     "lib64lua5.1-devel-static": "lua@5.4",
     "lib64lua5.4": "lua@5.4",
+    "lib64luajit5.1-devel": "luajit",
+    "lib64luajit5.1_2": "luajit",
     "lib64lvm2cmd-devel": "device-mapper",
     "lib64lvm2cmd2.03": "device-mapper",
     "lib64lz4-devel": "lz4",
@@ -2748,6 +2750,7 @@
     "libcap": "libcap",
     "libcap-debuginfo": "libcap",
     "libcap-debugsource": "libcap",
+    "libcap-devel": "libcap",
     "libcap-ng": "libcap-ng",
     "libcap-ng-debuginfo": "libcap-ng",
     "libcap-ng-debugsource": "libcap-ng",
@@ -2755,6 +2758,7 @@
     "libcap-ng-utils": "libcap-ng",
     "libcap-ng0": "libcap-ng",
     "libcap-utils": "libcap",
+    "libcap2": "libcap",
     "libcares-devel": "c-ares",
     "libcares2": "c-ares",
     "libcatch2-devel": "catch2",
@@ -3632,6 +3636,8 @@
     "liblo-debugsource": "liblo",
     "liblo-devel": "liblo",
     "liblo7": "liblo",
+    "liblog4cxx-devel": "log4cxx",
+    "liblog4cxx15": "log4cxx",
     "liblqr": "liblqr",
     "liblqr-debuginfo": "liblqr",
     "liblqr-debugsource": "liblqr",

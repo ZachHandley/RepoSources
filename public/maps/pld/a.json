@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "a",
-    "total_mappings": 107
+    "total_mappings": 103
   },
   "mappings": {
     "AppStream": "appstream",
@@ -14,7 +14,6 @@
     "a52dec": "a52dec",
     "aalib": "aalib",
     "abcde": "abcde",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abook": "abook",
     "abseil-cpp": "abseil",
@@ -41,7 +40,6 @@
     "analog": "analog",
     "ant": "ant",
     "ant-contrib": "ant-contrib",
-    "antiword": "antiword",
     "antlr": "antlr",
     "antlr4-cpp-runtime": "antlr4-cpp-runtime",
     "aom": "aom",
@@ -64,7 +62,6 @@
     "arpack": "arpack",
     "arpack-ng": "arpack",
     "arping": "arping",
-    "asc": "asc",
     "ascii": "ascii",
     "asciidoc": "asciidoc",
     "asciinema": "asciinema",
@@ -90,7 +87,6 @@
     "autoconf2_13": "autoconf",
     "autogen": "autogen",
     "automake": "automake",
-    "autopsy": "autopsy",
     "autossh": "autossh",
     "autotrace": "autotrace",
     "avahi": "avahi",

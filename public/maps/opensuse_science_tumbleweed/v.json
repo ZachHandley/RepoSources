@@ -1,15 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "v",
-    "total_mappings": 29
+    "total_mappings": 33
   },
   "mappings": {
     "vcftools": "vcftools",
     "vcftools-debuginfo": "vcftools",
     "vcftools-debugsource": "vcftools",
+    "vdt": "vdt",
+    "vdt-debuginfo": "vdt",
+    "vdt-debugsource": "vdt",
+    "vdt-devel": "vdt",
     "viennacl": "viennacl",
     "voro++": "voro++",
     "voro++-debuginfo": "voro++",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "r",
-    "total_mappings": 25
+    "total_mappings": 43
   },
   "mappings": {
     "redis": "redis",
@@ -14,6 +14,24 @@
     "reprepro": "reprepro",
     "rfkill-modules-7.1-amd64-di": "linux-headers@6.8",
     "rfkill-modules-7.1-loong64-di": "linux-headers@6.8",
+    "rsyslog": "rsyslog",
+    "rsyslog-clickhouse": "rsyslog",
+    "rsyslog-czmq": "rsyslog",
+    "rsyslog-doc": "rsyslog",
+    "rsyslog-docker": "rsyslog",
+    "rsyslog-elasticsearch": "rsyslog",
+    "rsyslog-gnutls": "rsyslog",
+    "rsyslog-gssapi": "rsyslog",
+    "rsyslog-hiredis": "rsyslog",
+    "rsyslog-http": "rsyslog",
+    "rsyslog-kafka": "rsyslog",
+    "rsyslog-kubernetes": "rsyslog",
+    "rsyslog-mongodb": "rsyslog",
+    "rsyslog-mysql": "rsyslog",
+    "rsyslog-openssl": "rsyslog",
+    "rsyslog-pgsql": "rsyslog",
+    "rsyslog-relp": "rsyslog",
+    "rsyslog-snmp": "rsyslog",
     "rtla": "linux-headers@6.8",
     "rtorrent": "rtorrent",
     "ruby-google-protobuf": "protobuf@33",

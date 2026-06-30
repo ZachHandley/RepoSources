@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "trisquel_10_0",
     "shard": "o",
-    "total_mappings": 232
+    "total_mappings": 234
   },
   "mappings": {
     "oasis": "oasis",
@@ -204,6 +204,8 @@
     "openssl": "openssl@3",
     "opensubdiv": "opensubdiv",
     "opensubdiv-tools": "opensubdiv",
+    "openturns": "openturns",
+    "openturns-examples": "openturns",
     "openvdb": "openvdb",
     "openvpn": "openvpn",
     "oping": "liboping",

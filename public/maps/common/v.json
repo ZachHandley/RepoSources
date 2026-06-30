@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "v",
-    "total_mappings": 1267
+    "total_mappings": 1276
   },
   "mappings": {
     "V": "vlang",
@@ -75,6 +75,7 @@
     "Vulkan-Tools": "vulkan-tools",
     "Vulkan-Utility-Libraries": "vulkan-utility-libraries",
     "Vulkan-ValidationLayers": "vulkan-validationlayers",
+    "Vultr CLI": "vultr-cli",
     "v": "vlang",
     "v-weekly": "vlang",
     "v2ray": "v2ray",
@@ -442,6 +443,10 @@
     "vdirsyncer-google": "vdirsyncer",
     "vdirsyncer-pyc": "vdirsyncer",
     "vdpau-driver-all": "libvdpau",
+    "vdt": "vdt",
+    "vdt-debuginfo": "vdt",
+    "vdt-debugsource": "vdt",
+    "vdt-devel": "vdt",
     "vecLibFort": "veclibfort",
     "veccore": "veccore",
     "veccore-dev": "veccore",
@@ -1257,7 +1262,11 @@
     "vulkan_tools": "vulkan-tools",
     "vuls": "vuls",
     "vuls-scanner": "vuls",
-    "vultr": "vultr",
+    "vultr-cli": "vultr-cli",
+    "vultr-cli (Portable)": "vultr-cli",
+    "vultr-cli-debuginfo": "vultr-cli",
+    "vultr-cli-debugsource": "vultr-cli",
+    "vultr-cli.portable": "vultr-cli",
     "vulture": "vulture",
     "vunnel": "vunnel",
     "vvdec": "vvdec",

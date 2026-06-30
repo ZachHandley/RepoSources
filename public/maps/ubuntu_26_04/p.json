@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "p",
-    "total_mappings": 808
+    "total_mappings": 809
   },
   "mappings": {
     "p0f": "p0f",
@@ -435,8 +435,8 @@
     "pympress": "pympress",
     "pympress-doc": "pympress",
     "pymupdf": "pymupdf",
-    "pypy3": "pypy3.10",
-    "pypy3-dev": "pypy3.10",
+    "pypy3": "pypy3.11",
+    "pypy3-dev": "pypy3.11",
     "pypy3-doc": "pypy",
     "pypy3-lib": "pypy",
     "pypy3-lib-testsuite": "pypy",
@@ -698,6 +698,7 @@
     "python3-opencc": "opencc",
     "python3-opencv": "opencv",
     "python3-openimageio": "openimageio",
+    "python3-openturns": "openturns",
     "python3-openvdb": "openvdb",
     "python3-otf2": "otf2",
     "python3-packaging": "python-packaging",

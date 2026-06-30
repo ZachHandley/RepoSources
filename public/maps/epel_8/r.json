@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "r",
-    "total_mappings": 57
+    "total_mappings": 56
   },
   "mappings": {
     "R": "r",
@@ -21,7 +21,6 @@
     "rapidyaml": "rapidyaml",
     "rb_libtorrent": "libtorrent-rasterbar",
     "rbenv": "rbenv",
-    "rc": "rc",
     "rcs": "rcs",
     "rdiff-backup": "rdiff-backup",
     "re2": "re2",

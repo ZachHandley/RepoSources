@@ -1,23 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "s",
-    "total_mappings": 12
+    "total_mappings": 5
   },
   "mappings": {
     "sbt": "sbt",
-    "sendme": "sendme",
-    "sentry-native": "sentry-native",
-    "shaderc": "shaderc",
-    "spirv-headers": "spirv-headers",
-    "spirv-tools": "spirv-tools",
-    "systemd": "systemd",
-    "systemd-libs": "systemd",
-    "systemd-resolvconf": "systemd",
-    "systemd-sysvcompat": "systemd",
-    "systemd-tests": "systemd",
-    "systemd-ukify": "systemd"
+    "shared-mime-info": "shared-mime-info",
+    "skopeo": "skopeo",
+    "sstp-client": "sstp-client",
+    "strace": "strace"
   }
 }

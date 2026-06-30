@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "v",
-    "total_mappings": 234
+    "total_mappings": 238
   },
   "mappings": {
     "Vc": "vc",
@@ -68,6 +68,10 @@
     "vde2-debuginfo": "vde",
     "vde2-debugsource": "vde",
     "vde2-slirp": "vde",
+    "vdt": "vdt",
+    "vdt-debuginfo": "vdt",
+    "vdt-debugsource": "vdt",
+    "vdt-devel": "vdt",
     "vectorscan": "vectorscan",
     "vectorscan-debuginfo": "vectorscan",
     "vectorscan-debugsource": "vectorscan",

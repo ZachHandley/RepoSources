@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "parrot",
     "shard": "a",
-    "total_mappings": 298
+    "total_mappings": 293
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -16,7 +16,6 @@
     "abcl": "abcl",
     "abcm2ps": "abcm2ps",
     "abcmidi": "abcmidi",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abi-dumper": "abi-dumper",
     "abigail-doc": "libabigail",
     "abigail-tools": "libabigail",
@@ -120,7 +119,6 @@
     "ant-contrib": "ant-contrib",
     "ant-doc": "ant@1.9",
     "ant-optional": "ant@1.9",
-    "antiword": "antiword",
     "antlr": "antlr",
     "antlr-doc": "antlr",
     "antlr3": "antlr",
@@ -197,8 +195,6 @@
     "arp-scan": "arp-scan",
     "arpack": "arpack",
     "arping": "arping",
-    "asc": "asc",
-    "asc-data": "asc",
     "ascii": "ascii",
     "ascii2binary": "ascii2binary",
     "asciidoc": "asciidoc",
@@ -281,7 +277,6 @@
     "automysqlbackup": "automysqlbackup",
     "autopep8": "autopep8",
     "autopoint": "gettext",
-    "autopsy": "autopsy",
     "autossh": "autossh",
     "avahi": "avahi",
     "avahi-autoipd": "avahi",

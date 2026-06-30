@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "r",
-    "total_mappings": 179
+    "total_mappings": 180
   },
   "mappings": {
     "r-base": "r",
@@ -17,6 +17,7 @@
     "r-doc-info": "r",
     "r-doc-pdf": "r",
     "r-mathlib": "r",
+    "r-other-rot": "openturns",
     "r-recommended": "r",
     "rabbitmq-server": "rabbitmq",
     "racket": "minimal-racket",

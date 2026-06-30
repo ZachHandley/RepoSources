@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_12",
     "shard": "o",
-    "total_mappings": 196
+    "total_mappings": 198
   },
   "mappings": {
     "oasis": "oasis",
@@ -161,6 +161,8 @@
     "openssl": "openssl@3",
     "opensubdiv": "opensubdiv",
     "opensubdiv-tools": "opensubdiv",
+    "openturns": "openturns",
+    "openturns-common": "openturns",
     "opentyrian": "open-tyrian",
     "openvdb": "openvdb",
     "openvpn": "openvpn",

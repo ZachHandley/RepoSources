@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "l",
-    "total_mappings": 1043
+    "total_mappings": 1047
   },
   "mappings": {
     "LibRaw": "libraw",
@@ -749,6 +749,8 @@
     "libtalloc": "talloc",
     "libtalloc-devel": "talloc",
     "libtasn1": "libtasn1",
+    "libtasn1-debuginfo": "libtasn1",
+    "libtasn1-debugsource": "libtasn1",
     "libtasn1-devel": "libtasn1",
     "libtasn1-tools": "libtasn1",
     "libtdb": "tdb",
@@ -803,6 +805,8 @@
     "libusb-devel": "libusb",
     "libusb-tests-examples": "libusb",
     "libusbx": "libusb",
+    "libusbx-debuginfo": "libusb",
+    "libusbx-debugsource": "libusb",
     "libusbx-devel": "libusb",
     "libusbx-devel-doc": "libusb",
     "libusbx-tests-examples": "libusb",

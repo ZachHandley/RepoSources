@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "c",
-    "total_mappings": 582
+    "total_mappings": 584
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -153,6 +153,7 @@
     "cimg-dev": "cimg",
     "cimg-doc": "cimg",
     "cimg-examples": "cimg",
+    "civetweb": "civetweb",
     "cjson": "cjson",
     "ck": "concurrencykit",
     "ckermit": "c-kermit",
@@ -238,6 +239,7 @@
     "clhep": "clhep",
     "clhep-doc": "clhep",
     "cli11": "cli11",
+    "cli53": "cli53",
     "clifm": "clifm",
     "clinfo": "clinfo",
     "clisp": "clisp",

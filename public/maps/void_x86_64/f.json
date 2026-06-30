@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "f",
-    "total_mappings": 180
+    "total_mappings": 178
   },
   "mappings": {
     "FAudio": "faudio",
@@ -77,8 +77,6 @@
     "fish-shell": "fish",
     "flac": "flac",
     "flake8": "flake8",
-    "flang17": "llvm@21",
-    "flang17-devel": "llvm@21",
     "flang18": "llvm@21",
     "flang18-devel": "llvm@21",
     "flang19": "llvm@21",

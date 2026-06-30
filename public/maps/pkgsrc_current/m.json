@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "m",
-    "total_mappings": 448
+    "total_mappings": 450
   },
   "mappings": {
     "Markdown": "markdown",
@@ -51,6 +51,7 @@
     "mail/nmh": "nmh",
     "mail/notmuch": "notmuch",
     "mail/offlineimap": "offlineimap",
+    "mail/offlineimap3": "offlineimap",
     "mail/procmail": "procmail",
     "mail/pst-utils": "libpst",
     "mail/ripmime": "ripmime",
@@ -78,6 +79,7 @@
     "math/bc-gh": "bc-gh",
     "math/bcal": "bcal",
     "math/blitz++": "blitz",
+    "math/cadical": "cadical",
     "math/capc-calc": "calc",
     "math/cgal": "cgal",
     "math/cln": "cln",

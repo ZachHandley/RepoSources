@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alpine_3_17",
     "shard": "a",
-    "total_mappings": 234
+    "total_mappings": 232
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -17,7 +17,6 @@
     "abcde-doc": "abcde",
     "abduco": "abduco",
     "abduco-doc": "abduco",
-    "abi-compliance-checker": "abi-compliance-checker",
     "abook": "abook",
     "abook-doc": "abook",
     "abook-lang": "abook",
@@ -62,7 +61,6 @@
     "android-tools-zsh-completion": "zsh",
     "ansible": "ansible@13",
     "ansible-lint": "ansible-lint",
-    "antiword": "antiword",
     "aom": "aom",
     "aom-dev": "aom",
     "aom-doc": "aom",

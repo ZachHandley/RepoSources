@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "a",
-    "total_mappings": 999
+    "total_mappings": 997
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -36,7 +36,6 @@
     "alsa-lib+32": "alsa-lib",
     "android-simg2img": "simg2img",
     "ansible": "ansible@13",
-    "antiword": "antiword",
     "antlr4": "antlr",
     "antlr4-cpp-runtime": "antlr4-cpp-runtime",
     "anubis": "anubis",
@@ -659,7 +658,6 @@
     "app-utils/acme.sh": "acme.sh",
     "app-utils/aha": "aha",
     "app-utils/aide": "aide",
-    "app-utils/antiword": "antiword",
     "app-utils/atool": "atool",
     "app-utils/atop": "atop",
     "app-utils/atuin": "atuin",

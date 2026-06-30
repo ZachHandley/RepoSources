@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "trisquel_10_0",
     "shard": "r",
-    "total_mappings": 230
+    "total_mappings": 229
   },
   "mappings": {
     "r-base": "r",
@@ -41,7 +41,6 @@
     "rasterlite2-bin": "librasterlite2",
     "ratfor": "ratfor",
     "rbenv": "rbenv",
-    "rc": "rc",
     "rclone": "rclone",
     "rcm": "rcm",
     "rcs": "rcs",

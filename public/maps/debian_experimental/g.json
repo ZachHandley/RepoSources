@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "g",
-    "total_mappings": 71
+    "total_mappings": 78
   },
   "mappings": {
     "gexiv2-0.14": "gexiv2",
@@ -12,6 +12,7 @@
     "gir1.2-ayatanaappindicator3-0.1": "libayatana-appindicator",
     "gir1.2-gexiv2-0.10": "gexiv2",
     "gir1.2-gstreamer-1.0": "gstreamer",
+    "gir1.2-gtk-4.0": "gtk+",
     "gir1.2-gtksource-300": "libgedit-gtksourceview",
     "gir1.2-javascriptcoregtk-4.1": "webkitgtk",
     "gir1.2-javascriptcoregtk-6.0": "webkitgtk",
@@ -69,6 +70,8 @@
     "golang-github-sigstore-cosign-dev": "cosign",
     "google-glog": "glog",
     "gost": "gost",
+    "gpgme-json": "gpgme",
+    "gpgme1.0": "gpgme",
     "groestlcoin": "groestlcoin",
     "groestlcoin-qt": "groestlcoin",
     "groestlcoin-tx": "groestlcoin",
@@ -77,6 +80,10 @@
     "grpc": "grpc",
     "gstreamer1.0": "gstreamer",
     "gstreamer1.0-tools": "gstreamer",
+    "gtk-4-examples": "gtk+",
+    "gtk-4-tests": "gtk+",
+    "gtk-update-icon-cache": "gtk+",
+    "gtk4": "gtk4",
     "gzip": "gzip"
   }
 }

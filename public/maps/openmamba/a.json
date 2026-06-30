@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "a",
-    "total_mappings": 80
+    "total_mappings": 79
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -27,9 +27,8 @@
     "aircrack-ng-debug": "aircrack-ng",
     "angular-cli": "angular-cli",
     "ansible": "ansible@13",
-    "antiword": "antiword",
-    "antiword-debug": "antiword",
     "antlr": "antlr",
+    "anubis": "anubis",
     "apache": "httpd",
     "apache-ant": "ant@1.9",
     "apache-devel": "httpd",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "m",
-    "total_mappings": 1044
+    "total_mappings": 1050
   },
   "mappings": {
     "m4-git": "m4",
@@ -97,6 +97,7 @@
     "maxima-git": "maxima",
     "mbedtls-dtls": "mbedtls@3",
     "mbedtls-git": "mbedtls@3",
+    "mbedtls2": "mbedtls@3",
     "mbpoll-git": "mbpoll",
     "mbsync-git": "isync",
     "mbt": "mbt",
@@ -109,6 +110,7 @@
     "mcfly-git": "mcfly",
     "mcp-publisher": "mcp-publisher",
     "mcphost": "mcphost",
+    "mcpp-bin": "mcpp",
     "mcptools": "mcptools",
     "md4c-git": "md4c",
     "mda-lv2-git": "mda-lv2",
@@ -131,6 +133,7 @@
     "mediaconch": "mediaconch",
     "mediainfo-git": "media-info",
     "mediainfo-gui-git": "media-info",
+    "mediainfogui": "media-info",
     "mediamtx": "mediamtx",
     "mediamtx-bin": "mediamtx",
     "mediamtx-git": "mediamtx",
@@ -247,9 +250,11 @@
     "mingw-w64-cglm": "cglm",
     "mingw-w64-cgns": "cgns",
     "mingw-w64-chrono-date": "howard-hinnant-date",
+    "mingw-w64-civetweb": "civetweb",
     "mingw-w64-cli11": "cli11",
     "mingw-w64-cminpack": "cminpack",
     "mingw-w64-cmocka": "cmocka",
+    "mingw-w64-coacd": "coacd",
     "mingw-w64-coin-or-cbc": "cbc",
     "mingw-w64-coin-or-cgl": "cgl",
     "mingw-w64-coin-or-coinutils": "coinutils",
@@ -979,6 +984,7 @@
     "msedit-git": "msedit",
     "msgpack-cxx-git": "msgpack-cxx",
     "msgpack-tools": "msgpack-tools",
+    "msgvault-bin": "msgvault",
     "msieve": "msieve",
     "msieve-svn": "msieve",
     "msitools-git": "msitools",

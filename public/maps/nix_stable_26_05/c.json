@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "c",
-    "total_mappings": 462
+    "total_mappings": 463
   },
   "mappings": {
     "CUnit": "cunit",
@@ -205,6 +205,7 @@
     "cimg": "cimg",
     "circleci-cli": "circleci",
     "circumflex": "circumflex",
+    "civetweb": "civetweb",
     "cjdns": "cjdns",
     "cjson": "cjson",
     "ck": "concurrencykit",

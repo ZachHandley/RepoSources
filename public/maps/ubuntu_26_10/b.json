@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "b",
-    "total_mappings": 266
+    "total_mappings": 263
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -212,8 +212,6 @@
     "bomtool": "pkgconf",
     "bonnie++": "bonnie++",
     "boolector": "boolector",
-    "boost1.83": "boost@1.85",
-    "boost1.88": "boost@1.85",
     "boost1.90": "boost@1.85",
     "bootterm": "bootterm",
     "borgbackup": "borgbackup",
@@ -261,7 +259,6 @@
     "bumpversion": "bumpversion",
     "bup": "bup",
     "bup-doc": "bup",
-    "burp": "burp",
     "burrow": "burrow",
     "bvi": "bvi",
     "bwa": "bwa",

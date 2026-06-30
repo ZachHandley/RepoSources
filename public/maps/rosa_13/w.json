@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "w",
-    "total_mappings": 133
+    "total_mappings": 134
   },
   "mappings": {
     "w3m": "w3m",
@@ -101,6 +101,7 @@
     "wireshark-debuginfo": "wireshark",
     "wireshark-debugsource": "wireshark",
     "wireshark-tools": "wireshark",
+    "witr": "witr",
     "wl-clipboard": "wl-clipboard",
     "wl-clipboard-debuginfo": "wl-clipboard",
     "wl-clipboard-debugsource": "wl-clipboard",

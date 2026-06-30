@@ -1,34 +1,27 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shards": [
       "a",
-      "b",
-      "c",
       "d",
       "e",
       "f",
       "g",
-      "h",
       "i",
       "j",
-      "k",
       "l",
       "m",
       "n",
       "o",
       "p",
-      "q",
-      "r",
       "s",
       "t",
       "u",
       "v",
-      "w",
-      "z"
+      "x"
     ],
-    "total_mappings": 145
+    "total_mappings": 42
   }
 }

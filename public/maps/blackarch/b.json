@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "b",
-    "total_mappings": 10
+    "total_mappings": 11
   },
   "mappings": {
     "bandicoot": "bandicoot",
@@ -12,6 +12,7 @@
     "bgrep": "bgrep",
     "bittwist": "bittwist",
     "bkcrack": "bkcrack",
+    "bkcrack-debug": "bkcrack",
     "brotli06": "brotli",
     "brotli06-testdata": "brotli",
     "bsdiff": "bsdiff",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "j",
-    "total_mappings": 134
+    "total_mappings": 137
   },
   "mappings": {
     "jack": "jack",
@@ -85,6 +85,8 @@
     "jose-doc": "jose",
     "jpeg": "jpeg",
     "jpeg-dev": "jpeg",
+    "jpeginfo": "jpeginfo",
+    "jpeginfo-doc": "jpeginfo",
     "jpegoptim": "jpegoptim",
     "jpegoptim-doc": "jpegoptim",
     "jq": "jq",
@@ -139,6 +141,7 @@
     "just-bash-completion": "just",
     "just-doc": "just",
     "just-fish-completion": "just",
+    "just-lsp": "just-lsp",
     "just-zsh-completion": "just",
     "jwt-cli": "jwt-cli"
   }

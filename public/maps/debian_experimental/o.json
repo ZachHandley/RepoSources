@@ -1,16 +1,23 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "o",
-    "total_mappings": 9
+    "total_mappings": 16
   },
   "mappings": {
+    "ocaml": "ocaml@4",
+    "ocaml-base": "ocaml@4",
+    "ocaml-interp": "ocaml@4",
+    "ocaml-man": "ocaml@4",
+    "ocaml-source": "ocaml@4",
     "openbabel": "open-babel",
     "openbabel-gui": "open-babel",
     "opencolorio": "opencolorio",
     "opencolorio-tools": "opencolorio",
+    "openslide": "openslide",
+    "openslide-tools": "openslide",
     "openssl": "openssl@3",
     "openssl-provider-fips": "openssl@4",
     "openssl-provider-legacy": "openssl@4",

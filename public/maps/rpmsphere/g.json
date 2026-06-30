@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "rpmsphere",
     "shard": "g",
-    "total_mappings": 52
+    "total_mappings": 50
   },
   "mappings": {
     "gambit": "gambit",
@@ -50,8 +50,6 @@
     "gping-debuginfo": "gping",
     "gravity": "gravity",
     "gravity-debuginfo": "gravity",
-    "greed": "greed",
-    "greed-debuginfo": "greed",
     "gstreamer": "gstreamer",
     "gstreamer-debuginfo": "gstreamer",
     "gstreamer-debugsource": "gstreamer",

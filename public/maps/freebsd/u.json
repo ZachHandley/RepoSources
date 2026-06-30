@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "u",
@@ -72,6 +72,6 @@
     "uv": "uv",
     "uvg266": "uvg266",
     "uvwasi": "uvwasi",
-    "uwsgi-py311": "uwsgi"
+    "uwsgi-py312": "uwsgi"
   }
 }

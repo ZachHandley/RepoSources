@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "debian_unstable",
     "shard": "g",
-    "total_mappings": 2036
+    "total_mappings": 2039
   },
   "mappings": {
     "g++-11": "gcc@15",
@@ -1814,6 +1814,10 @@
     "golang-1.26-doc": "go@1.25",
     "golang-1.26-go": "go@1.25",
     "golang-1.26-src": "go@1.25",
+    "golang-1.27": "go@1.25",
+    "golang-1.27-doc": "go@1.25",
+    "golang-1.27-go": "go@1.25",
+    "golang-1.27-src": "go@1.25",
     "golang-bindata": "go-bindata",
     "golang-chroma": "chroma",
     "golang-etcd-server-dev": "etcd",
@@ -1946,7 +1950,6 @@
     "graphviz-doc": "graphviz",
     "graphviz-tools": "graphviz",
     "grc": "grc",
-    "greed": "greed",
     "grep": "grep",
     "grepcidr": "grepcidr",
     "grip": "grip",

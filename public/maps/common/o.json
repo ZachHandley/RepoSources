@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "o",
-    "total_mappings": 2877
+    "total_mappings": 2880
   },
   "mappings": {
     "OCRmyPDF": "ocrmypdf",
@@ -571,7 +571,6 @@
     "office/LaTeXML": "latexml",
     "office/LanguageTool": "languagetool",
     "office/abook": "abook",
-    "office/antiword": "antiword",
     "office/asymptote": "asymptote",
     "office/bartib": "bartib",
     "office/bibclean": "bibclean",
@@ -2426,6 +2425,10 @@
     "opentofu-provider-libvirt-git": "terraform-provider-libvirt",
     "opentofu.portable": "opentofu",
     "opentsdb": "opentsdb",
+    "openturns": "openturns",
+    "openturns-common": "openturns",
+    "openturns-examples": "openturns",
+    "openturns-validation": "openturns",
     "opentyrian": "open-tyrian",
     "opentyrian (Install)": "open-tyrian",
     "opentyrian-dbginfo": "open-tyrian",

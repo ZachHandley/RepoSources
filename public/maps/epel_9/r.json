@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "r",
-    "total_mappings": 687
+    "total_mappings": 684
   },
   "mappings": {
     "R": "r",
@@ -58,9 +58,6 @@
     "rb_libtorrent-python3": "libtorrent-rasterbar",
     "rbenv": "rbenv",
     "rbw": "rbw",
-    "rc": "rc",
-    "rc-debuginfo": "rc",
-    "rc-debugsource": "rc",
     "rclone": "rclone",
     "rclone-debuginfo": "rclone",
     "rclone-debugsource": "rclone",

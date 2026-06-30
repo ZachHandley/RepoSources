@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "v",
-    "total_mappings": 135
+    "total_mappings": 132
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -40,10 +40,10 @@
     "vde2-cryptcab": "vde",
     "vdirsyncer": "vdirsyncer",
     "vdirsyncer-doc": "vdirsyncer",
+    "vdt": "vdt",
     "veccore": "veccore",
     "veccore-dev": "veccore",
     "vectorscan": "vectorscan",
-    "vera++": "vera++",
     "verilator": "verilator",
     "veryfasttree": "veryfasttree",
     "vice": "vice",
@@ -117,9 +117,6 @@
     "voro++": "voro++",
     "voro++-dev": "voro++",
     "voro++-examples": "voro++",
-    "votca": "votca",
-    "votca-data": "votca",
-    "votca-tutorials": "votca",
     "vpcs": "vpcs",
     "vpx-tools": "libvpx",
     "vramsteg": "vramsteg",

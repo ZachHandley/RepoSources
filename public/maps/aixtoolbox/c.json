@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aixtoolbox",
     "shard": "c",
-    "total_mappings": 19
+    "total_mappings": 20
   },
   "mappings": {
     "CUnit": "cunit",
     "ca-certificates": "ca-certificates",
     "cairo": "cairo",
     "calicoctl": "calicoctl",
+    "cdrecord": "cdrtools",
     "cdrtools": "cdrtools",
     "check": "check",
     "clamav": "clamav",

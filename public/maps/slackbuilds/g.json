@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "g",
-    "total_mappings": 175
+    "total_mappings": 173
   },
   "mappings": {
     "games/7kaa": "seven-kingdoms",
@@ -13,7 +13,6 @@
     "games/advancescan": "advancescan",
     "games/angband": "angband",
     "games/arx-libertatis": "arx-libertatis",
-    "games/asc": "asc",
     "games/atari800": "atari800",
     "games/bastet": "bastet",
     "games/cataclysmdda": "cataclysm",
@@ -39,7 +38,6 @@
     "games/glulxe": "glulxe",
     "games/gnugo": "gnu-go",
     "games/gnuski": "gnuski",
-    "games/greed": "greed",
     "games/hatari": "hatari",
     "games/innoextract": "innoextract",
     "games/instead": "instead",

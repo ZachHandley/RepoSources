@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "ubuntu_20_04",
     "shard": "o",
-    "total_mappings": 236
+    "total_mappings": 238
   },
   "mappings": {
     "oasis": "oasis",
@@ -205,6 +205,8 @@
     "openssl": "openssl@3",
     "opensubdiv": "opensubdiv",
     "opensubdiv-tools": "opensubdiv",
+    "openturns": "openturns",
+    "openturns-examples": "openturns",
     "opentyrian": "open-tyrian",
     "openvdb": "openvdb",
     "openvpn": "openvpn",

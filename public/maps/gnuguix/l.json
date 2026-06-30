@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "l",
@@ -202,7 +202,6 @@
     "libmaxminddb": "libmaxminddb",
     "libmd": "libmd",
     "libmediainfo": "libmediainfo",
-    "libmemcached": "libmemcached",
     "libmhash": "mhash",
     "libmicrohttpd": "libmicrohttpd",
     "libmikmod": "libmikmod",
@@ -475,6 +474,7 @@
     "lua5.1-lpeg": "lpeg",
     "lua5.2-lpeg": "lpeg",
     "lua5.2-luarocks": "luarocks",
+    "lua5.3-lpeg": "lpeg",
     "lua5.4-lpeg": "lpeg",
     "luajit": "luajit",
     "luajit-lua52-openresty": "luajit-openresty",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "c",
-    "total_mappings": 517
+    "total_mappings": 519
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -54,9 +54,9 @@
     "cdrdao": "cdrdao",
     "cdrdao-gcdmaster": "cdrdao",
     "cdrdao-toc2mp3": "cdrdao",
-    "cdrtools": "cdrtools",
-    "cdrtools-debuginfo": "cdrtools",
-    "cdrtools-debugsource": "cdrtools",
+    "cdrtools": "star",
+    "cdrtools-debuginfo": "star",
+    "cdrtools-debugsource": "star",
     "cec-utils": "libcec",
     "certbot": "certbot",
     "certbot-dns-cloudflare": "certbot",
@@ -217,6 +217,8 @@
     "corkscrew": "corkscrew",
     "corkscrew-debuginfo": "corkscrew",
     "corkscrew-debugsource": "corkscrew",
+    "corrosion": "corrosion",
+    "corrosion-debuginfo": "corrosion",
     "cowsay": "cowsay",
     "cpio": "libarchive",
     "cppcheck": "cppcheck",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "c",
-    "total_mappings": 564
+    "total_mappings": 556
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -54,6 +54,8 @@
     "cadaver": "cadaver",
     "caddy": "caddy",
     "cadical": "cadical",
+    "cadical-debuginfo": "cadical",
+    "cadical-debugsource": "cadical",
     "cadical-devel": "cadical",
     "cadical-libs": "cadical",
     "cairo": "cairo",
@@ -131,9 +133,6 @@
     "cdogs-sdl": "cdogs-sdl",
     "cdrdao": "cdrdao",
     "cdsclient": "cdsclient",
-    "cekit": "cekit",
-    "cekit-bash-completion": "cekit",
-    "cekit-zsh-completion": "cekit",
     "centerim": "center-im",
     "cereal": "cereal",
     "cereal-devel": "cereal",
@@ -231,13 +230,6 @@
     "clang15-devel": "llvm@21",
     "clang15-libs": "llvm@21",
     "clang15-resource-filesystem": "llvm@21",
-    "clang17": "llvm@21",
-    "clang17-analyzer": "llvm@21",
-    "clang17-devel": "llvm@21",
-    "clang17-libs": "llvm@21",
-    "clang17-resource-filesystem": "llvm@21",
-    "clang17-tools-extra": "llvm@21",
-    "clang17-tools-extra-devel": "llvm@21",
     "clang18": "llvm@21",
     "clang18-analyzer": "llvm@21",
     "clang18-devel": "llvm@21",

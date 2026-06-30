@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "apertis_v2025",
     "shard": "h",
@@ -27,9 +27,9 @@
     "hfs-modules-6.12.86.1-m68k-di": "linux-headers@6.8",
     "hfs-modules-6.12.86.1-powerpc-di": "linux-headers@6.8",
     "hfs-modules-6.12.86.1-powerpc64-di": "linux-headers@6.8",
-    "hfs-modules-6.12.90.2-m68k-di": "linux-headers@6.8",
-    "hfs-modules-6.12.90.2-powerpc-di": "linux-headers@6.8",
-    "hfs-modules-6.12.90.2-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-6.12.94.1-m68k-di": "linux-headers@6.8",
+    "hfs-modules-6.12.94.1-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-6.12.94.1-powerpc64-di": "linux-headers@6.8",
     "hicolor-icon-theme": "hicolor-icon-theme",
     "highway": "highway",
     "highway-doc": "highway",
@@ -48,7 +48,7 @@
     "hyperv-daemons": "linux-headers@6.8",
     "hypervisor-modules-6.12.86.1-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-6.12.86.1-powerpc64le-di": "linux-headers@6.8",
-    "hypervisor-modules-6.12.90.2-powerpc64-di": "linux-headers@6.8",
-    "hypervisor-modules-6.12.90.2-powerpc64le-di": "linux-headers@6.8"
+    "hypervisor-modules-6.12.94.1-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-6.12.94.1-powerpc64le-di": "linux-headers@6.8"
   }
 }

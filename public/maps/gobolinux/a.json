@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "a",
-    "total_mappings": 47
+    "total_mappings": 46
   },
   "mappings": {
     "A2PS": "a2ps",
@@ -28,7 +28,6 @@
     "Aircrack-ng": "aircrack-ng",
     "Allegro": "allegro",
     "Alpine": "alpine",
-    "Antiword": "antiword",
     "Apache-Ant": "ant@1.9",
     "AppStream-Glib": "appstream-glib",
     "Apt": "apt",

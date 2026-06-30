@@ -1,20 +1,27 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "l",
-    "total_mappings": 9
+    "total_mappings": 16
   },
   "mappings": {
-    "lib32-spirv-tools": "spirv-tools",
-    "lib32-systemd": "systemd",
-    "lib32-vulkan-icd-loader": "vulkan-loader",
-    "lib32-vulkan-utility-libraries": "vulkan-utility-libraries",
-    "lib32-vulkan-validation-layers": "vulkan-validationlayers",
-    "libheif": "libheif",
+    "lib32-acl": "acl",
+    "lib32-attr": "attr",
+    "lib32-clang": "llvm@21",
+    "lib32-llvm": "llvm@21",
+    "lib32-llvm-libs": "llvm@21",
+    "libc++": "llvm@21",
+    "libc++abi": "llvm@21",
+    "libclc": "libclc",
     "libnpupnp": "libnpupnp",
-    "libplacebo": "libplacebo",
-    "lsof": "lsof"
+    "linux": "linux-headers@6.8",
+    "linux-docs": "linux-headers@6.8",
+    "linux-headers": "linux-headers@6.8",
+    "lld": "lld@21",
+    "lldb": "llvm@21",
+    "llvm": "llvm@21",
+    "llvm-libs": "llvm@21"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "s",
-    "total_mappings": 505
+    "total_mappings": 507
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -49,6 +49,7 @@
     "security/argon2": "argon2",
     "security/b3sum": "b3sum",
     "security/badkeys": "badkeys",
+    "security/blake3": "b3sum",
     "security/botan2": "botan@2",
     "security/ccrypt": "ccrypt",
     "security/cfssl": "cfssl",
@@ -507,6 +508,7 @@
     "sysutils/vifm": "vifm",
     "sysutils/virt-manager": "virt-manager",
     "sysutils/vmdktool": "vmdktool",
+    "sysutils/vultr-cli": "vultr-cli",
     "sysutils/walk": "walk",
     "sysutils/xdelta": "xdelta",
     "sysutils/xe": "xe",

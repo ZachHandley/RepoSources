@@ -1,18 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "f",
-    "total_mappings": 7
+    "total_mappings": 1
   },
   "mappings": {
-    "fail2ban": "fail2ban",
-    "fast_float": "fast_float",
-    "fluidsynth": "fluid-synth",
-    "fmt": "fmt",
-    "freerdp": "freerdp",
-    "frei0r-plugins": "frei0r",
-    "fwupd": "fwupd"
+    "fastfetch": "fastfetch"
   }
 }

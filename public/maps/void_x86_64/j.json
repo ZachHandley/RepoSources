@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "j",
-    "total_mappings": 66
+    "total_mappings": 67
   },
   "mappings": {
     "jack": "jack",
@@ -72,6 +72,7 @@
     "jump": "jump",
     "jupp": "jupp",
     "jupyterlab": "jupyterlab",
-    "just": "just"
+    "just": "just",
+    "just-lsp": "just-lsp"
   }
 }

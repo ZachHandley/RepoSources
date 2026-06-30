@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "r",
@@ -9,7 +9,7 @@
   "mappings": {
     "r": "r",
     "rabbitmq": "rabbitmq",
-    "rabbitmqadmin": "rabbitmq",
+    "rabbitmqadmin": "rabbitmqadmin",
     "racket": "minimal-racket",
     "racket-minimal": "minimal-racket",
     "radamsa": "radamsa",

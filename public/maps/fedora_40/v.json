@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "fedora_40",
     "shard": "v",
-    "total_mappings": 210
+    "total_mappings": 212
   },
   "mappings": {
     "v8-10.2-devel": "node@24",
@@ -216,6 +216,8 @@
     "vulkan-validation-layers-debugsource": "vulkan-validationlayers",
     "vulkan-volk": "vulkan-volk",
     "vulkan-volk-devel": "vulkan-volk",
-    "vultr": "vultr"
+    "vultr-cli": "vultr-cli",
+    "vultr-cli-debuginfo": "vultr-cli",
+    "vultr-cli-debugsource": "vultr-cli"
   }
 }

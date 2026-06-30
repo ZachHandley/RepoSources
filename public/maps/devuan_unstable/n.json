@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "n",
-    "total_mappings": 280
+    "total_mappings": 281
   },
   "mappings": {
     "nacl": "nacl",
@@ -112,6 +112,7 @@
     "newsraft": "newsraft",
     "newt": "newt",
     "newt-tcl": "newt",
+    "nextdns": "nextdns",
     "nfdump": "nfdump",
     "nfdump-sflow": "nfdump",
     "nftables": "nftables",

@@ -1,17 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "t",
-    "total_mappings": 6
+    "total_mappings": 1
   },
   "mappings": {
-    "threadweaver6": "threadweaver",
-    "timidity++": "timidity",
-    "transmission": "transmission-cli",
-    "transmission-cli": "transmission-cli",
-    "transmission-qt": "transmission-cli",
-    "typst": "typst"
+    "translate-toolkit": "translate-toolkit"
   }
 }

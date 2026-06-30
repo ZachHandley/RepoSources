@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "rpmfusion_fedora_rawhide",
     "shards": [
@@ -13,7 +13,6 @@
       "m",
       "n",
       "p",
-      "r",
       "s",
       "t",
       "u",
@@ -21,6 +20,6 @@
       "x",
       "z"
     ],
-    "total_mappings": 89
+    "total_mappings": 86
   }
 }

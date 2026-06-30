@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "p",
@@ -153,7 +153,7 @@
     "pyenv": "pyenv",
     "pygobject": "pygobject3",
     "pypy": "pypy",
-    "pypy3": "pypy3.10",
+    "pypy3": "pypy3.11",
     "pyqt-builder": "pyqt-builder",
     "pystring": "pystring",
     "python": "python@3.14",

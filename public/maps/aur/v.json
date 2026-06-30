@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "v",
-    "total_mappings": 165
+    "total_mappings": 164
   },
   "mappings": {
     "v": "v",
@@ -167,7 +167,6 @@
     "vulkan-tools-git": "vulkan-tools",
     "vulkan-utility-libraries-git": "vulkan-utility-libraries",
     "vulkan-validation-layers-git": "vulkan-validationlayers",
-    "vultr": "vultr",
     "vvdec": "vvdec",
     "vvdec-git": "vvdec",
     "vvenc": "vvenc",

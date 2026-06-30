@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-06-30T18:17:26Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "q",
-    "total_mappings": 317
+    "total_mappings": 318
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -16,6 +16,7 @@
     "qalculate-qt-doc": "qalculate-qt",
     "qbe": "qbe",
     "qbe-dbg": "qbe",
+    "qbe-doc": "qbe",
     "qbittorrent-cli": "qbittorrent-cli",
     "qbs": "qbs",
     "qca": "qca",
