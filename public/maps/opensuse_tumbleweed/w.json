@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "w",
-    "total_mappings": 225
+    "total_mappings": 228
   },
   "mappings": {
     "WebKitGTK-4.1-lang": "webkitgtk",
@@ -127,6 +127,9 @@
     "wiiuse-debuginfo": "wiiuse",
     "wiiuse-debugsource": "wiiuse",
     "wiiuse-devel": "wiiuse",
+    "wild": "wild",
+    "wild-debuginfo": "wild",
+    "wild-debugsource": "wild",
     "wildmidi": "wildmidi",
     "wildmidi-debuginfo": "wildmidi",
     "wildmidi-debugsource": "wildmidi",

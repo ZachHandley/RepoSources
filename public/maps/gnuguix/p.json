@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "p",
-    "total_mappings": 240
+    "total_mappings": 243
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -152,6 +152,7 @@
     "protoc-gen-go-grpc": "protoc-gen-go-grpc",
     "protozero": "protozero",
     "proxychains-ng": "proxychains-ng",
+    "prrte": "prrte",
     "psftools": "psftools",
     "pstoedit": "pstoedit",
     "psutils": "psutils",
@@ -199,6 +200,7 @@
     "python-jsbeautifier": "js-beautify",
     "python-libvirt": "libvirt-python",
     "python-lsp-server": "python-lsp-server",
+    "python-manim": "manim",
     "python-markdown": "python-markdown",
     "python-matplotlib": "python-matplotlib",
     "python-matplotlib-documentation": "python-matplotlib",
@@ -238,6 +240,7 @@
     "python-sqlparse": "sqlparse",
     "python-tabulate": "python-tabulate",
     "python-translate-toolkit": "translate-toolkit",
+    "python-tree-sitter-python": "tree-sitter-python",
     "python-twine": "twine",
     "python-uvicorn": "uvicorn",
     "python-virtualenv": "virtualenv",

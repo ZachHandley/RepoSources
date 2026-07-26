@@ -1,14 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "_misc",
-    "total_mappings": 3
+    "total_mappings": 9
   },
   "mappings": {
     "6tunnel": "sixtunnel",
     "6tunnel-debuginfo": "sixtunnel",
-    "6tunnel-debugsource": "sixtunnel"
+    "6tunnel-debugsource": "sixtunnel",
+    "7zip": "sevenzip",
+    "7zip-debuginfo": "sevenzip",
+    "7zip-debugsource": "sevenzip",
+    "7zip-reduced": "sevenzip",
+    "7zip-standalone": "sevenzip",
+    "7zip-standalone-all": "sevenzip"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "y",
-    "total_mappings": 53
+    "total_mappings": 54
   },
   "mappings": {
     "yacas": "yacas",
@@ -48,6 +48,7 @@
     "yosys": "yosys",
     "you-get": "you-get",
     "youplot": "youplot",
+    "youtubedr": "youtubedr",
     "youtubeuploader": "youtubeuploader",
     "yq": "python-yq",
     "yq-go": "yq",

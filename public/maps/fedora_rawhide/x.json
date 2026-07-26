@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "x",
-    "total_mappings": 142
+    "total_mappings": 140
   },
   "mappings": {
     "Xaw3d": "libxaw3d",
@@ -61,8 +61,6 @@
     "xmlrpc-c-devel": "xmlrpc-c",
     "xmlsec1": "libxmlsec1",
     "xmlsec1-devel": "libxmlsec1",
-    "xmlsec1-gcrypt": "libxmlsec1",
-    "xmlsec1-gcrypt-devel": "libxmlsec1",
     "xmlsec1-gnutls": "libxmlsec1",
     "xmlsec1-gnutls-devel": "libxmlsec1",
     "xmlsec1-nss": "libxmlsec1",

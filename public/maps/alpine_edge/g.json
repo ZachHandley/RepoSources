@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "g",
-    "total_mappings": 756
+    "total_mappings": 758
   },
   "mappings": {
     "g++": "gcc@15",
@@ -524,6 +524,8 @@
     "goffice-dev": "goffice",
     "goffice-doc": "goffice",
     "goffice-lang": "goffice",
+    "goimapnotify": "goimapnotify",
+    "goimapnotify-systemd": "goimapnotify",
     "gojq": "gojq",
     "gojq-zsh-completion": "gojq",
     "golangci-lint": "golangci-lint",

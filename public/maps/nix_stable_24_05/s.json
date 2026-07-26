@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "s",
-    "total_mappings": 465
+    "total_mappings": 467
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -40,6 +40,7 @@
     "safety-cli": "safety",
     "sagittarius-scheme": "sagittarius-scheme",
     "saldl": "saldl",
+    "salmon": "salmon",
     "samba": "samba",
     "samba4Full": "samba",
     "sambamba": "sambamba",
@@ -61,6 +62,7 @@
     "sbcl": "sbcl",
     "sbcl_2_4_3": "sbcl",
     "sblim-sfcc": "sblim-sfcc",
+    "sbom-utility": "sbom-utility",
     "sbt": "sbt",
     "sbt-with-scala-native": "sbt",
     "sc-im": "sc-im",
@@ -299,11 +301,11 @@
     "spice-protocol": "spice-protocol",
     "spicedb": "spicedb",
     "spicetify-cli": "spicetify-cli",
-    "spidermonkey": "spidermonkey@115",
-    "spidermonkey_102": "spidermonkey@115",
-    "spidermonkey_115": "spidermonkey@115",
-    "spidermonkey_78": "spidermonkey@115",
-    "spidermonkey_91": "spidermonkey@115",
+    "spidermonkey": "spidermonkey",
+    "spidermonkey_102": "spidermonkey",
+    "spidermonkey_115": "spidermonkey",
+    "spidermonkey_78": "spidermonkey",
+    "spidermonkey_91": "spidermonkey",
     "spigot": "spigot",
     "spin": "spin",
     "spiped": "spiped",

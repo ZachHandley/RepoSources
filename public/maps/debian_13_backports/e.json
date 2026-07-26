@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "e",
-    "total_mappings": 329
+    "total_mappings": 359
   },
   "mappings": {
     "elfutils": "elfutils",
@@ -291,6 +291,21 @@
     "ext4-modules-7.0.12+deb13-s390x-di": "linux-headers@6.8",
     "ext4-modules-7.0.12+deb13-sh7751r-di": "linux-headers@6.8",
     "ext4-modules-7.0.12+deb13-sparc64-di,f2fs-modules-7.0.12+deb13-alpha-generic-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-alpha-generic-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-amd64-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-arm64-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-armmp-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-loong64-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-m68k-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-parisc-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-parisc64-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-powerpc-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-powerpc64-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-powerpc64le-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-riscv64-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-s390x-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-sh7751r-di": "linux-headers@6.8",
+    "ext4-modules-7.0.13+deb13-sparc64-di,f2fs-modules-7.0.13+deb13-alpha-generic-di": "linux-headers@6.8",
     "ext4-modules-7.0.4+deb13-alpha-generic-di": "linux-headers@6.8",
     "ext4-modules-7.0.4+deb13-amd64-di": "linux-headers@6.8",
     "ext4-modules-7.0.4+deb13-arm64-di": "linux-headers@6.8",
@@ -335,6 +350,21 @@
     "ext4-modules-7.0.9+deb13-riscv64-di": "linux-headers@6.8",
     "ext4-modules-7.0.9+deb13-s390x-di": "linux-headers@6.8",
     "ext4-modules-7.0.9+deb13-sh7751r-di": "linux-headers@6.8",
-    "ext4-modules-7.0.9+deb13-sparc64-di": "linux-headers@6.8"
+    "ext4-modules-7.0.9+deb13-sparc64-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-alpha-generic-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-amd64-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-arm64-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-armmp-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-loong64-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-m68k-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-parisc-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-parisc64-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-powerpc-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-powerpc64-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-powerpc64le-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-riscv64-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-s390x-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-sh7751r-di": "linux-headers@6.8",
+    "ext4-modules-7.1.3+deb13-sparc64-di": "linux-headers@6.8"
   }
 }

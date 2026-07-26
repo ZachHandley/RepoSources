@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "b",
-    "total_mappings": 361
+    "total_mappings": 359
   },
   "mappings": {
     "babelfish": "babelfish",
@@ -119,9 +119,6 @@
     "bcoin-git": "bcoin",
     "bcpp": "bcpp",
     "bde": "bde",
-    "beads": "beads",
-    "beads-bin": "beads",
-    "beads-git": "beads",
     "beagle-lib": "beagle",
     "beagle-lib-all": "beagle",
     "beagle-lib-cuda": "beagle",
@@ -291,8 +288,8 @@
     "botan-git": "botan@2",
     "botan1.10": "botan@2",
     "botan2": "botan@2",
-    "botan2.19": "botan@2",
     "bottom-git": "bottom",
+    "bottom-nightly-bin": "bottom",
     "bower-mail": "bower-mail",
     "bower-mail-git": "bower-mail",
     "bowtie2": "bowtie2",
@@ -304,6 +301,7 @@
     "bpf-unknown-none-gcc": "gcc@15",
     "bpm-tools": "bpm-tools",
     "bpytop-git": "bpytop",
+    "bracken": "bracken",
     "brainfuck": "brainfuck",
     "brename": "brename",
     "brename-bin": "brename",

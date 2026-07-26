@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "w",
-    "total_mappings": 142
+    "total_mappings": 146
   },
   "mappings": {
     "WiiUse": "wiiuse",
@@ -38,10 +38,13 @@
     "wasm-bindgen-cli_0_2_118": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_120": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_121": "wasm-bindgen",
+    "wasm-bindgen-cli_0_2_122": "wasm-bindgen",
+    "wasm-bindgen-cli_0_2_125": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_126": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_93": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_95": "wasm-bindgen",
     "wasm-bindgen-cli_0_2_99": "wasm-bindgen",
+    "wasm-component-ld": "wasm-component-ld",
     "wasm-pack": "wasm-pack",
     "wasm-tools": "wasm-tools",
     "wasmedge": "wasmedge",
@@ -88,6 +91,7 @@
     "wgetpaste": "wgetpaste",
     "wgo": "wgo",
     "wgpu-native": "wgpu-native",
+    "wgsl-analyzer": "wgsl-analyzer",
     "when": "when",
     "which": "gnu-which",
     "whisper-cpp": "whisper-cpp",
@@ -99,6 +103,7 @@
     "wifitui": "wifitui",
     "wiggle": "wiggle",
     "wiiuse": "wiiuse",
+    "wild-unwrapped": "wild",
     "wildmidi": "wildmidi",
     "wimlib": "wimlib",
     "windows.mingw_w64": "mingw-w64",
@@ -130,7 +135,6 @@
     "wormhole-william": "wormhole-william",
     "wp-cli": "wp-cli",
     "wpebackend-fdo": "wpebackend-fdo",
-    "wrangler": "wrangler",
     "write-good": "write-good",
     "wrk": "wrk",
     "wrkflw": "wrkflw",

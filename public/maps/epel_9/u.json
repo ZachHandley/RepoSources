@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "u",
-    "total_mappings": 181
+    "total_mappings": 183
   },
   "mappings": {
     "uboot-tools": "u-boot-tools",
@@ -145,6 +145,8 @@
     "uwsgi-plugin-python312-gevent": "uwsgi",
     "uwsgi-plugin-python313": "uwsgi",
     "uwsgi-plugin-python313-gevent": "uwsgi",
+    "uwsgi-plugin-python314": "uwsgi",
+    "uwsgi-plugin-python314-gevent": "uwsgi",
     "uwsgi-plugin-rack": "uwsgi",
     "uwsgi-plugin-rbthreads": "uwsgi",
     "uwsgi-plugin-rpc": "uwsgi",

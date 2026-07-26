@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "j",
@@ -90,7 +90,7 @@
     "java-21-openjdk-static-libs-slowdebug": "openjdk@25",
     "java-gdcm": "gdcm",
     "java-graphviz": "graphviz",
-    "java-hdf5": "hdf5@1.10",
+    "java-hdf5": "hdf5",
     "java-plplot": "plplot",
     "java-z3": "z3",
     "javacc": "javacc",

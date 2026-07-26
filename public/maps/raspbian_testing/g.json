@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "g",
-    "total_mappings": 2196
+    "total_mappings": 2203
   },
   "mappings": {
     "g++-10": "gcc@15",
@@ -712,6 +712,7 @@
     "gcr": "gcr",
     "gcr4": "gcr",
     "gcr4-tests": "gcr",
+    "gcx": "gcx",
     "gdal": "gdal",
     "gdal-bin": "gdal",
     "gdal-data": "gdal",
@@ -1248,7 +1249,6 @@
     "gitlab-ci-multi-runner": "gitlab-runner",
     "gitlab-runner": "gitlab-runner",
     "gitleaks": "gitleaks",
-    "gitless": "gitless",
     "gitlint": "gitlint",
     "gitsign": "gitsign",
     "gittuf": "gittuf",
@@ -1945,6 +1945,10 @@
     "golang-1.26-doc": "go@1.25",
     "golang-1.26-go": "go@1.25",
     "golang-1.26-src": "go@1.25",
+    "golang-1.27": "go@1.25",
+    "golang-1.27-doc": "go@1.25",
+    "golang-1.27-go": "go@1.25",
+    "golang-1.27-src": "go@1.25",
     "golang-1.6": "go@1.25",
     "golang-1.6-doc": "go@1.25",
     "golang-1.6-go": "go@1.25",
@@ -1968,6 +1972,7 @@
     "golang-filippo-age-dev": "age",
     "golang-github-alecthomas-chroma": "chroma",
     "golang-github-alecthomas-chroma-dev": "chroma",
+    "golang-github-arduino-arduino-cli-dev": "arduino-cli",
     "golang-github-awslabs-amazon-ecr-credential-helper-dev": "docker-credential-helper-ecr",
     "golang-github-benhoyt-goawk-dev": "goawk",
     "golang-github-canonical-lxd-dev": "lxc",
@@ -2143,6 +2148,8 @@
     "gsoap-doc": "gsoap",
     "gspell": "gspell",
     "gspell-1-tests": "gspell",
+    "gss-ntlmssp": "gss-ntlmssp",
+    "gss-ntlmssp-dev": "gss-ntlmssp",
     "gssdp": "gssdp",
     "gssdp-tools": "gssdp",
     "gstreamer1.0": "gstreamer",

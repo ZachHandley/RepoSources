@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_20",
     "shard": "o",
@@ -101,10 +101,10 @@
     "opencsg": "opencsg",
     "opencsg-dev": "opencsg",
     "opencsg-example": "opencsg",
-    "opencv": "opencv",
-    "opencv-dbg": "opencv",
-    "opencv-dev": "opencv",
-    "opencv-doc": "opencv",
+    "opencv": "opencv@4",
+    "opencv-dbg": "opencv@4",
+    "opencv-dev": "opencv@4",
+    "opencv-doc": "opencv@4",
     "opendbx": "opendbx",
     "opendbx-backend-mysql": "opendbx",
     "opendbx-backend-postgres": "opendbx",

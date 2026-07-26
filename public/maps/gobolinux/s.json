@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "s",
@@ -64,7 +64,7 @@
     "Speex": "speex",
     "SpeexDSP": "speexdsp",
     "Spice-GTK": "spice-gtk",
-    "SpiderMonkey": "spidermonkey@115",
+    "SpiderMonkey": "spidermonkey",
     "Spim": "spim",
     "Spin": "spin",
     "Splint": "splint",

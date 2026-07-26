@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "manjaro_unstable",
     "shard": "m",
-    "total_mappings": 169
+    "total_mappings": 170
   },
   "mappings": {
     "m4": "m4",
@@ -43,6 +43,7 @@
     "marked": "marked",
     "marksman": "marksman",
     "markuplinkchecker": "mlc",
+    "marmite": "marmite",
     "masscan": "masscan",
     "mat2": "mat2",
     "matterbridge": "matterbridge",

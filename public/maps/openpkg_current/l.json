@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "l",
-    "total_mappings": 146
+    "total_mappings": 145
   },
   "mappings": {
     "lame": "lame",
     "lapack": "lapack",
     "latex2html": "latex2html",
     "lazygit": "lazygit",
-    "lbzip2": "lbzip2",
     "lcdf-typetools": "lcdf-typetools",
     "lcms": "little-cms2",
     "ldapvi": "ldapvi",

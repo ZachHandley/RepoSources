@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "o",
-    "total_mappings": 206
+    "total_mappings": 208
   },
   "mappings": {
     "oak": "oak",
@@ -80,6 +80,7 @@
     "opam": "opam",
     "open-adventure": "open-adventure",
     "open62541": "open62541",
+    "openai-whisper": "openai-whisper",
     "openal": "openal-soft",
     "openal-soft": "openal-soft",
     "openapi-tui": "openapi-tui",
@@ -103,9 +104,9 @@
     "openconnect_openssl": "openconnect",
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
-    "opencv": "opencv",
-    "opencv4": "opencv",
-    "opencv4WithoutCuda": "opencv",
+    "opencv": "opencv@4",
+    "opencv4": "opencv@4",
+    "opencv4WithoutCuda": "opencv@4",
     "opendbx": "opendbx",
     "opendht": "opendht",
     "openexr": "openexr",
@@ -207,6 +208,7 @@
     "ov": "ov",
     "overmind": "overmind",
     "overturemaps": "overturemaps",
+    "ovh-ttyrec": "ovh-ttyrec",
     "owamp": "owamp",
     "ox": "ox",
     "oxfmt": "oxfmt",

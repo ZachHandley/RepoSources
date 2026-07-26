@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openeuler_25_03",
     "shard": "m",
@@ -167,10 +167,10 @@
     "motif-debugsource": "openmotif",
     "motif-devel": "openmotif",
     "motif-help": "openmotif",
-    "mozjs102": "spidermonkey@115",
-    "mozjs102-debuginfo": "spidermonkey@115",
-    "mozjs102-debugsource": "spidermonkey@115",
-    "mozjs102-devel": "spidermonkey@115",
+    "mozjs102": "spidermonkey",
+    "mozjs102-debuginfo": "spidermonkey",
+    "mozjs102-debugsource": "spidermonkey",
+    "mozjs102-devel": "spidermonkey",
     "mpeg2dec": "libmpeg2",
     "mpfr": "mpfr",
     "mpfr-debuginfo": "mpfr",

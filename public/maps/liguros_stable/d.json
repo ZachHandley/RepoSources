@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "d",
-    "total_mappings": 1078
+    "total_mappings": 1079
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -194,6 +194,7 @@
     "dev-embedded/gpsim": "gpsim",
     "dev-embedded/gputils": "gputils",
     "dev-embedded/libftdi": "libftdi",
+    "dev-embedded/libjaylink": "libjaylink",
     "dev-embedded/lpc21isp": "lpc21isp",
     "dev-embedded/minipro": "minipro",
     "dev-embedded/mspdebug": "mspdebug",
@@ -317,7 +318,7 @@
     "dev-lang/scala-bin": "scala@3.3",
     "dev-lang/smlnj": "smlnj",
     "dev-lang/souffle": "souffle",
-    "dev-lang/spidermonkey": "spidermonkey@115",
+    "dev-lang/spidermonkey": "spidermonkey",
     "dev-lang/swi-prolog": "swi-prolog",
     "dev-lang/swift": "swift",
     "dev-lang/swig": "swig",

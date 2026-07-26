@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "p",
-    "total_mappings": 910
+    "total_mappings": 912
   },
   "mappings": {
     "p0f": "p0f",
@@ -147,10 +147,11 @@
     "perl-doc": "perl",
     "perl-modules-5.40": "perl",
     "perlmagick": "imagemagick@6",
+    "perlnavigator": "perlnavigator",
     "perltidy": "perltidy",
     "petsc": "petsc",
     "petsc-dev": "petsc",
-    "petsc3.24-doc": "petsc",
+    "petsc3.25-doc": "petsc",
     "petsc64-dev": "petsc",
     "pg-cron": "pg_cron",
     "pg-partman": "pg_partman",
@@ -434,6 +435,7 @@
     "proxychains4": "proxychains-ng",
     "proxytrack": "httrack",
     "proxytunnel": "proxytunnel",
+    "prrte": "prrte",
     "prs": "prs",
     "ps2eps": "ps2eps",
     "psftools": "psftools",
@@ -664,6 +666,7 @@
     "python3-eyed3": "eye-d3",
     "python3-fabric": "fabric",
     "python3-faiss": "faiss",
+    "python3-fake-factory": "faker",
     "python3-fastapi": "fastapi",
     "python3-fava": "fava",
     "python3-fiona": "fiona",
@@ -776,7 +779,7 @@
     "python3-onnxruntime": "onnxruntime",
     "python3-openbabel": "open-babel",
     "python3-opencc": "opencc",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-opendht": "opendht",
     "python3-openimageio": "openimageio",
     "python3-openturns": "openturns",
@@ -838,7 +841,6 @@
     "python3-seccomp": "libseccomp",
     "python3-selinux": "libselinux",
     "python3-sentencepiece": "sentencepiece",
-    "python3-simgrid": "simgrid",
     "python3-sip": "sip",
     "python3-sip-dev": "sip",
     "python3-sipbuild": "sip",

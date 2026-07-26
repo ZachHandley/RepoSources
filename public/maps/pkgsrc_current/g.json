@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "g",
-    "total_mappings": 540
+    "total_mappings": 542
   },
   "mappings": {
     "GMT": "gmt",
@@ -151,6 +151,7 @@
     "gffread": "gffread",
     "gflags": "gflags",
     "gforth": "gforth",
+    "ggml": "ggml",
     "gh": "gh",
     "ghc": "ghc",
     "ghex": "ghex",
@@ -431,8 +432,8 @@
     "graphics/ocrad": "ocrad",
     "graphics/opencolorio": "opencolorio",
     "graphics/opencsg": "opencsg",
-    "graphics/opencv": "opencv",
-    "graphics/opencv-contrib-face": "opencv",
+    "graphics/opencv": "opencv@4",
+    "graphics/opencv-contrib-face": "opencv@4",
     "graphics/openexr": "openexr",
     "graphics/openimageio": "openimageio",
     "graphics/openjpeg": "openjpeg",
@@ -469,6 +470,7 @@
     "graphics/raqm": "libraqm",
     "graphics/resvg": "resvg",
     "graphics/sane-backends": "sane-backends",
+    "graphics/shaderc": "shaderc",
     "graphics/silgraphite": "graphite2",
     "graphics/silgraphite-ft": "graphite2",
     "graphics/silgraphite-xft": "graphite2",

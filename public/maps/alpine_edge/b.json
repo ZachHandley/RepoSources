@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "b",
-    "total_mappings": 417
+    "total_mappings": 421
   },
   "mappings": {
     "b2-tools": "b2-tools",
@@ -234,8 +234,12 @@
     "bogofilter-doc": "bogofilter",
     "bombadillo": "bombadillo",
     "bombadillo-doc": "bombadillo",
+    "bomctl": "bomctl",
+    "bomctl-bash-completion": "bomctl",
+    "bomctl-fish-completion": "bomctl",
+    "bomctl-zsh-completion": "bomctl",
     "boost-build": "boost-build",
-    "boost-build-doc": "boost-build",
+    "boost-build-doc": "boost@1.85",
     "boost-dev": "boost",
     "boost1.84": "boost@1.85",
     "boost1.84-atomic": "boost@1.85",

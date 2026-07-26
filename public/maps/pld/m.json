@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "m",
@@ -79,9 +79,9 @@
     "mosquitto": "mosquitto",
     "most": "most",
     "motif": "openmotif",
-    "mozjs115": "spidermonkey@115",
-    "mozjs128": "spidermonkey@115",
-    "mozjs140": "spidermonkey@115",
+    "mozjs115": "spidermonkey",
+    "mozjs128": "spidermonkey",
+    "mozjs140": "spidermonkey",
     "mp3blaster": "mp3blaster",
     "mp3gain": "mp3gain",
     "mp3info": "mp3info",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "s",
-    "total_mappings": 96
+    "total_mappings": 97
   },
   "mappings": {
     "S-Lang": "s-lang",
@@ -52,7 +52,7 @@
     "SpeexDSP": "speexdsp",
     "Spek": "spek",
     "Sphinx": "sphinx-doc",
-    "SpiderMonkey": "spidermonkey@115",
+    "SpiderMonkey": "spidermonkey",
     "Splint": "splint",
     "Squid": "squid",
     "Standard ML of New Jersey": "smlnj",
@@ -93,6 +93,7 @@
     "sshguard": "sshguard",
     "sshpass": "sshpass",
     "sslh": "sslh",
+    "steamguard-cli": "steamguard-cli",
     "strace": "strace",
     "streamlink": "streamlink",
     "strongSwan": "strongswan",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "j",
@@ -13,7 +13,7 @@
     "jack-audio-connection-kit-debugsource": "jack",
     "jack-audio-connection-kit-devel": "jack",
     "jack-audio-connection-kit-example-clients": "jack",
-    "java-hdf5": "hdf5@1.10",
+    "java-hdf5": "hdf5",
     "java-z3": "z3",
     "javacc": "javacc",
     "javacc-demo": "javacc",

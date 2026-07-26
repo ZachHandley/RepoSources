@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "c",
-    "total_mappings": 81
+    "total_mappings": 84
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -23,6 +23,7 @@
     "cargo-binstall": "cargo-binstall",
     "cargo-c": "cargo-c",
     "cargo-cache": "cargo-cache",
+    "catch2": "catch2",
     "catgirl": "catgirl",
     "catimg": "catimg",
     "cava": "cava",
@@ -34,6 +35,7 @@
     "ccrypt": "ccrypt",
     "cdk": "cdk",
     "cfengine": "cfengine",
+    "cfitsio": "cfitsio",
     "cgal": "cgal",
     "cgdb": "cgdb",
     "cgif": "cgif",
@@ -73,6 +75,7 @@
     "cpio": "cpio",
     "cppcheck": "cppcheck",
     "cppi": "cppi",
+    "cpptrace": "cpptrace",
     "cppunit": "cppunit",
     "cpufetch": "cpufetch",
     "cpulimit": "cpulimit",

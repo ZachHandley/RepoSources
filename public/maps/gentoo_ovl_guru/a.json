@@ -1,20 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "a",
-    "total_mappings": 92
+    "total_mappings": 90
   },
   "mappings": {
     "app-accessibility/mimic1": "mimic",
     "app-accessibility/whisper-cpp": "whisper-cpp",
-    "app-admin/aws-vault": "aws-vault",
     "app-admin/chamber": "chamber",
     "app-admin/chezmoi": "chezmoi",
     "app-admin/dotbot": "dotbot",
     "app-admin/git-credential-oauth": "git-credential-oauth",
-    "app-admin/overmind": "overmind",
     "app-admin/rbw": "rbw",
     "app-admin/talosctl-bin": "talosctl",
     "app-admin/terragrunt-bin": "terragrunt",

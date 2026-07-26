@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "l",
-    "total_mappings": 1838
+    "total_mappings": 1840
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -43,7 +43,6 @@
     "latex2html": "latex2html",
     "latex2rtf": "latex2rtf",
     "lbdb": "lbdb",
-    "lbzip2": "lbzip2",
     "lcdproc": "lcdproc",
     "lcms": "little-cms2",
     "lcms-devel": "little-cms2",
@@ -657,6 +656,7 @@
     "libgensio-devel": "gensio",
     "libgensio-ipmisol": "gensio",
     "libgensio-mdns": "gensio",
+    "libgensio-soapy": "gensio",
     "libgensio-sound": "gensio",
     "libgensio-tcl": "gensio",
     "libgeotiff": "libgeotiff",
@@ -770,6 +770,8 @@
     "libitm-static": "gcc@15",
     "libjalali": "jcal",
     "libjalali-devel": "jcal",
+    "libjaylink": "libjaylink",
+    "libjaylink-devel": "libjaylink",
     "libjcat": "libjcat",
     "libjcat-devel": "libjcat",
     "libjcat-tests": "libjcat",
@@ -1194,6 +1196,7 @@
     "libscrypt-devel": "libscrypt",
     "libseccomp": "libseccomp",
     "libseccomp-devel": "libseccomp",
+    "libseccomp-python": "libseccomp",
     "libseccomp-static": "libseccomp",
     "libsecp256k1": "secp256k1",
     "libsecp256k1-devel": "secp256k1",
@@ -1306,7 +1309,6 @@
     "libstatgrab": "libstatgrab",
     "libstatgrab-devel": "libstatgrab",
     "libstatgrab-examples": "libstatgrab",
-    "libstatgrab-tools-compat": "libstatgrab",
     "libstdc++": "gcc@15",
     "libstdc++-devel": "gcc@15",
     "libstdc++-docs": "gcc@15",

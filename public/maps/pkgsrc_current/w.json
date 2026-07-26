@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "w",
@@ -32,7 +32,6 @@
     "wgetpaste": "wgetpaste",
     "widelands": "widelands",
     "wimlib": "wimlib",
-    "wiredtiger": "wiredtiger",
     "wireguard-go": "wireguard-go",
     "wireguard-tools": "wireguard-tools",
     "wireshark": "wireshark",
@@ -63,6 +62,7 @@
     "www/apache-tomcat9": "tomcat@10",
     "www/apache24": "httpd",
     "www/apachetop": "apachetop",
+    "www/blogc": "blogc",
     "www/bozohttpd": "bozohttpd",
     "www/cadaver": "cadaver",
     "www/caddy": "caddy",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "d",
@@ -86,8 +86,8 @@
     "drm-core-modules-6.18.31-powerpc64le-di": "linux-headers@6.8",
     "drm-core-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "drm-core-modules-6.18.31-sparc64-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.35-amd64-di": "linux-headers@6.8",
-    "drm-core-modules-6.18.35-armmp-di": "linux-headers@6.8",
+    "drm-core-modules-6.18.38-amd64-di": "linux-headers@6.8",
+    "drm-core-modules-6.18.38-armmp-di": "linux-headers@6.8",
     "dselect": "dpkg",
     "duktape": "duktape",
     "duktape-dev": "duktape",

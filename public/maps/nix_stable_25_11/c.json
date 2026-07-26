@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "c",
-    "total_mappings": 442
+    "total_mappings": 444
   },
   "mappings": {
     "CUnit": "cunit",
@@ -168,6 +168,7 @@
     "checkmake": "checkmake",
     "checkov": "checkov",
     "checkpwn": "checkpwn",
+    "checksec": "checksec",
     "checkstyle": "checkstyle",
     "cherrytree": "cherrytree",
     "chez": "chezscheme",
@@ -436,6 +437,7 @@
     "curlpp": "curlpp",
     "curseofwar": "curseofwar",
     "curseofwar-sdl": "curseofwar",
+    "cve-bin-tool": "cve-bin-tool",
     "cvs": "cvs",
     "cvs-fast-export": "cvs-fast-export",
     "cxxopts": "cxxopts",

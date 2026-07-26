@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "a",
-    "total_mappings": 56
+    "total_mappings": 57
   },
   "mappings": {
     "AppStream": "appstream",
@@ -32,6 +32,7 @@
     "application/management/zabbix-proxy": "zabbix",
     "application/management/zabbix-server": "zabbix",
     "application/wxmaxima": "wxmaxima",
+    "application/zoxide": "zoxide",
     "appstream-glib": "appstream-glib",
     "apr": "apr",
     "apr-util": "apr-util",

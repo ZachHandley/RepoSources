@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_7",
     "shard": "m",
@@ -52,7 +52,7 @@
     "mosh": "mosh",
     "mosquitto": "mosquitto",
     "most": "most",
-    "mozjs38": "spidermonkey@115",
+    "mozjs38": "spidermonkey",
     "mp3fs": "mp3fs",
     "mp3gain": "mp3gain",
     "mpdecimal": "mpdecimal",

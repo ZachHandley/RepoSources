@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "t",
-    "total_mappings": 385
+    "total_mappings": 389
   },
   "mappings": {
     "t-rec": "t-rec",
@@ -36,7 +36,6 @@
     "tartufo": "tartufo",
     "task-git": "task",
     "task-spooler": "task-spooler",
-    "taskd-git": "taskd",
     "taskflow": "taskflow",
     "taskflow-git": "taskflow",
     "taskline": "taskline",
@@ -65,6 +64,7 @@
     "tdl-git": "telegram-downloader",
     "tdom": "tdom",
     "tealdeer-git": "tealdeer",
+    "teamtype-git": "teamtype",
     "tectonic-git": "tectonic",
     "teem": "teem",
     "teem-svn": "teem",
@@ -221,6 +221,7 @@
     "tmpmail-git": "tmpmail",
     "tmpreaper": "tmpreaper",
     "tmpwatch": "tmpwatch",
+    "tmux-fingers": "tmux-fingers",
     "tmux-git": "tmux",
     "tmux-mem-cpu-load": "tmux-mem-cpu-load",
     "tmux-mem-cpu-load-git": "tmux-mem-cpu-load",
@@ -232,6 +233,7 @@
     "tmuxinator": "tmuxinator",
     "tnef": "tnef",
     "tnftpd": "tnftpd",
+    "toast": "toast",
     "toast-bin": "toast",
     "tock-bin": "tock",
     "todoman-git": "todoman",
@@ -266,6 +268,7 @@
     "torsocks-git": "torsocks",
     "toxcore-c": "toxcore",
     "toxcore-git": "toxcore",
+    "tpack": "tpack",
     "tpack-bin": "tpack",
     "tpl-git": "tpl",
     "tpm": "tpm",
@@ -305,6 +308,7 @@
     "treefmt": "treefmt",
     "trezor-bridge-bin": "trezor-bridge",
     "triangle-bin": "triangle",
+    "trim_galore": "trim-galore",
     "trimal": "trimal",
     "triton": "triton",
     "triton-git": "triton",

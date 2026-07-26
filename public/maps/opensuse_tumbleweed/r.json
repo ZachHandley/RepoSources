@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "r",
-    "total_mappings": 466
+    "total_mappings": 476
   },
   "mappings": {
     "R-KernSmooth": "r",
@@ -298,6 +298,11 @@
     "rpm-debuginfo": "rpm",
     "rpm-debugsource": "rpm",
     "rpm-devel": "rpm",
+    "rpm-plugin-fapolicyd": "rpm",
+    "rpm-plugin-ima": "rpm",
+    "rpm-plugin-prioreset": "rpm",
+    "rpm-plugin-selinux": "rpm",
+    "rpm-plugin-syslog": "rpm",
     "rpm-plugin-unshare": "rpm",
     "rqlite": "rqlite",
     "rqlite-debuginfo": "rqlite",
@@ -317,6 +322,7 @@
     "rsyslog": "rsyslog",
     "rsyslog-debuginfo": "rsyslog",
     "rsyslog-debugsource": "rsyslog",
+    "rsyslog-devel": "rsyslog",
     "rsyslog-diag-tools": "rsyslog",
     "rsyslog-doc": "rsyslog",
     "rsyslog-module-elasticsearch": "rsyslog",
@@ -455,6 +461,10 @@
     "rust1.96-debuginfo": "rust",
     "rust1.96-debugsource": "rust",
     "rust1.96-src": "rust",
+    "rust1.97": "rust",
+    "rust1.97-debuginfo": "rust",
+    "rust1.97-debugsource": "rust",
+    "rust1.97-src": "rust",
     "rustscan": "rustscan",
     "rustscan-debuginfo": "rustscan",
     "rustscan-debugsource": "rustscan",

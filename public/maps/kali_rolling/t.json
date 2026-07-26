@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "t",
-    "total_mappings": 364
+    "total_mappings": 365
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -56,7 +56,6 @@
     "telnetd": "inetutils",
     "template-glib": "template-glib",
     "tensorflow": "libtensorflow",
-    "termbox": "termbox",
     "terminator": "terminator",
     "termrec": "termrec",
     "tesseract": "tesseract",
@@ -346,6 +345,7 @@
     "tree-sitter-go-src": "tree-sitter-go",
     "tree-sitter-ruby": "tree-sitter-ruby",
     "tree-sitter-ruby-src": "tree-sitter-ruby",
+    "trim-galore": "trim-galore",
     "trivy": "trivy",
     "truecrack": "truecrack",
     "trufflehog": "trufflehog",
@@ -361,6 +361,7 @@
     "tty-solitaire": "tty-solitaire",
     "ttygif": "ttygif",
     "ttyplot": "ttyplot",
+    "ttyrec": "ovh-ttyrec",
     "tup": "tup",
     "tweak": "tweak",
     "twine": "twine",

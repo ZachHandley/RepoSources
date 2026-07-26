@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_40",
     "shard": "r",
-    "total_mappings": 108
+    "total_mappings": 117
   },
   "mappings": {
     "rio": "rio-terminal",
@@ -17,6 +17,10 @@
     "rioterm-debuginfo": "rio-terminal",
     "rioterm-debugsource": "rio-terminal",
     "rmz": "fuc",
+    "rust-bandwhich": "bandwhich",
+    "rust-bandwhich-debugsource": "bandwhich",
+    "rust-bottom": "bottom",
+    "rust-bottom-debugsource": "bottom",
     "rust-gping": "gping",
     "rust-gping+default-devel": "gping",
     "rust-gping-debugsource": "gping",
@@ -24,6 +28,11 @@
     "rust-joshuto": "joshuto",
     "rust-joshuto-debugsource": "joshuto",
     "rust-kondo": "kondo",
+    "rust-onefetch": "onefetch",
+    "rust-onefetch+default-devel": "onefetch",
+    "rust-onefetch+fail-on-deprecated-devel": "onefetch",
+    "rust-onefetch-debugsource": "onefetch",
+    "rust-onefetch-devel": "onefetch",
     "rust-ouch": "ouch",
     "rust-ouch-debugsource": "ouch",
     "rust-oxipng": "oxipng",

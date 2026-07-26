@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "w",
-    "total_mappings": 35
+    "total_mappings": 36
   },
   "mappings": {
     "w3m": "w3m",
     "waffle": "waffle",
     "wasi-libc": "wasi-libc",
     "wasm-component-ld": "wasm-component-ld",
+    "wasm-tools": "wasm-tools",
     "wavpack": "wavpack",
     "wayland": "wayland",
     "wayland-docs": "wayland",

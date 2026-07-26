@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "p",
-    "total_mappings": 1202
+    "total_mappings": 1208
   },
   "mappings": {
     "PDAL": "pdal",
@@ -681,6 +681,9 @@
     "proxygen-devel": "proxygen",
     "proxygen-libs": "proxygen",
     "proxytunnel": "proxytunnel",
+    "prrte": "prrte",
+    "prrte-devel": "prrte",
+    "prrte-libs": "prrte",
     "psftools": "psftools",
     "pskctool": "oath-toolkit",
     "psl": "libpsl",
@@ -1005,6 +1008,7 @@
     "python3-lsp-server": "python-lsp-server",
     "python3-lsp-server+all": "python-lsp-server",
     "python3-lttngust": "lttng-ust",
+    "python3-manifold3d": "manifold",
     "python3-mapserver": "mapserver",
     "python3-marisa": "marisa",
     "python3-markdown": "python-markdown",
@@ -1045,7 +1049,7 @@
     "python3-onnx": "onnx",
     "python3-onnxruntime": "onnxruntime",
     "python3-openbabel": "open-babel",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-openimageio": "openimageio",
     "python3-openmpi": "open-mpi",
     "python3-openvdb": "openvdb",
@@ -1089,6 +1093,8 @@
     "python3-restview": "restview",
     "python3-robotframework": "robot-framework",
     "python3-root": "root",
+    "python3-root+distrdf": "root",
+    "python3-root+jupyroot": "root",
     "python3-rpm": "rpm",
     "python3-rpmspectool": "rpmspectool",
     "python3-rrdtool": "rrdtool",

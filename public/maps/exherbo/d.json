@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "d",
@@ -331,7 +331,7 @@
     "dev-libs/skalibs": "skalibs",
     "dev-libs/sord": "sord",
     "dev-libs/spdlog": "spdlog",
-    "dev-libs/spidermonkey": "spidermonkey@115",
+    "dev-libs/spidermonkey": "spidermonkey",
     "dev-libs/sword": "sword",
     "dev-libs/talloc": "talloc",
     "dev-libs/tclap": "tclap",

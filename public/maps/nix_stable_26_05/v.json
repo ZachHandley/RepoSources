@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "v",
-    "total_mappings": 124
+    "total_mappings": 125
   },
   "mappings": {
     "Vc": "vc",
@@ -76,6 +76,7 @@
     "vips_8_17": "vips",
     "vipsdisp": "vipsdisp",
     "virt-manager": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "virtualenv": "virtualenv",
     "virtualenvwrapper": "virtualenvwrapper",
     "virtualpg": "virtualpg",

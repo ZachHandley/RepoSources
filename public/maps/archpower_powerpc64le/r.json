@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "r",
-    "total_mappings": 69
+    "total_mappings": 70
   },
   "mappings": {
     "r": "r",
@@ -30,6 +30,7 @@
     "redland-storage-virtuoso": "redland",
     "redshift": "redshift",
     "rest": "librest",
+    "reuse": "reuse",
     "rhash": "rhash",
     "rhino": "rhino",
     "rhino-javadoc": "rhino",
@@ -72,7 +73,7 @@
     "rust-analyzer": "rust-analyzer",
     "rust-docs": "rust",
     "rust-src": "rust",
-    "rust-wasm": "rust",
+    "rust-wasm": "rust-wasm",
     "rustup": "rustup",
     "rxvt-unicode": "rxvt-unicode",
     "rxvt-unicode-terminfo": "rxvt-unicode"

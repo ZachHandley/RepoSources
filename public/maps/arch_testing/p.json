@@ -1,21 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "p",
-    "total_mappings": 10
+    "total_mappings": 7
   },
   "mappings": {
+    "pkgconf": "pkgconf",
     "plantuml": "plantuml",
     "podman": "podman",
     "podman-docker": "podman",
+    "pre-commit": "pre-commit",
     "python-onnx": "onnx",
-    "python-onnxruntime-cpu": "onnxruntime",
-    "python-onnxruntime-cuda": "onnxruntime",
-    "python-onnxruntime-opt-cuda": "onnxruntime",
-    "python-onnxruntime-opt-rocm": "onnxruntime",
-    "python-onnxruntime-rocm": "onnxruntime",
-    "python-pivy": "pivy"
+    "python-virtualenv": "virtualenv"
   }
 }

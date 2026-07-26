@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "g",
-    "total_mappings": 470
+    "total_mappings": 474
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -50,6 +50,7 @@
     "games/moon-buggy": "moon-buggy",
     "games/nethack/3.4": "nethack",
     "games/nethack/3.6": "nethack",
+    "games/nethack/5.0": "nethack",
     "games/netris": "netris",
     "games/nsnake": "nsnake",
     "games/nudoku": "nudoku",
@@ -108,6 +109,7 @@
     "geo/eccodes": "eccodes",
     "geo/gdal": "gdal",
     "geo/geocode-glib": "geocode-glib",
+    "geo/geographiclib": "geographiclib",
     "geo/geos": "geos",
     "geo/gpsbabel": "gpsbabel",
     "geo/libosmium": "libosmium",
@@ -123,6 +125,7 @@
     "geo/osrm-backend": "osrm-backend",
     "geo/pdal": "pdal",
     "geo/pgrouting": "pgrouting",
+    "geo/pmtiles": "pmtiles",
     "geo/postgis": "postgis",
     "geo/sfcgal": "sfcgal",
     "geo/spatialindex": "spatialindex",
@@ -134,6 +137,7 @@
     "geo/spatialite/tools": "spatialite-tools",
     "geo/spatialite/virtualpg": "virtualpg",
     "geocode-glib2": "geocode-glib",
+    "geographiclib": "geographiclib",
     "geomview": "geomview",
     "geos": "geos",
     "gerbil": "gerbil-scheme",
@@ -363,7 +367,7 @@
     "graphics/ocrad": "ocrad",
     "graphics/opencolorio": "opencolorio",
     "graphics/opencsg": "opencsg",
-    "graphics/opencv": "opencv",
+    "graphics/opencv": "opencv@4",
     "graphics/openexr": "openexr",
     "graphics/openimageio": "openimageio",
     "graphics/openjp2": "openjpeg",

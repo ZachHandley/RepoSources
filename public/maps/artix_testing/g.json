@@ -1,14 +1,36 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "g",
-    "total_mappings": 3
+    "total_mappings": 25
   },
   "mappings": {
-    "glib2": "glib",
-    "glib2-devel": "glib",
-    "glib2-docs": "glib"
+    "gitea-runner": "gitea-runner",
+    "gst-devtools": "gstreamer",
+    "gst-devtools-libs": "gstreamer",
+    "gst-editing-services": "gstreamer",
+    "gst-libav": "gstreamer",
+    "gst-plugin-gtk": "gstreamer",
+    "gst-plugin-hip": "gstreamer",
+    "gst-plugin-msdk": "gstreamer",
+    "gst-plugin-opencv": "gstreamer",
+    "gst-plugin-qml6": "gstreamer",
+    "gst-plugin-qmlgl": "gstreamer",
+    "gst-plugin-qsv": "gstreamer",
+    "gst-plugin-va": "gstreamer",
+    "gst-plugin-wpe": "gstreamer",
+    "gst-plugin-wpe2": "gstreamer",
+    "gst-plugins-bad": "gstreamer",
+    "gst-plugins-bad-libs": "gstreamer",
+    "gst-plugins-base": "gstreamer",
+    "gst-plugins-base-libs": "gstreamer",
+    "gst-plugins-good": "gstreamer",
+    "gst-plugins-ugly": "gstreamer",
+    "gst-python": "gstreamer",
+    "gst-rtsp-server": "gstreamer",
+    "gstreamer": "gstreamer",
+    "gstreamer-docs": "gstreamer"
   }
 }

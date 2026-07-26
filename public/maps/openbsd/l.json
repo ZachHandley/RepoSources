@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "l",
-    "total_mappings": 479
+    "total_mappings": 480
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -36,7 +36,6 @@
     "lang/fpc": "fpc",
     "lang/gambit": "gambit-scheme",
     "lang/gawk": "gawk",
-    "lang/gcc/15": "gcc@15",
     "lang/gcc/16": "gcc@15",
     "lang/gerbil": "gerbil-scheme",
     "lang/gforth": "gforth",
@@ -240,6 +239,7 @@
     "libident": "libident",
     "libidn": "libidn",
     "libidn2": "libidn2",
+    "libigloo": "libigloo",
     "libimagequant": "libimagequant",
     "libinih": "inih",
     "libiptcdata": "libiptcdata",
@@ -359,6 +359,7 @@
     "libspectre": "libspectre",
     "libspelling": "libspelling",
     "libspiro": "libspiro",
+    "libspnav": "libspnav",
     "libspng": "libspng",
     "libssh": "libssh",
     "libssh2": "libssh2",

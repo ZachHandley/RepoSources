@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "stalix_dev",
     "shard": "l",
@@ -284,7 +284,7 @@
     "lib/opcodes": "aarch64-elf-binutils",
     "lib/openal": "openal-soft",
     "lib/openblas": "openblas",
-    "lib/opencv": "opencv",
+    "lib/opencv": "opencv@4",
     "lib/openexr": "openexr",
     "lib/openh264": "openh264",
     "lib/openssl/3": "openssl@4",

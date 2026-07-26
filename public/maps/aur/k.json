@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "k",
-    "total_mappings": 193
+    "total_mappings": 191
   },
   "mappings": {
     "k0sctl": "k0sctl",
@@ -88,13 +88,10 @@
     "kimi-cli": "kimi-cli",
     "kimi-cli-bin": "kimi-cli",
     "kimi-code": "kimi-code",
-    "kind": "kind",
     "kind-bin": "kind",
     "kind-git": "kind",
     "kingfisher-bin": "kingfisher",
     "kissat": "kissat",
-    "klavaro-bin": "klavaro",
-    "klavaro-git": "klavaro",
     "klavaro-svn": "klavaro",
     "klee": "klee",
     "klog-time-tracker": "klog",
@@ -124,6 +121,7 @@
     "kotlin-language-server": "kotlin-language-server",
     "kotlin-language-server-bin": "kotlin-language-server",
     "kotlin-language-server-git": "kotlin-language-server",
+    "kotofetch": "kotofetch",
     "kpcli": "kpcli",
     "kraftkit": "kraftkit",
     "kraftkit-bin": "kraftkit",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "g",
-    "total_mappings": 443
+    "total_mappings": 449
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -143,6 +143,8 @@
     "git-cliff-man": "git-cliff",
     "git-cliff-zshcomp": "git-cliff",
     "git-credential-libsecret": "git",
+    "git-credential-oauth": "git-credential-oauth",
+    "git-credential-oauth-man": "git-credential-oauth",
     "git-doc": "git",
     "git-extras": "git-extras",
     "git-extras-bashcomp": "git-extras",
@@ -363,6 +365,8 @@
     "graphviz-doc": "graphviz",
     "graphviz-libs": "graphviz",
     "graphviz-man": "graphviz",
+    "grpc": "grpc",
+    "grpc-devel": "grpc",
     "grpcurl": "grpcurl",
     "grpcurl-doc": "grpcurl",
     "gsed": "gnu-sed",
@@ -449,6 +453,8 @@
     "gumbo-parser-devel-static": "gumbo-parser",
     "gupnp": "gupnp",
     "gupnp-devel": "gupnp",
-    "gupnp-devel-static": "gupnp"
+    "gupnp-devel-static": "gupnp",
+    "gurk": "gurk",
+    "gurk-doc": "gurk"
   }
 }

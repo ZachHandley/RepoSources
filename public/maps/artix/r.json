@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "r",
-    "total_mappings": 76
+    "total_mappings": 77
   },
   "mappings": {
     "r": "r",
     "rabbitmq": "rabbitmq",
     "rabbitmqadmin": "rabbitmq",
+    "radicle": "radicle",
     "ragel": "ragel",
     "range-v3": "range-v3",
     "ranger": "ranger",
@@ -79,7 +80,7 @@
     "rust-musl": "rust",
     "rust-script": "rust-script",
     "rust-src": "rust",
-    "rust-wasm": "rust",
+    "rust-wasm": "rust-wasm",
     "rustup": "rustup",
     "rxvt-unicode": "rxvt-unicode",
     "rxvt-unicode-terminfo": "rxvt-unicode"

@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_network_tumbleweed",
     "shard": "l",
-    "total_mappings": 36
+    "total_mappings": 35
   },
   "mappings": {
     "lftp": "lftp",
     "lftp-debuginfo": "lftp",
     "lftp-debugsource": "lftp",
-    "libQXmppQt6-9": "qxmpp",
+    "libQXmppQt6-10": "qxmpp",
     "libQXmppQt6-devel": "qxmpp",
     "libdavix0": "davix",
     "libdom": "libdom",
@@ -25,13 +25,12 @@
     "libnfs-debuginfo": "libnfs",
     "libnfs-debugsource": "libnfs",
     "libnfs-devel": "libnfs",
-    "libnfs14": "libnfs",
+    "libnfs16": "libnfs",
     "libolm3": "libolm",
     "libopenconnect5": "openconnect",
     "libqxmpp": "qxmpp",
     "libqxmpp-debuginfo": "qxmpp",
     "libqxmpp-debugsource": "qxmpp",
-    "libqxmpp-doc": "qxmpp",
     "libsasl2-3": "cyrus-sasl",
     "libsstp_api-0": "sstp-client",
     "links": "links",

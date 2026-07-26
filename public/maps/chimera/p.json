@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "p",
-    "total_mappings": 461
+    "total_mappings": 464
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -187,6 +187,7 @@
     "pipewire-udev": "pipewire",
     "pipx": "pipx",
     "pipx-doc": "pipx",
+    "pipx-man": "pipx",
     "pipx-pycache": "pipx",
     "pixman": "pixman",
     "pixman-devel": "pixman",
@@ -426,6 +427,8 @@
     "python-nanobind-doc": "nanobind",
     "python-nanobind-pycache": "nanobind",
     "python-numpy": "numpy",
+    "python-numpy-devel": "numpy",
+    "python-numpy-devel-static": "numpy",
     "python-numpy-doc": "numpy",
     "python-numpy-pycache": "numpy",
     "python-numpy-tests": "numpy",

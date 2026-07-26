@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "m",
-    "total_mappings": 74
+    "total_mappings": 75
   },
   "mappings": {
     "m4": "m4",
@@ -31,6 +31,7 @@
     "mbedtls2": "mbedtls@3",
     "mc": "midnight-commander",
     "md4c": "md4c",
+    "mdbook": "mdbook",
     "mdds": "mdds",
     "mednafen": "mednafen",
     "memcached": "memcached",

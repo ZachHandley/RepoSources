@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "a",
-    "total_mappings": 59
+    "total_mappings": 60
   },
   "mappings": {
     "abduco": "abduco",
@@ -49,6 +49,7 @@
     "aspcud": "aspcud",
     "aspell": "aspell",
     "assimp": "assimp@5",
+    "ast-grep": "ast-grep",
     "astyle": "astyle",
     "at-spi2-core": "at-spi2-core",
     "atf": "atf",

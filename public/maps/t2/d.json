@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "d",
-    "total_mappings": 85
+    "total_mappings": 84
   },
   "mappings": {
     "d2": "d2",
@@ -18,7 +18,6 @@
     "dav1d": "dav1d",
     "dbus": "dbus",
     "dbus-glib": "dbus-glib",
-    "dcadec": "dcadec",
     "dcmtk": "dcmtk",
     "dcraw": "dcraw",
     "ddate": "ddate",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "s",
-    "total_mappings": 910
+    "total_mappings": 913
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -47,6 +47,10 @@
     "SDL3_net-debuginfo": "sdl3_net",
     "SDL3_net-debugsource": "sdl3_net",
     "SDL3_net-devel": "sdl3_net",
+    "SDL3_sound": "sdl3_sound",
+    "SDL3_sound-debuginfo": "sdl3_sound",
+    "SDL3_sound-debugsource": "sdl3_sound",
+    "SDL3_sound-devel": "sdl3_sound",
     "SDL3_ttf": "sdl3_ttf",
     "SDL3_ttf-debuginfo": "sdl3_ttf",
     "SDL3_ttf-debugsource": "sdl3_ttf",
@@ -869,7 +873,6 @@
     "syslog-ng-geoip": "syslog-ng",
     "syslog-ng-grpc": "syslog-ng",
     "syslog-ng-http": "syslog-ng",
-    "syslog-ng-java": "syslog-ng",
     "syslog-ng-loki": "syslog-ng",
     "syslog-ng-mqtt": "syslog-ng",
     "syslog-ng-opentelemetry": "syslog-ng",

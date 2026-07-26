@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "d",
-    "total_mappings": 261
+    "total_mappings": 260
   },
   "mappings": {
     "daemon": "daemon",
@@ -16,9 +16,6 @@
     "dante-client": "dante",
     "dante-server": "dante",
     "daq": "daq",
-    "dar": "dar",
-    "dar-docs": "dar",
-    "dar-static": "dar",
     "darcs": "darcs",
     "darkice": "darkice",
     "darkstat": "darkstat",
@@ -192,6 +189,7 @@
     "dosfstools": "dosfstools",
     "dosfstools-udeb": "dosfstools",
     "dotdrop": "dotdrop",
+    "dotenv-linter": "dotenv-linter",
     "double-conversion": "double-conversion",
     "dovecot": "dovecot",
     "dovecot-auth-lua": "dovecot",
@@ -243,6 +241,7 @@
     "dtrx": "dtrx",
     "du-dust": "dust",
     "dua-cli": "dua-cli",
+    "dub": "dub",
     "duc": "duc",
     "duc-nox": "duc",
     "duck": "duck",

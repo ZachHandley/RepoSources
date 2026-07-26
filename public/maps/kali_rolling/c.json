@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "c",
-    "total_mappings": 569
+    "total_mappings": 570
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -127,6 +127,7 @@
     "chawan": "chawan",
     "check": "check",
     "check-postgres": "check_postgres",
+    "checksec": "checksec",
     "checkstyle": "checkstyle",
     "checkstyle-doc": "checkstyle",
     "cherrytree": "cherrytree",

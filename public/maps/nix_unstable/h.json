@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "h",
-    "total_mappings": 213
+    "total_mappings": 215
   },
   "mappings": {
     "h2": "h2",
@@ -114,12 +114,12 @@
     "hcloud": "hcloud",
     "hcxtools": "hcxtools",
     "hdf5": "hdf5",
-    "hdf5-cpp": "hdf5@1.10",
-    "hdf5-cpp-fortran": "hdf5@1.10",
-    "hdf5-fortran": "hdf5@1.10",
+    "hdf5-cpp": "hdf5",
+    "hdf5-cpp-fortran": "hdf5",
+    "hdf5-fortran": "hdf5",
     "hdf5-mpi": "hdf5-mpi",
-    "hdf5-threadsafe": "hdf5@1.10",
-    "hdf5_1_10": "hdf5@1.10",
+    "hdf5-threadsafe": "hdf5",
+    "hdf5_1_10": "hdf5",
     "hdr10plus_tool": "hdr10plus_tool",
     "hdrhistogram_c": "hdrhistogram_c",
     "hdt": "hdt",
@@ -168,6 +168,7 @@
     "hivemind": "hivemind",
     "hivex": "hivex",
     "hjson": "hjson",
+    "hk": "hk",
     "hledger": "hledger",
     "hlint": "hlint",
     "hmmer": "hmmer",
@@ -209,6 +210,7 @@
     "hub": "hub",
     "hubble": "hubble",
     "hugo": "hugo",
+    "hunk": "hunk",
     "hunspell": "hunspell",
     "hurl": "hurl",
     "hut": "hut",

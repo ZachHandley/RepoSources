@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "p",
-    "total_mappings": 123
+    "total_mappings": 124
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -48,6 +48,7 @@
     "php": "php",
     "physfs": "physfs",
     "picocom": "picocom",
+    "picotool": "picotool",
     "pidgin": "pidgin",
     "pigz": "pigz",
     "pillow": "pillow",

@@ -1,13 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "c",
-    "total_mappings": 25
+    "total_mappings": 34
   },
   "mappings": {
     "carapace": "carapace",
+    "cglm": "cglm",
+    "cglm-debuginfo": "cglm",
+    "cglm-debugsource": "cglm",
+    "cglm-devel": "cglm",
     "chawan": "chawan",
     "chdig": "chdig",
     "chdig-debuginfo": "chdig",
@@ -29,8 +33,13 @@
     "copyparty": "copyparty",
     "cpz": "fuc",
     "crystal": "crystal",
+    "crystal-bash-completion": "crystal",
     "crystal-debuginfo": "crystal",
     "crystal-debugsource": "crystal",
-    "crystal-devel": "crystal"
+    "crystal-devel": "crystal",
+    "crystal-fish-completion": "crystal",
+    "cvs-fast-export": "cvs-fast-export",
+    "cvs-fast-export-debuginfo": "cvs-fast-export",
+    "cvs-fast-export-debugsource": "cvs-fast-export"
   }
 }

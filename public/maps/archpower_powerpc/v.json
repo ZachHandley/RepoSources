@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "v",
-    "total_mappings": 40
+    "total_mappings": 41
   },
   "mappings": {
     "vala": "vala",
@@ -37,6 +37,7 @@
     "vulkan-gfxstream": "mesa",
     "vulkan-headers": "vulkan-headers",
     "vulkan-icd-loader": "vulkan-loader",
+    "vulkan-mesa-implicit-layers": "mesa",
     "vulkan-mesa-layer": "mesa",
     "vulkan-mesa-layers": "mesa",
     "vulkan-nouveau": "mesa",

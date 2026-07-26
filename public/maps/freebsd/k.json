@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "k",
-    "total_mappings": 70
+    "total_mappings": 68
   },
   "mappings": {
     "k6": "k6",
@@ -55,11 +55,9 @@
     "kotlin": "kotlin",
     "kpcli": "kpcli",
     "krb5": "krb5",
-    "krb5-121": "krb5",
     "krb5-122": "krb5",
     "krb5-devel": "krb5",
     "krb5-ldap": "krb5",
-    "krb5-ldap-121": "krb5",
     "krb5-ldap-devel": "krb5",
     "krep": "krep",
     "ksh": "ksh93",

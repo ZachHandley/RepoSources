@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "f",
-    "total_mappings": 465
+    "total_mappings": 464
   },
   "mappings": {
     "f3": "f3",
@@ -197,7 +197,6 @@
     "fish": "fish",
     "fish-dev": "fish",
     "fish-doc": "fish",
-    "fish-tools": "fish",
     "flac": "flac",
     "flac-dev": "flac",
     "flac-doc": "flac",

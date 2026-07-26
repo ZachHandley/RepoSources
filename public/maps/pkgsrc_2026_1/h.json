@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "h",
@@ -28,7 +28,7 @@
     "hatari": "hatari",
     "hck": "hck",
     "hdf5": "hdf5",
-    "hdf5-c++": "hdf5@1.10",
+    "hdf5-c++": "hdf5",
     "hebcal": "hebcal",
     "heimdal": "heimdal",
     "helix": "helix",

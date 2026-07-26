@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "l",
-    "total_mappings": 271
+    "total_mappings": 272
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -99,6 +99,7 @@
     "libidn2": "libidn2",
     "libidn2-32": "libidn2",
     "libiptcdata": "libiptcdata",
+    "libjaylink": "libjaylink",
     "libjcat": "libjcat",
     "libjpeg-turbo": "jpeg-turbo",
     "libjpeg-turbo-32": "jpeg-turbo",

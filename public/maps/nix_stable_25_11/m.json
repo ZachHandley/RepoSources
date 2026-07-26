@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "m",
-    "total_mappings": 326
+    "total_mappings": 328
   },
   "mappings": {
     "m-cli": "m-cli",
@@ -210,6 +210,7 @@
     "mkp224o": "mkp224o",
     "mksh": "mksh",
     "mktorrent": "mktorrent",
+    "mktxp": "mktxp",
     "mkvtoolnix": "mkvtoolnix",
     "mkvtoolnix-cli": "mkvtoolnix",
     "mle": "mle",
@@ -253,6 +254,7 @@
     "moon-buggy": "moon-buggy",
     "moor": "moor",
     "moreutils": "moreutils",
+    "mosdepth": "mosdepth",
     "mosh": "mosh",
     "mosml": "mosml",
     "mosquitto": "mosquitto",

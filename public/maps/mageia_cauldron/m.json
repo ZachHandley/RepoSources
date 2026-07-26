@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "m",
-    "total_mappings": 748
+    "total_mappings": 749
   },
   "mappings": {
     "m4": "m4",
@@ -71,6 +71,7 @@
     "md5deep": "md5deep",
     "md5sha1sum": "md5sha1sum",
     "mda-lv2": "mda-lv2",
+    "mdbook": "mdbook",
     "mdds": "mdds",
     "mdds-devel": "mdds",
     "mediainfo": "media-info",
@@ -700,8 +701,8 @@
     "mosquitto": "mosquitto",
     "most": "most",
     "motif": "openmotif",
-    "mozjs128": "spidermonkey@115",
-    "mozjs140": "spidermonkey@115",
+    "mozjs128": "spidermonkey",
+    "mozjs140": "spidermonkey",
     "mp3gain": "mp3gain",
     "mp3info": "mp3info",
     "mpage": "mpage",

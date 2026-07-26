@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "n",
-    "total_mappings": 54
+    "total_mappings": 56
   },
   "mappings": {
     "nagios": "nagios",
@@ -38,6 +38,7 @@
     "nftables": "nftables",
     "nghttp2": "nghttp2",
     "nginx": "nginx",
+    "nginx-mod-devel": "nginx",
     "ngspice": "ngspice",
     "nicotine+": "nicotine-plus",
     "ninja": "ninja",
@@ -52,6 +53,7 @@
     "npth": "npth",
     "npth-debug": "npth",
     "nrg2iso": "nrg2iso",
+    "nscd": "glibc@2.17",
     "ntfs-3g": "ntfs-3g",
     "ntfs-3g_ntfsprogs": "ntfs-3g",
     "ntfsprogs": "ntfs-3g",

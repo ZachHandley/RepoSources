@@ -1,19 +1,21 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "a",
-    "total_mappings": 10
+    "total_mappings": 12
   },
   "mappings": {
     "ab-av1": "ab-av1",
     "action-validator": "action-validator",
     "add-determinism": "add-determinism",
+    "adrs": "adrs",
     "alejandra": "alejandra",
     "alevin-fry": "alevin-fry",
     "amp": "amp",
     "atac": "atac",
+    "atuin": "atuin",
     "av1an": "av1an",
     "av1an-cli": "av1an",
     "av1an-core": "av1an"

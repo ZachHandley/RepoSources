@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "s",
-    "total_mappings": 293
+    "total_mappings": 294
   },
   "mappings": {
     "SDL2_image": "sdl2_image",
@@ -55,8 +55,6 @@
     "sbcl-debuginfo": "sbcl",
     "sbcl-debugsource": "sbcl",
     "scdoc": "scdoc",
-    "scdoc-debuginfo": "scdoc",
-    "scdoc-debugsource": "scdoc",
     "schily": "star",
     "schily-debuginfo": "star",
     "schily-debugsource": "star",
@@ -282,6 +280,7 @@
     "systemd-documentation": "systemd",
     "systemd-homed": "systemd",
     "systemd-hwdb": "systemd",
+    "systemd-imds": "systemd",
     "systemd-integritysetup": "systemd",
     "systemd-journal-remote": "systemd",
     "systemd-locale": "systemd",
@@ -297,7 +296,9 @@
     "systemd-resolved": "systemd",
     "systemd-rpm-macros": "systemd",
     "systemd-storage": "systemd",
+    "systemd-storage-provider": "systemd",
     "systemd-sysext": "systemd",
+    "systemd-sysinstall": "systemd",
     "systemd-ukify": "systemd",
     "systemd-zsh-completion": "systemd"
   }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "l",
-    "total_mappings": 1047
+    "total_mappings": 1050
   },
   "mappings": {
     "LibRaw": "libraw",
@@ -592,6 +592,9 @@
     "libpeas-devel": "libpeas@1",
     "libpeas-gtk": "libpeas@1",
     "libpeas-loader-python3": "libpeas@1",
+    "libperf": "linux-headers@6.8",
+    "libperf-debuginfo": "linux-headers@6.8",
+    "libperf-devel": "linux-headers@6.8",
     "libpgtypes": "postgresql@18",
     "libpinyin": "libpinyin",
     "libpinyin-data": "libpinyin",

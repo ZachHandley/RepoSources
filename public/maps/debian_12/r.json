@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "debian_12",
     "shard": "r",
-    "total_mappings": 253
+    "total_mappings": 257
   },
   "mappings": {
     "r-base": "r",
@@ -101,9 +101,6 @@
     "rfkill-modules-6.1.0-3-686-di": "linux-headers@6.8",
     "rfkill-modules-6.1.0-3-686-pae-di": "linux-headers@6.8",
     "rfkill-modules-6.1.0-3-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-6.1.0-42-686-di": "linux-headers@6.8",
-    "rfkill-modules-6.1.0-42-686-pae-di,linux-image-i386-signed-template": "linux-headers@6.8",
-    "rfkill-modules-6.1.0-42-amd64-di": "linux-headers@6.8",
     "rfkill-modules-6.1.0-44-686-di": "linux-headers@6.8",
     "rfkill-modules-6.1.0-44-686-pae-di,linux-image-i386-signed-template": "linux-headers@6.8",
     "rfkill-modules-6.1.0-44-amd64-di": "linux-headers@6.8",
@@ -122,6 +119,12 @@
     "rfkill-modules-6.1.0-49-686-di": "linux-headers@6.8",
     "rfkill-modules-6.1.0-49-686-pae-di,linux-image-i386-signed-template": "linux-headers@6.8",
     "rfkill-modules-6.1.0-49-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-6.1.0-50-686-di": "linux-headers@6.8",
+    "rfkill-modules-6.1.0-50-686-pae-di,linux-image-i386-signed-template": "linux-headers@6.8",
+    "rfkill-modules-6.1.0-50-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-6.1.0-51-686-di": "linux-headers@6.8",
+    "rfkill-modules-6.1.0-51-686-pae-di,linux-image-i386-signed-template": "linux-headers@6.8",
+    "rfkill-modules-6.1.0-51-amd64-di": "linux-headers@6.8",
     "rgxg": "rgxg",
     "rhash": "rhash",
     "rhino": "rhino",
@@ -247,6 +250,7 @@
     "rust-sniffglue": "sniffglue",
     "rust-src": "rust",
     "rust-tealdeer": "tealdeer",
+    "rust-tree-sitter": "tree-sitter@0.25",
     "rust-web-analyzer": "rust",
     "rust-web-clippy": "rust",
     "rust-web-doc": "rust",

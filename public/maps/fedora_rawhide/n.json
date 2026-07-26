@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "n",
-    "total_mappings": 335
+    "total_mappings": 343
   },
   "mappings": {
     "NLopt": "nlopt",
@@ -179,7 +179,6 @@
     "netcdf-mpich": "netcdf",
     "netcdf-mpich-devel": "netcdf",
     "nethack": "nethack",
-    "nethack-bitmap-fonts-core": "nethack",
     "nethogs": "nethogs",
     "netmask": "netmask",
     "netpbm": "netpbm",
@@ -190,6 +189,7 @@
     "netsurf-buildsystem": "netsurf-buildsystem",
     "nettle": "nettle@3",
     "nettle-devel": "nettle@3",
+    "nettle3.10": "nettle@3",
     "newlisp": "newlisp",
     "newsboat": "newsboat",
     "newsboat-debuginfo": "newsboat",
@@ -265,6 +265,14 @@
     "nodejs24-libs": "node@24",
     "nodejs24-npm": "node@24",
     "nodejs24-npm-bin": "node@24",
+    "nodejs26": "node@24",
+    "nodejs26-bin": "node@24",
+    "nodejs26-devel": "node@24",
+    "nodejs26-docs": "node@24",
+    "nodejs26-full-i18n": "node@24",
+    "nodejs26-libs": "node@24",
+    "nodejs26-npm": "node@24",
+    "nodejs26-npm-bin": "node@24",
     "normalize": "normalize",
     "notcurses": "notcurses",
     "notcurses-debuginfo": "notcurses",

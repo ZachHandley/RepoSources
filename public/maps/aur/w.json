@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "w",
-    "total_mappings": 191
+    "total_mappings": 193
   },
   "mappings": {
     "wabt-git": "wabt",
@@ -85,9 +85,10 @@
     "wget-git": "wget",
     "wget2": "wget2",
     "wget2-git": "wget",
-    "wget2-no-docs": "wget",
     "wgo": "wgo",
     "wgpu-native-git": "wgpu-native",
+    "wgsl-analyzer": "wgsl-analyzer",
+    "wgsl-analyzer-bin": "wgsl-analyzer",
     "whalebrew": "whalebrew",
     "whatmp3": "whatmp3",
     "whatmp3-git": "whatmp3",
@@ -104,6 +105,7 @@
     "wiggle": "wiggle",
     "wik": "wik",
     "wikibase-cli": "wikibase-cli",
+    "wild-git": "wild",
     "winetricks-git": "winetricks",
     "wiredtiger": "wiredtiger",
     "wireguard-go": "wireguard-go",
@@ -195,8 +197,8 @@
     "wxwidgets-gtk3-git": "wxwidgets@3.2",
     "wxwidgets-gtk3-light": "wxwidgets@3.2",
     "wxwidgets-light": "wxwidgets@3.2",
-    "wxwidgets-qt5-git": "wxwidgets@3.2",
     "wxwidgets-qt5-light": "wxwidgets@3.2",
+    "wxwidgets-qt6-git": "wxwidgets@3.2",
     "wxwidgets2.8-light": "wxwidgets@3.2"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "o",
@@ -28,7 +28,7 @@
     "opencore-amr": "opencore-amr",
     "opencore-amr+32": "opencore-amr",
     "opencsg": "opencsg",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "openexr": "openexr",
     "openfortivpn": "openfortivpn",
     "openfpgaloader": "openfpgaloader",

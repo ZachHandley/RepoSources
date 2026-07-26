@@ -1,16 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "a",
-    "total_mappings": 129
+    "total_mappings": 131
   },
   "mappings": {
     "a52dec": "a52dec",
     "a52dec-debuginfo": "a52dec",
     "a52dec-debugsource": "a52dec",
     "acl": "acl",
+    "acl-debuginfo": "acl",
+    "acl-debugsource": "acl",
     "acpica-tools": "acpica",
     "adwaita-cursor-theme": "adwaita-icon-theme",
     "adwaita-gtk2-theme": "gnome-themes-extra",

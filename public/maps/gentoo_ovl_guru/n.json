@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "n",
-    "total_mappings": 40
+    "total_mappings": 41
   },
   "mappings": {
     "net-analyzer/gping": "gping",
@@ -24,6 +24,7 @@
     "net-libs/sofia-sip": "sofia-sip",
     "net-libs/ulfius": "ulfius",
     "net-libs/yder": "yder",
+    "net-mail/goimapnotify": "goimapnotify",
     "net-mail/pop": "pop",
     "net-misc/curlie": "curlie",
     "net-misc/ffsend": "ffsend",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "o",
@@ -82,9 +82,9 @@
     "openconnect": "openconnect",
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
-    "opencv": "opencv",
-    "opencv-devel": "opencv",
-    "opencv-samples": "opencv",
+    "opencv": "opencv@4",
+    "opencv-devel": "opencv@4",
+    "opencv-samples": "opencv@4",
     "opendbx": "opendbx",
     "opendbx-common": "opendbx",
     "opendbx-firebird": "opendbx",

@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "hpux_11_31",
     "shard": "l",
-    "total_mappings": 64
+    "total_mappings": 63
   },
   "mappings": {
     "lame": "lame",
     "latex2rtf": "latex2rtf",
-    "lbzip2": "lbzip2",
     "lcms": "little-cms2",
     "lcms2": "little-cms2",
     "ldns": "ldns",

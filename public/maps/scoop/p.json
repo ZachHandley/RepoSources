@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "p",
-    "total_mappings": 115
+    "total_mappings": 119
   },
   "mappings": {
     "pacmc": "pacmc",
@@ -24,6 +24,8 @@
     "peco": "peco",
     "pet": "pet",
     "pget": "pget",
+    "pgroll": "pgroll",
+    "pgstream": "pgstream",
     "php": "php",
     "php54": "php@8.4",
     "php55": "php@8.4",
@@ -44,6 +46,7 @@
     "pidgin": "pidgin",
     "pipx": "pipx",
     "pixi": "pixi",
+    "pkgconf": "pkgconf",
     "plakar": "plakar",
     "plantuml": "plantuml",
     "plow": "plow",
@@ -83,6 +86,7 @@
     "presenterm": "presenterm",
     "primesieve": "primesieve",
     "privoxy": "privoxy",
+    "probe-rs": "probe-rs-tools",
     "procs": "procs",
     "prometheus": "prometheus",
     "promtail": "promtail",

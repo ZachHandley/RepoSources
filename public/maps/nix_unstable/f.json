@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "f",
-    "total_mappings": 259
+    "total_mappings": 256
   },
   "mappings": {
     "Fabric": "fabric",
@@ -131,10 +131,6 @@
     "flac123": "flac123",
     "flake8": "flake8",
     "flamegraph": "flamegraph",
-    "flang": "flang",
-    "flang_20": "llvm@21",
-    "flang_21": "llvm@21",
-    "flang_22": "llvm@21",
     "flann": "flann",
     "flarectl": "flarectl",
     "flashrom": "flashrom",
@@ -176,6 +172,7 @@
     "fn-cli": "fn",
     "fnlfmt": "fnlfmt",
     "fnm": "fnm",
+    "fnox": "fnox",
     "folly": "folly",
     "foma": "foma",
     "font-util": "font-util",

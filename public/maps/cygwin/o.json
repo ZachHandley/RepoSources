@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "o",
@@ -50,8 +50,8 @@
     "openblas": "openblas",
     "openblas-debuginfo": "openblas",
     "openblas-doc": "openblas",
-    "opencv": "opencv",
-    "opencv-debuginfo": "opencv",
+    "opencv": "opencv@4",
+    "opencv-debuginfo": "opencv@4",
     "openexr": "openexr",
     "openexr-debuginfo": "openexr",
     "openexr-utilities": "openexr",

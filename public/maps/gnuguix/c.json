@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "c",
-    "total_mappings": 191
+    "total_mappings": 192
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -36,6 +36,7 @@
     "castget": "castget",
     "castxml": "castxml",
     "cataclysm-dda": "cataclysm",
+    "cataclysm-dda-tiles": "cataclysm",
     "catch": "catch2",
     "catch2": "catch2",
     "catgirl": "catgirl",
@@ -142,6 +143,7 @@
     "conmon": "conmon",
     "containerd": "containerd",
     "convmv": "convmv",
+    "copyparty": "copyparty",
     "coreutils": "coreutils",
     "coreutils-minimal": "coreutils",
     "corkscrew": "corkscrew",
@@ -170,7 +172,6 @@
     "crm114": "crm114",
     "croc": "croc",
     "crun": "crun",
-    "cryfs": "cryfs",
     "crypto++": "cryptopp",
     "cryptominisat": "cryptominisat",
     "cscope": "cscope",

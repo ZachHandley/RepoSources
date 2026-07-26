@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "c",
-    "total_mappings": 224
+    "total_mappings": 225
   },
   "mappings": {
     "CGAL": "cgal",
@@ -190,6 +190,7 @@
     "croc-dbginfo": "croc",
     "crun": "crun",
     "crun-dbginfo": "crun",
+    "crun-devel": "crun",
     "cryfs": "cryfs",
     "cryfs-dbginfo": "cryfs",
     "cryptopp": "cryptopp",

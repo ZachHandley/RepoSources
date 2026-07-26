@@ -1,28 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "z",
-    "total_mappings": 103
+    "total_mappings": 91
   },
   "mappings": {
     "z3": "z3",
     "z80asm": "z80asm",
     "z80dasm": "z80dasm",
-    "zabbix": "zabbix",
-    "zabbix-agent": "zabbix",
-    "zabbix-agent2": "zabbix",
     "zabbix-cli": "zabbix-cli",
-    "zabbix-frontend-php": "zabbix",
-    "zabbix-java-gateway": "zabbix",
-    "zabbix-proxy-mysql": "zabbix",
-    "zabbix-proxy-pgsql": "zabbix",
-    "zabbix-proxy-sqlite3": "zabbix",
-    "zabbix-sender": "zabbix",
-    "zabbix-server-mysql": "zabbix",
-    "zabbix-server-pgsql": "zabbix",
-    "zabbix-web-service": "zabbix",
     "zbar": "zbar",
     "zbar-tools": "zbar",
     "zbarcam-gtk": "zbar",

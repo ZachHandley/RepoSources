@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "s",
-    "total_mappings": 49
+    "total_mappings": 50
   },
   "mappings": {
     "s2geometry": "s2geometry",
@@ -50,6 +50,7 @@
     "sqlite3": "sqlite",
     "sqlitecpp": "sqlitecpp",
     "srt": "srt",
+    "sse2neon": "sse2neon",
     "stk": "stk",
     "streamvbyte": "streamvbyte",
     "sundials": "sundials",

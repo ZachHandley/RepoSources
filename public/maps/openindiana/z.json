@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "z",
-    "total_mappings": 14
+    "total_mappings": 15
   },
   "mappings": {
     "Zarith": "ocaml-zarith",
@@ -15,6 +15,7 @@
     "zip": "zip",
     "zlib": "zlib",
     "znapzend": "znapzend",
+    "zoxide": "zoxide",
     "zrepl": "zrepl",
     "zsh": "zsh",
     "zsh-completions": "zsh-completions",

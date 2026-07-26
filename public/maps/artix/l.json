@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "l",
@@ -18,7 +18,6 @@
     "lapacke64": "lapack",
     "laszip": "laszip",
     "lazygit": "lazygit",
-    "lbzip2": "lbzip2",
     "lcms2": "little-cms2",
     "ldb": "samba",
     "ldc": "ldc",
@@ -379,6 +378,7 @@
     "libharu": "libharu",
     "libheif": "libheif",
     "libhubbub": "libhubbub",
+    "libhwasan": "gcc@15",
     "libical": "libical",
     "libical-docs": "libical",
     "libice": "libice",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "g",
-    "total_mappings": 504
+    "total_mappings": 505
   },
   "mappings": {
     "GMT": "gmt",
@@ -257,6 +257,7 @@
     "girara-devel": "girara",
     "git-absorb": "git-absorb",
     "git-clang-format19": "llvm@21",
+    "git-clang-format20": "llvm@21",
     "git-cola": "git-cola",
     "git-credential-oauth": "git-credential-oauth",
     "git-credential-oauth-debuginfo": "git-credential-oauth",

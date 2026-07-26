@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "p",
-    "total_mappings": 228
+    "total_mappings": 230
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -133,6 +133,8 @@
     "protobuf-c": "protobuf-c",
     "proxychains-ng": "proxychains-ng",
     "proxytunnel": "proxytunnel",
+    "prrte": "prrte",
+    "prrte-docs": "prrte",
     "pstoedit": "pstoedit",
     "psutils": "psutils",
     "ptex": "ptex",
@@ -197,8 +199,8 @@
     "python-olm": "libolm",
     "python-onnx": "onnx",
     "python-openbabel": "open-babel",
-    "python-opencv": "opencv",
-    "python-opencv-cuda": "opencv",
+    "python-opencv": "opencv@4",
+    "python-opencv-cuda": "opencv@4",
     "python-packaging": "python-packaging",
     "python-pdm": "pdm",
     "python-pillow": "pillow",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_19",
     "shard": "j",
@@ -22,7 +22,7 @@
     "jasper-dev": "jasper",
     "jasper-doc": "jasper",
     "java-gdal": "gdal",
-    "java-hdf5": "hdf5@1.10",
+    "java-hdf5": "hdf5",
     "java-libkml": "libkml",
     "jbig2dec": "jbig2dec",
     "jbig2dec-dev": "jbig2dec",

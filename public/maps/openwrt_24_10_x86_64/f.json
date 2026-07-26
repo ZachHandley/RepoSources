@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "f",
-    "total_mappings": 739
+    "total_mappings": 744
   },
   "mappings": {
     "faad2": "faad2",
@@ -67,6 +67,7 @@
     "feeds/base/package/utils/lua5.3": "lua@5.4",
     "feeds/base/package/utils/util-linux": "gnu-getopt",
     "feeds/packages/admin/atop": "atop",
+    "feeds/packages/admin/bottom": "bottom",
     "feeds/packages/admin/btop": "btop",
     "feeds/packages/admin/fluent-bit": "fluent-bit",
     "feeds/packages/admin/gkrellmd": "gkrellm",
@@ -200,6 +201,7 @@
     "feeds/packages/libs/libimobiledevice": "libimobiledevice",
     "feeds/packages/libs/libimobiledevice-glue": "libimobiledevice-glue",
     "feeds/packages/libs/libirecovery": "libirecovery",
+    "feeds/packages/libs/libjaylink": "libjaylink",
     "feeds/packages/libs/libjcat": "libjcat",
     "feeds/packages/libs/libjpeg-turbo": "jpeg-turbo",
     "feeds/packages/libs/libjwt": "libjwt",
@@ -355,6 +357,7 @@
     "feeds/packages/net/dnscrypt-proxy2": "dnscrypt-proxy",
     "feeds/packages/net/dnsdist": "dnsdist",
     "feeds/packages/net/dnstop": "dnstop",
+    "feeds/packages/net/dufs": "dufs",
     "feeds/packages/net/esniper": "esniper",
     "feeds/packages/net/fail2ban": "fail2ban",
     "feeds/packages/net/fastd": "fastd",
@@ -493,6 +496,7 @@
     "feeds/packages/utils/btrfs-progs": "btrfs-progs",
     "feeds/packages/utils/byobu": "byobu",
     "feeds/packages/utils/ccrypt": "ccrypt",
+    "feeds/packages/utils/checksec": "checksec",
     "feeds/packages/utils/cni-plugins": "cni-plugins",
     "feeds/packages/utils/collectd": "collectd",
     "feeds/packages/utils/conmon": "conmon",
@@ -510,6 +514,7 @@
     "feeds/packages/utils/dosfstools": "dosfstools",
     "feeds/packages/utils/dump1090": "dump1090-fa",
     "feeds/packages/utils/dysk": "dysk",
+    "feeds/packages/utils/eza": "eza",
     "feeds/packages/utils/findutils": "findutils",
     "feeds/packages/utils/fio": "fio",
     "feeds/packages/utils/fish": "fish",

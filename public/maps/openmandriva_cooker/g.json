@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "g",
-    "total_mappings": 407
+    "total_mappings": 409
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -340,6 +340,8 @@
     "gspell": "gspell",
     "gspell-i18n": "gspell",
     "gssdp": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
+    "gssntlmssp-devel": "gss-ntlmssp",
     "gstreamer": "gstreamer",
     "gstreamer-tools": "gstreamer",
     "gstreamer1.0-aravis": "aravis",

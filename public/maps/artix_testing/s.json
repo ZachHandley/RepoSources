@@ -1,16 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "s",
-    "total_mappings": 5
+    "total_mappings": 2
   },
   "mappings": {
-    "sqlite": "sqlite",
-    "sqlite-analyzer": "sqlite-analyzer",
-    "sqlite-doc": "sqlite",
-    "sqlite-tcl": "sqlite",
+    "sequoia-sq": "sequoia-sq",
     "strace": "strace"
   }
 }

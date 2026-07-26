@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "b",
-    "total_mappings": 312
+    "total_mappings": 318
   },
   "mappings": {
     "Bear": "bear",
@@ -220,6 +220,12 @@
     "bmon": "bmon",
     "bmon-debuginfo": "bmon",
     "bmon-debugsource": "bmon",
+    "bomctl": "bomctl",
+    "bomctl-bash-completion": "bomctl",
+    "bomctl-debuginfo": "bomctl",
+    "bomctl-debugsource": "bomctl",
+    "bomctl-fish-completion": "bomctl",
+    "bomctl-zsh-completion": "bomctl",
     "bonnie++": "bonnie++",
     "bonnie++-debuginfo": "bonnie++",
     "bonnie++-debugsource": "bonnie++",

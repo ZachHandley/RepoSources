@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "n",
-    "total_mappings": 259
+    "total_mappings": 274
   },
   "mappings": {
     "nDPI": "ndpi",
@@ -109,6 +109,18 @@
     "nerdctl": "nerdctl",
     "nerdctl-debuginfo": "nerdctl",
     "nerdctl-rootless": "nerdctl",
+    "net-snmp": "net-snmp",
+    "net-snmp-bridge-mib": "net-snmp",
+    "net-snmp-cert": "net-snmp",
+    "net-snmp-clients": "net-snmp",
+    "net-snmp-clients-debuginfo": "net-snmp",
+    "net-snmp-common": "net-snmp",
+    "net-snmp-snmpd": "net-snmp",
+    "net-snmp-snmpd-debuginfo": "net-snmp",
+    "net-snmp-snmptrapd": "net-snmp",
+    "net-snmp-snmptrapd-debuginfo": "net-snmp",
+    "net-snmp-utils": "net-snmp",
+    "net-snmp40": "net-snmp",
     "net-tools": "net-tools",
     "net-tools-debuginfo": "net-tools",
     "netatalk": "netatalk",
@@ -192,6 +204,9 @@
     "nlopt-docs": "nlopt",
     "nmap": "nmap",
     "nmap-debuginfo": "nmap",
+    "nng": "nng",
+    "nng-tools": "nng",
+    "nng-tools-debuginfo": "nng",
     "nnn": "nnn",
     "nnn-debuginfo": "nnn",
     "node": "node@24",

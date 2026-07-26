@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "h",
-    "total_mappings": 214
+    "total_mappings": 213
   },
   "mappings": {
     "h2": "h2",
@@ -123,11 +123,11 @@
     "hcloud": "hcloud",
     "hcxtools": "hcxtools",
     "hdf5": "hdf5",
-    "hdf5-cpp": "hdf5@1.10",
-    "hdf5-cpp-fortran": "hdf5@1.10",
-    "hdf5-fortran": "hdf5@1.10",
+    "hdf5-cpp": "hdf5",
+    "hdf5-cpp-fortran": "hdf5",
+    "hdf5-fortran": "hdf5",
     "hdf5-mpi": "hdf5-mpi",
-    "hdf5_1_10": "hdf5@1.10",
+    "hdf5_1_10": "hdf5",
     "hdr10plus_tool": "hdr10plus_tool",
     "hdt": "hdt",
     "heartbeat": "heartbeat",
@@ -171,7 +171,6 @@
     "hmmer": "hmmer",
     "hof": "hof",
     "home-assistant-cli": "homeassistant-cli",
-    "home-assistant-custom-components.awtrix": "python@3.9",
     "homeassistant-cli": "homeassistant-cli",
     "homebank": "homebank",
     "honcho": "honcho",

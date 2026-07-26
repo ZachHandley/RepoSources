@@ -1,15 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slackware64_15_0",
     "shard": "l",
-    "total_mappings": 175
+    "total_mappings": 174
   },
   "mappings": {
     "LibRaw": "libraw",
     "lame": "lame",
-    "lbzip2": "lbzip2",
     "lcms": "little-cms2",
     "lcms2": "little-cms2",
     "lensfun": "lensfun",

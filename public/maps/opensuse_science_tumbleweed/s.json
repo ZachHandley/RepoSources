@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "s",
-    "total_mappings": 67
+    "total_mappings": 68
   },
   "mappings": {
     "samtools": "samtools",
@@ -73,6 +73,7 @@
     "superlu-examples": "superlu",
     "svm-tools": "libsvm",
     "symengine": "symengine",
+    "system-user-epics": "epics-base",
     "sz2-devel": "libaec"
   }
 }

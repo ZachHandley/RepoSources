@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_pentoo",
     "shard": "d",
-    "total_mappings": 26
+    "total_mappings": 25
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -17,7 +17,6 @@
     "dev-libs/zycore-c": "zycore-c",
     "dev-libs/zydis": "zydis",
     "dev-python/Scrapy": "scrapy",
-    "dev-python/fastapi": "fastapi",
     "dev-python/jsbeautifier": "js-beautify",
     "dev-python/nanobind": "nanobind",
     "dev-python/semgrep": "semgrep",

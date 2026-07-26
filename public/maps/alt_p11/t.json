@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "t",
-    "total_mappings": 258
+    "total_mappings": 259
   },
   "mappings": {
     "TiMidity++": "timidity",
@@ -33,8 +33,6 @@
     "task-core-debuginfo": "task",
     "task-samba-dc": "samba",
     "task-samba-dc-mitkrb5": "samba",
-    "taskd": "taskd",
-    "taskd-debuginfo": "taskd",
     "tasksh": "tasksh",
     "tasksh-debuginfo": "tasksh",
     "tatham-puzzles": "puzzles",
@@ -97,6 +95,8 @@
     "texlive-debuginfo": "texlive",
     "tgif": "tgif",
     "tgif-debuginfo": "tgif",
+    "tgpt": "tgpt",
+    "tgpt-debuginfo": "tgpt",
     "thefuck": "thefuck",
     "theora-tools": "theora",
     "theora-tools-debuginfo": "theora",
@@ -205,7 +205,6 @@
     "tracker3-devel": "tinysparql",
     "traefik": "traefik",
     "traefik-debuginfo": "traefik",
-    "trang": "jing-trang",
     "translate-shell": "translate-shell",
     "translate-toolkit": "translate-toolkit",
     "translate-toolkit-doc": "translate-toolkit",
@@ -252,6 +251,8 @@
     "ttyd-debuginfo": "ttyd",
     "ttyrec": "ttyrec",
     "ttyrec-debuginfo": "ttyrec",
+    "tuckr": "tuckr",
+    "tuckr-debuginfo": "tuckr",
     "tweak": "tweak",
     "tweak-debuginfo": "tweak",
     "twolame": "two-lame",

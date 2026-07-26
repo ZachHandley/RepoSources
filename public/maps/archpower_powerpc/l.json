@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "l",
-    "total_mappings": 467
+    "total_mappings": 470
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -15,7 +15,6 @@
     "lapacke": "lapack",
     "lapacke64": "lapack",
     "laszip": "laszip",
-    "lbzip2": "lbzip2",
     "lcms2": "little-cms2",
     "ldb": "samba",
     "ldns": "ldns",
@@ -136,6 +135,7 @@
     "libgnt": "libgnt",
     "libgo": "gcc@15",
     "libgoa": "gnome-online-accounts",
+    "libgoa-docs": "gnome-online-accounts",
     "libgomp": "gcc@15",
     "libgpg-error": "libgpg-error",
     "libgphoto2": "libgphoto2",
@@ -367,6 +367,7 @@
     "libwpe-docs": "libwpe",
     "libwpg": "libwpg",
     "libwps": "libwps",
+    "libwps-doc": "libwps",
     "libx11": "libx11",
     "libxau": "libxau",
     "libxaw": "libxaw",
@@ -447,6 +448,8 @@
     "llvm11-libs": "llvm@21",
     "llvm19": "llvm@21",
     "llvm19-libs": "llvm@21",
+    "llvm21": "llvm@21",
+    "llvm21-libs": "llvm@21",
     "lm_sensors": "lm-sensors",
     "lmdb": "lmdb",
     "log4cplus": "log4cplus",

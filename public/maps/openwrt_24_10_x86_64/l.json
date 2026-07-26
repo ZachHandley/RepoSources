@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openwrt_24_10_x86_64",
     "shard": "l",
-    "total_mappings": 612
+    "total_mappings": 613
   },
   "mappings": {
     "lame": "lame",
@@ -248,6 +248,7 @@
     "libintl-full8": "gettext",
     "libiperf3": "iperf3",
     "libirecovery": "libirecovery",
+    "libjaylink": "libjaylink",
     "libjcat": "libjcat",
     "libjose": "jose",
     "libjpeg-turbo": "jpeg-turbo",

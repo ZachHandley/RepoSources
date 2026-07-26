@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "t",
@@ -11,7 +11,6 @@
     "talosctl": "talosctl",
     "tar": "gnu-tar",
     "task": "task",
-    "taskd": "taskd",
     "taskflow": "taskflow",
     "tclap": "tclap",
     "tcpdump": "tcpdump",
@@ -46,6 +45,7 @@
     "tree": "tree",
     "tree-sitter": "tree-sitter",
     "trimal": "trimal",
+    "triton": "triton",
     "trivy": "trivy",
     "turnserver": "coturn",
     "twm": "twm",

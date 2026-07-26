@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "p",
-    "total_mappings": 1082
+    "total_mappings": 1085
   },
   "mappings": {
     "PC6001VX": "pc6001vx",
@@ -176,6 +176,8 @@
     "perl-Pod-Html": "perl",
     "perl-RRD": "rrdtool",
     "perl-RRD-debuginfo": "rrdtool",
+    "perl-SNMP": "net-snmp",
+    "perl-SNMP-debuginfo": "net-snmp",
     "perl-Unicode-Normalize": "perl",
     "perl-Unicode-Normalize-debuginfo": "perl",
     "perl-base": "perl",
@@ -550,8 +552,6 @@
     "procs": "procs",
     "procs-debuginfo": "procs",
     "profanity": "profanity",
-    "profanity-X11": "profanity",
-    "profanity-X11-debuginfo": "profanity",
     "profanity-debuginfo": "profanity",
     "profanity-devel": "profanity",
     "proftpd": "proftpd",
@@ -896,6 +896,7 @@
     "python3-module-marisa": "marisa",
     "python3-module-marisa-debuginfo": "marisa",
     "python3-module-markdown": "python-markdown",
+    "python3-module-mat2": "mat2",
     "python3-module-matplotlib": "python-matplotlib",
     "python3-module-matplotlib-backend_gtk": "python-matplotlib",
     "python3-module-matplotlib-cairo": "python-matplotlib",
@@ -921,6 +922,8 @@
     "python3-module-mypy": "mypy",
     "python3-module-mypyc": "mypy",
     "python3-module-nanobind": "nanobind",
+    "python3-module-netsnmp": "net-snmp",
+    "python3-module-netsnmp-debuginfo": "net-snmp",
     "python3-module-nftables": "nftables",
     "python3-module-nlopt": "nlopt",
     "python3-module-nlopt-debuginfo": "nlopt",
@@ -934,8 +937,8 @@
     "python3-module-openbabel-debuginfo": "open-babel",
     "python3-module-opencolorio": "opencolorio",
     "python3-module-opencolorio-debuginfo": "opencolorio",
-    "python3-module-opencv": "opencv",
-    "python3-module-opencv-debuginfo": "opencv",
+    "python3-module-opencv": "opencv@4",
+    "python3-module-opencv-debuginfo": "opencv@4",
     "python3-module-openvdb": "openvdb",
     "python3-module-openvdb-debuginfo": "openvdb",
     "python3-module-packaging": "python-packaging",

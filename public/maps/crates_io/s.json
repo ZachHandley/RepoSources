@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "s",
-    "total_mappings": 18
+    "total_mappings": 19
   },
   "mappings": {
     "samply": "samply",
@@ -23,6 +23,7 @@
     "spytrap-adb": "spytrap-adb",
     "sqlpage": "sqlpage",
     "starship": "starship",
+    "stgit": "stgit",
     "stylua": "stylua",
     "swc": "swc"
   }

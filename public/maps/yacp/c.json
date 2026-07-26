@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "c",
-    "total_mappings": 88
+    "total_mappings": 87
   },
   "mappings": {
     "CGAL": "cgal",
@@ -57,8 +57,6 @@
     "cmatrix": "cmatrix",
     "cmigemo": "cmigemo",
     "cminpack": "cminpack",
-    "cmockery": "cmockery",
-    "cmockery2": "cmockery2",
     "cmuclmtk": "cmuclmtk",
     "cnats": "cnats",
     "codec2": "codec2",
@@ -88,6 +86,7 @@
     "csmith": "csmith",
     "csvprintf": "csvprintf",
     "ctemplate": "ctemplate",
+    "ctre": "ctre",
     "cubeb": "cubeb",
     "cucumber-cpp": "cucumber-cpp",
     "curlcpp": "curlcpp",

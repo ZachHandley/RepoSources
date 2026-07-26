@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "t",
-    "total_mappings": 80
+    "total_mappings": 81
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -13,6 +13,7 @@
     "tar": "gnu-tar",
     "tar-debug": "gnu-tar",
     "tbb": "tbb",
+    "tcl-rrdtool": "rrdtool",
     "tcpdump": "tcpdump",
     "tcpstat": "tcpstat",
     "tcsh": "tcsh",
@@ -43,7 +44,6 @@
     "tesseract-i18n-zh-CN": "tesseract",
     "tesseract-i18n-zh-TW": "tesseract",
     "testdisk": "testdisk",
-    "testdisk-debug": "testdisk",
     "tevent": "tevent",
     "texi2html": "texi2html",
     "texinfo": "texinfo",
@@ -64,6 +64,7 @@
     "tigervnc": "tiger-vnc",
     "tigervnc-server": "tiger-vnc",
     "time": "gnu-time",
+    "timezone": "glibc@2.17",
     "timidity": "timidity",
     "tini": "tini",
     "tini-debug": "tini",

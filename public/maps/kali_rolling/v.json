@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "v",
-    "total_mappings": 132
+    "total_mappings": 131
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -73,6 +73,7 @@
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
     "virtinst": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "virtualenv": "virtualenv",
     "virtualenvwrapper": "virtualenvwrapper",
     "virtualenvwrapper-doc": "virtualenvwrapper",
@@ -94,8 +95,6 @@
     "virtuoso-vad-tutorial": "virtuoso",
     "virtuoso-vsp-startpage": "virtuoso",
     "vis": "vis",
-    "visp": "visp",
-    "visp-tools": "visp",
     "vit": "vit",
     "vitetris": "vitetris",
     "vmtouch": "vmtouch",

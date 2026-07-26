@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "m",
-    "total_mappings": 300
+    "total_mappings": 301
   },
   "mappings": {
     "MapProxy": "mapproxy",
@@ -224,6 +224,7 @@
     "moon": "moon",
     "moon-buggy": "moon-buggy",
     "moreutils": "moreutils",
+    "mosdepth": "mosdepth",
     "mosh": "mosh",
     "mosml": "mosml",
     "mosquitto": "mosquitto",

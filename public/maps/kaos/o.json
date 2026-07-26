@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kaos",
     "shard": "o",
@@ -20,7 +20,7 @@
     "opencolorio": "opencolorio",
     "openconnect": "openconnect",
     "opencore-amr": "opencore-amr",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "openexr": "openexr",
     "openjdk": "openjdk@25",
     "openjdk-src": "openjdk@25",

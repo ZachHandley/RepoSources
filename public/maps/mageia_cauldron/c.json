@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "c",
-    "total_mappings": 212
+    "total_mappings": 213
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -165,6 +165,7 @@
     "cpanminus": "cpanminus",
     "cpio": "cpio",
     "cpl": "cpl",
+    "cpp-httplib": "cpp-httplib",
     "cppcheck": "cppcheck",
     "cppcheck-gui": "cppcheck",
     "cppunit": "cppunit",

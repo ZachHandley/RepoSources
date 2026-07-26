@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "b",
-    "total_mappings": 151
+    "total_mappings": 150
   },
   "mappings": {
     "BWidget": "bwidget",
@@ -108,8 +108,7 @@
     "bonniexx": "bonnie++",
     "boolector": "boolector",
     "boost": "boost",
-    "boost-build": "boost-build",
-    "boost-jam": "boost@1.85",
+    "boost-jam": "boost-build",
     "boost169": "boost@1.85",
     "boost171": "boost@1.85",
     "boost176": "boost@1.85",

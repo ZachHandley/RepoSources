@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "r",
-    "total_mappings": 189
+    "total_mappings": 190
   },
   "mappings": {
     "R": "r",
@@ -76,6 +76,7 @@
     "resvg": "resvg",
     "resvg-devel-static": "resvg",
     "rfkill": "gnu-getopt",
+    "rg": "grep",
     "rgbds": "rgbds",
     "rgrep": "jed",
     "rhash": "rhash",

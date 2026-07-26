@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "common",
     "shard": "y",
-    "total_mappings": 365
+    "total_mappings": 363
   },
   "mappings": {
     "YAFC": "yafc",
@@ -64,7 +64,6 @@
     "yajl-libs": "yajl",
     "yajl-static": "yajl",
     "yajl-tools": "yajl",
-    "yajl-unstable": "yajl",
     "yajl2": "yajl",
     "yalantinglibs": "yalantinglibs",
     "yama-ptrace-enable": "elfutils",
@@ -152,7 +151,6 @@
     "yarn-node20": "yarn",
     "yarn-node22": "yarn",
     "yarn-node24": "yarn",
-    "yarn-node25": "yarn",
     "yarn-node26": "yarn",
     "yarnpkg": "yarn",
     "yash": "yash",

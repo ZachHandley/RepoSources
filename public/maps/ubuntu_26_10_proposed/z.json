@@ -1,15 +1,49 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "z",
-    "total_mappings": 4
+    "total_mappings": 38
   },
   "mappings": {
+    "zabbix": "zabbix",
+    "zabbix-agent": "zabbix",
+    "zabbix-agent2": "zabbix",
     "zabbix-cli": "zabbix-cli",
-    "zeroinstall-injector": "zero-install",
+    "zabbix-frontend-php": "zabbix",
+    "zabbix-java-gateway": "zabbix",
+    "zabbix-proxy-mysql": "zabbix",
+    "zabbix-proxy-pgsql": "zabbix",
+    "zabbix-proxy-sqlite3": "zabbix",
+    "zabbix-sender": "zabbix",
+    "zabbix-server-mysql": "zabbix",
+    "zabbix-server-pgsql": "zabbix",
+    "zabbix-web-service": "zabbix",
+    "zenmap": "nmap",
+    "zeroc-dsnode": "ice",
+    "zeroc-glacier2": "ice",
+    "zeroc-ice": "ice",
+    "zeroc-ice-all-dev": "ice",
+    "zeroc-ice-all-runtime": "ice",
+    "zeroc-ice-compilers": "ice",
+    "zeroc-ice-slice": "ice",
+    "zeroc-ice-utils": "ice",
+    "zeroc-icebox": "ice",
+    "zeroc-icebridge": "ice",
+    "zeroc-icegrid": "ice",
+    "zeroc-icestorm": "ice",
     "zile": "zile",
-    "zimfw": "zimfw"
+    "zipcmp": "libzip",
+    "zipmerge": "libzip",
+    "ziptool": "libzip",
+    "znc": "znc",
+    "znc-backlog": "znc",
+    "znc-dev": "znc",
+    "znc-perl": "znc",
+    "znc-push": "znc",
+    "znc-python": "znc",
+    "znc-tcl": "znc",
+    "zurl": "zurl"
   }
 }

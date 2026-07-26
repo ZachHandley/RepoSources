@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_04",
     "shard": "c",
-    "total_mappings": 532
+    "total_mappings": 533
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -125,6 +125,7 @@
     "charon-systemd": "strongswan",
     "check": "check",
     "check-postgres": "check_postgres",
+    "checksec": "checksec",
     "checkstyle": "checkstyle",
     "checkstyle-doc": "checkstyle",
     "cherrytree": "cherrytree",

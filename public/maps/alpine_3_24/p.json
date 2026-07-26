@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_24",
     "shard": "p",
@@ -874,8 +874,8 @@
     "py3-onnxruntime": "onnxruntime",
     "py3-onnxruntime-pyc": "onnxruntime",
     "py3-opencolorio": "opencolorio",
-    "py3-opencv": "opencv",
-    "py3-opencv-pyc": "opencv",
+    "py3-opencv": "opencv@4",
+    "py3-opencv-pyc": "opencv@4",
     "py3-openimageio": "openimageio",
     "py3-openvdb": "openvdb",
     "py3-packaging": "python-packaging",

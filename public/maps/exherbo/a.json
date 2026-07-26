@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "a",
-    "total_mappings": 245
+    "total_mappings": 246
   },
   "mappings": {
     "app-admin/ansible": "ansible@13",
@@ -251,6 +251,7 @@
     "app-virtualization/passt": "passt",
     "app-virtualization/podman": "podman",
     "app-virtualization/podman-compose": "podman-compose",
-    "app-virtualization/qemu": "qemu"
+    "app-virtualization/qemu": "qemu",
+    "app-virtualization/virtiofsd": "virtiofsd"
   }
 }

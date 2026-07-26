@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "j",
-    "total_mappings": 19
+    "total_mappings": 18
   },
   "mappings": {
     "JAGS": "jags",
     "janet": "janet",
     "jcal": "jcal",
-    "jerm": "jerm",
     "jhead": "jhead",
     "jo": "jo",
     "jose": "jose",

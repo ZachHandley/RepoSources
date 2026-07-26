@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "m",
-    "total_mappings": 450
+    "total_mappings": 451
   },
   "mappings": {
     "Markdown": "markdown",
@@ -34,7 +34,6 @@
     "mail/gmime3": "gmime",
     "mail/gyb": "gyb",
     "mail/himalaya": "himalaya",
-    "mail/imap-uw": "imap-uw",
     "mail/imapfilter": "imapfilter",
     "mail/imapsync": "imapsync",
     "mail/isync": "isync",
@@ -51,7 +50,6 @@
     "mail/nmh": "nmh",
     "mail/notmuch": "notmuch",
     "mail/offlineimap": "offlineimap",
-    "mail/offlineimap3": "offlineimap",
     "mail/procmail": "procmail",
     "mail/pst-utils": "libpst",
     "mail/ripmime": "ripmime",
@@ -97,6 +95,7 @@
     "math/fplll": "fplll",
     "math/fricas": "fricas",
     "math/gcem": "gcem",
+    "math/ggml": "ggml",
     "math/glpk": "glpk",
     "math/gnumeric112": "gnumeric",
     "math/grace": "grace",
@@ -230,6 +229,7 @@
     "misc/bsdiff": "bsdiff",
     "misc/byobu": "byobu",
     "misc/cabal-install": "cabal-install",
+    "misc/cargo-sweep": "cargo-sweep",
     "misc/chordii": "chordii",
     "misc/cksfv": "cksfv",
     "misc/colortail": "colortail",
@@ -252,6 +252,7 @@
     "misc/libcec": "libcec",
     "misc/libdivecomputer": "libdivecomputer",
     "misc/libimobiledevice-glue": "libimobiledevice-glue",
+    "misc/libjaylink": "libjaylink",
     "misc/libquantum": "libquantum",
     "misc/lr": "lr",
     "misc/lv": "lv",
@@ -324,8 +325,8 @@
     "mosquitto": "mosquitto",
     "most": "most",
     "motif": "openmotif",
-    "mozjs128": "spidermonkey@115",
-    "mozjs78": "spidermonkey@115",
+    "mozjs128": "spidermonkey",
+    "mozjs78": "spidermonkey",
     "mp3blaster": "mp3blaster",
     "mp3check": "mp3check",
     "mp3gain": "mp3gain",

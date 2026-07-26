@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "x",
-    "total_mappings": 67
+    "total_mappings": 68
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -15,6 +15,7 @@
     "xbitmaps": "xbitmaps",
     "xboard": "xboard",
     "xbyak": "xbyak",
+    "xc": "xc",
     "xcb-proto": "xcb-proto",
     "xcb-util": "xcb-util",
     "xcb-util-cursor": "xcb-util-cursor",

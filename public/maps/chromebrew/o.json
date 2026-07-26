@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "o",
@@ -20,7 +20,7 @@
     "opencl_icd_loader": "opencl-icd-loader",
     "opencode": "opencode",
     "openconnect": "openconnect",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "openexr": "openexr",
     "openh264": "openh264",
     "openimageio": "openimageio",

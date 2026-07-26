@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "n",
-    "total_mappings": 96
+    "total_mappings": 97
   },
   "mappings": {
     "nagios": "nagios",
@@ -41,6 +41,7 @@
     "netcdf-fortran": "netcdf-fortran",
     "netcdf-parallel-openmpi": "netcdf",
     "nethack": "nethack",
+    "nethack-qt": "nethack",
     "nethogs": "nethogs",
     "netpbm": "netpbm",
     "nettle": "nettle@3",

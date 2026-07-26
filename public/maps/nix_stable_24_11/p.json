@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "p",
-    "total_mappings": 937
+    "total_mappings": 942
   },
   "mappings": {
     "p0f": "p0f",
@@ -127,6 +127,7 @@
     "perl540Packages.Appcpanminus": "cpanminus",
     "perl540Packages.Po4a": "po4a",
     "perl540Packages.strip-nondeterminism": "strip-nondeterminism",
+    "perlnavigator": "perlnavigator",
     "peru": "peru",
     "pet": "pet",
     "petsc": "petsc",
@@ -381,6 +382,7 @@
     "proxychains-ng": "proxychains-ng",
     "prqlc": "prqlc",
     "prr": "prr",
+    "prrte": "prrte",
     "prs": "prs",
     "psalm": "psalm",
     "pscale": "pscale",
@@ -539,6 +541,7 @@
     "python3.11-tensorflow-gpu": "libtensorflow",
     "python3.11-thrift": "thrift",
     "python3.11-translate-toolkit": "translate-toolkit",
+    "python3.11-tree-sitter-python": "tree-sitter-python",
     "python3.11-twine": "twine",
     "python3.11-unicorn": "unicorn",
     "python3.11-uvicorn": "uvicorn",
@@ -553,7 +556,6 @@
     "python3.11-yamlfix": "yamlfix",
     "python3.11-ydiff": "ydiff",
     "python3.11-yq": "python-yq",
-    "python3.12": "python@3.9",
     "python3.12-acme": "certbot",
     "python3.12-ansible": "ansible@13",
     "python3.12-antlr4-python3-runtime": "antlr",
@@ -658,6 +660,7 @@
     "python3.12-tensorflow-gpu": "libtensorflow",
     "python3.12-thrift": "thrift",
     "python3.12-translate-toolkit": "translate-toolkit",
+    "python3.12-tree-sitter-python": "tree-sitter-python",
     "python3.12-twine": "twine",
     "python3.12-unicorn": "unicorn",
     "python3.12-uvicorn": "uvicorn",
@@ -790,6 +793,7 @@
     "python311Packages.tensorflowWithoutCuda": "libtensorflow",
     "python311Packages.thrift": "thrift",
     "python311Packages.translate-toolkit": "translate-toolkit",
+    "python311Packages.tree-sitter-python": "tree-sitter-python",
     "python311Packages.twine": "twine",
     "python311Packages.unicorn": "unicorn",
     "python311Packages.uvicorn": "uvicorn",
@@ -918,6 +922,7 @@
     "python312Packages.tensorflowWithoutCuda": "libtensorflow",
     "python312Packages.thrift": "thrift",
     "python312Packages.translate-toolkit": "translate-toolkit",
+    "python312Packages.tree-sitter-python": "tree-sitter-python",
     "python312Packages.twine": "twine",
     "python312Packages.unicorn": "unicorn",
     "python312Packages.uvicorn": "uvicorn",

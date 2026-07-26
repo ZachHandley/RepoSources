@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "u",
-    "total_mappings": 192
+    "total_mappings": 195
   },
   "mappings": {
     "u-boot": "u-boot-tools",
@@ -106,6 +106,10 @@
     "unixODBC-debugsource": "unixodbc",
     "unixODBC-devel": "unixodbc",
     "unoconv": "unoconv",
+    "unordered_dense": "unordered_dense",
+    "unordered_dense-debuginfo": "unordered_dense",
+    "unordered_dense-debugsource": "unordered_dense",
+    "unordered_dense-devel": "unordered_dense",
     "unpaper": "unpaper",
     "unpaper-debuginfo": "unpaper",
     "unpaper-debugsource": "unpaper",
@@ -132,7 +136,6 @@
     "uriparser-debuginfo": "uriparser",
     "uriparser-debugsource": "uriparser",
     "uriparser-devel": "uriparser",
-    "uriparser-doc": "uriparser",
     "urlscan": "urlscan",
     "urlview": "urlview",
     "urlview-debuginfo": "urlview",

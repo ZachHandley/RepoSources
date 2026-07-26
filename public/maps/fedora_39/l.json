@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "l",
-    "total_mappings": 2763
+    "total_mappings": 2764
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -58,9 +58,6 @@
     "lbdb": "lbdb",
     "lbdb-debuginfo": "lbdb",
     "lbdb-debugsource": "lbdb",
-    "lbzip2": "lbzip2",
-    "lbzip2-debuginfo": "lbzip2",
-    "lbzip2-debugsource": "lbzip2",
     "lcdproc": "lcdproc",
     "lcdproc-debuginfo": "lcdproc",
     "lcdproc-debugsource": "lcdproc",
@@ -1162,6 +1159,10 @@
     "libitm-static": "gcc@15",
     "libjalali": "jcal",
     "libjalali-devel": "jcal",
+    "libjaylink": "libjaylink",
+    "libjaylink-debuginfo": "libjaylink",
+    "libjaylink-debugsource": "libjaylink",
+    "libjaylink-devel": "libjaylink",
     "libjcat": "libjcat",
     "libjcat-debuginfo": "libjcat",
     "libjcat-debugsource": "libjcat",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "s",
-    "total_mappings": 429
+    "total_mappings": 434
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -162,6 +162,8 @@
     "simdutf-debuginfo": "simdutf",
     "simdutf-debugsource": "simdutf",
     "simple-scan": "simple-scan",
+    "simple-scan-debuginfo": "simple-scan",
+    "simple-scan-debugsource": "simple-scan",
     "simutrans": "simutrans",
     "simutrans-debuginfo": "simutrans",
     "simutrans-debugsource": "simutrans",
@@ -435,6 +437,9 @@
     "systemd-debugsource": "systemd",
     "systemd-journal-gateway": "systemd",
     "systemd-oomd": "systemd",
-    "systemd-units": "systemd"
+    "systemd-units": "systemd",
+    "syswatch": "syswatch",
+    "syswatch-debuginfo": "syswatch",
+    "syswatch-debugsource": "syswatch"
   }
 }

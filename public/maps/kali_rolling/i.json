@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "i",
-    "total_mappings": 179
+    "total_mappings": 178
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -34,7 +34,6 @@
     "icu-devtools": "icu4c@78",
     "icu-doc": "icu4c@78",
     "id3lib3.8.3": "id3lib",
-    "id3tool": "id3tool",
     "id3v2": "id3v2",
     "ideviceinstaller": "ideviceinstaller",
     "idle-python2.7": "python@3.9",

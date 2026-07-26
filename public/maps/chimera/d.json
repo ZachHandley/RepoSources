@@ -1,15 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "d",
-    "total_mappings": 131
+    "total_mappings": 141
   },
   "mappings": {
     "daq": "daq",
     "daq-devel": "daq",
     "daq-devel-static": "daq",
+    "date": "howard-hinnant-date",
+    "date-devel": "howard-hinnant-date",
+    "date-doc": "howard-hinnant-date",
     "dav1d": "dav1d",
     "dav1d-devel": "dav1d",
     "dav1d-devel-static": "dav1d",
@@ -84,6 +87,9 @@
     "djvulibre-devel": "djvulibre",
     "djvulibre-libs": "djvulibre",
     "djvulibre-man": "djvulibre",
+    "dmenu": "dmenu",
+    "dmenu-doc": "dmenu",
+    "dmenu-man": "dmenu",
     "dmg2img": "dmg2img",
     "dnscontrol": "dnscontrol",
     "dnscontrol-bashcomp": "dnscontrol",
@@ -128,6 +134,10 @@
     "dua-cli-doc": "dua-cli",
     "dua-cli-fishcomp": "dua-cli",
     "dua-cli-zshcomp": "dua-cli",
+    "duckdb": "duckdb",
+    "duckdb-devel": "duckdb",
+    "duckdb-devel-static": "duckdb",
+    "duckdb-doc": "duckdb",
     "duktape": "duktape",
     "duktape-devel": "duktape",
     "duktape-doc": "duktape",

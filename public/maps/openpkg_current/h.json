@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openpkg_current",
     "shard": "h",
@@ -14,7 +14,7 @@
     "harfbuzz": "harfbuzz",
     "hashcat": "hashcat",
     "haxe": "haxe",
-    "hdf": "hdf5@1.10",
+    "hdf": "hdf5",
     "heimdal": "heimdal",
     "helm": "helm@3",
     "help2man": "help2man",

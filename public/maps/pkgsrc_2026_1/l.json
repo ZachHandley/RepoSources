@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "l",
-    "total_mappings": 642
+    "total_mappings": 643
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -114,8 +114,8 @@
     "lang/micropython": "micropython",
     "lang/mit-scheme-bin": "mit-scheme",
     "lang/mono": "mono",
-    "lang/mozjs128": "spidermonkey@115",
-    "lang/mozjs78": "spidermonkey@115",
+    "lang/mozjs128": "spidermonkey",
+    "lang/mozjs78": "spidermonkey",
     "lang/mujs": "mujs",
     "lang/neko": "neko",
     "lang/newlisp": "newlisp",
@@ -175,8 +175,8 @@
     "lang/smalltalk": "gnu-smalltalk",
     "lang/smlnj": "smlnj",
     "lang/spago": "spago",
-    "lang/spidermonkey": "spidermonkey@115",
-    "lang/spidermonkey185": "spidermonkey@115",
+    "lang/spidermonkey": "spidermonkey",
+    "lang/spidermonkey185": "spidermonkey",
     "lang/swi-prolog": "swi-prolog",
     "lang/swi-prolog-jpl": "swi-prolog",
     "lang/swi-prolog-lite": "swi-prolog",
@@ -390,6 +390,7 @@
     "libiptcdata": "libiptcdata",
     "libiscsi": "libiscsi",
     "libisofs": "libisofs",
+    "libjaylink": "libjaylink",
     "libjpeg-turbo": "jpeg-turbo",
     "libjwt": "libjwt",
     "libjxl": "jpeg-xl",

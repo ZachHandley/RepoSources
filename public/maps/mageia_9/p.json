@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "p",
@@ -929,7 +929,7 @@
     "python3-numpy-f2py": "numpy",
     "python3-olm": "libolm",
     "python3-openbabel": "open-babel",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-openimageio": "openimageio",
     "python3-openvdb": "openvdb",
     "python3-packaging": "python-packaging",

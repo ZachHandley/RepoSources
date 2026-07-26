@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "q",
-    "total_mappings": 160
+    "total_mappings": 159
   },
   "mappings": {
     "qca": "qca",
@@ -164,7 +164,6 @@
     "qt6-websockets": "qt@5",
     "qt6-xcb-private-headers": "qt@5",
     "qtkeychain": "qtkeychain",
-    "qtkeychain-qt5": "qtkeychain",
     "qtkeychain-qt6": "qtkeychain",
     "quilt": "quilt"
   }

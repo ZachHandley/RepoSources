@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "v",
-    "total_mappings": 142
+    "total_mappings": 144
   },
   "mappings": {
     "v8-12.4-devel": "node@24",
     "v8-13.6-devel": "node@24",
+    "v8-14.6-devel": "node@24",
     "v8-314": "v8",
     "v8-314-devel": "v8",
     "vala": "vala",
@@ -88,6 +89,7 @@
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
     "virt-manager-common": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "virtualpg": "virtualpg",
     "virtualpg-devel": "virtualpg",
     "vis": "vis",

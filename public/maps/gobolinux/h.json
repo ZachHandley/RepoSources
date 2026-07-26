@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gobolinux",
     "shard": "h",
     "total_mappings": 22
   },
   "mappings": {
-    "HDF5": "hdf5@1.10",
+    "HDF5": "hdf5",
     "HIDAPI": "hidapi",
     "HIVEX": "hivex",
     "HSpell": "hspell",

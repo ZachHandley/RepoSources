@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "t",
-    "total_mappings": 6874
+    "total_mappings": 6871
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -33,9 +33,6 @@
     "task-spooler": "task-spooler",
     "task-spooler-debuginfo": "task-spooler",
     "task-spooler-debugsource": "task-spooler",
-    "taskd": "taskd",
-    "taskd-debuginfo": "taskd",
-    "taskd-debugsource": "taskd",
     "taskflow": "taskflow",
     "taskflow-devel": "taskflow",
     "taskflow-doc": "taskflow",

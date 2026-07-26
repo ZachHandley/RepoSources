@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "d",
-    "total_mappings": 109
+    "total_mappings": 110
   },
   "mappings": {
     "d-tools": "dtools",
@@ -15,6 +15,7 @@
     "darkhttpd": "darkhttpd",
     "darkice": "darkice",
     "darkstat": "darkstat",
+    "dasel": "dasel",
     "dash": "dash-shell",
     "datamash": "datamash",
     "datasette": "datasette",
@@ -23,7 +24,6 @@
     "dbacl": "dbacl",
     "dbus": "dbus",
     "dbus-glib": "dbus-glib",
-    "dcadec": "dcadec",
     "dcmtk": "dcmtk",
     "ddate": "ddate",
     "ddclient": "ddclient",
@@ -37,6 +37,7 @@
     "dehydrated": "dehydrated",
     "dejagnu": "deja-gnu",
     "delve": "delve",
+    "demumble": "demumble",
     "desktop-file-utils": "desktop-file-utils",
     "detox": "detox",
     "dfc": "dfc",

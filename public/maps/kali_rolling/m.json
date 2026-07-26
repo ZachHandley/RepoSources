@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kali_rolling",
     "shard": "m",
-    "total_mappings": 403
+    "total_mappings": 408
   },
   "mappings": {
     "m4": "m4",
@@ -162,6 +162,8 @@
     "mesa-libgallium": "mesa",
     "mesa-opencl-icd": "mesa",
     "mesa-teflon-delegate": "mesa",
+    "mesa-va-drivers": "mesa",
+    "mesa-vdpau-drivers": "mesa",
     "mesa-vulkan-drivers": "mesa",
     "meson": "meson",
     "metalang99": "metalang99",
@@ -282,6 +284,7 @@
     "monero": "monero",
     "monero-tests": "monero",
     "mongo-c-driver": "mongo-c-driver@1",
+    "mongo-cxx-driver": "mongo-cxx-driver",
     "mongoose": "mongoose",
     "mongoose-webserver-source": "mongoose",
     "monit": "monit",
@@ -300,6 +303,8 @@
     "moor": "moor",
     "moreutils": "moreutils",
     "morse": "morse",
+    "mosdepth": "mosdepth",
+    "mosdepth-examples": "mosdepth",
     "mosh": "mosh",
     "mosquitto": "mosquitto",
     "mosquitto-clients": "mosquitto",
@@ -307,7 +312,7 @@
     "most": "most",
     "motif": "openmotif",
     "mount": "gnu-getopt",
-    "mozjs140": "spidermonkey@115",
+    "mozjs140": "spidermonkey",
     "mp3blaster": "mp3blaster",
     "mp3check": "mp3check",
     "mp3gain": "mp3gain",

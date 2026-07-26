@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "c",
-    "total_mappings": 556
+    "total_mappings": 554
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -31,10 +31,6 @@
     "Carla-vst": "carla",
     "CharLS": "charls",
     "CharLS-devel": "charls",
-    "Coin2": "coin3d",
-    "Coin2-devel": "coin3d",
-    "Coin3": "coin3d",
-    "Coin3-devel": "coin3d",
     "Coin4": "coin3d",
     "Coin4-devel": "coin3d",
     "Coin4-doc": "coin3d",
@@ -53,6 +49,8 @@
     "caca-utils": "libcaca",
     "cadaver": "cadaver",
     "caddy": "caddy",
+    "caddy-debuginfo": "caddy",
+    "caddy-debugsource": "caddy",
     "cadical": "cadical",
     "cadical-debuginfo": "cadical",
     "cadical-debugsource": "cadical",
@@ -178,6 +176,7 @@
     "checkmake": "checkmake",
     "checkmake-debuginfo": "checkmake",
     "checkmake-debugsource": "checkmake",
+    "checksec": "checksec",
     "chez-scheme": "chezscheme",
     "chez-scheme-devel": "chezscheme",
     "chez-scheme-examples": "chezscheme",
@@ -545,7 +544,6 @@
     "cvs": "cvs",
     "cvs-contrib": "cvs",
     "cvs-doc": "cvs",
-    "cvsutils": "cvsutils",
     "cvt": "libxcvt",
     "cxxopts": "cxxopts",
     "cxxopts-devel": "cxxopts",

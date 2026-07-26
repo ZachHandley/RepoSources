@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "l",
@@ -20,7 +20,6 @@
     "latex2rtf": "latex2rtf",
     "lazygit": "lazygit",
     "lbdb": "lbdb",
-    "lbzip2": "lbzip2",
     "lcms2": "little-cms2",
     "lcov": "lcov",
     "ldapvi": "ldapvi",
@@ -223,6 +222,7 @@
     "libiscsi": "libiscsi",
     "libisofs": "libisofs",
     "libjansson": "jansson",
+    "libjaylink": "libjaylink",
     "libjcat": "libjcat",
     "libjodycode": "libjodycode",
     "libjpeg-turbo": "jpeg-turbo",

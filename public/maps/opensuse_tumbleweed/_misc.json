@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "_misc",
-    "total_mappings": 10
+    "total_mappings": 11
   },
   "mappings": {
     "2ping": "twoping",
+    "2ping-bash-completion": "twoping",
     "6tunnel": "sixtunnel",
     "6tunnel-debuginfo": "sixtunnel",
     "6tunnel-debugsource": "sixtunnel",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "apertis_v2027",
     "shard": "m",
@@ -107,7 +107,7 @@
     "mosquitto-dev": "mosquitto",
     "motif": "openmotif",
     "mount": "gnu-getopt",
-    "mozjs128": "spidermonkey@115",
+    "mozjs128": "spidermonkey",
     "mpack": "mpack",
     "mpclib3": "libmpc",
     "mpfi": "mpfi",

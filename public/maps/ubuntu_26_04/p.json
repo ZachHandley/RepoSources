@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "p",
-    "total_mappings": 809
+    "total_mappings": 812
   },
   "mappings": {
     "p0f": "p0f",
@@ -112,6 +112,7 @@
     "perl-doc": "perl",
     "perl-modules-5.40": "perl",
     "perlmagick": "imagemagick@6",
+    "perlnavigator": "perlnavigator",
     "perltidy": "perltidy",
     "petsc": "petsc",
     "petsc-dev": "petsc",
@@ -372,6 +373,7 @@
     "proxychains4": "proxychains-ng",
     "proxytrack": "httrack",
     "proxytunnel": "proxytunnel",
+    "prrte": "prrte",
     "prs": "prs",
     "ps2eps": "ps2eps",
     "pskctool": "oath-toolkit",
@@ -585,6 +587,7 @@
     "python3-exactimage": "exact-image",
     "python3-eyed3": "eye-d3",
     "python3-faiss": "faiss",
+    "python3-fake-factory": "faker",
     "python3-fastapi": "fastapi",
     "python3-fava": "fava",
     "python3-fiona": "fiona",
@@ -696,7 +699,7 @@
     "python3-onnxruntime": "onnxruntime",
     "python3-openbabel": "open-babel",
     "python3-opencc": "opencc",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-openimageio": "openimageio",
     "python3-openturns": "openturns",
     "python3-openvdb": "openvdb",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "j",
@@ -22,8 +22,6 @@
     "jaguar": "jaguar",
     "jaguar-bin": "jaguar",
     "jailkit": "jailkit",
-    "janet-lang": "janet",
-    "janet-lang-bin": "janet",
     "janet-lang-git": "janet",
     "jansson-git": "jansson",
     "jaq-bin": "jaq",
@@ -94,6 +92,7 @@
     "jira-cli": "jira-cli",
     "jira-cli-bin": "jira-cli",
     "jira-cli-git": "jira-cli",
+    "jiratui-bin": "jiratui",
     "jiratui-git": "jiratui",
     "jjui": "jjui",
     "jjui-bin": "jjui",
@@ -112,6 +111,7 @@
     "joplin": "joplin-cli",
     "joplin-appimage": "joplin-cli",
     "joplin-beta": "joplin-cli",
+    "joplin-beta-bin": "joplin-cli",
     "joplin-bin": "joplin-cli",
     "joplin-desktop": "joplin-cli",
     "jose-git": "jose",

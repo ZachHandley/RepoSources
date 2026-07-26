@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "i",
@@ -19,12 +19,12 @@
     "Infracost": "infracost",
     "Innoextract": "innoextract",
     "Intel SPMD Program Compiler": "ispc",
+    "Intel(r) RealSense(TM) SDK 2.0": "librealsense",
     "Intel\u00ae Embree": "embree",
     "Intel\u00ae Embree (Install)": "embree",
     "Intel\u00ae OSPRay": "ospray",
     "Intel\u00ae OSPRay (Install)": "ospray",
     "Intel\u00ae OSPRay (Portable)": "ospray",
-    "Intel\u00ae RealSense\u2122 SDK 2.0": "librealsense",
     "Interfaceware Iguana": "iguana",
     "Interfaceware Iguana (Install)": "iguana",
     "Interfaceware Iguana (Portable)": "iguana",

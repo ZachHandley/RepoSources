@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "p",
-    "total_mappings": 349
+    "total_mappings": 351
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -68,10 +68,10 @@
     "programming/language/java/fastjar": "fastjar",
     "programming/language/java/java-openjdk": "openjdk@25",
     "programming/language/java/java8-openjdk": "openjdk@25",
-    "programming/language/java/mozjs": "spidermonkey@115",
-    "programming/language/java/mozjs-102": "spidermonkey@115",
-    "programming/language/java/mozjs-128": "spidermonkey@115",
-    "programming/language/java/mozjs-78": "spidermonkey@115",
+    "programming/language/java/mozjs": "spidermonkey",
+    "programming/language/java/mozjs-102": "spidermonkey",
+    "programming/language/java/mozjs-128": "spidermonkey",
+    "programming/language/java/mozjs-78": "spidermonkey",
     "programming/language/java/rhino": "rhino",
     "programming/language/lisp/clisp": "clisp",
     "programming/language/lua": "lua@5.4",
@@ -185,6 +185,7 @@
     "programming/library/libxml++26": "libxml++@5",
     "programming/library/md4c": "md4c",
     "programming/library/mhash": "mhash",
+    "programming/library/microsoft-gsl": "cpp-gsl",
     "programming/library/nlohmann-json": "nlohmann-json",
     "programming/library/oath-toolkit": "oath-toolkit",
     "programming/library/pystring": "pystring",
@@ -202,6 +203,7 @@
     "programming/library/template-glib": "template-glib",
     "programming/library/tinysparql": "tinysparql",
     "programming/library/utf8proc": "utf8proc",
+    "programming/library/utfcpp": "utf8cpp",
     "programming/library/uthash": "uthash",
     "programming/library/valijson": "valijson",
     "programming/library/wimlib": "wimlib",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "c",
-    "total_mappings": 240
+    "total_mappings": 241
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -121,6 +121,7 @@
     "check-docs": "check",
     "check-jsonschema": "check-jsonschema",
     "checkbashisms": "checkbashisms",
+    "checksec": "checksec",
     "cherrytree": "cherrytree",
     "chezmoi": "chezmoi",
     "chicken": "chicken",

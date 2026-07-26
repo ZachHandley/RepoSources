@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "z",
-    "total_mappings": 101
+    "total_mappings": 104
   },
   "mappings": {
     "z3": "z3",
@@ -51,8 +51,11 @@
     "zig0.14-dev": "zig@0.15",
     "zig0.15": "zig@0.15",
     "zig0.15-dev": "zig@0.15",
+    "zig0.16": "zig@0.15",
+    "zig0.16-dev": "zig@0.15",
     "zile": "zile",
     "zim": "zim",
+    "zimfw": "zimfw",
     "zint": "zint",
     "zint-qt": "zint",
     "zip": "zip",

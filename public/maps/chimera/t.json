@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "t",
-    "total_mappings": 191
+    "total_mappings": 195
   },
   "mappings": {
     "taglib": "taglib",
@@ -103,6 +103,8 @@
     "tig-zshcomp": "tig",
     "timg": "timg",
     "timg-man": "timg",
+    "tini": "tini",
+    "tini-doc": "tini",
     "tiny": "tiny",
     "tiny-doc": "tiny",
     "tinymist": "tinymist",
@@ -131,6 +133,8 @@
     "tmux-sessionizer-doc": "tmux-sessionizer",
     "tokei": "tokei",
     "tokei-doc": "tokei",
+    "toml-bombadil": "toml-bombadil",
+    "toml-bombadil-doc": "toml-bombadil",
     "tomlplusplus": "tomlplusplus",
     "tomlplusplus-devel": "tomlplusplus",
     "tomlplusplus-devel-static": "tomlplusplus",

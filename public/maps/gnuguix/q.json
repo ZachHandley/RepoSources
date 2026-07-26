@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "q",
-    "total_mappings": 65
+    "total_mappings": 66
   },
   "mappings": {
     "qalculate-gtk": "qalculate-gtk",
@@ -23,7 +23,8 @@
     "qmmp": "qmmp",
     "qpdf": "qpdf",
     "qrencode": "qrencode",
-    "qscintilla": "qscintilla2",
+    "qscintilla-qt5": "qscintilla2",
+    "qscintilla-qt6": "qscintilla2",
     "qt3d": "qt3d",
     "qt5compat": "qt5compat",
     "qtbase": "qtbase",

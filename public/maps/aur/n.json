@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "n",
-    "total_mappings": 258
+    "total_mappings": 262
   },
   "mappings": {
     "naabu": "naabu",
@@ -26,6 +26,7 @@
     "nanopb": "nanopb",
     "nap-bin": "nap",
     "nasm-git": "nasm",
+    "nativefiledialog-extended": "nativefiledialog-extended",
     "nats-server": "nats-server",
     "nats-server-bin": "nats-server",
     "naturaldocs": "naturaldocs",
@@ -96,6 +97,7 @@
     "nettle-git": "nettle@3",
     "nettle6": "nettle@3",
     "nettle7": "nettle@3",
+    "netwatch-git": "netwatch",
     "network-ups-tools-git": "nut",
     "newlisp": "newlisp",
     "newman": "newman",
@@ -110,7 +112,6 @@
     "nextflow": "nextflow",
     "nexttrace": "nexttrace",
     "nexttrace-bin": "nexttrace",
-    "nexus": "nexus",
     "nexus-oss": "nexus",
     "nfdump": "nfdump",
     "nfpm": "nfpm",
@@ -171,6 +172,9 @@
     "nodejs-jsonlint": "jsonlint",
     "nodejs-lts-hydrogen": "node@24",
     "nodejs-n": "n",
+    "nodejs-perl-navigator-web-server": "perlnavigator",
+    "nodejs-perlnavigator-client": "perlnavigator",
+    "nodejs-perlnavigator-server": "perlnavigator",
     "nodejs-svgo-git": "svgo",
     "nodejs-webpack": "webpack",
     "nodenv": "nodenv",

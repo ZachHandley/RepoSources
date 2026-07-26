@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_8",
     "shard": "c",
-    "total_mappings": 71
+    "total_mappings": 72
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -36,6 +36,7 @@
     "cgnslib": "cgns",
     "chafa": "chafa",
     "check_postgres": "check_postgres",
+    "checksec": "checksec",
     "chez-scheme": "chezscheme",
     "chromaprint": "chromaprint",
     "civetweb": "civetweb",

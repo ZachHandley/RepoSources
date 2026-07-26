@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "o",
-    "total_mappings": 2
+    "total_mappings": 4
   },
   "mappings": {
+    "onefetch": "onefetch",
+    "onefetch-debuginfo": "onefetch",
     "ouch": "ouch",
     "ouch-debuginfo": "ouch"
   }

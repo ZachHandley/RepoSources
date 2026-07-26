@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "b",
-    "total_mappings": 323
+    "total_mappings": 326
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -84,6 +84,7 @@
     "bchunk": "bchunk",
     "bcpp": "bcpp",
     "bcrypt": "bcrypt",
+    "beads": "beads",
     "beancount": "beancount",
     "beanquery": "beanquery",
     "beanstalkd": "beanstalkd",
@@ -281,6 +282,7 @@
     "bpytop": "bpytop",
     "brag": "brag",
     "breezy": "breezy",
+    "broot": "broot",
     "brotli": "brotli",
     "brz": "breezy",
     "brz-doc": "breezy",
@@ -291,6 +293,7 @@
     "btfs": "btfs",
     "btllib": "btllib",
     "btllib-tools": "btllib",
+    "btm": "bottom",
     "btop": "btop",
     "btrfs-modules-6.19.6+2-alpha-generic-di,btrfs-modules-6.19.6+2-amd64-di": "linux-headers@6.8",
     "btrfs-modules-6.19.6+2-arm64-di": "linux-headers@6.8",

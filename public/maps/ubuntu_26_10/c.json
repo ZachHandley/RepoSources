@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "c",
-    "total_mappings": 560
+    "total_mappings": 563
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -40,6 +40,8 @@
     "cargo-1.92-doc": "rust",
     "cargo-1.93": "rust",
     "cargo-1.93-doc": "rust",
+    "cargo-1.94": "rust",
+    "cargo-1.94-doc": "rust",
     "cargo-auditable": "cargo-auditable",
     "cargo-binutils": "cargo-binutils",
     "cargo-c": "cargo-c",
@@ -121,6 +123,7 @@
     "chawan": "chawan",
     "check": "check",
     "check-postgres": "check_postgres",
+    "checksec": "checksec",
     "checkstyle": "checkstyle",
     "checkstyle-doc": "checkstyle",
     "cherrytree": "cherrytree",

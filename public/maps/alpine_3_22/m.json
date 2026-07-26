@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_22",
     "shard": "m",
@@ -296,8 +296,8 @@
     "motif-dev": "openmotif",
     "motif-doc": "openmotif",
     "mount": "gnu-getopt",
-    "mozjs": "spidermonkey@115",
-    "mozjs-dev": "spidermonkey@115",
+    "mozjs": "spidermonkey",
+    "mozjs-dev": "spidermonkey",
     "mp3gain": "mp3gain",
     "mp3splt": "mp3splt",
     "mp3splt-doc": "mp3splt",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "m",
-    "total_mappings": 274
+    "total_mappings": 273
   },
   "mappings": {
     "machine-learning/ollama": "ollama",
@@ -64,7 +64,6 @@
     "media-libs/chmlib": "chmlib",
     "media-libs/chromaprint": "chromaprint",
     "media-libs/dav1d": "dav1d",
-    "media-libs/dcadec": "dcadec",
     "media-libs/exempi": "exempi",
     "media-libs/faac": "faac",
     "media-libs/faad2": "faad2",
@@ -184,7 +183,7 @@
     "media-libs/musepack": "musepack",
     "media-libs/openal": "openal-soft",
     "media-libs/opencore-amr": "opencore-amr",
-    "media-libs/opencv": "opencv",
+    "media-libs/opencv": "opencv@4",
     "media-libs/openexr": "openexr",
     "media-libs/openh264": "openh264",
     "media-libs/openjph": "openjph",

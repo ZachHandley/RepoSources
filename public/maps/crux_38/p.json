@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crux_38",
     "shard": "p",
-    "total_mappings": 71
+    "total_mappings": 72
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -47,6 +47,7 @@
     "prometheus-node-exporter": "node_exporter",
     "protobuf": "protobuf@33",
     "protobuf-c": "protobuf-c",
+    "prrte": "prrte",
     "psutils": "psutils",
     "pugixml": "pugixml",
     "pulseaudio": "pulseaudio",

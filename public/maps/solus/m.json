@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "m",
@@ -126,9 +126,9 @@
     "mosh-dbginfo": "mosh",
     "most": "most",
     "most-dbginfo": "most",
-    "mozjs": "spidermonkey@115",
-    "mozjs-dbginfo": "spidermonkey@115",
-    "mozjs-devel": "spidermonkey@115",
+    "mozjs": "spidermonkey",
+    "mozjs-dbginfo": "spidermonkey",
+    "mozjs-devel": "spidermonkey",
     "mp3gain": "mp3gain",
     "mp3gain-dbginfo": "mp3gain",
     "mpc": "libmpc",

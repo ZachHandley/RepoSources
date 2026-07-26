@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_04",
     "shard": "t",
-    "total_mappings": 364
+    "total_mappings": 365
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -343,6 +343,7 @@
     "tre-agrep": "tre",
     "tree": "tree",
     "tree-sitter": "tree-sitter",
+    "trim-galore": "trim-galore",
     "trippy": "trippy",
     "triton": "triton",
     "trurl": "trurl",

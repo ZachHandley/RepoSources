@@ -1,38 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "l",
-    "total_mappings": 27
+    "total_mappings": 1
   },
   "mappings": {
-    "lemon": "sqlite",
-    "lib32-clang": "llvm@21",
-    "lib32-curl": "curl",
-    "lib32-expat": "expat",
-    "lib32-glib2": "glib",
-    "lib32-json-c": "json-c",
-    "lib32-libarchive": "libarchive",
-    "lib32-libcurl-compat": "curl",
-    "lib32-libcurl-gnutls": "curl",
-    "lib32-libffi": "libffi",
-    "lib32-libnghttp3": "libnghttp3",
-    "lib32-libssh2": "libssh2",
-    "lib32-llvm": "llvm@21",
-    "lib32-llvm-libs": "llvm@21",
-    "lib32-sqlite": "sqlite",
-    "libarchive": "libarchive",
-    "libcurl-compat": "curl",
-    "libcurl-gnutls": "curl",
-    "libffi": "libffi",
-    "libssh2": "libssh2",
-    "linux": "linux-headers@6.8",
-    "linux-docs": "linux-headers@6.8",
-    "linux-headers": "linux-headers@6.8",
-    "lld": "lld@21",
-    "lldb": "llvm@21",
-    "llvm": "llvm@21",
-    "llvm-libs": "llvm@21"
+    "lmdb": "lmdb"
   }
 }

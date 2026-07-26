@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "s",
@@ -84,7 +84,6 @@
     "shared-mime-info": "shared-mime-info",
     "shc": "shc",
     "sheldon": "sheldon",
-    "sheldon-docs": "sheldon",
     "shellcheck": "shellcheck",
     "shellharden": "shellharden",
     "shfmt": "shfmt",
@@ -97,6 +96,7 @@
     "silicon": "silicon",
     "simde": "simde",
     "simdjson": "simdjson",
+    "simdutf": "simdutf",
     "simple-scan": "simple-scan",
     "singular": "singular",
     "sip": "sip",

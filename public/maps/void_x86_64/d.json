@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "d",
-    "total_mappings": 170
+    "total_mappings": 168
   },
   "mappings": {
     "DirectX-Headers": "directx-headers",
@@ -36,8 +36,6 @@
     "dbus-glib-devel": "dbus-glib",
     "dbus-libs": "dbus",
     "dbus-x11": "dbus",
-    "dcadec": "dcadec",
-    "dcadec-devel": "dcadec",
     "dcfldd": "dcfldd",
     "dcraw": "dcraw",
     "ddate": "ddate",

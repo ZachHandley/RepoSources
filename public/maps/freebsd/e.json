@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "e",
-    "total_mappings": 180
+    "total_mappings": 182
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -118,6 +118,7 @@
     "emulators/rvvm": "rvvm",
     "emulators/spim": "spim",
     "emulators/stella": "stella",
+    "emulators/supermodel": "supermodel",
     "emulators/ucon64": "ucon64",
     "emulators/unicorn": "unicorn",
     "emulators/vice": "vice",
@@ -130,6 +131,7 @@
     "endlessh": "endlessh",
     "enet": "enet",
     "enigma": "enigma",
+    "enkits": "enkits",
     "enscript-a4": "enscript",
     "enscript-letter": "enscript",
     "enscript-letterdj": "enscript",

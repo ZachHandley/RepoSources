@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "v",
-    "total_mappings": 47
+    "total_mappings": 48
   },
   "mappings": {
     "Vulkan-Headers": "vulkan-headers",
@@ -33,6 +33,7 @@
     "vim": "vim",
     "vips": "vips",
     "virt-manager": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "virtualpg": "virtualpg",
     "virtuoso": "virtuoso",
     "visidata": "visidata",

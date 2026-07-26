@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "a",
-    "total_mappings": 33
+    "total_mappings": 34
   },
   "mappings": {
     "aalib.lha": "aalib",
@@ -31,6 +31,7 @@
     "audio/play/adplay.lha": "adplay",
     "audio/play/audacious.lha": "audacious",
     "audio/play/mpg123.lha": "mpg123",
+    "audio/play/openmpt123.lha": "libopenmpt",
     "audio/play/sc68.lha": "sc68",
     "audio/play/uade.lha": "uade",
     "audio/play/wildmidi.lha": "wildmidi",

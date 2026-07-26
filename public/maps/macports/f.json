@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "f",
-    "total_mappings": 181
+    "total_mappings": 182
   },
   "mappings": {
     "FAudio": "faudio",
@@ -29,6 +29,7 @@
     "faust-devel": "faust",
     "fava": "fava",
     "fb303": "fb303",
+    "fblog": "fblog",
     "fbthrift": "fbthrift",
     "fcgi": "fcgi",
     "fcgiwrap": "fcgiwrap",

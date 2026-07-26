@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
     "shard": "j",
@@ -31,10 +31,10 @@
     "jq": "jq",
     "jq-dev": "jq",
     "jq-static": "jq",
-    "js": "spidermonkey@115",
-    "js-dev": "spidermonkey@115",
-    "js185": "spidermonkey@115",
-    "js185-dev": "spidermonkey@115",
+    "js": "spidermonkey",
+    "js-dev": "spidermonkey",
+    "js185": "spidermonkey",
+    "js185-dev": "spidermonkey",
     "json-c": "json-c",
     "json-c-dev": "json-c",
     "json-glib": "json-glib",

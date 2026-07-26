@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "q",
-    "total_mappings": 689
+    "total_mappings": 688
   },
   "mappings": {
     "qalculate-gtk": "qalculate-gtk",
@@ -15,7 +15,6 @@
     "qbe-debuginfo": "qbe",
     "qbs": "qbs",
     "qbs-debuginfo": "qbs",
-    "qbs-devel": "qbs",
     "qbs-examples": "qbs",
     "qca-qt5": "qca",
     "qca-qt5-cyrus-sasl": "qca",

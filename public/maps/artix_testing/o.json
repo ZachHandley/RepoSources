@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "o",
-    "total_mappings": 2
+    "total_mappings": 1
   },
   "mappings": {
-    "onnx": "onnx",
-    "openmp": "llvm@21"
+    "onnx": "onnx"
   }
 }

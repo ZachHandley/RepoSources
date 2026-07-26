@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "v",
-    "total_mappings": 164
+    "total_mappings": 168
   },
   "mappings": {
     "v": "v",
@@ -52,6 +52,7 @@
     "vectorscan": "vectorscan",
     "veilid-git": "veilid",
     "verapdf": "verapdf",
+    "vercel": "vercel",
     "verilator-git": "verilator",
     "vermin-bin": "vermin",
     "verovio": "verovio",
@@ -98,6 +99,7 @@
     "virt-manager-git": "virt-manager",
     "virtctl-bin": "virtctl",
     "virtctl-git": "virtctl",
+    "virtiofsd-git": "virtiofsd",
     "virtualfish": "virtualfish",
     "virtualfish-git": "virtualfish",
     "virtuoso": "virtuoso",
@@ -144,6 +146,8 @@
     "vsearch": "vsearch",
     "vsearch-bin": "vsearch",
     "vsftpd-git": "vsftpd",
+    "vsview": "vsview",
+    "vsview-git": "vsview",
     "vtcode-bin": "vtcode",
     "vte-common-git": "vte3",
     "vte-docs-git": "vte3",

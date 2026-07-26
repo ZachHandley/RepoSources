@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "g",
-    "total_mappings": 492
+    "total_mappings": 494
   },
   "mappings": {
     "gawk": "gawk",
@@ -74,6 +74,8 @@
     "gedit-debugsource": "gedit",
     "gedit-devel": "gedit",
     "gegl04": "gegl",
+    "gegl04-debuginfo": "gegl",
+    "gegl04-debugsource": "gegl",
     "gegl04-devel": "gegl",
     "gegl04-devel-docs": "gegl",
     "gegl04-tools": "gegl",

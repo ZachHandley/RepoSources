@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kaos",
     "shard": "t",
-    "total_mappings": 26
+    "total_mappings": 27
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -24,6 +24,7 @@
     "timidity++": "timidity",
     "tinyxml": "tinyxml2",
     "tinyxml2": "tinyxml2",
+    "tomlplusplus": "tomlplusplus",
     "tor": "tor",
     "toxcore": "toxcore",
     "transifex-cli": "transifex-cli",

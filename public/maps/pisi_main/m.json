@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "m",
-    "total_mappings": 277
+    "total_mappings": 279
   },
   "mappings": {
     "m4": "m4",
@@ -28,6 +28,7 @@
     "meson": "meson",
     "metis": "metis",
     "mhash": "mhash",
+    "microsoft-gsl": "cpp-gsl",
     "minicom": "minicom",
     "miniupnpc": "miniupnpc",
     "minizip-ng": "minizip-ng",
@@ -39,10 +40,11 @@
     "mm-common": "mm-common",
     "mocp": "moc",
     "mono": "mono",
-    "mozjs": "spidermonkey@115",
-    "mozjs-102": "spidermonkey@115",
-    "mozjs-128": "spidermonkey@115",
-    "mozjs-78": "spidermonkey@115",
+    "motif": "openmotif",
+    "mozjs": "spidermonkey",
+    "mozjs-102": "spidermonkey",
+    "mozjs-128": "spidermonkey",
+    "mozjs-78": "spidermonkey",
     "mpd": "mpd",
     "mpdecimal": "mpdecimal",
     "mpfr": "mpfr",

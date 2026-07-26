@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "m",
-    "total_mappings": 83
+    "total_mappings": 84
   },
   "mappings": {
     "m4": "m4",
     "macchina": "macchina",
     "mage": "mage",
     "magic-wormhole": "magic-wormhole",
+    "magika": "magika",
     "mailpit": "mailpit",
     "make": "make",
     "mame": "mame",

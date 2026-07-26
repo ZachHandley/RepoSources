@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "a",
-    "total_mappings": 375
+    "total_mappings": 382
   },
   "mappings": {
     "AFLplusplus": "afl++",
@@ -207,6 +207,8 @@
     "apcupsd": "apcupsd",
     "apcupsd-debuginfo": "apcupsd",
     "apcupsd-doc": "apcupsd",
+    "apm": "apm",
+    "apm-debuginfo": "apm",
     "appstream": "appstream",
     "appstream-compose": "appstream",
     "appstream-compose-debuginfo": "appstream",
@@ -230,6 +232,11 @@
     "aqbanking-devel": "aqbanking",
     "aqbanking-doc": "aqbanking",
     "aqbanking-ofx": "aqbanking",
+    "aravis": "aravis",
+    "aravis-tools": "aravis",
+    "aravis-tools-debuginfo": "aravis",
+    "aravis-viewer": "aravis",
+    "aravis-viewer-debuginfo": "aravis",
     "archivemount": "archivemount",
     "archivemount-debuginfo": "archivemount",
     "arduino-cli": "arduino-cli",

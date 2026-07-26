@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slackware64_15_0",
     "shard": "m",
@@ -29,7 +29,7 @@
     "most": "most",
     "motif": "openmotif",
     "mozilla-nss": "nss",
-    "mozjs78": "spidermonkey@115",
+    "mozjs78": "spidermonkey",
     "mpfr": "mpfr",
     "mpg123": "mpg123",
     "mtr": "mtr",

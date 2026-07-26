@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_40",
     "shard": "p",
-    "total_mappings": 1455
+    "total_mappings": 1460
   },
   "mappings": {
     "PDAL": "pdal",
@@ -876,6 +876,11 @@
     "proxytunnel": "proxytunnel",
     "proxytunnel-debuginfo": "proxytunnel",
     "proxytunnel-debugsource": "proxytunnel",
+    "prrte": "prrte",
+    "prrte-debuginfo": "prrte",
+    "prrte-debugsource": "prrte",
+    "prrte-devel": "prrte",
+    "prrte-libs": "prrte",
     "psftools": "psftools",
     "psftools-debuginfo": "psftools",
     "psftools-debugsource": "psftools",
@@ -1299,7 +1304,7 @@
     "python3-onnx": "onnx",
     "python3-onnxruntime": "onnxruntime",
     "python3-openbabel": "open-babel",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-openimageio": "openimageio",
     "python3-openmpi": "open-mpi",
     "python3-openvdb": "openvdb",

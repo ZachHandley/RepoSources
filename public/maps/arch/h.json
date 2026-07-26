@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "h",
@@ -32,7 +32,7 @@
     "hcloud": "hcloud",
     "hcxtools": "hcxtools",
     "hdf5": "hdf5",
-    "hdf5-openmpi": "hdf5@1.10",
+    "hdf5-openmpi": "hdf5",
     "hdr10plus-tool": "hdr10plus_tool",
     "helix": "helix",
     "helm": "helm@3",

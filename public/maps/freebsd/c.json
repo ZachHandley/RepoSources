@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "c",
-    "total_mappings": 390
+    "total_mappings": 392
   },
   "mappings": {
     "Carla": "carla",
@@ -16,6 +16,7 @@
     "c-ares": "c-ares",
     "c-blosc": "c-blosc",
     "c-blosc2": "c-blosc2",
+    "c3c": "c3c",
     "c4core": "c4core",
     "cabextract": "cabextract",
     "cad/Clipper2": "clipper2",
@@ -120,6 +121,7 @@
     "cfengine325": "cfengine",
     "cfengine326": "cfengine",
     "cfengine327": "cfengine",
+    "cfengine328": "cfengine",
     "cfitsio": "cfitsio",
     "cfr": "cfr-decompiler",
     "cfssl": "cfssl",
@@ -181,6 +183,7 @@
     "clinfo": "clinfo",
     "cling": "cling",
     "clingo": "clingo",
+    "cliproxyapi": "cliproxyapi",
     "clisp": "clisp",
     "cln": "cln",
     "cloc": "cloc",
@@ -201,7 +204,6 @@
     "cmatrix": "cmatrix",
     "cminpack": "cminpack",
     "cmocka": "cmocka",
-    "cmockery2": "cmockery2",
     "cmus": "cmus",
     "cntlm": "cntlm",
     "coccinelle": "coccinelle",

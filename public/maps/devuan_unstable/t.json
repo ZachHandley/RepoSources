@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "t",
-    "total_mappings": 368
+    "total_mappings": 370
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -350,6 +350,7 @@
     "tree-sitter-go-src": "tree-sitter-go",
     "tree-sitter-ruby": "tree-sitter-ruby",
     "tree-sitter-ruby-src": "tree-sitter-ruby",
+    "trim-galore": "trim-galore",
     "trippy": "trippy",
     "trurl": "trurl",
     "tshark": "wireshark",
@@ -364,6 +365,7 @@
     "ttyd": "ttyd",
     "ttygif": "ttygif",
     "ttyplot": "ttyplot",
+    "ttyrec": "ovh-ttyrec",
     "tup": "tup",
     "tvnamer": "tvnamer",
     "tweak": "tweak",

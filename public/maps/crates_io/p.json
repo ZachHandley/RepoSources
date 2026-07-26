@@ -1,15 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "p",
-    "total_mappings": 6
+    "total_mappings": 9
   },
   "mappings": {
     "pastel": "pastel",
+    "pngquant": "pngquant",
+    "probe-rs-tools": "probe-rs-tools",
     "procs": "procs",
     "prqlc": "prqlc",
+    "pueue": "pueue",
     "punktf": "punktf",
     "pyoxidizer": "pyoxidizer",
     "python-launcher": "python-launcher"

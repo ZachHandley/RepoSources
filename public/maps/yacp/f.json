@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "f",
-    "total_mappings": 34
+    "total_mappings": 36
   },
   "mappings": {
     "FLIF": "flif",
+    "FastANI": "fastani",
     "fIcy": "ficy",
     "faac": "faac",
     "faad2": "faad2",
@@ -24,6 +25,7 @@
     "fex": "fex",
     "ffe": "ffe",
     "ffmpegthumbnailer": "ffmpegthumbnailer",
+    "filtlong": "filtlong",
     "flactag": "flactag",
     "flann": "flann",
     "flatbuffers": "flatbuffers",

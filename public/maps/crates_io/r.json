@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "r",
-    "total_mappings": 18
+    "total_mappings": 19
   },
   "mappings": {
     "rage": "rage",
@@ -17,6 +17,7 @@
     "riffdiff": "riff",
     "rioterm": "rio-terminal",
     "ripgrep": "ripgrep",
+    "ripgrep_all": "ripgrep-all",
     "river": "river",
     "rm-improved": "rm-improved",
     "rqbit": "rqbit",

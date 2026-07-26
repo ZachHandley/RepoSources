@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "trisquel_10_0",
     "shard": "s",
-    "total_mappings": 437
+    "total_mappings": 438
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -19,6 +19,7 @@
     "s6-doc": "s6",
     "safe-rm": "safe-rm",
     "saidar": "libstatgrab",
+    "salmon": "salmon",
     "samba": "samba",
     "samba-common": "samba",
     "samba-common-bin": "samba",

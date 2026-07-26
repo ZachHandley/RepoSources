@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "t",
-    "total_mappings": 391
+    "total_mappings": 392
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -35,7 +35,6 @@
     "tarsnap": "tarsnap",
     "task": "task",
     "task-spooler": "task-spooler",
-    "taskd": "taskd",
     "taskflow": "taskflow",
     "taskflow-doc": "taskflow",
     "taskflow-profiler": "taskflow",
@@ -371,6 +370,7 @@
     "tree-sitter-go-src": "tree-sitter-go",
     "tree-sitter-ruby": "tree-sitter-ruby",
     "tree-sitter-ruby-src": "tree-sitter-ruby",
+    "trim-galore": "trim-galore",
     "trippy": "trippy",
     "truffle": "truffle",
     "trurl": "trurl",
@@ -386,6 +386,7 @@
     "ttyd": "ttyd",
     "ttygif": "ttygif",
     "ttyplot": "ttyplot",
+    "ttyrec": "ovh-ttyrec",
     "tup": "tup",
     "tvnamer": "tvnamer",
     "tweak": "tweak",

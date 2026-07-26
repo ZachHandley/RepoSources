@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "f",
-    "total_mappings": 2
+    "total_mappings": 1
   },
   "mappings": {
-    "ffmpeg": "ffmpeg@7",
-    "ffmpeg4.4": "ffmpeg@7"
+    "faac": "faac"
   }
 }

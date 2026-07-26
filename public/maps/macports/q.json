@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "q",
-    "total_mappings": 828
+    "total_mappings": 829
   },
   "mappings": {
     "QuantLib": "quantlib",
@@ -825,6 +825,7 @@
     "quazip1": "quazip",
     "quickjs": "quickjs",
     "quickjs-devel": "quickjs",
+    "quickjs-ng": "quickjs-ng",
     "quien": "quien",
     "quilt": "quilt",
     "quotatool": "quotatool",

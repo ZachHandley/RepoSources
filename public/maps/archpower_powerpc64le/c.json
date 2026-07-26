@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "c",
-    "total_mappings": 79
+    "total_mappings": 82
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -19,6 +19,7 @@
     "cairomm-docs": "cairomm@1.14",
     "camlp-streams": "camlp-streams",
     "capstone": "capstone",
+    "cargo-about": "cargo-about",
     "cargo-c": "cargo-c",
     "catch2": "catch2",
     "catimg": "catimg",
@@ -45,6 +46,8 @@
     "clamav": "clamav",
     "clang": "llvm@21",
     "clang19": "llvm@21",
+    "clang21": "llvm@21",
+    "claws-mail": "claws-mail",
     "clazy": "clazy",
     "cli11": "cli11",
     "clinfo": "clinfo",

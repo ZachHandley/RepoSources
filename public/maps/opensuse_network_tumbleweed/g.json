@@ -1,15 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_network_tumbleweed",
     "shard": "g",
-    "total_mappings": 4
+    "total_mappings": 8
   },
   "mappings": {
     "grsync": "grsync",
     "grsync-debuginfo": "grsync",
     "grsync-debugsource": "grsync",
-    "grsync-lang": "grsync"
+    "grsync-lang": "grsync",
+    "gssntlmssp": "gss-ntlmssp",
+    "gssntlmssp-debuginfo": "gss-ntlmssp",
+    "gssntlmssp-debugsource": "gss-ntlmssp",
+    "gssntlmssp-devel": "gss-ntlmssp"
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "j",
@@ -210,9 +210,9 @@
     "jruby": "jruby",
     "jruby-devel": "jruby",
     "jruby-javadoc": "jruby",
-    "js": "spidermonkey@115",
-    "js-debuginfo": "spidermonkey@115",
-    "js-debugsource": "spidermonkey@115",
+    "js": "spidermonkey",
+    "js-debuginfo": "spidermonkey",
+    "js-debugsource": "spidermonkey",
     "js-marked": "marked",
     "json-c": "json-c",
     "json-c-debuginfo": "json-c",

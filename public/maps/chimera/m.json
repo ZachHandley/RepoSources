@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "m",
-    "total_mappings": 213
+    "total_mappings": 218
   },
   "mappings": {
     "magic-wormhole": "magic-wormhole",
@@ -30,6 +30,7 @@
     "marisa-trie-devel": "marisa",
     "marisa-trie-doc": "marisa",
     "marisa-trie-progs": "marisa",
+    "markdown-oxide": "markdown-oxide",
     "massren": "massren",
     "maven": "maven",
     "mbedtls": "mbedtls@3",
@@ -151,8 +152,8 @@
     "moreutils-man": "moreutils",
     "mosh": "mosh",
     "mosh-man": "mosh",
-    "mozjs140": "spidermonkey@115",
-    "mozjs140-devel": "spidermonkey@115",
+    "mozjs140": "spidermonkey",
+    "mozjs140-devel": "spidermonkey",
     "mpc": "libmpc",
     "mpc-devel": "libmpc",
     "mpc-devel-doc": "libmpc",
@@ -164,6 +165,10 @@
     "mpdc": "mpc",
     "mpdc-bashcomp": "mpc",
     "mpdc-doc": "mpc",
+    "mpdscribble": "mpdscribble",
+    "mpdscribble-dinit": "mpdscribble",
+    "mpdscribble-doc": "mpdscribble",
+    "mpdscribble-man": "mpdscribble",
     "mpfr": "mpfr",
     "mpfr-devel": "mpfr",
     "mpfr-devel-static": "mpfr",

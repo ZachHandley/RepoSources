@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "y",
-    "total_mappings": 31
+    "total_mappings": 32
   },
   "mappings": {
     "yacas": "yacas",
@@ -14,6 +14,7 @@
     "yajl": "yajl",
     "yamcha": "yamcha",
     "yaml-cpp": "yaml-cpp",
+    "yaml-language-server": "yaml-language-server",
     "yamllint": "yamllint",
     "yank": "yank",
     "yara": "yara",

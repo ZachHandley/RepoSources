@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "w",
-    "total_mappings": 39
+    "total_mappings": 40
   },
   "mappings": {
     "w3m": "w3m",
@@ -25,6 +25,7 @@
     "wget": "wget",
     "whisper-cpp": "whisper-cpp",
     "whois": "whois",
+    "wild": "wild",
     "wimlib": "wimlib",
     "winetricks": "winetricks",
     "wireguard-tools": "wireguard-tools",

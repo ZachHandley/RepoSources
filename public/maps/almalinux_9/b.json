@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "almalinux_9",
     "shard": "b",
@@ -94,7 +94,7 @@
     "boost": "boost",
     "boost-atomic": "boost@1.85",
     "boost-b2": "boost@1.85",
-    "boost-build": "boost@1.85",
+    "boost-build": "boost-build",
     "boost-chrono": "boost@1.85",
     "boost-container": "boost@1.85",
     "boost-context": "boost@1.85",

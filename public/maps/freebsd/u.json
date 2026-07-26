@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "u",
-    "total_mappings": 66
+    "total_mappings": 62
   },
   "mappings": {
     "u-boot-tools": "u-boot-tools",
@@ -36,10 +36,6 @@
     "unicorn": "unicorn",
     "unison": "unison",
     "unison-nox11": "unison",
-    "unison248": "unison",
-    "unison248-nox11": "unison",
-    "unison251": "unison",
-    "unison251-nox11": "unison",
     "unison253": "unison",
     "unison253-nox11": "unison",
     "units": "gnu-units",

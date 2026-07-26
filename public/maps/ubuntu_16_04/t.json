@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
     "shard": "t",
-    "total_mappings": 153
+    "total_mappings": 152
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -27,7 +27,6 @@
     "tarantool-lts-sophia-module": "tarantool",
     "task": "task",
     "task-spooler": "task-spooler",
-    "taskd": "taskd",
     "taskwarrior": "task",
     "tbb": "tbb",
     "tbb-examples": "tbb",

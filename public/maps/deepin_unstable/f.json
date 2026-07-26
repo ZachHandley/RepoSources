@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "deepin_unstable",
     "shard": "f",
-    "total_mappings": 471
+    "total_mappings": 472
   },
   "mappings": {
     "f2fs-modules-5.10.0-10-4kc-malta-di": "linux-headers@6.8",
@@ -67,6 +67,7 @@
     "fades": "fades",
     "fail2ban": "fail2ban",
     "fairymax": "fairymax",
+    "faker": "faker",
     "fakeroot": "fakeroot",
     "faketime": "libfaketime",
     "fancontrol": "lm-sensors",

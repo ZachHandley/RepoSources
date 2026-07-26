@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "w",
-    "total_mappings": 71
+    "total_mappings": 73
   },
   "mappings": {
     "w3m": "w3m",
@@ -48,6 +48,8 @@
     "wiiuse": "wiiuse",
     "wiiuse-dbginfo": "wiiuse",
     "wiiuse-devel": "wiiuse",
+    "wild": "wild",
+    "wild-dbginfo": "wild",
     "wildmidi": "wildmidi",
     "wildmidi-dbginfo": "wildmidi",
     "wildmidi-devel": "wildmidi",

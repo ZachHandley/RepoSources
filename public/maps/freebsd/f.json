@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "f",
-    "total_mappings": 234
+    "total_mappings": 235
   },
   "mappings": {
     "FAudio": "faudio",
@@ -23,6 +23,7 @@
     "faketty": "faketty",
     "fann": "fann",
     "fast_float": "fast_float",
+    "fastani": "fastani",
     "fastfetch": "fastfetch",
     "fastjar": "fastjar",
     "fastnetmon": "fastnetmon",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "s",
-    "total_mappings": 159
+    "total_mappings": 160
   },
   "mappings": {
     "sci-astronomy/wcslib": "wcslib",
@@ -34,7 +34,7 @@
     "sci-libs/geos": "geos",
     "sci-libs/gmsh": "gmsh",
     "sci-libs/gsl": "gsl",
-    "sci-libs/hdf5": "hdf5@1.10",
+    "sci-libs/hdf5": "hdf5",
     "sci-libs/lapack": "lapack",
     "sci-libs/libcerf": "libcerf",
     "sci-libs/libgeotiff": "libgeotiff",
@@ -152,6 +152,7 @@
     "sys-libs/glu": "mesa-glu",
     "sys-libs/hwloc": "hwloc",
     "sys-libs/libatomic_ops": "libatomic_ops",
+    "sys-libs/libc++": "llvm@21",
     "sys-libs/libedit": "libedit",
     "sys-libs/libxcrypt": "libxcrypt",
     "sys-libs/mesa": "mesa",

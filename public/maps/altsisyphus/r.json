@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "r",
-    "total_mappings": 329
+    "total_mappings": 336
   },
   "mappings": {
     "R-base": "r",
@@ -279,6 +279,11 @@
     "rsyslog-snmp-debuginfo": "rsyslog",
     "rsyslog-udpspoof": "rsyslog",
     "rsyslog-udpspoof-debuginfo": "rsyslog",
+    "rtabmap": "rtabmap",
+    "rtabmap-debuginfo": "rtabmap",
+    "rtabmap-devel": "rtabmap",
+    "rtabmap-tools": "rtabmap",
+    "rtabmap-tools-debuginfo": "rtabmap",
     "rtk": "rtk",
     "rtl_433": "rtl_433",
     "rtl_433-debuginfo": "rtl_433",
@@ -302,6 +307,8 @@
     "ruby-stdlibs-debuginfo": "ruby@3.4",
     "ruff": "ruff",
     "ruff-debuginfo": "ruff",
+    "rumdl": "rumdl",
+    "rumdl-debuginfo": "rumdl",
     "runc": "runc",
     "runit": "runit",
     "runit-debuginfo": "runit",

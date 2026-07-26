@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "o",
-    "total_mappings": 280
+    "total_mappings": 281
   },
   "mappings": {
     "oasis": "oasis",
@@ -103,9 +103,9 @@
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
     "opencubicplayer": "ocp",
-    "opencv": "opencv",
-    "opencv-data": "opencv",
-    "opencv-doc": "opencv",
+    "opencv": "opencv@4",
+    "opencv-data": "opencv@4",
+    "opencv-doc": "opencv@4",
     "opendbx-doc": "opendbx",
     "opendbx-utils": "opendbx",
     "opendht": "opendht",
@@ -226,6 +226,7 @@
     "openssh-client-gssapi": "openssh",
     "openssh-client-ssh1": "openssh",
     "openssh-client-udeb": "openssh",
+    "openssh-common": "openssh",
     "openssh-server": "openssh",
     "openssh-server-gssapi": "openssh",
     "openssh-server-udeb": "openssh",

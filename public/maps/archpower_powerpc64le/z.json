@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "z",
-    "total_mappings": 26
+    "total_mappings": 27
   },
   "mappings": {
     "zbar": "zbar",
@@ -22,6 +22,7 @@
     "zlib-debug": "minizip",
     "zlib-ng": "zlib-ng",
     "zlib-ng-compat": "zlib-ng-compat",
+    "zlib-static": "minizip",
     "zsh": "zsh",
     "zsh-autosuggestions": "zsh-autosuggestions",
     "zsh-completions": "zsh-completions",

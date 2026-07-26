@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "j",
-    "total_mappings": 248
+    "total_mappings": 250
   },
   "mappings": {
     "jack": "jack",
@@ -209,6 +209,8 @@
     "json-c": "json-c",
     "json-c-debuginfo": "json-c",
     "json-c-debugsource": "json-c",
+    "json-c-devel": "json-c",
+    "json-c-doc": "json-c",
     "json-glib": "json-glib",
     "json-glib-debuginfo": "json-glib",
     "json-glib-debugsource": "json-glib",

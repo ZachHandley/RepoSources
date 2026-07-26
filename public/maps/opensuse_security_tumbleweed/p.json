@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_security_tumbleweed",
     "shard": "p",
-    "total_mappings": 17
+    "total_mappings": 16
   },
   "mappings": {
     "pam_oath": "oath-toolkit",
@@ -21,7 +21,6 @@
     "pinact-fish-completion": "pinact",
     "pinact-zsh-completion": "pinact",
     "python-pwntools": "pwntools",
-    "python311-pwntools": "pwntools",
     "python313-pwntools": "pwntools",
     "python314-pwntools": "pwntools"
   }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "s",
-    "total_mappings": 323
+    "total_mappings": 325
   },
   "mappings": {
     "SDL": "sdl12-compat",
@@ -25,6 +25,8 @@
     "SDL3_image-devel": "sdl3_image",
     "SDL3_mixer": "sdl3_mixer",
     "SDL3_mixer-devel": "sdl3_mixer",
+    "SDL3_net": "sdl3_net",
+    "SDL3_net-devel": "sdl3_net",
     "SDL3_ttf": "sdl3_ttf",
     "SDL3_ttf-devel": "sdl3_ttf",
     "SDL_gfx": "sdl_gfx",

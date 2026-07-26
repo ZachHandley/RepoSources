@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "t",
-    "total_mappings": 105
+    "total_mappings": 113
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -95,6 +95,14 @@
     "trader-debuginfo": "trader",
     "trader-debugsource": "trader",
     "translate-shell": "translate-shell",
+    "transmission": "transmission-cli",
+    "transmission-cli": "transmission-cli",
+    "transmission-common": "transmission-cli",
+    "transmission-daemon": "transmission-cli",
+    "transmission-debuginfo": "transmission-cli",
+    "transmission-debugsource": "transmission-cli",
+    "transmission-gtk": "transmission-cli",
+    "transmission-qt": "transmission-cli",
     "tre": "tre",
     "tre-common": "tre",
     "tre-debuginfo": "tre",

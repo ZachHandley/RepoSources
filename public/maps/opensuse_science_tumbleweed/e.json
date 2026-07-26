@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "e",
-    "total_mappings": 19
+    "total_mappings": 27
   },
   "mappings": {
     "eccodes": "eccodes",
@@ -15,6 +15,14 @@
     "eigen3": "eigen@3",
     "eigen3-devel": "eigen@3",
     "eigen3-doc": "eigen@3",
+    "epics-base": "epics-base",
+    "epics-base-debuginfo": "epics-base",
+    "epics-base-debugsource": "epics-base",
+    "epics-caRepeater": "epics-base",
+    "epics-catools": "epics-base",
+    "epics-devel": "epics-base",
+    "epics-doc": "epics-base",
+    "epics-iocLogServer": "epics-base",
     "erfa": "erfa",
     "erfa-debuginfo": "erfa",
     "erfa-debugsource": "erfa",

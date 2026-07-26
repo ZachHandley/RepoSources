@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "packman_opensuse_tumbleweed",
     "shard": "l",
-    "total_mappings": 141
+    "total_mappings": 139
   },
   "mappings": {
     "libaacs": "libaacs",
@@ -47,8 +47,6 @@
     "libbdplus-debugsource": "libbdplus",
     "libbdplus-devel": "libbdplus",
     "libbdplus0": "libbdplus",
-    "libdcadec-devel": "dcadec",
-    "libdcadec0": "dcadec",
     "libde265": "libde265",
     "libde265-0": "libde265",
     "libde265-debuginfo": "libde265",

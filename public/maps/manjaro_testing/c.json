@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "c",
-    "total_mappings": 238
+    "total_mappings": 241
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -121,6 +121,7 @@
     "check-docs": "check",
     "check-jsonschema": "check-jsonschema",
     "checkbashisms": "checkbashisms",
+    "checksec": "checksec",
     "cherrytree": "cherrytree",
     "chezmoi": "chezmoi",
     "chicken": "chicken",
@@ -178,6 +179,7 @@
     "committed": "committed",
     "compiler-rt": "llvm@21",
     "composer": "composer",
+    "concurrentqueue": "concurrentqueue",
     "confuse": "confuse",
     "conmon": "conmon",
     "consul-template": "consul-template",
@@ -198,6 +200,7 @@
     "cowsay": "cowsay",
     "cpanminus": "cpanminus",
     "cpio": "cpio",
+    "cpp-httplib": "cpp-httplib",
     "cppcheck": "cppcheck",
     "cpptrace": "cpptrace",
     "cppunit": "cppunit",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "d",
-    "total_mappings": 820
+    "total_mappings": 817
   },
   "mappings": {
     "dMagnetic": "dmagnetic",
@@ -152,7 +152,6 @@
     "databases/tinycdb": "tinycdb",
     "databases/tokyocabinet": "tokyo-cabinet",
     "databases/unixodbc": "unixodbc",
-    "databases/wiredtiger": "wiredtiger",
     "dateutils": "dateutils",
     "dav1d": "dav1d",
     "db": "berkeley-db@5",
@@ -232,7 +231,7 @@
     "devel/blosc2": "c-blosc2",
     "devel/bmake": "bmake",
     "devel/boehm-gc": "bdw-gc",
-    "devel/boost-build": "boost-build",
+    "devel/boost-build": "boost@1.85",
     "devel/boost-docs": "boost@1.85",
     "devel/boost-headers": "boost@1.85",
     "devel/boost-jam": "boost@1.85",
@@ -283,7 +282,6 @@
     "devel/cmake-gui": "cmake",
     "devel/cmake39": "cmake",
     "devel/cmocka": "cmocka",
-    "devel/cmockery2": "cmockery2",
     "devel/coccinelle": "coccinelle",
     "devel/cocogitto": "cocogitto",
     "devel/coconut": "coconut",
@@ -396,8 +394,8 @@
     "devel/gsoap": "gsoap",
     "devel/gtexinfo": "texinfo",
     "devel/haskell-language-server": "haskell-language-server",
-    "devel/hdf5": "hdf5@1.10",
-    "devel/hdf5-c++": "hdf5@1.10",
+    "devel/hdf5": "hdf5",
+    "devel/hdf5-c++": "hdf5",
     "devel/hlint": "hlint",
     "devel/hs-hpack": "hpack",
     "devel/ht": "ht",
@@ -659,7 +657,6 @@
     "devel/samurai": "samurai",
     "devel/sccache": "sccache",
     "devel/scmcvs": "cvs",
-    "devel/scons": "scons",
     "devel/scons4": "scons",
     "devel/sdcc": "sdcc",
     "devel/sdl12-compat": "sdl12-compat",

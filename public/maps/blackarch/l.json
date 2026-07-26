@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "blackarch",
     "shard": "l",
-    "total_mappings": 21
+    "total_mappings": 23
   },
   "mappings": {
     "ldeep": "ldeep",
@@ -25,6 +25,8 @@
     "libowfat": "libowfat",
     "libpcap-1.4": "libpcap",
     "libpng12": "libpng",
+    "libsoup": "libsoup@2",
+    "libsoup-docs": "libsoup@2",
     "libtins": "libtins",
     "lief": "lief",
     "log4cpp": "log4cpp"

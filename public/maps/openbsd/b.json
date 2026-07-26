@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "b",
-    "total_mappings": 86
+    "total_mappings": 87
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -17,6 +17,7 @@
     "bacula-server": "bacula-fd",
     "bacula-sqlite3": "bacula-fd",
     "badkeys": "badkeys",
+    "bandit": "bandit",
     "baobab": "baobab",
     "barcode": "gnu-barcode",
     "baresip": "baresip",

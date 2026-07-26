@@ -1,14 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "z",
-    "total_mappings": 101
+    "total_mappings": 103
   },
   "mappings": {
     "Zim": "zim",
     "z3": "z3",
+    "z3-debuginfo": "z3",
+    "z3-debugsource": "z3",
     "z3-devel": "z3",
     "z3-doc": "z3",
     "z3-libs": "z3",

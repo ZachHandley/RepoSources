@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "d",
-    "total_mappings": 217
+    "total_mappings": 219
   },
   "mappings": {
     "daemonize": "daemonize",
@@ -83,6 +83,8 @@
     "diction-debugsource": "diction",
     "diffstat": "diffstat",
     "diffutils": "diffutils",
+    "diffutils-debuginfo": "diffutils",
+    "diffutils-debugsource": "diffutils",
     "dillo": "dillo",
     "discount": "discount",
     "discount-debuginfo": "discount",

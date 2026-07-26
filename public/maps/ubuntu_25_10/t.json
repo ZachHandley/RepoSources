@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_10",
     "shard": "t",
-    "total_mappings": 373
+    "total_mappings": 375
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -354,6 +354,7 @@
     "tree": "tree",
     "tree-sitter": "tree-sitter",
     "tree-sitter-cli": "tree-sitter@0.25",
+    "trim-galore": "trim-galore",
     "trippy": "trippy",
     "trurl": "trurl",
     "tshark": "wireshark",
@@ -368,6 +369,7 @@
     "ttyd": "ttyd",
     "ttygif": "ttygif",
     "ttyplot": "ttyplot",
+    "ttyrec": "ovh-ttyrec",
     "tup": "tup",
     "tvnamer": "tvnamer",
     "tweak": "tweak",

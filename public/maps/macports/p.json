@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "p",
-    "total_mappings": 993
+    "total_mappings": 997
   },
   "mappings": {
     "PEGTL": "pegtl",
@@ -166,6 +166,9 @@
     "php85": "php@8.4",
     "php85-fpm": "php@8.4",
     "php85-soap": "php@8.4",
+    "php86": "php@8.4",
+    "php86-fpm": "php@8.4",
+    "php86-soap": "php@8.4",
     "phpmyadmin": "phpmyadmin",
     "physfs": "physfs",
     "pi-coding-agent": "pi-coding-agent",
@@ -827,6 +830,7 @@
     "py314-six": "six",
     "py314-snowballstemmer": "snowball",
     "py314-sphinx": "sphinx-doc",
+    "py314-sqlparse": "sqlparse",
     "py314-tabulate": "python-tabulate",
     "py314-tmuxp": "tmuxp",
     "py314-uvicorn": "uvicorn",

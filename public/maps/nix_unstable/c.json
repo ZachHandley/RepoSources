@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "c",
-    "total_mappings": 463
+    "total_mappings": 466
   },
   "mappings": {
     "CUnit": "cunit",
@@ -179,6 +179,7 @@
     "checkmake": "checkmake",
     "checkov": "checkov",
     "checkpwn": "checkpwn",
+    "checksec": "checksec",
     "checkstyle": "checkstyle",
     "cherrytree": "cherrytree",
     "chez": "chezscheme",
@@ -239,6 +240,7 @@
     "cliam": "cliam",
     "clib": "clib",
     "click": "click",
+    "clickhouse-cpp": "clickhouse-cpp",
     "clifm": "clifm",
     "clinfo": "clinfo",
     "cling": "cling",
@@ -263,6 +265,7 @@
     "cloudlist": "cloudlist",
     "cloudmonkey": "cloudmonkey",
     "cloudprober": "cloudprober",
+    "cloudquery": "cloudquery",
     "clp": "clp",
     "clusterctl": "clusterctl",
     "clzip": "clzip",
@@ -407,7 +410,6 @@
     "cruft": "cruft",
     "crun": "crun",
     "crunch": "crunch",
-    "cryfs": "cryfs",
     "crypto++": "cryptopp",
     "cryptol": "cryptol",
     "cryptominisat": "cryptominisat",
@@ -455,6 +457,7 @@
     "curlpp": "curlpp",
     "curseofwar": "curseofwar",
     "curseofwar-sdl": "curseofwar",
+    "cve-bin-tool": "cve-bin-tool",
     "cvs": "cvs",
     "cvs-fast-export": "cvs-fast-export",
     "cxxopts": "cxxopts",

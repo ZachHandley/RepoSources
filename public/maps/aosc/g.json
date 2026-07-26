@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "g",
-    "total_mappings": 165
+    "total_mappings": 166
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -109,6 +109,7 @@
     "gocryptfs": "gocryptfs",
     "goffice": "goffice",
     "gom": "gom",
+    "gopass": "gopass",
     "goreleaser": "goreleaser",
     "gost": "gost",
     "gperf": "gperf",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "w",
-    "total_mappings": 286
+    "total_mappings": 285
   },
   "mappings": {
     "WordNet": "wordnet",
@@ -70,6 +70,7 @@
     "wp-cli-php83": "wp-cli",
     "wp-cli-php84": "wp-cli",
     "wp-cli-php85": "wp-cli",
+    "wp-cli-php86": "wp-cli",
     "wpebackend-fdo": "wpebackend-fdo",
     "wput": "wput",
     "write-good": "write-good",
@@ -198,7 +199,6 @@
     "www/node20": "node@24",
     "www/node22": "node@24",
     "www/node24": "node@24",
-    "www/node25": "node@24",
     "www/node26": "node@24",
     "www/oatpp": "oatpp",
     "www/oauth2-proxy": "oauth2_proxy",
@@ -279,7 +279,6 @@
     "www/yarn-node20": "yarn",
     "www/yarn-node22": "yarn",
     "www/yarn-node24": "yarn",
-    "www/yarn-node25": "yarn",
     "www/yarn-node26": "yarn",
     "www/yaws": "yaws",
     "www/you-get": "you-get",

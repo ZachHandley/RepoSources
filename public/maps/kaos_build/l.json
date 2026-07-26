@@ -1,13 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "l",
-    "total_mappings": 2
+    "total_mappings": 9
   },
   "mappings": {
-    "libheif": "libheif",
+    "libffi": "libffi",
+    "libp11": "libp11",
+    "libssh": "libssh",
+    "libssh2": "libssh2",
+    "limine": "limine",
+    "linux-next": "linux-headers@6.8",
+    "linux-next-docs": "linux-headers@6.8",
+    "linux-next-headers": "linux-headers@6.8",
     "live-media": "openrtsp"
   }
 }

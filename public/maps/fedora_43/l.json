@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "l",
-    "total_mappings": 1837
+    "total_mappings": 1845
   },
   "mappings": {
     "LaTeXML": "latexml",
@@ -43,7 +43,6 @@
     "latex2html": "latex2html",
     "latex2rtf": "latex2rtf",
     "lbdb": "lbdb",
-    "lbzip2": "lbzip2",
     "lcdproc": "lcdproc",
     "lcms": "little-cms2",
     "lcms-devel": "little-cms2",
@@ -62,6 +61,9 @@
     "ldns-utils": "ldns",
     "ledger": "ledger",
     "ledger-devel": "ledger",
+    "lego": "lego",
+    "lego-debuginfo": "lego",
+    "lego-debugsource": "lego",
     "lemon": "sqlite",
     "lensfun": "lensfun",
     "lensfun-devel": "lensfun",
@@ -764,6 +766,8 @@
     "libitm-static": "gcc@15",
     "libjalali": "jcal",
     "libjalali-devel": "jcal",
+    "libjaylink": "libjaylink",
+    "libjaylink-devel": "libjaylink",
     "libjcat": "libjcat",
     "libjcat-devel": "libjcat",
     "libjcat-tests": "libjcat",
@@ -1604,6 +1608,10 @@
     "libzstd": "zstd",
     "libzstd-devel": "zstd",
     "libzstd-static": "zstd",
+    "lief": "lief",
+    "lief-debuginfo": "lief",
+    "lief-debugsource": "lief",
+    "lief-devel": "lief",
     "lightning": "lightning",
     "lightning-devel": "lightning",
     "lighttpd": "lighttpd",

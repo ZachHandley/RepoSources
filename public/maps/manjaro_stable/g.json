@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "g",
-    "total_mappings": 297
+    "total_mappings": 300
   },
   "mappings": {
     "gammaray": "gammaray",
@@ -60,6 +60,8 @@
     "gexiv2-docs": "gexiv2",
     "gflags": "gflags",
     "gfold": "gfold",
+    "ggml": "ggml",
+    "ggml-sycl": "ggml",
     "ghc": "ghc",
     "ghc-libs": "ghc@9.8",
     "ghc-static": "ghc@9.8",
@@ -173,6 +175,7 @@
     "gocryptfs": "gocryptfs",
     "goffice": "goffice",
     "gofumpt": "gofumpt",
+    "goimapnotify": "goimapnotify",
     "golangci-lint": "golangci-lint",
     "gom": "gom",
     "gom-docs": "gom",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "i",
-    "total_mappings": 132
+    "total_mappings": 130
   },
   "mappings": {
     "Imath": "imath",
@@ -14,8 +14,6 @@
     "i2c-tools-debuginfo": "i2c-tools",
     "i2c-tools-debugsource": "i2c-tools",
     "i2pd": "i2pd",
-    "i2pd-debuginfo": "i2pd",
-    "i2pd-debugsource": "i2pd",
     "iat": "iat",
     "iat-debuginfo": "iat",
     "iat-debugsource": "iat",

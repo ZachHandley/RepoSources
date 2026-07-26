@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "deepin_23",
     "shard": "c",
-    "total_mappings": 333
+    "total_mappings": 334
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -78,6 +78,7 @@
     "charon-cmd": "strongswan",
     "charon-systemd": "strongswan",
     "check": "check",
+    "checksec": "checksec",
     "cherrytree": "cherrytree",
     "chezdav": "phodav",
     "chmlib": "chmlib",

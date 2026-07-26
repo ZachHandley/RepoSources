@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "conancenter",
     "shard": "m",
-    "total_mappings": 40
+    "total_mappings": 42
   },
   "mappings": {
     "m4": "m4",
@@ -41,6 +41,8 @@
     "mpfr": "mpfr",
     "mpg123": "mpg123",
     "ms-gsl": "cpp-gsl",
+    "msdf-atlas-gen": "msdf-atlas-gen",
+    "msdfgen": "msdfgen",
     "msgpack": "msgpack",
     "msgpack-cxx": "msgpack-cxx",
     "msgpack23": "msgpack",

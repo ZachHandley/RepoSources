@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "o",
-    "total_mappings": 77
+    "total_mappings": 76
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -40,7 +40,7 @@
     "opencl-headers": "opencl-headers",
     "opencolorio": "opencolorio",
     "openconnect": "openconnect",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "opendbx": "opendbx",
     "openexr": "openexr",
     "openh264": "openh264",
@@ -69,7 +69,6 @@
     "openssh-server": "openssh",
     "openssl": "openssl@3",
     "openssl111": "openssl@4",
-    "openssl111-debug": "openssl@4",
     "opensubdiv": "opensubdiv",
     "openvdb": "openvdb",
     "openvpn": "openvpn",

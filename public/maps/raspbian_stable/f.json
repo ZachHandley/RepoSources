@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_stable",
     "shard": "f",
-    "total_mappings": 394
+    "total_mappings": 399
   },
   "mappings": {
     "f2fs-modules-6.12.41+1-4kc-malta-di": "linux-headers@6.8",
@@ -40,12 +40,15 @@
     "fairy-stockfish": "fairy-stockfish",
     "fairymax": "fairymax",
     "faiss": "faiss",
+    "faker": "faker",
+    "faker-doc": "faker",
     "fakeroot": "fakeroot",
     "faketime": "libfaketime",
     "falcosecurity-libs": "falcosecurity-libs",
     "falcosecurity-scap-dkms": "falcosecurity-libs",
     "fancontrol": "lm-sensors",
     "fast-float": "fast_float",
+    "fastani": "fastani",
     "fastapi": "fastapi",
     "fastd": "fastd",
     "fastd-doc": "fastd",
@@ -143,6 +146,8 @@
     "figtoipe": "pdftoipe",
     "file": "file-formula",
     "file-roller": "file-roller",
+    "filtlong": "filtlong",
+    "filtlong-data": "filtlong",
     "finch": "pidgin",
     "finch-dev": "pidgin",
     "findent": "findent",

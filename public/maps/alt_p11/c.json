@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "c",
-    "total_mappings": 680
+    "total_mappings": 682
   },
   "mappings": {
     "CFR": "cfr-decompiler",
@@ -135,6 +135,7 @@
     "chafa-libs-debuginfo": "chafa",
     "chafa-static": "chafa",
     "check": "check",
+    "checksec": "checksec",
     "cherrytree": "cherrytree",
     "cherrytree-debuginfo": "cherrytree",
     "chess": "gnu-chess",
@@ -571,6 +572,7 @@
     "coreutils-debuginfo": "coreutils",
     "corkscrew": "corkscrew",
     "corkscrew-debuginfo": "corkscrew",
+    "corrosion": "corrosion",
     "corsixth": "corsixth",
     "corsixth-debuginfo": "corsixth",
     "cosign": "cosign",

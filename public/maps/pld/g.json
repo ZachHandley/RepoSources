@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "g",
-    "total_mappings": 178
+    "total_mappings": 180
   },
   "mappings": {
     "GLM": "glm",
@@ -105,6 +105,7 @@
     "go-md2man": "go-md2man",
     "gobject-introspection": "gobject-introspection",
     "gocr": "gocr",
+    "goimapnotify": "goimapnotify",
     "golang": "go",
     "gom": "gom",
     "goocanvas": "goocanvas",
@@ -143,6 +144,7 @@
     "gspell": "gspell",
     "gssdp": "gssdp",
     "gssdp1.6": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
     "gstreamer": "gstreamer",
     "gtest": "googletest",
     "gtk+": "gtk+",

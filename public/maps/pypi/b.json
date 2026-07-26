@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pypi",
     "shard": "b",
-    "total_mappings": 13
+    "total_mappings": 14
   },
   "mappings": {
     "Brotli": "brotli",
     "b2": "b2-tools",
     "b4": "b4",
     "badkeys": "badkeys",
+    "beads-mcp": "beads",
     "beancount": "beancount",
     "black": "black",
     "borgbackup": "borgbackup",

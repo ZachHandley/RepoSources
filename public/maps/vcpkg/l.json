@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "vcpkg",
     "shard": "l",
-    "total_mappings": 256
+    "total_mappings": 257
   },
   "mappings": {
     "lager": "lager",
@@ -198,6 +198,7 @@
     "libuvc": "libuvc",
     "libva": "libva",
     "libversion": "libversion",
+    "libvips": "vips",
     "libvmaf": "libvmaf",
     "libvorbis": "libvorbis",
     "libvpx": "libvpx",

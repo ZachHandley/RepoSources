@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "i",
-    "total_mappings": 69
+    "total_mappings": 68
   },
   "mappings": {
     "ImageMagick": "imagemagick@6",
@@ -31,7 +31,6 @@
     "iir1": "iir1",
     "ike-scan": "ike-scan",
     "imake": "imake",
-    "imap-uw": "imap-uw",
     "imapfilter": "imapfilter",
     "imapsync": "imapsync",
     "imath": "imath",

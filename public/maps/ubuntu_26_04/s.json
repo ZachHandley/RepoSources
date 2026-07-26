@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "s",
-    "total_mappings": 489
+    "total_mappings": 490
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -21,6 +21,7 @@
     "safe-rm": "safe-rm",
     "safeint": "safeint",
     "saidar": "libstatgrab",
+    "salmon": "salmon",
     "samba": "samba",
     "samba-ad-dc": "samba",
     "samba-ad-provision": "samba",

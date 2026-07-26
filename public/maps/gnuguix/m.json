@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "m",
@@ -66,6 +66,7 @@
     "mesa-opencl": "mesa",
     "mesa-utils": "mesa",
     "meson": "meson",
+    "meta-package-manager": "meta-package-manager",
     "metis": "metis",
     "metis-suitesparse": "metis",
     "mg": "mg",
@@ -120,7 +121,7 @@
     "mosquitto": "mosquitto",
     "most": "most",
     "motif": "openmotif",
-    "mozjs": "spidermonkey@115",
+    "mozjs": "spidermonkey",
     "mp3cat": "mp3cat",
     "mp3info": "mp3info",
     "mp3splt": "mp3splt",
@@ -140,7 +141,6 @@
     "mpv": "mpv",
     "mruby": "mruby",
     "mscgen": "mscgen",
-    "msgpack": "msgpack",
     "msgpack-cxx": "msgpack-cxx",
     "msitools": "msitools",
     "msmtp": "msmtp",

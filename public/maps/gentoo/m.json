@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "m",
-    "total_mappings": 436
+    "total_mappings": 435
   },
   "mappings": {
     "mail-client/aerc": "aerc",
@@ -269,7 +269,7 @@
     "media-libs/openal": "openal-soft",
     "media-libs/opencolorio": "opencolorio",
     "media-libs/opencore-amr": "opencore-amr",
-    "media-libs/opencv": "opencv",
+    "media-libs/opencv": "opencv@4",
     "media-libs/openexr": "openexr",
     "media-libs/openh264": "openh264",
     "media-libs/openimageio": "openimageio",
@@ -352,7 +352,6 @@
     "media-sound/cmusfm": "cmusfm",
     "media-sound/csound": "csound",
     "media-sound/darkice": "darkice",
-    "media-sound/dcadec": "dcadec",
     "media-sound/easytag": "easy-tag",
     "media-sound/ecasound": "ecasound",
     "media-sound/ezstream": "ezstream",

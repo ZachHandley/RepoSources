@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "g",
-    "total_mappings": 1209
+    "total_mappings": 1212
   },
   "mappings": {
     "GLEW": "glew",
@@ -1154,6 +1154,9 @@
     "gsoap": "gsoap",
     "gssdp1.6-tools": "gssdp",
     "gssdp1.6-tools-debuginfo": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
+    "gssntlmssp-debuginfo": "gss-ntlmssp",
+    "gssntlmssp-devel": "gss-ntlmssp",
     "gst-plugins-nice1.0": "libnice",
     "gst-plugins-nice1.0-debuginfo": "libnice",
     "gstreamer0.10": "gstreamer",

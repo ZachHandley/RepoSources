@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "devuan_4_0",
     "shard": "f",
-    "total_mappings": 383
+    "total_mappings": 386
   },
   "mappings": {
     "f2fs-modules-5.10.0-32-4kc-malta-di": "linux-headers@6.8",
@@ -42,6 +42,7 @@
     "fail2ban": "fail2ban",
     "fairy-stockfish": "fairy-stockfish",
     "fairymax": "fairymax",
+    "faker": "faker",
     "fakeroot": "fakeroot",
     "faketime": "libfaketime",
     "fancontrol": "lm-sensors",
@@ -139,6 +140,8 @@
     "figtoipe": "pdftoipe",
     "file": "file-formula",
     "file-roller": "file-roller",
+    "filtlong": "filtlong",
+    "filtlong-data": "filtlong",
     "finch": "pidgin",
     "finch-dev": "pidgin",
     "findent": "findent",

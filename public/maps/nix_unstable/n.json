@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "n",
-    "total_mappings": 231
+    "total_mappings": 225
   },
   "mappings": {
     "NGT": "ngt",
@@ -15,6 +15,7 @@
     "nali": "nali",
     "name-that-hash": "name-that-hash",
     "nano": "nano",
+    "nanoarrow": "nanoarrow",
     "nanobind": "nanobind",
     "nanoflann": "nanoflann",
     "nanomsg": "nanomsg",
@@ -130,11 +131,6 @@
     "nifi": "nifi",
     "nikto": "nikto",
     "nim-unwrapped": "nim",
-    "nim-unwrapped-1": "nim",
-    "nim-unwrapped-1_0": "nim",
-    "nim-unwrapped-2": "nim",
-    "nim-unwrapped-2_0": "nim",
-    "nim-unwrapped-2_2": "nim",
     "ninja": "ninja",
     "ninja_1_11": "ninja",
     "ninvaders": "ninvaders",
@@ -160,12 +156,10 @@
     "nodeenv": "nodeenv",
     "nodejs": "node@24",
     "nodejs-slim": "node@24",
-    "nodejs-slim_20": "node@24",
     "nodejs-slim_22": "node@24",
     "nodejs-slim_24": "node@24",
     "nodejs-slim_26": "node@24",
     "nodejs-slim_latest": "node@24",
-    "nodejs_20": "node@24",
     "nodejs_22": "node@24",
     "nodejs_24": "node@24",
     "nodejs_26": "node@24",

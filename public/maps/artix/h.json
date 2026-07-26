@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "h",
@@ -18,7 +18,7 @@
     "harfbuzz-utils": "harfbuzz",
     "hashcat": "hashcat",
     "hdf5": "hdf5",
-    "hdf5-openmpi": "hdf5@1.10",
+    "hdf5-openmpi": "hdf5",
     "helix": "helix",
     "help2man": "help2man",
     "hevea": "hevea",

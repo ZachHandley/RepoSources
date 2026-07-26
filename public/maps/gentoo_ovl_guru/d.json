@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_guru",
     "shard": "d",
-    "total_mappings": 108
+    "total_mappings": 106
   },
   "mappings": {
     "default-jdk": "openjdk",
@@ -96,7 +96,6 @@
     "dev-util/opencode-bin": "opencode",
     "dev-util/riffdiff": "riff",
     "dev-util/rust-script": "rust-script",
-    "dev-util/rye": "rye",
     "dev-util/scc": "scc",
     "dev-util/shellspec": "shellspec",
     "dev-util/stripe-cli": "stripe-cli",
@@ -113,7 +112,6 @@
     "dev-util/yaml-language-server": "yaml-language-server",
     "dev-vcs/ghorg": "ghorg",
     "dev-vcs/lazygit": "lazygit",
-    "dev-vcs/lazyjj": "lazyjj",
     "dev-zig/zls": "zls"
   }
 }

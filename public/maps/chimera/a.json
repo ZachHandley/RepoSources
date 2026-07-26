@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "a",
-    "total_mappings": 159
+    "total_mappings": 166
   },
   "mappings": {
     "abseil-cpp": "abseil",
@@ -18,6 +18,7 @@
     "acl-progs-doc": "acl",
     "acl-progs-locale": "acl",
     "acl-progs-man": "acl",
+    "acpica": "acpica",
     "ada": "ada-url",
     "ada-devel": "ada-url",
     "ada-doc": "ada-url",
@@ -49,6 +50,7 @@
     "apache-ant": "ant@1.9",
     "apache-ant-doc": "ant@1.9",
     "appstream": "appstream",
+    "appstream-bashcomp": "appstream",
     "appstream-devel": "appstream",
     "appstream-devel-static": "appstream",
     "appstream-glib": "appstream-glib",
@@ -112,6 +114,8 @@
     "atkmm1.6": "atkmm@2.28",
     "atkmm1.6-devel": "atkmm@2.28",
     "atkmm1.6-devel-static": "atkmm@2.28",
+    "atop": "atop",
+    "atop-man": "atop",
     "attr": "attr",
     "attr-devel": "attr",
     "attr-devel-doc": "attr",
@@ -164,6 +168,9 @@
     "avahi-ui-devel": "avahi",
     "avahi-ui-libs": "avahi",
     "avahi-ui-progs": "avahi",
+    "axel": "axel",
+    "axel-locale": "axel",
+    "axel-man": "axel",
     "ayatana-ido": "ayatana-ido",
     "ayatana-ido-devel": "ayatana-ido"
   }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_17",
     "shard": "b",
@@ -151,7 +151,7 @@
     "bogofilter": "bogofilter",
     "bogofilter-doc": "bogofilter",
     "boost-build": "boost-build",
-    "boost-build-doc": "boost-build",
+    "boost-build-doc": "boost@1.85",
     "boost-dev": "boost",
     "boost1.80": "boost@1.85",
     "boost1.80-atomic": "boost@1.85",

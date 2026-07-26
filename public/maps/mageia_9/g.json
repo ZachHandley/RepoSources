@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_9",
     "shard": "g",
-    "total_mappings": 621
+    "total_mappings": 625
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -506,6 +506,10 @@
     "gssdp": "gssdp",
     "gssdp-debuginfo": "gssdp",
     "gssdp-debugsource": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
+    "gssntlmssp-debuginfo": "gss-ntlmssp",
+    "gssntlmssp-debugsource": "gss-ntlmssp",
+    "gssntlmssp-devel": "gss-ntlmssp",
     "gstreamer1.0": "gstreamer",
     "gstreamer1.0-debuginfo": "gstreamer",
     "gstreamer1.0-debugsource": "gstreamer",

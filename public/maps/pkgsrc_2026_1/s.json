@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_2026_1",
     "shard": "s",
-    "total_mappings": 660
+    "total_mappings": 659
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -260,7 +260,6 @@
     "sheldon": "sheldon",
     "shellcheck": "shellcheck",
     "shells/ast-ksh": "ksh93",
-    "shells/autojump": "autojump",
     "shells/bash": "bash",
     "shells/bash-completion": "bash-completion@2",
     "shells/bash-preexec": "bash-preexec",
@@ -359,8 +358,8 @@
     "spice-gtk": "spice-gtk",
     "spice-protocol": "spice-protocol",
     "spice-server": "spice-server",
-    "spidermonkey": "spidermonkey@115",
-    "spidermonkey185": "spidermonkey@115",
+    "spidermonkey": "spidermonkey",
+    "spidermonkey185": "spidermonkey",
     "spim": "spim",
     "spin": "spin",
     "spiped": "spiped",

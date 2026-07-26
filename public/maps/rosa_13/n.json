@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "n",
-    "total_mappings": 266
+    "total_mappings": 268
   },
   "mappings": {
     "nacl": "nacl",
@@ -256,6 +256,8 @@
     "numactl-debugsource": "numactl",
     "nut": "nut",
     "nut-cgi": "nut",
+    "nut-debuginfo": "nut",
+    "nut-debugsource": "nut",
     "nut-devel": "nut",
     "nut-server": "nut",
     "nvchecker": "nvchecker",

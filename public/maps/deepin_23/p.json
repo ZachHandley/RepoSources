@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "deepin_23",
     "shard": "p",
-    "total_mappings": 472
+    "total_mappings": 473
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -351,6 +351,7 @@
     "python3-clang-19": "llvm@21",
     "python3-compose": "docker-compose",
     "python3-cracklib": "cracklib",
+    "python3-fake-factory": "faker",
     "python3-fiona": "fiona",
     "python3-fitz": "pymupdf",
     "python3-flake8": "flake8",
@@ -405,7 +406,7 @@
     "python3-numpy": "numpy",
     "python3-openbabel": "open-babel",
     "python3-opencc": "opencc",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-openimageio": "openimageio",
     "python3-openvdb": "openvdb",
     "python3-packaging": "python-packaging",

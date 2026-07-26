@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "b",
-    "total_mappings": 45
+    "total_mappings": 47
   },
   "mappings": {
     "b2": "b2-tools",
@@ -18,6 +18,7 @@
     "bazel-buildtools": "buildifier",
     "bazelisk": "bazelisk",
     "bc": "bc",
+    "beads": "beads",
     "bento4": "bento4",
     "bfg": "bfg",
     "biber": "biber",
@@ -38,6 +39,7 @@
     "boost-msvc142": "boost@1.85",
     "boot-clj": "boot-clj",
     "bottom": "bottom",
+    "bottom-nightly": "bottom",
     "boxes": "boxes",
     "brename": "brename",
     "broot": "broot",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "g",
-    "total_mappings": 334
+    "total_mappings": 338
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -31,6 +31,7 @@
     "gcc-gnat": "gcc@15",
     "gcc-objc": "gcc@15",
     "gcc-objc++": "gcc@15",
+    "gcc-offload-nvptx": "gcc@15",
     "gcc-plugins": "gcc@15",
     "gcc-powerpc64-linux-gnu": "gcc@15",
     "gcc-ppc64-linux-gnu": "gcc@15",
@@ -98,7 +99,6 @@
     "gig": "libgig",
     "gimp-plugin-gmic": "gmic",
     "girara": "girara",
-    "girara-i18n": "girara",
     "git": "git",
     "git-arch": "git",
     "git-archive-all": "git-archive-all",
@@ -234,6 +234,8 @@
     "gperf": "gperf",
     "gperftools": "gperftools",
     "gpgme": "gpgme",
+    "gpgmepp": "gpgmepp",
+    "gpgmepy": "gpgmepy",
     "gphoto2": "gphoto2",
     "gpredict": "gpredict",
     "gprolog": "gnu-prolog",
@@ -281,6 +283,8 @@
     "gspell": "gspell",
     "gspell-i18n": "gspell",
     "gssdp": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
+    "gssntlmssp-devel": "gss-ntlmssp",
     "gstreamer1.0": "gstreamer",
     "gstreamer1.0-nice": "libnice",
     "gstreamer1.0-pipewire": "pipewire",

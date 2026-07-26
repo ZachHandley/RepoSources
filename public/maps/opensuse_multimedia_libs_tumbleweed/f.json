@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "f",
-    "total_mappings": 117
+    "total_mappings": 119
   },
   "mappings": {
     "FAudio": "faudio",
@@ -15,6 +15,7 @@
     "faad2-debuginfo": "faad2",
     "faad2-debugsource": "faad2",
     "faad2-devel": "faad2",
+    "ffmpeg": "ffmpeg@7",
     "ffmpeg-4": "ffmpeg@7",
     "ffmpeg-4-debuginfo": "ffmpeg@7",
     "ffmpeg-4-debugsource": "ffmpeg@7",
@@ -100,6 +101,7 @@
     "fftw3-debuginfo": "fftw",
     "fftw3-debugsource": "fftw",
     "fftw3-devel": "fftw",
+    "fftw3-mpi-devel": "fftw",
     "fftw3-openmp-devel": "fftw",
     "fftw3-threads-devel": "fftw",
     "flac": "flac",

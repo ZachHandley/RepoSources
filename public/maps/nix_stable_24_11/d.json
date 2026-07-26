@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "d",
-    "total_mappings": 254
+    "total_mappings": 253
   },
   "mappings": {
     "Dafny": "dafny",
@@ -49,7 +49,6 @@
     "dbus-glib": "dbus-glib",
     "dbxml": "dbxml",
     "dc3dd": "dc3dd",
-    "dcadec": "dcadec",
     "dcfldd": "dcfldd",
     "dcm2niix": "dcm2niix",
     "dcmtk": "dcmtk",

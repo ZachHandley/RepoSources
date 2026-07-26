@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "h",
@@ -49,8 +49,8 @@
     "hatari-debuginfo": "hatari",
     "hatari-ui": "hatari",
     "hatari-ui-debuginfo": "hatari",
-    "hdf5-examples": "hdf5@1.10",
-    "hdf5-tools": "hdf5@1.10",
+    "hdf5-examples": "hdf5",
+    "hdf5-tools": "hdf5",
     "heatshrink": "heatshrink",
     "heatshrink-debuginfo": "heatshrink",
     "heatshrink-devel": "heatshrink",

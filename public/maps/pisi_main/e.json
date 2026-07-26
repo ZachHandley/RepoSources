@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "e",
-    "total_mappings": 31
+    "total_mappings": 32
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -29,6 +29,7 @@
     "enchant2": "enchant",
     "enet": "enet",
     "enscript": "enscript",
+    "erofs-utils": "erofs-utils",
     "espeak": "espeak",
     "espeak-ng": "espeak-ng",
     "evince": "evince",

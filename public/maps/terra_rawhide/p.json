@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "p",
-    "total_mappings": 24
+    "total_mappings": 25
   },
   "mappings": {
     "pet": "pet",
@@ -13,6 +13,7 @@
     "picotool": "picotool",
     "picotool-debuginfo": "picotool",
     "picotool-debugsource": "picotool",
+    "picotool-devel": "picotool",
     "pixi": "pixi",
     "pixi-bash-completion": "pixi",
     "pixi-debuginfo": "pixi",

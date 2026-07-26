@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "t",
-    "total_mappings": 433
+    "total_mappings": 435
   },
   "mappings": {
     "TinySVM": "tinysvm",
@@ -138,6 +138,7 @@
     "textproc/epubcheck": "epubcheck",
     "textproc/evernote2md": "evernote2md",
     "textproc/expat": "expat",
+    "textproc/fblog": "fblog",
     "textproc/ffe": "ffe",
     "textproc/figlet": "figlet",
     "textproc/fop": "fop",
@@ -226,6 +227,7 @@
     "textproc/man-db": "man-db",
     "textproc/mandoc": "mandoc",
     "textproc/marisa-trie": "marisa",
+    "textproc/markdownlint-cli": "markdownlint-cli",
     "textproc/mdbook": "mdbook",
     "textproc/mdcat": "mdcat",
     "textproc/mdfried": "mdfried",

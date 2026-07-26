@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "g",
-    "total_mappings": 304
+    "total_mappings": 303
   },
   "mappings": {
     "gammaray": "gammaray",
@@ -62,9 +62,7 @@
     "gfold": "gfold",
     "gforth": "gforth",
     "ggml": "ggml",
-    "ggml-rocm": "ggml",
     "ggml-sycl": "ggml",
-    "ggml-vulkan": "ggml",
     "ghc": "ghc",
     "ghc-libs": "ghc@9.8",
     "ghc-static": "ghc@9.8",
@@ -179,6 +177,7 @@
     "gocryptfs": "gocryptfs",
     "goffice": "goffice",
     "gofumpt": "gofumpt",
+    "goimapnotify": "goimapnotify",
     "golangci-lint": "golangci-lint",
     "gom": "gom",
     "gom-docs": "gom",

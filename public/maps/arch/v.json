@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "arch",
     "shard": "v",
-    "total_mappings": 74
+    "total_mappings": 75
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -40,6 +40,7 @@
     "vint": "vint",
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "vis": "vis",
     "vis-lexers": "vis",
     "visidata": "visidata",

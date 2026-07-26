@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "f",
-    "total_mappings": 491
+    "total_mappings": 498
   },
   "mappings": {
     "FAudio": "faudio",
@@ -226,6 +226,13 @@
     "flex": "flex",
     "flex-debuginfo": "flex",
     "flex-debugsource": "flex",
+    "flexiblas": "flexiblas",
+    "flexiblas-debuginfo": "flexiblas",
+    "flexiblas-debugsource": "flexiblas",
+    "flexiblas-devel": "flexiblas",
+    "flexiblas-man": "flexiblas",
+    "flexiblas-netlib": "flexiblas",
+    "flexiblas-openblas-pthreads": "flexiblas",
     "flickcurl": "flickcurl",
     "flickcurl-debuginfo": "flickcurl",
     "flickcurl-debugsource": "flickcurl",

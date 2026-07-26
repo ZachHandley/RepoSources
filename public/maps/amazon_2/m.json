@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "amazon_2",
     "shard": "m",
@@ -24,9 +24,9 @@
     "minicom": "minicom",
     "mksh": "mksh",
     "motif": "openmotif",
-    "mozjs17": "spidermonkey@115",
-    "mozjs24": "spidermonkey@115",
-    "mozjs52": "spidermonkey@115",
+    "mozjs17": "spidermonkey",
+    "mozjs24": "spidermonkey",
+    "mozjs52": "spidermonkey",
     "mpage": "mpage",
     "mpfr": "mpfr",
     "mpg123": "mpg123",

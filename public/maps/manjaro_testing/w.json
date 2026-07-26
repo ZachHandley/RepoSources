@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "w",
-    "total_mappings": 64
+    "total_mappings": 65
   },
   "mappings": {
     "w3m": "w3m",
@@ -38,9 +38,11 @@
     "wgetpaste": "wgetpaste",
     "when": "when",
     "which": "gnu-which",
+    "whisper-cpp": "whisper-cpp",
     "whois": "whois",
     "widelands": "widelands",
     "wiiuse": "wiiuse",
+    "wild": "wild",
     "wildmidi": "wildmidi",
     "wimlib": "wimlib",
     "winetricks": "winetricks",
@@ -64,7 +66,6 @@
     "wp-cli": "wp-cli",
     "wpebackend-fdo": "wpebackend-fdo",
     "wpebackend-fdo-docs": "wpebackend-fdo",
-    "wrangler": "wrangler",
     "wtype": "wtype",
     "wv": "wv",
     "wxwidgets": "wxwidgets",

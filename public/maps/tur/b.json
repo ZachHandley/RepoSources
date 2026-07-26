@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "tur",
     "shard": "b",
@@ -11,9 +11,9 @@
     "bazel5": "bazel@8",
     "bazel6": "bazel@8",
     "bazel7": "bazel@8",
+    "bazel8": "bazel@8",
     "beets": "beets",
     "bettercap": "bettercap",
-    "biome": "biome",
-    "box2d": "box2d"
+    "biome": "biome"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "m",
-    "total_mappings": 18
+    "total_mappings": 21
   },
   "mappings": {
     "magic-wormhole-bash-completion": "magic-wormhole",
@@ -13,6 +13,9 @@
     "mdBook": "mdbook",
     "mdBook-debuginfo": "mdbook",
     "mdBook-debugsource": "mdbook",
+    "mdp": "mdp",
+    "mdp-debuginfo": "mdp",
+    "mdp-debugsource": "mdp",
     "mpv-nightly": "mpv",
     "mpv-nightly-bash-completion": "mpv",
     "mpv-nightly-debuginfo": "mpv",

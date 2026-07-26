@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "l",
@@ -35,7 +35,6 @@
     "lazyjj": "lazyjj",
     "lazysql": "lazysql",
     "lbdb": "lbdb",
-    "lbzip2": "lbzip2",
     "lc0": "lc0",
     "lcdf-typetools": "lcdf-typetools",
     "lcdproc": "lcdproc",
@@ -308,6 +307,7 @@
     "libiscsi": "libiscsi",
     "libisofs": "libisofs",
     "libjack2": "jack",
+    "libjaylink": "libjaylink",
     "libjcat": "libjcat",
     "libjodycode": "libjodycode",
     "libjpeg": "jpeg",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "c",
-    "total_mappings": 414
+    "total_mappings": 423
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -126,6 +126,7 @@
     "chafa-libs": "chafa",
     "chafa-static": "chafa",
     "check_postgres": "check_postgres",
+    "checksec": "checksec",
     "chez-scheme": "chezscheme",
     "chez-scheme-devel": "chezscheme",
     "chez-scheme-examples": "chezscheme",
@@ -192,6 +193,13 @@
     "clang19-resource-filesystem": "llvm@21",
     "clang19-tools-extra": "llvm@21",
     "clang19-tools-extra-devel": "llvm@21",
+    "clang20": "llvm@21",
+    "clang20-analyzer": "llvm@21",
+    "clang20-devel": "llvm@21",
+    "clang20-libs": "llvm@21",
+    "clang20-resource-filesystem": "llvm@21",
+    "clang20-tools-extra": "llvm@21",
+    "clang20-tools-extra-devel": "llvm@21",
     "claws-mail": "claws-mail",
     "claws-mail-debuginfo": "claws-mail",
     "claws-mail-debugsource": "claws-mail",
@@ -341,6 +349,7 @@
     "compat-wxGTK3-gtk2-gl": "wxwidgets@3.2",
     "compat-wxGTK3-gtk2-media": "wxwidgets@3.2",
     "compiler-rt19": "llvm@21",
+    "compiler-rt20": "llvm@21",
     "composer": "composer",
     "conman": "conman",
     "conman-debuginfo": "conman",

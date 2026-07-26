@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "a",
-    "total_mappings": 706
+    "total_mappings": 707
   },
   "mappings": {
     "app-accessibility/at-spi2-core": "at-spi2-core",
@@ -27,6 +27,7 @@
     "app-admin/awscli-bin": "awscli@1",
     "app-admin/bitwarden-cli-bin": "bitwarden-cli",
     "app-admin/chamber": "chamber",
+    "app-admin/checksec": "checksec",
     "app-admin/chezmoi": "chezmoi",
     "app-admin/chrpath": "chrpath",
     "app-admin/cli53": "cli53",
@@ -101,7 +102,6 @@
     "app-arch/gnome-autoar": "gnome-autoar",
     "app-arch/gzip": "gzip",
     "app-arch/innoextract": "innoextract",
-    "app-arch/lbzip2": "lbzip2",
     "app-arch/libarchive": "libarchive",
     "app-arch/libdeflate": "libdeflate",
     "app-arch/libzim": "libzim",
@@ -334,6 +334,7 @@
     "app-emulation/uade": "uade",
     "app-emulation/vice": "vice",
     "app-emulation/virt-manager": "virt-manager",
+    "app-emulation/virtiofsd": "virtiofsd",
     "app-emulation/winetricks": "winetricks",
     "app-forensics/afflib": "afflib",
     "app-forensics/aflplusplus": "afl++",
@@ -477,7 +478,7 @@
     "app-misc/trash-cli": "trash-cli",
     "app-misc/tty-clock": "tty-clock",
     "app-misc/tty-share-bin": "tty-share",
-    "app-misc/ttyrec": "ttyrec",
+    "app-misc/ttyrec": "ovh-ttyrec",
     "app-misc/upterm": "upterm",
     "app-misc/uptimed": "uptimed",
     "app-misc/vifm": "vifm",

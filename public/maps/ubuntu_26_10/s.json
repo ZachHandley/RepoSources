@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "s",
@@ -21,6 +21,7 @@
     "safe-rm": "safe-rm",
     "safeint": "safeint",
     "saidar": "libstatgrab",
+    "salmon": "salmon",
     "samba": "samba",
     "samba-ad-dc": "samba",
     "samba-ad-provision": "samba",
@@ -101,7 +102,6 @@
     "sed": "gnu-sed",
     "selinux-utils": "libselinux",
     "sendemail": "sendemail",
-    "senpai": "senpai",
     "sentencepiece": "sentencepiece",
     "sepol-utils": "libsepol",
     "seqan-apps": "seqan3",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "l",
-    "total_mappings": 646
+    "total_mappings": 647
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -21,7 +21,6 @@
     "lazydocker": "lazydocker",
     "lazygit": "lazygit",
     "lazyjj": "lazyjj",
-    "lbzip2": "lbzip2",
     "lcdproc": "lcdproc",
     "lcms2": "little-cms2",
     "lcov": "lcov",
@@ -227,6 +226,7 @@
     "libisl": "isl",
     "libisofs": "libisofs",
     "libitm": "gcc@15",
+    "libjaylink": "libjaylink",
     "libjcat": "libjcat",
     "libjpeg-turbo": "jpeg-turbo",
     "libjuice": "libjuice",
@@ -569,6 +569,7 @@
     "liquidctl": "liquidctl",
     "litehtml": "litehtml",
     "live-media": "openrtsp",
+    "llama-cpp": "llama.cpp",
     "lld": "lld@21",
     "lld18": "llvm@21",
     "lld20": "llvm@21",

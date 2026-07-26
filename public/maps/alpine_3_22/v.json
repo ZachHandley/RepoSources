@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_22",
     "shard": "v",
-    "total_mappings": 136
+    "total_mappings": 137
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -96,6 +96,7 @@
     "virt-manager-common": "virt-manager",
     "virt-manager-doc": "virt-manager",
     "virt-manager-lang": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "vis": "vis",
     "vis-doc": "vis",
     "viu": "viu",

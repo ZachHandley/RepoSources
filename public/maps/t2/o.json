@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "o",
-    "total_mappings": 56
+    "total_mappings": 57
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -30,7 +30,7 @@
     "opencolorio": "opencolorio",
     "openconnect": "openconnect",
     "opencore-amr": "opencore-amr",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "opendbx": "opendbx",
     "openexr": "openexr",
     "openfpgaloader": "openfpgaloader",
@@ -60,6 +60,7 @@
     "opusfile": "opusfile",
     "or-tools": "or-tools",
     "orc": "orc",
+    "osinfo-db-tools": "osinfo-db-tools",
     "otf2bdf": "otf2bdf",
     "ouch": "ouch",
     "ox": "ox"

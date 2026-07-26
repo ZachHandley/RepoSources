@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "b",
-    "total_mappings": 11
+    "total_mappings": 14
   },
   "mappings": {
     "b3sum": "b3sum",
     "bacon": "bacon",
+    "bandwhich": "bandwhich",
     "bat": "bat",
     "bingrep": "bingrep",
     "bk": "bk",
@@ -17,6 +18,8 @@
     "boa_cli": "boa",
     "bob-nvim": "bob",
     "bore-cli": "bore-cli",
+    "bottom": "bottom",
+    "broot": "broot",
     "bulletty": "bulletty"
   }
 }

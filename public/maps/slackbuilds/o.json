@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "o",
-    "total_mappings": 74
+    "total_mappings": 71
   },
   "mappings": {
-    "office/BibTool": "bib-tool",
     "office/CherryTree": "cherrytree",
     "office/Joplin": "joplin-cli",
     "office/LaTeXML": "latexml",
@@ -67,7 +66,6 @@
     "office/pstoedit": "pstoedit",
     "office/remind": "remind",
     "office/task": "task",
-    "office/taskd": "taskd",
     "office/taskopen": "taskopen",
     "office/tasksh": "tasksh",
     "office/timew": "timewarrior",
@@ -76,7 +74,6 @@
     "office/visidata": "visidata",
     "office/vit": "vit",
     "office/watson": "watson",
-    "office/when": "when",
     "office/wordgrinder": "wordgrinder",
     "office/xpdf3": "xpdf",
     "office/zim": "zim",

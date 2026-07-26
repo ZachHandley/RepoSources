@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openeuler_22_03_lts_sp3",
     "shard": "o",
@@ -67,7 +67,7 @@
     "opencore-amr-debuginfo": "opencore-amr",
     "opencore-amr-debugsource": "opencore-amr",
     "opencore-amr-devel": "opencore-amr",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "openjpeg2": "openjpeg",
     "openjpeg2-debuginfo": "openjpeg",
     "openjpeg2-debugsource": "openjpeg",

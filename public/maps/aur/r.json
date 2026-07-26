@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "r",
-    "total_mappings": 282
+    "total_mappings": 285
   },
   "mappings": {
     "r-mkl": "r",
@@ -71,6 +71,7 @@
     "readline7": "readline",
     "readosm": "readosm",
     "readpe": "readpe",
+    "readpe-git": "readpe",
     "readsb-git": "readsb",
     "rebar3-git": "rebar3",
     "rebar3-zsh": "rebar3",
@@ -100,6 +101,7 @@
     "redstore": "redstore",
     "redu": "redu",
     "redu-bin": "redu",
+    "redwax-tool": "redwax-tool",
     "reflex": "reflex",
     "reg": "reg",
     "regal": "regal",
@@ -186,6 +188,7 @@
     "rnr-bin": "rnr",
     "rnv": "rnv",
     "roadrunner": "roadrunner",
+    "roapi-bin": "roapi",
     "robodoc": "robodoc",
     "robotframework": "robot-framework",
     "rofi-git": "rofi",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shard": "v",
-    "total_mappings": 34
+    "total_mappings": 35
   },
   "mappings": {
     "vala": "vala",
@@ -21,6 +21,7 @@
     "vim-runtime": "vim",
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "vmaf": "libvmaf",
     "volk": "vulkan-volk",
     "vsftpd": "vsftpd",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slackware_15_0",
     "shard": "i",
-    "total_mappings": 19
+    "total_mappings": 20
   },
   "mappings": {
     "icon-naming-utils": "icon-naming-utils",
@@ -15,6 +15,7 @@
     "imake": "imake",
     "indent": "gnu-indent",
     "inih": "inih",
+    "iniparser": "iniparser",
     "inotify-tools": "inotify-tools",
     "intltool": "intltool",
     "inxi": "inxi",

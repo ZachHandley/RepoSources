@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_6",
     "shard": "g",
-    "total_mappings": 248
+    "total_mappings": 249
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -218,6 +218,7 @@
     "gsoap": "gsoap",
     "gspell": "gspell",
     "gssdp": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
     "gstreamer": "gstreamer",
     "gti": "gti",
     "gtk-doc": "gtk-doc",

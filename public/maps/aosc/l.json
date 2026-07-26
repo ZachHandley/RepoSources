@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "l",
-    "total_mappings": 540
+    "total_mappings": 541
   },
   "mappings": {
     "ladspa-sdk": "ladspa-sdk",
@@ -46,6 +46,7 @@
     "lang-js/nodejs": "node@24",
     "lang-js/nodejs-22": "node@24",
     "lang-js/nodejs-24": "node@24",
+    "lang-js/nodejs-26": "node@24",
     "lang-js/nvm": "nvm",
     "lang-js/pnpm": "pnpm@10",
     "lang-js/quickjs": "quickjs",
@@ -128,7 +129,6 @@
     "lapack": "lapack",
     "laszip": "laszip",
     "lazygit": "lazygit",
-    "lbzip2": "lbzip2",
     "lcms1": "little-cms2",
     "lcms2": "little-cms2",
     "lcms2+32": "little-cms2",
@@ -217,7 +217,6 @@
     "libepoxy": "libepoxy",
     "libepoxy+32": "libepoxy",
     "libetonyek": "libetonyek",
-    "libetpan": "libetpan",
     "libev": "libev",
     "libevdev": "libevdev",
     "libevent": "libevent",
@@ -270,6 +269,7 @@
     "libimobiledevice-glue": "libimobiledevice-glue",
     "libiptcdata": "libiptcdata",
     "libisofs": "libisofs",
+    "libjaylink": "libjaylink",
     "libjcat": "libjcat",
     "libjpeg-turbo": "jpeg-turbo",
     "libjpeg-turbo+32": "jpeg-turbo",
@@ -338,6 +338,7 @@
     "libpano13": "libpano",
     "libpaper": "libpaper",
     "libparserutils": "libparserutils",
+    "libpathrs": "libpathrs",
     "libpcap": "libpcap",
     "libpcap+32": "libpcap",
     "libpeas": "libpeas@1",
@@ -354,6 +355,7 @@
     "libproxy": "libproxy",
     "libpsl": "libpsl",
     "libpst": "libpst",
+    "libptytty": "libptytty",
     "libpurple": "pidgin",
     "libqalculate": "libqalculate",
     "libraw": "libraw",
@@ -402,7 +404,6 @@
     "libtasn1": "libtasn1",
     "libtasn1+32": "libtasn1",
     "libtatsu": "libtatsu",
-    "libtermkey": "libtermkey",
     "libthai": "libthai",
     "libthai+32": "libthai",
     "libtheora": "theora",

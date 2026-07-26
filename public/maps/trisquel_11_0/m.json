@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "trisquel_11_0",
     "shard": "m",
@@ -259,9 +259,9 @@
     "most": "most",
     "motif": "openmotif",
     "mount": "gnu-getopt",
-    "mozjs102": "spidermonkey@115",
-    "mozjs78": "spidermonkey@115",
-    "mozjs91": "spidermonkey@115",
+    "mozjs102": "spidermonkey",
+    "mozjs78": "spidermonkey",
+    "mozjs91": "spidermonkey",
     "mp3blaster": "mp3blaster",
     "mp3check": "mp3check",
     "mp3gain": "mp3gain",

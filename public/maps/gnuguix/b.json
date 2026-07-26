@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "b",
-    "total_mappings": 93
+    "total_mappings": 94
   },
   "mappings": {
     "b2sum": "b2sum",
@@ -30,7 +30,6 @@
     "bchunk": "bchunk",
     "bdb": "berkeley-db@5",
     "bdftopcf": "bdftopcf",
-    "beads": "beads",
     "beancount": "beancount",
     "beancount-language-server": "beancount-language-server",
     "beanquery": "beanquery",
@@ -39,6 +38,7 @@
     "bedtools": "bedtools",
     "beets": "beets",
     "benchmark": "google-benchmark",
+    "bender": "bender",
     "bfs": "bfs",
     "bgpq3": "bgpq3",
     "bibtool": "bib-tool",
@@ -50,6 +50,7 @@
     "binutils": "binutils",
     "binwalk": "binwalk",
     "bioawk": "bioawk",
+    "bismark": "bismark",
     "bison": "bison",
     "bitcoin-core": "bitcoin",
     "bitlbee": "bitlbee",

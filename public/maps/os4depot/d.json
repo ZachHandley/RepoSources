@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "d",
-    "total_mappings": 167
+    "total_mappings": 168
   },
   "mappings": {
     "dasm.lha": "dasm",
@@ -43,6 +43,7 @@
     "development/library/audio/libmpcdec.lha": "musepack",
     "development/library/audio/libogg.lha": "libogg",
     "development/library/audio/libopencore-amr.lha": "opencore-amr",
+    "development/library/audio/libopenmpt.lha": "libopenmpt",
     "development/library/audio/libopus.lha": "opus",
     "development/library/audio/libopusenc.lha": "libopusenc",
     "development/library/audio/libopusfile.lha": "opusfile",

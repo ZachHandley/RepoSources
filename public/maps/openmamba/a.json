@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "a",
-    "total_mappings": 79
+    "total_mappings": 77
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -12,7 +12,6 @@
     "abseil-cpp2508": "abseil",
     "ace": "ace",
     "acl": "acl",
-    "acl-debug": "acl",
     "acpica": "acpica",
     "ada": "ada-url",
     "adios2": "adios2",
@@ -81,7 +80,6 @@
     "avahi-compat-howl-devel": "avahi",
     "avahi-compat-libdns_sd": "avahi",
     "avahi-compat-libdns_sd-devel": "avahi",
-    "avahi-debug": "avahi",
     "avahi-gui": "avahi",
     "avahi-mono": "avahi",
     "avisynthplus": "avisynthplus",

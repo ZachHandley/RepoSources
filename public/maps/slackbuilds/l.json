@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "l",
-    "total_mappings": 539
+    "total_mappings": 538
   },
   "mappings": {
     "libraries/Botan": "botan@2",
@@ -72,7 +72,6 @@
     "libraries/date": "howard-hinnant-date",
     "libraries/dav1d": "dav1d",
     "libraries/dbcsr": "dbcsr",
-    "libraries/dcadec": "dcadec",
     "libraries/dcmtk": "dcmtk",
     "libraries/dlib": "dlib",
     "libraries/double-conversion": "double-conversion",
@@ -121,6 +120,7 @@
     "libraries/grpc": "grpc",
     "libraries/gsm": "libgsm",
     "libraries/gspell": "gspell",
+    "libraries/gss-ntlmssp": "gss-ntlmssp",
     "libraries/gssdp": "gssdp",
     "libraries/gtkdatabox": "gtkdatabox",
     "libraries/gtkglext": "gtkglext",
@@ -134,7 +134,7 @@
     "libraries/gupnp": "gupnp",
     "libraries/gupnp-av": "gupnp-av",
     "libraries/gwenhywfar": "gwenhywfar",
-    "libraries/hdf5": "hdf5@1.10",
+    "libraries/hdf5": "hdf5",
     "libraries/hidapi": "hidapi",
     "libraries/highway": "highway",
     "libraries/hiredis": "hiredis",
@@ -467,7 +467,6 @@
     "libraries/simdutf": "simdutf",
     "libraries/skalibs": "skalibs",
     "libraries/smpeg2": "smpeg2",
-    "libraries/soci": "soci",
     "libraries/sofia-sip": "sofia-sip",
     "libraries/sord": "sord",
     "libraries/soundtouch": "sound-touch",

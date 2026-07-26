@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "t",
-    "total_mappings": 223
+    "total_mappings": 222
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -20,7 +20,6 @@
     "tarantool-devel": "tarantool",
     "task": "task",
     "task-spooler": "task-spooler",
-    "taskd": "taskd",
     "taskflow": "taskflow",
     "taskflow-devel": "taskflow",
     "taskflow-doc": "taskflow",

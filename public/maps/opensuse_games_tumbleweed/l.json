@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_games_tumbleweed",
     "shard": "l",
-    "total_mappings": 156
+    "total_mappings": 157
   },
   "mappings": {
     "lgeneral": "lgeneral",
@@ -63,6 +63,7 @@
     "libSDL3_image0": "sdl3_image",
     "libSDL3_mixer0": "sdl3_mixer",
     "libSDL3_net0": "sdl3_net",
+    "libSDL3_sound0": "sdl3_sound",
     "libSDL3_ttf0": "sdl3_ttf",
     "libSDL_gfx-devel": "sdl_gfx",
     "libSDL_gfx16": "sdl_gfx",

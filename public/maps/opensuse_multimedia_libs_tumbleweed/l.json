@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "l",
-    "total_mappings": 614
+    "total_mappings": 615
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -29,7 +29,7 @@
     "libGLEW2_3": "glew",
     "libSoundTouch1": "sound-touch",
     "libSoundTouchDll1": "sound-touch",
-    "libSvtAv1Enc3": "svt-av1",
+    "libSvtAv1Enc4": "svt-av1",
     "libUnitTest++-2_0_0": "unittest-cpp",
     "libUsageEnvironment3": "openrtsp",
     "libWildMidi2": "wildmidi",
@@ -215,6 +215,7 @@
     "libffms2-5": "ffms2",
     "libffms2-devel": "ffms2",
     "libfftw3-3": "fftw",
+    "libfftw3_mpi3": "fftw",
     "libfftw3_omp3": "fftw",
     "libfftw3_threads3": "fftw",
     "libfishsound": "libfishsound",
@@ -397,7 +398,7 @@
     "libnpupnp-debugsource": "libnpupnp",
     "libnpupnp-devel": "libnpupnp",
     "libnpupnp13": "libnpupnp",
-    "liboapv2": "openapv",
+    "liboapv3": "openapv",
     "libogg": "libogg",
     "libogg-debuginfo": "libogg",
     "libogg-debugsource": "libogg",

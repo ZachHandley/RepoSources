@@ -1,12 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "y",
-    "total_mappings": 11
+    "total_mappings": 16
   },
   "mappings": {
+    "yafc": "yafc",
+    "yaml-cpp": "yaml-cpp",
+    "yara": "yara",
+    "yara-doc": "yara",
     "yarnpkg": "yarn",
     "yash": "yash",
     "yaws": "yaws",
@@ -16,7 +20,8 @@
     "yaws-wiki": "yaws",
     "yaws-yapp": "yaws",
     "ydiff": "ydiff",
+    "ykcs11": "yubico-piv-tool",
     "youplot": "youplot",
-    "yt-dlp": "yt-dlp"
+    "yubico-piv-tool": "yubico-piv-tool"
   }
 }

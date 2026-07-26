@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "c",
-    "total_mappings": 73
+    "total_mappings": 75
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -45,6 +45,8 @@
     "clamav": "clamav",
     "clang": "llvm@21",
     "clang19": "llvm@21",
+    "clang21": "llvm@21",
+    "claws-mail": "claws-mail",
     "cli11": "cli11",
     "clinfo": "clinfo",
     "clisp": "clisp",

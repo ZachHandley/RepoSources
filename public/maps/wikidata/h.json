@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "h",
@@ -10,7 +10,7 @@
     "H2": "h2",
     "H2O": "h2o",
     "HAProxy": "haproxy@2.8",
-    "HDF5": "hdf5@1.10",
+    "HDF5": "hdf5",
     "HMMER": "hmmer",
     "HTML Tidy": "tidy-html5",
     "HTTPie": "httpie",

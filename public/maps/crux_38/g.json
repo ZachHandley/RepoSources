@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crux_38",
     "shard": "g",
-    "total_mappings": 80
+    "total_mappings": 81
   },
   "mappings": {
     "gawk": "gawk",
@@ -34,6 +34,7 @@
     "glade": "glade",
     "glew": "glew",
     "glew-32": "glew",
+    "glfw": "glfw",
     "glib": "glib",
     "glib-32": "glib",
     "glib-networking": "glib-networking",

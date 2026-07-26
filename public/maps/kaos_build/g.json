@@ -1,16 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kaos_build",
     "shard": "g",
-    "total_mappings": 5
+    "total_mappings": 2
   },
   "mappings": {
-    "gdk-pixbuf2": "gdk-pixbuf",
-    "git": "git",
-    "glib2": "glib",
-    "glibmm": "glibmm",
-    "gpgme": "gpgme"
+    "gdal": "gdal",
+    "graphicsmagick": "graphicsmagick"
   }
 }

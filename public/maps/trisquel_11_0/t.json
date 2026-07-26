@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "trisquel_11_0",
     "shard": "t",
@@ -22,7 +22,6 @@
     "tarlz": "tarlz",
     "task": "task",
     "task-spooler": "task-spooler",
-    "taskd": "taskd",
     "tasksh": "tasksh",
     "taskwarrior": "task",
     "tbb": "tbb",
@@ -321,6 +320,7 @@
     "tre-agrep": "tre",
     "tree": "tree",
     "tree-sitter": "tree-sitter",
+    "trim-galore": "trim-galore",
     "truffle": "truffle",
     "tshark": "wireshark",
     "tsung": "tsung",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_39",
     "shard": "c",
-    "total_mappings": 887
+    "total_mappings": 888
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -274,6 +274,7 @@
     "check-devel": "check",
     "check-static": "check",
     "check_postgres": "check_postgres",
+    "checksec": "checksec",
     "chez-scheme": "chezscheme",
     "chez-scheme-debuginfo": "chezscheme",
     "chez-scheme-debugsource": "chezscheme",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "trisquel_11_0",
     "shard": "p",
-    "total_mappings": 775
+    "total_mappings": 776
   },
   "mappings": {
     "p0f": "p0f",
@@ -568,6 +568,7 @@
     "python3-eyed3": "eye-d3",
     "python3-fabric": "fabric",
     "python3-faiss": "faiss",
+    "python3-fake-factory": "faker",
     "python3-fastapi": "fastapi",
     "python3-fava": "fava",
     "python3-fiona": "fiona",
@@ -665,7 +666,7 @@
     "python3-olm": "libolm",
     "python3-onnx": "onnx",
     "python3-openbabel": "open-babel",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-opendht": "opendht",
     "python3-openimageio": "openimageio",
     "python3-openvdb": "openvdb",

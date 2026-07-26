@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chocolatey",
     "shard": "o",
-    "total_mappings": 74
+    "total_mappings": 78
   },
   "mappings": {
     "OONI Probe CLI": "ooniprobe",
@@ -17,7 +17,8 @@
     "Ollama Large Language Models": "ollama",
     "OneFetch": "onefetch",
     "Open On-Chip Debugger": "open-ocd",
-    "OpenCV": "opencv",
+    "OpenBao (Install)": "openbao",
+    "OpenCV": "opencv@4",
     "OpenJDK": "openjdk@25",
     "OpenJDK (Portable)": "openjdk@25",
     "OpenJDK 12": "openjdk@25",
@@ -35,11 +36,13 @@
     "OptiPNG": "optipng",
     "OptiPNG: Advanced PNG Optimizer": "optipng",
     "Opus Tools": "opus-tools",
+    "Oracle Cloud Infrastructure CLI (oci-cli)": "oci-cli",
     "OrientDB (Portable)": "orientdb",
     "Osslsigncode": "osslsigncode",
     "Oxc Oxfmt": "oxfmt",
     "Oxc Oxlint": "oxlint",
     "ocaml": "ocaml@4",
+    "oci-cli": "oci-cli",
     "octave.install": "octave",
     "octave.portable": "octave",
     "octobuild": "octobuild",
@@ -47,6 +50,7 @@
     "okta-aws-cli": "okta-aws-cli",
     "onefetch": "onefetch",
     "ooniprobe-cli": "ooniprobe",
+    "openbao": "openbao",
     "opencode": "opencode",
     "openconnect": "openconnect",
     "openconnect (Install)": "openconnect",

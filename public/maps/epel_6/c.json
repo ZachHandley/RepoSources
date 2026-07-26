@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_6",
     "shard": "c",
@@ -31,6 +31,7 @@
     "cgit": "cgit",
     "cgnslib": "cgns",
     "check_postgres": "check_postgres",
+    "checksec": "checksec",
     "chicken": "chicken",
     "chkrootkit": "chkrootkit",
     "chmlib": "chmlib",
@@ -50,7 +51,6 @@
     "cmark": "cmark",
     "cminpack": "cminpack",
     "cmocka": "cmocka",
-    "cmockery2": "cmockery2",
     "codec2": "codec2",
     "coffee-script": "coffeescript",
     "coin-or-CoinUtils": "coinutils",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "h",
-    "total_mappings": 116
+    "total_mappings": 117
   },
   "mappings": {
     "hackrf": "hackrf",
@@ -36,8 +36,8 @@
     "haxe": "haxe",
     "hcxtools": "hcxtools",
     "hdf5": "hdf5",
-    "hdf5-helpers": "hdf5@1.10",
-    "hdf5-tools": "hdf5@1.10",
+    "hdf5-helpers": "hdf5",
+    "hdf5-tools": "hdf5",
     "hdhomerun-config": "libhdhomerun",
     "heatshrink": "heatshrink",
     "hebcal": "hebcal",
@@ -107,6 +107,7 @@
     "hunspell": "hunspell",
     "hunspell-tools": "hunspell",
     "hut": "hut",
+    "hwatch": "hwatch",
     "hwloc": "hwloc",
     "hwloc-contrib": "hwloc",
     "hwloc-nox": "hwloc",

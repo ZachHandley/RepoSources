@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "g",
-    "total_mappings": 53
+    "total_mappings": 54
   },
   "mappings": {
     "game/action/myman.lha": "myman",
@@ -30,6 +30,7 @@
     "game/shmup/opentyrian.lha": "open-tyrian",
     "game/shmup/sf.lha": "sf",
     "game/shmup/tunnel.lha": "tunnel",
+    "game/shmup/zero.lha": "zero",
     "game/strategy/fheroes2.lha": "fheroes2",
     "game/strategy/freeciv-sdl.lha": "freeciv",
     "game/strategy/simutrans.lha": "simutrans",

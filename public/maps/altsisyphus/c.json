@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "c",
-    "total_mappings": 685
+    "total_mappings": 689
   },
   "mappings": {
     "CFR": "cfr-decompiler",
@@ -46,6 +46,8 @@
     "cargo-about-debuginfo": "cargo-about",
     "cargo-auditable": "cargo-auditable",
     "cargo-auditable-debuginfo": "cargo-auditable",
+    "cargo-espflash": "espflash",
+    "cargo-espflash-debuginfo": "espflash",
     "cargo-expand": "cargo-expand",
     "cargo-expand-debuginfo": "cargo-expand",
     "cargo-flamegraph": "cargo-flamegraph",
@@ -150,6 +152,8 @@
     "check": "check",
     "checkmake": "checkmake",
     "checkmake-debuginfo": "checkmake",
+    "checksec": "checksec",
+    "checksec-debuginfo": "checksec",
     "cherrytree": "cherrytree",
     "cherrytree-debuginfo": "cherrytree",
     "chess": "gnu-chess",

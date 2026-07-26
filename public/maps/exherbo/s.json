@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "exherbo",
     "shard": "s",
-    "total_mappings": 234
+    "total_mappings": 233
   },
   "mappings": {
     "sci-apps/fricas": "fricas",
@@ -39,7 +39,7 @@
     "sci-libs/geos": "geos",
     "sci-libs/glpk": "glpk",
     "sci-libs/gsl": "gsl",
-    "sci-libs/hdf5": "hdf5@1.10",
+    "sci-libs/hdf5": "hdf5",
     "sci-libs/lapack": "lapack",
     "sci-libs/libgeotiff": "libgeotiff",
     "sci-libs/libnova": "libnova",
@@ -54,7 +54,6 @@
     "sci-physics/bullet": "bullet",
     "security/libselinux": "libselinux",
     "security/libsepol": "libsepol",
-    "server-pim/taskd": "taskd",
     "sys-analyzer/perf": "linux-headers@6.8",
     "sys-apps/acl": "acl",
     "sys-apps/attr": "attr",

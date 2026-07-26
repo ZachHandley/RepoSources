@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "l",
-    "total_mappings": 448
+    "total_mappings": 451
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -21,6 +21,7 @@
     "lcov": "lcov",
     "lensfun": "lensfun",
     "leptonlib": "leptonica",
+    "lerc": "liblerc",
     "less": "less",
     "lesspipe": "lesspipe",
     "lexbor": "lexbor",
@@ -162,6 +163,7 @@
     "libirecovery": "libirecovery",
     "libiscsi": "libiscsi",
     "libisofs": "libisofs",
+    "libjaylink": "libjaylink",
     "libjcat": "libjcat",
     "libjpeg": "jpeg",
     "libjpeg-turbo": "jpeg-turbo",
@@ -323,6 +325,7 @@
     "libtommath": "libtommath",
     "libtool": "libtool",
     "libtorrent": "libtorrent-rakshasa",
+    "libtorrent-rasterbar": "libtorrent-rasterbar",
     "libtpms": "libtpms",
     "libudfread": "libudfread",
     "libuecc": "libuecc",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "b",
-    "total_mappings": 225
+    "total_mappings": 224
   },
   "mappings": {
     "BNFC": "bnfc",
@@ -159,7 +159,6 @@
     "bonnie++": "bonnie++",
     "boolector": "boolector",
     "boost": "boost",
-    "boost-build": "boost-build",
     "boost177": "boost@1.85",
     "boost178": "boost@1.85",
     "boost179": "boost@1.85",

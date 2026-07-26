@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "m",
-    "total_mappings": 711
+    "total_mappings": 708
   },
   "mappings": {
     "M4RI": "m4ri",
@@ -44,6 +44,7 @@
     "mail/gmime26": "gmime",
     "mail/gmime26-sharp": "gmime",
     "mail/gmime30": "gmime",
+    "mail/goimapnotify": "goimapnotify",
     "mail/hashcash": "hashcash",
     "mail/imapfilter": "imapfilter",
     "mail/imapsync": "imapsync",
@@ -83,8 +84,6 @@
     "mariadb-connector-odbc": "mariadb-connector-odbc",
     "mariadb1011-client": "mariadb@11.8",
     "mariadb1011-server": "mariadb@11.8",
-    "mariadb106-client": "mariadb@11.8",
-    "mariadb106-server": "mariadb@11.8",
     "mariadb114-client": "mariadb@11.8",
     "mariadb114-server": "mariadb@11.8",
     "mariadb118-client": "mariadb@11.8",
@@ -527,6 +526,7 @@
     "monkeysphere": "monkeysphere",
     "mono": "mono",
     "monolith": "monolith",
+    "moon": "moon",
     "moon-buggy": "moon-buggy",
     "moor": "moor",
     "moreutils": "moreutils",
@@ -611,7 +611,6 @@
     "multimedia/libcec": "libcec",
     "multimedia/libdc1394": "libdc1394",
     "multimedia/libdca": "libdca",
-    "multimedia/libdcadec": "dcadec",
     "multimedia/libde265": "libde265",
     "multimedia/libdv": "libdv",
     "multimedia/libdvbcsa": "libdvbcsa",
@@ -713,8 +712,6 @@
     "mysql80-server": "mysql@8.4",
     "mysql84-client": "mysql@8.4",
     "mysql84-server": "mysql@8.4",
-    "mysql96-client": "mysql@8.4",
-    "mysql96-server": "mysql@8.4",
     "mysql97-client": "mysql@8.4",
     "mysql97-server": "mysql@8.4",
     "mysqltuner": "mysqltuner"

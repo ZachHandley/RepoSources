@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "centos_6",
     "shard": "o",
@@ -11,7 +11,7 @@
     "ocaml": "ocaml@4",
     "ocaml-findlib": "ocaml-findlib",
     "oniguruma": "oniguruma",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "openjpeg": "openjpeg",
     "openldap": "openldap",
     "openmotif": "openmotif",

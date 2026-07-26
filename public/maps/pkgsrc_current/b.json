@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "b",
-    "total_mappings": 127
+    "total_mappings": 128
   },
   "mappings": {
     "BibTool": "bib-tool",
@@ -93,6 +93,7 @@
     "bkt": "bkt",
     "blastem": "blastem",
     "blitz++": "blitz",
+    "blogc": "blogc",
     "blosc": "c-blosc",
     "blosc2": "c-blosc2",
     "bmake": "bmake",
@@ -106,7 +107,7 @@
     "boost-build": "boost-build",
     "boost-docs": "boost@1.85",
     "boost-headers": "boost@1.85",
-    "boost-jam": "boost@1.85",
+    "boost-jam": "boost-build",
     "boost-libs": "boost@1.85",
     "boost-mpi": "boost-mpi",
     "bosh": "star",

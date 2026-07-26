@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "k",
-    "total_mappings": 66
+    "total_mappings": 70
   },
   "mappings": {
     "k6": "k6",
@@ -32,6 +32,8 @@
     "kea-dinit": "kea",
     "kea-doc": "kea",
     "kea-pycache": "kea",
+    "keychain": "keychain",
+    "keychain-man": "keychain",
     "keyd": "keyd",
     "keyd-dinit": "keyd",
     "keyd-doc": "keyd",
@@ -63,6 +65,8 @@
     "knot-man": "knot",
     "knot-progs": "knot",
     "knot-progs-man": "knot",
+    "kotofetch": "kotofetch",
+    "kotofetch-doc": "kotofetch",
     "ktexttemplate": "ktexttemplate",
     "ktexttemplate-devel": "ktexttemplate",
     "kyotocabinet": "kyoto-cabinet",

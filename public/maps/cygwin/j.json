@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "j",
@@ -23,8 +23,8 @@
     "jpegoptim-debuginfo": "jpegoptim",
     "jq": "jq",
     "jq-debuginfo": "jq",
-    "js185": "spidermonkey@115",
-    "js185-debuginfo": "spidermonkey@115",
+    "js185": "spidermonkey",
+    "js185-debuginfo": "spidermonkey",
     "jsc1": "webkitgtk",
     "jsc3": "webkitgtk",
     "json-c": "json-c",

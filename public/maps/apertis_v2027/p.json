@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "apertis_v2027",
     "shard": "p",
-    "total_mappings": 324
+    "total_mappings": 325
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -221,6 +221,7 @@
     "python3-clang-18": "llvm@21",
     "python3-clang-19": "llvm@21",
     "python3-cracklib": "cracklib",
+    "python3-fake-factory": "faker",
     "python3-fiona": "fiona",
     "python3-flake8": "flake8",
     "python3-flatbuffers": "flatbuffers",

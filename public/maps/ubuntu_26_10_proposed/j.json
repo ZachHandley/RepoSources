@@ -1,16 +1,21 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "j",
-    "total_mappings": 8
+    "total_mappings": 13
   },
   "mappings": {
+    "jack-audio-connection-kit": "jack",
+    "jackd1": "jack",
+    "jackd1-firewire": "jack",
     "jansson": "jansson",
+    "jbig2dec": "jbig2dec",
     "jetty12": "jetty",
     "jimsh": "jimtcl",
     "jimtcl": "jimtcl",
+    "jose": "jose",
     "json-c": "json-c",
     "jujutsu": "jj",
     "jupyterlab": "jupyterlab",

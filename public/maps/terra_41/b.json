@@ -1,17 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_41",
     "shard": "b",
-    "total_mappings": 10
+    "total_mappings": 17
   },
   "mappings": {
+    "bandwhich": "bandwhich",
+    "bandwhich-debuginfo": "bandwhich",
     "bat-extras": "bat-extras",
     "binsider": "binsider",
     "binsider-debuginfo": "binsider",
     "binsider-debugsource": "binsider",
     "bitwarden-cli": "bitwarden-cli",
+    "bottom": "bottom",
+    "bottom-bash-completion": "bottom",
+    "bottom-debuginfo": "bottom",
+    "bottom-fish-completion": "bottom",
+    "bottom-zsh-completion": "bottom",
     "btdu": "btdu",
     "bup": "bup",
     "bup-debuginfo": "bup",

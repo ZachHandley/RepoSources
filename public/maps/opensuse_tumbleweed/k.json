@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "k",
-    "total_mappings": 382
+    "total_mappings": 385
   },
   "mappings": {
     "k0sctl": "k0sctl",
@@ -138,9 +138,6 @@
     "klavaro": "klavaro",
     "klavaro-debuginfo": "klavaro",
     "klavaro-debugsource": "klavaro",
-    "klee": "klee",
-    "klee-debuginfo": "klee",
-    "klee-debugsource": "klee",
     "klog": "klog",
     "klog-bash-completion": "klog",
     "klog-debuginfo": "klog",
@@ -227,6 +224,12 @@
     "kubectl-explore": "kubectl-explore",
     "kubectl-explore-debuginfo": "kubectl-explore",
     "kubectl-explore-debugsource": "kubectl-explore",
+    "kubectl-klock": "kubectl-klock",
+    "kubectl-klock-bash-completion": "kubectl-klock",
+    "kubectl-klock-debuginfo": "kubectl-klock",
+    "kubectl-klock-debugsource": "kubectl-klock",
+    "kubectl-klock-fish-completion": "kubectl-klock",
+    "kubectl-klock-zsh-completion": "kubectl-klock",
     "kubectl-rook-ceph": "kubectl-rook-ceph",
     "kubectl-rook-ceph-debuginfo": "kubectl-rook-ceph",
     "kubectl-rook-ceph-debugsource": "kubectl-rook-ceph",

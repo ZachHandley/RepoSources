@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_05",
     "shard": "g",
-    "total_mappings": 518
+    "total_mappings": 519
   },
   "mappings": {
     "g-ls": "g-ls",
@@ -205,7 +205,6 @@
     "gitlab-release-cli": "gitlab-release-cli",
     "gitlab-runner": "gitlab-runner",
     "gitleaks": "gitleaks",
-    "gitless": "gitless",
     "gitlint": "gitlint",
     "gitmux": "gitmux",
     "gitnr": "gitnr",
@@ -341,8 +340,10 @@
     "gocr": "gocr",
     "gocryptfs": "gocryptfs",
     "goctl": "goctl",
+    "gof5": "gof5",
     "goffice": "goffice",
     "gofumpt": "gofumpt",
+    "goimapnotify": "goimapnotify",
     "gojq": "gojq",
     "gokey": "gokey",
     "goku": "goku",

@@ -1,16 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "h",
-    "total_mappings": 118
+    "total_mappings": 123
   },
   "mappings": {
     "halibut": "halibut",
     "halibut-doc": "halibut",
     "halibut-man": "halibut",
     "haproxy": "haproxy",
+    "haproxy-cli-scripts": "haproxy@2.8",
     "haproxy-dinit": "haproxy@2.8",
     "haproxy-doc": "haproxy@2.8",
     "haproxy-man": "haproxy@2.8",
@@ -29,9 +30,9 @@
     "hcloud-zshcomp": "hcloud",
     "hdf5": "hdf5",
     "hdf5-devel": "hdf5",
-    "hdf5-devel-static": "hdf5@1.10",
-    "hdf5-doc": "hdf5@1.10",
-    "hdf5-progs": "hdf5@1.10",
+    "hdf5-devel-static": "hdf5",
+    "hdf5-doc": "hdf5",
+    "hdf5-progs": "hdf5",
     "heimdal": "heimdal",
     "heimdal-asn1-libs": "heimdal",
     "heimdal-clients": "heimdal",
@@ -109,11 +110,13 @@
     "hut-man": "hut",
     "hut-zshcomp": "hut",
     "hwloc": "hwloc",
-    "hwloc-bashcomp": "hwloc",
     "hwloc-devel": "hwloc",
     "hwloc-devel-man": "hwloc",
     "hwloc-doc": "hwloc",
     "hwloc-man": "hwloc",
+    "hwloc-progs": "hwloc",
+    "hwloc-progs-bashcomp": "hwloc",
+    "hwloc-progs-man": "hwloc",
     "hyfetch": "hyfetch",
     "hyfetch-bashcomp": "hyfetch",
     "hyfetch-doc": "hyfetch",
@@ -124,6 +127,8 @@
     "hyperfine-doc": "hyperfine",
     "hyperfine-fishcomp": "hyperfine",
     "hyperfine-man": "hyperfine",
-    "hyperfine-zshcomp": "hyperfine"
+    "hyperfine-zshcomp": "hyperfine",
+    "hyx": "hyx",
+    "hyx-doc": "hyx"
   }
 }

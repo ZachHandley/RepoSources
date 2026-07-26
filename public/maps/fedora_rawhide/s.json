@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "s",
-    "total_mappings": 519
+    "total_mappings": 524
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -27,6 +27,10 @@
     "SDL3_image": "sdl3_image",
     "SDL3_image-devel": "sdl3_image",
     "SDL3_image-tests": "sdl3_image",
+    "SDL3_net": "sdl3_net",
+    "SDL3_net-devel": "sdl3_net",
+    "SDL3_sound": "sdl3_sound",
+    "SDL3_sound-devel": "sdl3_sound",
     "SDL3_ttf": "sdl3_ttf",
     "SDL3_ttf-devel": "sdl3_ttf",
     "SDL_gfx": "sdl_gfx",
@@ -111,6 +115,8 @@
     "schroedinger": "schroedinger",
     "schroedinger-devel": "schroedinger",
     "scip": "scip",
+    "scip-debuginfo": "scip",
+    "scip-debugsource": "scip",
     "scipy": "scipy",
     "scipy-debuginfo": "scipy",
     "scipy-debugsource": "scipy",
@@ -215,8 +221,6 @@
     "slrn-pull": "slrn",
     "smartmontools": "smartmontools",
     "smartmontools-selinux": "smartmontools",
-    "snakemake": "snakemake",
-    "snakemake+reports": "snakemake",
     "snap-confine": "snap",
     "snapd": "snap",
     "snapd-devel": "snap",
@@ -253,6 +257,8 @@
     "sol2-devel-docs": "sol2",
     "solidity": "solidity",
     "soplex": "soplex",
+    "soplex-debuginfo": "soplex",
+    "soplex-debugsource": "soplex",
     "sord": "sord",
     "sord-devel": "sord",
     "soundtouch": "sound-touch",
@@ -493,7 +499,6 @@
     "syslog-ng-python": "syslog-ng",
     "syslog-ng-python-modules": "syslog-ng",
     "syslog-ng-redis": "syslog-ng",
-    "syslog-ng-slog": "syslog-ng",
     "syslog-ng-smtp": "syslog-ng",
     "syslog-ng-snmp": "syslog-ng",
     "sysprof": "sysprof",

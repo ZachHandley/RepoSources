@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "a",
-    "total_mappings": 64
+    "total_mappings": 65
   },
   "mappings": {
     "ab-av1": "ab-av1",
@@ -32,6 +32,7 @@
     "apache-ivy": "ivy",
     "apkeep": "apkeep",
     "apktool": "apktool",
+    "apm": "apm",
     "apngasm": "apngasm",
     "aqtinstall": "aqtinstall",
     "aqua": "aqua",
@@ -53,8 +54,8 @@
     "audacious": "audacious",
     "audiowaveform": "audiowaveform",
     "austin": "austin",
+    "auth0": "auth0",
     "autocorrect": "autocorrect",
-    "autojump": "autojump",
     "autossh": "autossh",
     "avr-gcc": "gcc@15",
     "avrdude": "avrdude",

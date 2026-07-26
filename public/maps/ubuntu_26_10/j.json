@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "j",
-    "total_mappings": 74
+    "total_mappings": 75
   },
   "mappings": {
     "jack-audio-connection-kit": "jack",
@@ -73,6 +73,7 @@
     "jsonnet": "jsonnet",
     "jsonrpc-glib": "jsonrpc-glib",
     "judy": "judy",
+    "jujutsu": "jj",
     "juman": "juman",
     "juman-dic": "juman",
     "jupp": "jupp",

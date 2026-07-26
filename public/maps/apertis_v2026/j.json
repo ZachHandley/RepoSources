@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "apertis_v2026",
     "shard": "j",
@@ -32,9 +32,9 @@
     "jfs-modules-6.18.31-riscv64-di": "linux-headers@6.8",
     "jfs-modules-6.18.31-sh7751r-di": "linux-headers@6.8",
     "jfs-modules-6.18.31-sparc64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.35-amd64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.35-arm64-di": "linux-headers@6.8",
-    "jfs-modules-6.18.35-armmp-di": "linux-headers@6.8",
+    "jfs-modules-6.18.38-amd64-di": "linux-headers@6.8",
+    "jfs-modules-6.18.38-arm64-di": "linux-headers@6.8",
+    "jfs-modules-6.18.38-armmp-di": "linux-headers@6.8",
     "jimsh": "jimtcl",
     "jimtcl": "jimtcl",
     "jpeg-xl": "jpeg-xl",

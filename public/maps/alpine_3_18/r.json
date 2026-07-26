@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_18",
     "shard": "r",
@@ -238,7 +238,7 @@
     "rust-gdb": "rust",
     "rust-lldb": "rust",
     "rust-src": "rust",
-    "rust-wasm": "rust",
+    "rust-wasm": "rust-wasm",
     "rustfmt": "rust",
     "rustup": "rustup",
     "rustup-bash-completion": "rustup",

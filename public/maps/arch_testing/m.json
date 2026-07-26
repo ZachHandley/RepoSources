@@ -1,13 +1,23 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "m",
-    "total_mappings": 2
+    "total_mappings": 12
   },
   "mappings": {
-    "maturin": "maturin",
-    "meilisearch": "meilisearch"
+    "mado": "mado",
+    "mariadb": "mariadb",
+    "mariadb-clients": "mariadb@11.8",
+    "mariadb-libs": "mariadb@11.8",
+    "mariadb-lts": "mariadb@11.8",
+    "mariadb-lts-clients": "mariadb@11.8",
+    "mariadb-lts-libs": "mariadb@11.8",
+    "mariadb-lts-pam": "mariadb@11.8",
+    "mariadb-mytop": "mariadb@11.8",
+    "mariadb-pam": "mariadb@11.8",
+    "mencoder": "mplayer",
+    "mplayer": "mplayer"
   }
 }

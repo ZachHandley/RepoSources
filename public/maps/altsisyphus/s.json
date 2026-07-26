@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "s",
-    "total_mappings": 563
+    "total_mappings": 564
   },
   "mappings": {
     "SDL2_gfx": "sdl2_gfx",
@@ -487,6 +487,7 @@
     "swtpm-tools": "swtpm",
     "swtpm-tools-debuginfo": "swtpm",
     "swtpm-tools-pkcs11": "swtpm",
+    "syft": "syft",
     "sylpheed": "sylpheed",
     "sylpheed-debuginfo": "sylpheed",
     "sylpheed-devel": "sylpheed",

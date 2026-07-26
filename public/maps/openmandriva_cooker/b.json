@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "b",
@@ -73,7 +73,7 @@
     "bmake": "bmake",
     "bogofilter": "bogofilter",
     "boost": "boost",
-    "boost-build": "boost@1.85",
+    "boost-build": "boost-build",
     "boost-examples": "boost@1.85",
     "borgbackup": "borgbackup",
     "borgbackup-debuginfo": "borgbackup",

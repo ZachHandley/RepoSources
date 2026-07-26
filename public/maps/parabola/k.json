@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "k",
-    "total_mappings": 60
+    "total_mappings": 61
   },
   "mappings": {
     "k9s": "k9s",
@@ -28,6 +28,7 @@
     "khard": "khard",
     "ki18n": "ki18n",
     "ki18n5": "ki18n",
+    "kind": "kind",
     "kiwix-lib": "libkiwix",
     "kiwix-lib-debug": "libkiwix",
     "klavaro": "klavaro",

@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "j",
-    "total_mappings": 1
+    "total_mappings": 2
   },
   "mappings": {
-    "json-c": "json-c"
+    "jansson": "jansson",
+    "jenkins": "jenkins"
   }
 }

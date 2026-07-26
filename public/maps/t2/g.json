@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "t2",
     "shard": "g",
-    "total_mappings": 149
+    "total_mappings": 151
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -42,6 +42,7 @@
     "gi-docgen": "gi-docgen",
     "gifsicle": "gifsicle",
     "ginac": "ginac",
+    "girara": "girara",
     "git": "git",
     "git-cola": "git-cola",
     "git-lfs": "git-lfs",
@@ -108,6 +109,7 @@
     "gpa": "gpa",
     "gpac": "gpac",
     "gperf": "gperf",
+    "gperftools": "gperftools",
     "gpgme": "gpgme",
     "gpgmepp": "gpgmepp",
     "gpgmepy": "gpgmepy",

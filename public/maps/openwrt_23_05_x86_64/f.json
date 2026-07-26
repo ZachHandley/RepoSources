@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openwrt_23_05_x86_64",
     "shard": "f",
-    "total_mappings": 831
+    "total_mappings": 833
   },
   "mappings": {
     "faad2": "faad2",
@@ -188,6 +188,7 @@
     "feeds/packages/libs/libidn2": "libidn2",
     "feeds/packages/libs/libimobiledevice": "libimobiledevice",
     "feeds/packages/libs/libirecovery": "libirecovery",
+    "feeds/packages/libs/libjaylink": "libjaylink",
     "feeds/packages/libs/libjpeg-turbo": "jpeg-turbo",
     "feeds/packages/libs/libjwt": "libjwt",
     "feeds/packages/libs/libksba": "libksba",
@@ -467,6 +468,7 @@
     "feeds/packages/utils/btrfs-progs": "btrfs-progs",
     "feeds/packages/utils/byobu": "byobu",
     "feeds/packages/utils/ccrypt": "ccrypt",
+    "feeds/packages/utils/checksec": "checksec",
     "feeds/packages/utils/cni-plugins": "cni-plugins",
     "feeds/packages/utils/collectd": "collectd",
     "feeds/packages/utils/conmon": "conmon",

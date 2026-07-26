@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "m",
-    "total_mappings": 483
+    "total_mappings": 485
   },
   "mappings": {
     "Mesa": "mesa",
@@ -170,6 +170,8 @@
     "mdbook-guide": "mdbook",
     "mdbtools": "mdbtools",
     "mdbtools-debuginfo": "mdbtools",
+    "mdcat": "mdcat",
+    "mdcat-debuginfo": "mdcat",
     "mdds": "mdds",
     "mdds-devel": "mdds",
     "mdds-doc": "mdds",

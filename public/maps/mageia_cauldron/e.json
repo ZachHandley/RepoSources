@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "e",
-    "total_mappings": 122
+    "total_mappings": 123
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -83,6 +83,7 @@
     "erlang-examples": "erlang@28",
     "erlang-ftp": "erlang@28",
     "erlang-inets": "erlang@28",
+    "erlang-jinterface": "erlang@28",
     "erlang-kernel": "erlang@28",
     "erlang-megaco": "erlang@28",
     "erlang-mnesia": "erlang@28",

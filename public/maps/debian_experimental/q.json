@@ -1,28 +1,32 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "q",
-    "total_mappings": 17
+    "total_mappings": 21
   },
   "mappings": {
-    "qml-module-qtbluetooth": "qt@5",
-    "qml-module-qtdatavisualization": "qt@5",
-    "qml-module-qtnfc": "qt@5",
-    "qtconnectivity-opensource-src": "qt@5",
-    "qtconnectivity5-dev": "qt@5",
-    "qtconnectivity5-doc": "qt@5",
-    "qtconnectivity5-doc-html": "qt@5",
-    "qtconnectivity5-examples": "qt@5",
-    "qtdatavis3d-everywhere-src": "qt@5",
-    "qtdatavisualization5-doc": "qt@5",
-    "qtdatavisualization5-doc-html": "qt@5",
-    "qtdatavisualization5-examples": "qt@5",
-    "qtscript-opensource-src": "qt@5",
-    "qtscript5-dev": "qt@5",
-    "qtscript5-doc": "qt@5",
-    "qtscript5-doc-html": "qt@5",
-    "qtscript5-examples": "qt@5"
+    "qemu": "qemu",
+    "qemu-block-extra": "qemu",
+    "qemu-guest-agent": "qemu",
+    "qemu-system": "qemu",
+    "qemu-system-arm": "qemu",
+    "qemu-system-common": "qemu",
+    "qemu-system-data": "qemu",
+    "qemu-system-gui": "qemu",
+    "qemu-system-mips": "qemu",
+    "qemu-system-misc": "qemu",
+    "qemu-system-modules-opengl": "qemu",
+    "qemu-system-modules-spice": "qemu",
+    "qemu-system-ppc": "qemu",
+    "qemu-system-riscv": "qemu",
+    "qemu-system-s390x": "qemu",
+    "qemu-system-sparc": "qemu",
+    "qemu-system-x86": "qemu",
+    "qemu-system-xen": "qemu",
+    "qemu-user": "qemu",
+    "qemu-user-binfmt": "qemu",
+    "qemu-utils": "qemu"
   }
 }

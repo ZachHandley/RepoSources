@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "scoop",
     "shard": "o",
-    "total_mappings": 45
+    "total_mappings": 46
   },
   "mappings": {
     "oauth2c": "oauth2c",
@@ -17,6 +17,7 @@
     "odin-dev": "odin",
     "odin-nightly": "odin",
     "odo": "odo-dev",
+    "officecli": "officecli",
     "oh-my-posh": "oh-my-posh",
     "oha": "oha",
     "okteto": "okteto",
@@ -28,7 +29,7 @@
     "opam": "opam",
     "opencode": "opencode",
     "openconnect": "openconnect",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "openlist": "openlist",
     "openmsx": "openmsx",
     "openocd": "open-ocd",

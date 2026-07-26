@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "kiss_community",
     "shard": "s",
-    "total_mappings": 21
+    "total_mappings": 22
   },
   "mappings": {
     "s6": "s6",
@@ -15,6 +15,7 @@
     "sccache": "sccache",
     "scrcpy": "scrcpy",
     "scryer-prolog": "scryer-prolog",
+    "sdl3": "sdl3",
     "sed": "gnu-sed",
     "senpai": "senpai",
     "sgt-puzzles": "puzzles",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_apps_tumbleweed",
     "shard": "l",
@@ -16,7 +16,7 @@
     "libaudgui7": "audacious",
     "libaudqt4": "audacious",
     "libaudtag4": "audacious",
-    "libcapnp-1_4_0": "capnp",
+    "libcapnp-1_5_0": "capnp",
     "libcapnp-devel": "capnp",
     "libcsnd6-6_0": "csound",
     "libcsound64-6_0": "csound",

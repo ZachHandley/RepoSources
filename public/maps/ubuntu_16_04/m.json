@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_16_04",
     "shard": "m",
@@ -249,8 +249,8 @@
     "most": "most",
     "motif": "openmotif",
     "mount": "gnu-getopt",
-    "mozjs": "spidermonkey@115",
-    "mozjs24": "spidermonkey@115",
+    "mozjs": "spidermonkey",
+    "mozjs24": "spidermonkey",
     "mp3blaster": "mp3blaster",
     "mp3check": "mp3check",
     "mp3fs": "mp3fs",

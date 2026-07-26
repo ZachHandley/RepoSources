@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "b",
-    "total_mappings": 48
+    "total_mappings": 53
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -37,6 +37,11 @@
     "bluez-plugins": "bluez",
     "bluez-utils": "bluez",
     "bmake": "bmake",
+    "bogofilter": "bogofilter",
+    "bogofilter-db": "bogofilter",
+    "bogofilter-kyotocabinet": "bogofilter",
+    "bogofilter-lmdb": "bogofilter",
+    "bogofilter-sqlite": "bogofilter",
     "boost": "boost",
     "boost-libs": "boost@1.85",
     "bootconfig": "linux-headers@6.8",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "d",
-    "total_mappings": 378
+    "total_mappings": 384
   },
   "mappings": {
     "DevIL-devel": "devil",
@@ -112,6 +112,12 @@
     "demumble": "demumble",
     "demumble-debuginfo": "demumble",
     "demumble-debugsource": "demumble",
+    "deno": "deno",
+    "deno-bash-completion": "deno",
+    "deno-debuginfo": "deno",
+    "deno-debugsource": "deno",
+    "deno-fish-completion": "deno",
+    "deno-zsh-completion": "deno",
     "desktop-file-utils": "desktop-file-utils",
     "desktop-file-utils-debuginfo": "desktop-file-utils",
     "desktop-file-utils-debugsource": "desktop-file-utils",

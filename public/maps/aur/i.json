@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "i",
-    "total_mappings": 185
+    "total_mappings": 186
   },
   "mappings": {
     "i2c-tools-git": "i2c-tools",
@@ -178,6 +178,7 @@
     "ircii": "ircii",
     "ircii-current": "ircii",
     "iredis": "iredis",
+    "ironclaw-bin": "ironclaw",
     "ironclaw-git": "ironclaw",
     "irrlicht-svn": "irrlicht",
     "irssi-git": "irssi",

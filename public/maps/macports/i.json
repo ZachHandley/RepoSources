@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "i",
-    "total_mappings": 114
+    "total_mappings": 113
   },
   "mappings": {
     "ImageMagick": "imagemagick@6",
@@ -56,7 +56,6 @@
     "ike-scan": "ike-scan",
     "ilmbase": "openexr",
     "imake": "imake",
-    "imap-uw": "imap-uw",
     "imapfilter": "imapfilter",
     "imapsync": "imapsync",
     "imath": "imath",

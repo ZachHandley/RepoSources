@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_24",
     "shard": "d",
-    "total_mappings": 308
+    "total_mappings": 306
   },
   "mappings": {
     "dante": "dante",
@@ -62,8 +62,6 @@
     "dbus-libs": "dbus",
     "dbus-openrc": "dbus",
     "dbus-x11": "dbus",
-    "dcadec": "dcadec",
-    "dcadec-dev": "dcadec",
     "ddate": "ddate",
     "ddate-doc": "ddate",
     "ddclient": "ddclient",

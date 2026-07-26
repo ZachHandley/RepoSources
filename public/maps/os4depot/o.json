@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "os4depot",
     "shard": "o",
-    "total_mappings": 9
+    "total_mappings": 10
   },
   "mappings": {
     "ode.tgz": "ode",
@@ -13,6 +13,7 @@
     "openal-soft.lha": "openal-soft",
     "openjazz.lha": "openjazz",
     "openjpeg.lha": "openjpeg",
+    "openmpt123.lha": "libopenmpt",
     "openssh.lha": "openssh",
     "opentyrian.lha": "open-tyrian",
     "optipng.lha": "optipng"

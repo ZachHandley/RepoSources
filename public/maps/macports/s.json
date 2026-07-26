@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "s",
-    "total_mappings": 1030
+    "total_mappings": 1031
   },
   "mappings": {
     "SDL3": "sdl3",
@@ -113,7 +113,7 @@
     "science/gwyddion": "gwyddion",
     "science/hackrf": "hackrf",
     "science/hamlib": "hamlib",
-    "science/hdf5": "hdf5@1.10",
+    "science/hdf5": "hdf5",
     "science/healpix": "healpix",
     "science/hmmer": "hmmer",
     "science/htslib": "htslib",
@@ -472,8 +472,8 @@
     "spice-gtk": "spice-gtk",
     "spice-protocol": "spice-protocol",
     "spice-server": "spice-server",
-    "spidermonkey": "spidermonkey@115",
-    "spidermonkey185": "spidermonkey@115",
+    "spidermonkey": "spidermonkey",
+    "spidermonkey185": "spidermonkey",
     "spim": "spim",
     "spin": "spin",
     "spirv-cross": "spirv-cross",
@@ -488,7 +488,6 @@
     "sqlcipher": "sqlcipher",
     "sqlite2": "sqlite",
     "sqlite3": "sqlite",
-    "sqlite3-tcl": "sqlite",
     "sqlite3-tools": "sqlite",
     "sqlitecpp": "sqlitecpp",
     "sqlmap": "sqlmap",
@@ -846,6 +845,7 @@
     "sysutils/logrotate": "logrotate",
     "sysutils/lsd": "lsd",
     "sysutils/lsdvd": "lsdvd",
+    "sysutils/lxsplit": "lxsplit",
     "sysutils/lzop": "lzop",
     "sysutils/m1ddc": "m1ddc",
     "sysutils/mackup": "mackup",
@@ -864,6 +864,7 @@
     "sysutils/memcached-devel": "memcached",
     "sysutils/memcacheq": "memcacheq",
     "sysutils/memtester": "memtester",
+    "sysutils/meta-package-manager": "meta-package-manager",
     "sysutils/minikube": "minikube",
     "sysutils/mise": "mise",
     "sysutils/mist-cli": "mist-cli",

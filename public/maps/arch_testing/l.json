@@ -1,27 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "l",
-    "total_mappings": 16
+    "total_mappings": 6
   },
   "mappings": {
-    "lib32-acl": "acl",
-    "lib32-attr": "attr",
-    "lib32-clang": "llvm@21",
-    "lib32-llvm": "llvm@21",
-    "lib32-llvm-libs": "llvm@21",
-    "libc++": "llvm@21",
-    "libc++abi": "llvm@21",
-    "libclc": "libclc",
     "libnpupnp": "libnpupnp",
-    "linux": "linux-headers@6.8",
-    "linux-docs": "linux-headers@6.8",
-    "linux-headers": "linux-headers@6.8",
-    "lld": "lld@21",
-    "lldb": "llvm@21",
-    "llvm": "llvm@21",
-    "llvm-libs": "llvm@21"
+    "librime": "librime",
+    "linux-lts": "linux-headers@6.8",
+    "linux-lts-docs": "linux-headers@6.8",
+    "linux-lts-headers": "linux-headers@6.8",
+    "lmdb": "lmdb"
   }
 }

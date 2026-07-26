@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "apertis_v2027",
     "shard": "o",
@@ -43,9 +43,9 @@
     "opencl-clhpp-headers-doc": "opencl-clhpp-headers",
     "opencl-headers": "opencl-headers",
     "opencore-amr": "opencore-amr",
-    "opencv": "opencv",
-    "opencv-data": "opencv",
-    "opencv-doc": "opencv",
+    "opencv": "opencv@4",
+    "opencv-data": "opencv@4",
+    "opencv-doc": "opencv@4",
     "openexr": "openexr",
     "openjdk-21": "openjdk@25",
     "openjdk-21-dbg": "openjdk@25",

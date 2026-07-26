@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "parrot",
     "shard": "r",
-    "total_mappings": 254
+    "total_mappings": 256
   },
   "mappings": {
     "r-base": "r",
@@ -105,8 +105,8 @@
     "reuse": "reuse",
     "rex": "rex",
     "rfkill": "gnu-getopt",
-    "rfkill-modules-7.0.9+parrot7-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-7.0.9+parrot7-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.13+parrot7-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-7.0.13+parrot7-loong64-di": "linux-headers@6.8",
     "rgxg": "rgxg",
     "rhash": "rhash",
     "rhino": "rhino",
@@ -213,6 +213,7 @@
     "rust-bat": "bat",
     "rust-bkt": "bkt",
     "rust-blake3": "b3sum",
+    "rust-broot": "broot",
     "rust-cargo-auditable": "cargo-auditable",
     "rust-cargo-binutils": "cargo-binutils",
     "rust-cargo-c": "cargo-c",
@@ -254,6 +255,7 @@
     "rust-tealdeer": "tealdeer",
     "rust-tokei": "tokei",
     "rust-uucore": "uutils-coreutils",
+    "rust-virtiofsd": "virtiofsd",
     "rust-xh": "xh",
     "rust-zoxide": "zoxide",
     "rustc": "rust",

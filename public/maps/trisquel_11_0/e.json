@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "trisquel_11_0",
     "shard": "e",
-    "total_mappings": 176
+    "total_mappings": 177
   },
   "mappings": {
     "e2fsck-static": "e2fsprogs",
@@ -87,6 +87,7 @@
     "environment-modules": "modules",
     "eot-utils": "eot-utils",
     "epic5": "epic5",
+    "epics-base": "epics-base",
     "epstool": "epstool",
     "epub-utils": "ebook-tools",
     "epubcheck": "epubcheck",

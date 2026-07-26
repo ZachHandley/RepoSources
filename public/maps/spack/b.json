@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "b",
-    "total_mappings": 47
+    "total_mappings": 49
   },
   "mappings": {
     "babl": "babl",
@@ -30,6 +30,7 @@
     "bind9": "bind",
     "binutils": "binutils",
     "bioawk": "bioawk",
+    "bismark": "bismark",
     "bison": "bison",
     "bitlbee": "bitlbee",
     "blake3": "blake3",
@@ -42,6 +43,7 @@
     "boost": "boost",
     "botan": "botan@2",
     "bowtie2": "bowtie2",
+    "bracken": "bracken",
     "breseq": "breseq",
     "brotli": "brotli",
     "brpc": "brpc",

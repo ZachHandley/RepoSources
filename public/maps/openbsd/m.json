@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "m",
-    "total_mappings": 322
+    "total_mappings": 325
   },
   "mappings": {
     "m4": "m4",
@@ -82,7 +82,7 @@
     "math/grace": "grace",
     "math/graphviz": "graphviz",
     "math/gunits": "gnu-units",
-    "math/hdf5": "hdf5@1.10",
+    "math/hdf5": "hdf5",
     "math/igraph": "igraph",
     "math/imath": "imath",
     "math/isl": "isl",
@@ -166,6 +166,8 @@
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minizip": "minizip-ng",
+    "mips-elf-binutils": "aarch64-elf-binutils",
+    "mips-elf-gcc": "gcc@15",
     "misc/blink1": "blink1",
     "misc/bsdiff": "bsdiff",
     "misc/cdrdao": "cdrdao",
@@ -254,6 +256,7 @@
     "msdl": "msdl",
     "msgpack": "msgpack",
     "msgpack-cxx": "msgpack-cxx",
+    "msitools": "msitools",
     "msktutil": "msktutil",
     "msmtp": "msmtp",
     "msp430-gcc": "gcc@15",

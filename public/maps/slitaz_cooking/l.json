@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "l",
-    "total_mappings": 768
+    "total_mappings": 767
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -12,7 +12,6 @@
     "lame": "lame",
     "lame-dev": "lame",
     "lapack": "lapack",
-    "lbzip2": "lbzip2",
     "lcms": "little-cms2",
     "lcms-apps": "little-cms2",
     "lcms-dev": "little-cms2",

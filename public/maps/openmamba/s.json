@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "s",
-    "total_mappings": 98
+    "total_mappings": 99
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -43,7 +43,6 @@
     "shared-mime-info": "shared-mime-info",
     "simde": "simde",
     "simdutf": "simdutf",
-    "sip4": "sip",
     "sl": "sl",
     "sl-debug": "sl",
     "slang": "s-lang",
@@ -82,6 +81,8 @@
     "sratom": "sratom",
     "srt": "srt",
     "srtp": "srtp",
+    "sse2neon": "sse2neon",
+    "sse2neon-devel": "sse2neon",
     "sshfs": "sshfs",
     "strace": "strace",
     "streamlink": "streamlink",

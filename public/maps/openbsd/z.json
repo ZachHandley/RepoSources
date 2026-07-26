@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "z",
-    "total_mappings": 34
+    "total_mappings": 35
   },
   "mappings": {
     "z3": "z3",
@@ -25,6 +25,7 @@
     "zint-gui": "zint",
     "zip": "zip",
     "zizmor": "zizmor",
+    "zls": "zls",
     "znc": "znc",
     "znc-sasl": "znc",
     "zola": "zola",

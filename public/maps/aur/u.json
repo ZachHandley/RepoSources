@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "u",
-    "total_mappings": 92
+    "total_mappings": 93
   },
   "mappings": {
     "uade": "uade",
@@ -79,6 +79,7 @@
     "urweb": "urweb",
     "urweb-git": "urweb",
     "urx": "urx",
+    "usage-git": "usage",
     "usbredir-git": "usbredir",
     "usbutils-git": "usbutils",
     "utf8cpp-git": "utf8cpp",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_14_04",
     "shard": "p",
@@ -451,7 +451,7 @@
     "python-nut": "nut",
     "python-openbabel": "open-babel",
     "python-opencc": "opencc",
-    "python-opencv": "opencv",
+    "python-opencv": "opencv@4",
     "python-openturns": "openturns",
     "python-openturns-dev": "openturns",
     "python-osmgpsmap": "osm-gps-map",

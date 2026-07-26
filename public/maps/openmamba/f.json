@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "f",
-    "total_mappings": 67
+    "total_mappings": 66
   },
   "mappings": {
     "faac": "faac",
@@ -39,7 +39,6 @@
     "figlet": "figlet",
     "file": "file-formula",
     "findutils": "findutils",
-    "findutils-debug": "findutils",
     "firebase-tools": "firebase-cli",
     "fish": "fish",
     "flashrom": "flashrom",

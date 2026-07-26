@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "k",
-    "total_mappings": 11
+    "total_mappings": 12
   },
   "mappings": {
     "karchive": "karchive",
@@ -17,6 +17,7 @@
     "kmod": "kmod",
     "kotlin": "kotlin",
     "krb5": "krb5",
-    "ktexttemplate": "ktexttemplate"
+    "ktexttemplate": "ktexttemplate",
+    "kyotocabinet": "kyoto-cabinet"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "r",
-    "total_mappings": 283
+    "total_mappings": 287
   },
   "mappings": {
     "r-base": "r",
@@ -233,6 +233,7 @@
     "rust-bat": "bat",
     "rust-bkt": "bkt",
     "rust-blake3": "b3sum",
+    "rust-broot": "broot",
     "rust-cargo-audit": "cargo-audit",
     "rust-cargo-auditable": "cargo-auditable",
     "rust-cargo-binutils": "cargo-binutils",
@@ -249,6 +250,7 @@
     "rust-czkawka-core": "czkawka",
     "rust-czkawka-gui": "czkawka",
     "rust-doc": "rust",
+    "rust-dotenv-linter": "dotenv-linter",
     "rust-du-dust": "dust",
     "rust-dysk": "dysk",
     "rust-eza": "eza",
@@ -282,7 +284,9 @@
     "rust-src": "rust",
     "rust-tealdeer": "tealdeer",
     "rust-tokei": "tokei",
+    "rust-tree-sitter": "tree-sitter@0.25",
     "rust-uucore": "uutils-coreutils",
+    "rust-virtiofsd": "virtiofsd",
     "rust-xh": "xh",
     "rust-zoxide": "zoxide",
     "rustc": "rust",

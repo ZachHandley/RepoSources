@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "p",
-    "total_mappings": 295
+    "total_mappings": 296
   },
   "mappings": {
     "pam": "linux-pam",
@@ -268,7 +268,7 @@
     "python-mypy-dbginfo": "mypy",
     "python-nanopb": "nanopb",
     "python-nftables": "nftables",
-    "python-opencv": "opencv",
+    "python-opencv": "opencv@4",
     "python-packaging": "python-packaging",
     "python-pillow": "pillow",
     "python-pillow-dbginfo": "pillow",
@@ -281,6 +281,7 @@
     "python-qscintilla-qt5": "qscintilla2",
     "python-qscintilla-qt6": "qscintilla2",
     "python-setuptools": "python-setuptools",
+    "python-setuptools-wheel": "python-setuptools",
     "python-sip": "sip",
     "python-sip-4": "sip",
     "python-sip-4-dbginfo": "sip",

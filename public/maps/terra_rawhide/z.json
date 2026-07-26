@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "z",
-    "total_mappings": 18
+    "total_mappings": 22
   },
   "mappings": {
     "zig-master": "zig@0.15",
@@ -16,6 +16,10 @@
     "zig-master-debugsource": "zig@0.15",
     "zig-master-doc": "zig@0.15",
     "zig-master-libs": "zig@0.15",
+    "zig0.15": "zig@0.15",
+    "zig0.15-debuginfo": "zig@0.15",
+    "zig0.15-debugsource": "zig@0.15",
+    "zig0.15-libs": "zig@0.15",
     "zola": "zola",
     "zola-bash-completion": "zola",
     "zola-debuginfo": "zola",

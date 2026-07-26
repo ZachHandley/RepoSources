@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "g",
-    "total_mappings": 1978
+    "total_mappings": 1984
   },
   "mappings": {
     "g++-11": "gcc@15",
@@ -1770,6 +1770,10 @@
     "golang-1.26-doc": "go@1.25",
     "golang-1.26-go": "go@1.25",
     "golang-1.26-src": "go@1.25",
+    "golang-1.27": "go@1.25",
+    "golang-1.27-doc": "go@1.25",
+    "golang-1.27-go": "go@1.25",
+    "golang-1.27-src": "go@1.25",
     "golang-bindata": "go-bindata",
     "golang-chroma": "chroma",
     "golang-etcd-server-dev": "etcd",
@@ -1931,6 +1935,8 @@
     "gsoap-doc": "gsoap",
     "gspell": "gspell",
     "gspell-1-tests": "gspell",
+    "gss-ntlmssp": "gss-ntlmssp",
+    "gss-ntlmssp-dev": "gss-ntlmssp",
     "gssdp": "gssdp",
     "gssdp-tools": "gssdp",
     "gstreamer1.0": "gstreamer",

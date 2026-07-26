@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "j",
@@ -37,7 +37,7 @@
     "jpegoptim": "jpegoptim",
     "jq": "jq",
     "jruby": "jruby",
-    "js140": "spidermonkey@115",
+    "js140": "spidermonkey",
     "json-c": "json-c",
     "json-glib": "json-glib",
     "jsoncpp": "jsoncpp",

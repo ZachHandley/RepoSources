@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "o",
@@ -92,10 +92,10 @@
     "opencode": "opencode",
     "opencolorio": "opencolorio",
     "openconnect": "openconnect",
-    "opencv3": "opencv",
-    "opencv3-devel": "opencv",
-    "opencv4": "opencv",
-    "opencv4-devel": "opencv",
+    "opencv3": "opencv@4",
+    "opencv3-devel": "opencv@4",
+    "opencv4": "opencv@4",
+    "opencv4-devel": "opencv@4",
     "opendetex": "opendetex",
     "openexr": "openexr",
     "openexr2": "openexr",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "h",
@@ -10,16 +10,16 @@
     "haproxy": "haproxy",
     "haproxy-doc": "haproxy@2.8",
     "hdf5": "hdf5",
-    "hdf5-helpers": "hdf5@1.10",
-    "hdf5-tools": "hdf5@1.10",
-    "hfs-modules-7.1-m68k-di": "linux-headers@6.8",
-    "hfs-modules-7.1-powerpc-di": "linux-headers@6.8",
-    "hfs-modules-7.1-powerpc64-di": "linux-headers@6.8",
+    "hdf5-helpers": "hdf5",
+    "hdf5-tools": "hdf5",
+    "hfs-modules-7.2-m68k-di": "linux-headers@6.8",
+    "hfs-modules-7.2-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-7.2-powerpc64-di": "linux-headers@6.8",
     "highway": "highway",
     "highway-doc": "highway",
     "hyperv-daemons": "linux-headers@6.8",
-    "hypervisor-modules-7.1-powerpc64-di": "linux-headers@6.8",
-    "hypervisor-modules-7.1-powerpc64le-di": "linux-headers@6.8",
+    "hypervisor-modules-7.2-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-7.2-powerpc64le-di": "linux-headers@6.8",
     "hypopg": "hypopg"
   }
 }

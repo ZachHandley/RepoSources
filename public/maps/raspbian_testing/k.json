@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "k",
-    "total_mappings": 96
+    "total_mappings": 95
   },
   "mappings": {
     "kakoune": "kakoune",
@@ -82,7 +82,6 @@
     "krb5-pkinit": "krb5",
     "krb5-user": "krb5",
     "krita-gmic": "gmic",
-    "ksh": "ksh93",
     "ksh93u+m": "ksh93",
     "kstart": "kstart",
     "ktoblzcheck": "ktoblzcheck",

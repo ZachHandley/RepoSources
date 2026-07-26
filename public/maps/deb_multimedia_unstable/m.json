@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "deb_multimedia_unstable",
     "shard": "m",
-    "total_mappings": 26
+    "total_mappings": 25
   },
   "mappings": {
     "mame": "mame",
@@ -12,7 +12,6 @@
     "mame-dmo": "mame",
     "mame-doc": "mame",
     "mame-tools": "mame",
-    "manifold-dmo": "manifold",
     "melt7": "mlt",
     "mencoder": "mplayer",
     "minidlna": "minidlna",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "v",
-    "total_mappings": 61
+    "total_mappings": 70
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -48,11 +48,17 @@
     "virt-manager-progs-man": "virt-manager",
     "virt-manager-progs-pycache": "virt-manager",
     "virt-manager-pycache": "virt-manager",
+    "virtiofsd": "virtiofsd",
+    "virtiofsd-doc": "virtiofsd",
+    "virtiofsd-meta": "virtiofsd",
     "vivid": "vivid",
     "vivid-doc": "vivid",
     "vmtouch": "vmtouch",
     "vmtouch-doc": "vmtouch",
     "vmtouch-man": "vmtouch",
+    "vnstat": "vnstat",
+    "vnstat-dinit": "vnstat",
+    "vnstat-man": "vnstat",
     "volk": "vulkan-volk",
     "volk-doc": "vulkan-volk",
     "vte": "vte3",
@@ -62,6 +68,9 @@
     "vte-gtk4": "vte3",
     "vte-gtk4-devel": "vte3",
     "vte-locale": "vte3",
+    "vttest": "vttest",
+    "vttest-doc": "vttest",
+    "vttest-man": "vttest",
     "vulkan-headers": "vulkan-headers",
     "vulkan-loader": "vulkan-loader",
     "vulkan-loader-devel": "vulkan-loader",

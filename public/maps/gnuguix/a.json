@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "a",
-    "total_mappings": 127
+    "total_mappings": 128
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -67,6 +67,7 @@
     "apr-util": "apr-util",
     "aqbanking": "aqbanking",
     "archivemount": "archivemount",
+    "arduino-cli": "arduino-cli",
     "argon2": "argon2",
     "argtable3": "argtable3",
     "aria2": "aria2",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "f",
-    "total_mappings": 355
+    "total_mappings": 353
   },
   "mappings": {
     "f3": "f3",
@@ -63,8 +63,6 @@
     "fetchmailconf": "fetchmail",
     "ffcall": "libffcall",
     "ffmpeg": "ffmpeg@7",
-    "ffmpeg-debuginfo": "ffmpeg@7",
-    "ffmpeg-debugsource": "ffmpeg@7",
     "ffmpeg4": "ffmpeg@7",
     "ffmpeg4-debuginfo": "ffmpeg@7",
     "ffmpeg4-debugsource": "ffmpeg@7",

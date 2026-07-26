@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "j",
-    "total_mappings": 162
+    "total_mappings": 177
   },
   "mappings": {
     "jansson": "jansson",
@@ -105,6 +105,21 @@
     "jetty-session": "jetty",
     "jetty-util": "jetty",
     "jetty-util-ajax": "jetty",
+    "jetty9": "jetty",
+    "jetty9-client": "jetty",
+    "jetty9-continuation": "jetty",
+    "jetty9-http": "jetty",
+    "jetty9-io": "jetty",
+    "jetty9-jaas": "jetty",
+    "jetty9-javadoc": "jetty",
+    "jetty9-jmx": "jetty",
+    "jetty9-security": "jetty",
+    "jetty9-server": "jetty",
+    "jetty9-servlet": "jetty",
+    "jetty9-util": "jetty",
+    "jetty9-util-ajax": "jetty",
+    "jetty9-webapp": "jetty",
+    "jetty9-xml": "jetty",
     "jflex": "jflex",
     "jflex-javadoc": "jflex",
     "jhead": "jhead",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "f",
-    "total_mappings": 328
+    "total_mappings": 333
   },
   "mappings": {
     "f2": "f2",
@@ -46,6 +46,7 @@
     "fantom": "fantom",
     "fanyi-git": "fanyi",
     "fast_float-git": "fast_float",
+    "fastani": "fastani",
     "fastbuild": "fastbuild",
     "fastd-git": "fastd",
     "fastfetch-git": "fastfetch",
@@ -215,6 +216,9 @@
     "flvstreamer": "flvstreamer",
     "flyctl": "flyctl",
     "flyctl-bin": "flyctl",
+    "flyline": "flyline",
+    "flyline-bin": "flyline",
+    "flyline-git": "flyline",
     "flyway": "flyway",
     "fmpp": "fmpp",
     "fmt-git": "fmt",
@@ -302,6 +306,7 @@
     "fsql-git": "fsql",
     "fstrm-git": "fstrm",
     "fswatch": "fswatch",
+    "fswatch-bin": "fswatch",
     "fswatch-git": "fswatch",
     "ftxui": "ftxui",
     "ftxui-docs": "ftxui",

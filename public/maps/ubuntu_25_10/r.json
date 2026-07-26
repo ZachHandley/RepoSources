@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_10",
     "shard": "r",
-    "total_mappings": 265
+    "total_mappings": 267
   },
   "mappings": {
     "r-base": "r",
@@ -226,6 +226,7 @@
     "rust-bat": "bat",
     "rust-bkt": "bkt",
     "rust-blake3": "b3sum",
+    "rust-broot": "broot",
     "rust-cargo-auditable": "cargo-auditable",
     "rust-cargo-binutils": "cargo-binutils",
     "rust-cargo-c": "cargo-c",
@@ -261,6 +262,7 @@
     "rust-tealdeer": "tealdeer",
     "rust-tokei": "tokei",
     "rust-uucore": "uutils-coreutils",
+    "rust-virtiofsd": "virtiofsd",
     "rust-xh": "xh",
     "rust-zoxide": "zoxide",
     "rustc-1.85": "rust",

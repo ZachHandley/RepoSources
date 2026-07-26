@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "c",
@@ -23,6 +23,7 @@
     "cdrtools": "cdrtools",
     "cdrtools-debug": "cdrtools",
     "cereal": "cereal",
+    "ceres-solver": "ceres-solver",
     "certbot": "certbot",
     "certbot-apache": "certbot",
     "certbot-dns-cloudflare": "certbot",
@@ -92,7 +93,6 @@
     "cpupower": "linux-headers@6.8",
     "cracklib": "cracklib",
     "cracklib-debug": "cracklib",
-    "cross-i586-openmamba-linux-gnu-glibc": "glibc@2.17",
     "cross-ppc-openmamba-linux-gnu-binutils": "aarch64-elf-binutils",
     "cscope": "cscope",
     "csound": "csound",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "p",
-    "total_mappings": 551
+    "total_mappings": 555
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -71,6 +71,8 @@
     "pcsc-lite-devel": "pcsc-lite",
     "pcsc-lite-doc": "pcsc-lite",
     "pcsc-lite-libs": "pcsc-lite",
+    "perf": "linux-headers@6.8",
+    "perf-debuginfo": "linux-headers@6.8",
     "perl": "perl",
     "perl-App-cpanminus": "cpanminus",
     "perl-App-cpanminus-tests": "cpanminus",
@@ -454,6 +456,8 @@
     "python3-numpy-f2py": "numpy",
     "python3-openmpi": "open-mpi",
     "python3-packaging": "python-packaging",
+    "python3-perf": "linux-headers@6.8",
+    "python3-perf-debuginfo": "linux-headers@6.8",
     "python3-protobuf": "protobuf@33",
     "python3-pybind11": "pybind11",
     "python3-pyqt4-sip": "sip",

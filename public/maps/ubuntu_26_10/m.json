@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "m",
-    "total_mappings": 370
+    "total_mappings": 374
   },
   "mappings": {
     "m4": "m4",
@@ -188,6 +188,7 @@
     "minimodem": "minimodem",
     "minisat": "minisat",
     "minisat2": "minisat",
+    "miniserve": "miniserve",
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
     "minizinc": "minizinc",
@@ -259,6 +260,7 @@
     "modules": "modules",
     "mold": "mold",
     "mongo-c-driver": "mongo-c-driver@1",
+    "mongo-cxx-driver": "mongo-cxx-driver",
     "mongoose": "suite-sparse",
     "monit": "monit",
     "monitoring-plugins": "monitoring-plugins",
@@ -276,6 +278,8 @@
     "moor": "moor",
     "moreutils": "moreutils",
     "morse": "morse",
+    "mosdepth": "mosdepth",
+    "mosdepth-examples": "mosdepth",
     "mosh": "mosh",
     "mosquitto": "mosquitto",
     "mosquitto-clients": "mosquitto",
@@ -283,8 +287,8 @@
     "most": "most",
     "motif": "openmotif",
     "mount": "gnu-getopt",
-    "mozjs128": "spidermonkey@115",
-    "mozjs140": "spidermonkey@115",
+    "mozjs128": "spidermonkey",
+    "mozjs140": "spidermonkey",
     "mp3blaster": "mp3blaster",
     "mp3check": "mp3check",
     "mp3gain": "mp3gain",

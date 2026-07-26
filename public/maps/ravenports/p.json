@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "p",
-    "total_mappings": 88
+    "total_mappings": 89
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -62,7 +62,6 @@
     "pwgen": "pwgen",
     "python-Cython": "cython",
     "python-Markdown": "python-markdown",
-    "python-Pillow": "pillow",
     "python-PyGObject": "pygobject3",
     "python-Sphinx": "sphinx-doc",
     "python-ansible": "ansible@13",
@@ -70,7 +69,7 @@
     "python-black": "black",
     "python-borgbackup": "borgbackup",
     "python-build": "python-build",
-    "python-eyed3": "eye-d3",
+    "python-eyeD3": "eye-d3",
     "python-flake8": "flake8",
     "python-fonttools": "fonttools",
     "python-gi-docgen": "gi-docgen",
@@ -80,10 +79,12 @@
     "python-mypy": "mypy",
     "python-numpy": "numpy",
     "python-packaging": "python-packaging",
+    "python-pillow": "pillow",
     "python-pybind11": "pybind11",
     "python-pycairo": "py3cairo",
     "python-pycodestyle": "pycodestyle",
     "python-pylint": "pylint",
+    "python-pytest": "pytest",
     "python-scipy": "scipy",
     "python-setuptools": "python-setuptools",
     "python-sip": "sip",

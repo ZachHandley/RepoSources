@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_18_04",
     "shard": "f",
-    "total_mappings": 251
+    "total_mappings": 252
   },
   "mappings": {
     "f3": "f3",
@@ -15,6 +15,7 @@
     "fades": "fades",
     "fail2ban": "fail2ban",
     "fairymax": "fairymax",
+    "faker": "faker",
     "fakeroot": "fakeroot",
     "faketime": "libfaketime",
     "fancontrol": "lm-sensors",

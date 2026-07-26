@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmandriva_cooker",
     "shard": "n",
-    "total_mappings": 138
+    "total_mappings": 139
   },
   "mappings": {
     "nacl": "nacl",
@@ -46,6 +46,7 @@
     "neomutt-doc": "neomutt",
     "neon": "neon",
     "neon-i18n": "neon",
+    "neovide": "neovide",
     "neovim": "neovim",
     "neovim-data": "neovim",
     "neovim-debuginfo": "neovim",

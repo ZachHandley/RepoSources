@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10",
     "shard": "v",
-    "total_mappings": 127
+    "total_mappings": 135
   },
   "mappings": {
     "v2ray": "v2ray",
@@ -73,6 +73,7 @@
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
     "virtinst": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "virtualenv": "virtualenv",
     "virtualenvwrapper": "virtualenvwrapper",
     "virtualenvwrapper-doc": "virtualenvwrapper",
@@ -103,6 +104,13 @@
     "vncsnapshot": "vncsnapshot",
     "vnstat": "vnstat",
     "vnstati": "vnstat",
+    "vnu": "vnu",
+    "vnu-client": "vnu",
+    "vnu-common": "vnu",
+    "vnu-jetty12": "vnu",
+    "vnu-jetty9": "vnu",
+    "vnu-server": "vnu",
+    "vnu-tomcat11": "vnu",
     "vo-aacenc": "libvo-aacenc",
     "vo-amrwbenc": "vo-amrwbenc",
     "vorbis-tools": "vorbis-tools",

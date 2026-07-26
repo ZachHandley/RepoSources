@@ -1,13 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "k",
-    "total_mappings": 14
+    "total_mappings": 16
   },
   "mappings": {
     "kew": "kew",
+    "kew-debuginfo": "kew",
+    "kew-debugsource": "kew",
     "keyd": "keyd",
     "keyd-debuginfo": "keyd",
     "keyd-debugsource": "keyd",

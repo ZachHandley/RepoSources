@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slitaz_next",
     "shard": "s",
@@ -57,8 +57,8 @@
     "speexdsp": "speexdsp",
     "speexdsp-dev": "speexdsp",
     "spice-protocol": "spice-protocol",
-    "spidermonkey": "spidermonkey@115",
-    "spidermonkey-dev": "spidermonkey@115",
+    "spidermonkey": "spidermonkey",
+    "spidermonkey-dev": "spidermonkey",
     "splint": "splint",
     "sqlite3": "sqlite",
     "sqlite3-analyzer": "sqlite",

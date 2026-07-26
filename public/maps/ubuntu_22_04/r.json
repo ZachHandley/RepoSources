@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_22_04",
     "shard": "r",
-    "total_mappings": 304
+    "total_mappings": 305
   },
   "mappings": {
     "r-base": "r",
@@ -280,6 +280,7 @@
     "rust-sequoia-sqv": "sequoia-sqv",
     "rust-sniffglue": "sniffglue",
     "rust-src": "rust",
+    "rust-tree-sitter": "tree-sitter@0.25",
     "rust-zoxide": "zoxide",
     "rustc": "rust",
     "rustc-1.62": "rust",

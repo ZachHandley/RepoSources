@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "p",
@@ -122,6 +122,7 @@
     "plutosvg": "plutosvg",
     "plzip": "plzip",
     "pms": "pms",
+    "pmtiles": "pmtiles",
     "png": "libpng",
     "png2ico": "png2ico",
     "pngcheck": "pngcheck",
@@ -195,7 +196,6 @@
     "productivity/khard": "khard",
     "productivity/ledger": "ledger",
     "productivity/libphonenumber": "libphonenumber",
-    "productivity/taskd": "taskd",
     "productivity/taskwarrior": "task",
     "productivity/timewarrior": "timewarrior",
     "productivity/topydo": "topydo",

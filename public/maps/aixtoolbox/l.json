@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aixtoolbox",
     "shard": "l",
@@ -8,7 +8,6 @@
   },
   "mappings": {
     "lapack": "lapack",
-    "lbzip2": "lbzip2",
     "less": "less",
     "lftp": "lftp",
     "libX11": "libx11",
@@ -68,6 +67,7 @@
     "llama-cpp": "llama.cpp",
     "llama-cpp-devel": "llama.cpp",
     "llama-cpp-examples": "llama.cpp",
+    "lmdb": "lmdb",
     "logrotate": "logrotate",
     "lua": "lua",
     "lutok": "lutok",

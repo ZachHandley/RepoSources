@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_17",
     "shard": "t",
-    "total_mappings": 241
+    "total_mappings": 237
   },
   "mappings": {
     "taglib": "taglib",
@@ -24,10 +24,6 @@
     "task-doc": "task",
     "task-fish-completion": "task",
     "task-zsh-completion": "task",
-    "taskd": "taskd",
-    "taskd-doc": "taskd",
-    "taskd-openrc": "taskd",
-    "taskd-pki": "taskd",
     "tasksh": "tasksh",
     "tasksh-doc": "tasksh",
     "tclap": "tclap",

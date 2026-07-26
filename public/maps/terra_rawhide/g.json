@@ -1,15 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_rawhide",
     "shard": "g",
-    "total_mappings": 23
+    "total_mappings": 26
   },
   "mappings": {
     "gh-act": "act",
     "gh-act-debuginfo": "act",
     "gh-act-debugsource": "act",
+    "ghidra": "ghidra",
+    "ghidra-docs": "ghidra",
+    "ghidra-server": "ghidra",
     "golang-github-asdf-vm-devel": "asdf",
     "golang-github-knqyf263-pet-devel": "pet",
     "golang-github-v2fly-v2ray-core-devel": "v2ray",

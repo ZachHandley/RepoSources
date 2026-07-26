@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mx_23_testing",
     "shard": "l",
-    "total_mappings": 239
+    "total_mappings": 245
   },
   "mappings": {
     "lager": "lager",
@@ -174,11 +174,17 @@
     "libshaderc1": "shaderc",
     "libsharpyuv-dev": "webp",
     "libsharpyuv0": "webp",
+    "libsidplayfp": "libsidplayfp",
+    "libsidplayfp-dev": "libsidplayfp",
+    "libsidplayfp-doc": "libsidplayfp",
+    "libsidplayfp6": "libsidplayfp",
     "libspa-0.2-bluetooth": "pipewire",
     "libspa-0.2-dev": "pipewire",
     "libspa-0.2-jack": "pipewire",
     "libspa-0.2-libcamera": "pipewire",
     "libspa-0.2-modules": "pipewire",
+    "libstilview-dev": "libsidplayfp",
+    "libstilview0": "libsidplayfp",
     "libswresample-dev": "ffmpeg@7",
     "libswresample4": "ffmpeg@7",
     "libswscale-dev": "ffmpeg@7",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "devuan_unstable",
     "shard": "r",
-    "total_mappings": 270
+    "total_mappings": 273
   },
   "mappings": {
     "r-base": "r",
@@ -111,8 +111,7 @@
     "reuse": "reuse",
     "rex": "rex",
     "rfkill": "gnu-getopt",
-    "rfkill-modules-7.0.13+deb14-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-7.0.13+deb14-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-7.1.4+deb14-loong64-di": "linux-headers@6.8",
     "rgbds": "rgbds",
     "rgxg": "rgxg",
     "rhash": "rhash",
@@ -218,9 +217,11 @@
     "rust-analyzer": "rust",
     "rust-b3sum": "b3sum",
     "rust-bacon": "bacon",
+    "rust-bandwhich": "bandwhich",
     "rust-bat": "bat",
     "rust-bkt": "bkt",
     "rust-blake3": "b3sum",
+    "rust-broot": "broot",
     "rust-cargo-audit": "cargo-audit",
     "rust-cargo-auditable": "cargo-auditable",
     "rust-cargo-binutils": "cargo-binutils",
@@ -237,6 +238,7 @@
     "rust-czkawka-core": "czkawka",
     "rust-czkawka-gui": "czkawka",
     "rust-doc": "rust",
+    "rust-dotenv-linter": "dotenv-linter",
     "rust-du-dust": "dust",
     "rust-dysk": "dysk",
     "rust-eza": "eza",
@@ -270,6 +272,7 @@
     "rust-tealdeer": "tealdeer",
     "rust-tokei": "tokei",
     "rust-uucore": "uutils-coreutils",
+    "rust-virtiofsd": "virtiofsd",
     "rust-xh": "xh",
     "rust-zoxide": "zoxide",
     "rustc": "rust",

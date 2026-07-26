@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "m",
-    "total_mappings": 86
+    "total_mappings": 88
   },
   "mappings": {
     "m4": "m4",
@@ -29,6 +29,7 @@
     "mdbook": "mdbook",
     "mdbtools": "mdbtools",
     "mdds": "mdds",
+    "mdf2iso": "mdf2iso",
     "mdp": "mdp",
     "mediainfo": "media-info",
     "mediamtx": "mediamtx",
@@ -50,6 +51,7 @@
     "miniserve": "miniserve",
     "minisign": "minisign",
     "miniupnpc": "miniupnpc",
+    "miniz": "miniz",
     "minizinc": "minizinc",
     "mise": "mise",
     "mkp224o": "mkp224o",

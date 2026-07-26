@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "r",
-    "total_mappings": 333
+    "total_mappings": 334
   },
   "mappings": {
     "R-base": "r",
@@ -295,6 +295,7 @@
     "rust-librsvg+default-devel": "librsvg",
     "rust-librsvg-devel": "librsvg",
     "rust-lldb": "rust",
+    "rust-mdbook": "mdbook",
     "rust-rav1e": "rav1e",
     "rust-rav1e+asm-devel": "rav1e",
     "rust-rav1e+av-metrics-devel": "rav1e",

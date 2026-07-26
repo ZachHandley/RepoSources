@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "centos_stream_10",
     "shard": "p",
-    "total_mappings": 574
+    "total_mappings": 579
   },
   "mappings": {
     "PyQt-builder": "pyqt-builder",
@@ -441,6 +441,11 @@
     "protobuf-lite": "protobuf@33",
     "protobuf-lite-devel": "protobuf@33",
     "protobuf-vim": "protobuf@33",
+    "prrte": "prrte",
+    "prrte-debuginfo": "prrte",
+    "prrte-debugsource": "prrte",
+    "prrte-devel": "prrte",
+    "prrte-libs": "prrte",
     "psl": "libpsl",
     "psl-make-dafsa": "libpsl",
     "pulseaudio": "pulseaudio",

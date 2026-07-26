@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "i",
-    "total_mappings": 101
+    "total_mappings": 105
   },
   "mappings": {
     "i2c-tools": "i2c-tools",
@@ -43,10 +43,14 @@
     "imath": "imath",
     "imath-devel": "imath",
     "imath-doc": "imath",
+    "img2pdf": "img2pdf",
+    "img2pdf-pycache": "img2pdf",
     "imlib2": "imlib2",
     "imlib2-devel": "imlib2",
     "imlib2-doc": "imlib2",
     "imlib2-progs": "imlib2",
+    "immer": "immer",
+    "immer-doc": "immer",
     "incus": "incus",
     "incus-client": "incus",
     "incus-dinit": "incus",

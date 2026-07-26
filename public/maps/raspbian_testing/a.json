@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "a",
-    "total_mappings": 318
+    "total_mappings": 319
   },
   "mappings": {
     "a2boot": "netatalk",
@@ -191,6 +191,7 @@
     "aravis-tools": "aravis",
     "aravis-tools-cli": "aravis",
     "archivemount": "archivemount",
+    "arduino-cli": "arduino-cli",
     "argon2": "argon2",
     "argtable2": "argtable",
     "argus-client": "argus-clients",

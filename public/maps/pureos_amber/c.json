@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "c",
-    "total_mappings": 470
+    "total_mappings": 471
   },
   "mappings": {
     "c-ares": "c-ares",
@@ -105,6 +105,7 @@
     "charon-systemd": "strongswan",
     "check": "check",
     "check-postgres": "check_postgres",
+    "checksec": "checksec",
     "checkstyle": "checkstyle",
     "checkstyle-doc": "checkstyle",
     "chezdav": "phodav",

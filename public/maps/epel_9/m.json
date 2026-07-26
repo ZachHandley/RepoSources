@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "m",
-    "total_mappings": 293
+    "total_mappings": 295
   },
   "mappings": {
     "mac-robber": "mac-robber",
@@ -125,6 +125,7 @@
     "mingw32-turbojpeg": "jpeg-turbo",
     "mingw32-turbojpeg-static": "jpeg-turbo",
     "mingw32-uriparser": "uriparser",
+    "mingw32-uriparser-debuginfo": "uriparser",
     "mingw32-vulkan-headers": "vulkan-headers",
     "mingw32-vulkan-loader": "vulkan-loader",
     "mingw32-vulkan-tools": "vulkan-tools",
@@ -154,6 +155,7 @@
     "mingw64-turbojpeg": "jpeg-turbo",
     "mingw64-turbojpeg-static": "jpeg-turbo",
     "mingw64-uriparser": "uriparser",
+    "mingw64-uriparser-debuginfo": "uriparser",
     "mingw64-vulkan-headers": "vulkan-headers",
     "mingw64-vulkan-loader": "vulkan-loader",
     "mingw64-vulkan-tools": "vulkan-tools",
@@ -256,10 +258,10 @@
     "most": "most",
     "most-debuginfo": "most",
     "most-debugsource": "most",
-    "mozjs78": "spidermonkey@115",
-    "mozjs78-debuginfo": "spidermonkey@115",
-    "mozjs78-debugsource": "spidermonkey@115",
-    "mozjs78-devel": "spidermonkey@115",
+    "mozjs78": "spidermonkey",
+    "mozjs78-debuginfo": "spidermonkey",
+    "mozjs78-debugsource": "spidermonkey",
+    "mozjs78-devel": "spidermonkey",
     "mpi4py": "mpi4py",
     "mpi4py-common": "mpi4py",
     "mpi4py-debuginfo": "mpi4py",

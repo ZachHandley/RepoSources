@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pureos_byzantium",
     "shard": "t",
-    "total_mappings": 327
+    "total_mappings": 328
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -313,6 +313,7 @@
     "tre": "tre",
     "tre-agrep": "tre",
     "tree": "tree",
+    "trim-galore": "trim-galore",
     "truffle": "truffle",
     "tshark": "wireshark",
     "tsung": "tsung",

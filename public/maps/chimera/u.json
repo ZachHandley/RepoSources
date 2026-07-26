@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "u",
-    "total_mappings": 140
+    "total_mappings": 143
   },
   "mappings": {
     "u-boot-tools": "u-boot-tools",
@@ -36,6 +36,9 @@
     "unifdef": "unifdef",
     "unifdef-doc": "unifdef",
     "unifdef-man": "unifdef",
+    "units": "gnu-units",
+    "units-doc": "gnu-units",
+    "units-man": "gnu-units",
     "unittest-cpp": "unittest-cpp",
     "unittest-cpp-doc": "unittest-cpp",
     "unixodbc": "unixodbc",

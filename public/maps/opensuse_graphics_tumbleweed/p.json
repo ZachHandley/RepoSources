@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_graphics_tumbleweed",
     "shard": "p",
-    "total_mappings": 69
+    "total_mappings": 65
   },
   "mappings": {
     "partio": "partio",
@@ -21,9 +21,6 @@
     "pdf2svg-debugsource": "pdf2svg",
     "perl-GraphicsMagick": "graphicsmagick",
     "perl-PerlMagick": "imagemagick@6",
-    "png2ico": "png2ico",
-    "png2ico-debuginfo": "png2ico",
-    "png2ico-debugsource": "png2ico",
     "pngcheck": "pngcheck",
     "pngcheck-debuginfo": "pngcheck",
     "pngcheck-debugsource": "pngcheck",
@@ -73,7 +70,6 @@
     "python3-lensfun": "lensfun",
     "python3-manifold": "manifold",
     "python3-partio": "partio",
-    "python311-img2pdf": "img2pdf",
     "python313-img2pdf": "img2pdf",
     "python314-img2pdf": "img2pdf"
   }

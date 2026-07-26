@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "p",
-    "total_mappings": 885
+    "total_mappings": 887
   },
   "mappings": {
     "p0f": "p0f",
@@ -124,6 +124,7 @@
     "perl538Packages.Appcpanminus": "cpanminus",
     "perl538Packages.Po4a": "po4a",
     "perl538Packages.strip-nondeterminism": "strip-nondeterminism",
+    "perlnavigator": "perlnavigator",
     "peru": "peru",
     "pet": "pet",
     "petsc": "petsc",
@@ -323,6 +324,7 @@
     "primecount": "primecount",
     "primesieve": "primesieve",
     "privoxy": "privoxy",
+    "probe-rs": "probe-rs-tools",
     "procmail": "procmail",
     "procps": "procps",
     "procs": "procs",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc",
     "shard": "o",
-    "total_mappings": 59
+    "total_mappings": 61
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -30,8 +30,8 @@
     "opencl-rusticl-mesa": "mesa",
     "openconnect": "openconnect",
     "opencore-amr": "opencore-amr",
-    "opencv": "opencv",
-    "opencv-samples": "opencv",
+    "opencv": "opencv@4",
+    "opencv-samples": "opencv@4",
     "opendbx": "opendbx",
     "openexr": "openexr",
     "openh264": "openh264",
@@ -46,6 +46,8 @@
     "openjdk8-doc": "openjdk@25",
     "openjdk8-src": "openjdk@25",
     "openjpeg2": "openjpeg",
+    "openjph": "openjph",
+    "openjph-doc": "openjph",
     "openldap": "openldap",
     "openlibm": "openlibm",
     "openmpi": "open-mpi",

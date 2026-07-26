@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_43",
     "shard": "g",
-    "total_mappings": 1296
+    "total_mappings": 1298
   },
   "mappings": {
     "GMT": "gmt",
@@ -1198,6 +1198,8 @@
     "gssdp-devel": "gssdp",
     "gssdp-docs": "gssdp",
     "gssdp-utils": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
+    "gssntlmssp-devel": "gss-ntlmssp",
     "gstreamer1": "gstreamer",
     "gstreamer1-devel": "gstreamer",
     "gstreamer1-svt-vp9": "svt-vp9",

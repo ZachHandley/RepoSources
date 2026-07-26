@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "m",
-    "total_mappings": 763
+    "total_mappings": 755
   },
   "mappings": {
     "Mesa": "mesa",
@@ -284,10 +284,6 @@
     "mimalloc-debuginfo": "mimalloc",
     "mimalloc-debugsource": "mimalloc",
     "mimalloc-devel": "mimalloc",
-    "mimic": "mimic",
-    "mimic-debuginfo": "mimic",
-    "mimic-debugsource": "mimic",
-    "mimic-devel": "mimic",
     "mingw32-binutils": "aarch64-elf-binutils",
     "mingw32-binutils-debug": "aarch64-elf-binutils",
     "mingw32-binutils-devel": "aarch64-elf-binutils",
@@ -612,14 +608,10 @@
     "mozilla-nss-devel": "nss",
     "mozilla-nss-sysinit": "nss",
     "mozilla-nss-tools": "nss",
-    "mozjs115": "spidermonkey@115",
-    "mozjs115-debuginfo": "spidermonkey@115",
-    "mozjs115-debugsource": "spidermonkey@115",
-    "mozjs115-devel": "spidermonkey@115",
-    "mozjs140": "spidermonkey@115",
-    "mozjs140-debuginfo": "spidermonkey@115",
-    "mozjs140-debugsource": "spidermonkey@115",
-    "mozjs140-devel": "spidermonkey@115",
+    "mozjs140": "spidermonkey",
+    "mozjs140-debuginfo": "spidermonkey",
+    "mozjs140-debugsource": "spidermonkey",
+    "mozjs140-devel": "spidermonkey",
     "mp3gain": "mp3gain",
     "mp3gain-debuginfo": "mp3gain",
     "mp3gain-debugsource": "mp3gain",

@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "t",
-    "total_mappings": 1
+    "total_mappings": 3
   },
   "mappings": {
-    "tinc": "tinc"
+    "tillitis-tkey-udev": "tkey-ssh-agent",
+    "tinc": "tinc",
+    "tkey-ssh-agent": "tkey-ssh-agent"
   }
 }

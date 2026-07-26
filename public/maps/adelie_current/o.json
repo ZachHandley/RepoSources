@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "adelie_current",
     "shard": "o",
@@ -22,10 +22,10 @@
     "openal-soft": "openal-soft",
     "openal-soft-dbg": "openal-soft",
     "openal-soft-dev": "openal-soft",
-    "opencv": "opencv",
-    "opencv-dbg": "opencv",
-    "opencv-dev": "opencv",
-    "opencv-libs": "opencv",
+    "opencv": "opencv@4",
+    "opencv-dbg": "opencv@4",
+    "opencv-dev": "opencv@4",
+    "opencv-libs": "opencv@4",
     "openjdk8": "openjdk@25",
     "openjdk8-dbg": "openjdk@25",
     "openjdk8-demos": "openjdk@25",

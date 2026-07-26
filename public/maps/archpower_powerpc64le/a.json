@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "a",
-    "total_mappings": 81
+    "total_mappings": 83
   },
   "mappings": {
     "a52dec": "a52dec",
@@ -16,6 +16,7 @@
     "abseil-cpp": "abseil",
     "acl": "acl",
     "acpica": "acpica",
+    "ada": "ada-url",
     "add-determinism": "add-determinism",
     "adios2": "adios2",
     "adwaita-cursors": "adwaita-icon-theme",
@@ -28,6 +29,7 @@
     "ant": "ant",
     "ant-doc": "ant@1.9",
     "antlr2": "antlr",
+    "anubis": "anubis",
     "aom": "aom",
     "aom-docs": "aom",
     "apache": "httpd",

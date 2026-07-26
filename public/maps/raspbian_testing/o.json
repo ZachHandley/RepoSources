@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "o",
@@ -104,9 +104,9 @@
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
     "opencubicplayer": "ocp",
-    "opencv": "opencv",
-    "opencv-data": "opencv",
-    "opencv-doc": "opencv",
+    "opencv": "opencv@4",
+    "opencv-data": "opencv@4",
+    "opencv-doc": "opencv@4",
     "opendbx-doc": "opendbx",
     "opendbx-utils": "opendbx",
     "opendht": "opendht",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "p",
@@ -73,6 +73,7 @@
     "pdf2svg": "pdf2svg",
     "pdfgrep": "pdfgrep",
     "pdfpc": "pdfpc",
+    "pdfrip": "pdfrip",
     "pdsh": "pdsh",
     "percona-toolkit": "percona-toolkit",
     "perl": "perl",
@@ -282,7 +283,6 @@
     "py27-gobject": "pygobject3",
     "py27-libdnet": "libdnet",
     "py27-marisa": "marisa",
-    "py27-scons": "scons",
     "py27-setuptools": "python-setuptools",
     "py311-gdbm": "python-gdbm@3.14",
     "py313-Glances": "glances",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "k",
-    "total_mappings": 192
+    "total_mappings": 193
   },
   "mappings": {
     "k0sctl": "k0sctl",
@@ -171,6 +171,7 @@
     "kubectl-cnpg": "kubectl-cnpg",
     "kubectl-convert": "kubernetes-cli@1.35",
     "kubectl-explore": "kubectl-explore",
+    "kubectl-klock": "kubectl-klock",
     "kubectl-tree": "kubectl-tree",
     "kubectx": "kubectx",
     "kubefirst": "kubefirst",

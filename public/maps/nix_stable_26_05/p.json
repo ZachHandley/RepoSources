@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "p",
-    "total_mappings": 768
+    "total_mappings": 772
   },
   "mappings": {
     "p0f": "p0f",
@@ -123,6 +123,7 @@
     "perlPackages.Po4a": "po4a",
     "perlPackages.ack": "ack",
     "perlPackages.strip-nondeterminism": "strip-nondeterminism",
+    "perlnavigator": "perlnavigator",
     "peru": "peru",
     "pet": "pet",
     "petsc": "petsc",
@@ -405,6 +406,7 @@
     "proxytunnel": "proxytunnel",
     "prqlc": "prqlc",
     "prr": "prr",
+    "prrte": "prrte",
     "prs": "prs",
     "ps": "procps",
     "ps2eps": "ps2eps",
@@ -608,6 +610,7 @@
     "python313Packages.tensorflowWithoutCuda": "libtensorflow",
     "python313Packages.thrift": "thrift",
     "python313Packages.translate-toolkit": "translate-toolkit",
+    "python313Packages.tree-sitter-python": "tree-sitter-python",
     "python313Packages.twine": "twine",
     "python313Packages.unicorn": "unicorn",
     "python313Packages.uvicorn": "uvicorn",
@@ -754,6 +757,7 @@
     "python314Packages.tensorflowWithoutCuda": "libtensorflow",
     "python314Packages.thrift": "thrift",
     "python314Packages.translate-toolkit": "translate-toolkit",
+    "python314Packages.tree-sitter-python": "tree-sitter-python",
     "python314Packages.twine": "twine",
     "python314Packages.unicorn": "unicorn",
     "python314Packages.uvicorn": "uvicorn",

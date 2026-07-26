@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gentoo",
     "shard": "s",
-    "total_mappings": 436
+    "total_mappings": 441
   },
   "mappings": {
     "sci-astronomy/cdsclient": "cdsclient",
@@ -95,7 +95,7 @@
     "sci-libs/gmsh": "gmsh",
     "sci-libs/gsl": "gsl",
     "sci-libs/gts": "gts",
-    "sci-libs/hdf5": "hdf5@1.10",
+    "sci-libs/hdf5": "hdf5",
     "sci-libs/htslib": "htslib",
     "sci-libs/hypre": "hypre",
     "sci-libs/inchi": "inchi",
@@ -196,6 +196,8 @@
     "sci-mathematics/z3": "z3",
     "sci-misc/nco": "nco",
     "sci-misc/ncview": "ncview",
+    "sci-ml/ggml": "ggml",
+    "sci-ml/ollama": "ollama",
     "sci-ml/oneDNN": "onednn",
     "sci-ml/onnx": "onnx",
     "sci-ml/pytorch": "pytorch",
@@ -329,6 +331,7 @@
     "sys-cluster/mpich": "mpich",
     "sys-cluster/openmpi": "open-mpi",
     "sys-cluster/pmix": "pmix",
+    "sys-cluster/prrte": "prrte",
     "sys-cluster/spark-bin": "apache-spark",
     "sys-cluster/virtctl": "virtctl",
     "sys-cluster/zookeeper-bin": "zookeeper",
@@ -349,6 +352,7 @@
     "sys-devel/qbe": "qbe",
     "sys-devel/rust-std": "rust",
     "sys-devel/sparse": "sparse",
+    "sys-devel/wild": "wild",
     "sys-firmware/blisp": "blisp",
     "sys-fs/archivemount": "archivemount",
     "sys-fs/avfs": "avfs",
@@ -441,6 +445,7 @@
     "sys-process/procps": "procps",
     "sys-process/procs": "procs",
     "sys-process/runit": "runit",
+    "sys-process/rust-parallel": "rust-parallel",
     "sys-process/time": "gnu-time",
     "sys-process/tini": "tini"
   }

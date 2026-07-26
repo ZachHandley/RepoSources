@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_05",
     "shard": "a",
-    "total_mappings": 288
+    "total_mappings": 289
   },
   "mappings": {
     "Agda": "agda",
@@ -43,6 +43,7 @@
     "activemq": "activemq",
     "addlicense": "addlicense",
     "adns": "adns",
+    "adrs": "adrs",
     "advancecomp": "advancecomp",
     "adwaita-icon-theme": "adwaita-icon-theme",
     "aerc": "aerc",

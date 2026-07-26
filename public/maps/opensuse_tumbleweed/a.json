@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "a",
-    "total_mappings": 535
+    "total_mappings": 538
   },
   "mappings": {
     "AppStream": "appstream",
@@ -350,8 +350,11 @@
     "asciinema-debuginfo": "asciinema",
     "asciinema-debugsource": "asciinema",
     "asdf": "asdf",
+    "asdf-bash-completion": "asdf",
     "asdf-debuginfo": "asdf",
     "asdf-debugsource": "asdf",
+    "asdf-fish-completion": "asdf",
+    "asdf-zsh-completion": "asdf",
     "asio": "asio",
     "asio-devel": "asio",
     "asn1c": "asn1c",

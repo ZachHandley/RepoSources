@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "v",
@@ -10,7 +10,6 @@
     "vala": "vala",
     "vala-debuginfo": "vala",
     "vala-debugsource": "vala",
-    "vala-libproxy": "libproxy",
     "vala-tools": "vala",
     "valadoc": "vala",
     "valgrind": "valgrind",
@@ -56,6 +55,7 @@
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
     "virt-manager-common": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "virtuoso-opensource": "virtuoso",
     "virtuoso-opensource-applications": "virtuoso",
     "virtuoso-opensource-jars": "virtuoso",

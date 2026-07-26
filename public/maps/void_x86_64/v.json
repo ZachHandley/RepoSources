@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "v",
-    "total_mappings": 92
+    "total_mappings": 93
   },
   "mappings": {
     "Vulkan-Headers": "vulkan-headers",
@@ -62,6 +62,7 @@
     "vips": "vips",
     "virt-manager": "virt-manager",
     "virt-manager-tools": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "virtualenvwrapper": "virtualenvwrapper",
     "virtuoso": "virtuoso",
     "virtuoso-base": "virtuoso",

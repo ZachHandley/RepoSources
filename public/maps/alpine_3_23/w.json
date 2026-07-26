@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_3_23",
     "shard": "w",
-    "total_mappings": 150
+    "total_mappings": 152
   },
   "mappings": {
     "w3m": "w3m",
@@ -93,6 +93,8 @@
     "widelands-doc": "widelands",
     "wiggle": "wiggle",
     "wiggle-doc": "wiggle",
+    "wild": "wild",
+    "wild-doc": "wild",
     "wimlib": "wimlib",
     "wimlib-dev": "wimlib",
     "wimlib-doc": "wimlib",

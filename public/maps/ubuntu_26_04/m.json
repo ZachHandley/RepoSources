@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_04",
     "shard": "m",
-    "total_mappings": 372
+    "total_mappings": 374
   },
   "mappings": {
     "m4": "m4",
@@ -277,6 +277,8 @@
     "moor": "moor",
     "moreutils": "moreutils",
     "morse": "morse",
+    "mosdepth": "mosdepth",
+    "mosdepth-examples": "mosdepth",
     "mosh": "mosh",
     "mosquitto": "mosquitto",
     "mosquitto-clients": "mosquitto",
@@ -284,8 +286,8 @@
     "most": "most",
     "motif": "openmotif",
     "mount": "gnu-getopt",
-    "mozjs128": "spidermonkey@115",
-    "mozjs140": "spidermonkey@115",
+    "mozjs128": "spidermonkey",
+    "mozjs140": "spidermonkey",
     "mp3blaster": "mp3blaster",
     "mp3check": "mp3check",
     "mp3gain": "mp3gain",

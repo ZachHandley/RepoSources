@@ -1,13 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_40",
     "shard": "b",
-    "total_mappings": 2
+    "total_mappings": 6
   },
   "mappings": {
+    "bandwhich": "bandwhich",
+    "bandwhich-debuginfo": "bandwhich",
     "bat-extras": "bat-extras",
+    "bottom": "bottom",
+    "bottom-debuginfo": "bottom",
     "btdu": "btdu"
   }
 }

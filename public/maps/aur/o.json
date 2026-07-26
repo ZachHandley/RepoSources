@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "o",
-    "total_mappings": 296
+    "total_mappings": 298
   },
   "mappings": {
     "oasis": "oasis",
@@ -132,13 +132,14 @@
     "openconnect-git": "openconnect",
     "opencore-amr-git": "opencore-amr",
     "opencsg-git": "opencsg",
-    "opencv-docs": "opencv",
-    "opencv-git": "opencv",
-    "opencv-java": "opencv",
-    "opencv-samples-git": "opencv",
-    "opencv2": "opencv",
-    "opencv3-opt": "opencv",
-    "opencv3-opt-samples": "opencv",
+    "opencv-docs": "opencv@4",
+    "opencv-git": "opencv@4",
+    "opencv-java": "opencv@4",
+    "opencv-samples-git": "opencv@4",
+    "opencv2": "opencv@4",
+    "opencv3-opt": "opencv@4",
+    "opencv3-opt-samples": "opencv@4",
+    "opencv4": "opencv@4",
     "opendetex": "opendetex",
     "opendht-git": "opendht",
     "opendoor": "opendoor",
@@ -291,6 +292,7 @@
     "ov-git": "ov",
     "overmind": "overmind",
     "overmind-bin": "overmind",
+    "ovh-ttyrec-git": "ovh-ttyrec",
     "ovsx": "ovsx",
     "owamp": "owamp",
     "owfs": "owfs",

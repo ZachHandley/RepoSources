@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "f",
-    "total_mappings": 37
+    "total_mappings": 44
   },
   "mappings": {
     "fast_float": "fast_float",
@@ -15,6 +15,13 @@
     "flann-debuginfo": "flann",
     "flann-debugsource": "flann",
     "flann-devel": "flann",
+    "flexiblas": "flexiblas",
+    "flexiblas-debuginfo": "flexiblas",
+    "flexiblas-debugsource": "flexiblas",
+    "flexiblas-devel": "flexiblas",
+    "flexiblas-man": "flexiblas",
+    "flexiblas-netlib": "flexiblas",
+    "flexiblas-openblas-pthreads": "flexiblas",
     "flint": "flint",
     "flint-debuginfo": "flint",
     "flint-debugsource": "flint",

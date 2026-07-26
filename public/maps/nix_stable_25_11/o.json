@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_25_11",
     "shard": "o",
-    "total_mappings": 191
+    "total_mappings": 192
   },
   "mappings": {
     "oak": "oak",
@@ -101,8 +101,8 @@
     "openconnect_openssl": "openconnect",
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
-    "opencv": "opencv",
-    "opencv4WithoutCuda": "opencv",
+    "opencv": "opencv@4",
+    "opencv4WithoutCuda": "opencv@4",
     "opendbx": "opendbx",
     "opendht": "opendht",
     "openexr": "openexr",
@@ -193,6 +193,7 @@
     "ouch": "ouch",
     "ov": "ov",
     "overmind": "overmind",
+    "ovh-ttyrec": "ovh-ttyrec",
     "owamp": "owamp",
     "ox": "ox",
     "oxipng": "oxipng",

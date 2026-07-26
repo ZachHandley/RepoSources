@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "h",
@@ -34,9 +34,9 @@
     "hblock": "hblock",
     "hcloud": "hcloud",
     "hdf5": "hdf5",
-    "hdf5-110": "hdf5@1.10",
-    "hdf5-18": "hdf5@1.10",
-    "hdf5-21": "hdf5@1.10",
+    "hdf5-110": "hdf5",
+    "hdf5-18": "hdf5",
+    "hdf5-21": "hdf5",
     "healpix": "healpix",
     "hebcal": "hebcal",
     "hebrew/hspell": "hspell",

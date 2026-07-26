@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "deepin_unstable",
     "shard": "m",
@@ -376,8 +376,8 @@
     "mouse-modules-5.15.0-0.bpo.2-powerpc-di": "linux-headers@6.8",
     "mouse-modules-5.15.0-0.bpo.2-powerpc64-di": "linux-headers@6.8",
     "mouse-modules-5.15.0-0.bpo.2-powerpc64le-di": "linux-headers@6.8",
-    "mozjs52": "spidermonkey@115",
-    "mozjs60": "spidermonkey@115",
+    "mozjs52": "spidermonkey",
+    "mozjs60": "spidermonkey",
     "mp3blaster": "mp3blaster",
     "mp3check": "mp3check",
     "mp3fs": "mp3fs",

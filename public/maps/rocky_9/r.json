@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rocky_9",
     "shard": "r",
-    "total_mappings": 133
+    "total_mappings": 135
   },
   "mappings": {
     "radvd": "radvd",
@@ -95,6 +95,7 @@
     "rsyslog-relp": "rsyslog",
     "rsyslog-snmp": "rsyslog",
     "rsyslog-udpspoof": "rsyslog",
+    "rtla": "linux-headers@6.8",
     "ruby": "ruby",
     "ruby-bundled-gems": "ruby@3.4",
     "ruby-debuginfo": "ruby@3.4",
@@ -139,6 +140,7 @@
     "rust-std-static-wasm32-unknown-unknown": "rust",
     "rust-std-static-wasm32-wasip1": "rust",
     "rust-toolset": "rust",
-    "rustfmt": "rust"
+    "rustfmt": "rust",
+    "rv": "linux-headers@6.8"
   }
 }

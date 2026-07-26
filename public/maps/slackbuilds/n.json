@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slackbuilds",
     "shard": "n",
-    "total_mappings": 260
+    "total_mappings": 261
   },
   "mappings": {
     "network/2ping": "twoping",
@@ -102,7 +102,7 @@
     "network/ircd-hybrid": "ircd-hybrid",
     "network/isync": "isync",
     "network/jigdo": "jigdo",
-    "network/js185": "spidermonkey@115",
+    "network/js185": "spidermonkey",
     "network/k9s": "k9s",
     "network/kea": "kea",
     "network/knock": "knock",
@@ -136,6 +136,7 @@
     "network/neomutt": "neomutt",
     "network/netcat": "netcat",
     "network/nethogs": "nethogs",
+    "network/netmask": "netmask",
     "network/newsboat": "newsboat",
     "network/newsraft": "newsraft",
     "network/nfdump": "nfdump",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "d",
@@ -61,9 +61,6 @@
     "dbus-tools": "dbus",
     "dbus-x11": "dbus",
     "dbusd": "device-mapper",
-    "dcadec": "dcadec",
-    "dcadec-debuginfo": "dcadec",
-    "dcadec-debugsource": "dcadec",
     "dcfldd": "dcfldd",
     "dcfldd-debuginfo": "dcfldd",
     "dcfldd-debugsource": "dcfldd",
@@ -121,6 +118,9 @@
     "dirac-debugsource": "dirac",
     "dirac-utils": "dirac",
     "discount": "discount",
+    "diskwatch": "diskwatch",
+    "diskwatch-debuginfo": "diskwatch",
+    "diskwatch-debugsource": "diskwatch",
     "dislocker": "dislocker",
     "dislocker-debuginfo": "dislocker",
     "dislocker-debugsource": "dislocker",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "u",
-    "total_mappings": 104
+    "total_mappings": 107
   },
   "mappings": {
     "u-boot-tools": "u-boot-tools",
@@ -72,6 +72,7 @@
     "unixODBC-debuginfo": "unixodbc",
     "unnethack": "unnethack",
     "unnethack-debuginfo": "unnethack",
+    "unordered_dense": "unordered_dense",
     "unpaper": "unpaper",
     "unpaper-debuginfo": "unpaper",
     "unrtf": "unrtf",
@@ -87,6 +88,8 @@
     "urdfdom-headers": "urdfdom_headers",
     "urlview": "urlview",
     "urlview-debuginfo": "urlview",
+    "usage": "usage",
+    "usage-debuginfo": "usage",
     "usbids": "usb.ids",
     "usbip": "linux-headers@6.8",
     "usbip-debuginfo": "linux-headers@6.8",

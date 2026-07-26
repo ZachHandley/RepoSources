@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "t",
-    "total_mappings": 102
+    "total_mappings": 103
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -94,6 +94,7 @@
     "treecc": "treecc",
     "treefmt": "treefmt",
     "trezor-agent": "trezor-agent",
+    "trim-galore": "trim-galore",
     "trurl": "trurl",
     "ttf2eot": "ttf2eot",
     "ttf2pt1": "ttf2pt1",

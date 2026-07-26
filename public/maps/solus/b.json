@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "b",
-    "total_mappings": 110
+    "total_mappings": 111
   },
   "mappings": {
     "BAD-PACKAGER-NO-COOKIE-FOR-YOU": "llvm@21",
@@ -49,6 +49,7 @@
     "binaryen-devel": "binaryen",
     "bind-utils": "bind",
     "bind-utils-dbginfo": "bind",
+    "bind-utils-devel": "bind",
     "binutils": "binutils",
     "binutils-dbginfo": "aarch64-elf-binutils",
     "binutils-devel": "binutils",

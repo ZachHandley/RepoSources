@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_6",
     "shard": "g",
-    "total_mappings": 63
+    "total_mappings": 64
   },
   "mappings": {
     "GMT": "gmt",
@@ -15,6 +15,7 @@
     "gambit-c": "gambit-scheme",
     "game-music-emu": "game-music-emu",
     "garmintools": "garmintools",
+    "gcx": "gcx",
     "gdal": "gdal",
     "gearmand": "gearman",
     "gecode": "gecode",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "s",
-    "total_mappings": 507
+    "total_mappings": 509
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -49,6 +49,7 @@
     "security/argon2": "argon2",
     "security/b3sum": "b3sum",
     "security/badkeys": "badkeys",
+    "security/bandit": "bandit",
     "security/blake3": "b3sum",
     "security/botan2": "botan@2",
     "security/ccrypt": "ccrypt",
@@ -249,7 +250,7 @@
     "speexdsp": "speexdsp",
     "spice-gtk": "spice-gtk",
     "spice-protocol": "spice-protocol",
-    "spidermonkey140": "spidermonkey@115",
+    "spidermonkey140": "spidermonkey",
     "spim": "spim",
     "spin": "spin",
     "spiped": "spiped",
@@ -431,6 +432,7 @@
     "sysutils/monit": "monit",
     "sysutils/moor": "moor",
     "sysutils/moreutils": "moreutils",
+    "sysutils/msitools": "msitools",
     "sysutils/msktutil": "msktutil",
     "sysutils/mtools": "mtools",
     "sysutils/multitail": "multitail",

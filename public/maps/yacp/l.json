@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "yacp",
     "shard": "l",
-    "total_mappings": 1736
+    "total_mappings": 1739
   },
   "mappings": {
     "ladspa-rubberband": "rubberband",
@@ -317,8 +317,6 @@
     "libcmark-gfm0.29.0.gfm.13": "cmark-gfm",
     "libcminpack-devel": "cminpack",
     "libcminpack1": "cminpack",
-    "libcmockery-devel": "cmockery",
-    "libcmockery0": "cmockery",
     "libcmuclmtk-devel": "cmuclmtk",
     "libcmuclmtk0": "cmuclmtk",
     "libcoap": "libcoap",
@@ -842,6 +840,9 @@
     "libjalali0": "jcal",
     "libjanet-devel": "janet",
     "libjanet1.41": "janet",
+    "libjaylink": "libjaylink",
+    "libjaylink-devel": "libjaylink",
+    "libjaylink0": "libjaylink",
     "libjcat": "libjcat",
     "libjcat-devel": "libjcat",
     "libjcat1": "libjcat",
@@ -1243,6 +1244,8 @@
     "libquantum8": "libquantum",
     "libr3-devel": "r3",
     "libr3_0": "r3",
+    "librawtoaces-devel": "rawtoaces",
+    "librawtoaces1.0.0": "rawtoaces",
     "libraylib-devel": "raylib",
     "libraylib550": "raylib",
     "librcsc": "librcsc",

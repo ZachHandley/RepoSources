@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_unstable",
     "shard": "z",
-    "total_mappings": 129
+    "total_mappings": 130
   },
   "mappings": {
     "z3": "z3",
@@ -118,6 +118,7 @@
     "zsh-fzf-tab": "fzf-tab",
     "zsh-history-substring-search": "zsh-history-substring-search",
     "zsh-navigation-tools": "zsh-navigation-tools",
+    "zsh-patina": "zsh-patina",
     "zsh-powerlevel10k": "powerlevel10k",
     "zsh-syntax-highlighting": "zsh-syntax-highlighting",
     "zsh-system-clipboard": "zsh-system-clipboard",

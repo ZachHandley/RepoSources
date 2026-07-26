@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_18_04",
     "shard": "b",
-    "total_mappings": 248
+    "total_mappings": 249
   },
   "mappings": {
     "b43-fwcutter": "b43-fwcutter",
@@ -63,6 +63,7 @@
     "bcpp": "bcpp",
     "bcpp-dbg": "bcpp",
     "bcrypt": "bcrypt",
+    "beads": "beads",
     "beanstalkd": "beanstalkd",
     "bear": "bear",
     "bedops": "bedops",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix",
     "shard": "z",
-    "total_mappings": 44
+    "total_mappings": 45
   },
   "mappings": {
     "z3": "z3",
@@ -31,6 +31,7 @@
     "zint": "zint",
     "zint-qt": "zint",
     "zip": "zip",
+    "zita-convolver": "zita-convolver",
     "zix": "zix",
     "zix-docs": "zix",
     "zlib": "zlib",

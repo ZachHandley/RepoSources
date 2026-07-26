@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "p",
-    "total_mappings": 911
+    "total_mappings": 913
   },
   "mappings": {
     "p0f": "p0f",
@@ -530,6 +530,7 @@
     "python-ecasound": "ecasound",
     "python-exactimage": "exact-image",
     "python-eyed3": "eye-d3",
+    "python-fake-factory": "faker",
     "python-fiona": "fiona",
     "python-flake8": "flake8",
     "python-fontforge": "fontforge",
@@ -616,7 +617,7 @@
     "python-nut": "nut",
     "python-olm": "libolm",
     "python-openbabel": "open-babel",
-    "python-opencv": "opencv",
+    "python-opencv": "opencv@4",
     "python-openvdb": "openvdb",
     "python-ow": "owfs",
     "python-ownet": "owfs",
@@ -768,6 +769,7 @@
     "python3-datalad": "datalad",
     "python3-eccodes": "eccodes",
     "python3-eyed3": "eye-d3",
+    "python3-fake-factory": "faker",
     "python3-fava": "fava",
     "python3-fiona": "fiona",
     "python3-flake8": "flake8",
@@ -832,7 +834,7 @@
     "python3-numpy": "numpy",
     "python3-numpy-dbg": "numpy",
     "python3-nut": "nut",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-openimageio": "openimageio",
     "python3-packaging": "python-packaging",
     "python3-pacparser": "pacparser",

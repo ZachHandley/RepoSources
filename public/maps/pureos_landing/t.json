@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pureos_landing",
     "shard": "t",
-    "total_mappings": 357
+    "total_mappings": 359
   },
   "mappings": {
     "t1utils": "t1utils",
@@ -342,6 +342,7 @@
     "tree": "tree",
     "tree-sitter": "tree-sitter",
     "tree-sitter-cli": "tree-sitter@0.25",
+    "trim-galore": "trim-galore",
     "trippy": "trippy",
     "trurl": "trurl",
     "tshark": "wireshark",
@@ -354,6 +355,7 @@
     "tty-solitaire": "tty-solitaire",
     "ttygif": "ttygif",
     "ttyplot": "ttyplot",
+    "ttyrec": "ovh-ttyrec",
     "tup": "tup",
     "tweak": "tweak",
     "twine": "twine",

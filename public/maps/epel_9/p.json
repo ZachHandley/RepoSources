@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_9",
     "shard": "p",
-    "total_mappings": 547
+    "total_mappings": 548
   },
   "mappings": {
     "PDAL": "pdal",
@@ -410,7 +410,6 @@
     "python3-cjdns": "cjdns",
     "python3-cookiecutter": "cookiecutter",
     "python3-cram": "cram",
-    "python3-distrdf": "root",
     "python3-dlib": "dlib",
     "python3-dns-lexicon": "lexicon",
     "python3-fabric": "fabric",
@@ -450,7 +449,6 @@
     "python3-ipython-sphinx": "ipython",
     "python3-jc": "jc",
     "python3-jsonnet": "jsonnet",
-    "python3-jupyroot": "root",
     "python3-koji": "koji",
     "python3-koji-cli-plugins": "koji",
     "python3-koji-hub": "koji",
@@ -483,7 +481,7 @@
     "python3-mypy": "mypy",
     "python3-onnx": "onnx",
     "python3-openbabel": "open-babel",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-openimageio": "openimageio",
     "python3-otf2": "otf2",
     "python3-petsc-mpich": "petsc",
@@ -507,6 +505,8 @@
     "python3-remctl": "remctl",
     "python3-robotframework": "robot-framework",
     "python3-root": "root",
+    "python3-root+distrdf": "root",
+    "python3-root+jupyroot": "root",
     "python3-rpm": "rpm",
     "python3-rpm-debuginfo": "rpm",
     "python3-rpm-debugsource": "rpm",
@@ -553,6 +553,7 @@
     "python3.13-test": "python@3.9",
     "python3.13-tkinter": "python@3.9",
     "python3.13-uwsgidecorators": "uwsgi",
-    "python3.14-rpm": "rpm"
+    "python3.14-rpm": "rpm",
+    "python3.14-uwsgidecorators": "uwsgi"
   }
 }

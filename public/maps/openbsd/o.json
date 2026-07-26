@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "o",
@@ -42,8 +42,8 @@
     "openconnect": "openconnect",
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
-    "opencv": "opencv",
-    "opencv-java": "opencv",
+    "opencv": "opencv@4",
+    "opencv-java": "opencv@4",
     "opendht": "opendht",
     "openfst": "openfst",
     "openh264": "openh264",

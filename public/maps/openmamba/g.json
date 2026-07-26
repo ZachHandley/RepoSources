@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "g",
-    "total_mappings": 160
+    "total_mappings": 166
   },
   "mappings": {
     "gawk": "gawk",
@@ -79,6 +79,13 @@
     "glib-networking": "glib-networking",
     "glib-tools": "glib",
     "glibc": "glibc",
+    "glibc-apidocs": "glibc@2.17",
+    "glibc-common": "glibc@2.17",
+    "glibc-devel": "glibc",
+    "glibc-locales": "glibc@2.17",
+    "glibc-multilib": "glibc@2.17",
+    "glibc-multilib-devel": "glibc@2.17",
+    "glibc-utils": "glibc@2.17",
     "glm": "glm",
     "gloox": "gloox",
     "gloox-debug": "gloox",
@@ -111,7 +118,6 @@
     "gobject-introspection-apidocs": "gobject-introspection",
     "gobject-introspection-devel": "gobject-introspection",
     "gocr": "gocr",
-    "gocr-debug": "gocr",
     "goffice": "goffice",
     "gource": "gource",
     "gperf": "gperf",

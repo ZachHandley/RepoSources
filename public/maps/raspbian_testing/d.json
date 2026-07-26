@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "d",
-    "total_mappings": 268
+    "total_mappings": 269
   },
   "mappings": {
     "daemon": "daemon",
@@ -195,6 +195,7 @@
     "dosfstools": "dosfstools",
     "dosfstools-udeb": "dosfstools",
     "dotdrop": "dotdrop",
+    "dotenv-linter": "dotenv-linter",
     "double-conversion": "double-conversion",
     "dovecot": "dovecot",
     "dovecot-auth-lua": "dovecot",

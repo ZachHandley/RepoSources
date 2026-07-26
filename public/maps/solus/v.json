@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "v",
-    "total_mappings": 67
+    "total_mappings": 69
   },
   "mappings": {
     "VTK": "vtk",
@@ -50,6 +50,8 @@
     "vim": "vim",
     "vim-dbginfo": "vim",
     "virt-manager": "virt-manager",
+    "virtiofsd": "virtiofsd",
+    "virtiofsd-dbginfo": "virtiofsd",
     "virtualenv": "virtualenv",
     "virtualenvwrapper": "virtualenvwrapper",
     "vis": "vis",

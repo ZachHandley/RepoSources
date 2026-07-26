@@ -1,12 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "q",
-    "total_mappings": 39
+    "total_mappings": 54
   },
   "mappings": {
+    "qca-qt5-2-utils": "qca",
+    "qca-qt6-utils": "qca",
+    "qca2": "qca",
     "qemu": "qemu",
     "qemu-block-extra": "qemu",
     "qemu-block-supplemental": "qemu",
@@ -32,7 +35,11 @@
     "qemu-utils": "qemu",
     "qmake6": "qt@5",
     "qmake6-bin": "qt@5",
-    "qscintilla2": "qscintilla2",
+    "qpid-proton": "qpid-proton",
+    "qt5-gtk-platformtheme": "qt@5",
+    "qt5-qmake": "qt@5",
+    "qt5-qmake-bin": "qt@5",
+    "qt5-xdgdesktopportal-platformtheme": "qt@5",
     "qt6-base": "qt@5",
     "qt6-base-dev": "qt@5",
     "qt6-base-dev-tools": "qt@5",
@@ -44,6 +51,14 @@
     "qt6-gtk-platformtheme": "qt@5",
     "qt6-qpa-plugins": "qt@5",
     "qt6-xdgdesktopportal-platformtheme": "qt@5",
+    "qtbase-opensource-src": "qt@5",
+    "qtbase5-dev": "qt@5",
+    "qtbase5-dev-tools": "qt@5",
+    "qtbase5-doc": "qt@5",
+    "qtbase5-doc-dev": "qt@5",
+    "qtbase5-doc-html": "qt@5",
+    "qtbase5-examples": "qt@5",
+    "qtbase5-private-dev": "qt@5",
     "qtpaths6": "qt@5",
     "qtpaths6-bin": "qt@5"
   }

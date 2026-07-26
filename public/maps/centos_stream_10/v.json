@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "centos_stream_10",
     "shard": "v",
-    "total_mappings": 63
+    "total_mappings": 66
   },
   "mappings": {
     "v8-11.3-devel": "node@24",
@@ -44,6 +44,9 @@
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
     "virt-manager-common": "virt-manager",
+    "virtiofsd": "virtiofsd",
+    "virtiofsd-debuginfo": "virtiofsd",
+    "virtiofsd-debugsource": "virtiofsd",
     "voikko-tools": "libvoikko",
     "vsftpd": "vsftpd",
     "vsftpd-debuginfo": "vsftpd",

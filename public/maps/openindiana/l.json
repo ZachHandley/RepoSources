@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openindiana",
     "shard": "l",
-    "total_mappings": 733
+    "total_mappings": 732
   },
   "mappings": {
     "lame": "lame",
@@ -68,7 +68,6 @@
     "libdbi": "libdbi",
     "libdbusmenu": "libdbusmenu",
     "libdca": "libdca",
-    "libdcadec": "dcadec",
     "libde265": "libde265",
     "libdiscid": "libdiscid",
     "libdmx": "libdmx",
@@ -165,7 +164,6 @@
     "library/audio/libcddb": "libcddb",
     "library/audio/libcdio": "libcdio",
     "library/audio/libdca": "libdca",
-    "library/audio/libdcadec": "dcadec",
     "library/audio/libgsm": "libgsm",
     "library/audio/libid3tag": "libid3tag",
     "library/audio/libmad": "mad",
@@ -193,7 +191,7 @@
     "library/c++/glibmm-268": "glibmm@2.66",
     "library/c++/graphite2": "graphite2",
     "library/c++/harfbuzz": "harfbuzz",
-    "library/c++/hdf5": "hdf5@1.10",
+    "library/c++/hdf5": "hdf5",
     "library/c++/libabw": "libabw",
     "library/c++/libcdr": "libcdr",
     "library/c++/libetonyek": "libetonyek",
@@ -553,6 +551,7 @@
     "library/python/pybind11-314": "pybind11",
     "library/python/pybind11-39": "pybind11",
     "library/python/pycairo": "py3cairo",
+    "library/python/pycairo-314": "py3cairo",
     "library/python/pycairo-39": "py3cairo",
     "library/python/pycodestyle": "pycodestyle",
     "library/python/pycodestyle-314": "pycodestyle",

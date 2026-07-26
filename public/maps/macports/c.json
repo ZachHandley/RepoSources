@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "c",
-    "total_mappings": 317
+    "total_mappings": 315
   },
   "mappings": {
     "CImg": "cimg",
@@ -180,7 +180,6 @@
     "cmctl": "cmctl",
     "cminpack": "cminpack",
     "cmocka": "cmocka",
-    "cmockery": "cmockery",
     "cmuclmtk": "cmuclmtk",
     "cmus": "cmus",
     "cntlm": "cntlm",
@@ -200,7 +199,6 @@
     "commitizen": "commitizen",
     "committed": "committed",
     "comms/hidapi": "hidapi",
-    "comms/jerm": "jerm",
     "comms/kermit": "c-kermit",
     "comms/kermit-devel": "c-kermit",
     "comms/libnfc": "libnfc",

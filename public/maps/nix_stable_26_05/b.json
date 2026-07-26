@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_26_05",
     "shard": "b",
@@ -76,6 +76,7 @@
     "bcftools": "bcftools",
     "bchunk": "bchunk",
     "bdftopcf": "bdftopcf",
+    "beads": "beads",
     "beancount": "beancount",
     "beancount-language-server": "beancount-language-server",
     "beancount_2": "beancount",
@@ -185,7 +186,6 @@
     "bonnie++": "bonnie++",
     "boolector": "boolector",
     "boost": "boost",
-    "boost-build": "boost-build",
     "boost178": "boost@1.85",
     "boost179": "boost@1.85",
     "boost180": "boost@1.85",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "raspbian_testing",
     "shard": "s",
-    "total_mappings": 588
+    "total_mappings": 587
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -23,6 +23,7 @@
     "saidar": "libstatgrab",
     "sail": "libsail",
     "sail-codecs": "libsail",
+    "salmon": "salmon",
     "samba": "samba",
     "samba-ad-dc": "samba",
     "samba-ad-provision": "samba",
@@ -210,8 +211,6 @@
     "simde": "simde",
     "simdjson": "simdjson",
     "simdutf": "simdutf",
-    "simgrid": "simgrid",
-    "simgrid-java": "simgrid",
     "simple-scan": "simple-scan",
     "simutrans": "simutrans",
     "simutrans-data": "simutrans",
@@ -255,7 +254,7 @@
     "sleef": "sleef",
     "slepc": "slepc",
     "slepc-dev": "slepc",
-    "slepc3.24-doc": "slepc",
+    "slepc3.25-doc": "slepc",
     "slepc64-dev": "slepc",
     "sleuthkit": "sleuthkit",
     "slicot": "slicot",

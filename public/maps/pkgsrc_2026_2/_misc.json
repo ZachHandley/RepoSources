@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "generated_at": "2026-07-26T04:33:41Z",
+    "source": "repology-dump",
+    "distro": "pkgsrc_2026_2",
+    "shard": "_misc",
+    "total_mappings": 4
+  },
+  "mappings": {
+    "64tass": "tass64",
+    "6tunnel": "sixtunnel",
+    "7-zip": "sevenzip",
+    "7kaa": "seven-kingdoms"
+  }
+}

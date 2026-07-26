@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aixtoolbox",
     "shard": "p",
-    "total_mappings": 62
+    "total_mappings": 64
   },
   "mappings": {
     "p11-kit": "p11-kit",
@@ -54,6 +54,8 @@
     "python3.12-six": "six",
     "python3.12-snowballstemmer": "snowball",
     "python3.12-sphinx": "sphinx-doc",
+    "python3.14": "python@3.9",
+    "python3.14-setuptools": "python-setuptools",
     "python3.7": "python@3.9",
     "python3.9": "python@3.9",
     "python3.9-Cython": "cython",

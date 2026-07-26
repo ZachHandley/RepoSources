@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "d",
     "total_mappings": 119
   },
   "mappings": {
-    "d-plplot": "plplot",
     "daemonize": "daemonize",
     "daq": "daq",
     "daq-modules": "daq",
@@ -23,11 +22,12 @@
     "db53-utils": "berkeley-db@5",
     "db53_recover": "berkeley-db@5",
     "dbus": "dbus",
+    "dbus-common": "dbus",
+    "dbus-daemon": "dbus",
     "dbus-doc": "dbus",
     "dbus-glib": "dbus-glib",
     "dbus-x11": "dbus",
     "dc3dd": "dc3dd",
-    "dcadec": "dcadec",
     "dcfldd": "dcfldd",
     "dcmtk": "dcmtk",
     "dcraw": "dcraw",

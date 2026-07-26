@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "v",
-    "total_mappings": 238
+    "total_mappings": 241
   },
   "mappings": {
     "Vc": "vc",
@@ -142,6 +142,9 @@
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
     "virt-manager-common": "virt-manager",
+    "virtiofsd": "virtiofsd",
+    "virtiofsd-debuginfo": "virtiofsd",
+    "virtiofsd-debugsource": "virtiofsd",
     "vis": "vis",
     "vis-debuginfo": "vis",
     "vis-debugsource": "vis",

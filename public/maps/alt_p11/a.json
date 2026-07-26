@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "a",
-    "total_mappings": 359
+    "total_mappings": 360
   },
   "mappings": {
     "AFLplusplus": "afl++",
@@ -102,8 +102,7 @@
     "ant-contrib": "ant-contrib",
     "ant-contrib-javadoc": "ant-contrib",
     "ant-imageio": "ant@1.9",
-    "ant-javadoc": "ant@1.9",
-    "ant-javamail": "ant@1.9",
+    "ant-jakartamail": "ant@1.9",
     "ant-jdepend": "ant@1.9",
     "ant-jmf": "ant@1.9",
     "ant-jsch": "ant@1.9",
@@ -199,6 +198,8 @@
     "apcupsd": "apcupsd",
     "apcupsd-debuginfo": "apcupsd",
     "apcupsd-doc": "apcupsd",
+    "apm": "apm",
+    "apm-debuginfo": "apm",
     "appstream": "appstream",
     "appstream-compose": "appstream",
     "appstream-compose-debuginfo": "appstream",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "tur",
     "shard": "l",
-    "total_mappings": 32
+    "total_mappings": 25
   },
   "mappings": {
     "lazyjj": "lazyjj",
@@ -16,11 +16,8 @@
     "lib32-libidn2": "libidn2",
     "lib32-libnettle": "nettle@3",
     "lib32-libunistring": "libunistring",
-    "libabw": "libabw",
     "libbson": "mongo-c-driver@1",
-    "libcdr": "libcdr",
     "libdicom": "libdicom",
-    "libfreehand": "libfreehand",
     "libftgl2": "ftgl",
     "libicu69": "icu4c@78",
     "libiptcdata": "libiptcdata",
@@ -32,12 +29,8 @@
     "libllvm-15": "llvm@21",
     "libllvm-16": "llvm@21",
     "libmongoc": "mongo-c-driver@1",
-    "libmspub": "libmspub",
-    "libmwaw": "libmwaw",
     "libnids": "libnids",
     "libnsl": "libnsl",
-    "libpagemaker": "libpagemaker",
-    "libspnav": "libspnav",
-    "lpsolve": "lp_solve"
+    "libspnav": "libspnav"
   }
 }

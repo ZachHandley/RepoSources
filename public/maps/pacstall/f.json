@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pacstall",
     "shard": "f",
-    "total_mappings": 14
+    "total_mappings": 15
   },
   "mappings": {
     "fastfetch-git": "fastfetch",
     "fblog-bin": "fblog",
+    "fd-deb": "fd",
     "fennel": "fennel",
     "fennel-bin": "fennel",
     "ferium-bin": "ferium",

@@ -1,12 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "solus",
     "shard": "q",
-    "total_mappings": 276
+    "total_mappings": 277
   },
   "mappings": {
+    "qalculate": "libqalculate",
     "qbe": "qbe",
     "qbe-dbginfo": "qbe",
     "qca": "qca",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openbsd",
     "shard": "c",
@@ -12,6 +12,7 @@
     "cabextract": "cabextract",
     "cad/clipper2": "clipper2",
     "cad/gerbv": "gerbv",
+    "cad/libspnav": "libspnav",
     "cad/manifold": "manifold",
     "cad/ngspice/libngspice": "libngspice",
     "cad/ngspice/ngspice": "libngspice",
@@ -98,7 +99,6 @@
     "cmark": "cmark",
     "cmatrix": "cmatrix",
     "cmocka": "cmocka",
-    "cmockery": "cmockery",
     "cmu-sphinx3": "cmu-pocketsphinx",
     "cmu-sphinxbase": "cmu-pocketsphinx",
     "cmus": "cmus",

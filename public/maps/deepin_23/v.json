@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "deepin_23",
     "shard": "v",
-    "total_mappings": 49
+    "total_mappings": 50
   },
   "mappings": {
     "va-driver-all": "libva",
@@ -41,6 +41,7 @@
     "virt-install": "virt-manager",
     "virt-manager": "virt-manager",
     "virtinst": "virt-manager",
+    "virtiofsd": "virtiofsd",
     "virtualenv": "virtualenv",
     "vo-aacenc": "libvo-aacenc",
     "vo-amrwbenc": "vo-amrwbenc",

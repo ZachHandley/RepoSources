@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "t",
-    "total_mappings": 111
+    "total_mappings": 112
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -111,6 +111,7 @@
     "tshark": "wireshark",
     "ttfautohint": "ttfautohint",
     "ttfautohint-gui": "ttfautohint",
+    "ttyrec": "ovh-ttyrec",
     "turbostat": "linux-headers@6.8",
     "twolame": "two-lame",
     "txt2man": "txt2man",

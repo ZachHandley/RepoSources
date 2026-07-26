@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_rawhide",
     "shard": "u",
-    "total_mappings": 222
+    "total_mappings": 223
   },
   "mappings": {
     "u2f-server": "libu2f-server",
@@ -37,6 +37,7 @@
     "ucrt64-objfw": "objfw",
     "ucrt64-objfw-debuginfo": "objfw",
     "ucrt64-openssl": "openssl@4",
+    "ucrt64-openssl-debuginfo": "openssl@4",
     "ucrt64-openssl-static": "openssl@4",
     "ucrt64-winpthreads": "mingw-w64",
     "ucrt64-winpthreads-debuginfo": "mingw-w64",

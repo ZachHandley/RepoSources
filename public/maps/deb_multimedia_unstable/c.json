@@ -1,17 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "deb_multimedia_unstable",
     "shard": "c",
-    "total_mappings": 6
+    "total_mappings": 5
   },
   "mappings": {
     "ccextractor": "ccextractor",
     "ccextractor-dmo": "ccextractor",
     "cd-paranoia": "libcdio-paranoia",
     "cec-utils": "libcec",
-    "chromaprint-dmo": "chromaprint",
-    "clipper2-dmo": "clipper2"
+    "chromaprint-dmo": "chromaprint"
   }
 }

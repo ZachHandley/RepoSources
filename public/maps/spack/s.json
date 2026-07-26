@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "s",
-    "total_mappings": 98
+    "total_mappings": 99
   },
   "mappings": {
     "s5cmd": "s5cmd",
+    "salmon": "salmon",
     "sambamba": "sambamba",
     "samtools": "samtools",
     "sbcl": "sbcl",

@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "p",
-    "total_mappings": 4
+    "total_mappings": 5
   },
   "mappings": {
+    "pkgconf": "pkgconf",
     "plantuml": "plantuml",
-    "python": "python@3.14",
+    "pre-commit": "pre-commit",
     "python-onnx": "onnx",
-    "python-tests": "python@3.9"
+    "python-virtualenv": "virtualenv"
   }
 }

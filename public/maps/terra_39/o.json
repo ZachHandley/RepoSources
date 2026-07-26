@@ -1,12 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "terra_39",
     "shard": "o",
-    "total_mappings": 8
+    "total_mappings": 10
   },
   "mappings": {
+    "onefetch": "onefetch",
+    "onefetch-debuginfo": "onefetch",
     "openh264": "openh264",
     "openh264-debuginfo": "openh264",
     "openh264-debugsource": "openh264",

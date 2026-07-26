@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "s",
-    "total_mappings": 219
+    "total_mappings": 222
   },
   "mappings": {
     "s2n": "s2n",
@@ -13,6 +13,7 @@
     "s6": "s6",
     "s6-rc": "s6-rc",
     "safeint": "safeint",
+    "salmon": "salmon",
     "samba": "samba",
     "sambamba": "sambamba",
     "samtools": "samtools",
@@ -71,6 +72,7 @@
     "sgt-puzzles": "puzzles",
     "sh-z": "z",
     "shaderc": "shaderc",
+    "shadowenv": "shadowenv",
     "shapelib": "shapelib",
     "shared-mime-info": "shared-mime-info",
     "shellcheck": "shellcheck",
@@ -204,6 +206,7 @@
     "superlu": "superlu",
     "supertux": "supertux",
     "surelog": "surelog",
+    "surfer": "surfer",
     "surfraw": "surfraw",
     "svt-av1": "svt-av1",
     "svt-vp9": "svt-vp9",

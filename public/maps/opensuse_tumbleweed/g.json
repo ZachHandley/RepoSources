@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_tumbleweed",
     "shard": "g",
-    "total_mappings": 1395
+    "total_mappings": 1407
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -224,6 +224,13 @@
     "gdal-debuginfo": "gdal",
     "gdal-debugsource": "gdal",
     "gdal-devel": "gdal",
+    "gdal-fits": "gdal",
+    "gdal-hdf5": "gdal",
+    "gdal-kea": "gdal",
+    "gdal-mysql": "gdal",
+    "gdal-netcdf": "gdal",
+    "gdal-pdf": "gdal",
+    "gdal-postgresql": "gdal",
     "gdal-python-tools": "gdal",
     "gdb": "gdb",
     "gdb-debuginfo": "aarch64-elf-gdb",
@@ -544,6 +551,7 @@
     "ghostscript-debugsource": "ghostscript",
     "ghostscript-devel": "ghostscript",
     "ghostscript-x11": "ghostscript",
+    "gi-docgen": "gi-docgen",
     "giflib": "giflib",
     "giflib-debuginfo": "giflib",
     "giflib-debugsource": "giflib",
@@ -1200,6 +1208,10 @@
     "gssdp-debuginfo": "gssdp",
     "gssdp-debugsource": "gssdp",
     "gssdp-doc": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
+    "gssntlmssp-debuginfo": "gss-ntlmssp",
+    "gssntlmssp-debugsource": "gss-ntlmssp",
+    "gssntlmssp-devel": "gss-ntlmssp",
     "gstreamer": "gstreamer",
     "gstreamer-debuginfo": "gstreamer",
     "gstreamer-debugsource": "gstreamer",

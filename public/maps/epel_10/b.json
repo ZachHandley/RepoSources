@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "b",
-    "total_mappings": 208
+    "total_mappings": 211
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -79,6 +79,9 @@
     "bdftopcf-debugsource": "bdftopcf",
     "beakerlib": "beakerlib",
     "beakerlib-vim-syntax": "beakerlib",
+    "bear": "bear",
+    "bear-debuginfo": "bear",
+    "bear-debugsource": "bear",
     "bench": "bench",
     "bench-debuginfo": "bench",
     "bench-debugsource": "bench",

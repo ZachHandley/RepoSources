@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crates_io",
     "shard": "t",
-    "total_mappings": 11
+    "total_mappings": 13
   },
   "mappings": {
     "tealdeer": "tealdeer",
@@ -15,7 +15,9 @@
     "tlrc": "tlrc",
     "tokei": "tokei",
     "topgrade": "topgrade",
-    "topgrade-rs": "topgrade",
+    "tree-sitter": "tree-sitter",
+    "tree-sitter-go": "tree-sitter-go",
+    "tree-sitter-python": "tree-sitter-python",
     "trippy": "trippy",
     "typst": "typst"
   }

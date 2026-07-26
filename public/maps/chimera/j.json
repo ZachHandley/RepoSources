@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "j",
-    "total_mappings": 83
+    "total_mappings": 89
   },
   "mappings": {
     "janet": "janet",
@@ -48,6 +48,12 @@
     "jinja2-cli": "jinja2-cli",
     "jinja2-cli-doc": "jinja2-cli",
     "jinja2-cli-pycache": "jinja2-cli",
+    "jj": "jj",
+    "jj-bashcomp": "jj",
+    "jj-fishcomp": "jj",
+    "jj-man": "jj",
+    "jj-nucomp": "jj",
+    "jj-zshcomp": "jj",
     "joe": "joe",
     "joe-doc": "joe",
     "joe-man": "joe",

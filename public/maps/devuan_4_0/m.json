@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "devuan_4_0",
     "shard": "m",
-    "total_mappings": 437
+    "total_mappings": 439
   },
   "mappings": {
     "m4": "m4",
@@ -296,6 +296,8 @@
     "moon-buggy": "moon-buggy",
     "moreutils": "moreutils",
     "morse": "morse",
+    "mosdepth": "mosdepth",
+    "mosdepth-examples": "mosdepth",
     "mosh": "mosh",
     "mosquitto": "mosquitto",
     "mosquitto-clients": "mosquitto",
@@ -315,7 +317,7 @@
     "mouse-modules-5.10.0-32-parisc64-di": "linux-headers@6.8",
     "mouse-modules-5.10.0-32-powerpc64-di": "linux-headers@6.8",
     "mouse-modules-5.10.0-32-powerpc64le-di": "linux-headers@6.8",
-    "mozjs78": "spidermonkey@115",
+    "mozjs78": "spidermonkey",
     "mp3blaster": "mp3blaster",
     "mp3check": "mp3check",
     "mp3fs": "mp3fs",

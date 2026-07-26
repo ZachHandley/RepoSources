@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "slitaz_cooking",
     "shard": "s",
@@ -64,8 +64,8 @@
     "spandsp-dev": "spandsp",
     "speex": "speex",
     "speex-dev": "speex",
-    "spidermonkey": "spidermonkey@115",
-    "spidermonkey-dev": "spidermonkey@115",
+    "spidermonkey": "spidermonkey",
+    "spidermonkey-dev": "spidermonkey",
     "sqlite": "sqlite",
     "sqlite-dev": "sqlite",
     "squashfs": "squashfs",

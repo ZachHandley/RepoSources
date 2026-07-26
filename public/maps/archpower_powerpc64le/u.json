@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "u",
-    "total_mappings": 31
+    "total_mappings": 32
   },
   "mappings": {
     "uchardet": "uchardet",
+    "umoci": "umoci",
     "umockdev": "umockdev",
     "unbound": "unbound",
     "unifdef": "unifdef",

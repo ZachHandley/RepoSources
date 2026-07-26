@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "g",
-    "total_mappings": 596
+    "total_mappings": 598
   },
   "mappings": {
     "g++-6": "gcc@15",
@@ -77,6 +77,7 @@
     "gcl-doc": "gcl",
     "gcovr": "gcovr",
     "gcr": "gcr",
+    "gcx": "gcx",
     "gdal": "gdal",
     "gdal-bin": "gdal",
     "gdal-data": "gdal",
@@ -285,7 +286,6 @@
     "git-svn": "git-svn",
     "gitg": "gitg",
     "gitk": "git",
-    "gitless": "gitless",
     "gitweb": "git",
     "giza": "giza",
     "giza-dev": "giza",
@@ -549,6 +549,8 @@
     "gsoap": "gsoap",
     "gsoap-doc": "gsoap",
     "gspell": "gspell",
+    "gss-ntlmssp": "gss-ntlmssp",
+    "gss-ntlmssp-dev": "gss-ntlmssp",
     "gssdp": "gssdp",
     "gssdp-tools": "gssdp",
     "gstreamer1.0": "gstreamer",

@@ -1,22 +1,38 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "w",
-    "total_mappings": 11
+    "total_mappings": 27
   },
   "mappings": {
+    "w3m": "w3m",
+    "w3m-img": "w3m",
+    "wabt": "wabt",
     "wasi-libc": "wasi-libc",
     "wasm-tools": "wasm-tools",
+    "watchman": "watchman",
     "wavpack": "wavpack",
     "wayland": "wayland",
-    "weasyprint": "weasyprint",
     "webfs": "webfs",
+    "webhttrack": "httrack",
+    "webhttrack-common": "httrack",
     "webpack": "webpack",
+    "wget": "wget",
+    "wget-udeb": "wget",
     "winbind": "samba",
+    "winpr-utils": "freerdp",
+    "winpr3-utils": "freerdp",
     "witness": "witness",
+    "wrk": "wrk",
+    "wx-common": "wxwidgets@3.2",
+    "wx3.2-doc": "wxwidgets@3.2",
+    "wx3.2-examples": "wxwidgets@3.2",
+    "wx3.2-headers": "wxwidgets@3.2",
+    "wx3.2-i18n": "wxwidgets@3.2",
     "wxmaxima": "wxmaxima",
-    "wxmaxima-doc": "wxmaxima"
+    "wxmaxima-doc": "wxmaxima",
+    "wxwidgets3.2": "wxwidgets@3.2"
   }
 }

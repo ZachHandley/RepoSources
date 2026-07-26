@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_2019_1",
     "shard": "d",
-    "total_mappings": 228
+    "total_mappings": 227
   },
   "mappings": {
     "DirectX-Headers": "directx-headers",
@@ -50,7 +50,6 @@
     "dbus-tools": "dbus",
     "dbus-x11": "dbus",
     "dbusd": "device-mapper",
-    "dcadec": "dcadec",
     "dcfldd": "dcfldd",
     "dcmtk": "dcmtk",
     "dcmtk-debuginfo": "dcmtk",

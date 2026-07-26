@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_24_04",
     "shard": "r",
-    "total_mappings": 330
+    "total_mappings": 332
   },
   "mappings": {
     "r-base": "r",
@@ -304,7 +304,9 @@
     "rust-sniffglue": "sniffglue",
     "rust-src": "rust",
     "rust-tealdeer": "tealdeer",
+    "rust-tree-sitter": "tree-sitter@0.25",
     "rust-uucore": "uutils-coreutils",
+    "rust-virtiofsd": "virtiofsd",
     "rust-zoxide": "zoxide",
     "rustc": "rust",
     "rustc-1.74": "rust",

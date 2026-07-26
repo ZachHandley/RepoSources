@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_graphics_tumbleweed",
     "shard": "l",
@@ -138,7 +138,7 @@
     "libjxl-debugsource": "jpeg-xl",
     "libjxl-devel": "jpeg-xl",
     "libjxl-tools": "jpeg-xl",
-    "libjxl0_11": "jpeg-xl",
+    "libjxl0_12": "jpeg-xl",
     "liblensfun1": "lensfun",
     "liblqr": "liblqr",
     "liblqr-1-0": "liblqr",

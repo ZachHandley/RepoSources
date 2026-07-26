@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "t",
-    "total_mappings": 390
+    "total_mappings": 394
   },
   "mappings": {
     "TiMidity++": "timidity",
@@ -321,6 +321,7 @@
     "tkinter3.10": "python@3.9",
     "tkinter3.10-apps": "python@3.9",
     "tkinter3.12": "python@3.9",
+    "tkinter3.13": "python@3.9",
     "tllist": "tllist",
     "tmpwatch": "tmpwatch",
     "tmpwatch-debuginfo": "tmpwatch",
@@ -386,6 +387,9 @@
     "ttyd": "ttyd",
     "ttyd-debuginfo": "ttyd",
     "ttyd-debugsource": "ttyd",
+    "ttyrec": "ovh-ttyrec",
+    "ttyrec-debuginfo": "ovh-ttyrec",
+    "ttyrec-debugsource": "ovh-ttyrec",
     "tun2proxy": "tun2proxy",
     "tun2proxy-debuginfo": "tun2proxy",
     "tun2proxy-debugsource": "tun2proxy",

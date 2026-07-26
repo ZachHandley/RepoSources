@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openeuler_22_03_lts_sp3",
     "shard": "g",
-    "total_mappings": 394
+    "total_mappings": 399
   },
   "mappings": {
     "GraphicsMagick": "graphicsmagick",
@@ -316,6 +316,11 @@
     "gssdp-debugsource": "gssdp",
     "gssdp-devel": "gssdp",
     "gssdp-help": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
+    "gssntlmssp-debuginfo": "gss-ntlmssp",
+    "gssntlmssp-debugsource": "gss-ntlmssp",
+    "gssntlmssp-devel": "gss-ntlmssp",
+    "gssntlmssp-help": "gss-ntlmssp",
     "gstreamer1": "gstreamer",
     "gstreamer1-debuginfo": "gstreamer",
     "gstreamer1-debugsource": "gstreamer",

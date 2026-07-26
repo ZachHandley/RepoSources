@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_science_tumbleweed",
     "shard": "g",
-    "total_mappings": 80
+    "total_mappings": 87
   },
   "mappings": {
     "gdal": "gdal",
@@ -12,6 +12,13 @@
     "gdal-debuginfo": "gdal",
     "gdal-debugsource": "gdal",
     "gdal-devel": "gdal",
+    "gdal-fits": "gdal",
+    "gdal-hdf5": "gdal",
+    "gdal-kea": "gdal",
+    "gdal-mysql": "gdal",
+    "gdal-netcdf": "gdal",
+    "gdal-pdf": "gdal",
+    "gdal-postgresql": "gdal",
     "gdal-python-tools": "gdal",
     "gecode": "gecode",
     "gecode-debuginfo": "gecode",

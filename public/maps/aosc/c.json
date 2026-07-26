@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "c",
-    "total_mappings": 126
+    "total_mappings": 128
   },
   "mappings": {
     "c-ares": "c-ares",
     "c-blosc": "c-blosc",
+    "c-blosc2": "c-blosc2",
     "ca-certs": "ca-certificates",
     "cabal-install": "cabal-install",
     "cabextract": "cabextract",
@@ -50,9 +51,11 @@
     "cgdb": "cgdb",
     "cgif": "cgif",
     "cgl": "cgl",
+    "cglm": "cglm",
     "cgns": "cgns",
     "chafa": "chafa",
     "check": "check",
+    "checksec": "checksec",
     "cherrytree": "cherrytree",
     "chezmoi": "chezmoi",
     "chisel": "chisel-tunnel",
@@ -75,7 +78,6 @@
     "cmake": "cmake",
     "cmark": "cmark",
     "cmatrix": "cmatrix",
-    "cmix": "cmix",
     "cmocka": "cmocka",
     "cmus": "cmus",
     "cni-plugins": "cni-plugins",

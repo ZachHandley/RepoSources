@@ -1,16 +1,47 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "h",
-    "total_mappings": 5
+    "total_mappings": 36
   },
   "mappings": {
+    "haproxy": "haproxy",
+    "haproxy-doc": "haproxy@2.8",
+    "hcxtools": "hcxtools",
+    "hdf5": "hdf5",
+    "hdf5-helpers": "hdf5",
+    "hdf5-tools": "hdf5",
+    "heif-gdk-pixbuf": "libheif",
+    "heif-thumbnailer": "libheif",
+    "heif-view": "libheif",
+    "heimdal": "heimdal",
+    "heimdal-clients": "heimdal",
+    "heimdal-dev": "heimdal",
+    "heimdal-docs": "heimdal",
+    "heimdal-kcm": "heimdal",
+    "heimdal-kdc": "heimdal",
+    "heimdal-multidev": "heimdal",
+    "heimdal-servers": "heimdal",
     "help2man": "help2man",
-    "hwatch": "hwatch",
+    "hevea": "hevea",
+    "hexcurse": "hexcurse",
+    "hiredis": "hiredis",
+    "hivex": "hivex",
+    "htpdate": "htpdate",
+    "htslib": "htslib",
+    "htslib-test": "htslib",
+    "httperf": "httperf",
+    "httping": "httping",
+    "httpx": "httpx",
+    "httrack": "httrack",
+    "httrack-doc": "httrack",
     "hwloc": "hwloc",
     "hwloc-contrib": "hwloc",
-    "hwloc-nox": "hwloc"
+    "hwloc-nox": "hwloc",
+    "hydra": "hydra",
+    "hydra-gtk": "hydra",
+    "hypre": "hypre"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "w",
-    "total_mappings": 57
+    "total_mappings": 60
   },
   "mappings": {
     "WordNet": "wordnet",
@@ -63,6 +63,9 @@
     "wxWidgets3.0-doc": "wxwidgets@3.2",
     "wxWidgets3.1": "wxwidgets@3.2",
     "wxWidgets3.1-debuginfo": "wxwidgets@3.2",
-    "wxWidgets3.1-doc": "wxwidgets@3.2"
+    "wxWidgets3.1-doc": "wxwidgets@3.2",
+    "wxWidgets3.2": "wxwidgets@3.2",
+    "wxWidgets3.2-debuginfo": "wxwidgets@3.2",
+    "wxWidgets3.2-doc": "wxwidgets@3.2"
   }
 }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "e",
-    "total_mappings": 57
+    "total_mappings": 59
   },
   "mappings": {
     "e2fsprogs": "e2fsprogs",
@@ -13,6 +13,7 @@
     "ed": "ed",
     "editorconfig-core-c": "editorconfig",
     "eigen": "eigen@3",
+    "eigen3": "eigen@3",
     "elfutils": "elfutils",
     "elixir": "elixir",
     "emacs": "emacs",
@@ -57,6 +58,7 @@
     "erlang-wx": "erlang@28",
     "erlang-xmerl": "erlang@28",
     "erofs-utils": "erofs-utils",
+    "esbuild": "esbuild",
     "espeak-ng": "espeak-ng",
     "espeak-ng-espeak": "espeak",
     "exempi": "exempi",

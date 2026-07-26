@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "z",
-    "total_mappings": 158
+    "total_mappings": 159
   },
   "mappings": {
     "z-git": "z",
@@ -36,7 +36,6 @@
     "zeroclaw-git": "zeroclaw",
     "zeroinstall-injector": "zero-install",
     "zeromq-git": "zeromq",
-    "zeromq3": "zeromq",
     "zet": "zet",
     "zet-bin": "zet",
     "zf": "zf",
@@ -137,6 +136,8 @@
     "zsh-git-prompt": "zsh-git-prompt",
     "zsh-git-prompt-git": "zsh-git-prompt",
     "zsh-history-substring-search-git": "zsh-history-substring-search",
+    "zsh-patina-bin": "zsh-patina",
+    "zsh-patina-git": "zsh-patina",
     "zsh-syntax-highlighting-git": "zsh-syntax-highlighting",
     "zsh-system-clipboard-git": "zsh-system-clipboard",
     "zsh-theme-powerlevel10k": "powerlevel10k",

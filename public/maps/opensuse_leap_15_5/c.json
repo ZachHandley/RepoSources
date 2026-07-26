@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_leap_15_5",
     "shard": "c",
-    "total_mappings": 245
+    "total_mappings": 246
   },
   "mappings": {
     "CastXML": "castxml",
@@ -64,6 +64,7 @@
     "cheat": "cheat",
     "check": "check",
     "check_postgres": "check_postgres",
+    "checksec": "checksec",
     "cherrytree": "cherrytree",
     "chezmoi": "chezmoi",
     "chmlib": "chmlib",

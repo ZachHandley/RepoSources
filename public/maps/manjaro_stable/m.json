@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "m",
@@ -43,6 +43,7 @@
     "marked": "marked",
     "marksman": "marksman",
     "markuplinkchecker": "mlc",
+    "marmite": "marmite",
     "masscan": "masscan",
     "mat2": "mat2",
     "matterbridge": "matterbridge",
@@ -53,7 +54,6 @@
     "maxima-fas": "maxima",
     "maxima-sbcl": "maxima",
     "mbedtls": "mbedtls@3",
-    "mbedtls2": "mbedtls@3",
     "mbedtls3": "mbedtls@3",
     "mbelib": "mbelib",
     "mc": "midnight-commander",

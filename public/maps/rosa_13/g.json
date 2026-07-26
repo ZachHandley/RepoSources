@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "g",
-    "total_mappings": 581
+    "total_mappings": 584
   },
   "mappings": {
     "game-music-emu": "game-music-emu",
@@ -154,7 +154,9 @@
     "gig": "libgig",
     "gig-debuginfo": "libgig",
     "gig-debugsource": "libgig",
-    "gimp-plugin-gmic": "gmic",
+    "gimp-plugin-gmic-common": "gmic",
+    "gimp2-plugin-gmic": "gmic",
+    "gimp3-plugin-gmic": "gmic",
     "ginac": "ginac",
     "ginac-debuginfo": "ginac",
     "ginac-debugsource": "ginac",
@@ -261,7 +263,6 @@
     "gmic-debuginfo": "gmic",
     "gmic-debugsource": "gmic",
     "gmic-qt": "gmic",
-    "gmic-zart": "gmic",
     "gmime": "gmime",
     "gmime-debuginfo": "gmime",
     "gmime-debugsource": "gmime",
@@ -465,6 +466,8 @@
     "gssdp": "gssdp",
     "gssdp-debuginfo": "gssdp",
     "gssdp-debugsource": "gssdp",
+    "gssntlmssp": "gss-ntlmssp",
+    "gssntlmssp-devel": "gss-ntlmssp",
     "gstreamer0.10": "gstreamer",
     "gstreamer0.10-tools": "gstreamer",
     "gstreamer1.0": "gstreamer",

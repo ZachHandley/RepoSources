@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_44",
     "shard": "b",
-    "total_mappings": 362
+    "total_mappings": 365
   },
   "mappings": {
     "BibTool": "bib-tool",
@@ -85,6 +85,9 @@
     "batik-ttf2svg": "batik",
     "batik-util": "batik",
     "bats": "bats-core",
+    "bazelisk": "bazelisk",
+    "bazelisk-debuginfo": "bazelisk",
+    "bazelisk-debugsource": "bazelisk",
     "bc": "bc",
     "bcal": "bcal",
     "bcftools": "bcftools",
@@ -240,7 +243,7 @@
     "boost": "boost",
     "boost-atomic": "boost@1.85",
     "boost-b2": "boost@1.85",
-    "boost-build": "boost@1.85",
+    "boost-build": "boost-build",
     "boost-charconv": "boost@1.85",
     "boost-chrono": "boost@1.85",
     "boost-cobalt": "boost@1.85",

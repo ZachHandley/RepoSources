@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pisi_main",
     "shard": "d",
-    "total_mappings": 191
+    "total_mappings": 192
   },
   "mappings": {
     "DirectX-headers": "directx-headers",
@@ -108,6 +108,7 @@
     "desktop/toolkit/gtk/pangomm": "pangomm@2.46",
     "desktop/toolkit/gtk/pangomm-2.48": "pangomm@2.46",
     "desktop/toolkit/gtk/spice-gtk": "spice-gtk",
+    "desktop/toolkit/motif/motif": "openmotif",
     "desktop/toolkit/motif/openmotif": "openmotif",
     "desktop/toolkit/newt": "newt",
     "desktop/toolkit/qscintilla2": "qscintilla2",

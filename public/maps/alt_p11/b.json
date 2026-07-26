@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "b",
-    "total_mappings": 353
+    "total_mappings": 354
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -254,7 +254,7 @@
     "boost": "boost",
     "boost-asio-devel": "boost@1.85",
     "boost-beast-devel": "boost@1.85",
-    "boost-build": "boost@1.85",
+    "boost-build": "boost-build",
     "boost-build-debuginfo": "boost@1.85",
     "boost-cobalt-devel": "boost@1.85",
     "boost-context-devel": "boost@1.85",
@@ -314,6 +314,7 @@
     "bsdcpio": "libarchive",
     "bsdcpio-debuginfo": "libarchive",
     "bsdiff": "bsdiff",
+    "bsdiff-debuginfo": "bsdiff",
     "bsdtar": "libarchive",
     "bsdtar-debuginfo": "libarchive",
     "bsdunzip": "libarchive",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_25_10",
     "shard": "g",
-    "total_mappings": 1619
+    "total_mappings": 1620
   },
   "mappings": {
     "g++-11": "gcc@15",
@@ -898,7 +898,6 @@
     "gitg": "gitg",
     "gitk": "git",
     "gitleaks": "gitleaks",
-    "gitless": "gitless",
     "gitlint": "gitlint",
     "gitsign": "gitsign",
     "gittuf": "gittuf",
@@ -1572,6 +1571,8 @@
     "gsoap-doc": "gsoap",
     "gspell": "gspell",
     "gspell-1-tests": "gspell",
+    "gss-ntlmssp": "gss-ntlmssp",
+    "gss-ntlmssp-dev": "gss-ntlmssp",
     "gssdp": "gssdp",
     "gssdp-tools": "gssdp",
     "gstreamer1.0": "gstreamer",

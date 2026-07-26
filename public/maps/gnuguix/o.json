@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "o",
-    "total_mappings": 95
+    "total_mappings": 96
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -38,6 +38,7 @@
     "onednn": "onednn",
     "onefetch": "onefetch",
     "onetbb": "tbb",
+    "onigmo": "onigmo",
     "oniguruma": "oniguruma",
     "onnx": "onnx",
     "onnxruntime": "onnxruntime",
@@ -55,7 +56,7 @@
     "openconnect": "openconnect",
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "opendht": "opendht",
     "openexr": "openexr",
     "openfortivpn": "openfortivpn",

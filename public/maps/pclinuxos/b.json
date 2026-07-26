@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pclinuxos",
     "shard": "b",
@@ -34,7 +34,7 @@
     "bogofilter": "bogofilter",
     "bonnie++": "bonnie++",
     "boost": "boost",
-    "boost-jam": "boost@1.85",
+    "boost-jam": "boost-build",
     "borgbackup": "borgbackup",
     "botan": "botan@2",
     "botan2": "botan@2",

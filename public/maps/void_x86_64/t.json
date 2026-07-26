@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "void_x86_64",
     "shard": "t",
-    "total_mappings": 328
+    "total_mappings": 327
   },
   "mappings": {
     "t1lib": "t1lib",
@@ -21,7 +21,6 @@
     "tar": "gnu-tar",
     "tarlz": "tarlz",
     "task": "task",
-    "taskd": "taskd",
     "tasksh": "tasksh",
     "taskwarrior-tui": "taskwarrior-tui",
     "tbb": "tbb",

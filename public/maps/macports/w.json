@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "w",
-    "total_mappings": 167
+    "total_mappings": 166
   },
   "mappings": {
     "w3m": "w3m",
@@ -78,7 +78,6 @@
     "wormhole-william": "wormhole-william",
     "wp-cli": "wp-cli",
     "wput": "wput",
-    "wrangler": "wrangler",
     "wren": "wren",
     "wren-cli": "wren-cli",
     "wrk": "wrk",

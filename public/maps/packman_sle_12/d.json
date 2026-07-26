@@ -1,13 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "packman_sle_12",
     "shard": "d",
-    "total_mappings": 5
+    "total_mappings": 4
   },
   "mappings": {
-    "dcadec": "dcadec",
     "default-jdk": "openjdk",
     "default-jre": "openjdk",
     "dvdauthor": "dvdauthor",

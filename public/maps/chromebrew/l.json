@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chromebrew",
     "shard": "l",
-    "total_mappings": 330
+    "total_mappings": 331
   },
   "mappings": {
     "ladspa": "ladspa-sdk",
@@ -27,6 +27,7 @@
     "libaacs": "libaacs",
     "libabigail": "libabigail",
     "libadwaita": "libadwaita",
+    "libaec": "libaec",
     "libaio": "libaio",
     "libao": "libao",
     "libaom": "aom",

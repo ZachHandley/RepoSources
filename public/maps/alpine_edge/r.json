@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "r",
-    "total_mappings": 382
+    "total_mappings": 383
   },
   "mappings": {
     "R": "r",
@@ -364,7 +364,7 @@
     "rust-script": "rust-script",
     "rust-src": "rust",
     "rust-uefi": "rust",
-    "rust-wasm": "rust",
+    "rust-wasm": "rust-wasm",
     "rustc-dev": "rust",
     "rustfmt": "rust",
     "rustfmt-doc": "rust",
@@ -383,6 +383,7 @@
     "rustypaste-cli": "rustypaste-cli",
     "rustypaste-cli-doc": "rustypaste-cli",
     "rustypaste-doc": "rustypaste",
+    "rustypaste-openrc": "rustypaste",
     "rxvt-unicode": "rxvt-unicode",
     "rxvt-unicode-doc": "rxvt-unicode",
     "rxvt-unicode-terminfo": "rxvt-unicode",

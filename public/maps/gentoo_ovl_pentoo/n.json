@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gentoo_ovl_pentoo",
     "shard": "n",
-    "total_mappings": 32
+    "total_mappings": 33
   },
   "mappings": {
     "net-analyzer/amass": "amass",
@@ -13,6 +13,7 @@
     "net-analyzer/fierce": "fierce",
     "net-analyzer/gobuster": "gobuster",
     "net-analyzer/katana": "katana",
+    "net-analyzer/legba": "legba",
     "net-analyzer/legba-bin": "legba",
     "net-analyzer/masscan": "masscan",
     "net-analyzer/massdns": "massdns",

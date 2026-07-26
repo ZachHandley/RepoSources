@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "p",
-    "total_mappings": 1063
+    "total_mappings": 1069
   },
   "mappings": {
     "PDAL": "pdal",
@@ -713,6 +713,7 @@
     "proxytunnel": "proxytunnel",
     "proxytunnel-debuginfo": "proxytunnel",
     "proxytunnel-debugsource": "proxytunnel",
+    "prrte": "prrte",
     "ps2eps": "ps2eps",
     "ps2eps-debuginfo": "ps2eps",
     "ps2eps-debugsource": "ps2eps",
@@ -991,7 +992,7 @@
     "python3-onnx": "onnx",
     "python3-onnxruntime": "onnxruntime",
     "python3-openbabel": "open-babel",
-    "python3-opencv": "opencv",
+    "python3-opencv": "opencv@4",
     "python3-openvdb": "openvdb",
     "python3-packaging": "python-packaging",
     "python3-partio": "partio",
@@ -1069,6 +1070,11 @@
     "python3.12-debugsource": "python@3.9",
     "python3.12-docs": "python@3.9",
     "python3.12-idle": "python@3.9",
-    "python3.12-path-symlink": "python@3.9"
+    "python3.12-path-symlink": "python@3.9",
+    "python3.13": "python@3.9",
+    "python3.13-debuginfo": "python@3.9",
+    "python3.13-debugsource": "python@3.9",
+    "python3.13-docs": "python@3.9",
+    "python3.13-idle": "python@3.9"
   }
 }

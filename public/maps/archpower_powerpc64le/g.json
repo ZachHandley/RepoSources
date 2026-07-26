@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "g",
-    "total_mappings": 167
+    "total_mappings": 170
   },
   "mappings": {
     "gawk": "gawk",
@@ -38,6 +38,7 @@
     "geocode-glib": "geocode-glib",
     "geocode-glib-2": "geocode-glib",
     "geocode-glib-common": "geocode-glib",
+    "geocode-glib-docs": "geocode-glib",
     "geos": "geos",
     "gettext": "gettext",
     "gflags": "gflags",
@@ -122,11 +123,13 @@
     "gst-editing-services": "gstreamer",
     "gst-libav": "gstreamer",
     "gst-plugin-gtk": "gstreamer",
+    "gst-plugin-hip": "gstreamer",
     "gst-plugin-pipewire": "pipewire",
     "gst-plugin-qml6": "gstreamer",
     "gst-plugin-qmlgl": "gstreamer",
     "gst-plugin-va": "gstreamer",
     "gst-plugin-wpe": "gstreamer",
+    "gst-plugin-wpe2": "gstreamer",
     "gst-plugins-bad": "gstreamer",
     "gst-plugins-bad-libs": "gstreamer",
     "gst-plugins-base": "gstreamer",

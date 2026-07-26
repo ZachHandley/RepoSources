@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "b",
@@ -111,7 +111,7 @@
     "bonnie++": "bonnie++",
     "boost": "boost",
     "boost-bjam": "boost@1.85",
-    "boost-build": "boost@1.85",
+    "boost-build": "boost-build",
     "boost-devel-doc": "boost@1.85",
     "boost-doctools": "boost@1.85",
     "boost-examples": "boost@1.85",

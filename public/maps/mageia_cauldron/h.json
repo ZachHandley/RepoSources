@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "h",
@@ -14,8 +14,8 @@
     "hamlib-utils": "hamlib",
     "handbrake": "handbrake",
     "haproxy": "haproxy",
-    "haproxy-limited": "haproxy@2.8",
-    "haproxy-quic": "haproxy@2.8",
+    "haproxy-awslc": "haproxy@2.8",
+    "haproxy-openssl": "haproxy@2.8",
     "haproxy-utils": "haproxy@2.8",
     "harbour": "harbour",
     "harfbuzz": "harfbuzz",

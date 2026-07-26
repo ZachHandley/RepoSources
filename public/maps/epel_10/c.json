@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "c",
-    "total_mappings": 320
+    "total_mappings": 321
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -105,6 +105,7 @@
     "chafa-doc": "chafa",
     "chafa-libs": "chafa",
     "chafa-static": "chafa",
+    "checksec": "checksec",
     "chez-scheme": "chezscheme",
     "chez-scheme-devel": "chezscheme",
     "chez-scheme-examples": "chezscheme",

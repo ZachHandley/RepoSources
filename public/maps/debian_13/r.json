@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "debian_13",
     "shard": "r",
-    "total_mappings": 265
+    "total_mappings": 269
   },
   "mappings": {
     "r-base": "r",
@@ -102,8 +102,6 @@
     "rfkill": "gnu-getopt",
     "rfkill-modules-6.12.38+deb13-amd64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.38+deb13-loong64-di": "linux-headers@6.8",
-    "rfkill-modules-6.12.73+deb13-amd64-di": "linux-headers@6.8",
-    "rfkill-modules-6.12.73+deb13-loong64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.74+deb13+1-amd64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.74+deb13+1-loong64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.8-amd64-di": "linux-headers@6.8",
@@ -120,6 +118,10 @@
     "rfkill-modules-6.12.90+deb13.1-loong64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.94+deb13-amd64-di": "linux-headers@6.8",
     "rfkill-modules-6.12.94+deb13-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.95+deb13-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.95+deb13-loong64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.96+deb13-amd64-di": "linux-headers@6.8",
+    "rfkill-modules-6.12.96+deb13-loong64-di": "linux-headers@6.8",
     "rgxg": "rgxg",
     "rhash": "rhash",
     "rhino": "rhino",
@@ -224,6 +226,7 @@
     "rust-bat": "bat",
     "rust-bkt": "bkt",
     "rust-blake3": "b3sum",
+    "rust-broot": "broot",
     "rust-cargo-auditable": "cargo-auditable",
     "rust-cargo-binutils": "cargo-binutils",
     "rust-cargo-c": "cargo-c",
@@ -265,6 +268,7 @@
     "rust-tealdeer": "tealdeer",
     "rust-tokei": "tokei",
     "rust-uucore": "uutils-coreutils",
+    "rust-virtiofsd": "virtiofsd",
     "rust-xh": "xh",
     "rust-zoxide": "zoxide",
     "rustc": "rust",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "packman_opensuse_tumbleweed",
     "shard": "p",
-    "total_mappings": 10
+    "total_mappings": 9
   },
   "mappings": {
     "pipewire-aptx": "pipewire",
@@ -14,7 +14,6 @@
     "python-Cython-debuginfo": "cython",
     "python-Cython-debugsource": "cython",
     "python-ecasound": "ecasound",
-    "python311-Cython": "cython",
     "python313-Cython": "cython",
     "python314-Cython": "cython"
   }

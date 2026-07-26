@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "k",
-    "total_mappings": 234
+    "total_mappings": 241
   },
   "mappings": {
     "k9s": "k9s",
@@ -95,6 +95,13 @@
     "kopia": "kopia",
     "kopia-debuginfo": "kopia",
     "kotlin": "kotlin",
+    "kotlin-compiler": "kotlin",
+    "kotlin-gradle-plugin": "kotlin",
+    "kotlin-maven": "kotlin",
+    "kotlin-plugins": "kotlin",
+    "kotlin-reflect": "kotlin",
+    "kotlin-stdlib": "kotlin",
+    "kotlin-test": "kotlin",
     "kpcli": "kpcli",
     "krb5": "krb5",
     "krb5-doc": "krb5",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "macports",
     "shard": "j",
-    "total_mappings": 118
+    "total_mappings": 117
   },
   "mappings": {
     "jack": "jack",
@@ -77,7 +77,6 @@
     "jenkins": "jenkins",
     "jenkins-cli": "jenkins-cli",
     "jenv": "jenv",
-    "jerm": "jerm",
     "jetty": "jetty",
     "jflex": "jflex",
     "jhead": "jhead",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "c",
@@ -51,6 +51,7 @@
     "cargo-nextest": "cargo-nextest",
     "cargo-outdated": "cargo-outdated",
     "cargo-release": "cargo-release",
+    "cargo-sweep": "cargo-sweep",
     "cargo-zigbuild": "cargo-zigbuild",
     "cataclysm-dda": "cataclysm",
     "cataclysm-dda-sdl": "cataclysm",
@@ -170,7 +171,6 @@
     "cmatrix": "cmatrix",
     "cmigemo": "cmigemo",
     "cmocka": "cmocka",
-    "cmockery2": "cmockery2",
     "cmus": "cmus",
     "cmusfm": "cmusfm",
     "cntlm": "cntlm",

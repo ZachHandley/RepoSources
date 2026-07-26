@@ -1,16 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "c",
-    "total_mappings": 5
+    "total_mappings": 3
   },
   "mappings": {
+    "capnproto": "capnp",
     "cava": "cava",
-    "clang": "llvm@21",
-    "coin": "coin3d",
-    "compiler-rt": "llvm@21",
-    "curl": "curl"
+    "cosign": "cosign"
   }
 }

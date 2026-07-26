@@ -1,14 +1,18 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T04:09:54Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "artix_testing",
     "shard": "m",
-    "total_mappings": 3
+    "total_mappings": 7
   },
   "mappings": {
-    "maturin": "maturin",
-    "mesa": "mesa",
-    "mesa-docs": "mesa"
+    "mariadb": "mariadb",
+    "mariadb-clients": "mariadb@11.8",
+    "mariadb-libs": "mariadb@11.8",
+    "mariadb-mytop": "mariadb@11.8",
+    "mariadb-pam": "mariadb@11.8",
+    "mencoder": "mplayer",
+    "mplayer": "mplayer"
   }
 }

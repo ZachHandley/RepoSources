@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "spack",
     "shard": "f",
-    "total_mappings": 57
+    "total_mappings": 59
   },
   "mappings": {
     "f3d": "f3d",
@@ -12,6 +12,7 @@
     "faketime": "libfaketime",
     "fann": "fann",
     "fast-float": "fast_float",
+    "fastani": "fastani",
     "fastjar": "fastjar",
     "fastme": "fastme",
     "fastp": "fastp",
@@ -25,6 +26,7 @@
     "fftw": "fftw",
     "figlet": "figlet",
     "file": "file-formula",
+    "filtlong": "filtlong",
     "findutils": "findutils",
     "fio": "fio",
     "fish": "fish",

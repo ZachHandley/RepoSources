@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "j",
@@ -183,9 +183,9 @@
     "jq": "jq",
     "jq-debuginfo": "jq",
     "jq-debugsource": "jq",
-    "js": "spidermonkey@115",
-    "js-debuginfo": "spidermonkey@115",
-    "js-debugsource": "spidermonkey@115",
+    "js": "spidermonkey",
+    "js-debuginfo": "spidermonkey",
+    "js-debugsource": "spidermonkey",
     "json-c": "json-c",
     "json-fortran": "json-fortran",
     "json-fortran-debuginfo": "json-fortran",

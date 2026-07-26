@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "manjaro_testing",
     "shard": "p",
-    "total_mappings": 330
+    "total_mappings": 334
   },
   "mappings": {
     "p0f": "p0f",
@@ -76,6 +76,7 @@
     "pgcli": "pgcli",
     "pgformatter": "pgformatter",
     "pgpdump": "pgpdump",
+    "pgvector": "pgvector",
     "phodav": "phodav",
     "php": "php",
     "php-apache": "php@8.4",
@@ -183,6 +184,7 @@
     "primesieve": "primesieve",
     "privoxy": "privoxy",
     "prjtrellis": "prjtrellis",
+    "probe-rs": "probe-rs-tools",
     "procps-ng": "procps",
     "procs": "procs",
     "procyon-decompiler": "procyon-decompiler",
@@ -202,6 +204,8 @@
     "protozero-docs": "protozero",
     "proxychains-ng": "proxychains-ng",
     "proxytunnel": "proxytunnel",
+    "prrte": "prrte",
+    "prrte-docs": "prrte",
     "psalm": "psalm",
     "pstoedit": "pstoedit",
     "psutils": "psutils",
@@ -293,8 +297,8 @@
     "python-onnxruntime-opt-rocm": "onnxruntime",
     "python-onnxruntime-rocm": "onnxruntime",
     "python-openbabel": "open-babel",
-    "python-opencv": "opencv",
-    "python-opencv-cuda": "opencv",
+    "python-opencv": "opencv@4",
+    "python-opencv-cuda": "opencv@4",
     "python-packaging": "python-packaging",
     "python-pdm": "pdm",
     "python-pillow": "pillow",

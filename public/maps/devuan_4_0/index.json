@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "devuan_4_0",
     "shards": [
@@ -32,6 +32,6 @@
       "z",
       "_misc"
     ],
-    "total_mappings": 13126
+    "total_mappings": 13142
   }
 }

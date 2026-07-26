@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "crux_37",
     "shard": "o",
@@ -14,7 +14,7 @@
     "openal": "openal-soft",
     "openal-32": "openal-soft",
     "openblas": "openblas",
-    "opencv": "opencv",
+    "opencv": "opencv@4",
     "openexr": "openexr",
     "openh264": "openh264",
     "openjpeg2": "openjpeg",

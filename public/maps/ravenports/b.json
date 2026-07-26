@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ravenports",
     "shard": "b",
@@ -19,7 +19,7 @@
     "blogc": "blogc",
     "bmake": "bmake",
     "boehm_garbage_collector": "bdw-gc",
-    "boost-jam": "boost@1.85",
+    "boost-jam": "boost-build",
     "boost-libraries": "boost@1.85",
     "botan": "botan@2",
     "brotli": "brotli",

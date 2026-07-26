@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "haikuports_master",
     "shard": "m",
-    "total_mappings": 269
+    "total_mappings": 268
   },
   "mappings": {
     "mail-client/claws-mail": "claws-mail",
@@ -187,7 +187,7 @@
     "media-libs/netpbm": "netpbm",
     "media-libs/openal": "openal-soft",
     "media-libs/opencolorio": "opencolorio",
-    "media-libs/opencv": "opencv",
+    "media-libs/opencv": "opencv@4",
     "media-libs/openexr": "openexr",
     "media-libs/openh264": "openh264",
     "media-libs/openimageio": "openimageio",
@@ -238,7 +238,6 @@
     "media-sound/audacious": "audacious",
     "media-sound/cmus": "cmus",
     "media-sound/csound": "csound",
-    "media-sound/dcadec": "dcadec",
     "media-sound/flac123": "flac123",
     "media-sound/fluidsynth": "fluid-synth",
     "media-sound/lame": "lame",

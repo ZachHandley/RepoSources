@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "liguros_develop",
     "shard": "n",
-    "total_mappings": 454
+    "total_mappings": 455
   },
   "mappings": {
     "net-analyzer/2ping": "twoping",
@@ -270,6 +270,7 @@
     "net-mail/dovecot": "dovecot",
     "net-mail/fetchmail": "fetchmail",
     "net-mail/getmail": "getmail6",
+    "net-mail/goimapnotify": "goimapnotify",
     "net-mail/imapsync": "imapsync",
     "net-mail/isync": "isync",
     "net-mail/lbdb": "lbdb",

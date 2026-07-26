@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "chimera",
     "shard": "f",
-    "total_mappings": 219
+    "total_mappings": 226
   },
   "mappings": {
     "f2": "f2",
@@ -206,6 +206,12 @@
     "fstrm-devel-static": "fstrm",
     "fstrm-doc": "fstrm",
     "fstrm-man": "fstrm",
+    "fswatch": "fswatch",
+    "fswatch-devel": "fswatch",
+    "fswatch-devel-static": "fswatch",
+    "fswatch-doc": "fswatch",
+    "fswatch-locale": "fswatch",
+    "fswatch-man": "fswatch",
     "fuse": "libfuse@2",
     "fuse-devel": "libfuse@2",
     "fuse-devel-static": "libfuse@2",
@@ -223,6 +229,7 @@
     "fzf-bashcomp": "fzf",
     "fzf-doc": "fzf",
     "fzf-man": "fzf",
+    "fzf-nucomp": "fzf",
     "fzf-tmux": "fzf",
     "fzf-tmux-man": "fzf",
     "fzf-zshcomp": "fzf"

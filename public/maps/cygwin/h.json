@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "cygwin",
     "shard": "h",
@@ -11,7 +11,7 @@
     "harfbuzz-debuginfo": "harfbuzz",
     "haxe": "haxe",
     "hdf5": "hdf5",
-    "hdf5-debuginfo": "hdf5@1.10",
+    "hdf5-debuginfo": "hdf5",
     "hello": "hello",
     "hello-debuginfo": "hello",
     "help2man": "help2man",

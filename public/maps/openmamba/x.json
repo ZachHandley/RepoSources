@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "x",
-    "total_mappings": 64
+    "total_mappings": 61
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -46,7 +46,6 @@
     "xmlto-debug": "xmlto",
     "xmltoman": "xmltoman",
     "xmodmap": "xmodmap",
-    "xmodmap-debug": "xmodmap",
     "xorg-ext-libglx": "xorg-server",
     "xorg-server": "xorg-server",
     "xorg-server-devel": "xorg-server",
@@ -59,7 +58,6 @@
     "xprop": "xprop",
     "xprop-debug": "xprop",
     "xrdb": "xrdb",
-    "xrdb-debug": "xrdb",
     "xsane": "xsane",
     "xsd": "xsd",
     "xsimd": "xsimd",
@@ -68,7 +66,6 @@
     "xtrans": "xtrans",
     "xtrans-devel": "xtrans",
     "xwininfo": "xwininfo",
-    "xwininfo-debug": "xwininfo",
     "xxhash": "xxhash",
     "xz": "xz"
   }

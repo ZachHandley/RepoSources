@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "a",
-    "total_mappings": 340
+    "total_mappings": 338
   },
   "mappings": {
     "a2ps": "a2ps",
@@ -306,7 +306,6 @@
     "audio/shntool": "shntool",
     "audio/snapcast": "snapcast",
     "audio/soundtouch": "sound-touch",
-    "audio/sox": "sox",
     "audio/sox_ng": "sox",
     "audio/speex": "speex",
     "audio/speexdsp": "speexdsp",
@@ -333,7 +332,6 @@
     "autoconf213": "autoconf",
     "autoconf269": "autoconf",
     "autogen": "autogen",
-    "autojump": "autojump",
     "automake": "automake",
     "automake14": "automake",
     "autorestic": "autorestic",

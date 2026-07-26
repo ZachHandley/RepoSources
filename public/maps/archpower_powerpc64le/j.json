@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_powerpc64le",
     "shard": "j",
@@ -42,9 +42,9 @@
     "jre8-openjdk": "openjdk@25",
     "jre8-openjdk-headless": "openjdk@25",
     "jruby": "jruby",
-    "js102": "spidermonkey@115",
-    "js128": "spidermonkey@115",
-    "js140": "spidermonkey@115",
+    "js102": "spidermonkey",
+    "js128": "spidermonkey",
+    "js140": "spidermonkey",
     "json-c": "json-c",
     "json-glib": "json-glib",
     "json-glib-docs": "json-glib",

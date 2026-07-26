@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "parrot",
     "shard": "h",
-    "total_mappings": 123
+    "total_mappings": 124
   },
   "mappings": {
     "h2o": "h2o",
@@ -36,8 +36,8 @@
     "haxe": "haxe",
     "hcxtools": "hcxtools",
     "hdf5": "hdf5",
-    "hdf5-helpers": "hdf5@1.10",
-    "hdf5-tools": "hdf5@1.10",
+    "hdf5-helpers": "hdf5",
+    "hdf5-tools": "hdf5",
     "hdhomerun-config": "libhdhomerun",
     "heatshrink": "heatshrink",
     "hebcal": "hebcal",
@@ -61,8 +61,9 @@
     "hexer": "hexer",
     "hexyl": "hexyl",
     "hey": "hey",
-    "hfs-modules-7.0.9+parrot7-powerpc-di": "linux-headers@6.8",
-    "hfs-modules-7.0.9+parrot7-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-7.0.13+parrot7-m68k-di": "linux-headers@6.8",
+    "hfs-modules-7.0.13+parrot7-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-7.0.13+parrot7-powerpc64-di": "linux-headers@6.8",
     "hicolor-icon-theme": "hicolor-icon-theme",
     "hidapi": "hidapi",
     "highlight": "highlight",
@@ -121,8 +122,8 @@
     "hyfetch": "hyfetch",
     "hyperfine": "hyperfine",
     "hyperv-daemons": "linux-headers@6.8",
-    "hypervisor-modules-7.0.9+parrot7-powerpc64-di": "linux-headers@6.8",
-    "hypervisor-modules-7.0.9+parrot7-powerpc64le-di": "linux-headers@6.8",
+    "hypervisor-modules-7.0.13+parrot7-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-7.0.13+parrot7-powerpc64le-di": "linux-headers@6.8",
     "hyphy": "hyphy",
     "hyphy-common": "hyphy",
     "hyphy-mpi": "hyphy",

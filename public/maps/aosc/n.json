@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aosc",
     "shard": "n",
-    "total_mappings": 68
+    "total_mappings": 69
   },
   "mappings": {
     "nali": "nali",
@@ -55,6 +55,7 @@
     "nodejs": "node@24",
     "nodejs-22": "node@24",
     "nodejs-24": "node@24",
+    "nodejs-26": "node@24",
     "nomino": "nomino",
     "notmuch": "notmuch",
     "npth": "npth",

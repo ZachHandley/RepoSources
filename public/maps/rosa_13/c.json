@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "c",
-    "total_mappings": 382
+    "total_mappings": 388
   },
   "mappings": {
     "C": "c",
@@ -80,6 +80,9 @@
     "centerim5-debugsource": "center-im",
     "cereal": "cereal",
     "cereal-devel": "cereal",
+    "ceres-solver": "ceres-solver",
+    "ceres-solver-debuginfo": "ceres-solver",
+    "ceres-solver-debugsource": "ceres-solver",
     "certbot": "certbot",
     "certbot-apache": "certbot",
     "certbot-dns-cloudflare": "certbot",
@@ -121,6 +124,9 @@
     "cheat-debuginfo": "cheat",
     "cheat-debugsource": "cheat",
     "check": "check",
+    "checksec": "checksec",
+    "checksec-debuginfo": "checksec",
+    "checksec-debugsource": "checksec",
     "cherrytree": "cherrytree",
     "cherrytree-debuginfo": "cherrytree",
     "cherrytree-debugsource": "cherrytree",

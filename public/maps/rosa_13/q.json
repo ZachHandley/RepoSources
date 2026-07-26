@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "rosa_13",
     "shard": "q",
-    "total_mappings": 462
+    "total_mappings": 470
   },
   "mappings": {
     "qalc": "libqalculate",
@@ -63,13 +63,19 @@
     "qemu-audio-pipewire": "qemu",
     "qemu-audio-sdl": "qemu",
     "qemu-audio-sndio": "qemu",
+    "qemu-audio-spice": "qemu",
     "qemu-block-blkio": "qemu",
     "qemu-block-curl": "qemu",
     "qemu-block-dmg": "qemu",
     "qemu-block-iscsi": "qemu",
     "qemu-block-nfs": "qemu",
+    "qemu-block-rbd": "qemu",
     "qemu-block-ssh": "qemu",
+    "qemu-char-spice": "qemu",
     "qemu-common": "qemu",
+    "qemu-debuginfo": "qemu",
+    "qemu-debugsource": "qemu",
+    "qemu-device-display-qxl": "qemu",
     "qemu-device-display-virtio-gpu": "qemu",
     "qemu-device-display-virtio-gpu-pci": "qemu",
     "qemu-device-display-virtio-vga": "qemu",
@@ -148,6 +154,8 @@
     "qemu-ui-gtk": "qemu",
     "qemu-ui-opengl": "qemu",
     "qemu-ui-sdl": "qemu",
+    "qemu-ui-spice-app": "qemu",
+    "qemu-ui-spice-core": "qemu",
     "qemu-user": "qemu",
     "qemu-user-binfmt": "qemu",
     "qemu-user-static-tapset": "qemu",

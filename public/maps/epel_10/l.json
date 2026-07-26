@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "l",
-    "total_mappings": 957
+    "total_mappings": 959
   },
   "mappings": {
     "LibRaw": "libraw",
@@ -29,9 +29,6 @@
     "laszip-debuginfo": "laszip",
     "laszip-debugsource": "laszip",
     "laszip-devel": "laszip",
-    "lbzip2": "lbzip2",
-    "lbzip2-debuginfo": "lbzip2",
-    "lbzip2-debugsource": "lbzip2",
     "lcov": "lcov",
     "ldapvi": "ldapvi",
     "ldapvi-debuginfo": "ldapvi",
@@ -146,6 +143,11 @@
     "libayatana-indicator-gtk3": "libayatana-indicator",
     "libayatana-indicator-gtk3-devel": "libayatana-indicator",
     "libayatana-indicator-tools-gtk3": "libayatana-indicator",
+    "libb64": "libb64",
+    "libb64-debuginfo": "libb64",
+    "libb64-debugsource": "libb64",
+    "libb64-devel": "libb64",
+    "libb64-tools": "libb64",
     "libbgpdump": "bgpdump",
     "libbgpdump-debuginfo": "bgpdump",
     "libbgpdump-debugsource": "bgpdump",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "liguros_stable",
     "shard": "s",
-    "total_mappings": 480
+    "total_mappings": 481
   },
   "mappings": {
     "sci-astronomy/cdsclient": "cdsclient",
@@ -106,7 +106,7 @@
     "sci-libs/gmsh": "gmsh",
     "sci-libs/gsl": "gsl",
     "sci-libs/gts": "gts",
-    "sci-libs/hdf5": "hdf5@1.10",
+    "sci-libs/hdf5": "hdf5",
     "sci-libs/htslib": "htslib",
     "sci-libs/hypre": "hypre",
     "sci-libs/inchi": "inchi",
@@ -361,6 +361,7 @@
     "sys-cluster/opencoarrays": "opencoarrays",
     "sys-cluster/openmpi": "open-mpi",
     "sys-cluster/pmix": "pmix",
+    "sys-cluster/prrte": "prrte",
     "sys-cluster/spark-bin": "apache-spark",
     "sys-cluster/virtctl": "virtctl",
     "sys-cluster/zookeeper-bin": "zookeeper",

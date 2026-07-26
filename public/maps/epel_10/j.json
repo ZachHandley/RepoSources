@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "j",
     "total_mappings": 47
   },
   "mappings": {
-    "java-hdf5": "hdf5@1.10",
+    "java-hdf5": "hdf5",
     "javascriptcoregtk4.1": "webkitgtk",
     "javascriptcoregtk4.1-devel": "webkitgtk",
     "javascriptcoregtk6.0": "webkitgtk",

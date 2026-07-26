@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "debian_13_backports",
     "shard": "h",
-    "total_mappings": 93
+    "total_mappings": 102
   },
   "mappings": {
     "hfs-modules-6.16.12+deb13-m68k-di": "linux-headers@6.8",
@@ -54,6 +54,9 @@
     "hfs-modules-7.0.12+deb13-m68k-di": "linux-headers@6.8",
     "hfs-modules-7.0.12+deb13-powerpc-di": "linux-headers@6.8",
     "hfs-modules-7.0.12+deb13-powerpc64-di,hypervisor-modules-7.0.12+deb13-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-7.0.13+deb13-m68k-di": "linux-headers@6.8",
+    "hfs-modules-7.0.13+deb13-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-7.0.13+deb13-powerpc64-di,hypervisor-modules-7.0.13+deb13-powerpc64-di": "linux-headers@6.8",
     "hfs-modules-7.0.4+deb13-m68k-di": "linux-headers@6.8",
     "hfs-modules-7.0.4+deb13-powerpc-di": "linux-headers@6.8",
     "hfs-modules-7.0.4+deb13-powerpc64-di": "linux-headers@6.8",
@@ -63,6 +66,9 @@
     "hfs-modules-7.0.9+deb13-m68k-di": "linux-headers@6.8",
     "hfs-modules-7.0.9+deb13-powerpc-di": "linux-headers@6.8",
     "hfs-modules-7.0.9+deb13-powerpc64-di": "linux-headers@6.8",
+    "hfs-modules-7.1.3+deb13-m68k-di": "linux-headers@6.8",
+    "hfs-modules-7.1.3+deb13-powerpc-di": "linux-headers@6.8",
+    "hfs-modules-7.1.3+deb13-powerpc64-di": "linux-headers@6.8",
     "hwloc": "hwloc",
     "hwloc-contrib": "hwloc",
     "hwloc-nox": "hwloc",
@@ -94,11 +100,14 @@
     "hypervisor-modules-6.19.8+deb13-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-7.0.10+deb13-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-7.0.12+deb13-powerpc64le-di": "linux-headers@6.8",
+    "hypervisor-modules-7.0.13+deb13-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-7.0.4+deb13-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-7.0.4+deb13-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-7.0.7+deb13-powerpc64-di": "linux-headers@6.8",
     "hypervisor-modules-7.0.7+deb13-powerpc64le-di": "linux-headers@6.8",
     "hypervisor-modules-7.0.9+deb13-powerpc64-di": "linux-headers@6.8",
-    "hypervisor-modules-7.0.9+deb13-powerpc64le-di": "linux-headers@6.8"
+    "hypervisor-modules-7.0.9+deb13-powerpc64le-di": "linux-headers@6.8",
+    "hypervisor-modules-7.1.3+deb13-powerpc64-di": "linux-headers@6.8",
+    "hypervisor-modules-7.1.3+deb13-powerpc64le-di": "linux-headers@6.8"
   }
 }

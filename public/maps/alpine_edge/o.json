@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alpine_edge",
     "shard": "o",
-    "total_mappings": 383
+    "total_mappings": 386
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -142,10 +142,10 @@
     "opencsg": "opencsg",
     "opencsg-dev": "opencsg",
     "opencsg-example": "opencsg",
-    "opencv": "opencv",
-    "opencv-dbg": "opencv",
-    "opencv-dev": "opencv",
-    "opencv-doc": "opencv",
+    "opencv": "opencv@4",
+    "opencv-dbg": "opencv@4",
+    "opencv-dev": "opencv@4",
+    "opencv-doc": "opencv@4",
     "opendbx": "opendbx",
     "opendbx-backend-mysql": "opendbx",
     "opendbx-backend-postgres": "opendbx",
@@ -357,8 +357,11 @@
     "opusfile-doc": "opusfile",
     "oq": "oq",
     "orc": "orc",
+    "orc-bugreport": "orc",
     "orc-compiler": "orc",
     "orc-dev": "orc",
+    "orc-test": "orc",
+    "orc-test-dev": "orc",
     "ormolu": "ormolu",
     "ormolu-doc": "ormolu",
     "ortp": "ortp",

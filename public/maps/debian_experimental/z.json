@@ -1,12 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "debian_experimental",
     "shard": "z",
-    "total_mappings": 1
+    "total_mappings": 5
   },
   "mappings": {
-    "zabbix-cli": "zabbix-cli"
+    "zabbix-cli": "zabbix-cli",
+    "zlib": "zlib",
+    "zlib1g": "minizip",
+    "zlib1g-dev": "minizip",
+    "zlib1g-udeb": "minizip"
   }
 }

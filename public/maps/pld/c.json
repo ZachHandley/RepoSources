@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pld",
     "shard": "c",
-    "total_mappings": 164
+    "total_mappings": 165
   },
   "mappings": {
     "CCfits": "ccfits",
@@ -47,6 +47,7 @@
     "cgit": "cgit",
     "chafa": "chafa",
     "check": "check",
+    "checksec": "checksec",
     "cherrytree": "cherrytree",
     "chkrootkit": "chkrootkit",
     "chmlib": "chmlib",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_24_04",
     "shard": "b",
-    "total_mappings": 262
+    "total_mappings": 264
   },
   "mappings": {
     "b3sum": "b3sum",
@@ -66,6 +66,7 @@
     "bcftools": "bcftools",
     "bchunk": "bchunk",
     "bcpp": "bcpp",
+    "beads": "beads",
     "beancount": "beancount",
     "beanstalkd": "beanstalkd",
     "bear": "bear",
@@ -242,6 +243,7 @@
     "btfs": "btfs",
     "btllib": "btllib",
     "btllib-tools": "btllib",
+    "btm": "bottom",
     "btop": "btop",
     "btpd": "btpd",
     "btrfs-progs": "btrfs-progs",

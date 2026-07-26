@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "aur",
     "shard": "h",
-    "total_mappings": 202
+    "total_mappings": 205
   },
   "mappings": {
     "h2": "h2",
@@ -45,6 +45,7 @@
     "harsh": "harsh",
     "harsh-bin": "harsh",
     "harsh-git": "harsh",
+    "haru": "libharu",
     "has": "has",
     "has-git": "has",
     "hashcash": "hashcash",
@@ -64,7 +65,7 @@
     "hcledit-bin": "hcledit",
     "hcledit-git": "hcledit",
     "hcxtools-git": "hcxtools",
-    "hdf5-git": "hdf5@1.10",
+    "hdf5-git": "hdf5",
     "hdr10plus_tool-git": "hdr10plus_tool",
     "hdrhistogram_c": "hdrhistogram_c",
     "hdrhistogram_c-git": "hdrhistogram_c",
@@ -90,6 +91,7 @@
     "helmsman-git": "helmsman",
     "help2man-git": "help2man",
     "hercules": "hercules",
+    "herdr": "herdr",
     "herdr-bin": "herdr",
     "hermes-agent": "hermes-agent",
     "hevi": "hevi",
@@ -195,6 +197,7 @@
     "hubble-bin": "hubble",
     "huexpress-git": "huexpress",
     "hugo-git": "hugo",
+    "hunk-bin": "hunk",
     "hunspell-git": "hunspell",
     "hut-git": "hut",
     "hwatch": "hwatch",

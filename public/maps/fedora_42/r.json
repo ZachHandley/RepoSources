@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "fedora_42",
     "shard": "r",
-    "total_mappings": 895
+    "total_mappings": 911
   },
   "mappings": {
     "R": "r",
@@ -712,6 +712,12 @@
     "rust-nu": "nushell",
     "rust-nu-debuginfo": "nushell",
     "rust-nu-debugsource": "nushell",
+    "rust-onefetch": "onefetch",
+    "rust-onefetch+default-devel": "onefetch",
+    "rust-onefetch+fail-on-deprecated-devel": "onefetch",
+    "rust-onefetch-debuginfo": "onefetch",
+    "rust-onefetch-debugsource": "onefetch",
+    "rust-onefetch-devel": "onefetch",
     "rust-oxipng": "oxipng",
     "rust-oxipng+binary-devel": "oxipng",
     "rust-oxipng+default-devel": "oxipng",
@@ -804,6 +810,16 @@
     "rust-tokei-debuginfo": "tokei",
     "rust-tokei-debugsource": "tokei",
     "rust-tokei-devel": "tokei",
+    "rust-tree-sitter": "tree-sitter@0.25",
+    "rust-tree-sitter+default-devel": "tree-sitter@0.25",
+    "rust-tree-sitter+std-devel": "tree-sitter@0.25",
+    "rust-tree-sitter-devel": "tree-sitter@0.25",
+    "rust-tree-sitter-go": "tree-sitter-go",
+    "rust-tree-sitter-go+default-devel": "tree-sitter-go",
+    "rust-tree-sitter-go-devel": "tree-sitter-go",
+    "rust-tree-sitter-python": "tree-sitter-python",
+    "rust-tree-sitter-python+default-devel": "tree-sitter-python",
+    "rust-tree-sitter-python-devel": "tree-sitter-python",
     "rust-uucore": "uutils-coreutils",
     "rust-uucore+backup-control-devel": "uutils-coreutils",
     "rust-uucore+base64-simd-devel": "uutils-coreutils",

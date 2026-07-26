@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "centos_stream_9",
     "shard": "s",
-    "total_mappings": 218
+    "total_mappings": 220
   },
   "mappings": {
     "s-nail": "s-nail",
@@ -16,6 +16,7 @@
     "samba-common": "samba",
     "samba-common-libs": "samba",
     "samba-common-tools": "samba",
+    "samba-core-libs": "samba",
     "samba-dc-libs": "samba",
     "samba-dcerpc": "samba",
     "samba-debuginfo": "samba",
@@ -25,6 +26,7 @@
     "samba-krb5-printing": "samba",
     "samba-ldb-ldap-modules": "samba",
     "samba-libs": "samba",
+    "samba-ndr-libs": "samba",
     "samba-pidl": "samba",
     "samba-test": "samba",
     "samba-test-libs": "samba",

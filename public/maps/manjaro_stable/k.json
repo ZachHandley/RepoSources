@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "manjaro_stable",
     "shard": "k",
-    "total_mappings": 59
+    "total_mappings": 60
   },
   "mappings": {
     "k9s": "k9s",
@@ -14,7 +14,6 @@
     "karchive5": "karchive",
     "kbt": "kbt",
     "kcov": "kcov",
-    "kcptun": "kcptun",
     "kcpuid": "linux-headers@6.8",
     "kdoctools": "kdoctools",
     "kdoctools5": "kdoctools",
@@ -25,10 +24,12 @@
     "keyd": "keyd",
     "keystone": "keystone",
     "keyutils": "keyutils",
+    "kfr": "kfr",
     "khal": "khal",
     "khard": "khard",
     "ki18n": "ki18n",
     "ki18n5": "ki18n",
+    "kind": "kind",
     "klavaro": "klavaro",
     "kmod": "kmod",
     "knockd": "knock",

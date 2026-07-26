@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "opensuse_multimedia_libs_tumbleweed",
     "shard": "p",
-    "total_mappings": 71
+    "total_mappings": 69
   },
   "mappings": {
     "pcaudiolib": "pcaudiolib",
@@ -71,8 +71,6 @@
     "python3-mlt": "mlt",
     "python3-ola": "ola",
     "python3-vapoursynth": "vapoursynth",
-    "python311-aubio": "aubio",
-    "python311-caca": "libcaca",
     "python313-aubio": "aubio",
     "python313-caca": "libcaca",
     "python313-lilv": "lilv",

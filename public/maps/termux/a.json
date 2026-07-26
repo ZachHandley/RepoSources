@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "a",
-    "total_mappings": 63
+    "total_mappings": 64
   },
   "mappings": {
     "aalib": "aalib",
@@ -32,6 +32,7 @@
     "apache-orc": "orc-tools",
     "apache2": "httpd",
     "apkeep": "apkeep",
+    "apktool": "apktool",
     "appstream": "appstream",
     "appstream-glib": "appstream-glib",
     "apr": "apr",

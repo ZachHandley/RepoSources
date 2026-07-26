@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "w",
-    "total_mappings": 37
+    "total_mappings": 38
   },
   "mappings": {
     "w3m": "w3m",
@@ -18,6 +18,7 @@
     "wasmtime": "wasmtime",
     "watchexec": "watchexec",
     "wcalc": "w-calc",
+    "wcslib": "wcslib",
     "wdiff": "wdiff",
     "webkit2gtk-4.1": "webkitgtk",
     "webkitgtk-6.0": "webkitgtk",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pureos_amber",
     "shard": "b",
-    "total_mappings": 303
+    "total_mappings": 304
   },
   "mappings": {
     "babeld": "babeld",
@@ -89,6 +89,7 @@
     "bcpp": "bcpp",
     "bcpp-dbg": "bcpp",
     "bcrypt": "bcrypt",
+    "beads": "beads",
     "beancount": "beancount",
     "beanstalkd": "beanstalkd",
     "bear": "bear",

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "wikidata",
     "shard": "c",
-    "total_mappings": 79
+    "total_mappings": 80
   },
   "mappings": {
     "C-Dogs": "cdogs-sdl",
@@ -67,6 +67,7 @@
     "cgdb": "cgdb",
     "cgit": "cgit",
     "chafa": "chafa",
+    "checksec.sh": "checksec",
     "chkrootkit": "chkrootkit",
     "clearlooks-phenix": "clearlooks-phenix",
     "cli53": "cli53",

@@ -1,12 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "arch_testing",
     "shard": "b",
-    "total_mappings": 1
+    "total_mappings": 6
   },
   "mappings": {
+    "bats": "bats-core",
+    "bitcoin": "bitcoin",
+    "bitcoin-daemon": "bitcoin",
+    "bitcoin-qt": "bitcoin",
+    "bitcoin-tx": "bitcoin",
     "bitwarden-cli": "bitwarden-cli"
   }
 }

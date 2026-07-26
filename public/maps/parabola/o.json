@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "parabola",
     "shard": "o",
-    "total_mappings": 149
+    "total_mappings": 147
   },
   "mappings": {
     "oath-toolkit": "oath-toolkit",
@@ -30,7 +30,6 @@
     "oha": "oha",
     "oils-for-unix": "oils-for-unix",
     "ollama": "ollama",
-    "ollama-cuda": "ollama",
     "ollama-docs": "ollama",
     "ollama-rocm": "ollama",
     "ollama-vulkan": "ollama",
@@ -70,9 +69,9 @@
     "openconnect": "openconnect",
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
-    "opencv": "opencv",
-    "opencv-debug": "opencv",
-    "opencv-samples": "opencv",
+    "opencv": "opencv@4",
+    "opencv-debug": "opencv@4",
+    "opencv-samples": "opencv@4",
     "opendbx": "opendbx",
     "opendht": "opendht",
     "openexr": "openexr",
@@ -127,7 +126,6 @@
     "opensearch-store-smb-plugin": "opensearch",
     "openslide": "openslide",
     "openssh": "openssh",
-    "openssh-knock": "openssh",
     "openssl": "openssl@3",
     "openssl-1.0": "openssl@4",
     "opensubdiv": "opensubdiv",

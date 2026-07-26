@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "gnuguix",
     "shard": "g",
-    "total_mappings": 228
+    "total_mappings": 229
   },
   "mappings": {
     "gallery-dl": "gallery-dl",
@@ -156,6 +156,7 @@
     "gocryptfs": "gocryptfs",
     "goffice": "goffice",
     "gofumpt": "gofumpt",
+    "goimapnotify": "goimapnotify",
     "gojq": "gojq",
     "gom": "gom",
     "goocanvas": "goocanvas",

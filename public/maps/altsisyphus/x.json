@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "x",
-    "total_mappings": 163
+    "total_mappings": 165
   },
   "mappings": {
     "x11vnc": "x11vnc",
@@ -99,6 +99,8 @@
     "xorg-dri-intel-debuginfo": "mesa",
     "xorg-dri-nouveau": "mesa",
     "xorg-dri-nouveau-debuginfo": "mesa",
+    "xorg-dri-powervr": "mesa",
+    "xorg-dri-powervr-debuginfo": "mesa",
     "xorg-dri-radeon": "mesa",
     "xorg-dri-radeon-debuginfo": "mesa",
     "xorg-dri-swrast": "mesa",

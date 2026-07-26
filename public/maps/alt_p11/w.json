@@ -1,17 +1,21 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "alt_p11",
     "shard": "w",
-    "total_mappings": 124
+    "total_mappings": 128
   },
   "mappings": {
     "w3m": "w3m",
     "w3m-debuginfo": "w3m",
     "w3m-img": "w3m",
     "w3m-img-debuginfo": "w3m",
+    "wabt": "wabt",
+    "wabt-debuginfo": "wabt",
     "wakeonlan": "wakeonlan",
+    "wal-g": "wal-g",
+    "wal-g-debuginfo": "wal-g",
     "waon": "waon",
     "waon-debuginfo": "waon",
     "watchexec": "watchexec",

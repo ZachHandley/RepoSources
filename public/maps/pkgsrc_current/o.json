@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "pkgsrc_current",
     "shard": "o",
-    "total_mappings": 94
+    "total_mappings": 93
   },
   "mappings": {
     "OpenJPH": "openjph",
@@ -28,7 +28,6 @@
     "ode": "ode",
     "odt2txt": "odt2txt",
     "offlineimap": "offlineimap",
-    "offlineimap3": "offlineimap",
     "ogmtools": "ogmtools",
     "oh-my-posh": "oh-my-posh",
     "oksh": "oksh",
@@ -54,8 +53,8 @@
     "openconnect": "openconnect",
     "opencore-amr": "opencore-amr",
     "opencsg": "opencsg",
-    "opencv": "opencv",
-    "opencv-contrib-face": "opencv",
+    "opencv": "opencv@4",
+    "opencv-contrib-face": "opencv@4",
     "openexr": "openexr",
     "openfst": "openfst",
     "openh264": "openh264",

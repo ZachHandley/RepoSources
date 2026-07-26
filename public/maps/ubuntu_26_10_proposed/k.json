@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "ubuntu_26_10_proposed",
     "shard": "k",
-    "total_mappings": 11
+    "total_mappings": 42
   },
   "mappings": {
     "kallisto": "kallisto",
@@ -17,6 +17,37 @@
     "kea-dhcp-ddns-server": "kea",
     "kea-dhcp4-server": "kea",
     "kea-dhcp6-server": "kea",
-    "kea-doc": "kea"
+    "kea-doc": "kea",
+    "kf6-karchive": "karchive",
+    "kmod": "kmod",
+    "kmod-udeb": "kmod",
+    "knot": "knot",
+    "knot-dnssecutils": "knot",
+    "knot-dnsutils": "knot",
+    "knot-doc": "knot",
+    "knot-exporter": "knot",
+    "knot-host": "knot",
+    "knot-keymgr": "knot",
+    "knot-module-dnstap": "knot",
+    "knot-module-geoip": "knot",
+    "knot-resolver": "knot-resolver",
+    "knot-resolver6": "knot-resolver",
+    "knot-resolver6-dev": "knot-resolver",
+    "knot-resolver6-module-dnstap": "knot-resolver",
+    "knot-resolver6-module-http": "knot-resolver",
+    "kore": "kore",
+    "krb5": "krb5",
+    "krb5-admin-server": "krb5",
+    "krb5-doc": "krb5",
+    "krb5-gss-samples": "krb5",
+    "krb5-k5tls": "krb5",
+    "krb5-kdc": "krb5",
+    "krb5-kdc-ldap": "krb5",
+    "krb5-kpropd": "krb5",
+    "krb5-locales": "krb5",
+    "krb5-multidev": "krb5",
+    "krb5-otp": "krb5",
+    "krb5-pkinit": "krb5",
+    "krb5-user": "krb5"
   }
 }

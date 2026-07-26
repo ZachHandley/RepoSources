@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "mageia_cauldron",
     "shard": "w",
-    "total_mappings": 62
+    "total_mappings": 61
   },
   "mappings": {
     "w3m": "w3m",
     "wavpack": "wavpack",
     "wayland": "wayland",
-    "wayland-doc": "wayland",
     "wayland-protocols": "wayland-protocols",
     "wayland-protocols-devel": "wayland-protocols",
     "wayland-tools": "wayland",

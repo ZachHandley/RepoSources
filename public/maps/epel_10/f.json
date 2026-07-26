@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "epel_10",
     "shard": "f",
-    "total_mappings": 147
+    "total_mappings": 150
   },
   "mappings": {
     "f3": "f3",
@@ -34,6 +34,9 @@
     "fastfetch": "fastfetch",
     "fastfetch-debuginfo": "fastfetch",
     "fastfetch-debugsource": "fastfetch",
+    "fastnetmon": "fastnetmon",
+    "fastnetmon-debuginfo": "fastnetmon",
+    "fastnetmon-debugsource": "fastnetmon",
     "fcgi": "fcgi",
     "fcgi-debuginfo": "fcgi",
     "fcgi-debugsource": "fcgi",

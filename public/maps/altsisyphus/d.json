@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "altsisyphus",
     "shard": "d",
-    "total_mappings": 283
+    "total_mappings": 281
   },
   "mappings": {
     "Decker": "decker",
@@ -57,8 +57,6 @@
     "dc3dd-debuginfo": "dc3dd",
     "dca-apps": "libdca",
     "dca-apps-debuginfo": "libdca",
-    "dcadec": "dcadec",
-    "dcadec-debuginfo": "dcadec",
     "dcfldd": "dcfldd",
     "dcfldd-debuginfo": "dcfldd",
     "dcmtk": "dcmtk",

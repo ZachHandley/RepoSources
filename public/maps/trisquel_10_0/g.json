@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "trisquel_10_0",
     "shard": "g",
-    "total_mappings": 679
+    "total_mappings": 681
   },
   "mappings": {
     "g++-10": "gcc@15",
@@ -98,6 +98,7 @@
     "gcl-doc": "gcl",
     "gcovr": "gcovr",
     "gcr": "gcr",
+    "gcx": "gcx",
     "gdal": "gdal",
     "gdal-bin": "gdal",
     "gdal-data": "gdal",
@@ -320,7 +321,6 @@
     "gitk": "git",
     "gitlab-ci-multi-runner": "gitlab-runner",
     "gitlab-runner": "gitlab-runner",
-    "gitless": "gitless",
     "gitlint": "gitlint",
     "gitweb": "git",
     "giza": "giza",
@@ -627,6 +627,8 @@
     "gsoap-doc": "gsoap",
     "gspell": "gspell",
     "gspell-1-tests": "gspell",
+    "gss-ntlmssp": "gss-ntlmssp",
+    "gss-ntlmssp-dev": "gss-ntlmssp",
     "gssdp": "gssdp",
     "gssdp-tools": "gssdp",
     "gstreamer1.0": "gstreamer",

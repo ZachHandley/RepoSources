@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "termux",
     "shard": "r",
-    "total_mappings": 54
+    "total_mappings": 55
   },
   "mappings": {
     "rabbitmq-server": "rabbitmq",
@@ -29,6 +29,7 @@
     "recutils": "recutils",
     "redir": "redir",
     "redis": "redis",
+    "redland": "redland",
     "remind": "remind",
     "renameutils": "renameutils",
     "restic": "restic",

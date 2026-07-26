@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "freebsd",
     "shard": "a",
-    "total_mappings": 494
+    "total_mappings": 493
   },
   "mappings": {
     "ALPSCore": "alpscore",
@@ -137,7 +137,6 @@
     "archivers/kf5-karchive": "karchive",
     "archivers/kf6-karchive": "karchive",
     "archivers/laszip": "laszip",
-    "archivers/lbzip2": "lbzip2",
     "archivers/lhasa": "lhasa",
     "archivers/libarchive": "libarchive",
     "archivers/libdeflate": "libdeflate",

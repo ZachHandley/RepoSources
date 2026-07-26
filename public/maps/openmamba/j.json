@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "openmamba",
     "shard": "j",
@@ -17,7 +17,7 @@
     "java-jxl": "jpeg-xl",
     "java-libbluray": "libbluray",
     "java-nlopt": "nlopt",
-    "java-opencv": "opencv",
+    "java-opencv": "opencv@4",
     "java-subversion": "subversion",
     "javacc": "javacc",
     "javacc-demo": "javacc",

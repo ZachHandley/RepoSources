@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "nix_stable_24_11",
     "shard": "f",
-    "total_mappings": 220
+    "total_mappings": 219
   },
   "mappings": {
     "Fabric": "fabric",
@@ -201,7 +201,6 @@
     "fribidi": "fribidi",
     "fricas": "fricas",
     "frotz": "frotz",
-    "frugal": "frugal",
     "fs-uae": "fs-uae",
     "fselect": "fselect",
     "fsql": "fsql",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T18:17:26Z",
+    "generated_at": "2026-07-26T04:33:41Z",
     "source": "repology-dump",
     "distro": "archpower_riscv64",
     "shard": "p",
@@ -174,7 +174,7 @@
     "python-numpy": "numpy",
     "python-olm": "libolm",
     "python-openbabel": "open-babel",
-    "python-opencv": "opencv",
+    "python-opencv": "opencv@4",
     "python-packaging": "python-packaging",
     "python-pillow": "pillow",
     "python-poetry": "poetry",
